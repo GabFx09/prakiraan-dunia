@@ -21,6 +21,12 @@ SYMBOLS = {
     "ust10": ("^TNX", "Obligasi AS 10 thn"),
     "btc": ("BTC-USD", "Bitcoin"),
 }
+# Watchlist: large, liquid stocks (data only, not recommendations). Edit freely.
+STOCKS = {
+    "BBCA.JK": "Bank Central Asia", "BBRI.JK": "Bank Rakyat Indonesia", "BMRI.JK": "Bank Mandiri",
+    "TLKM.JK": "Telkom Indonesia", "ASII.JK": "Astra International", "ANTM.JK": "Aneka Tambang",
+    "NVDA": "Nvidia", "AAPL": "Apple", "MSFT": "Microsoft", "GOOGL": "Alphabet",
+}
 HOSTS = ["https://query1.finance.yahoo.com", "https://query2.finance.yahoo.com"]
 UA = "Mozilla/5.0"
 
@@ -72,6 +78,7 @@ def fetch(symbol):
                     "chg": round((price / prev - 1) * 100, 2) if prev else None,
                     "time": datetime.fromtimestamp(meta.get("regularMarketTime", time.time()), timezone.utc).isoformat().replace("+00:00", "Z"),
                     "series": series[-130:],
+                    "currency": meta.get("currency"),
                 }
             except Exception as e:  # noqa: BLE001 - keep trying other hosts
                 last_err = e
@@ -102,15 +109,29 @@ def main():
     if not quotes:
         raise SystemExit("No market data fetched: " + "; ".join(errors))
 
+    stocks = {}
+    for sym, name in STOCKS.items():
+        try:
+            q = fetch(sym)
+            q.update({"symbol": sym, "name": name, "ok": True})
+            stocks[sym] = q
+        except Exception as e:  # noqa: BLE001
+            errors.append(str(e))
+            prev = old.get("stocks", {}).get(sym)
+            if prev:
+                prev["ok"] = False
+                stocks[sym] = prev
+
     out = {
         "updatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "source": "Yahoo Finance (data dapat tertunda hingga 15 menit)",
         "quotes": quotes,
+        "stocks": stocks,
         "errors": errors,
     }
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
-    print(f"ok: {len(quotes) - len(errors)}/{len(SYMBOLS)} fresh", *errors, sep="\n")
+    print(f"ok: {len(quotes) + len(stocks) - len(errors)}/{len(SYMBOLS) + len(STOCKS)} fresh", *errors, sep="\n")
 
 
 if __name__ == "__main__":

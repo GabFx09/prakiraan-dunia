@@ -53,6 +53,11 @@ def main(path):
     b = d.get("brief")
     if b is not None and (not isinstance(b.get("points"), list) or not (1 <= len(b["points"]) <= 6)):
         fail("brief.points harus 1-6 butir")
+    for e in d.get("calendar", []) or []:
+        if not e.get("d") or not e.get("t") or e.get("imp", "sedang") not in ("tinggi", "sedang", "rendah"):
+            fail(f"kalender tidak valid: {e}")
+        if e.get("url") and not str(e["url"]).startswith("https://"):
+            fail(f"kalender url harus https: {e.get('t')}")
     for a in d["assets"]:
         if len(a.get("s", [])) != 6 or not set(a["s"]) <= STANCES:
             fail(f"aset '{a.get('n')}' punya sikap tidak valid")

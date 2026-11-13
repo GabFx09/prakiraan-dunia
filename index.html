@@ -226,6 +226,23 @@ td.asset small { color: var(--dim); font-size: 11.5px; }
 #sigtable { min-width: 640px; }
 #corr { min-width: 460px; }
 #fctable { min-width: 720px; }
+#stocktable { min-width: 720px; }
+#bttable { min-width: 520px; }
+.star { background: transparent; border: 0; cursor: pointer; font-size: 15px; color: var(--dim); padding: 0 4px; }
+.star[aria-pressed="true"] { color: var(--amber); }
+.cal { display: grid; gap: 0; }
+.cal-day { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 12px; padding: 9px 0; border-bottom: 1px dashed var(--line); }
+.cal-day:last-child { border-bottom: 0; }
+.cal-day > time { font: 700 12px var(--mono); color: var(--amber); }
+.cal-day.today > time { color: var(--green); }
+.cal-ev { display: grid; grid-template-columns: 52px minmax(0, 1fr) auto; gap: 8px; align-items: baseline; font-size: 13px; padding: 2px 0; }
+.cal-ev .tm { font: 11px var(--mono); color: var(--dim); }
+.cal-ev a { color: var(--text); text-decoration: none; }
+.cal-ev a:hover { color: var(--amber); }
+.tag.tinggi { background: var(--red-bg); color: var(--red); }
+.tag.sedang { background: var(--yellow-bg); color: var(--yellow); }
+.tag.rendah { background: var(--line); color: var(--dim); }
+@media (max-width: 520px) { .cal-day { grid-template-columns: minmax(0, 1fr); gap: 4px; } }
 
 .sig-grid { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 12px; }
 
@@ -450,6 +467,14 @@ footer b { color: var(--amber); }
   <div class="pb"><div class="drivers" id="drivers"></div></div>
 </section>
 
+<section class="panel" id="kalender">
+  <div class="ph"><h2><span class="code">[K]</span>KALENDER EKONOMI</h2><span class="meta">30 hari ke depan · tanggal dicek agen Claude · waktu dalam WIB</span></div>
+  <div class="pb">
+    <div class="cal" id="cal"></div>
+    <p class="dim" style="font-size:11.5px">Agenda hari ini dan besok juga masuk ke ringkasan pagi di aplikasi Kabar. Jadwal resmi bisa berubah; cek sumbernya sebelum mengambil keputusan.</p>
+  </div>
+</section>
+
 <section class="panel" id="prakiraan">
   <div class="ph"><h2><span class="code">[3]</span>PRAKIRAAN PER PERIODE</h2><span class="meta">skenario dasar · optimis · pesimis</span></div>
   <div class="pb">
@@ -465,6 +490,15 @@ footer b { color: var(--amber); }
     <div class="cycles" id="cycles"></div>
     <span class="sub">Kalender siklus</span>
     <div class="timeline" id="timeline"></div>
+  </div>
+</section>
+
+<section class="panel" id="saham">
+  <div class="ph"><h2><span class="code">[S]</span>PANTAUAN SAHAM</h2><span class="meta" id="m-saham">saham besar Indonesia &amp; AS · data, bukan rekomendasi</span></div>
+  <div class="pb">
+    <p class="lede">Sinyal teknikal untuk saham-saham besar yang paling likuid. Tandai ★ untuk menaruh saham di daftar pantau pribadi Anda (paling atas, tersimpan di perangkat ini). Klik kode untuk grafik dan detail, atau buat peringatan harga di panel [A].</p>
+    <div class="row"><div class="topics" id="stock-filter"></div></div>
+    <div class="tw"><table id="stocktable"></table></div>
   </div>
 </section>
 
@@ -556,6 +590,9 @@ footer b { color: var(--amber); }
     <p class="lede">Prakiraan yang baik harus bisa diuji. Setiap rentang harga skenario dasar dicatat dengan tanggal jatuh tempo, lalu GitHub Actions mengeceknya otomatis dengan harga penutupan sebenarnya. Karena skenario dasar berpeluang sekitar 50–55%, rentangnya semestinya kena sekitar separuh waktu. Jauh di atas itu berarti terlalu hati-hati; jauh di bawah berarti terlalu yakin.</p>
     <div class="scoreboard" id="score"></div>
     <div class="tw"><table id="fctable"></table></div>
+    <span class="sub">Uji historis metode rentang volatilitas (6 bulan terakhir)</span>
+    <p class="dim" style="font-size:12px">Sebagai pembanding: rentang yang dibuat otomatis dari volatilitas 30 hari, dengan keyakinan 55% (sama dengan skenario dasar), diuji pada setiap hari dalam data 6 bulan. Metode yang terkalibrasi baik semestinya kena sekitar 55%. Sampel masih kecil dan saling tumpang tindih, jadi baca sebagai arah, bukan angka pasti. Rentang dasar hari ini dipakai agen sebagai titik awal prakiraannya.</p>
+    <div class="tw"><table id="bttable"></table></div>
   </div>
 </section>
 
@@ -643,7 +680,9 @@ const SECTIONS = [
   ["A", "PERINGATAN", "peringatan", ["PERINGATAN", "ALERT", "NOTIF", "NOTIFIKASI"]],
   ["2", "BERITA", "berita", ["BERITA", "NEWS", "PENGGERAK"]],
   ["3", "PRAKIRAAN", "prakiraan", ["PRAKIRAAN", "SKENARIO", "FORECAST"]],
-  ["4", "SIKLUS", "siklus", ["SIKLUS", "CYCLE", "KALENDER"]],
+  ["K", "KALENDER", "kalender", ["KALENDER", "AGENDA", "JADWAL", "CALENDAR"]],
+  ["4", "SIKLUS", "siklus", ["SIKLUS", "CYCLE"]],
+  ["S", "SAHAM", "saham", ["SAHAM", "STOCK", "STOCKS", "WATCHLIST", "PANTAU"]],
   ["5", "SINYAL", "sinyal", ["SINYAL", "TEKNIKAL", "KORELASI", "CORR"]],
   ["P", "PORTOFOLIO", "portofolio", ["PORTOFOLIO", "PORTFOLIO", "SAYA", "REBALANCE"]],
   ["6", "SIMULASI", "simulasi", ["SIM", "SIMULASI", "MONTE", "STRES", "STRESS"]],
@@ -673,7 +712,7 @@ const PRESETS = [
 ];
 
 // ===== state =====
-let S = null, MKT = null, CG = null, FC = null, HL = null, AL = null, topic = "semua";
+let S = null, MKT = null, CG = null, FC = null, HL = null, AL = null, BT = null, topic = "semua", stockMkt = "semua";
 let current = "1b", profile = "moderat", custom = { ...PROFILES.moderat.w };
 let seed = 20261113, sim = null, lastModel = "", detailKey = null;
 try { const v = localStorage.getItem("pd-horizon"); if (v) current = v; } catch {}
@@ -683,12 +722,14 @@ try { const v = JSON.parse(localStorage.getItem("pd-custom") || "null"); if (v &
 // ===== market helpers =====
 function quoteOf(key) {
   if (key === "btc" && CG?.price) return { ...(MKT?.quotes?.btc || {}), price: CG.price, chg: CG.chg, span: "24j" };
-  const q = MKT?.quotes?.[key];
+  const q = MKT?.quotes?.[key] || MKT?.stocks?.[key];
   return q && q.price != null ? q : null;
 }
 const goodWhenUp = (k) => !["usdidr", "ust10", "brent"].includes(k);
 function fmtQuote(k, p) {
   if (p == null || !isFinite(p)) return "—";
+  const st = MKT?.stocks?.[k];
+  if (st) return st.currency === "IDR" ? "Rp " + nf(p) : "$" + nf(p, 2);
   if (k === "ust10") return nf(p, 2) + "%";
   if (k === "brent") return "$" + nf(p, 2);
   if (k === "gold" || k === "btc") return "$" + nf(p);
@@ -975,6 +1016,59 @@ $("pf-use").addEventListener("click", () => {
   say("Simulasi kini memakai portofolio Anda.");
 });
 $("pf-clear").addEventListener("click", () => { HOLD = {}; try { localStorage.removeItem("pd-hold"); } catch {} $("pf-inputs").dataset.built = ""; renderPortfolio(); });
+
+// ===== [S] stock watchlist =====
+let FAV = [];
+try { FAV = JSON.parse(localStorage.getItem("pd-fav") || "[]") || []; } catch {}
+function registerStocks() {
+  for (const [sym, q] of Object.entries(MKT?.stocks || {})) {
+    if (ASSET[sym]) continue;
+    const code = sym.replace(/\.JK$/, "");
+    ASSET[sym] = { code, n: q.name || code, cyc: sym.endsWith(".JK") ? "ihsg" : "spx", alias: [code, sym.toUpperCase()], stock: true };
+    const opt = document.createElement("option"); opt.value = sym; opt.textContent = `${code} · ${q.name || code}`; $("pa-key").append(opt);
+  }
+}
+function renderStocks() {
+  const all = Object.keys(MKT?.stocks || {});
+  if (!all.length) { $("stocktable").innerHTML = `<tbody><tr><td class="dim">Data saham muncul setelah pengambilan harga berikutnya.</td></tr></tbody>`; return; }
+  const F = { semua: "Semua", id: "Indonesia", us: "AS", fav: "★ Pantauan saya" };
+  $("stock-filter").innerHTML = Object.entries(F).map(([k, v]) => `<button type="button" data-f="${k}" aria-pressed="${k === stockMkt}">${v}</button>`).join("");
+  let list = all.filter((s) => stockMkt === "semua" || (stockMkt === "id" ? s.endsWith(".JK") : stockMkt === "us" ? !s.endsWith(".JK") : FAV.includes(s)));
+  list.sort((a, b) => (FAV.includes(b) - FAV.includes(a)) || a.localeCompare(b));
+  $("stocktable").innerHTML = `<thead><tr><th></th><th>Kode</th><th>Nama</th><th class="r">Harga</th><th class="r">Hari ini</th><th>Tren</th><th class="r">RSI14</th><th class="r">Mom. 20h</th><th class="r">Dari puncak</th><th class="r">Vol/thn</th></tr></thead><tbody>${list.map((s) => {
+    const q = MKT.stocks[s], t = tech(s), [cls, lab] = t ? TREND[t.trend] : ["t-mix", "—"];
+    return `<tr><td><button class="star" type="button" data-star="${esc(s)}" aria-pressed="${FAV.includes(s)}" aria-label="Pantau ${esc(ASSET[s]?.code || s)}">★</button></td><td class="code" data-key="${esc(s)}" tabindex="0" role="button">${esc(ASSET[s]?.code || s)}</td><td>${esc(q.name)}</td><td class="r">${fmtQuote(s, q.price)}</td><td class="r ${dirCls(s, q.chg)}">${chgText(s, q)}</td><td><span class="tag ${cls}">${lab}</span></td><td class="r ${t?.rsi >= 70 ? "down" : t?.rsi <= 30 ? "up" : ""}">${t?.rsi == null ? "—" : nf(t.rsi, 0)}</td><td class="r ${t?.mom > 0 ? "up" : "down"}">${t ? spct(t.mom) : "—"}</td><td class="r ${t?.dd < -0.1 ? "down" : "dim"}">${t ? spct(t.dd) : "—"}</td><td class="r">${t ? pct(t.vol, 0) : "—"}</td></tr>`;
+  }).join("") || `<tr><td colspan="10" class="dim">Belum ada saham di daftar pantau. Tekan ★ di tab Semua.</td></tr>`}</tbody>`;
+  $("m-saham").textContent = `${all.length} saham · data ${MKT?.updatedAt ? ago(MKT.updatedAt) : ""} · bukan rekomendasi`;
+}
+$("saham").addEventListener("click", (e) => {
+  const f = e.target.closest("[data-f]"); if (f) { stockMkt = f.dataset.f; renderStocks(); return; }
+  const st = e.target.closest("[data-star]");
+  if (st) { const s = st.dataset.star; FAV = FAV.includes(s) ? FAV.filter((x) => x !== s) : [...FAV, s]; try { localStorage.setItem("pd-fav", JSON.stringify(FAV)); } catch {} renderStocks(); return; }
+  const c = e.target.closest("[data-key]"); if (c) openDetail(c.dataset.key);
+});
+$("saham").addEventListener("keydown", (e) => { if (e.key === "Enter") { const c = e.target.closest("[data-key]"); if (c) openDetail(c.dataset.key); } });
+
+// ===== [K] economic calendar =====
+function renderCalendar() {
+  const today = new Date(Date.now() + 7 * 3600e3).toISOString().slice(0, 10);
+  const end = new Date(Date.now() + 31 * 86400e3).toISOString().slice(0, 10);
+  const ev = [...(S.calendar || [])].filter((e) => e.d >= today && e.d <= end).sort((a, b) => (a.d + (a.time || "")).localeCompare(b.d + (b.time || "")));
+  const byDay = {}; ev.forEach((e) => { (byDay[e.d] = byDay[e.d] || []).push(e); });
+  const label = (d) => { const x = new Date(d + "T00:00:00Z"); return x.toLocaleDateString("id-ID", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" }); };
+  $("cal").innerHTML = ev.length ? Object.entries(byDay).map(([d, list]) => `<div class="cal-day${d === today ? " today" : ""}"><time datetime="${esc(d)}">${d === today ? "HARI INI · " : ""}${esc(label(d))}</time><div>${list.map((e) => {
+    const t = /^https:\/\//.test(e.url || "") ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.t)}</a>` : esc(e.t);
+    return `<div class="cal-ev"><span class="tm">${esc(e.time || "—")}</span><span>${e.c ? `<b class="mono" style="color:var(--cyan);font-size:11px">${esc(e.c)}</b> ` : ""}${t}</span><span class="tag ${esc(e.imp || "sedang")}">${esc(e.imp || "sedang")}</span></div>`;
+  }).join("")}</div></div>`).join("") : `<p class="dim">Kalender sedang disusun agen Claude. Sementara itu, lihat kalender siklus di panel [4].</p>`;
+}
+
+// ===== backtest table =====
+function renderBacktest() {
+  const cov = BT?.coverage || {}, bands = BT?.bands || {};
+  const keys = KEYS.filter((k) => cov[k]);
+  const cell = (c) => { if (!c || !c.total) return `<td class="r dim">—</td>`; const off = Math.abs(c.rate - 0.55); return `<td class="r ${off <= 0.12 ? "up" : off <= 0.25 ? "" : "down"}">${pct(c.rate, 0)} <span class="dim">(${c.hit}/${c.total})</span></td>`; };
+  $("bttable").innerHTML = keys.length ? `<thead><tr><th>Aset</th><th class="r">Kena · 1 bln</th><th class="r">Kena · 3 bln</th><th class="r">Rentang dasar 1 bln</th><th class="r">Rentang dasar 3 bln</th></tr></thead><tbody>${keys.map((k) => `<tr><td class="code" data-key="${k}">${ASSET[k].code}</td>${cell(cov[k]["1b"])}${cell(cov[k]["3b"])}<td class="r dim">${bands[k]?.["1b"] ? fmtQuote(k, bands[k]["1b"][0]) + "–" + fmtQuote(k, bands[k]["1b"][1]) : "—"}</td><td class="r dim">${bands[k]?.["3b"] ? fmtQuote(k, bands[k]["3b"][0]) + "–" + fmtQuote(k, bands[k]["3b"][1]) : "—"}</td></tr>`).join("")}</tbody>` : `<tbody><tr><td class="dim">Uji historis muncul setelah pengambilan harga berikutnya.</td></tr></tbody>`;
+}
 
 // ===== [2] news & drivers =====
 function renderWire() {
@@ -1357,7 +1451,7 @@ $("ask").onclick = async () => {
 // ===== render all =====
 function renderAll(flash) {
   if (!S?.model?.assets?.length) return;
-  renderLive(); renderTicker(); renderTop(); renderWire(); renderFlow(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); renderTrack(); renderDetail(); renderPortfolio(); renderPA();
+  renderLive(); renderTicker(); renderTop(); renderWire(); renderFlow(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); registerStocks(); renderTrack(); renderBacktest(); renderStocks(); renderCalendar(); renderDetail(); renderPortfolio(); renderPA();
   const key = JSON.stringify([S.model, (S.horizons || []).map((h) => (h.sc || []).map((s) => s.p))]);
   if (key !== lastModel || !sim) { lastModel = key; runSim(); }
   if (flash) { const el = $("kondisi"); el.classList.remove("flash"); void el.offsetWidth; el.classList.add("flash"); }
@@ -1372,13 +1466,14 @@ async function getJSON(name) {
   return null;
 }
 async function refresh(first) {
-  const [snap, mkt, fc, hl, al] = await Promise.all([getJSON("snapshot.json"), getJSON("market.json"), getJSON("forecasts.json"), getJSON("headlines.json"), getJSON("alerts.json")]);
+  const [snap, mkt, fc, hl, al, bt] = await Promise.all([getJSON("snapshot.json"), getJSON("market.json"), getJSON("forecasts.json"), getJSON("headlines.json"), getJSON("alerts.json"), getJSON("backtest.json")]);
   let changed = false;
   if (snap?.model?.assets?.length) { changed = !S || snap.updatedAt !== S.updatedAt; S = snap; }
   if (mkt?.quotes) { changed = changed || !MKT || mkt.updatedAt !== MKT.updatedAt; MKT = mkt; }
   if (fc?.items) { changed = changed || !FC || fc.updatedAt !== FC.updatedAt; FC = fc; }
   if (hl?.items) { changed = changed || !HL || hl.updatedAt !== HL.updatedAt; HL = hl; }
   if (al?.items) { const ch = !AL || al.updatedAt !== AL.updatedAt; AL = al; if (ch) { renderAlerts(); checkNewAlerts(); } }
+  if (bt?.coverage) { changed = changed || !BT || bt.updatedAt !== BT.updatedAt; BT = bt; }
   if (S) checkPA();
   if (S && (changed || first)) renderAll(!first && changed);
   renderLive();

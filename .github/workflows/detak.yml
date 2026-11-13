@@ -1,0 +1,32 @@
+name: Detak 15 menit
+
+# GitHub's cron never fired for this repo, so this heartbeat keeps prices,
+# headlines and alerts fresh: each run starts "Harga pasar", waits ~15 minutes,
+# then starts the next heartbeat. Only one heartbeat runs at a time; if the
+# chain ever stops, the next "Harga pasar" run restarts it.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7 */2 * * *"
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: detak
+  cancel-in-progress: true
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Jalankan pembaruan harga
+        run: gh workflow run market.yml -R "$GITHUB_REPOSITORY"
+      - name: Tunggu 15 menit
+        run: sleep 870
+      - name: Detak berikutnya
+        run: gh workflow run detak.yml -R "$GITHUB_REPOSITORY"
