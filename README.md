@@ -46,3 +46,11 @@ claude-artifact/               versi untuk claude.ai
 ## Penafian
 
 Bukan nasihat keuangan dan bukan ajakan membeli atau menjual. Prakiraan dan simulasi adalah skenario berbasis asumsi yang sebagian ditulis oleh AI dan bisa keliru. Situs ini tidak terdaftar atau diawasi OJK.
+
+## Keamanan pengiriman Kabar
+
+Token Kabar hanya dipakai di job `kirim` (mesin terpisah) setelah sidik jari SHA-256 `scripts/alerts.py`, `scripts/daily_brief.py`, dan `scripts/health.py` cocok dengan nilai di `.github/workflows/market.yml`. Setelah mengubah salah satu skrip itu, perbarui sidik jarinya:
+
+```bash
+for f in alerts daily_brief health; do sha256sum scripts/$f.py; done
+```

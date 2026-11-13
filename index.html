@@ -361,6 +361,31 @@ textarea { font-family: var(--sans); }
 @media (max-width: 900px) { .alerts-grid, .pf-grid { grid-template-columns: minmax(0, 1fr); } }
 @media (max-width: 520px) { .pa-form { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
 
+/* simple mode */
+body:not(.simple) #sederhana { display: none; }
+body.simple .cmdline, body.simple .cmd-out, body.simple .fnbar, body.simple #detail, body.simple .ticker { display: none; }
+body.simple main.grid > section:not(#sederhana):not(#peringatan):not(#kalender) { display: none; }
+#sederhana .pb { gap: 16px; }
+.weather { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 16px; align-items: center; border: 1px solid var(--line2); padding: 14px 16px; background: var(--bg); }
+.weather .w-icon { font-size: 44px; line-height: 1; }
+.weather .w-t { font: 800 22px var(--mono); text-transform: uppercase; }
+.weather p { color: var(--dim); font-size: 14px; }
+.easy h3 { font: 700 12px var(--mono); color: var(--amber); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 6px; }
+.easy ul { margin: 0; padding-left: 18px; display: grid; gap: 5px; font-size: 14.5px; }
+.easy-prices { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 8px; }
+.easy-prices div { border: 1px solid var(--line); padding: 9px 11px; display: grid; gap: 2px; }
+.easy-prices span { font-size: 12px; color: var(--dim); }
+.easy-prices b { font: 600 17px var(--mono); }
+.easy-prices em { font-style: normal; font-size: 12.5px; }
+.stance { display: grid; gap: 0; border: 1px solid var(--line); }
+.stance div { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr) minmax(0, 1fr); gap: 10px; padding: 9px 11px; border-bottom: 1px solid var(--line); font-size: 13.5px; align-items: center; }
+.stance div:last-child { border-bottom: 0; }
+.stance .hd { font: 500 10.5px var(--mono); color: var(--dim); text-transform: uppercase; background: var(--panel2); }
+.say { font-size: 13px; }
+.say.add { color: var(--green); } .say.hold { color: var(--text); } .say.care { color: var(--yellow); } .say.cut { color: var(--red); }
+#mode-btn { padding: 3px 9px; font-size: 11px; }
+@media (max-width: 520px) { .stance div { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } .stance div > :first-child { grid-column: 1 / -1; font-weight: 600; } }
+
 footer { margin-top: 18px; font: 11px var(--mono); color: var(--dim); display: flex; flex-wrap: wrap; gap: 6px 16px; justify-content: space-between; }
 footer b { color: var(--amber); }
 
@@ -390,7 +415,7 @@ footer b { color: var(--amber); }
 <header class="status">
   <div class="brand"><h1>PRAKIRAAN//DUNIA<span class="cur"></span></h1><span class="tag">terminal skenario &amp; siklus · investor Rupiah</span></div>
   <div class="clocks" id="clocks"></div>
-  <span style="display:flex;gap:8px;align-items:center"><button class="btn pri" type="button" id="install" hidden style="padding:3px 9px;font-size:11px">⤓ Pasang aplikasi</button><span class="livepill mono" id="livepill" data-s="off"><span class="dot"></span><span id="livelabel">MEMUAT</span></span></span>
+  <span style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><button class="btn" type="button" id="mode-btn" aria-pressed="false">Mode sederhana</button><button class="btn pri" type="button" id="install" hidden style="padding:3px 9px;font-size:11px">⤓ Pasang aplikasi</button><span class="livepill mono" id="livepill" data-s="off"><span class="dot"></span><span id="livelabel">MEMUAT</span></span></span>
 </header>
 
 <div class="ticker" aria-label="Pita harga"><div class="ticker-track" id="ticker"></div></div>
@@ -408,6 +433,25 @@ footer b { color: var(--amber); }
 <section id="detail" hidden aria-live="polite"></section>
 
 <main class="grid">
+
+<section class="panel" id="sederhana">
+  <div class="ph"><h2><span class="code">[★]</span>RINGKAS UNTUK SEMUA ORANG</h2><span class="meta" id="m-easy"></span></div>
+  <div class="pb easy">
+    <div class="weather" id="easy-weather"></div>
+    <div><h3>Yang sedang terjadi</h3><ul id="easy-brief"></ul></div>
+    <div><h3>Harga penting hari ini</h3><div class="easy-prices" id="easy-prices"></div></div>
+    <div><h3>Sikap per jenis investasi</h3><div class="stance" id="easy-stance"></div><p class="dim" style="font-size:12px;margin-top:6px">"Tambah pelan-pelan" berarti menambah sedikit demi sedikit setiap bulan, bukan sekaligus. Ini gambaran umum, bukan saran pribadi.</p></div>
+    <div><h3>Agenda penting terdekat</h3><ul id="easy-agenda"></ul></div>
+    <div><h3>Aturan aman</h3><ul>
+      <li>Simpan dulu dana darurat 6 bulan pengeluaran sebelum berinvestasi.</li>
+      <li>Jangan pakai utang atau pinjol untuk investasi.</li>
+      <li>Sebar ke beberapa jenis investasi, jangan semua di satu tempat.</li>
+      <li>Masuk sedikit demi sedikit; jangan panik saat harga turun.</li>
+    </ul></div>
+    <div class="row"><button class="btn pri" type="button" id="easy-full">Lihat versi lengkap</button><span class="dim" style="font-size:12px">Bukan nasihat keuangan. Situs ini tidak diawasi OJK.</span></div>
+  </div>
+</section>
+
 
 <section class="panel" id="kondisi">
   <div class="ph"><h2><span class="code">[1]</span>RISIKO GLOBAL</h2><span class="meta" id="m-kondisi"></span></div>
@@ -1425,6 +1469,8 @@ $("cmdform").addEventListener("submit", (e) => {
   if (!raw) return;
   if (["BANTU", "HELP", "?", "MENU"].includes(raw)) { say(HELP); return; }
   if (["TUTUP", "CLOSE", "ESC"].includes(raw)) { closeDetail(); say("Detail ditutup."); return; }
+  if (["SEDERHANA", "SIMPLE", "MUDAH"].includes(raw)) { setMode(true); return; }
+  if (["LENGKAP", "FULL", "TERMINAL"].includes(raw)) { setMode(false); return; }
   if (["PASANG", "INSTALL", "UNDUH", "DOWNLOAD", "APP"].includes(raw)) { doInstall(); return; }
   const ak = Object.keys(ASSET).find((k) => ASSET[k].alias.includes(raw));
   if (ak) { openDetail(ak); say(`Membuka <b>${ASSET[ak].code}</b> · ${esc(ASSET[ak].n)}`); return; }
@@ -1470,9 +1516,47 @@ $("ask").onclick = async () => {
 };
 
 // ===== render all =====
+// ===== simple mode =====
+const SAY = { add: "Tambah pelan-pelan", hold: "Tahan dulu", care: "Hati-hati", cut: "Kurangi" };
+const EASY_ROWS = [0, 2, 3, 7, 4, 9]; // deposito, SBN, emas, saham bank RI, saham AS, Bitcoin
+function renderSimple() {
+  if (!S) return;
+  const r = +S.risk || 0;
+  const w = r >= 75 ? ["⛈", "Badai", "var(--red)"] : r >= 55 ? ["🌧", "Mendung, waspada", "var(--yellow)"] : r >= 35 ? ["⛅", "Berawan", "var(--amber)"] : ["☀", "Cerah", "var(--green)"];
+  $("easy-weather").innerHTML = `<span class="w-icon" aria-hidden="true">${w[0]}</span><div style="display:grid;gap:4px"><span class="sub">Cuaca pasar dunia hari ini · risiko ${r}/100</span><span class="w-t" style="color:${w[2]}">${w[1]}</span><p>${esc(S.regimeText || "")}</p></div>`;
+  $("easy-brief").innerHTML = (S.brief?.points || []).map((x) => `<li>${esc(x)}</li>`).join("") || `<li class="dim">Ringkasan akan muncul setelah update agen berikutnya.</li>`;
+  const word = (c) => c == null ? "" : c > 0.05 ? `naik ${nf(Math.abs(c), 1)}%` : c < -0.05 ? `turun ${nf(Math.abs(c), 1)}%` : "stabil";
+  const items = [];
+  const ih = quoteOf("ihsg"); if (ih) items.push(["Saham Indonesia (IHSG)", fmtQuote("ihsg", ih.price), ih.chg, true]);
+  const an = MKT?.local?.antam; if (an?.price) items.push(["Emas Antam 1 gram", "Rp " + nf(an.price), an.chg, true]);
+  const fx = quoteOf("usdidr"); if (fx) items.push(["1 dolar AS", "Rp " + nf(fx.price), fx.chg, false]);
+  const bt = quoteOf("btc"); if (bt && fx) items.push(["Bitcoin", "Rp " + nf((bt.price * fx.price) / 1e6, 0) + " jt", bt.chg, true]);
+  $("easy-prices").innerHTML = items.map(([n, v, c, up]) => `<div><span>${esc(n)}</span><b>${esc(v)}</b><em class="${c == null || Math.abs(c) < 0.05 ? "flat" : (c > 0) === up ? "up" : "down"}">${word(c)} hari ini${n === "1 dolar AS" && c > 0.05 ? " (rupiah melemah)" : n === "1 dolar AS" && c < -0.05 ? " (rupiah menguat)" : ""}</em></div>`).join("");
+  const A = S.assets || [], H = S.horizons || [];
+  const i1 = H.findIndex((x) => x.id === "1b"), i12 = H.findIndex((x) => x.id === "1t");
+  $("easy-stance").innerHTML = `<div class="hd"><span>Jenis investasi</span><span>1 bulan ke depan</span><span>1 tahun ke depan</span></div>` + EASY_ROWS.filter((i) => A[i]).map((i) => { const a = A[i], s1 = a.s?.[i1], s2 = a.s?.[i12]; return `<div><span>${esc(a.n.split("(")[0].trim())}</span><span class="say ${esc(s1)}">${SAY[s1] || "—"}</span><span class="say ${esc(s2)}">${SAY[s2] || "—"}</span></div>`; }).join("");
+  const today = new Date(Date.now() + 7 * 3600e3).toISOString().slice(0, 10);
+  const ev = (S.calendar || []).filter((e) => e.d >= today).sort((a, b) => (a.d + (a.time || "")).localeCompare(b.d + (b.time || ""))).filter((e) => e.imp === "tinggi").slice(0, 4);
+  $("easy-agenda").innerHTML = ev.length ? ev.map((e) => `<li><b class="mono">${esc(new Date(e.d + "T00:00:00Z").toLocaleDateString("id-ID", { weekday: "long", day: "numeric", month: "long", timeZone: "UTC" }))}</b>: ${esc(e.t)}</li>`).join("") : `<li class="dim">Belum ada agenda besar dalam waktu dekat.</li>`;
+  $("m-easy").textContent = S.updatedAt ? "diperbarui " + ago(S.updatedAt) : "";
+}
+let simple = false;
+try { const m = localStorage.getItem("pd-mode"); simple = m ? m === "simple" : innerWidth < 760; } catch { simple = innerWidth < 760; }
+function setMode(s, save = true) {
+  simple = s;
+  document.body.classList.toggle("simple", s);
+  $("mode-btn").textContent = s ? "Mode lengkap" : "Mode sederhana";
+  $("mode-btn").setAttribute("aria-pressed", String(s));
+  if (save) { try { localStorage.setItem("pd-mode", s ? "simple" : "full"); } catch {} }
+  if (!s) requestAnimationFrame(() => drawFan());
+}
+$("mode-btn").addEventListener("click", () => { setMode(!simple); window.scrollTo({ top: 0 }); });
+$("easy-full").addEventListener("click", () => { setMode(false); window.scrollTo({ top: 0 }); });
+setMode(simple, false);
+
 function renderAll(flash) {
   if (!S?.model?.assets?.length) return;
-  renderLive(); renderTicker(); renderTop(); renderWire(); renderFlow(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); registerStocks(); renderTrack(); renderBacktest(); renderStocks(); renderCalendar(); renderDetail(); renderPortfolio(); renderPA();
+  renderSimple(); renderLive(); renderTicker(); renderTop(); renderWire(); renderFlow(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); registerStocks(); renderTrack(); renderBacktest(); renderStocks(); renderCalendar(); renderDetail(); renderPortfolio(); renderPA();
   const key = JSON.stringify([S.model, (S.horizons || []).map((h) => (h.sc || []).map((s) => s.p))]);
   if (key !== lastModel || !sim) { lastModel = key; runSim(); }
   if (flash) { const el = $("kondisi"); el.classList.remove("flash"); void el.offsetWidth; el.classList.add("flash"); }

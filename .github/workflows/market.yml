@@ -6,12 +6,13 @@ name: Harga pasar
 #
 # Security: the Kabar secrets are only used in the separate "kirim" job, on a
 # fresh runner, and only after the sending scripts match the pinned SHA-256
-# fingerprints below. The Claude agent can change files in this repo, so any
+# fingerprints below (alerts.py, daily_brief.py, health.py). The Claude agent can change files in this repo, so any
 # change to scripts/alerts.py or scripts/daily_brief.py stops sending until the
 # owner reviews it and updates the fingerprints here.
 env:
   SHA_ALERTS: 98db23d484e45b1efdb891533b4601fa61e9625380519eba5470af950f9c8cfc
-  SHA_BRIEF: 1515c61399185e2e9493f1cce14c31280456a6c537626d37f1d65579c04f8190
+  SHA_BRIEF: 7fb9e56a277d02924d8db3bcae52904442bdabba2c9c2bb507ccf11b686994a7
+  SHA_HEALTH: 603f46ff84ce4e7f017d7eaf9dd52780c483a2c7ef979d827327a6e427282aaf
 
 on:
   schedule:
@@ -102,10 +103,11 @@ jobs:
         run: |
           a=$(sha256sum scripts/alerts.py | cut -d' ' -f1)
           b=$(sha256sum scripts/daily_brief.py | cut -d' ' -f1)
-          if [ "$a" = "$SHA_ALERTS" ] && [ "$b" = "$SHA_BRIEF" ]; then
+          c=$(sha256sum scripts/health.py | cut -d' ' -f1)
+          if [ "$a" = "$SHA_ALERTS" ] && [ "$b" = "$SHA_BRIEF" ] && [ "$c" = "$SHA_HEALTH" ]; then
             echo "ok=1" >> "$GITHUB_OUTPUT"
           else
-            echo "::warning::Skrip pengirim Kabar berubah dari versi yang disetujui; pengiriman dihentikan sampai pemilik memperbarui sidik jari di market.yml. alerts=$a brief=$b"
+            echo "::warning::Skrip pengirim Kabar berubah dari versi yang disetujui; pengiriman dihentikan sampai pemilik memperbarui sidik jari di market.yml. alerts=$a brief=$b health=$c"
           fi
 
       - name: Siapkan pengirim Kabar
@@ -126,7 +128,14 @@ jobs:
           KABAR_VAPID: ${{ secrets.KABAR_VAPID }}
         run: python3 scripts/alerts.py || true
 
-      - name: Ringkasan pagi (sekali sehari ke Kabar)
+      - name: Pemantau kesehatan sistem (ke Kabar bila ada masalah)
+        if: steps.verif.outputs.ok == '1'
+        env:
+          KABAR_TOKEN: ${{ secrets.KABAR_TOKEN }}
+          KABAR_VAPID: ${{ secrets.KABAR_VAPID }}
+        run: python3 scripts/health.py || true
+
+      - name: Ringkasan pagi & rekap mingguan (ke Kabar)
         if: steps.verif.outputs.ok == '1'
         env:
           KABAR_TOKEN: ${{ secrets.KABAR_TOKEN }}

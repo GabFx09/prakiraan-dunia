@@ -90,10 +90,88 @@ def main():
     kabar.kirim(f"☀️ Ringkasan pagi · {HARI[now.weekday()]}, {now.day} {BULAN[now.month - 1]}", "\n".join(lines),
                 saluran=CHANNEL, url=SITE)
     state["lastBrief"] = str(today)
+    save(state)
+    print("brief: sent")
+
+
+def save(state):
     with open(os.path.join(ROOT, "kabar-state.json"), "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=1)
-    print("brief: sent")
+
+
+NAMES = {"ihsg": "IHSG", "spx": "S&P 500", "gold": "Emas", "brent": "Brent", "usdidr": "USD/IDR", "btc": "Bitcoin"}
+
+
+def week_change(q, days):
+    s = q.get("series") or []
+    if len(s) <= days:
+        return None
+    p, base = q.get("price") or s[-1][1], s[-1 - days][1]
+    return (p / base - 1) * 100 if base else None
+
+
+def weekly():
+    """Sunday-evening recap (after 19:00 WIB), once per ISO week."""
+    now = datetime.now(timezone.utc).astimezone(WIB)
+    week = f"{now.isocalendar()[0]}-W{now.isocalendar()[1]:02d}"
+    state = load("kabar-state.json", {})
+    force = os.environ.get("WEEKLY_FORCE") == "1"
+    if not force and (now.weekday() != 6 or now.hour < 19 or state.get("lastWeekly") == week):
+        print("weekly: not due")
+        return
+    if not os.environ.get("KABAR_TOKEN"):
+        print("weekly: KABAR_TOKEN not set")
+        return
+    snap, market = load("snapshot.json", {}), load("market.json", {})
+    fc, alerts = load("forecasts.json", {"items": []}), load("alerts.json", {"items": []})
+    lines = []
+    hist = snap.get("history") or []
+    cut = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%dT%H:%M:%S")
+    old = next((h for h in hist if h.get("t", "") >= cut), hist[0] if hist else None)
+    if old and snap.get("risk") is not None:
+        d = snap["risk"] - old.get("risk", snap["risk"])
+        lines.append(f"**Indeks risiko {snap['risk']}/100** ({'+' if d >= 0 else '−'}{abs(d)} dalam seminggu) · {snap.get('regimeTitle', '')}")
+    moves = []
+    for k, n in NAMES.items():
+        q = (market.get("quotes") or {}).get(k)
+        c = week_change(q, 7 if k == "btc" else 5) if q else None
+        if c is not None:
+            moves.append(f"{n} {'+' if c >= 0 else '−'}{nf(abs(c), 1)}%")
+    if moves:
+        lines += ["", "**Seminggu terakhir**", " · ".join(moves)]
+    st = [(q.get("name", s), week_change(q, 5)) for s, q in (market.get("stocks") or {}).items()]
+    st = sorted([x for x in st if x[1] is not None], key=lambda x: x[1])
+    if len(st) >= 2:
+        lines.append(f"Saham pantauan terbaik: {st[-1][0]} {'+' if st[-1][1] >= 0 else '−'}{nf(abs(st[-1][1]), 1)}% · terlemah: {st[0][0]} {'+' if st[0][1] >= 0 else '−'}{nf(abs(st[0][1]), 1)}%")
+    wk_alerts = [a for a in alerts.get("items", []) if a.get("time", "") >= cut]
+    if wk_alerts:
+        lines += ["", f"**{len(wk_alerts)} peringatan minggu ini**"] + [f"• {a['title']}" for a in wk_alerts[:5]]
+    today = now.date()
+    scored = [i for i in fc.get("items", []) if i.get("checked") and i["checked"] >= str(today - timedelta(days=7))]
+    due = [i for i in fc.get("items", []) if i.get("status") == "open" and str(today) <= i["due"] <= str(today + timedelta(days=14))]
+    if scored or due:
+        lines += ["", "**Rapor akurasi**"]
+        if scored:
+            lines.append(f"Dinilai minggu ini: {sum(i['status'] == 'hit' for i in scored)} kena dari {len(scored)}")
+        if due:
+            lines.append(f"{len(due)} prakiraan jatuh tempo dalam 2 minggu")
+    nxt = sorted([e for e in snap.get("calendar") or [] if str(today) < e.get("d", "") <= str(today + timedelta(days=7))],
+                 key=lambda e: (e["d"], e.get("time", "")))
+    if nxt:
+        lines += ["", "**Agenda minggu depan**"]
+        for e in nxt[:8]:
+            d = datetime.strptime(e["d"], "%Y-%m-%d")
+            lines.append(f"• {HARI[d.weekday()]} {d.day}/{d.month}{' ' + e['time'] if e.get('time') else ''}: {e['t']}" + (" ‼️" if e.get("imp") == "tinggi" else ""))
+    lines += ["", "_Bukan nasihat keuangan._"]
+    sys.path.insert(0, KABAR_LIB)
+    import kabar  # noqa: PLC0415
+    kabar.kirim(f"📊 Rekap mingguan · {now.day} {BULAN[now.month - 1]}", "\n".join(lines), saluran=CHANNEL, url=SITE)
+    state = load("kabar-state.json", {})
+    state["lastWeekly"] = week
+    save(state)
+    print("weekly: sent")
 
 
 if __name__ == "__main__":
     main()
+    weekly()

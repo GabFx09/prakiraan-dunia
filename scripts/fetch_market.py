@@ -86,6 +86,34 @@ def fetch(symbol):
     raise RuntimeError(f"{symbol}: {last_err}")
 
 
+# Backup sources (no API key) used only when Yahoo fails for these assets.
+def backup_price(key):
+    if key in ("btc", "gold"):
+        cid = {"btc": "bitcoin", "gold": "pax-gold"}[key]
+        req = urllib.request.Request(f"https://api.coingecko.com/api/v3/simple/price?ids={cid}&vs_currencies=usd", headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return float(json.load(r)[cid]["usd"]), "CoinGecko" + (" (PAX Gold)" if key == "gold" else "")
+    if key == "usdidr":
+        req = urllib.request.Request("https://open.er-api.com/v6/latest/USD", headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return float(json.load(r)["rates"]["IDR"]), "open.er-api.com"
+    raise RuntimeError("tidak ada sumber cadangan")
+
+
+def from_backup(key, old_q):
+    price, src = backup_price(key)
+    series = list((old_q or {}).get("series") or [])
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    if series and series[-1][0] == today:
+        series[-1] = [today, round(price, 4)]
+    else:
+        series.append([today, round(price, 4)])
+    prev = series[-2][1] if len(series) >= 2 else None
+    return {"price": round(price, 4), "prev": prev, "chg": round((price / prev - 1) * 100, 2) if prev else None,
+            "time": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "series": series[-130:],
+            "currency": (old_q or {}).get("currency"), "backup": src}
+
+
 def main():
     try:
         with open(OUT, encoding="utf-8") as f:
@@ -102,6 +130,14 @@ def main():
         except Exception as e:  # noqa: BLE001
             errors.append(str(e))
             prev = old.get("quotes", {}).get(key)
+            try:
+                q = from_backup(key, prev)
+                q.update({"symbol": sym, "name": name, "ok": True})
+                quotes[key] = q
+                errors[-1] += f" (pakai cadangan {q['backup']})"
+                continue
+            except Exception:  # noqa: BLE001
+                pass
             if prev:
                 prev["ok"] = False
                 quotes[key] = prev
