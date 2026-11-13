@@ -1,0 +1,1040 @@
+{
+ "assets": [
+  {
+   "e": "Tempat parkir aman, bunga tinggi saat ini",
+   "n": "Deposito & reksa dana pasar uang (IDR)",
+   "s": [
+    "add",
+    "add",
+    "hold",
+    "hold",
+    "cut",
+    "cut"
+   ]
+  },
+  {
+   "e": "Imbal hasil ~4%; pelindung saat rupiah melemah",
+   "n": "Kas Dolar AS / T-bill AS",
+   "s": [
+    "hold",
+    "hold",
+    "hold",
+    "hold",
+    "hold",
+    "cut"
+   ]
+  },
+  {
+   "e": "Kunci bunga tinggi sebelum siklus turun",
+   "n": "SBN ritel (ORI, SR, ST) & obligasi pemerintah",
+   "s": [
+    "hold",
+    "add",
+    "add",
+    "add",
+    "hold",
+    "hold"
+   ]
+  },
+  {
+   "e": "Turun 30% dari puncak; asuransi portofolio",
+   "n": "Emas (batangan, digital, reksa dana emas)",
+   "s": [
+    "add",
+    "add",
+    "add",
+    "hold",
+    "hold",
+    "add"
+   ]
+  },
+  {
+   "e": "Masuk bertahap setelah koreksi",
+   "n": "Saham AS (indeks luas, mis. S&P 500)",
+   "s": [
+    "care",
+    "hold",
+    "add",
+    "add",
+    "add",
+    "add"
+   ]
+  },
+  {
+   "e": "Gelembung sedang dikempiskan; tren tetap ada",
+   "n": "Saham teknologi & AI",
+   "s": [
+    "care",
+    "care",
+    "hold",
+    "add",
+    "add",
+    "add"
+   ]
+  },
+  {
+   "e": "Untung saat konflik, rugi saat ada kesepakatan",
+   "n": "Saham energi & minyak",
+   "s": [
+    "hold",
+    "hold",
+    "cut",
+    "cut",
+    "hold",
+    "hold"
+   ]
+  },
+  {
+   "e": "Murah, tapi asing masih menjual. Contoh sektor: BBCA, BBRI, BMRI",
+   "n": "Saham Indonesia: bank besar & konsumsi",
+   "s": [
+    "care",
+    "hold",
+    "add",
+    "add",
+    "add",
+    "add"
+   ]
+  },
+  {
+   "e": "Tergantung permintaan China dan harga global",
+   "n": "Saham Indonesia: komoditas & tambang",
+   "s": [
+    "care",
+    "hold",
+    "hold",
+    "hold",
+    "add",
+    "hold"
+   ]
+  },
+  {
+   "e": "Sangat volatil; porsi kecil saja",
+   "n": "Bitcoin",
+   "s": [
+    "care",
+    "hold",
+    "hold",
+    "add",
+    "add",
+    "add"
+   ]
+  },
+  {
+   "e": "Risiko hilang hampir seluruhnya",
+   "n": "Altcoin & token kecil",
+   "s": [
+    "cut",
+    "cut",
+    "care",
+    "care",
+    "care",
+    "care"
+   ]
+  },
+  {
+   "e": "Bunga KPR tinggi; tunggu bunga turun",
+   "n": "Properti",
+   "s": [
+    "hold",
+    "hold",
+    "hold",
+    "hold",
+    "add",
+    "add"
+   ]
+  }
+ ],
+ "drivers": [
+  {
+   "i": "Dampak: inflasi energi, harga BBM, saham energi, dan mata uang negara pengimpor minyak seperti Rupiah.",
+   "p": "Blokade AS terhadap Iran masih berlaku. Dua kapal tanker rusak terkena ranjau di Selat Hormuz. Minyak sempat anjlok ~20% karena harapan de-eskalasi, tapi sinyal dari Washington dan Teheran masih bertentangan.",
+   "sev": "tinggi",
+   "t": "Perang Iran & Selat Hormuz"
+  },
+  {
+   "i": "Dampak: obligasi tenor panjang dan saham bervaluasi tinggi tertekan; kas dan obligasi tenor pendek justru menarik.",
+   "p": "Inflasi AS 3,7%. Pasar sudah memperhitungkan kenaikan suku bunga Fed pada Desember, dan Nomura memperkirakan satu kenaikan lagi pada Maret. ECB juga diperkirakan naik.",
+   "sev": "tinggi",
+   "t": "Inflasi panas, bank sentral menaikkan bunga lagi"
+  },
+  {
+   "i": "Dampak: koreksi teknologi bisa berlanjut beberapa bulan, tapi tren AI jangka panjang belum berakhir.",
+   "p": "Nasdaq turun 5,5% dalam sehari di tengah kekhawatiran belanja AI yang terlalu besar. Di China dan Hong Kong, saham AI mencakup lebih dari 40% nilai pasar.",
+   "sev": "tinggi",
+   "t": "Saham AI mulai retak"
+  },
+  {
+   "i": "Dampak: IHSG murah tapi rawan dijual asing dalam waktu dekat; deposito dan SBN memberi bunga tinggi.",
+   "p": "Rupiah di sekitar 18.150–18.180 per dolar. MSCI mengeluarkan delapan saham Indonesia, berlaku setelah 30 November. Dana asing terus keluar, dan BI diperkirakan menaikkan bunga ke 6,00%.",
+   "sev": "tinggi",
+   "t": "Tekanan di Indonesia"
+  },
+  {
+   "i": "Dampak: kebijakan fiskal lebih tertahan; positif jangka menengah bagi saham AS.",
+   "p": "Hasil pemilu sela memberi pemerintahan terbelah. Kebijakan besar presiden akan lebih sulit lolos. Secara historis, saham AS cenderung naik setahun setelah pemilu sela.",
+   "sev": "sedang",
+   "t": "Kongres AS dikuasai Demokrat"
+  },
+  {
+   "i": "Dampak: permintaan komoditas Indonesia (batu bara, nikel) tergantung pada keberlanjutan siklus ini.",
+   "p": "Surplus dagang China tembus $1 triliun berkat ekspor terkait AI. Gencatan tarif 24% dengan AS diperpanjang. Namun Hang Seng Tech turun 26% sepanjang 2026.",
+   "sev": "sedang",
+   "t": "China: ekspor kuat, pasar saham lemah"
+  }
+ ],
+ "history": [
+  {
+   "brent": 94,
+   "btc": 73600,
+   "gold": 3915,
+   "ihsg": 5115,
+   "risk": 72,
+   "spx": 7350,
+   "t": "2026-11-13T07:00:00Z",
+   "usdidr": 18177,
+   "ust10": 5.1
+  },
+  {
+   "brent": 95.8,
+   "btc": 69500,
+   "gold": 3900,
+   "ihsg": 5115,
+   "risk": 74,
+   "spx": 7600,
+   "t": "2026-11-13T06:57:49Z",
+   "usdidr": 18177,
+   "ust10": 5.05
+  }
+ ],
+ "horizons": [
+  {
+   "id": "1b",
+   "s": "Des 2026",
+   "sc": [
+    {
+     "d": "Fed naik 25 bps, BI naik ke 6,00%. IHSG bergerak 4.900–5.400, rupiah 17.900–18.500. Minyak $85–100.",
+     "k": "base",
+     "l": [
+      "Emas stabil di $3.800–4.100",
+      "Bitcoin $68.000–80.000"
+     ],
+     "n": "Bergejolak di tempat",
+     "p": 55
+    },
+    {
+     "d": "Ada kesepakatan awal soal Hormuz di sela APEC/G20. Minyak turun di bawah $85, inflasi diharapkan mereda, saham pulih.",
+     "k": "bull",
+     "l": [
+      "Rupiah menguat ke ~17.600",
+      "Saham teknologi rebound tajam"
+     ],
+     "n": "Pereda tekanan",
+     "p": 20
+    },
+    {
+     "d": "Insiden baru di Hormuz atau data inflasi lebih panas. Minyak di atas $110, imbal hasil obligasi AS naik ke 5,4%.",
+     "k": "bear",
+     "l": [
+      "Rupiah tembus 18.800+",
+      "IHSG bisa di bawah 4.700"
+     ],
+     "n": "Guncangan lanjutan",
+     "p": 25
+    }
+   ],
+   "sum": "Bulan yang bergejolak. Tiga keputusan besar berdekatan: kenaikan bunga Fed, keputusan BI, dan penghapusan saham dari indeks MSCI pada 30 November. KTT APEC dan G20 tanggal 18–19 November bisa membawa kabar soal Iran.",
+   "t": "1 bulan",
+   "todo": [
+    "Jangan panik jual. Tahan posisi inti dan siapkan kas.",
+    "Parkir dana yang menganggur di reksa dana pasar uang atau deposito 1–3 bulan.",
+    "Tunda pembelian besar saham Indonesia sampai setelah 30 November (efek MSCI).",
+    "Mulai beli emas sedikit demi sedikit; harganya sudah turun 30% dari puncak."
+   ],
+   "w": [
+    "Keputusan BI (Nov)",
+    "Rapat Fed (Des)",
+    "Efektif MSCI 30 Nov",
+    "APEC & G20 18–19 Nov",
+    "Data inflasi AS"
+   ]
+  },
+  {
+   "id": "3b",
+   "s": "Feb 2027",
+   "sc": [
+    {
+     "d": "Tidak ada perang terbuka, tidak ada kesepakatan penuh. Minyak $80–95. Fed naik sekali lagi lalu berhenti. Saham bergerak datar.",
+     "k": "base",
+     "l": [
+      "Imbal hasil SBN 10 thn ~7,2–7,6%",
+      "Emas bertahap pulih ke $4.000+"
+     ],
+     "n": "Buntu tapi terkendali",
+     "p": 50
+    },
+    {
+     "d": "Jalur kapal dibuka penuh, minyak turun ke $70-an. Pasar mulai memperhitungkan penurunan suku bunga pada paruh kedua 2027.",
+     "k": "bull",
+     "l": [
+      "Obligasi naik harga",
+      "Saham negara berkembang termasuk IHSG naik"
+     ],
+     "n": "Kesepakatan Hormuz",
+     "p": 25
+    },
+    {
+     "d": "Serangan kembali dilanjutkan. Minyak di atas $120. Dunia masuk stagflasi: pertumbuhan melambat, inflasi tinggi.",
+     "k": "bear",
+     "l": [
+      "Saham global turun 15–25%",
+      "Dolar dan emas jadi tempat berlindung"
+     ],
+     "n": "Eskalasi",
+     "p": 25
+    }
+   ],
+   "sum": "Arah ditentukan oleh nasib Selat Hormuz. Jika ada kesepakatan, inflasi turun dan bank sentral bisa berhenti menaikkan bunga. Jika buntu, tekanan berlanjut hingga awal 2027.",
+   "t": "3 bulan",
+   "todo": [
+    "Kunci bunga tinggi: beli SBN ritel (ORI/SR/ST) tenor 2–3 tahun saat ditawarkan.",
+    "Lanjutkan DCA emas sampai porsi target.",
+    "Mulai cicil reksa dana indeks saham global atau S&P 500 dalam porsi kecil.",
+    "Siapkan daftar saham bank besar dan konsumsi Indonesia untuk dibeli saat IHSG tenang."
+   ],
+   "w": [
+    "Perundingan AS–Iran",
+    "Harga Brent di atas $110 atau di bawah $80",
+    "Laporan keuangan Q4 perusahaan AI",
+    "Arah rupiah"
+   ]
+  },
+  {
+   "id": "6b",
+   "s": "Mei 2027",
+   "sc": [
+    {
+     "d": "Inflasi AS turun ke ~3%. Fed menahan bunga. Ekonomi AS melambat tapi tidak resesi. Saham mulai pulih secara selektif.",
+     "k": "base",
+     "l": [
+      "Saham bervaluasi wajar lebih unggul dari saham AI mahal",
+      "Rupiah 17.500–18.300"
+     ],
+     "n": "Puncak bunga, ekonomi melambat",
+     "p": 50
+    },
+    {
+     "d": "Inflasi turun lebih cepat. Pasar mulai memperhitungkan penurunan bunga. Arus modal kembali ke negara berkembang.",
+     "k": "bull",
+     "l": [
+      "IHSG kembali ke atas 6.000",
+      "Bitcoin pulih seiring likuiditas"
+     ],
+     "n": "Pendaratan mulus",
+     "p": 25
+    },
+    {
+     "d": "Bunga tinggi terlalu lama, pengangguran naik, laba perusahaan turun. Saham turun, obligasi pemerintah naik.",
+     "k": "bear",
+     "l": [
+      "Komoditas melemah, termasuk batu bara",
+      "Emas dan obligasi pemerintah menguat"
+     ],
+     "n": "Resesi AS",
+     "p": 25
+    }
+   ],
+   "sum": "Kemungkinan besar puncak suku bunga sudah tercapai. Kenaikan harga bensin tahun lalu mulai keluar dari perhitungan inflasi tahunan, sehingga angka inflasi turun meski harga tetap.",
+   "t": "6 bulan",
+   "todo": [
+    "Naikkan porsi saham secara bertahap jika inflasi terbukti turun.",
+    "Pertahankan obligasi; harganya naik ketika bunga mulai turun.",
+    "Kurangi saham energi jika minyak sudah turun dan tidak ada eskalasi.",
+    "Kripto tetap porsi kecil, maksimal 5% untuk profil moderat."
+   ],
+   "w": [
+    "Inflasi inti AS",
+    "Tingkat pengangguran AS",
+    "Proyeksi suku bunga Fed (dot plot)",
+    "Arus dana asing di BEI"
+   ]
+  },
+  {
+   "id": "1t",
+   "s": "Nov 2027",
+   "sc": [
+    {
+     "d": "Fed dan BI mulai menurunkan bunga pada paruh kedua 2027. Saham global naik 8–15% dari level sekarang. Emas naik karena bunga riil turun.",
+     "k": "base",
+     "l": [
+      "IHSG 5.800–6.500",
+      "Rupiah 17.000–17.800"
+     ],
+     "n": "Awal siklus penurunan bunga",
+     "p": 50
+    },
+    {
+     "d": "Energi murah ditambah produktivitas dari AI. Saham naik lebih dari 20% dan negara berkembang memimpin.",
+     "k": "bull",
+     "l": [
+      "Bitcoin bisa kembali ke $100.000+",
+      "Saham bank Indonesia pulih tajam"
+     ],
+     "n": "Pemulihan kuat",
+     "p": 20
+    },
+    {
+     "d": "Konflik berkepanjangan menjaga inflasi di atas 3,5%. Bunga tetap tinggi dan valuasi saham terus tertekan.",
+     "k": "bear",
+     "l": [
+      "Kas dan emas unggul",
+      "Saham hanya naik di sektor energi dan pertahanan"
+     ],
+     "n": "Stagflasi berkepanjangan",
+     "p": 30
+    }
+   ],
+   "sum": "Secara historis, tahun setelah pemilu sela AS cenderung positif untuk saham. Jika inflasi energi sudah mereda, siklus penurunan bunga bisa dimulai dan aset berisiko pulih.",
+   "t": "1 tahun",
+   "todo": [
+    "Target alokasi saham penuh sesuai profil sudah tercapai lewat DCA.",
+    "Rebalancing: jual sebagian aset yang sudah naik tinggi, tambah yang tertinggal.",
+    "Kurangi porsi deposito karena bunga akan turun; pindahkan ke obligasi dan saham.",
+    "Pertimbangkan properti jika suku bunga KPR mulai turun."
+   ],
+   "w": [
+    "Penurunan bunga pertama Fed/BI",
+    "Belanja AI perusahaan teknologi besar",
+    "Pertumbuhan China"
+   ]
+  },
+  {
+   "id": "3t",
+   "s": "2029",
+   "sc": [
+    {
+     "d": "Inflasi kembali ke sekitar 2,5–3%. Suku bunga lebih rendah dari sekarang tapi lebih tinggi dari era 2010-an. Saham memberi imbal hasil rata-rata 7–10% per tahun.",
+     "k": "base",
+     "l": [
+      "Hilirisasi nikel dan baterai menopang Indonesia",
+      "Penggunaan AI meluas ke semua sektor"
+     ],
+     "n": "Normalisasi",
+     "p": 55
+    },
+    {
+     "d": "AI menaikkan produktivitas secara nyata. Laba perusahaan naik dan pasar memasuki fase bull panjang.",
+     "k": "bull",
+     "l": [
+      "Saham teknologi kembali memimpin",
+      "Aset berisiko naik tinggi"
+     ],
+     "n": "Lonjakan produktivitas",
+     "p": 20
+    },
+    {
+     "d": "Blok AS dan blok China semakin terpisah. Perang dagang dan konflik regional membuat inflasi struktural tetap tinggi.",
+     "k": "bear",
+     "l": [
+      "Emas dan komoditas unggul",
+      "Volatilitas mata uang tinggi"
+     ],
+     "n": "Dunia terpecah",
+     "p": 25
+    }
+   ],
+   "sum": "Gejolak 2026 kemungkinan besar sudah lewat. Pemenangnya adalah perusahaan yang benar-benar menghasilkan laba dari AI, energi yang lebih beragam, dan negara yang menarik relokasi pabrik dari China.",
+   "t": "3 tahun",
+   "todo": [
+    "Fokus pada alokasi inti jangka panjang dan konsistensi menabung.",
+    "Diversifikasi geografis: jangan semua di Indonesia atau semua di AS.",
+    "Emas 5–15% sebagai pelindung terhadap dunia yang terpecah."
+   ],
+   "w": [
+    "Pemilu presiden AS 2028",
+    "Hubungan AS–China dan Taiwan",
+    "Pembangunan energi dan pusat data"
+   ]
+  },
+  {
+   "id": "5t",
+   "s": "2031",
+   "sc": [
+    {
+     "d": "Ekonomi dunia tumbuh sekitar 3% per tahun. Indonesia tumbuh 5% berkat bonus demografi dan pasar domestik. Saham unggul atas kas dan deposito.",
+     "k": "base",
+     "l": [
+      "Inflasi menggerus nilai uang tunai",
+      "Indeks saham global naik secara bertahap"
+     ],
+     "n": "Pertumbuhan moderat",
+     "p": 55
+    },
+    {
+     "d": "Teknologi menurunkan biaya energi dan produksi. Pertumbuhan dunia lebih cepat dan pendapatan kelas menengah Indonesia naik.",
+     "k": "bull",
+     "l": [
+      "Saham dan properti di kota pertumbuhan unggul"
+     ],
+     "n": "Era AI dan energi murah",
+     "p": 20
+    },
+    {
+     "d": "Utang pemerintah besar plus bunga tinggi memicu krisis fiskal di beberapa negara maju. Mata uang kertas kehilangan kepercayaan.",
+     "k": "bear",
+     "l": [
+      "Emas dan aset riil unggul",
+      "Bitcoin bisa diuntungkan sebagai aset alternatif"
+     ],
+     "n": "Krisis utang global",
+     "p": 25
+    }
+   ],
+   "sum": "Dalam 5 tahun, kejadian bulan ini hampir tidak berpengaruh. Yang berpengaruh adalah tren besar: AI, demografi, transisi energi, dan pergeseran kekuatan global. Untuk periode ini, disiplin lebih penting daripada menebak.",
+   "t": "5 tahun",
+   "todo": [
+    "Saham (indeks Indonesia dan global) menjadi mesin utama pertumbuhan kekayaan.",
+    "Kas hanya untuk dana darurat; dalam 5 tahun kas tergerus inflasi.",
+    "Emas dan sedikit Bitcoin sebagai asuransi terhadap skenario krisis.",
+    "Investasi terbaik juga termasuk keterampilan dan penghasilan Anda sendiri."
+   ],
+   "w": [
+    "Rasio utang AS",
+    "Demografi & produktivitas",
+    "Adopsi AI",
+    "Transisi energi"
+   ]
+  }
+ ],
+ "model": {
+  "assets": [
+   {
+    "bf": 0,
+    "bm": 0,
+    "id": "dep",
+    "mu": [
+     0.05,
+     0.045,
+     0.06
+    ],
+    "n": "Deposito & pasar uang",
+    "sig": 0.005
+   },
+   {
+    "bf": -0.3,
+    "bm": 0.2,
+    "id": "sbn",
+    "mu": [
+     0.075,
+     0.1,
+     0.045
+    ],
+    "n": "SBN ritel",
+    "sig": 0.05
+   },
+   {
+    "bf": 0.5,
+    "bm": -0.1,
+    "id": "gold",
+    "mu": [
+     0.08,
+     0.06,
+     0.13
+    ],
+    "n": "Emas",
+    "sig": 0.16
+   },
+   {
+    "bf": 0.9,
+    "bm": -0.3,
+    "id": "usd",
+    "mu": [
+     0.05,
+     0.01,
+     0.09
+    ],
+    "n": "Kas Dolar AS",
+    "sig": 0.08
+   },
+   {
+    "bf": -0.4,
+    "bm": 0.7,
+    "id": "idx",
+    "mu": [
+     0.13,
+     0.22,
+     -0.05
+    ],
+    "n": "Saham Indonesia",
+    "sig": 0.22
+   },
+   {
+    "bf": 0.3,
+    "bm": 0.85,
+    "id": "glob",
+    "mu": [
+     0.11,
+     0.2,
+     -0.06
+    ],
+    "n": "Saham global",
+    "sig": 0.18
+   },
+   {
+    "bf": 0.2,
+    "bm": 0.6,
+    "id": "btc",
+    "mu": [
+     0.2,
+     0.6,
+     -0.25
+    ],
+    "n": "Bitcoin",
+    "sig": 0.65
+   }
+  ],
+  "note": "Asumsi imbal hasil tahunan dalam Rupiah per rezim [dasar, optimis, pesimis]. sig = volatilitas tahunan, bm = kepekaan terhadap faktor pasar global, bf = kepekaan terhadap pelemahan rupiah."
+ },
+ "news": [
+  {
+   "assets": "Bitcoin, kripto",
+   "impact": "turun",
+   "src": "Bitcoin Magazine",
+   "t": "Bitcoin turun di bawah $70.000, terendah sejak akhir Agustus, di tengah imbal hasil tinggi",
+   "time": "2026-11-13T04:00:00Z",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields"
+  },
+  {
+   "assets": "Saham Asia, rupiah",
+   "impact": "turun",
+   "src": "investingLive",
+   "t": "Taruhan kenaikan suku bunga Fed menjalar ke pasar Asia",
+   "time": "2026-11-13T01:00:00Z",
+   "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-bets-ripple-through-asia/"
+  },
+  {
+   "assets": "Saham AS, saham AI",
+   "impact": "turun",
+   "src": "Market Index",
+   "t": "Saham AS tergelincir setelah CEO Nvidia mundur; minyak lebih tinggi mengangkat imbal hasil",
+   "time": "2026-11-13T00:00:00Z",
+   "url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-fall-s-and-p-500-and-nasdaq-slip-after-nvidia-ceo"
+  },
+  {
+   "assets": "Saham AS, saham AI",
+   "impact": "turun",
+   "src": "Yahoo Finance",
+   "t": "S&P 500 turun 4,4% dan Nasdaq 5,5% dalam sehari, terbesar sejak 2005",
+   "time": "2026-11-12T21:00:00Z",
+   "url": "https://finance.yahoo.com/markets/article/stocks-soared-on-the-democratic-sweep-less-than-24-hours-later-the-ai-trade-cracked-183312401.html"
+  },
+  {
+   "assets": "Bitcoin, kripto",
+   "impact": "turun",
+   "src": "CoinDCX",
+   "t": "Bitcoin turun ke $72.677, terendah sejak Agustus, setelah data inflasi panas",
+   "time": "2026-11-12T14:00:00Z",
+   "url": "https://coindcx.com/blog/price-predictions/bitcoin-price-weekly"
+  },
+  {
+   "assets": "Saham, obligasi tenor panjang",
+   "impact": "turun",
+   "src": "KuCoin News",
+   "t": "Pasar memperkirakan Fed menaikkan suku bunga 25 bps pada Desember",
+   "time": "2026-11-12T12:00:00Z",
+   "url": "https://www.kucoin.com/news/flash/global-and-domestic-institutional-views-on-inflation-fed-policy-and-market-outlook-2026-11-12"
+  },
+  {
+   "assets": "Emas, Bitcoin",
+   "impact": "turun",
+   "src": "FXStreet",
+   "t": "Emas turun kembali di bawah $4.000 seiring risiko Bitcoin menuju $60 ribu",
+   "time": "2026-11-12T08:35:00Z",
+   "url": "https://fxstreet.com/analysis/gold-breaks-back-below-4-000-as-bitcoin-road-to-60k-seems-opening-faster-than-markets-expect-202611120835"
+  },
+  {
+   "assets": "IHSG, rupiah",
+   "impact": "turun",
+   "src": "TopBusiness",
+   "t": "MSCI mengeluarkan delapan saham Indonesia, berlaku setelah 30 November",
+   "time": "2026-11-11T10:00:00Z",
+   "url": "https://www.topbusiness.id/140085/msci-depak-delapan-saham-indonesia-analis-nilai-arus-dana-asing-bayangi-ihsg-dan-rupiah"
+  },
+  {
+   "assets": "Minyak, saham energi",
+   "impact": "naik",
+   "src": "FXStreet",
+   "t": "Dua tanker rusak terkena ranjau di Selat Hormuz; minyak kembali naik",
+   "time": "2026-11-11T09:17:00Z",
+   "url": "https://www.fxstreet.com/analysis/the-commodities-feed-oil-rebounds-as-geopolitical-risks-linger-202611110917"
+  },
+  {
+   "assets": "Saham China, komoditas",
+   "impact": "netral",
+   "src": "investingLive",
+   "t": "China perpanjang penangguhan tarif 24% atas barang AS menjelang APEC",
+   "time": "2026-11-10T08:00:00Z",
+   "url": "https://investinglive.com/stocks/china-extends-suspension-of-24-tariffs-on-us-goods-keeps-10-levy-ahead-of-apec/"
+  }
+ ],
+ "readings": [
+  {
+   "c": "neg",
+   "d": "Taruhan kenaikan Fed menguat",
+   "k": "Suku bunga Fed",
+   "v": "3,75–4,00%"
+  },
+  {
+   "c": "neg",
+   "d": "Bensin +34% setahun",
+   "k": "Inflasi AS (Sep)",
+   "v": "3,7%"
+  },
+  {
+   "c": "neg",
+   "d": "Tetap di atas 5%",
+   "h": "ust10",
+   "k": "Obligasi AS 10 thn",
+   "v": "5,05%"
+  },
+  {
+   "c": "neg",
+   "d": "+3,3%, serangan infrastruktur Saudi",
+   "h": "brent",
+   "k": "Minyak Brent",
+   "v": "$95,8"
+  },
+  {
+   "c": "neg",
+   "d": "Dekat terendah lebih dari setahun",
+   "h": "gold",
+   "k": "Emas / oz",
+   "v": "$3.900"
+  },
+  {
+   "c": "neg",
+   "d": "Turun ~6%, arus keluar ETF",
+   "h": "btc",
+   "k": "Bitcoin",
+   "v": "$69.500"
+  },
+  {
+   "c": "neg",
+   "d": "Nvidia −7,6% usai CEO mundur",
+   "h": "spx",
+   "k": "S&P 500",
+   "v": "≈7.600"
+  },
+  {
+   "c": "neg",
+   "d": "MSCI keluarkan 8 saham",
+   "h": "ihsg",
+   "k": "IHSG",
+   "v": "5.115"
+  },
+  {
+   "c": "neg",
+   "d": "Rupiah melemah",
+   "h": "usdidr",
+   "k": "USD/IDR",
+   "v": "18.177"
+  },
+  {
+   "c": "neu",
+   "d": "Diperkirakan naik ke 6,00%",
+   "k": "BI-Rate",
+   "v": "5,75%"
+  }
+ ],
+ "regimeText": "Minyak kembali naik akibat serangan di infrastruktur energi Saudi dan gangguan Hormuz, sementara pasar kini memperkirakan Fed menaikkan suku bunga. Saham AI dan kripto tertekan, dan rupiah rentan karena arus keluar dana asing.",
+ "regimeTitle": "Stagflasi, risiko tinggi",
+ "risk": 74,
+ "riskNote": "Tekanan utama: perang Iran/Hormuz dan harga minyak, imbal hasil AS 10 tahun di atas 5%, taruhan kenaikan Fed, guncangan saham AI (Nvidia), serta arus keluar dana asing dari Indonesia.",
+ "updatedAt": "2026-11-13T06:57:49Z",
+ "cycles": [
+  {
+   "id": "ekonomi",
+   "n": "Siklus ekonomi",
+   "sub": "Jam investasi: pertumbuhan vs inflasi",
+   "phases": [
+    "Pemulihan",
+    "Ekspansi",
+    "Stagflasi",
+    "Resesi"
+   ],
+   "pos": 62,
+   "conf": "sedang",
+   "now": "Pertumbuhan melambat sementara inflasi naik karena harga energi. Ini ciri fase stagflasi.",
+   "win": [
+    "Kas & deposito",
+    "Emas",
+    "Energi"
+   ],
+   "lose": [
+    "Obligasi tenor panjang",
+    "Saham pertumbuhan"
+   ],
+   "next": "Perlambatan atau resesi ringan, perkiraan pertengahan 2027. Di fase itu obligasi biasanya unggul, lalu saham memimpin saat pemulihan.",
+   "hist": "Satu putaran penuh biasanya 4–10 tahun. Stagflasi terakhir yang mirip: 2021–2022 dan 1973–1974."
+  },
+  {
+   "id": "bunga",
+   "n": "Siklus suku bunga",
+   "sub": "The Fed dan Bank Indonesia",
+   "phases": [
+    "Penurunan",
+    "Dasar",
+    "Kenaikan",
+    "Puncak"
+   ],
+   "pos": 70,
+   "conf": "sedang",
+   "now": "Fed kembali menaikkan bunga (perkiraan Desember) dan BI diperkirakan ke 6,00%. Ini tahap akhir fase kenaikan.",
+   "win": [
+    "Deposito",
+    "Pasar uang",
+    "SBN tenor pendek"
+   ],
+   "lose": [
+    "Properti",
+    "Saham berutang besar"
+   ],
+   "next": "Puncak bunga perkiraan semester I 2027, lalu penurunan pada semester II 2027. Saat bunga mulai turun, obligasi dan saham biasanya naik.",
+   "hist": "Dari puncak bunga sampai penurunan pertama rata-rata 6–11 bulan sejak 1990."
+  },
+  {
+   "id": "spx",
+   "n": "Siklus saham AS",
+   "sub": "Fase pasar Wyckoff, S&P 500",
+   "phases": [
+    "Akumulasi",
+    "Tren naik",
+    "Distribusi",
+    "Tren turun"
+   ],
+   "pos": 73,
+   "conf": "sedang",
+   "now": "Setelah reli panjang saham AI, pasar mulai goyah: S&P 500 turun 4,4% dalam sehari pada 12 November. Ini ciri akhir fase distribusi.",
+   "win": [
+    "Saham defensif",
+    "Saham bervaluasi wajar"
+   ],
+   "lose": [
+    "Saham AI mahal",
+    "Saham spekulatif"
+   ],
+   "next": "Koreksi bisa berlanjut beberapa bulan. Akumulasi berikutnya kemungkinan muncul saat bunga mencapai puncak (2027).",
+   "hist": "Rata-rata pasar bearish S&P 500 sejak 1950: turun ~33% selama ~14 bulan. Pasar bullish rata-rata berlangsung ~5 tahun."
+  },
+  {
+   "id": "ihsg",
+   "n": "Siklus IHSG",
+   "sub": "Pasar saham Indonesia",
+   "phases": [
+    "Akumulasi",
+    "Tren naik",
+    "Distribusi",
+    "Tren turun"
+   ],
+   "pos": 94,
+   "conf": "rendah",
+   "now": "IHSG sudah turun dalam, dana asing terus keluar, dan MSCI mengeluarkan 8 saham. Ini tahap akhir fase turun, ketika valuasi menjadi murah.",
+   "win": [
+    "Kas untuk membeli bertahap"
+   ],
+   "lose": [
+    "Saham lapis kedua & ketiga"
+   ],
+   "next": "Fase akumulasi bisa dimulai setelah tekanan MSCI berlalu (Desember) dan rupiah stabil. Investor jangka panjang biasanya mulai mencicil di fase ini.",
+   "hist": "Contoh: setelah krisis 1998, 2008, dan 2020, IHSG pulih ke puncak lama dalam 1–3 tahun."
+  },
+  {
+   "id": "btc",
+   "n": "Siklus Bitcoin 4 tahun",
+   "sub": "Mengikuti halving setiap ~4 tahun",
+   "phases": [
+    "Akumulasi",
+    "Bull pasca-halving",
+    "Puncak & euforia",
+    "Bear market"
+   ],
+   "pos": 90,
+   "conf": "sedang",
+   "now": "Halving terakhir April 2024. Bitcoin memuncak di sekitar $126.000 pada Oktober 2025 dan kini sekitar $70.000 (turun ~45%). Secara historis dasar bear market muncul ~12–13 bulan setelah puncak, yaitu sekitar akhir 2026.",
+   "win": [
+    "Cicil Bitcoin sedikit-sedikit (DCA)"
+   ],
+   "lose": [
+    "Altcoin",
+    "Token kecil"
+   ],
+   "next": "Akumulasi sepanjang 2027, halving berikutnya sekitar April 2028, lalu jika pola berulang, puncak baru sekitar 2029.",
+   "hist": "Penurunan dari puncak: −84% (2018), −77% (2022). Pola ini bisa melemah karena ETF dan investor institusi."
+  },
+  {
+   "id": "emas",
+   "n": "Siklus emas",
+   "sub": "Tren besar jangka panjang",
+   "phases": [
+    "Akumulasi",
+    "Tren naik",
+    "Euforia",
+    "Koreksi"
+   ],
+   "pos": 85,
+   "conf": "sedang",
+   "now": "Emas naik besar dari 2023 hingga puncak $5.608 pada Januari 2026, lalu terkoreksi ~30%. Koreksi sedalam ini pernah terjadi di tengah tren naik panjang.",
+   "win": [
+    "Beli emas bertahap"
+   ],
+   "lose": [
+    "Membeli sekaligus dalam jumlah besar"
+   ],
+   "next": "Jika bunga riil turun pada 2027, emas berpeluang kembali naik. Bank sentral dunia masih terus membeli emas.",
+   "hist": "Tahun 1974–1976 emas turun ~45%, lalu naik ~8 kali lipat sampai 1980. Tren besar emas biasanya berlangsung 10 tahun atau lebih."
+  },
+  {
+   "id": "minyak",
+   "n": "Siklus minyak & komoditas",
+   "sub": "Pasokan vs permintaan",
+   "phases": [
+    "Surplus",
+    "Pengetatan",
+    "Lonjakan",
+    "Permintaan turun"
+   ],
+   "pos": 70,
+   "conf": "rendah",
+   "now": "Perang Iran dan Selat Hormuz mendorong lonjakan harga. Minyak sempat turun ~20% karena harapan de-eskalasi, tapi risiko masih tinggi.",
+   "win": [
+    "Saham energi (jangka pendek)"
+   ],
+   "lose": [
+    "Maskapai",
+    "Negara pengimpor minyak"
+   ],
+   "next": "Jika ada kesepakatan, harga kembali ke fase surplus karena OPEC+ menambah produksi. Jika eskalasi, lonjakan berlanjut.",
+   "hist": "Lonjakan karena perang biasanya mereda dalam 6–18 bulan (1990, 2022)."
+  },
+  {
+   "id": "presiden",
+   "n": "Siklus presiden AS",
+   "sub": "Pola 4 tahun pasar saham",
+   "phases": [
+    "Tahun 1",
+    "Tahun 2 (pemilu sela)",
+    "Tahun 3 (pra-pemilu)",
+    "Tahun 4 (pemilu)"
+   ],
+   "pos": 48,
+   "conf": "sedang",
+   "now": "Kita di akhir tahun ke-2. Secara historis tahun ini paling lemah, dan memang terjadi koreksi tajam.",
+   "win": [
+    "Saham (menjelang tahun ke-3)"
+   ],
+   "lose": [],
+   "next": "Tahun ke-3 (2027) secara historis tahun terkuat bagi saham AS, rata-rata naik ~13–16%.",
+   "hist": "Sejak 1950, S&P 500 naik dalam 12 bulan setelah setiap pemilu sela."
+  },
+  {
+   "id": "dolar",
+   "n": "Siklus dolar & negara berkembang",
+   "sub": "Arah dolar AS terhadap rupiah",
+   "phases": [
+    "Dolar melemah",
+    "Dolar mendasar",
+    "Dolar menguat",
+    "Puncak dolar"
+   ],
+   "pos": 70,
+   "conf": "rendah",
+   "now": "Bunga AS tinggi membuat dolar kuat, rupiah di atas 18.000, dan dana asing keluar dari negara berkembang.",
+   "win": [
+    "Aset dalam dolar",
+    "Eksportir"
+   ],
+   "lose": [
+    "Importir",
+    "Emiten berutang dolar"
+   ],
+   "next": "Saat Fed mulai menurunkan bunga, dolar biasanya melemah dan rupiah serta IHSG pulih.",
+   "hist": "Satu siklus dolar biasanya berlangsung 6–10 tahun."
+  },
+  {
+   "id": "utang",
+   "n": "Siklus utang jangka panjang",
+   "sub": "Siklus 50–75 tahun (Ray Dalio)",
+   "phases": [
+    "Utang rendah",
+    "Penumpukan utang",
+    "Puncak utang",
+    "Pengurangan utang"
+   ],
+   "pos": 76,
+   "conf": "rendah",
+   "now": "Utang pemerintah besar dan imbal hasil obligasi AS di atas 5% membuat biaya utang naik. Ini ciri akhir siklus utang panjang.",
+   "win": [
+    "Emas",
+    "Aset riil"
+   ],
+   "lose": [
+    "Obligasi panjang (riil)",
+    "Uang tunai jangka panjang"
+   ],
+   "next": "Pengurangan utang bisa berjalan bertahun-tahun lewat inflasi, pajak, atau restrukturisasi.",
+   "hist": "Contoh akhir siklus: 1930-an dan 1940-an. Waktunya sangat sulit ditebak."
+  }
+ ],
+ "milestones": [
+  {
+   "d": "2026-11-30",
+   "t": "Perubahan indeks MSCI berlaku (8 saham Indonesia keluar)",
+   "c": "ihsg"
+  },
+  {
+   "d": "2026-12-16",
+   "t": "Rapat Fed, perkiraan kenaikan bunga 25 bps",
+   "c": "bunga"
+  },
+  {
+   "d": "2026-12-31",
+   "t": "Perkiraan dasar bear market Bitcoin menurut pola historis",
+   "c": "btc"
+  },
+  {
+   "d": "2027-01-01",
+   "t": "Masuk tahun ke-3 siklus presiden AS (historis terkuat)",
+   "c": "presiden"
+  },
+  {
+   "d": "2027-06-30",
+   "t": "Perkiraan puncak suku bunga Fed dan BI",
+   "c": "bunga"
+  },
+  {
+   "d": "2027-09-30",
+   "t": "Perkiraan awal penurunan suku bunga",
+   "c": "bunga"
+  },
+  {
+   "d": "2028-04-15",
+   "t": "Halving Bitcoin berikutnya (perkiraan)",
+   "c": "btc"
+  },
+  {
+   "d": "2028-11-07",
+   "t": "Pemilu presiden AS",
+   "c": "presiden"
+  },
+  {
+   "d": "2029-02-14",
+   "t": "Pemilu Indonesia",
+   "c": "ihsg"
+  },
+  {
+   "d": "2029-10-01",
+   "t": "Perkiraan puncak siklus Bitcoin jika pola berulang",
+   "c": "btc"
+  }
+ ]
+}

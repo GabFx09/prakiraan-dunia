@@ -1,0 +1,892 @@
+<title>Prakiraan Dunia</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a "world weather report" — live instrument strip, news wire, forecast horizons, a Monte Carlo fan chart of 10,000 futures, then the asset matrix and analyst. */
+:root {
+  --bg: #eef1f3;
+  --surface: #ffffff;
+  --ink: #15212b;
+  --muted: #56636e;
+  --line: #d3dbe1;
+  --accent: #1d5c86;
+  --accent-soft: #dbe8f1;
+  --up: #1f7a4d;   --up-bg: #dcefe4;
+  --down: #b23a32; --down-bg: #f6dfdc;
+  --warn: #9a6a00; --warn-bg: #f5ebcf;
+  --hold: #4f5d68; --hold-bg: #e3e8ec;
+  --f-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0f171e; --surface: #16212a; --ink: #e4ebf0; --muted: #94a3af; --line: #2a3843;
+  --accent: #6fb2dd; --accent-soft: #1b3346;
+  --up: #5fc794; --up-bg: #173528; --down: #f08a80; --down-bg: #3d1e1b;
+  --warn: #e3b64e; --warn-bg: #3a2f14; --hold: #a9b6c0; --hold-bg: #24313b;
+  color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #0f171e; --surface: #16212a; --ink: #e4ebf0; --muted: #94a3af; --line: #2a3843;
+  --accent: #6fb2dd; --accent-soft: #1b3346;
+  --up: #5fc794; --up-bg: #173528; --down: #f08a80; --down-bg: #3d1e1b;
+  --warn: #e3b64e; --warn-bg: #3a2f14; --hold: #a9b6c0; --hold-bg: #24313b;
+  color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.55; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 28px 64px; display: grid; gap: 44px; }
+h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; line-height: 1.15; }
+h1 { font-size: clamp(2rem, 5vw, 3.2rem); font-weight: 800; letter-spacing: -0.02em; }
+h2 { font-size: 1.6rem; font-weight: 700; letter-spacing: -0.01em; }
+h3 { font-size: 1.1rem; font-weight: 700; }
+p { margin: 0; }
+a { color: var(--accent); }
+.eyebrow { font-family: var(--f-mono); font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.lede { color: var(--muted); max-width: 66ch; }
+section { display: grid; gap: 18px; min-width: 0; }
+.sec-head { display: grid; gap: 6px; }
+.note { font-size: 0.82rem; color: var(--muted); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 20px; min-width: 0; }
+
+header.top { display: grid; gap: 14px; }
+.live { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font-family: var(--f-mono); font-size: 0.78rem; color: var(--muted); }
+.live-pill { display: inline-flex; align-items: center; gap: 7px; padding: 4px 11px; border-radius: 999px; font-weight: 500; background: var(--hold-bg); color: var(--hold); }
+.live-pill .dot { width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
+.live-pill[data-s="live"] { background: var(--up-bg); color: var(--up); }
+.live-pill[data-s="stale"] { background: var(--warn-bg); color: var(--warn); }
+.live-pill[data-s="off"] { background: var(--hold-bg); color: var(--hold); }
+@media (prefers-reduced-motion: no-preference) {
+  .live-pill[data-s="live"] .dot { animation: pulse 1.8s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { box-shadow: 0 0 0 0 currentColor; } 50% { box-shadow: 0 0 0 4px transparent; } }
+  .flash { animation: flash 1.2s ease; }
+  @keyframes flash { 0% { background: var(--accent-soft); } 100% { background: var(--surface); } }
+}
+nav.jump { display: flex; flex-wrap: wrap; gap: 6px; }
+nav.jump a { color: var(--ink); text-decoration: none; font-size: 0.85rem; padding: 5px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); }
+nav.jump a:hover, nav.jump a:focus-visible { border-color: var(--accent); color: var(--accent); outline: none; }
+
+.regime { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); gap: 20px; }
+.regime .big { font-family: var(--f-display); font-size: 1.9rem; font-weight: 800; color: var(--warn); line-height: 1.1; }
+.scale { display: grid; gap: 6px; align-content: start; }
+.scale-bar { position: relative; height: 12px; border-radius: 6px; background: linear-gradient(90deg, var(--up) 0%, var(--warn) 55%, var(--down) 100%); opacity: 0.85; }
+.scale-mark { position: absolute; top: -5px; width: 4px; height: 22px; background: var(--ink); border-radius: 2px; transform: translateX(-50%); transition: left 0.6s ease; }
+.scale-labels { display: flex; justify-content: space-between; font-size: 0.72rem; color: var(--muted); font-family: var(--f-mono); }
+.risk-num { font-family: var(--f-mono); font-size: 0.85rem; }
+
+.readings { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 10px; }
+.reading { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; display: grid; gap: 2px; min-width: 0; }
+.reading .k { font-size: 0.78rem; color: var(--muted); }
+.reading .v { font-family: var(--f-mono); font-size: 1.25rem; font-weight: 500; font-variant-numeric: tabular-nums; }
+.reading .d { font-size: 0.75rem; font-family: var(--f-mono); }
+.reading svg { width: 100%; height: 26px; display: block; margin-top: 4px; }
+.d.neg { color: var(--down); } .d.pos { color: var(--up); } .d.neu { color: var(--muted); }
+
+.wire { display: grid; gap: 0; }
+.wire-item { display: grid; grid-template-columns: 92px minmax(0, 1fr) auto; gap: 12px; padding: 12px 0; border-bottom: 1px solid var(--line); align-items: baseline; }
+.wire-item:last-child { border-bottom: 0; }
+.wire-item time { font-family: var(--f-mono); font-size: 0.75rem; color: var(--muted); }
+.wire-item a { color: var(--ink); text-decoration: none; font-weight: 500; }
+.wire-item a:hover, .wire-item a:focus-visible { color: var(--accent); text-decoration: underline; }
+.wire-item small { display: block; color: var(--muted); font-size: 0.8rem; }
+
+.drivers { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; }
+.driver { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 16px; display: grid; gap: 8px; align-content: start; border-top: 4px solid var(--sev, var(--hold)); }
+.driver[data-sev="tinggi"] { --sev: var(--down); }
+.driver[data-sev="sedang"] { --sev: var(--warn); }
+.driver[data-sev="rendah"] { --sev: var(--up); }
+.driver .meta { display: flex; justify-content: space-between; gap: 8px; align-items: baseline; }
+.sev { font-family: var(--f-mono); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--sev); }
+.driver p { color: var(--muted); font-size: 0.92rem; }
+.driver .impact { font-size: 0.85rem; color: var(--ink); }
+
+.tabs { display: flex; border: 1px solid var(--line); border-radius: 8px; overflow-x: auto; background: var(--surface); }
+.tabs button { flex: 1 0 auto; min-width: 88px; font: inherit; border: 0; background: transparent; color: var(--ink); padding: 10px 12px; cursor: pointer; border-right: 1px solid var(--line); display: grid; gap: 1px; text-align: center; }
+.tabs button:last-child { border-right: 0; }
+.tabs button .t { font-family: var(--f-display); font-weight: 700; font-size: 1rem; }
+.tabs button .s { font-family: var(--f-mono); font-size: 0.7rem; color: var(--muted); }
+.tabs button[aria-selected="true"] { background: var(--accent); color: var(--surface); }
+.tabs button[aria-selected="true"] .s { color: var(--accent-soft); }
+.tabs button:focus-visible { outline: 2px solid var(--accent); outline-offset: -3px; }
+.horizon { display: grid; gap: 16px; }
+.h-summary { font-size: 1.05rem; max-width: 72ch; }
+.scen { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.scen-card { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 16px; display: grid; gap: 8px; align-content: start; }
+.scen-card .top { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.scen-card .lbl { font-family: var(--f-mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; }
+.scen-card .prob { font-family: var(--f-mono); font-size: 1.4rem; font-weight: 500; }
+.probbar { height: 6px; border-radius: 3px; background: var(--hold-bg); overflow: hidden; }
+.probbar i { display: block; height: 100%; background: currentColor; }
+.scen-card.base { color: var(--accent); } .scen-card.bull { color: var(--up); } .scen-card.bear { color: var(--down); }
+.scen-card h3, .scen-card p, .scen-card ul { color: var(--ink); }
+.scen-card p, .scen-card li { font-size: 0.9rem; }
+.scen-card ul { margin: 0; padding-left: 18px; color: var(--muted); }
+.todo { background: var(--accent-soft); border-radius: 8px; padding: 16px 18px; display: grid; gap: 8px; }
+.todo ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; }
+.watch { display: flex; flex-wrap: wrap; gap: 6px; }
+.watch span { font-size: 0.8rem; padding: 3px 9px; border: 1px dashed var(--line); border-radius: 5px; color: var(--muted); }
+
+/* Simulation */
+.sim { display: grid; grid-template-columns: minmax(0, 300px) minmax(0, 1fr); gap: 20px; }
+.sim-side { display: grid; gap: 16px; align-content: start; }
+.field { display: grid; gap: 6px; }
+.field label, .field .lab { font-size: 0.82rem; color: var(--muted); }
+input[type="text"], textarea, select { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 9px 11px; width: 100%; }
+input:focus-visible, textarea:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.seg { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.seg button { font: inherit; font-size: 0.8rem; border: 0; padding: 8px 2px; background: var(--bg); color: var(--ink); cursor: pointer; border-right: 1px solid var(--line); }
+.seg button:last-child { border-right: 0; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--surface); font-weight: 600; }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: -3px; }
+.sliders { display: grid; gap: 8px; }
+.slider { display: grid; grid-template-columns: 12px minmax(0, 1fr) 44px; gap: 8px; align-items: center; font-size: 0.84rem; }
+.slider .sw { width: 12px; height: 12px; border-radius: 3px; }
+.slider input[type="range"] { grid-column: 2 / 4; width: 100%; accent-color: var(--accent); margin: 0; }
+.slider .pv { font-family: var(--f-mono); text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
+.alloc-bar { display: flex; height: 22px; border-radius: 6px; overflow: hidden; background: var(--hold-bg); }
+.alloc-bar i { display: block; height: 100%; transition: width 0.3s ease; }
+.sim-main { display: grid; gap: 14px; align-content: start; min-width: 0; }
+.sim-head { font-size: 1.05rem; max-width: 70ch; }
+.sim-head b { font-family: var(--f-mono); font-weight: 500; }
+.chart-box { position: relative; width: 100%; height: 300px; }
+.chart-box canvas { width: 100%; height: 100%; display: block; }
+.chart-legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 0.78rem; color: var(--muted); }
+.chart-legend i { display: inline-block; width: 18px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: middle; }
+.sim-run { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; }
+th, td { padding: 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; font-size: 0.88rem; }
+thead th { font-family: var(--f-mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 500; background: var(--bg); }
+tbody tr:last-child td { border-bottom: 0; }
+td.num, th.num { text-align: right; font-family: var(--f-mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+#matrix { min-width: 760px; }
+#simtable { min-width: 560px; }
+td.asset { min-width: 190px; }
+td.asset b { display: block; font-weight: 600; }
+td.asset small { color: var(--muted); font-size: 0.8rem; }
+.chip { display: inline-block; min-width: 72px; text-align: center; font-family: var(--f-mono); font-size: 0.72rem; font-weight: 500; padding: 4px 6px; border-radius: 4px; white-space: nowrap; }
+.chip.add, .chip.naik { background: var(--up-bg); color: var(--up); }
+.chip.hold, .chip.netral { background: var(--hold-bg); color: var(--hold); }
+.chip.cut, .chip.turun { background: var(--down-bg); color: var(--down); }
+.chip.care { background: var(--warn-bg); color: var(--warn); }
+.legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.82rem; color: var(--muted); align-items: center; }
+
+.analyst { display: grid; gap: 14px; }
+.presets { display: flex; flex-wrap: wrap; gap: 8px; }
+.presets button, .btn { font: inherit; font-size: 0.85rem; border: 1px solid var(--line); background: var(--bg); color: var(--ink); padding: 7px 12px; border-radius: 6px; cursor: pointer; text-align: left; }
+.presets button:hover, .presets button:focus-visible { border-color: var(--accent); color: var(--accent); outline: none; }
+.btn.primary { background: var(--accent); color: var(--surface); border-color: var(--accent); font-weight: 600; }
+.btn:disabled { opacity: 0.55; cursor: default; }
+.btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.row { display: flex; flex-wrap: wrap; gap: 10px; align-items: end; }
+.row .field { flex: 1 1 180px; }
+.answer { border-top: 1px solid var(--line); padding-top: 14px; min-height: 40px; display: grid; gap: 8px; max-width: 78ch; }
+.answer h4 { font-family: var(--f-display); margin: 8px 0 0; font-size: 1.02rem; }
+.answer ul { margin: 0; padding-left: 20px; display: grid; gap: 3px; }
+.answer .thinking { color: var(--muted); font-style: italic; }
+
+/* Cycles */
+.cycles { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; }
+.cycle { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; display: grid; gap: 10px; align-content: start; min-width: 0; }
+.cycle-top { display: grid; grid-template-columns: 104px minmax(0, 1fr); gap: 14px; align-items: center; }
+.cycle-top svg { width: 104px; height: 104px; display: block; }
+.cycle-top h3 { font-size: 1.02rem; }
+.cycle-top .sub { font-size: 0.78rem; color: var(--muted); }
+.phase-now { font-family: var(--f-display); font-weight: 700; color: var(--accent); font-size: 1.05rem; }
+.conf { font-family: var(--f-mono); font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+.phase-steps { display: flex; gap: 4px; flex-wrap: wrap; }
+.phase-steps span { font-size: 0.72rem; padding: 2px 8px; border-radius: 4px; background: var(--hold-bg); color: var(--muted); }
+.phase-steps span.on { background: var(--accent); color: var(--surface); font-weight: 600; }
+.cycle p { font-size: 0.88rem; }
+.cycle .kv { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 4px 8px; font-size: 0.84rem; }
+.cycle .kv dt { color: var(--muted); }
+.cycle .kv dd { margin: 0; }
+.cycle .hist { font-size: 0.8rem; color: var(--muted); border-top: 1px dashed var(--line); padding-top: 8px; }
+.timeline { display: grid; gap: 0; }
+.tl-item { display: grid; grid-template-columns: 110px 14px minmax(0, 1fr); gap: 12px; align-items: start; padding-block: 8px; }
+.tl-item time { font-family: var(--f-mono); font-size: 0.78rem; color: var(--muted); text-align: right; padding-top: 1px; }
+.tl-dot { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--accent); background: var(--surface); margin-top: 4px; position: relative; }
+.tl-item.past .tl-dot { background: var(--accent); }
+.tl-item small { display: block; color: var(--muted); font-size: 0.78rem; }
+
+.disclaimer { border: 1px solid var(--warn); background: var(--warn-bg); border-radius: 8px; padding: 14px 16px; font-size: 0.88rem; display: grid; gap: 4px; }
+
+@media (max-width: 760px) {
+  .regime, .sim { grid-template-columns: minmax(0, 1fr); }
+  .scen { grid-template-columns: minmax(0, 1fr); }
+  .wire-item { grid-template-columns: minmax(0, 1fr) auto; }
+  .wire-item time { grid-column: 1 / -1; }
+  .chart-box { height: 240px; }
+}
+</style>
+
+<div class="wrap">
+
+<header class="top">
+  <div class="live" aria-live="polite">
+    <span class="live-pill" id="live-pill" data-s="off"><span class="dot"></span><span id="live-label">Menghubungkan…</span></span>
+    <span id="live-time"></span>
+  </div>
+  <h1>Prakiraan Dunia</h1>
+  <p class="lede">Prakiraan cuaca untuk ekonomi dan geopolitik. Data dan berita diperbarui otomatis setiap jam oleh agen Claude. Mesin simulasi menjalankan ribuan kemungkinan masa depan untuk portofolio Anda, dari 1 bulan sampai 5 tahun ke depan.</p>
+  <nav class="jump" aria-label="Bagian halaman">
+    <a href="#kondisi">Kondisi sekarang</a>
+    <a href="#berita">Berita terkini</a>
+    <a href="#prakiraan">Prakiraan</a>
+    <a href="#siklus">Siklus dunia</a>
+    <a href="#simulasi">Simulasi 10.000 masa depan</a>
+    <a href="#matriks">Matriks aset</a>
+    <a href="#analis">Tanya analis AI</a>
+  </nav>
+</header>
+
+<section id="kondisi">
+  <div class="sec-head">
+    <span class="eyebrow">Bacaan instrumen</span>
+    <h2>Kondisi dunia sekarang</h2>
+  </div>
+  <div class="regime card" id="regime-card">
+    <div style="display:grid;gap:8px;align-content:start">
+      <span class="eyebrow">Rezim pasar</span>
+      <div class="big" id="regime-title"></div>
+      <p class="lede" id="regime-text"></p>
+    </div>
+    <div class="scale">
+      <div style="display:flex;justify-content:space-between;gap:8px;align-items:baseline"><span class="eyebrow">Indeks tekanan risiko global</span><span class="risk-num" id="risk-num"></span></div>
+      <div class="scale-bar"><span class="scale-mark" id="risk-mark" style="left:50%"></span></div>
+      <div class="scale-labels"><span>Tenang</span><span>Waspada</span><span>Krisis</span></div>
+      <p class="note" id="risk-note"></p>
+      <svg id="risk-spark" viewBox="0 0 300 40" preserveAspectRatio="none" style="width:100%;height:40px" aria-label="Riwayat indeks risiko"></svg>
+    </div>
+  </div>
+  <div class="readings" id="readings"></div>
+</section>
+
+<section id="berita">
+  <div class="sec-head">
+    <span class="eyebrow">Kawat berita</span>
+    <h2>Berita terkini yang menggerakkan pasar</h2>
+  </div>
+  <div class="card wire" id="wire"></div>
+</section>
+
+<section id="penggerak">
+  <div class="sec-head">
+    <span class="eyebrow">Apa yang menggerakkan dunia</span>
+    <h2>Penggerak utama</h2>
+  </div>
+  <div class="drivers" id="drivers"></div>
+</section>
+
+<section id="prakiraan">
+  <div class="sec-head">
+    <span class="eyebrow">Skenario dasar, optimis, pesimis</span>
+    <h2>Prakiraan per periode</h2>
+    <p class="lede">Setiap periode punya tiga skenario dengan perkiraan peluangnya. Peluang ini juga menjadi masukan mesin simulasi di bawah.</p>
+  </div>
+  <div class="tabs" role="tablist" id="tabs"></div>
+  <div class="horizon" id="horizon" role="tabpanel"></div>
+</section>
+
+<section id="siklus">
+  <div class="sec-head">
+    <span class="eyebrow">Di mana kita sekarang</span>
+    <h2>Siklus dunia</h2>
+    <p class="lede">Ekonomi dan pasar bergerak dalam siklus yang berulang: suku bunga, saham, emas, Bitcoin, minyak, dolar. Setiap lingkaran menunjukkan posisi kita sekarang dalam satu putaran penuh, aset yang biasanya unggul di fase ini, dan fase berikutnya. Siklus tidak pernah berulang persis, jadi gunakan sebagai peta, bukan jadwal.</p>
+  </div>
+  <div class="cycles" id="cycles"></div>
+  <div class="card" style="display:grid;gap:10px">
+    <h3>Kalender siklus 2026–2029</h3>
+    <div class="timeline" id="timeline"></div>
+  </div>
+</section>
+
+<section id="simulasi">
+  <div class="sec-head">
+    <span class="eyebrow">Mesin simulasi Monte Carlo</span>
+    <h2>Simulasi 10.000 masa depan</h2>
+    <p class="lede">Mesin ini membuat ribuan versi masa depan. Di tiap versi, dunia memilih skenario (dasar, optimis, atau pesimis) untuk tahun pertama, tahun 2–3, dan tahun 4–5 sesuai peluangnya, lalu harga tiap aset bergerak acak setiap bulan dengan volatilitas dan korelasi yang realistis. Hasilnya: sebaran kemungkinan nilai portofolio Anda, bukan satu tebakan.</p>
+  </div>
+  <div class="card sim">
+    <div class="sim-side">
+      <div class="field">
+        <label for="amount">Dana investasi (Rupiah)</label>
+        <input type="text" id="amount" inputmode="numeric" value="100.000.000">
+      </div>
+      <div class="field">
+        <span class="lab" id="profile-lab">Profil risiko</span>
+        <div class="seg" role="group" aria-labelledby="profile-lab" id="profiles"></div>
+      </div>
+      <p class="note" id="profile-desc"></p>
+      <div class="alloc-bar" id="alloc-bar" aria-hidden="true"></div>
+      <div class="sliders" id="sliders"></div>
+      <div class="field">
+        <label for="paths">Jumlah masa depan</label>
+        <select id="paths"><option value="2000">2.000 (cepat)</option><option value="10000" selected>10.000</option><option value="50000">50.000 (paling teliti)</option></select>
+      </div>
+    </div>
+    <div class="sim-main">
+      <p class="sim-head" id="sim-head">Menghitung…</p>
+      <div class="chart-box"><canvas id="fan" role="img" aria-label="Grafik sebaran nilai portofolio selama 5 tahun"></canvas></div>
+      <div class="chart-legend">
+        <span><i style="background:var(--accent);opacity:.18"></i>90% masa depan</span>
+        <span><i style="background:var(--accent);opacity:.38"></i>50% masa depan</span>
+        <span><i style="background:var(--accent)"></i>Median</span>
+        <span><i style="background:var(--muted);height:2px"></i>Jika semua di deposito</span>
+      </div>
+      <div class="table-wrap"><table id="simtable"></table></div>
+      <div class="sim-run">
+        <button class="btn" id="rerun">Jalankan ulang simulasi</button>
+        <span class="note" id="sim-meta"></span>
+      </div>
+      <p class="note">Asumsi imbal hasil, volatilitas, dan korelasi tiap aset tersimpan di data langsung dan disesuaikan agen saat kondisi berubah. Ini model statistik, bukan komputer kuantum, dan hasilnya hanya sebaik asumsinya.</p>
+    </div>
+  </div>
+</section>
+
+<section id="matriks">
+  <div class="sec-head">
+    <span class="eyebrow">Apa yang dibeli, kapan</span>
+    <h2>Matriks aset</h2>
+    <p class="lede">Sikap untuk tiap kelas aset di tiap periode, dilihat dari investor yang memakai Rupiah. "Tambah" berarti menambah porsi secara bertahap, bukan sekaligus.</p>
+  </div>
+  <div class="legend">
+    <span class="chip add">Tambah</span><span class="chip hold">Tahan</span><span class="chip care">Hati-hati</span><span class="chip cut">Kurangi</span>
+  </div>
+  <div class="table-wrap"><table id="matrix"></table></div>
+  <div class="card" style="display:grid;gap:8px">
+    <h3>Aturan sebelum mulai</h3>
+    <ul style="margin:0;padding-left:18px;display:grid;gap:4px;color:var(--muted);font-size:0.9rem">
+      <li>Sisihkan dana darurat 6 bulan pengeluaran di tabungan atau reksa dana pasar uang. Dana itu tidak ikut diinvestasikan.</li>
+      <li>Jangan pakai utang atau pinjol untuk berinvestasi.</li>
+      <li>Masuk bertahap (DCA), misalnya dibagi 6 kali dalam 6 bulan, karena volatilitas sedang tinggi.</li>
+      <li>Tinjau ulang setiap 3 bulan atau ketika indeks risiko berubah lebih dari 10 poin.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="analis">
+  <div class="sec-head">
+    <span class="eyebrow">Analisis langsung</span>
+    <h2>Tanya analis AI</h2>
+    <p class="lede">Claude membaca data terbaru, berita, dan hasil simulasi portofolio Anda di halaman ini, lalu menjawab pertanyaan atau menganalisis skenario "bagaimana jika".</p>
+  </div>
+  <div class="card analyst">
+    <div class="presets" id="presets"></div>
+    <div class="field">
+      <label for="q">Pertanyaan atau berita terbaru</label>
+      <textarea id="q" rows="4" placeholder="Contoh: Hari ini BI menaikkan suku bunga ke 6,25% dan rupiah menguat ke 17.800. Apa dampaknya untuk portofolio saya?"></textarea>
+    </div>
+    <div class="row">
+      <div class="field">
+        <label for="q-depth">Kedalaman</label>
+        <select id="q-depth"><option value="default">Standar</option><option value="complex">Mendalam (lebih lambat)</option></select>
+      </div>
+      <div style="display:flex;gap:8px">
+        <button class="btn primary" id="ask">Analisis</button>
+        <button class="btn" id="stop" hidden>Berhenti</button>
+      </div>
+    </div>
+    <div class="answer" id="answer" aria-live="polite"><p class="note">Jawaban akan muncul di sini.</p></div>
+    <p class="note" id="ai-note">Analis AI memakai kuota Claude milik orang yang membuka halaman ini, dan akan meminta izin saat pertama kali dipakai.</p>
+  </div>
+</section>
+
+<div class="disclaimer">
+  <strong>Bukan nasihat keuangan pribadi.</strong>
+  <span>Prakiraan dan simulasi ini adalah skenario berbasis asumsi, bukan ramalan pasti. Tidak ada yang bisa memprediksi pasar dengan akurat, apalagi 5 tahun ke depan. Sesuaikan dengan kondisi keuangan, tujuan, dan toleransi risiko Anda sendiri, dan pertimbangkan berkonsultasi dengan perencana keuangan berlisensi OJK. Contoh nama aset hanya ilustrasi sektor, bukan rekomendasi beli.</span>
+</div>
+
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const STANCE = { add: "Tambah", hold: "Tahan", care: "Hati-hati", cut: "Kurangi" };
+const LBL = { base: "Skenario dasar", bull: "Optimis", bear: "Pesimis" };
+const REG = ["base", "bull", "bear"];
+const COLORS = { dep: "#7f97a8", sbn: "#3f7ea8", gold: "#c9a227", usd: "#5d8f73", idx: "#c0573d", glob: "#7a5ea8", btc: "#e08a2e" };
+const PROFILES = {
+  konservatif: { label: "Konservatif", desc: "Prioritas menjaga nilai uang. Untuk dana yang dibutuhkan dalam 1–3 tahun.", w: { dep: 35, sbn: 30, gold: 15, usd: 10, idx: 5, glob: 5, btc: 0 } },
+  moderat: { label: "Moderat", desc: "Seimbang antara pertumbuhan dan keamanan. Untuk tujuan 3–5 tahun.", w: { dep: 20, sbn: 20, gold: 15, usd: 10, idx: 15, glob: 15, btc: 5 } },
+  agresif: { label: "Agresif", desc: "Mengejar pertumbuhan untuk tujuan 5 tahun ke atas. Siap melihat portofolio turun 30% atau lebih.", w: { dep: 10, sbn: 10, gold: 10, usd: 5, idx: 25, glob: 30, btc: 10 } },
+  kustom: { label: "Kustom", desc: "Atur sendiri porsi tiap aset dengan penggeser. Total otomatis dihitung menjadi 100%.", w: null },
+};
+const PRESETS = [
+  "Bagaimana jika Selat Hormuz ditutup total selama 3 bulan?",
+  "Bagaimana jika rupiah tembus 20.000 per dolar?",
+  "Bagaimana jika Fed justru menurunkan suku bunga awal 2027?",
+  "Apa yang paling berubah dari berita terbaru hari ini?",
+  "Apakah sekarang waktu yang baik untuk membeli Bitcoin?",
+];
+
+let S = null;              // current snapshot
+let SEED = null;           // published fallback, fills keys the live doc lacks
+let live = { state: "off", at: null };
+let current = "1b";
+let profile = "moderat";
+let custom = { ...PROFILES.moderat.w };
+let seed = 20261113;
+let sim = null;
+let lastModel = "";
+
+try { const v = localStorage.getItem("pd-horizon"); if (v) current = v; } catch {}
+try { const v = localStorage.getItem("pd-profile"); if (v && PROFILES[v]) profile = v; } catch {}
+try { const v = JSON.parse(localStorage.getItem("pd-custom") || "null"); if (v && typeof v === "object") custom = { ...custom, ...v }; } catch {}
+
+// ---------- formatting ----------
+const fmtRp = (n) => "Rp " + Math.round(n).toLocaleString("id-ID");
+function fmtRpShort(n) {
+  const a = Math.abs(n);
+  if (a >= 1e12) return "Rp " + (n / 1e12).toLocaleString("id-ID", { maximumFractionDigits: 2 }) + " T";
+  if (a >= 1e9) return "Rp " + (n / 1e9).toLocaleString("id-ID", { maximumFractionDigits: 2 }) + " M";
+  if (a >= 1e6) return "Rp " + (n / 1e6).toLocaleString("id-ID", { maximumFractionDigits: 1 }) + " jt";
+  return fmtRp(n);
+}
+const pct = (x) => (x * 100).toLocaleString("id-ID", { maximumFractionDigits: 1 }) + "%";
+function ago(iso) {
+  const ms = Date.now() - new Date(iso).getTime();
+  if (!isFinite(ms)) return "";
+  const m = Math.round(ms / 60000);
+  if (m < 1) return "baru saja";
+  if (m < 60) return m + " menit lalu";
+  const h = Math.round(m / 60);
+  if (h < 48) return h + " jam lalu";
+  return Math.round(h / 24) + " hari lalu";
+}
+const wib = (iso) => { try { return new Date(iso).toLocaleString("id-ID", { timeZone: "Asia/Jakarta", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }) + " WIB"; } catch { return ""; } };
+
+// ---------- live status ----------
+function renderLive() {
+  const pill = $("live-pill");
+  let s = live.state, label;
+  const fresh = S?.updatedAt && (Date.now() - new Date(S.updatedAt).getTime()) < 3 * 3600e3;
+  if (s === "live" && fresh) label = "Live · update tiap jam";
+  else if (s === "live") { s = "stale"; label = "Live · data belum diperbarui"; }
+  else if (s === "connecting") label = "Menghubungkan…";
+  else label = "Snapshot tersimpan";
+  pill.dataset.s = s;
+  $("live-label").textContent = label;
+  $("live-time").textContent = S?.updatedAt ? `Data per ${wib(S.updatedAt)} (${ago(S.updatedAt)})` : "";
+}
+setInterval(renderLive, 30000);
+
+// ---------- sparkline ----------
+function spark(values, w = 300, h = 26) {
+  const v = values.filter((x) => typeof x === "number" && isFinite(x));
+  if (v.length < 2) return "";
+  const min = Math.min(...v), max = Math.max(...v), r = max - min || 1;
+  const pts = v.map((x, i) => [(i / (v.length - 1)) * w, h - 2 - ((x - min) / r) * (h - 4)]);
+  const d = pts.map((p, i) => (i ? "L" : "M") + p[0].toFixed(1) + " " + p[1].toFixed(1)).join(" ");
+  const up = v[v.length - 1] >= v[0];
+  const col = up ? "var(--up)" : "var(--down)";
+  const last = pts[pts.length - 1];
+  return `<path d="${d} L${w} ${h} L0 ${h} Z" fill="${col}" fill-opacity="0.12" stroke="none"/><path d="${d}" fill="none" stroke="${col}" stroke-width="1.5" vector-effect="non-scaling-stroke"/><circle cx="${last[0]}" cy="${last[1]}" r="2.5" fill="${col}"/>`;
+}
+
+// ---------- render sections ----------
+function renderTop() {
+  $("regime-title").textContent = S.regimeTitle || "";
+  $("regime-text").textContent = S.regimeText || "";
+  $("risk-note").textContent = S.riskNote || "";
+  const risk = Math.max(0, Math.min(100, Number(S.risk) || 0));
+  $("risk-mark").style.left = risk + "%";
+  const hist = (S.history || []).map((x) => x.risk);
+  const prev = hist.length > 1 ? hist[hist.length - 2] : null;
+  const delta = prev == null ? "" : ` (${risk - prev >= 0 ? "+" : ""}${risk - prev} dari update sebelumnya)`;
+  $("risk-num").textContent = `${risk}/100${delta}`;
+  $("risk-spark").innerHTML = spark(hist, 300, 40);
+  $("readings").innerHTML = (S.readings || []).map((r) => {
+    const series = r.h ? (S.history || []).map((x) => x[r.h]) : [];
+    const sp = spark(series);
+    return `<div class="reading"><span class="k">${esc(r.k)}</span><span class="v">${esc(r.v)}</span><span class="d ${esc(r.c)}">${esc(r.d)}</span>${sp ? `<svg viewBox="0 0 300 26" preserveAspectRatio="none" aria-hidden="true">${sp}</svg>` : ""}</div>`;
+  }).join("");
+}
+
+function renderWire() {
+  const items = [...(S.news || [])].sort((a, b) => new Date(b.time) - new Date(a.time)).slice(0, 10);
+  $("wire").innerHTML = items.length ? items.map((n) => {
+    const safeUrl = /^https:\/\//.test(n.url || "") ? n.url : null;
+    const title = safeUrl ? `<a href="${esc(safeUrl)}" target="_blank" rel="noopener">${esc(n.t)}</a>` : `<span>${esc(n.t)}</span>`;
+    const lab = { naik: "Naik", turun: "Turun", netral: "Netral" }[n.impact] || "Netral";
+    return `<div class="wire-item"><time datetime="${esc(n.time)}">${esc(ago(n.time))}</time><div>${title}<small>${esc(n.src)} · berdampak ke: ${esc(n.assets)}</small></div><span class="chip ${esc(n.impact || "netral")}">${lab}</span></div>`;
+  }).join("") : `<p class="note">Belum ada berita. Agen akan menambahkannya pada update berikutnya.</p>`;
+}
+
+function renderDrivers() {
+  $("drivers").innerHTML = (S.drivers || []).map((d) => `<article class="driver" data-sev="${esc(d.sev)}"><div class="meta"><h3>${esc(d.t)}</h3><span class="sev">${esc(d.sev)}</span></div><p>${esc(d.p)}</p><p class="impact">${esc(d.i)}</p></article>`).join("");
+}
+
+function renderTabs() {
+  const H = S.horizons || [];
+  if (!H.some((h) => h.id === current)) current = H[0]?.id;
+  $("tabs").innerHTML = H.map((h) => `<button role="tab" id="tab-${esc(h.id)}" aria-selected="${h.id === current}" data-h="${esc(h.id)}"><span class="t">${esc(h.t)}</span><span class="s">${esc(h.s)}</span></button>`).join("");
+  const h = H.find((x) => x.id === current);
+  if (!h) return;
+  $("horizon").setAttribute("aria-labelledby", "tab-" + h.id);
+  $("horizon").innerHTML = `
+    <p class="h-summary">${esc(h.sum)}</p>
+    <div class="scen">${(h.sc || []).map((s) => `
+      <article class="scen-card ${esc(s.k)}">
+        <div class="top"><span class="lbl">${LBL[s.k] || esc(s.k)}</span><span class="prob">${Number(s.p) || 0}%</span></div>
+        <div class="probbar"><i style="width:${Number(s.p) || 0}%"></i></div>
+        <h3>${esc(s.n)}</h3>
+        <p>${esc(s.d)}</p>
+        <ul>${(s.l || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>
+      </article>`).join("")}</div>
+    <div class="todo"><h3>Yang sebaiknya dilakukan</h3><ul>${(h.todo || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>
+    <div style="display:grid;gap:6px"><span class="eyebrow">Sinyal yang perlu dipantau</span><div class="watch">${(h.w || []).map((x) => `<span>${esc(x)}</span>`).join("")}</div></div>`;
+}
+$("tabs").addEventListener("click", (e) => {
+  const b = e.target.closest("button[data-h]"); if (!b) return;
+  current = b.dataset.h; renderTabs();
+  try { localStorage.setItem("pd-horizon", current); } catch {}
+});
+$("tabs").addEventListener("keydown", (e) => {
+  if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+  const H = S.horizons; const i = H.findIndex((x) => x.id === current);
+  current = H[(i + (e.key === "ArrowRight" ? 1 : -1) + H.length) % H.length].id;
+  renderTabs(); $("tab-" + current)?.focus();
+});
+
+function renderMatrix() {
+  const H = S.horizons || [];
+  $("matrix").innerHTML = `<thead><tr><th>Kelas aset</th>${H.map((h) => `<th>${esc(h.t)}</th>`).join("")}</tr></thead><tbody>${(S.assets || []).map((a) => `<tr><td class="asset"><b>${esc(a.n)}</b><small>${esc(a.e)}</small></td>${(a.s || []).map((s) => `<td><span class="chip ${esc(s)}">${STANCE[s] || esc(s)}</span></td>`).join("")}</tr>`).join("")}</tbody>`;
+}
+
+// ---------- allocation ----------
+const parseAmt = (s) => Number(String(s).replace(/[^\d]/g, "")) || 0;
+function weights() {
+  const raw = profile === "kustom" ? custom : PROFILES[profile].w;
+  const A = S.model.assets;
+  const w = A.map((a) => Math.max(0, Number(raw[a.id]) || 0));
+  const sum = w.reduce((x, y) => x + y, 0) || 1;
+  return w.map((x) => x / sum);
+}
+function renderAlloc() {
+  $("profiles").innerHTML = Object.entries(PROFILES).map(([k, v]) => `<button aria-pressed="${k === profile}" data-p="${k}">${v.label}</button>`).join("");
+  $("profile-desc").textContent = PROFILES[profile].desc;
+  const A = S.model.assets, w = weights();
+  const amt = parseAmt($("amount").value);
+  $("alloc-bar").innerHTML = A.map((a, i) => `<i style="width:${(w[i] * 100).toFixed(2)}%;background:${COLORS[a.id] || "var(--muted)"}" title="${esc(a.n)}"></i>`).join("");
+  const src = profile === "kustom" ? custom : PROFILES[profile].w;
+  $("sliders").innerHTML = A.map((a, i) => `<div class="slider"><span class="sw" style="background:${COLORS[a.id] || "var(--muted)"}"></span><label for="sl-${a.id}">${esc(a.n)} · ${fmtRpShort(amt * w[i])}</label><span class="pv">${Math.round(w[i] * 100)}%</span><input type="range" id="sl-${a.id}" data-id="${a.id}" min="0" max="60" step="1" value="${Number(src[a.id]) || 0}"></div>`).join("");
+}
+$("profiles").addEventListener("click", (e) => {
+  const b = e.target.closest("button[data-p]"); if (!b) return;
+  if (b.dataset.p === "kustom" && profile !== "kustom") custom = { ...(PROFILES[profile].w) };
+  profile = b.dataset.p;
+  try { localStorage.setItem("pd-profile", profile); } catch {}
+  renderAlloc(); scheduleSim();
+});
+$("sliders").addEventListener("input", (e) => {
+  const s = e.target.closest("input[data-id]"); if (!s) return;
+  if (profile !== "kustom") { custom = { ...(PROFILES[profile].w) }; profile = "kustom"; }
+  custom[s.dataset.id] = Number(s.value);
+  try { localStorage.setItem("pd-profile", profile); localStorage.setItem("pd-custom", JSON.stringify(custom)); } catch {}
+  // update in place so the slider being dragged is not replaced
+  document.querySelectorAll("#profiles button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.p === profile)));
+  $("profile-desc").textContent = PROFILES[profile].desc;
+  const A = S.model.assets, w = weights(), amt = parseAmt($("amount").value);
+  $("alloc-bar").querySelectorAll("i").forEach((el, i) => { el.style.width = (w[i] * 100).toFixed(2) + "%"; });
+  A.forEach((a, i) => {
+    const row = $("sl-" + a.id)?.closest(".slider"); if (!row) return;
+    row.querySelector(".pv").textContent = Math.round(w[i] * 100) + "%";
+    row.querySelector("label").textContent = `${a.n} · ${fmtRpShort(amt * w[i])}`;
+  });
+  scheduleSim();
+});
+$("amount").addEventListener("input", (e) => {
+  const n = parseAmt(e.target.value);
+  e.target.value = n ? n.toLocaleString("id-ID") : "";
+  renderAlloc(); scheduleSim();
+});
+
+// ---------- Monte Carlo engine ----------
+function mulberry32(a) { return function () { a |= 0; a = (a + 0x6D2B79F5) | 0; let t = Math.imul(a ^ (a >>> 15), 1 | a); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
+function probsOf(id) {
+  const h = (S.horizons || []).find((x) => x.id === id);
+  const p = REG.map((k) => Number(h?.sc?.find((s) => s.k === k)?.p) || 0);
+  const t = p.reduce((a, b) => a + b, 0);
+  return t > 0 ? p.map((x) => x / t) : [0.5, 0.25, 0.25];
+}
+function simulate(w, amount, n, sd) {
+  const A = S.model.assets, k = A.length, M = 60;
+  const rnd = mulberry32(sd);
+  let spare = null;
+  const gauss = () => { if (spare !== null) { const s = spare; spare = null; return s; } let u = 0, v = 0; while (u === 0) u = rnd(); v = rnd(); const r = Math.sqrt(-2 * Math.log(u)); spare = r * Math.sin(2 * Math.PI * v); return r * Math.cos(2 * Math.PI * v); };
+  const drift = REG.map((_, r) => A.map((a) => Math.log(1 + (Number(a.mu?.[r]) || 0)) / 12 - 0.5 * (a.sig * a.sig) / 12));
+  const vol = A.map((a) => (Number(a.sig) || 0) / Math.sqrt(12));
+  const bm = A.map((a) => Number(a.bm) || 0), bf = A.map((a) => Number(a.bf) || 0);
+  const idw = A.map((_, i) => Math.sqrt(Math.max(0, 1 - bm[i] * bm[i] - bf[i] * bf[i])));
+  const p1 = probsOf("1t"), p3 = probsOf("3t"), p5 = probsOf("5t");
+  const pick = (p) => { const u = rnd(); return u < p[0] ? 0 : u < p[0] + p[1] ? 1 : 2; };
+  const vals = new Float64Array((M + 1) * n);
+  const regCount = [0, 0, 0];
+  for (let p = 0; p < n; p++) {
+    const r1 = pick(p1), r2 = pick(p3), r3 = pick(p5);
+    regCount[r1]++;
+    let V = amount; vals[p] = V;
+    for (let m = 1; m <= M; m++) {
+      const r = m <= 12 ? r1 : m <= 36 ? r2 : r3, dr = drift[r];
+      const zm = gauss(), zf = gauss();
+      let g = 0;
+      for (let i = 0; i < k; i++) {
+        if (w[i] === 0) continue;
+        const z = bm[i] * zm + bf[i] * zf + idw[i] * gauss();
+        g += w[i] * Math.exp(dr[i] + vol[i] * z);
+      }
+      V *= g; vals[m * n + p] = V;
+    }
+  }
+  const Q = [0.05, 0.25, 0.5, 0.75, 0.95];
+  const bands = [];
+  const depMu = Number(A.find((a) => a.id === "dep")?.mu?.[0]) || 0.05;
+  const checkpoints = { 1: "1 bulan", 3: "3 bulan", 6: "6 bulan", 12: "1 tahun", 36: "3 tahun", 60: "5 tahun" };
+  const stats = [];
+  for (let m = 0; m <= M; m++) {
+    const col = vals.slice(m * n, (m + 1) * n).sort();
+    bands.push(Q.map((q) => col[Math.min(n - 1, Math.floor(q * n))]));
+    if (checkpoints[m]) {
+      const dep = amount * Math.pow(1 + depMu, m / 12);
+      let loss = 0, beat = 0, sum = 0;
+      for (let i = 0; i < n; i++) { const x = col[i]; sum += x; if (x < amount) loss++; if (x > dep) beat++; }
+      stats.push({ m, label: checkpoints[m], q: bands[m], mean: sum / n, pLoss: loss / n, pBeat: beat / n, dep });
+    }
+  }
+  return { bands, stats, n, amount, depMu, regShare: regCount.map((c) => c / n) };
+}
+
+let simTimer = null;
+function scheduleSim() { clearTimeout(simTimer); simTimer = setTimeout(runSim, 250); }
+function runSim() {
+  const amount = parseAmt($("amount").value);
+  if (!amount) { $("sim-head").textContent = "Masukkan jumlah dana untuk memulai simulasi."; return; }
+  const n = Number($("paths").value) || 10000;
+  $("sim-meta").textContent = "Menghitung…";
+  requestAnimationFrame(() => setTimeout(() => {
+    const t0 = performance.now();
+    sim = simulate(weights(), amount, n, seed);
+    const ms = performance.now() - t0;
+    $("sim-meta").textContent = `${n.toLocaleString("id-ID")} masa depan × 60 bulan dihitung dalam ${(ms / 1000).toLocaleString("id-ID", { maximumFractionDigits: 2 })} detik`;
+    renderSim(); drawFan();
+  }, 0));
+}
+$("rerun").addEventListener("click", () => { seed = (Math.random() * 2 ** 31) | 0; runSim(); });
+$("paths").addEventListener("change", runSim);
+
+function renderSim() {
+  const y1 = sim.stats.find((s) => s.m === 12), y5 = sim.stats.find((s) => s.m === 60);
+  $("sim-head").innerHTML = `Dalam <b>1 tahun</b>, separuh dari ${sim.n.toLocaleString("id-ID")} masa depan berakhir di atas <b>${fmtRpShort(y1.q[2])}</b>. Peluang nilainya di bawah modal: <b>${pct(y1.pLoss)}</b>. Dalam <b>5 tahun</b>, median <b>${fmtRpShort(y5.q[2])}</b>, dan 1 dari 20 masa depan terburuk di bawah <b>${fmtRpShort(y5.q[0])}</b>.`;
+  $("simtable").innerHTML = `<thead><tr><th>Periode</th><th class="num">Median</th><th class="num">Rentang 90%</th><th class="num">Peluang rugi</th><th class="num">Peluang kalahkan deposito</th></tr></thead><tbody>${sim.stats.map((s) => `<tr><td>${s.label}</td><td class="num">${fmtRpShort(s.q[2])}</td><td class="num">${fmtRpShort(s.q[0])} – ${fmtRpShort(s.q[4])}</td><td class="num" style="color:${s.pLoss > 0.3 ? "var(--down)" : "inherit"}">${pct(s.pLoss)}</td><td class="num">${pct(s.pBeat)}</td></tr>`).join("")}</tbody>`;
+}
+
+function drawFan() {
+  if (!sim) return;
+  const cv = $("fan"), box = cv.parentElement;
+  const W = box.clientWidth, H = box.clientHeight, dpr = window.devicePixelRatio || 1;
+  cv.width = W * dpr; cv.height = H * dpr;
+  const c = cv.getContext("2d"); c.setTransform(dpr, 0, 0, dpr, 0, 0); c.clearRect(0, 0, W, H);
+  const pad = { l: 72, r: 14, t: 12, b: 28 };
+  const B = sim.bands, M = B.length - 1;
+  let lo = Math.min(...B.map((b) => b[0]), sim.amount), hi = Math.max(...B.map((b) => b[4]));
+  const dep = (m) => sim.amount * Math.pow(1 + sim.depMu, m / 12);
+  hi = Math.max(hi, dep(M)); const span = hi - lo; lo -= span * 0.04; hi += span * 0.04;
+  const x = (m) => pad.l + (m / M) * (W - pad.l - pad.r);
+  const y = (v) => pad.t + (1 - (v - lo) / (hi - lo)) * (H - pad.t - pad.b);
+  const ink = css("--muted"), line = css("--line"), acc = css("--accent");
+  c.font = `11px ${css("--f-mono") || "monospace"}`; c.fillStyle = ink; c.strokeStyle = line; c.lineWidth = 1;
+  // y grid
+  const step = niceStep((hi - lo) / 5);
+  c.textAlign = "right"; c.textBaseline = "middle";
+  for (let v = Math.ceil(lo / step) * step; v <= hi; v += step) {
+    c.beginPath(); c.moveTo(pad.l, y(v)); c.lineTo(W - pad.r, y(v)); c.stroke();
+    c.fillText(fmtRpShort(v).replace("Rp ", ""), pad.l - 8, y(v));
+  }
+  // x ticks
+  c.textAlign = "center"; c.textBaseline = "top";
+  [[0, "Kini"], [6, "6 bln"], [12, "1 thn"], [24, "2 thn"], [36, "3 thn"], [48, "4 thn"], [60, "5 thn"]].forEach(([m, l]) => {
+    if (W < 460 && (m === 6 || m === 24 || m === 48)) return;
+    c.fillText(l, x(m), H - pad.b + 8);
+  });
+  const band = (a, b, alpha) => {
+    c.beginPath();
+    for (let m = 0; m <= M; m++) c.lineTo(x(m), y(B[m][a]));
+    for (let m = M; m >= 0; m--) c.lineTo(x(m), y(B[m][b]));
+    c.closePath(); c.globalAlpha = alpha; c.fillStyle = acc; c.fill(); c.globalAlpha = 1;
+  };
+  band(0, 4, 0.16); band(1, 3, 0.3);
+  // modal line
+  c.setLineDash([2, 4]); c.strokeStyle = ink; c.beginPath(); c.moveTo(pad.l, y(sim.amount)); c.lineTo(W - pad.r, y(sim.amount)); c.stroke();
+  c.setLineDash([6, 4]); c.beginPath(); for (let m = 0; m <= M; m++) c.lineTo(x(m), y(dep(m))); c.stroke(); c.setLineDash([]);
+  // median
+  c.strokeStyle = acc; c.lineWidth = 2.2; c.beginPath(); for (let m = 0; m <= M; m++) c.lineTo(x(m), y(B[m][2])); c.stroke();
+  c.fillStyle = acc; c.beginPath(); c.arc(x(M), y(B[M][2]), 3.5, 0, Math.PI * 2); c.fill();
+}
+function niceStep(raw) { const p = Math.pow(10, Math.floor(Math.log10(raw))); const f = raw / p; return (f < 1.5 ? 1 : f < 3 ? 2 : f < 7 ? 5 : 10) * p; }
+new ResizeObserver(() => drawFan()).observe($("fan").parentElement);
+window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", drawFan);
+new MutationObserver(drawFan).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+
+// ---------- cycles ----------
+function dial(phases, pos) {
+  const cx = 52, cy = 52, r = 40, n = phases.length || 4;
+  const cur = Math.min(n - 1, Math.floor((pos / 100) * n));
+  const pt = (a, rr = r) => [cx + rr * Math.cos(a), cy + rr * Math.sin(a)];
+  let arcs = "";
+  for (let i = 0; i < n; i++) {
+    const a0 = (i / n) * 2 * Math.PI - Math.PI / 2 + 0.04, a1 = ((i + 1) / n) * 2 * Math.PI - Math.PI / 2 - 0.04;
+    const [x0, y0] = pt(a0), [x1, y1] = pt(a1);
+    arcs += `<path d="M${x0.toFixed(1)} ${y0.toFixed(1)} A${r} ${r} 0 0 1 ${x1.toFixed(1)} ${y1.toFixed(1)}" fill="none" stroke="var(--accent)" stroke-opacity="${i === cur ? 1 : 0.2}" stroke-width="${i === cur ? 9 : 7}" stroke-linecap="round"/>`;
+  }
+  const a = (pos / 100) * 2 * Math.PI - Math.PI / 2;
+  const [mx, my] = pt(a);
+  const [hx, hy] = pt(a, r - 16);
+  return `<svg viewBox="0 0 104 104" aria-hidden="true">${arcs}<line x1="${cx}" y1="${cy}" x2="${hx.toFixed(1)}" y2="${hy.toFixed(1)}" stroke="var(--ink)" stroke-width="2" stroke-linecap="round"/><circle cx="${cx}" cy="${cy}" r="3.5" fill="var(--ink)"/><circle cx="${mx.toFixed(1)}" cy="${my.toFixed(1)}" r="6.5" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5"/><text x="${cx}" y="${cy + 20}" text-anchor="middle" font-family="var(--f-mono)" font-size="9" fill="var(--muted)">${cur + 1}/${n}</text></svg>`;
+}
+function renderCycles() {
+  const C = S.cycles || [];
+  $("cycles").innerHTML = C.map((c) => {
+    const P = c.phases || [], pos = Math.max(0, Math.min(99.9, Number(c.pos) || 0));
+    const cur = Math.min(P.length - 1, Math.floor((pos / 100) * P.length));
+    const chips = (arr) => (arr || []).map((x) => esc(x)).join(", ") || "—";
+    return `<article class="cycle" aria-label="${esc(c.n)}: fase ${esc(P[cur])}">
+      <div class="cycle-top">${dial(P, pos)}<div style="display:grid;gap:3px;min-width:0"><h3>${esc(c.n)}</h3><span class="sub">${esc(c.sub)}</span><span class="phase-now">${esc(P[cur])}</span><span class="conf">Keyakinan: ${esc(c.conf)}</span></div></div>
+      <div class="phase-steps">${P.map((p, i) => `<span class="${i === cur ? "on" : ""}">${esc(p)}</span>`).join("")}</div>
+      <p>${esc(c.now)}</p>
+      <dl class="kv"><dt>Biasanya unggul</dt><dd>${chips(c.win)}</dd><dt>Biasanya lemah</dt><dd>${chips(c.lose)}</dd><dt>Berikutnya</dt><dd>${esc(c.next)}</dd></dl>
+      <p class="hist">${esc(c.hist)}</p>
+    </article>`;
+  }).join("");
+  const names = Object.fromEntries(C.map((c) => [c.id, c.n]));
+  const now = Date.now();
+  $("timeline").innerHTML = [...(S.milestones || [])].sort((a, b) => new Date(a.d) - new Date(b.d)).map((m) => {
+    const past = new Date(m.d).getTime() < now;
+    const d = new Date(m.d + "T00:00:00Z");
+    const label = isNaN(d) ? esc(m.d) : d.toLocaleDateString("id-ID", { month: "short", year: "numeric", timeZone: "UTC" });
+    return `<div class="tl-item${past ? " past" : ""}"><time datetime="${esc(m.d)}">${label}</time><span class="tl-dot"></span><div>${esc(m.t)}<small>${esc(names[m.c] || "")}${past ? " · sudah lewat" : ""}</small></div></div>`;
+  }).join("");
+}
+
+// ---------- render all ----------
+function renderAll(flash) {
+  if (!S?.model?.assets?.length) return;
+  renderLive(); renderTop(); renderWire(); renderDrivers(); renderTabs(); renderCycles(); renderMatrix(); renderAlloc();
+  const key = JSON.stringify([S.model, (S.horizons || []).map((h) => (h.sc || []).map((s) => s.p))]);
+  if (key !== lastModel || !sim) { lastModel = key; runSim(); }
+  if (flash) { const el = $("regime-card"); el.classList.remove("flash"); void el.offsetWidth; el.classList.add("flash"); }
+}
+
+// ---------- AI analyst ----------
+$("presets").innerHTML = PRESETS.map((p, i) => `<button data-i="${i}">${esc(p)}</button>`).join("");
+$("presets").addEventListener("click", (e) => {
+  const b = e.target.closest("button[data-i]"); if (!b) return;
+  $("q").value = PRESETS[+b.dataset.i]; $("q").focus();
+});
+function context() {
+  const H = S.horizons || [];
+  const h = H.map((x) => `- ${x.t} (${x.s}): ${x.sum} Skenario: ${(x.sc || []).map((s) => `${LBL[s.k]} "${s.n}" ${s.p}%: ${s.d}`).join(" | ")}`).join("\n");
+  const m = (S.assets || []).map((a) => `- ${a.n}: ${(a.s || []).map((s, i) => `${H[i]?.t}=${STANCE[s]}`).join(", ")}`).join("\n");
+  const news = (S.news || []).slice(0, 10).map((n) => `- [${n.time}] ${n.t} (${n.src}; dampak ${n.impact} ke ${n.assets})`).join("\n");
+  const A = S.model.assets, w = weights();
+  const port = A.map((a, i) => `${a.n} ${Math.round(w[i] * 100)}%`).join(", ");
+  const simTxt = sim ? sim.stats.map((s) => `${s.label}: median ${fmtRpShort(s.q[2])}, rentang 90% ${fmtRpShort(s.q[0])}–${fmtRpShort(s.q[4])}, peluang rugi ${pct(s.pLoss)}`).join("\n") : "belum ada";
+  return `DATA LIVE (diperbarui ${S.updatedAt}):\nIndeks risiko global: ${S.risk}/100. Rezim: ${S.regimeTitle}.\n${(S.readings || []).map((r) => `- ${r.k}: ${r.v} (${r.d})`).join("\n")}\n\nBERITA TERBARU:\n${news}\n\nPENGGERAK:\n${(S.drivers || []).map((d) => `- ${d.t}: ${d.p}`).join("\n")}\n\nPRAKIRAAN:\n${h}\n\nPOSISI SIKLUS:\n${(S.cycles || []).map((c) => { const P = c.phases || []; const i = Math.min(P.length - 1, Math.floor(((Number(c.pos) || 0) / 100) * P.length)); return `- ${c.n}: fase "${P[i]}" (${c.now}) Berikutnya: ${c.next}`; }).join("\n")}\n\nMATRIKS ASET:\n${m}\n\nPORTOFOLIO PENGGUNA (${PROFILES[profile].label}, dana ${fmtRp(parseAmt($("amount").value))}): ${port}\n\nHASIL SIMULASI MONTE CARLO PORTOFOLIO INI:\n${simTxt}`;
+}
+function md(text) {
+  const lines = esc(text).split("\n");
+  let out = "", inList = false;
+  for (const raw of lines) {
+    const l = raw.replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
+    if (/^\s*[-*•]\s+/.test(l)) { if (!inList) { out += "<ul>"; inList = true; } out += `<li>${l.replace(/^\s*[-*•]\s+/, "")}</li>`; continue; }
+    if (inList) { out += "</ul>"; inList = false; }
+    if (/^#{1,6}\s+/.test(l)) out += `<h4>${l.replace(/^#{1,6}\s+/, "")}</h4>`;
+    else if (l.trim()) out += `<p>${l}</p>`;
+  }
+  if (inList) out += "</ul>";
+  return out;
+}
+const ERR = {
+  not_granted: "Analis AI tidak diizinkan untuk halaman ini, jadi fitur ini dimatikan.",
+  sampling_disabled: "Claude tidak tersedia untuk akun ini.",
+  rate_limited: "Terlalu banyak permintaan. Tunggu sebentar lalu coba lagi.",
+  session_expired: "Sesi Anda berakhir. Masuk lagi ke Claude lalu coba lagi.",
+  refused: "Claude tidak bisa menjawab pertanyaan ini. Coba ubah kalimatnya.",
+  prompt_too_large: "Teks terlalu panjang. Persingkat berita yang ditempel.",
+};
+const HIDE = ["not_granted", "sampling_disabled", "not_declared", "capability_disabled", "capability_removed"];
+
+async function initAnalyst() {
+  const sample = window.claude?.use ? await window.claude.use("sample") : null;
+  if (!sample) {
+    $("ask").disabled = true;
+    $("ai-note").textContent = "Analis AI hanya aktif saat halaman ini dibuka di Claude. Bagian lain halaman tetap bisa dipakai.";
+    return;
+  }
+  let ctl = null, off = false;
+  $("stop").onclick = () => ctl?.abort();
+  $("ask").onclick = async () => {
+    const q = $("q").value.trim();
+    if (!q) { $("answer").innerHTML = `<p class="note">Tulis pertanyaan atau tempel berita dulu, atau pilih salah satu contoh di atas.</p>`; $("q").focus(); return; }
+    if (!S) return;
+    ctl = new AbortController();
+    $("ask").disabled = true; $("stop").hidden = false;
+    $("answer").innerHTML = `<p class="thinking">Menganalisis… (bisa memakan waktu hingga satu menit)</p>`;
+    const prompt = `Kamu adalah analis makro dan investasi untuk investor ritel Indonesia. Jawab dalam bahasa Indonesia yang jelas dan lugas.
+
+${context()}
+
+PERTANYAAN ATAU BERITA BARU DARI PENGGUNA:
+"""${q.slice(0, 6000)}"""
+
+Tugas:
+1. Jika pengguna menempel berita baru, anggap itu fakta terbaru dan jelaskan bagaimana berita itu mengubah skenario dan peluangnya.
+2. Bahas dampaknya per periode (1 bulan, 3 bulan, 6 bulan, 1 tahun, 3–5 tahun), singkat saja.
+3. Beri saran tindakan konkret per kelas aset sesuai portofolio pengguna, dan sebut apakah porsinya perlu diubah. Rujuk hasil simulasi bila relevan.
+4. Sebut sinyal yang perlu dipantau dan apa yang membuat analisis ini salah.
+5. Akhiri dengan satu kalimat pengingat bahwa ini bukan nasihat keuangan pribadi.
+
+Format: judul "## ..." untuk tiap bagian dan daftar "- ...". Maksimal sekitar 450 kata. Jangan mengarang angka pasar baru selain yang ada di data atau yang diberikan pengguna.`;
+    try {
+      await sample(prompt, { signal: ctl.signal, cache: false, modelTier: $("q-depth").value, onText: ({ text }) => { $("answer").innerHTML = md(text); } });
+    } catch (e) {
+      if (e && HIDE.includes(e.code)) { $("answer").innerHTML = `<p class="note">${esc(ERR[e.code] || "Analis AI tidak tersedia di tampilan ini.")}</p>`; off = true; }
+      else {
+        if (e?.code === "refused") $("answer").innerHTML = "";
+        else if (e?.text) $("answer").innerHTML = md(e.text);
+        if (e?.code !== "cancelled") $("answer").insertAdjacentHTML("beforeend", `<p class="note">${esc(ERR[e?.code] || "Koneksi terputus. Coba lagi.")}</p>`);
+      }
+    } finally {
+      $("ask").disabled = off; $("stop").hidden = true;
+    }
+  };
+}
+
+// ---------- boot ----------
+async function boot() {
+  try { const r = await fetch("seed.json"); if (r.ok) { SEED = await r.json(); S = SEED; } } catch {}
+  if (S) renderAll(false);
+  initAnalyst();
+  live.state = "connecting"; renderLive();
+  const db = window.claude?.use ? await window.claude.use("db") : null;
+  if (!db) { live.state = "off"; renderLive(); return; }
+  const slow = setTimeout(() => { if (live.state === "connecting") { live.state = "off"; renderLive(); } }, 10000);
+  let first = true;
+  db.doc("live/snapshot").onSnapshot((snap) => {
+    if (!snap.metadata.fromCache) clearTimeout(slow);
+    live.state = "live";
+    if (snap.exists) {
+      const d = snap.data();
+      if (d && Array.isArray(d.readings) && d.model?.assets?.length) {
+        const changed = !S || d.updatedAt !== S.updatedAt;
+        S = { ...(SEED || {}), ...d }; renderAll(changed && !first);
+      }
+    }
+    first = false;
+    renderLive();
+  }, () => { clearTimeout(slow); live.state = "off"; renderLive(); });
+}
+boot();
+</script>

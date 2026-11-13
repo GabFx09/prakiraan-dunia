@@ -1,0 +1,50 @@
+name: Sinkron data agen Claude
+
+# The hourly Claude agent may only be allowed to push to its own branch
+# (claude/...). This copies its validated data/snapshot.json onto main
+# and removes the temporary branch.
+on:
+  push:
+    branches:
+      - "claude/**"
+      - "agent-data"
+    paths:
+      - "data/snapshot.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Ambil dan validasi data dari cabang agen
+        run: |
+          git fetch --depth=1 origin "$GITHUB_SHA"
+          git show "$GITHUB_SHA:data/snapshot.json" > /tmp/snapshot.json
+          python3 scripts/validate_snapshot.py /tmp/snapshot.json
+          cp /tmp/snapshot.json data/snapshot.json
+
+      - name: Simpan ke main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/snapshot.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: analisis agen Claude"
+            for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
+          fi
+
+      - name: Hapus cabang sementara
+        if: always()
+        run: git push origin --delete "${GITHUB_REF_NAME}" || true
