@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-13T20:35:22Z",
+ "updatedAt": "2026-11-13T20:50:07Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Trump and Xi Can Reopen Trade. But for Whom?",
+   "src": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNU02NXZtbkJlbXE0dGNEU1A2b1FUdW8wNU0xV2EzOGJ4Y3BxZGhpd3VuZUpTYno5MWNRLUxMc3hIMXJDd2xuTXotQUdsZjNvc09LdnhtSENfeUpVWVgxZ1FNOVJSQy1JX3dEbi1tb3BPVjN6M0xoVHI3YU9hdTE1RQ?oc=5",
+   "time": "2026-11-13T20:32:50Z"
+  },
   {
    "topic": "bank-sentral",
    "lang": "en",
@@ -33,14 +41,6 @@
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXJmalVqcjF1WEgxXzRyZ2hNRTRMWXdCWGdpblhnaGwxY0ZDeFIwYTVnWENtQ2U2NFg3YkpUS21EdkNHaXlwVlVicGxWd2RJZnJqOXlySXJfZzdscXlqRFNJSkswUjZ0ZjFINC11aU9GMWdrMGR6SzdfYUlkN3pGaDZZci1NbnkxWmtoZ1lNa3E2MmxDcnFqRnN0MWpwUURLT05odHBpdVlhNXRjNUJOd3JGcnNCYzd6bjVqWQ?oc=5",
    "time": "2026-11-13T19:55:01Z"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Trump and Xi Can Reopen Trade. But for Whom?",
-   "src": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNU02NXZtbkJlbXE0dGNEU1A2b1FUdW8wNU0xV2EzOGJ4Y3BxZGhpd3VuZUpTYno5MWNRLUxMc3hIMXJDd2xuTXotQUdsZjNvc09LdnhtSENfeUpVWVgxZ1FNOVJSQy1JX3dEbi1tb3BPVjN6M0xoVHI3YU9hdTE1RQ?oc=5",
-   "time": "2026-11-13T19:41:46Z"
   },
   {
    "topic": "geopolitik",
@@ -93,34 +93,10 @@
   {
    "topic": "bank-sentral",
    "lang": "en",
-   "t": "Waller Floats Prospect Of Larger December Interest Rate Hike",
+   "t": "Could The Fed Raise Interest Rates By 50 Basis Points In December?",
    "src": "Forbes",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlpMUGJTVFJlck5hRWotVFZkNTl1UkhZU1NfOFBBMHpmLUs5dzM3QlA1RXdfdE9lbUJvS3NGNzFxRWdlc2FJLWJUOVo5ZlpPYlY2MnFSY0JIUlFVUGNxQkYzczNqd2hXOHdsRXVRbV8zYjZiWXg3ZklWQ1A2dkE0aHJZMFdSTXFoMExKbktwdFZ4eUpaQkV3NE5ZZnRCblZra2lWODZwR2Fuc3FIeHlHcjl3?oc=5",
    "time": "2026-11-13T17:34:22Z"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "THE WORLD BRACES as Trump’s Canada Tariff Stand-Off Escalates: McGeever",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5",
-   "time": "2026-11-13T17:31:45Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Your House vs. the Stock Market: Which Has Been a Better Investment?",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDhuREROVnFDbm1TeWMwbG8wT3V2SVNCcU5MZEFNZ3BKWTFZcUt4ei1kcXFSa0tUc3psNExPTzRISEFzXy00NlRWeUo1ZzNyYXF0V0JPSGk1cGhXY2wxMGhEaE5RQy1YZkQ5T29YSWhSZjVXUjZmZlF2bF9JaVFkamlibmQ?oc=5",
-   "time": "2026-11-13T17:30:14Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin price slides to the 200-week moving average after US producer prices",
-   "src": "CryptoTicker.io",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVUzMGJLdVJIMl9scjF0Z1RQaGdzVDFhUWJXeGdheHdrV2hvZzdqbU1reUc1WHA3bGUzWGk0ZkowTEtUd1RzUnJWYWJ3U3htY1JnUjFkOTJGRDlFaEdtRngyQnFZcGNHWFV1b3ZOOE14SjU1SUpXMXdlWTJHRy1yUzJXVG1lM3lY?oc=5",
-   "time": "2026-11-13T17:19:02Z"
   },
   {
    "topic": "emas",
@@ -251,6 +227,22 @@
    "time": "2026-11-13T14:15:00Z"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Slumps Below $70,000. Robinhood, Coinbase, and Other Crypto Stocks Follow It Down.",
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTV80VkdRSEwyNVd4aEsxc0ljT2V0ekpnR3BOZ0l2TlpRT1ZVY1dva2YweDQ1N3MzZUI4c0h3YjBDTW12X1FLVUpOdWpOSjNqR3RUSkxVTTdDUVhLWGlEeVczay1MbkhiczgxNnpVRGxCcENSNzZCSzNySEQyUlVrcWdsYXprMmVIY25qcFBjTTJ0ams?oc=5",
+   "time": "2026-11-13T14:13:00Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
+   "src": "Bitcoin Magazine",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wTGJuQm5iSUNGWmt5c29rSlA0MVRBRE5hZFM2bDVCSzNmb0N0OVllYzg5S1ZVVGxNNkd4WXRMdlA5RGJZeUtZam5ac1JmSUJXVGJqdG5jVFNtWDRvWWtfSXljS0FaNG0temo4WjlPYUdiS2ZMa24xdVVzQV81eUU?oc=5",
+   "time": "2026-11-13T14:11:44Z"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Wall Street Divided on S&P 500: Which ETFs Could Benefit in 2027?",
@@ -329,14 +321,6 @@
    "src": "Substack",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNREZyWHlhd3BMTHhNMEVKTEkxRk5zRHRKN0ZhdWlSRHAzYXhNYjBSU3FQNlExUWowT1Jqa2E1VzI5ekVMTmZaYVpEc3RpX1RCaDRrTGoweThjakVMSXdrRndRcnI1a3Q3d1NFU1hFWXJEcmVpM2hUbXV3RWxxNEV1UUZB?oc=5",
    "time": "2026-11-13T11:37:24Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin (BTC) Price Prediction 2026, 2027 – 2030: How High Will BTC Price Go?",
-   "src": "Coinpedia",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiVHQ2cDI3RlA0Z3hvb05nUy05VnUtQi1jTFZ5VUhadi0wNmltaU1OQVhpbG44SUViXzVtWEtITTJxMTU2UHY3TlZnWXFSNzhrZEUwLUdJUTByaHVnUV8wSHRDZGtrSjBKSkxqYkdhOW40UdIBd0FVX3lxTE1pTUZhdHBKOVAtZXZDZW9HV180a21NZkhOSExFaGhwMHBuR1RCNS0zMkVVdmF6NHB0M0sxOU1YYUxMRjRGRGcwb3VZZ04wR1BFbDNCRzU3UXVYRnZlOUltTXNzQk8zcDZjRXk4LVUyejdRa0hxa3VV?oc=5",
-   "time": "2026-11-13T11:32:18Z"
   },
   {
    "topic": "indonesia",
@@ -481,6 +465,22 @@
    "src": "Bloomberg Technoz",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakpFQ0hTU19CODYxNEQ3Q1ZUQXNDNnZsd0F6dEFmdExXZVZRU3JRUlNGTE85SjhPS2VNVUxZdXFFcWFpS3J4aF9fYU9KWG9CNmJ1a2E4em9lb0JqdW5DWFg2V3J5OF9abXE1c0N3b2FidlZtYTBlNVg4WFNvX1I4MXlOQnNnbnV0d202NkhLVmRZZXBSY2FJbThGbjc3cVd2U3R1bk9aNzJYYkgyVnc?oc=5",
    "time": "2026-11-13T06:06:31Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Inflasi Terkendali, Daya Beli Masyarakat Masih Diuji",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ1NNbTVrWnp3RWU1ZmQyRkhDMmw3RDdoX1lNbEEtZDB4NWJNME9zSDJBWEE4OGQ4bE1zQ1ZHRjY2VHp2VUI3WF9Od3NtTElqVXVkS21rYnk5dzZNbXN5QU9jODNDN19nYUhuUTh6MDlaWmVUZWQwLW4zdHJlSzFaWFJfZnoxLVlobnhYeDBlb1BLNTJ0eGRCUTMwUF9HWGhaQUwxdjRuc21lMGViR2ZRV1p2NkNjcURKUGdvXw?oc=5",
+   "time": "2026-11-13T06:03:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG dibuka menguat 14,77 poin ke posisi 5.265 pada Jumat",
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYTZCMm0yRTBsVXFJQmJtc3hUVWVMdWZpMHlfWE5EazcwNUx6YlgydzhsdF9idVd4aDc5Rzd0SE9pYkVGekFKYXVSVnNIdGN4V1VzTHRuMHNLYk5HaXNzMjhBUlppN1NmeFluVGJhaXZJSThTVXFnZC1qQ21uVEtsN2xYLWdja3hKc01YN2lnT3NVREh6V29WamVR?oc=5",
+   "time": "2026-11-13T04:21:15Z"
   }
  ],
  "errors": []
