@@ -42,6 +42,7 @@
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html { scroll-behavior: smooth; scroll-padding-top: 16px; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--sans); font-size: 14px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
@@ -842,7 +843,7 @@ async function notify(title, body, url, tag) {
 const isOwn = (u) => typeof u === "string" && u.startsWith(location.origin + location.pathname.replace(/index\.html$/, ""));
 function renderAlerts() {
   const items = AL?.items || [];
-  $("m-alert").textContent = AL?.updatedAt ? `${items.length} tercatat · dicek ${ago(AL.updatedAt)}` : "";
+  $("m-alert").textContent = `${items.length} tercatat` + (MKT?.updatedAt ? ` · dicek ${ago(MKT.updatedAt)}` : "");
   $("al-list").innerHTML = items.length ? items.slice(0, 15).map((a) => {
     const url = /^https:\/\//.test(a.url || "") ? a.url : "#peringatan";
     return `<div class="al ${esc(a.level)}"><div class="al-h"><span class="tag ${esc(a.level)}">${esc(a.level)}</span><time datetime="${esc(a.time)}">${esc(ago(a.time))}</time><span>${esc({ berita: "berita", harga: "guncangan harga", risiko: "indeks risiko" }[a.kind] || a.kind || "")}</span></div><a href="${esc(url)}"${isOwn(url) ? "" : ' target="_blank" rel="noopener"'}>${esc(a.title)}</a>${a.body ? `<p>${esc(a.body)}</p>` : ""}</div>`;
