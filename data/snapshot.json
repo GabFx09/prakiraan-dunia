@@ -257,6 +257,33 @@
     "Efektif MSCI 30 Nov",
     "APEC & G20 18–19 Nov",
     "Data inflasi AS"
+   ],
+   "targets": [
+    {
+     "key": "ihsg",
+     "low": 4900,
+     "high": 5400
+    },
+    {
+     "key": "usdidr",
+     "low": 17900,
+     "high": 18500
+    },
+    {
+     "key": "brent",
+     "low": 85,
+     "high": 100
+    },
+    {
+     "key": "gold",
+     "low": 3800,
+     "high": 4100
+    },
+    {
+     "key": "btc",
+     "low": 68000,
+     "high": 80000
+    }
    ]
   },
   {
@@ -307,6 +334,33 @@
     "Harga Brent di atas $110 atau di bawah $80",
     "Laporan keuangan Q4 perusahaan AI",
     "Arah rupiah"
+   ],
+   "targets": [
+    {
+     "key": "brent",
+     "low": 80,
+     "high": 95
+    },
+    {
+     "key": "gold",
+     "low": 3900,
+     "high": 4400
+    },
+    {
+     "key": "usdidr",
+     "low": 17600,
+     "high": 18600
+    },
+    {
+     "key": "ihsg",
+     "low": 4800,
+     "high": 5800
+    },
+    {
+     "key": "spx",
+     "low": 6900,
+     "high": 8000
+    }
    ]
   },
   {
@@ -1035,6 +1089,33 @@
    "d": "2029-10-01",
    "t": "Perkiraan puncak siklus Bitcoin jika pola berulang",
    "c": "btc"
+  }
+ ],
+ "riskParts": [
+  {
+   "k": "Geopolitik",
+   "v": 85,
+   "note": "Perang Iran, Selat Hormuz"
+  },
+  {
+   "k": "Inflasi & suku bunga",
+   "v": 78,
+   "note": "Fed dan BI kembali menaikkan bunga"
+  },
+  {
+   "k": "Valuasi saham",
+   "v": 70,
+   "note": "Saham AI mahal mulai terkoreksi"
+  },
+  {
+   "k": "Likuiditas & dolar",
+   "v": 68,
+   "note": "Obligasi AS di atas 5%, dolar kuat"
+  },
+  {
+   "k": "Indonesia",
+   "v": 76,
+   "note": "Rupiah di atas 18.000, dana asing keluar"
   }
  ]
 }

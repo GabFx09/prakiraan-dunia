@@ -36,6 +36,15 @@ def main(path):
         total = sum(int(s.get("p", 0)) for s in sc)
         if total != 100:
             fail(f"peluang {h['id']} berjumlah {total}, harus 100")
+    for h in d["horizons"]:
+        for t in h.get("targets", []) or []:
+            if t.get("key") not in {"spx", "ihsg", "gold", "brent", "usdidr", "ust10", "btc"}:
+                fail(f"target {h['id']} punya key tidak dikenal: {t.get('key')}")
+            if not (float(t["low"]) < float(t["high"])):
+                fail(f"target {h['id']}/{t['key']}: low harus < high")
+    for p in d.get("riskParts", []) or []:
+        if not (0 <= int(p.get("v", -1)) <= 100):
+            fail(f"riskParts '{p.get('k')}' di luar 0-100")
     for a in d["assets"]:
         if len(a.get("s", [])) != 6 or not set(a["s"]) <= STANCES:
             fail(f"aset '{a.get('n')}' punya sikap tidak valid")

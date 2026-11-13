@@ -47,7 +47,7 @@ def fetch(symbol):
     last_err = None
     for attempt in range(3):
         for host in HOSTS:
-            url = f"{host}/v8/finance/chart/{q}?range=3mo&interval=1d"
+            url = f"{host}/v8/finance/chart/{q}?range=6mo&interval=1d"
             try:
                 req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
                 with urllib.request.urlopen(req, timeout=20) as r:
@@ -71,7 +71,7 @@ def fetch(symbol):
                     "prev": round(float(prev), 4) if prev else None,
                     "chg": round((price / prev - 1) * 100, 2) if prev else None,
                     "time": datetime.fromtimestamp(meta.get("regularMarketTime", time.time()), timezone.utc).isoformat().replace("+00:00", "Z"),
-                    "series": series[-66:],
+                    "series": series[-130:],
                 }
             except Exception as e:  # noqa: BLE001 - keep trying other hosts
                 last_err = e

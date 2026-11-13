@@ -1,0 +1,116 @@
+{
+ "updatedAt": "2026-11-13T08:00:00Z",
+ "note": "Setiap prakiraan adalah rentang skenario dasar. Dicek otomatis saat jatuh tempo memakai harga penutupan dari data/market.json.",
+ "items": [
+  {
+   "id": "2026-11-13-1b-ihsg",
+   "made": "2026-11-13",
+   "due": "2026-12-13",
+   "h": "1b",
+   "key": "ihsg",
+   "low": 4900,
+   "high": 5400,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-1b-usdidr",
+   "made": "2026-11-13",
+   "due": "2026-12-13",
+   "h": "1b",
+   "key": "usdidr",
+   "low": 17900,
+   "high": 18500,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-1b-brent",
+   "made": "2026-11-13",
+   "due": "2026-12-13",
+   "h": "1b",
+   "key": "brent",
+   "low": 85,
+   "high": 100,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-1b-gold",
+   "made": "2026-11-13",
+   "due": "2026-12-13",
+   "h": "1b",
+   "key": "gold",
+   "low": 3800,
+   "high": 4100,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-1b-btc",
+   "made": "2026-11-13",
+   "due": "2026-12-13",
+   "h": "1b",
+   "key": "btc",
+   "low": 68000,
+   "high": 80000,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-3b-brent",
+   "made": "2026-11-13",
+   "due": "2027-02-13",
+   "h": "3b",
+   "key": "brent",
+   "low": 80,
+   "high": 95,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-3b-gold",
+   "made": "2026-11-13",
+   "due": "2027-02-13",
+   "h": "3b",
+   "key": "gold",
+   "low": 3900,
+   "high": 4400,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-3b-usdidr",
+   "made": "2026-11-13",
+   "due": "2027-02-13",
+   "h": "3b",
+   "key": "usdidr",
+   "low": 17600,
+   "high": 18600,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-3b-ihsg",
+   "made": "2026-11-13",
+   "due": "2027-02-13",
+   "h": "3b",
+   "key": "ihsg",
+   "low": 4800,
+   "high": 5800,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-3b-spx",
+   "made": "2026-11-13",
+   "due": "2027-02-13",
+   "h": "3b",
+   "key": "spx",
+   "low": 6900,
+   "high": 8000,
+   "status": "open",
+   "actual": null
+  }
+ ]
+}

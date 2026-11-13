@@ -22,11 +22,14 @@ jobs:
       - name: Ambil harga dari Yahoo Finance
         run: python3 scripts/fetch_market.py
 
+      - name: Cek akurasi prakiraan
+        run: python3 scripts/evaluate_forecasts.py
+
       - name: Simpan ke repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/market.json
+          git add data/market.json data/forecasts.json
           if git diff --cached --quiet; then echo "Tidak ada perubahan"; exit 0; fi
           git commit -m "data: harga pasar $(date -u +%Y-%m-%dT%H:%MZ)"
           for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 5; done
