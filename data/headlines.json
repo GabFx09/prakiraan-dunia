@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-13T20:50:07Z",
+ "updatedAt": "2026-11-13T20:53:33Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Jeff Valks: Investing in Juniors? Focus on This, Not the Gold Price",
+   "src": "Investing News Network",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lbWJjTzZsTzlMZ3hnLWRpRjVqNlR2N25LREZsMTBUT1pHSUVVTFF6Q042bU1pRTBoVTU5MkpUcFQwT0drVkRzYjFLWEs2SHdTYkQ2T3BpT0hvWkJ1Um9TRQ?oc=5",
+   "time": "2026-11-13T20:52:11Z"
+  },
   {
    "topic": "china",
    "lang": "en",
@@ -51,14 +59,6 @@
    "time": "2026-11-13T19:30:14Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Bitcoin vs gold: 1 BTC now buys only 18 ounces of gold",
-   "src": "CryptoTicker.io",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XNng3RWJzMGNCamVNRU1McnZxYkdGVDVMLW1SSWMzSGNNYmxKM2ZlMldkaklGeTdUZWJHZjNJN2VBeFpWbDNxeldQeGwxRWl2OVB2eGJKTU41LXNDVzdwOE9iS0l2d2pJU1NvTUk4VHBNeUNkZGJMQzBqeGQ?oc=5",
-   "time": "2026-11-13T19:13:46Z"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Stocks sway as Wall Street heads for a winning week after several turbulent days",
@@ -97,6 +97,14 @@
    "src": "Forbes",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlpMUGJTVFJlck5hRWotVFZkNTl1UkhZU1NfOFBBMHpmLUs5dzM3QlA1RXdfdE9lbUJvS3NGNzFxRWdlc2FJLWJUOVo5ZlpPYlY2MnFSY0JIUlFVUGNxQkYzczNqd2hXOHdsRXVRbV8zYjZiWXg3ZklWQ1A2dkE0aHJZMFdSTXFoMExKbktwdFZ4eUpaQkV3NE5ZZnRCblZra2lWODZwR2Fuc3FIeHlHcjl3?oc=5",
    "time": "2026-11-13T17:34:22Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin price slides to the 200-week moving average after US producer prices",
+   "src": "CryptoTicker.io",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVUzMGJLdVJIMl9scjF0Z1RQaGdzVDFhUWJXeGdheHdrV2hvZzdqbU1reUc1WHA3bGUzWGk0ZkowTEtUd1RzUnJWYWJ3U3htY1JnUjFkOTJGRDlFaEdtRngyQnFZcGNHWFV1b3ZOOE14SjU1SUpXMXdlWTJHRy1yUzJXVG1lM3lY?oc=5",
+   "time": "2026-11-13T17:19:02Z"
   },
   {
    "topic": "emas",
@@ -227,22 +235,6 @@
    "time": "2026-11-13T14:15:00Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Slumps Below $70,000. Robinhood, Coinbase, and Other Crypto Stocks Follow It Down.",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTV80VkdRSEwyNVd4aEsxc0ljT2V0ekpnR3BOZ0l2TlpRT1ZVY1dva2YweDQ1N3MzZUI4c0h3YjBDTW12X1FLVUpOdWpOSjNqR3RUSkxVTTdDUVhLWGlEeVczay1MbkhiczgxNnpVRGxCcENSNzZCSzNySEQyUlVrcWdsYXprMmVIY25qcFBjTTJ0ams?oc=5",
-   "time": "2026-11-13T14:13:00Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
-   "src": "Bitcoin Magazine",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wTGJuQm5iSUNGWmt5c29rSlA0MVRBRE5hZFM2bDVCSzNmb0N0OVllYzg5S1ZVVGxNNkd4WXRMdlA5RGJZeUtZam5ac1JmSUJXVGJqdG5jVFNtWDRvWWtfSXljS0FaNG0temo4WjlPYUdiS2ZMa24xdVVzQV81eUU?oc=5",
-   "time": "2026-11-13T14:11:44Z"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Wall Street Divided on S&P 500: Which ETFs Could Benefit in 2027?",
@@ -321,6 +313,14 @@
    "src": "Substack",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNREZyWHlhd3BMTHhNMEVKTEkxRk5zRHRKN0ZhdWlSRHAzYXhNYjBSU3FQNlExUWowT1Jqa2E1VzI5ekVMTmZaYVpEc3RpX1RCaDRrTGoweThjakVMSXdrRndRcnI1a3Q3d1NFU1hFWXJEcmVpM2hUbXV3RWxxNEV1UUZB?oc=5",
    "time": "2026-11-13T11:37:24Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin (BTC) Price Prediction 2026, 2027 – 2030: How High Will BTC Price Go?",
+   "src": "Coinpedia",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiVHQ2cDI3RlA0Z3hvb05nUy05VnUtQi1jTFZ5VUhadi0wNmltaU1OQVhpbG44SUViXzVtWEtITTJxMTU2UHY3TlZnWXFSNzhrZEUwLUdJUTByaHVnUV8wSHRDZGtrSjBKSkxqYkdhOW40UdIBd0FVX3lxTE1pTUZhdHBKOVAtZXZDZW9HV180a21NZkhOSExFaGhwMHBuR1RCNS0zMkVVdmF6NHB0M0sxOU1YYUxMRjRGRGcwb3VZZ04wR1BFbDNCRzU3UXVYRnZlOUltTXNzQk8zcDZjRXk4LVUyejdRa0hxa3VV?oc=5",
+   "time": "2026-11-13T11:32:18Z"
   },
   {
    "topic": "indonesia",
