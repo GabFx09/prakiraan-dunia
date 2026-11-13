@@ -1,7 +1,23 @@
 {
- "updatedAt": "2026-11-13T22:36:10Z",
+ "updatedAt": "2026-11-13T22:50:50Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Harga Cabai Merah Picu Inflasi Sumbar 0,86%, BI Gelar Pangan Murah",
+   "src": "Lintas Sumbar",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjVybUNQblhRLWFNSmxsLW9RUG5sYmJucG5rYWg0WDF2ampmTGhTZHBxbVhnU09IQ2VGb0JEWTRiYmlwRF8wMVMweW13My15b2s4bGEzWjl1aGxQXzFUNE1OZ2gyV2FJRUJfOFRuUGpGeUpFNmgxSTZrNGZ1MkpmMlRzUU5qT1M2X2R5UndQOXJOV2dnd0ZrbDJTbi04dTd0ZlducGFR?oc=5",
+   "time": "2026-11-13T22:47:35Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "The AI boom has handed the Fed an inflation problem that rate hikes may not fix",
+   "src": "www.marketplace.org",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkhCU3k2eWJjeWgyenJiMnppSXBxdnVQRmZkLW9LZWR5UnVGMzB1X1h5TlpMbnl3R1d1TFJhLXJGNzZOTWxGVHRUM3Z0U2hrYVFvOHEwU0FLRlF3S3Jzb2FaMVd5R2tKZ1Y3WENjMmM5amlTLUUwUWU1QVpDeGYtMENqcEd0dXF2YmhqV3VEaEozTzY1QTRzb3lTbzR4akdTTDNtMUNLYy0?oc=5",
+   "time": "2026-11-13T22:15:00Z"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -27,12 +43,12 @@
    "time": "2026-11-13T21:16:55Z"
   },
   {
-   "topic": "bank-sentral",
+   "topic": "geopolitik",
    "lang": "en",
-   "t": "Kevin Warsh’s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5",
-   "time": "2026-11-13T21:01:00Z"
+   "t": "Iran says 2 oil tankers strike mines, catch fire in Strait of Hormuz",
+   "src": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUN3MXNQaXZ0TWdTdHpVOW8zRnUtd0FWNHdKMnhvZnp1SlpCVVlja3k0ZmRPd3RKSWFCWjZ5YjJNaGRsZ1RENEE3ODZ3OUVkcXgyYU1yZXBLakFQNGpRTW80a2xnV2hIMFItSHdiSUh6LUJjNWxZSWEwc1FRNExINXBnR2M3QkZ5Qi1rcFl6Y054WVRqRGszdnZtTmtibUsyNkNaMFVwLW4zN2Y5?oc=5",
+   "time": "2026-11-13T21:01:42Z"
   },
   {
    "topic": "china",
@@ -51,20 +67,28 @@
    "time": "2026-11-13T20:19:31Z"
   },
   {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall St slides as Nvidia uncertainty drags tech shares lower By Reuters",
-   "src": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXNGd0JzV3JVR243T0FXSWtGT3NUREdfTERGZGtRT3BsS1l2ZURxVHlfbVhtWmVpVWNZSGtCRVNKMGdpYlpERzNscF95Tm5JMzE1WWRRbzRjd183X094ZzRvcFBOQVRPd3FrUHNzZW82UElYQXEzX1RUSi1zN3lseTlxbE1VRXZndzJENkxLRm5hZXBUZDN0MDE5bGsyWUhDY1J2VkdKeG1sZjl0VlVENTNCTDNfU00?oc=5",
-   "time": "2026-11-13T20:11:50Z"
-  },
-  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "The Chances of a Federal Reserve December Rate Hike Are Climbing. Here’s What History Says About Stocks After the Fed Starts Raising Again.",
    "src": "The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2RfTnNBMmdzMVZyOFFSTDM3YjZXOVRmRWVCdGtQTFpGT1ZnbDdZTW1Sb3JnNnYwNjhobE0za3RlY2EwVjhZd2t3YkhSakRwRXZaV1hNbFdxLVJrOWtJWlk2YzJieTJUSnNtWjdyNy1sS1NhNmZKTEllQlpneUhWTE5ZelBaMnhSOXhBMmE2THRra3lxVWx0SnNoMF8yNFRzYlhKZnVrdGF6SmlXTDdkVDVvaW9SZw?oc=5",
    "time": "2026-11-13T20:00:00Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall St slides as Nvidia uncertainty drags tech shares lower",
+   "src": "marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDhKQU1xSjJBTWFoTGVwYnNfZWUzLXY1dzRFa0hud2I5Vm5WWHBTcW9IcXNwenY5azBuVFhzQ21URGI1eS1EcW5iUDJlaVVpUGtxbGJiM1lHb3lWcE51VUttVFQtaC1SWFNKT2VtWkN2cUpqRzZtaW1QdWFpcDBya2dSTlUtSU5RYTRHS2ljWUhicjBwbnRJOXNXLUhuMlJ0SVhtRHVCS3F3TVhHakhqZXZhaw?oc=5",
+   "time": "2026-11-13T19:58:16Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
+   "time": "2026-11-13T19:55:37Z"
   },
   {
    "topic": "bank-sentral",
@@ -105,14 +129,6 @@
    "src": "InfoPublik",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFpYT01JamFXdzdBODUzMEtyUFFrRHJJYXpReGpNWmxnWXRHSW5vTE1QWFBZQm9nLXl0eHRqbDJONGxUXy1NcTZ2cGFJUGJWbFItX1lTN2cxWDVLWkVqdGktN29Sb2NWR01EQTJNaWxHWUZ4TVdRYjh6UWJGZS01MDBEXzZRUVhxcG05VWtyamhON3NVVThHZk1PNzJCMi0yUmlMUTlmNFlPTXF0azdVYXhiNjcwaW5IcW5Ra0doWklnY2xKZTNnQWhudmlPZk9YRXNreVdla2hJbXM0QmRN?oc=5",
    "time": "2026-11-13T17:45:39Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Could The Fed Raise Interest Rates By 50 Basis Points In December?",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlpMUGJTVFJlck5hRWotVFZkNTl1UkhZU1NfOFBBMHpmLUs5dzM3QlA1RXdfdE9lbUJvS3NGNzFxRWdlc2FJLWJUOVo5ZlpPYlY2MnFSY0JIUlFVUGNxQkYzczNqd2hXOHdsRXVRbV8zYjZiWXg3ZklWQ1A2dkE0aHJZMFdSTXFoMExKbktwdFZ4eUpaQkV3NE5ZZnRCblZra2lWODZwR2Fuc3FIeHlHcjl3?oc=5",
-   "time": "2026-11-13T17:34:22Z"
   },
   {
    "topic": "china",
@@ -177,6 +193,14 @@
    "src": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1FhU3E0MEFkQjV4aHZ4WXk5cktoTzhKbE9Sd1ZKTS11dE5raks5bXA0dk5IOGZ1bzBfT2Y5LUluVTZENml5cnBxcVEyOWh6eU9UU0lIS3FNbmdxVnpvdVUyTkdRNlU0REJGYjhaQzhpZHlpWGV1U1pfRjFLVE5wb3h3NGxWbFJmSlRJNDktSENjNVVpUFlHbnNrcW1BMk9vN2NsNzFjQURkeUtGQXBrSWRsMzctNmRzWlhvSUJVQjk5aHZkeUNtYTh3?oc=5",
    "time": "2026-11-13T16:23:18Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart & Price History",
+   "src": "Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HSGlGRjBhSUlQdXZtSXRJWmhTcWlLMmt2WEM2WFk0LV9Bd3BzOGNZQzJmQXJycTBZcmpSNWZiWHMzMDdzY3cyQzlKYXNYSk0tUF9MVzdB?oc=5",
+   "time": "2026-11-13T16:13:24Z"
   },
   {
    "topic": "saham-as",
@@ -339,6 +363,14 @@
    "time": "2026-11-13T12:38:41Z"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Is Claude-maker Anthropic going public just as the AI bubble bursts?",
+   "src": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVJPMWF5cVBHQjhIYUZ4V1F1RmdRbTNvWEVDWmZXY2JZSGJMWE81akNWVHFQc0FsRDN0aFk0VmtfT1ZfdFVKdXUxcF91UFczV3lDbzVVSWVwX2YxV0JQdXd5b2FsVm9HRzl2STFFSjNwSWQtS3QtSnBLMm9IUjZCNHBhUmdXLXo5bDc2dWJzQkZGZ9IBkgFBVV95cUxQQmlPNUVGME9kZDNadXdsbk5TRkpXd0FmVDltVDBuRVFUX3REWFJDSWM2X3Z3SzlLbzViX1l2VGxJSl9Uc2dkcm9wVkV2SkdSWk5aYTg3bWw5VERKWnB0WC1xcXlPLU5BdmlZY3RJYnhiaHhoS2NTeTJ6NUtOeHpTV1lvNjUtQ2pCdEJrVTZ4Vm9NUQ?oc=5",
+   "time": "2026-11-13T12:32:39Z"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
@@ -353,14 +385,6 @@
    "src": "Databoks",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODVINENiVlBsNXdRdVQxWEFXVkZ0aEMyVmhCTF84blRNQ2xBMTRmdEd2cTF3SXRTandIZVhrdDNBWnk3cllBRHhpeTNlUFcxVVJOMEk0MTFrYXgwOF9qNWFFWnQtWnd2NHBjODFPWFhieHh1dVdhZGtvSmNSTkRERTJlN0tmZ0NSQ25lZ1VpUENZcGhwVmtiSmlDdm10N3VieTRqSDlNa3F4ZVR5SE9Ec2FyVUJ2QXVTWXY5Q0VHUG5JVlFtR01JZVJaYWNjWHVYZV9JRmdmYw?oc=5",
    "time": "2026-11-13T11:54:00Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "The Strait of Hormuz: The Conflict May Be About Oil, But the Bill Is Being Paid by All of Us",
-   "src": "Substack",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNREZyWHlhd3BMTHhNMEVKTEkxRk5zRHRKN0ZhdWlSRHAzYXhNYjBSU3FQNlExUWowT1Jqa2E1VzI5ekVMTmZaYVpEc3RpX1RCaDRrTGoweThjakVMSXdrRndRcnI1a3Q3d1NFU1hFWXJEcmVpM2hUbXV3RWxxNEV1UUZB?oc=5",
-   "time": "2026-11-13T11:37:24Z"
   },
   {
    "topic": "indonesia",
@@ -411,36 +435,12 @@
    "time": "2026-11-13T09:32:49Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Why Is Bitcoin Crashing? 5 Pressures That Pushed BTC Below $69,000",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1R3em9xY0M3R3gxc1NSUG8xZThjalJsN2s4QW5PbDJzTVlSOHNyMkVhYVVnWjl4YTI5eVpBQ01nZWhhaVp1T3BpYzdsY3NuQXh5emVvdFpIQk94cGxfcU14LW5CQVpKYzByS294Wnlnd3YyNW1PZktyR3o3UlhVMFlpYU91ckl1VER2V25JX09tUUk4NnMyR0hKUk5CZw?oc=5",
-   "time": "2026-11-13T09:04:29Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
-   "src": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBFMjR2dGk2dUhsUDR3bjJvM0NyTmR5eUF6VERTdWUtNEwxUXNLVjB5OUx3Njg1VFRzQnBFV2VTVGQ0b1c2NC01bFRHRWJUU0FOTVRsQTRYVGxheEpmMENMSGlVTUd1UjJkbW1zNkFnSlEtYnlsemtXbTB1UWhmbGJ5d2w?oc=5",
-   "time": "2026-11-13T08:53:56Z"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "TPID Sulut Proyeksikan Inflasi 2026 di Kisaran 5–8 Persen, Rica Jadi Pemicu Tekanan Harga",
    "src": "sindomanado",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRqVUFCT0FTTC1LTTJJRmdOYnpTTVhpQjhJdm1Td0U3b0xETDlkTU9Ma2thZlRabnRieVk3djRUTVNvNmFUN3lxRE9nbXdYdi04WVlUYjc0ZGZwR2YyM2VNOGtZYWRLSWhsZldhN1JqQ0h0M0prOHdwUGF4Qm1VTzhvNFcxcjlXTWZrT0lhakVSLUY1T0MxMEtxMVpkX2o5SUpHcjRNd25EX2JTNjlDSnkxOVpmVVlsOXQzdmRzdjhuQQ?oc=5",
    "time": "2026-11-13T08:32:25Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Trump says \"we don't need a deal with Iran,\" as Tehran sticks to its demands",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JdnI2N05uOHdtZFhtb0U3MGN6bEhNN05QbE85RV81UGRMenBqY04tWXhLU1MxRzR6NWxZOUx5cnNzYmRwRFEwRWJnbi1Cc0JpMUt2aW53VEpWOFA0cEptN2xLLVB6S1RxNDlydWs5MGsySnprakktTlkwUmxqODQ?oc=5",
-   "time": "2026-11-13T08:31:00Z"
   },
   {
    "topic": "indonesia",
