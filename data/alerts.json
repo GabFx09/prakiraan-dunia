@@ -1,6 +1,19 @@
 {
- "updatedAt": "2026-11-13T09:37:30Z",
- "topic": "prakiraan-dunia-gfx09",
- "items": [],
- "sent": []
+ "updatedAt": "2026-11-13T17:10:47Z",
+ "channel": "Prakiraan Dunia",
+ "items": [
+  {
+   "id": "px-ihsg-20261113-up",
+   "time": "2026-11-13T17:10:47Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "ihsg",
+   "title": "IHSG melonjak 4,5% dalam sehari",
+   "body": "Harga terakhir 5.344. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#ihsg"
+  }
+ ],
+ "sent": [
+  "px-ihsg-20261113-up"
+ ]
 }
