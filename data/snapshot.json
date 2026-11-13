@@ -260,6 +260,17 @@
       "ihsg": 5344.406,
       "usdidr": 18190.0,
       "ust10": 5.103
+    },
+    {
+      "t": "2026-11-13T19:10:00Z",
+      "risk": 75,
+      "btc": 68809.98,
+      "gold": 3883.2,
+      "brent": 96.1,
+      "spx": 7554.54,
+      "ihsg": 5344.406,
+      "usdidr": 18149.0,
+      "ust10": 5.141
     }
   ],
   "horizons": [
@@ -706,6 +717,30 @@
   },
   "news": [
     {
+      "t": "Emas mencatat rangkaian penurunan terpanjang dalam empat dekade di tengah ekspektasi pengetatan Fed",
+      "src": "BullionVault",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3pPdHZWTGJvazFWazE1VnEzZlR3OXpmYUZhYXozOHlTcW1YR1JsWnRGTkNkSzJiOFpueTdjcjhJQ1A4RXI4b0x2NzZWSlVaTWVrWEtyRGFPcGZJTDVObENIYXpiNjRic0k4NFRiNG5SYnF3ZnlEdEEycmc5SG1hcFM4LTN5Vk5GYmtQTGJ4Wjk?oc=5",
+      "time": "2026-11-13T17:02:17Z",
+      "impact": "turun",
+      "assets": "Emas"
+    },
+    {
+      "t": "Serangan terhadap kapal di Selat Hormuz berlanjut, perundingan belum jelas",
+      "src": "IndustryWeek",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
+      "time": "2026-11-13T16:56:50Z",
+      "impact": "naik",
+      "assets": "Minyak, rupiah, emas"
+    },
+    {
+      "t": "Pejabat Fed Collins menyebut kenaikan suku bunga akan tepat dilakukan 'segera'",
+      "src": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEwzV3pSLU9vQ2tmOXhVYzdoTzhyaEcxUjdBdzM2NXE2VC0xNlFDaFhUOGlXa0ZqeTBDTFByTE1xVlVEejBIdEdSUlYwZlZhZnE0MXhzTUtQUlcyNFZYNE1rcVZKV1RWVHRmUXYydWNvbC03V0RFd3NjZUtpS2VtVFl1Umh2RWxDbzQ5a0hlR2F1bDhIN0paOW5sNFdTaU1lOEUwNVNZaHI?oc=5",
+      "time": "2026-11-13T16:10:44Z",
+      "impact": "naik",
+      "assets": "USD, obligasi AS, emas, saham"
+    },
+    {
       "t": "IHSG ditutup melesat 1,78% ke 5.344, terkuat di bursa Asia, meski asing masih net jual",
       "src": "Bloomberg Technoz",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMW1YdWdPM2dDWGtSdTl1UGpUclJlQ0V2THE4QlRndC1EaHRhcFpZVlFQc0ZneXdiNEtQNTEzWEFueUJxYVFjV08zb1FmT2xESjZOZjNtNHNRNEhnRU9GQ2lRSFNfVWU1YjllR2pubHlWRVZoN1VIRm82QUJCUlp0cUlMckkwQmtRd25ZMFhydENKQ2dGbU5kMGR6d0NFRjZIRW12Y0tJeW4?oc=5",
@@ -776,30 +811,6 @@
       "time": "2026-11-12T20:00:00Z",
       "impact": "turun",
       "assets": "Saham AS, obligasi, Rupiah"
-    },
-    {
-      "assets": "Bitcoin, kripto",
-      "impact": "turun",
-      "src": "CoinDCX",
-      "t": "Bitcoin turun ke $72.677, terendah sejak Agustus, setelah data inflasi panas",
-      "time": "2026-11-12T14:00:00Z",
-      "url": "https://coindcx.com/blog/price-predictions/bitcoin-price-weekly"
-    },
-    {
-      "assets": "Saham, obligasi tenor panjang",
-      "impact": "turun",
-      "src": "KuCoin News",
-      "t": "Pasar memperkirakan Fed menaikkan suku bunga 25 bps pada Desember",
-      "time": "2026-11-12T12:00:00Z",
-      "url": "https://www.kucoin.com/news/flash/global-and-domestic-institutional-views-on-inflation-fed-policy-and-market-outlook-2026-11-12"
-    },
-    {
-      "assets": "Emas, Bitcoin",
-      "impact": "turun",
-      "src": "FXStreet",
-      "t": "Emas turun kembali di bawah $4.000 seiring risiko Bitcoin menuju $60 ribu",
-      "time": "2026-11-12T08:35:00Z",
-      "url": "https://fxstreet.com/analysis/gold-breaks-back-below-4-000-as-bitcoin-road-to-60k-seems-opening-faster-than-markets-expect-202611120835"
     }
   ],
   "readings": [
@@ -820,35 +831,35 @@
       "d": "Naik lagi, di atas 5%",
       "h": "ust10",
       "k": "Obligasi AS 10 thn",
-      "v": "5,10%"
+      "v": "5,14%"
     },
     {
       "c": "neg",
       "d": "Tetap tinggi, risiko Hormuz",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$96,12"
+      "v": "$96,10"
     },
     {
       "c": "neg",
-      "d": "Dekat terendah 13 bulan",
+      "d": "Rentetan turun terpanjang 4 dekade",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.894"
+      "v": "$3.883"
     },
     {
       "c": "neg",
-      "d": "Turun ~3%, di bawah $70.000",
+      "d": "Turun ~3,5%, di bawah $70.000",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$69.078"
+      "v": "$68.810"
     },
     {
       "c": "neg",
-      "d": "−0,35%, Nvidia tertekan",
+      "d": "−0,5%, Nvidia tertekan",
       "h": "spx",
       "k": "S&P 500",
-      "v": "≈7.592"
+      "v": "≈7.555"
     },
     {
       "c": "neg",
@@ -862,7 +873,7 @@
       "d": "Rupiah masih melemah",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.190"
+      "v": "18.149"
     },
     {
       "c": "neu",
@@ -873,9 +884,9 @@
   ],
   "regimeText": "Minyak kembali naik akibat serangan di infrastruktur energi Saudi dan gangguan Hormuz, sementara pasar kini memperkirakan Fed menaikkan suku bunga. Saham AI dan kripto tertekan, dan rupiah rentan karena arus keluar dana asing.",
   "regimeTitle": "Stagflasi, risiko tinggi",
-  "risk": 74,
+  "risk": 75,
   "riskNote": "Tekanan utama: perang Iran/Hormuz dan harga minyak, imbal hasil AS 10 tahun di atas 5%, taruhan kenaikan Fed, guncangan saham AI (Nvidia), serta arus keluar dana asing dari Indonesia.",
-  "updatedAt": "2026-11-13T13:12:00Z",
+  "updatedAt": "2026-11-13T19:10:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1170,7 +1181,7 @@
     },
     {
       "k": "Inflasi & suku bunga",
-      "v": 78,
+      "v": 79,
       "note": "Fed dan BI kembali menaikkan bunga"
     },
     {
@@ -1180,7 +1191,7 @@
     },
     {
       "k": "Likuiditas & dolar",
-      "v": 68,
+      "v": 69,
       "note": "Obligasi AS di atas 5%, dolar kuat"
     },
     {
@@ -1191,13 +1202,13 @@
   ],
   "alerts": [],
   "brief": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "points": [
-      "Indeks risiko global di 74/100: konflik Iran–Selat Hormuz terus menekan, Iran melaporkan lagi tanker terkena ranjau; Brent bertahan sekitar $96.",
-      "Imbal hasil obligasi AS 10 tahun di atas 5,1% dan pasar memperkirakan Fed menaikkan bunga pada Desember.",
-      "Saham AI tertekan (CEO Nvidia mundur, kekhawatiran pembatasan chip); S&P 500 −0,35% dan Bitcoin turun ke sekitar $69.000.",
-      "IHSG ditutup naik 1,78% ke 5.344 (tertinggi dua pekan) setelah BEI mencoret 296 saham dari pembobotan indeks; rupiah masih lemah di sekitar 18.190 per dolar.",
-      "Pantau: RDG Bank Indonesia 17–18 November, data inflasi AS Desember, perubahan indeks MSCI (efektif 30 November), dan perkembangan Selat Hormuz."
+      "Indeks risiko global 75/100: serangan kapal di Selat Hormuz berlanjut dan Brent bertahan sekitar $96.",
+      "Pejabat Fed Collins menyebut kenaikan bunga tepat 'segera'; imbal hasil obligasi AS 10 tahun naik ke sekitar 5,14%.",
+      "S&P 500 turun 0,5% dan Bitcoin turun ke sekitar $68.800; emas mencatat rentetan penurunan terpanjang dalam empat dekade (~$3.883).",
+      "IHSG ditutup 5.344 (+1,78%); rupiah masih lemah di sekitar 18.150 per dolar.",
+      "Pantau: RDG Bank Indonesia 17–18 November, perkembangan Selat Hormuz, dan sinyal kenaikan suku bunga Fed."
     ]
   },
   "calendar": [
