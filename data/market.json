@@ -8837,5 +8837,19 @@
    "ok": true
   }
  },
- "errors": []
+ "errors": [],
+ "local": {
+  "antam": {
+   "price": 2509000,
+   "prev": 2518000,
+   "chg": -0.36,
+   "date": "13 November 2026",
+   "prevDate": "12 November 2026",
+   "ok": true,
+   "name": "Emas Antam 1 gram (harga beli)",
+   "src": "emasantam.id",
+   "url": "https://emasantam.id/harga-emas-antam-harian/",
+   "fetchedAt": "2026-11-13T12:41:15Z"
+  }
+ }
 }

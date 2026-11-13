@@ -6,6 +6,21 @@
 <title>Prakiraan Dunia</title>
 <meta name="description" content="Terminal prakiraan ekonomi dan geopolitik dunia: harga live, skenario 1 bulan sampai 5 tahun, siklus pasar, sinyal teknikal, simulasi portofolio, dan rapor akurasi prakiraan untuk investor Rupiah.">
 <meta name="theme-color" content="#06080b">
+<link rel="canonical" href="https://gabfx09.github.io/prakiraan-dunia/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Prakiraan Dunia">
+<meta property="og:locale" content="id_ID">
+<meta property="og:url" content="https://gabfx09.github.io/prakiraan-dunia/">
+<meta property="og:title" content="Prakiraan Dunia · terminal skenario & siklus pasar">
+<meta property="og:description" content="Harga live, berita, skenario 1 bulan–5 tahun, siklus emas/saham/Bitcoin, sinyal teknikal, simulasi portofolio, dan rapor akurasi untuk investor Rupiah.">
+<meta property="og:image" content="https://gabfx09.github.io/prakiraan-dunia/icons/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Prakiraan Dunia: terminal prakiraan ekonomi dunia">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Prakiraan Dunia">
+<meta name="twitter:description" content="Terminal prakiraan ekonomi & geopolitik dunia untuk investor Rupiah.">
+<meta name="twitter:image" content="https://gabfx09.github.io/prakiraan-dunia/icons/og.png">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png" type="image/png">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -590,8 +605,8 @@ footer b { color: var(--amber); }
     <p class="lede">Prakiraan yang baik harus bisa diuji. Setiap rentang harga skenario dasar dicatat dengan tanggal jatuh tempo, lalu GitHub Actions mengeceknya otomatis dengan harga penutupan sebenarnya. Karena skenario dasar berpeluang sekitar 50–55%, rentangnya semestinya kena sekitar separuh waktu. Jauh di atas itu berarti terlalu hati-hati; jauh di bawah berarti terlalu yakin.</p>
     <div class="scoreboard" id="score"></div>
     <div class="tw"><table id="fctable"></table></div>
-    <span class="sub">Uji historis metode rentang volatilitas (6 bulan terakhir)</span>
-    <p class="dim" style="font-size:12px">Sebagai pembanding: rentang yang dibuat otomatis dari volatilitas 30 hari, dengan keyakinan 55% (sama dengan skenario dasar), diuji pada setiap hari dalam data 6 bulan. Metode yang terkalibrasi baik semestinya kena sekitar 55%. Sampel masih kecil dan saling tumpang tindih, jadi baca sebagai arah, bukan angka pasti. Rentang dasar hari ini dipakai agen sebagai titik awal prakiraannya.</p>
+    <span class="sub">Uji historis metode rentang volatilitas (±5 tahun data)</span>
+    <p class="dim" style="font-size:12px">Sebagai pembanding: rentang yang dibuat otomatis dari volatilitas 30 hari, dengan keyakinan 55% (sama dengan skenario dasar), diuji setiap 5 hari bursa selama ±5 tahun (±230–350 pengujian per aset). Metode yang terkalibrasi baik semestinya kena sekitar 55%. Rentang dasar hari ini dipakai agen sebagai titik awal prakiraannya.</p>
     <div class="tw"><table id="bttable"></table></div>
   </div>
 </section>
@@ -859,6 +874,12 @@ function derivedTiles() {
   const tile = (k, v, chg, key, note) => `<div class="rd" data-key="${key}" role="button" tabindex="0"><span class="k">${k}</span><span class="v">${v}</span><span class="d ${chg > 0 ? "up" : chg < 0 ? "down" : "flat"}">${arrow(chg)} ${nf(Math.abs(chg), 2)}% · ${note}</span></div>`;
   let out = "";
   if (g) out += tile("Emas Rp/gram (spot)", "Rp " + nf((g.price * fx.price) / 31.1035), comb(g), "gold", "belum termasuk premi");
+  const an = MKT?.local?.antam;
+  if (an?.price) {
+    const spot = g ? (g.price * fx.price) / 31.1035 : null;
+    const prem = spot ? an.price / spot - 1 : null;
+    out += `<div class="rd" data-key="gold" role="button" tabindex="0" title="Sumber: ${esc(an.src || "")}, ${esc(an.date || "")}"><span class="k">Emas Antam 1 gr</span><span class="v">Rp ${nf(an.price)}</span><span class="d ${an.chg > 0 ? "up" : an.chg < 0 ? "down" : "flat"}">${arrow(an.chg)} ${nf(Math.abs(an.chg || 0), 2)}%${prem != null ? ` · premi ${prem >= 0 ? "+" : "−"}${nf(Math.abs(prem * 100), 0)}% vs spot` : ""}</span></div>`;
+  }
   if (b) out += tile("Bitcoin dalam Rupiah", "Rp " + nf((b.price * fx.price) / 1e6, 0) + " jt", comb(b), "btc", "harga × kurs");
   return out;
 }

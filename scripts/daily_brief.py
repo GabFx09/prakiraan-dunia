@@ -41,6 +41,9 @@ def price_line(market):
             continue
         c = q.get("chg")
         out.append(f"{n} {f(q['price'])}" + (f" ({'+' if c >= 0 else '−'}{nf(abs(c), 1)}%)" if c is not None else ""))
+    an = (market.get("local") or {}).get("antam")
+    if an and an.get("price"):
+        out.append(f"Antam 1 gr Rp {nf(an['price'])}" + (f" ({'+' if an['chg'] >= 0 else '−'}{nf(abs(an['chg']), 1)}%)" if an.get("chg") is not None else ""))
     return " · ".join(out)
 
 

@@ -3,6 +3,16 @@ name: Harga pasar
 # Triggered every ~15 minutes by the "Detak 15 menit" heartbeat workflow
 # (GitHub's own cron never fired for this repo), on every analysis push by the
 # Claude agent, by the cron below as a backup, or manually.
+#
+# Security: the Kabar secrets are only used in the separate "kirim" job, on a
+# fresh runner, and only after the sending scripts match the pinned SHA-256
+# fingerprints below. The Claude agent can change files in this repo, so any
+# change to scripts/alerts.py or scripts/daily_brief.py stops sending until the
+# owner reviews it and updates the fingerprints here.
+env:
+  SHA_ALERTS: 98db23d484e45b1efdb891533b4601fa61e9625380519eba5470af950f9c8cfc
+  SHA_BRIEF: 1515c61399185e2e9493f1cce14c31280456a6c537626d37f1d65579c04f8190
+
 on:
   schedule:
     - cron: "*/15 * * * *"
@@ -20,13 +30,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  fetch:
+  data:
     runs-on: ubuntu-latest
-    env:
-      KABAR_TOKEN: ${{ secrets.KABAR_TOKEN }}
-      KABAR_VAPID: ${{ secrets.KABAR_VAPID }}
-      GH_TOKEN: ${{ github.token }}
     timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -44,6 +52,9 @@ jobs:
       - name: Ambil harga dari Yahoo Finance
         run: python3 scripts/fetch_market.py
 
+      - name: Harga emas Antam 1 gram
+        run: python3 scripts/fetch_antam.py || true
+
       - name: Ambil berita terbaru
         run: python3 scripts/fetch_news.py || true
 
@@ -53,29 +64,11 @@ jobs:
       - name: Uji historis metode rentang
         run: python3 scripts/backtest.py || true
 
-      - name: Siapkan pengirim Kabar
-        if: env.KABAR_TOKEN != ''
-        uses: actions/checkout@v4
-        with:
-          repository: GabFx09/kabar
-          path: .kabar
-
-      - name: Pasang pustaka Kabar
-        if: env.KABAR_TOKEN != ''
-        run: python3 -m pip install --quiet --disable-pip-version-check requests pywebpush
-
-      - name: Peringatan penting (kirim ke aplikasi Kabar)
-        run: python3 scripts/alerts.py || true
-
-      - name: Ringkasan pagi (sekali sehari ke Kabar)
-        run: python3 scripts/daily_brief.py || true
-
       - name: Simpan ke repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/market.json data/forecasts.json data/headlines.json data/snapshot.json data/alerts.json data/backtest.json
-          [ -f data/kabar-state.json ] && git add data/kabar-state.json
+          git add data/market.json data/forecasts.json data/headlines.json data/snapshot.json data/backtest.json
           if git diff --cached --quiet; then echo "Tidak ada perubahan"; exit 0; fi
           msg="data: harga & berita $(date -u +%Y-%m-%dT%H:%MZ)"
           [ "${REVERTED:-0}" = "1" ] && msg="data: kembalikan analisis agen yang tidak valid; $msg"
@@ -94,3 +87,63 @@ jobs:
         run: |
           n=$(gh run list -R "$GITHUB_REPOSITORY" --workflow detak.yml --json status --jq '[.[] | select(.status=="in_progress" or .status=="queued" or .status=="waiting")] | length' || echo 1)
           if [ "$n" = "0" ]; then gh workflow run detak.yml -R "$GITHUB_REPOSITORY" && echo "detak dimulai ulang"; fi
+
+  kirim:
+    needs: data
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Verifikasi sidik jari skrip pengirim
+        id: verif
+        run: |
+          a=$(sha256sum scripts/alerts.py | cut -d' ' -f1)
+          b=$(sha256sum scripts/daily_brief.py | cut -d' ' -f1)
+          if [ "$a" = "$SHA_ALERTS" ] && [ "$b" = "$SHA_BRIEF" ]; then
+            echo "ok=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::Skrip pengirim Kabar berubah dari versi yang disetujui; pengiriman dihentikan sampai pemilik memperbarui sidik jari di market.yml. alerts=$a brief=$b"
+          fi
+
+      - name: Siapkan pengirim Kabar
+        if: steps.verif.outputs.ok == '1'
+        uses: actions/checkout@v4
+        with:
+          repository: GabFx09/kabar
+          path: .kabar
+
+      - name: Pasang pustaka Kabar
+        if: steps.verif.outputs.ok == '1'
+        run: python3 -m pip install --quiet --disable-pip-version-check requests pywebpush
+
+      - name: Peringatan penting (kirim ke aplikasi Kabar)
+        if: steps.verif.outputs.ok == '1'
+        env:
+          KABAR_TOKEN: ${{ secrets.KABAR_TOKEN }}
+          KABAR_VAPID: ${{ secrets.KABAR_VAPID }}
+        run: python3 scripts/alerts.py || true
+
+      - name: Ringkasan pagi (sekali sehari ke Kabar)
+        if: steps.verif.outputs.ok == '1'
+        env:
+          KABAR_TOKEN: ${{ secrets.KABAR_TOKEN }}
+          KABAR_VAPID: ${{ secrets.KABAR_VAPID }}
+        run: python3 scripts/daily_brief.py || true
+
+      - name: Simpan status pengiriman
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/alerts.json
+          [ -f data/kabar-state.json ] && git add data/kabar-state.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "data: status peringatan $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 5))
+          done
+          exit 1

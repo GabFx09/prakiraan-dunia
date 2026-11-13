@@ -1,90 +1,101 @@
 {
- "updatedAt": "2026-11-13T12:31:35Z",
- "method": "rentang volatilitas 55% (z=0,755, volatilitas 30 hari terakhir)",
+ "updatedAt": "2026-11-13T12:40:29Z",
+ "historyAt": "2026-11-13T12:40:29Z",
+ "years": 5,
+ "span": {
+  "spx": 5.0,
+  "ihsg": 4.8,
+  "gold": 5.0,
+  "brent": 5.0,
+  "usdidr": 5.1,
+  "ust10": 5.0,
+  "btc": 5.0
+ },
+ "method": "rentang volatilitas 55% (z=0,755, volatilitas 30 hari terakhir), diuji tiap 5 hari bursa selama ±5 tahun",
  "target": 0.55,
  "coverage": {
   "spx": {
    "1b": {
-    "hit": 60,
-    "total": 77,
-    "rate": 0.779
+    "hit": 124,
+    "total": 241,
+    "rate": 0.515
    },
    "3b": {
-    "hit": 32,
-    "total": 35,
-    "rate": 0.914
+    "hit": 117,
+    "total": 233,
+    "rate": 0.502
    }
   },
   "ihsg": {
    "1b": {
-    "hit": 30,
-    "total": 74,
-    "rate": 0.405
+    "hit": 117,
+    "total": 230,
+    "rate": 0.509
    },
    "3b": {
-    "hit": 11,
-    "total": 32,
-    "rate": 0.344
+    "hit": 111,
+    "total": 222,
+    "rate": 0.5
    }
   },
   "gold": {
    "1b": {
-    "hit": 33,
-    "total": 78,
-    "rate": 0.423
+    "hit": 138,
+    "total": 242,
+    "rate": 0.57
    },
    "3b": {
-    "hit": 32,
-    "total": 36,
-    "rate": 0.889
+    "hit": 113,
+    "total": 233,
+    "rate": 0.485
    }
   },
   "brent": {
    "1b": {
-    "hit": 45,
-    "total": 78,
-    "rate": 0.577
+    "hit": 144,
+    "total": 242,
+    "rate": 0.595
    },
    "3b": {
-    "hit": 14,
-    "total": 36,
-    "rate": 0.389
+    "hit": 151,
+    "total": 233,
+    "rate": 0.648
    }
   },
   "usdidr": {
    "1b": {
-    "hit": 53,
-    "total": 76,
-    "rate": 0.697
+    "hit": 161,
+    "total": 247,
+    "rate": 0.652
    },
    "3b": {
-    "hit": 34,
-    "total": 34,
-    "rate": 1.0
+    "hit": 139,
+    "total": 239,
+    "rate": 0.582
    }
   },
   "ust10": {
    "1b": {
-    "hit": 26,
-    "total": 78,
-    "rate": 0.333
+    "hit": 136,
+    "total": 241,
+    "rate": 0.564
    },
    "3b": {
-    "hit": 6,
-    "total": 36,
-    "rate": 0.167
+    "hit": 133,
+    "total": 233,
+    "rate": 0.571
    }
   },
   "btc": {
    "1b": {
-    "hit": 42,
-    "total": 70,
-    "rate": 0.6
+    "hit": 190,
+    "total": 354,
+    "rate": 0.537
    },
    "3b": {
-    "hit": 0,
-    "total": 8,
-    "rate": 0.0
+    "hit": 164,
+    "total": 341,
+    "rate": 0.481
    }
   }
  },
@@ -151,12 +162,12 @@
   },
   "btc": {
    "1b": [
-    63885.0,
-    75154.0
+    63867.0,
+    75176.0
    ],
    "3b": [
-    60104.0,
-    79883.0
+    60073.0,
+    79923.0
    ]
   }
  }
