@@ -6,6 +6,13 @@
 <title>Prakiraan Dunia</title>
 <meta name="description" content="Terminal prakiraan ekonomi dan geopolitik dunia: harga live, skenario 1 bulan sampai 5 tahun, siklus pasar, sinyal teknikal, simulasi portofolio, dan rapor akurasi prakiraan untuk investor Rupiah.">
 <meta name="theme-color" content="#06080b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Prakiraan">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
@@ -66,6 +73,8 @@ h1, h2, h3 { margin: 0; font-weight: 700; }
 .livepill[data-s="live"] .dot { background: var(--green); box-shadow: 0 0 8px var(--green); }
 .livepill[data-s="stale"] { color: var(--yellow); }
 .livepill[data-s="stale"] .dot { background: var(--yellow); }
+.livepill[data-s="offline"] { color: var(--red); }
+.livepill[data-s="offline"] .dot { background: var(--red); }
 
 .ticker { overflow: hidden; border-bottom: 1px solid var(--line); background: var(--panel); font-family: var(--mono); font-size: 12.5px; white-space: nowrap; }
 .ticker-track { display: inline-flex; padding-block: 7px; }
@@ -303,7 +312,7 @@ footer b { color: var(--amber); }
 <header class="status">
   <div class="brand"><h1>PRAKIRAAN//DUNIA<span class="cur"></span></h1><span class="tag">terminal skenario &amp; siklus · investor Rupiah</span></div>
   <div class="clocks" id="clocks"></div>
-  <span class="livepill mono" id="livepill" data-s="off"><span class="dot"></span><span id="livelabel">MEMUAT</span></span>
+  <span style="display:flex;gap:8px;align-items:center"><button class="btn pri" type="button" id="install" hidden style="padding:3px 9px;font-size:11px">⤓ Pasang aplikasi</button><span class="livepill mono" id="livepill" data-s="off"><span class="dot"></span><span id="livelabel">MEMUAT</span></span></span>
 </header>
 
 <div class="ticker" aria-label="Pita harga"><div class="ticker-track" id="ticker"></div></div>
@@ -468,6 +477,7 @@ footer b { color: var(--amber); }
       <dt>Sinyal &amp; korelasi</dt><dd>Dihitung di browser dari harga 6 bulan.</dd>
       <dt>Simulasi</dt><dd>Monte Carlo di browser Anda.</dd>
       <dt>Akurasi</dt><dd>Dicek GitHub Actions dari harga penutupan. <span class="dim" id="t-fc"></span></dd>
+      <dt>Unduh</dt><dd><button class="btn pri" type="button" id="install2" style="margin:0 6px 6px 0">⤓ Pasang sebagai aplikasi</button><a class="btn" href="https://github.com/GabFx09/prakiraan-dunia/archive/refs/heads/main.zip" style="margin-bottom:6px">⤓ Unduh ZIP</a><br><span class="dim" id="install-help">Aplikasi terpasang muncul di layar utama HP atau di menu Start, terbuka tanpa bilah browser, dan tetap bisa dibuka saat offline dengan data terakhir. File ZIP berisi seluruh kode; buka index.html di browser dan data live tetap dimuat dari internet.</span></dd>
       <dt>Kode sumber</dt><dd><a href="https://github.com/GabFx09/prakiraan-dunia" target="_blank" rel="noopener">github.com/GabFx09/prakiraan-dunia</a></dd>
     </dl>
     <div class="disclaimer"><b>Bukan nasihat keuangan</b><span>Bukan ajakan membeli atau menjual. Prakiraan dan simulasi adalah skenario berbasis asumsi, sebagian ditulis AI, dan bisa keliru. Situs ini tidak terdaftar atau diawasi OJK. Contoh nama aset hanya ilustrasi sektor. Keputusan dan risiko investasi sepenuhnya tanggung jawab Anda.</span></div>
@@ -623,9 +633,9 @@ function renderClocks() {
 // ===== live status & ticker =====
 function renderLive() {
   const age = MKT?.updatedAt ? Date.now() - new Date(MKT.updatedAt).getTime() : Infinity;
-  const st = !MKT && !S ? "off" : age < 60 * 60e3 ? "live" : "stale";
+  const st = !navigator.onLine ? "offline" : !MKT && !S ? "off" : age < 60 * 60e3 ? "live" : "stale";
   $("livepill").dataset.s = st;
-  $("livelabel").textContent = st === "live" ? "LIVE" : st === "stale" ? "TERTUNDA" : "MEMUAT";
+  $("livelabel").textContent = { live: "LIVE", stale: "TERTUNDA", offline: "OFFLINE · DATA TERAKHIR", off: "MEMUAT" }[st];
   $("livepill").title = [MKT?.updatedAt && "Harga " + ago(MKT.updatedAt), CG?.at && "BTC " + ago(CG.at), S?.updatedAt && "Analisis " + ago(S.updatedAt)].filter(Boolean).join(" · ");
   $("m-kondisi").textContent = [MKT?.updatedAt && "harga " + ago(MKT.updatedAt), S?.updatedAt && "analisis " + ago(S.updatedAt)].filter(Boolean).join(" · ");
   $("t-mkt").textContent = MKT?.updatedAt ? "Terakhir " + wib(MKT.updatedAt) + "." : "";
@@ -992,13 +1002,14 @@ $("fnbar").innerHTML = SECTIONS.map(([n, l, id]) => `<button type="button" data-
 $("fnbar").addEventListener("click", (e) => { const b = e.target.closest("[data-go]"); if (b) go(b.dataset.go); });
 function go(id) { const el = $(id); if (!el) return; el.scrollIntoView({ behavior: smooth(), block: "start" }); el.classList.remove("flash"); void el.offsetWidth; el.classList.add("flash"); }
 const say = (html) => { $("cmdout").innerHTML = html; };
-const HELP = `Aset: <b>BTC</b> <b>IHSG</b> <b>SPX</b> <b>EMAS</b> <b>BRENT</b> <b>USDIDR</b> <b>UST10</b> · Panel: ${SECTIONS.map((s) => `<b>${s[3][0]}</b>`).join(" ")} · Periode: <b>1B 3B 6B 1T 3T 5T</b> · Profil: <b>KONSERVATIF MODERAT AGRESIF</b> · <b>TUTUP</b>`;
+const HELP = `Aset: <b>BTC</b> <b>IHSG</b> <b>SPX</b> <b>EMAS</b> <b>BRENT</b> <b>USDIDR</b> <b>UST10</b> · Panel: ${SECTIONS.map((s) => `<b>${s[3][0]}</b>`).join(" ")} · Periode: <b>1B 3B 6B 1T 3T 5T</b> · Profil: <b>KONSERVATIF MODERAT AGRESIF</b> · <b>TUTUP</b> · <b>PASANG</b> (pasang aplikasi)`;
 $("cmdform").addEventListener("submit", (e) => {
   e.preventDefault();
   const raw = $("cmd").value.trim().toUpperCase(); $("cmd").value = "";
   if (!raw) return;
   if (["BANTU", "HELP", "?", "MENU"].includes(raw)) { say(HELP); return; }
   if (["TUTUP", "CLOSE", "ESC"].includes(raw)) { closeDetail(); say("Detail ditutup."); return; }
+  if (["PASANG", "INSTALL", "UNDUH", "DOWNLOAD", "APP"].includes(raw)) { doInstall(); return; }
   const ak = Object.keys(ASSET).find((k) => ASSET[k].alias.includes(raw));
   if (ak) { openDetail(ak); say(`Membuka <b>${ASSET[ak].code}</b> · ${esc(ASSET[ak].n)}`); return; }
   const sec = SECTIONS.find((s) => s[3].includes(raw) || s[0] === raw);
@@ -1079,6 +1090,26 @@ async function refreshBTC() {
     }
   } catch {}
 }
+// ===== install as app =====
+let deferredPrompt = null;
+const isStandalone = () => matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+window.addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); deferredPrompt = e; if (!isStandalone()) $("install").hidden = false; });
+window.addEventListener("appinstalled", () => { $("install").hidden = true; deferredPrompt = null; say("Aplikasi terpasang. Buka dari layar utama atau menu Start."); });
+async function doInstall() {
+  if (isStandalone()) { say("Anda sudah membuka versi aplikasi."); return; }
+  if (deferredPrompt) { deferredPrompt.prompt(); const r = await deferredPrompt.userChoice; deferredPrompt = null; $("install").hidden = true; say(r.outcome === "accepted" ? "Memasang aplikasi…" : "Pemasangan dibatalkan."); return; }
+  const msg = isIOS ? "iPhone/iPad: buka di <b>Safari</b>, ketuk tombol <b>Bagikan</b> (kotak dengan panah ke atas), lalu pilih <b>Tambah ke Layar Utama</b>."
+    : "Buka di <b>Chrome</b> atau <b>Edge</b>, lalu pilih menu <b>⋮</b> → <b>Instal aplikasi</b> / <b>Tambahkan ke layar utama</b>. Di komputer, bisa juga lewat ikon pasang di ujung kanan bilah alamat.";
+  say(msg); $("install-help").innerHTML = msg; go("tentang");
+}
+$("install").addEventListener("click", doInstall);
+$("install2").addEventListener("click", doInstall);
+if (isStandalone()) $("install2").textContent = "✓ Aplikasi terpasang";
+if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
+window.addEventListener("online", () => { renderLive(); refresh(false); refreshBTC(); });
+window.addEventListener("offline", renderLive);
+
 (async function boot() {
   renderClocks(); setInterval(renderClocks, 15000);
   setInterval(renderLive, 30000);

@@ -4,6 +4,16 @@ Dashboard prakiraan ekonomi dan geopolitik dunia untuk investor yang memakai Rup
 
 **Situs:** https://gabfx09.github.io/prakiraan-dunia/
 
+## Pasang sebagai aplikasi
+
+- **Android / Chrome / Edge:** buka situsnya, tekan tombol **⤓ Pasang aplikasi** di kanan atas (atau menu ⋮ → Instal aplikasi).
+- **iPhone / iPad:** buka di Safari → tombol Bagikan → **Tambah ke Layar Utama**.
+- **Komputer:** ikon pasang di ujung kanan bilah alamat Chrome/Edge.
+
+Aplikasi tetap bisa dibuka saat offline dengan data terakhir yang tersimpan.
+
+**Unduh kode:** [main.zip](https://github.com/GabFx09/prakiraan-dunia/archive/refs/heads/main.zip)
+
 ## Cara kerjanya
 
 | Bagian | Sumber | Seberapa sering |
@@ -19,6 +29,8 @@ Semua berjalan di cloud (GitHub dan Anthropic). Komputer pemilik tidak perlu men
 
 ```
 index.html                     situs (satu file, tanpa build)
+manifest.webmanifest, sw.js    aplikasi terpasang & mode offline
+icons/                         ikon aplikasi
 data/market.json               harga, ditulis GitHub Actions
 data/snapshot.json             analisis, ditulis agen Claude
 scripts/fetch_market.py        pengambil harga

@@ -1,0 +1,16 @@
+{
+  "name": "Prakiraan Dunia",
+  "short_name": "Prakiraan",
+  "description": "Terminal prakiraan ekonomi dan geopolitik dunia untuk investor Rupiah: harga live, skenario, siklus, simulasi, dan rapor akurasi.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#06080b",
+  "theme_color": "#06080b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
