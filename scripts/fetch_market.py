@@ -71,7 +71,18 @@ def fetch(symbol):
                 price = meta.get("regularMarketPrice")
                 if price is None and series:
                     price = series[-1][1]
-                prev = series[-2][1] if len(series) >= 2 else meta.get("chartPreviousClose")
+                # Yahoo often leaves today's daily candle empty (close=None) after the
+                # session; then the last series point is the PREVIOUS session. Compare
+                # trading days in the exchange's own timezone to pick the right prev.
+                off = int(meta.get("gmtoffset") or 0)
+                mkt_day = datetime.fromtimestamp(meta.get("regularMarketTime", time.time()) + off, timezone.utc).strftime("%Y-%m-%d")
+                valid = [(t, c) for t, c in zip(ts, closes) if c is not None]
+                last_day = datetime.fromtimestamp(valid[-1][0] + off, timezone.utc).strftime("%Y-%m-%d") if valid else None
+                if series and last_day and mkt_day > last_day:
+                    prev = series[-1][1]
+                    series.append((mkt_day, round(float(price), 4)))
+                else:
+                    prev = series[-2][1] if len(series) >= 2 else meta.get("chartPreviousClose")
                 return {
                     "price": round(float(price), 4),
                     "prev": round(float(prev), 4) if prev else None,
