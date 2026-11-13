@@ -1,0 +1,29 @@
+name: Tes notifikasi Kabar
+
+# Kirim satu pesan uji coba ke aplikasi Kabar, saluran "Prakiraan Dunia":
+#   gh workflow run tes-kabar.yml -R GabFx09/prakiraan-dunia
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  tes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cek secret
+        env:
+          KABAR_TOKEN: ${{ secrets.KABAR_TOKEN }}
+          KABAR_VAPID: ${{ secrets.KABAR_VAPID }}
+        run: |
+          [ -n "$KABAR_TOKEN" ] || { echo "::error::Secret KABAR_TOKEN belum diisi"; exit 1; }
+          [ -n "$KABAR_VAPID" ] || echo "::warning::Secret KABAR_VAPID belum diisi: pesan masuk tanpa notifikasi push"
+      - uses: GabFx09/kabar@main
+        with:
+          saluran: Prakiraan Dunia
+          judul: "✅ Prakiraan Dunia tersambung"
+          isi: "Peringatan penting (berita besar, guncangan harga, lonjakan indeks risiko) akan masuk ke saluran ini."
+          url: https://gabfx09.github.io/prakiraan-dunia/#peringatan
+          token: ${{ secrets.KABAR_TOKEN }}
+          vapid: ${{ secrets.KABAR_VAPID }}
