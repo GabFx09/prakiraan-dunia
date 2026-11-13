@@ -1,14 +1,22 @@
 {
- "updatedAt": "2026-11-13T19:07:35Z",
+ "updatedAt": "2026-11-13T19:22:10Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Bitcoin vs gold: 1 BTC now buys only 18 ounces of gold",
+   "src": "CryptoTicker.io",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XNng3RWJzMGNCamVNRU1McnZxYkdGVDVMLW1SSWMzSGNNYmxKM2ZlMldkaklGeTdUZWJHZjNJN2VBeFpWbDNxeldQeGwxRWl2OVB2eGJKTU41LXNDVzdwOE9iS0l2d2pJU1NvTUk4VHBNeUNkZGJMQzBqeGQ?oc=5",
+   "time": "2026-11-13T19:13:46Z"
+  },
   {
    "topic": "saham-as",
    "lang": "en",
    "t": "Stocks sway as Wall Street heads for a winning week after several turbulent days",
-   "src": "MySA",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEtQeHZMMFJieERnY2kzRldoWmxmVVlSN0NIZ2dTTTVKeTIzcUZhaDdPbzdwWGJKQi1JaWVCMkJvMFJiUTY0T0lFY3VnaUw5VlJEM1Rwb2VqemxwUVhzYUUwN1NZSTJBNHJGcVdmVTlnV1M0dGM4Yl9SaE9xRHpjRnJkV0pTYkkzd0pSQXFUbTJBd1dlVUlrMnc0eW1qZmtUdzB3VkdqRkwwWWJ4Mk5n?oc=5",
-   "time": "2026-11-13T18:56:15Z"
+   "src": "Boston Herald",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSFRTRUFWSFFuVXN1aUF3emVjaUt4OU9wSFVuZWlua1VoZXdpdzl6N3JNWmtaWDZQMG91RjRIMmJXWmVEREg2OGF2cEhFeGIwdzZYMEZpTW90eDF5bXJqb1RZeEpway1aV0hMdEU3d1BNMDB1dVpILXFILU9RbjI4NkkwMA?oc=5",
+   "time": "2026-11-13T18:49:01Z"
   },
   {
    "topic": "bank-sentral",
@@ -81,14 +89,6 @@
    "src": "Ajaib",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjdlMUJNWmg2VGpTRHMxMTJwOHRnQThPRElaWFlSaWstdjNyOXRhbi1xdlpTMnEyMG5Wa28wb0V5UFhiTUI0VExrMG00X25SazRNM2hEcUoyRVVOZXVUUWh6MVl4Z0xqbm9UU2hPMlI5REh1emdMSmZ5TVZncXpFdGFSMUc?oc=5",
    "time": "2026-11-13T16:50:49Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stocks sway as Wall Street heads heads for a winning week after several turbulent days",
-   "src": "Boston Herald",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSFRTRUFWSFFuVXN1aUF3emVjaUt4OU9wSFVuZWlua1VoZXdpdzl6N3JNWmtaWDZQMG91RjRIMmJXWmVEREg2OGF2cEhFeGIwdzZYMEZpTW90eDF5bXJqb1RZeEpway1aV0hMdEU3d1BNMDB1dVpILXFILU9RbjI4NkkwMA?oc=5",
-   "time": "2026-11-13T16:33:10Z"
   },
   {
    "topic": "bank-sentral",
@@ -189,18 +189,18 @@
   {
    "topic": "saham-as",
    "lang": "en",
+   "t": "Stock Market Today: Nvidia Rebounds After Huang’s Exit as Treasury Yields Top 5%",
+   "src": "24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFVqVENnX1lmSjJKNmE1eVFJSGtEQm9MeXFVbDZvcm1oMFhyR2ZXWHdGa21ZMXltejV3ZTF5eVI2M3ZXVUhjalZzTHZCTXJJTmxVcFowWm81X2NxMUgzVXpjYUJNWjU3Y3NPMjl0cUtDT3I5bzRmYXNmRzFKdkFpaDAzSDNOTjdpRlR5U0J3THR3djFwRUFzVzk2MmlRbHI2ZFVrbEcxNmxVX2Q2dFZWeFNDVlhwV1hmYTh1UVhB?oc=5",
+   "time": "2026-11-13T14:15:00Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
    "t": "Wall Street Divided on S&P 500: Which ETFs Could Benefit in 2027?",
    "src": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDJYUV91ZmR1dm5ITVBTTjZSQTdnblh5ajR2SG92Z2ljazVPZ1FmSUtTWEwxOWREdFVydGdUeWNIVGZramZxSGJEQ1lrUGRZNzIxbkZtX3J6TVJpdkpmdlIwUVpmMUVCbHgzcGdUNUJ5OUVrMGdpbmIxUmhGT1JBSk9wZFZCSUN4cHJDNEtWd1pjWnFZ?oc=5",
    "time": "2026-11-13T13:57:00Z"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold pares gains as mixed US PPI offers little relief from Fed tightening fears",
-   "src": "FXStreet",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekpaVjlZbTJwWWQxTWVQLXV4VkZKeDR2dlNfanhvbjVMTUdTWHEyYUxCS2x1Mkt3aWJ2em1Cdm16SWlhNS16c3Z3eG9WRjBtRWRCOGJmcWNSUGhLN09LY2NxbUx6Q1FuaGpoZVdOT3J6ZlA4eUl0LVJWdEVEU0dCZ1dELWhWakFtcm04N0FBS3FWempF?oc=5",
-   "time": "2026-11-13T13:54:23Z"
   },
   {
    "topic": "kripto",
