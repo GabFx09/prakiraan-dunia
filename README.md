@@ -16,7 +16,7 @@ Aplikasi tetap bisa dibuka saat offline dengan data terakhir yang tersimpan.
 
 ## Notifikasi peringatan penting
 
-Pasang aplikasi gratis **ntfy** (Android/iOS), tekan +, lalu berlangganan topik **`prakiraan-dunia-gfx09`**. Atau buka https://ntfy.sh/prakiraan-dunia-gfx09. Peringatan dikirim saat ada berita besar (dipilih agen Claude), guncangan harga harian, atau lonjakan indeks risiko.
+Peringatan (berita besar dari agen Claude, guncangan harga harian, lonjakan indeks risiko) dikirim ke aplikasi **[Kabar](https://gabfx09.github.io/kabar/)**, saluran **Prakiraan Dunia**, lewat `kabar.py` dari repo GabFx09/kabar. Butuh secret repo `KABAR_TOKEN` (token GitHub scope gist) dan `KABAR_VAPID` (kunci privat notifikasi Kabar).
 
 ## Cara kerjanya
 

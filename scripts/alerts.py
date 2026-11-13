@@ -5,18 +5,21 @@ Sources, checked every run of the market workflow (~15 min):
   2. Major-news alerts written by the Claude agent in data/snapshot.json `alerts`.
   3. A jump of 8+ points in the agent's global risk index.
 
-New alerts are published once to the public ntfy.sh topic (free push app,
-no account) so subscribers get a phone notification even when the site is
-closed. Set NTFY_TOPIC to change the topic, or NTFY_DRY=1 to skip sending.
+New alerts are sent once to the owner's Kabar app (https://gabfx09.github.io/kabar/),
+channel "Prakiraan Dunia", using kabar.py from the GabFx09/kabar repo. Needs the
+KABAR_TOKEN (gist scope) and KABAR_VAPID secrets; without KABAR_TOKEN nothing is
+sent and alerts stay pending (recent ones go out once the secret is added).
+KABAR_DRY=1 marks alerts as sent without sending.
 """
 import json
 import os
-import urllib.request
+import sys
 from datetime import datetime, timedelta, timezone
 
 ROOT = os.path.join(os.path.dirname(__file__), "..", "data")
-TOPIC = os.environ.get("NTFY_TOPIC", "prakiraan-dunia-gfx09")
-DRY = os.environ.get("NTFY_DRY") == "1"
+CHANNEL = os.environ.get("KABAR_SALURAN", "Prakiraan Dunia")
+DRY = os.environ.get("KABAR_DRY") == "1"
+KABAR_LIB = os.environ.get("KABAR_LIB", os.path.join(os.path.dirname(__file__), "..", ".kabar"))
 SITE = "https://gabfx09.github.io/prakiraan-dunia/"
 MAX_ITEMS = 60
 SEND_WINDOW = timedelta(hours=6)
@@ -100,15 +103,18 @@ def agent_alerts(snap):
     return out
 
 
-def send(a):
-    payload = {
-        "topic": TOPIC, "title": ("🔴 " if a["level"] == "kritis" else "🟠 ") + a["title"], "message": a["body"] or a["title"],
-        "priority": 5 if a["level"] == "kritis" else 4, "tags": ["chart_with_downwards_trend" if a["kind"] == "harga" else "newspaper"],
-        "click": a["url"], "actions": [{"action": "view", "label": "Buka Prakiraan Dunia", "url": SITE + "#peringatan"}],
-    }
-    req = urllib.request.Request("https://ntfy.sh/", data=json.dumps(payload).encode(), headers={"Content-Type": "application/json"}, method="POST")
-    with urllib.request.urlopen(req, timeout=15) as r:
-        return r.status
+def send_kabar(batch):
+    """Send alerts to Kabar in one write (one combined push notification)."""
+    sys.path.insert(0, KABAR_LIB)
+    import kabar  # noqa: PLC0415 - provided by the workflow checkout of GabFx09/kabar
+    msgs = []
+    for a in batch:
+        icon = "🔴" if a["level"] == "kritis" else "🟠"
+        isi = (a.get("body") or "").strip()
+        isi += ("\n\n" if isi else "") + f"_{a['level'].upper()} · {a['kind']}_ · Buka: {SITE}#peringatan"
+        msgs.append({"judul": f"{icon} {a['title']}", "isi": isi, "url": a.get("url") or SITE,
+                     "prioritas": "tinggi" if a["level"] == "kritis" else "normal"})
+    kabar.kirim_banyak(msgs, saluran=CHANNEL)
 
 
 def main():
@@ -121,7 +127,7 @@ def main():
     for a in added:
         items[a["id"]] = a
     sent = set(state.get("sent", []))
-    pushed = []
+    pushed, batch = [], []
     for a in sorted(items.values(), key=lambda x: x["time"]):
         if a["id"] in sent:
             continue
@@ -132,20 +138,25 @@ def main():
         if now - t > SEND_WINDOW:
             sent.add(a["id"])  # too old to notify; just record it
             continue
-        if DRY:
-            pushed.append(a["id"]); sent.add(a["id"]); continue
+        batch.append(a)
+    if batch and DRY:
+        pushed = [a["id"] for a in batch]
+    elif batch and os.environ.get("KABAR_TOKEN"):
         try:
-            send(a)
-            pushed.append(a["id"]); sent.add(a["id"])
+            send_kabar(batch)
+            pushed = [a["id"] for a in batch]
         except Exception as e:  # noqa: BLE001
-            print("send failed:", a["id"], e)
+            print("kabar send failed:", e)
+    elif batch:
+        print(f"{len(batch)} alert(s) pending: KABAR_TOKEN not set")
+    sent.update(pushed)
     ordered = sorted(items.values(), key=lambda x: x["time"], reverse=True)[:MAX_ITEMS]
     keep_ids = {i["id"] for i in ordered}
-    out = {"updatedAt": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "topic": TOPIC, "items": ordered, "sent": sorted(s for s in sent if s in keep_ids)}
+    out = {"updatedAt": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "channel": CHANNEL, "items": ordered, "sent": sorted(s for s in sent if s in keep_ids)}
     if added or pushed or not os.path.exists(os.path.join(ROOT, "alerts.json")):
         with open(os.path.join(ROOT, "alerts.json"), "w", encoding="utf-8") as f:
             json.dump(out, f, ensure_ascii=False, indent=1)
-    print(f"alerts: {len(ordered)} total, {len(added)} new, {len(pushed)} pushed{' (dry)' if DRY else ''}")
+    print(f"alerts: {len(ordered)} total, {len(added)} new, {len(pushed)} pushed{' (dry)' if DRY else ''} to Kabar '{CHANNEL}'")
 
 
 if __name__ == "__main__":

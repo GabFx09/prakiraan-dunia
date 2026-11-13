@@ -414,10 +414,10 @@ footer b { color: var(--amber); }
       </div>
       <div style="display:grid;gap:10px;align-content:start;min-width:0">
         <div class="box">
-          <h3>📱 Notifikasi ke HP (walau aplikasi tertutup)</h3>
-          <p>1. Pasang aplikasi gratis <b>ntfy</b> dari Play Store atau App Store. 2. Tekan <b>+</b>, isi topik di bawah, lalu <b>Subscribe</b>. Tidak perlu akun.</p>
-          <div class="row"><span class="topic" id="topic">prakiraan-dunia-gfx09</span><button class="btn" type="button" id="copy-topic">Salin topik</button><a class="btn" href="https://ntfy.sh/prakiraan-dunia-gfx09" target="_blank" rel="noopener">Buka di browser ↗</a></div>
-          <p class="dim" style="font-size:11.5px">Topik ini publik dan hanya berisi peringatan dari situs ini.</p>
+          <h3>📱 Dikirim ke aplikasi Kabar</h3>
+          <p>Setiap peringatan baru dikirim otomatis ke aplikasi <b>Kabar</b>, saluran <span class="topic">Prakiraan Dunia</span>, lengkap dengan notifikasi push walau situs ini tertutup. Peringatan kritis tetap berbunyi walau saluran dibisukan.</p>
+          <div class="row"><a class="btn" href="https://gabfx09.github.io/kabar/" target="_blank" rel="noopener">Buka Kabar ↗</a></div>
+          <p class="dim" style="font-size:11.5px">Kabar adalah kotak pesan pribadi pemilik situs ini.</p>
         </div>
         <div class="box">
           <h3>🔔 Notifikasi di perangkat ini</h3>
@@ -873,8 +873,8 @@ async function checkNewAlerts() {
 }
 function renderNotifUI() {
   const st = $("notif-status"), btn = $("notif-btn");
-  if (!("Notification" in window)) { st.textContent = "Browser ini tidak mendukung notifikasi. Gunakan aplikasi ntfy di atas."; btn.hidden = true; return; }
-  if (Notification.permission === "denied") { st.textContent = "Notifikasi diblokir di browser ini. Izinkan lewat pengaturan situs, atau gunakan aplikasi ntfy."; btn.hidden = true; return; }
+  if (!("Notification" in window)) { st.textContent = "Browser ini tidak mendukung notifikasi. Gunakan aplikasi Kabar di atas."; btn.hidden = true; return; }
+  if (Notification.permission === "denied") { st.textContent = "Notifikasi diblokir di browser ini. Izinkan lewat pengaturan situs, atau gunakan aplikasi Kabar."; btn.hidden = true; return; }
   if (notifOn()) { st.textContent = "Aktif. Peringatan baru dan peringatan harga pribadi akan muncul sebagai notifikasi selama situs/aplikasi terbuka."; btn.textContent = "Matikan"; $("notif-test").hidden = false; }
   else { st.textContent = "Tampilkan notifikasi saat situs atau aplikasi Prakiraan Dunia sedang terbuka (termasuk di latar belakang)."; btn.textContent = "Aktifkan notifikasi"; $("notif-test").hidden = true; }
   btn.hidden = false;
@@ -892,10 +892,6 @@ $("notif-btn").addEventListener("click", async () => {
   renderNotifUI();
 });
 $("notif-test").addEventListener("click", () => notify("🟠 Contoh peringatan", "Beginilah tampilan notifikasi saat ada berita penting atau harga menyentuh level Anda.", location.href, "pd-test"));
-$("copy-topic").addEventListener("click", async () => {
-  try { await navigator.clipboard.writeText($("topic").textContent); say("Topik ntfy disalin."); }
-  catch { const r = document.createRange(); r.selectNodeContents($("topic")); const s = getSelection(); s.removeAllRanges(); s.addRange(r); say("Salin manual topik yang sudah dipilih (Ctrl+C)."); }
-});
 
 // personal price alerts
 let PA = [];

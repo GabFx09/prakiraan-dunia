@@ -20,6 +20,9 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    env:
+      KABAR_TOKEN: ${{ secrets.KABAR_TOKEN }}
+      KABAR_VAPID: ${{ secrets.KABAR_VAPID }}
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
@@ -44,9 +47,18 @@ jobs:
       - name: Cek akurasi prakiraan
         run: python3 scripts/evaluate_forecasts.py
 
-      - name: Peringatan penting (kirim notifikasi ke HP)
-        env:
-          NTFY_TOPIC: prakiraan-dunia-gfx09
+      - name: Siapkan pengirim Kabar
+        if: env.KABAR_TOKEN != ''
+        uses: actions/checkout@v4
+        with:
+          repository: GabFx09/kabar
+          path: .kabar
+
+      - name: Pasang pustaka Kabar
+        if: env.KABAR_TOKEN != ''
+        run: python3 -m pip install --quiet --disable-pip-version-check requests pywebpush
+
+      - name: Peringatan penting (kirim ke aplikasi Kabar)
         run: python3 scripts/alerts.py || true
 
       - name: Simpan ke repo
