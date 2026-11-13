@@ -227,6 +227,17 @@
    "ihsg": 5347.272,
    "usdidr": 18190.0,
    "ust10": 5.103
+  },
+  {
+   "t": "2026-11-13T11:37:49Z",
+   "risk": 74,
+   "btc": 68982.31,
+   "gold": 3900.3,
+   "brent": 95.8,
+   "spx": 7592.4,
+   "ihsg": 5344.406,
+   "usdidr": 18190.0,
+   "ust10": 5.103
   }
  ],
  "horizons": [
@@ -673,6 +684,30 @@
  },
  "news": [
   {
+   "t": "Saham AI China terpukul oleh kekhawatiran pembatasan chip Nvidia yang lebih ketat",
+   "src": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBFMjR2dGk2dUhsUDR3bjJvM0NyTmR5eUF6VERTdWUtNEwxUXNLVjB5OUx3Njg1VFRzQnBFV2VTVGQ0b1c2NC01bFRHRWJUU0FOTVRsQTRYVGxheEpmMENMSGlVTUd1UjJkbW1zNkFnSlEtYnlsemtXbTB1UWhmbGJ5d2w?oc=5",
+   "time": "2026-11-13T08:53:56Z",
+   "impact": "turun",
+   "assets": "Saham teknologi, saham Asia"
+  },
+  {
+   "t": "BEI mengeluarkan 296 saham dari pembobotan IHSG, efektif 13 November 2026",
+   "src": "Databoks",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ3hCU1p1MlZHamVrVEJPWlhXNVhjMzNVTVpoTklYeEl0V3ZUUmsxUkZURnI1NnVWd0ptcDQzSXoxVHctckVIazlpNWdFRDN6blV5NTBWWjhweHlYYy1GSE4tbnl6SWgyRXlPUldVRnlNQURMdEt5ZnYxZ3BrczBzWkhYNnluYzBLc2xYeWwyeXRZUkUwOVBsLXR1Z2hhVU40c2oxNUZZcG90MHJkRkF2czlmdFVqdUZvZEg3MHR1WTFsT2dCZ21td0Etd1U?oc=5",
+   "time": "2026-11-13T07:36:00Z",
+   "impact": "netral",
+   "assets": "IHSG, saham RI"
+  },
+  {
+   "t": "Iran menyatakan tanker LNG terkena ranjau dan meledak di Selat Hormuz",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
+   "time": "2026-11-13T07:00:00Z",
+   "impact": "naik",
+   "assets": "Minyak, LNG, rupiah"
+  },
+  {
    "assets": "Bitcoin, kripto",
    "impact": "turun",
    "src": "Bitcoin Magazine",
@@ -743,30 +778,6 @@
    "t": "MSCI mengeluarkan delapan saham Indonesia, berlaku setelah 30 November",
    "time": "2026-11-11T10:00:00Z",
    "url": "https://www.topbusiness.id/140085/msci-depak-delapan-saham-indonesia-analis-nilai-arus-dana-asing-bayangi-ihsg-dan-rupiah"
-  },
-  {
-   "assets": "Minyak, saham energi",
-   "impact": "naik",
-   "src": "FXStreet",
-   "t": "Dua tanker rusak terkena ranjau di Selat Hormuz; minyak kembali naik",
-   "time": "2026-11-11T09:17:00Z",
-   "url": "https://www.fxstreet.com/analysis/the-commodities-feed-oil-rebounds-as-geopolitical-risks-linger-202611110917"
-  },
-  {
-   "t": "Wall Street ditutup turun karena data inflasi panas dan komentar Fed memperkuat kekhawatiran kenaikan suku bunga",
-   "src": "Reuters via GV Wire",
-   "url": "https://gvwire.com/2026/11/10/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/",
-   "time": "2026-11-10T21:30:00Z",
-   "impact": "turun",
-   "assets": "Saham AS, obligasi AS, Rupiah"
-  },
-  {
-   "assets": "Saham China, komoditas",
-   "impact": "netral",
-   "src": "investingLive",
-   "t": "China perpanjang penangguhan tarif 24% atas barang AS menjelang APEC",
-   "time": "2026-11-10T08:00:00Z",
-   "url": "https://investinglive.com/stocks/china-extends-suspension-of-24-tariffs-on-us-goods-keeps-10-levy-ahead-of-apec/"
   }
  ],
  "readings": [
@@ -794,21 +805,21 @@
    "d": "Tetap tinggi, risiko Hormuz",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$95,93"
+   "v": "$95,80"
   },
   {
    "c": "neg",
-   "d": "Masih dekat terendah setahun",
+   "d": "Dekat terendah 13 bulan",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.902"
+   "v": "$3.900"
   },
   {
    "c": "neg",
-   "d": "Turun ~4%, di bawah $70.000",
+   "d": "Turun ~3%, di bawah $70.000",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$68.522"
+   "v": "$68.982"
   },
   {
    "c": "neg",
@@ -819,10 +830,10 @@
   },
   {
    "c": "neg",
-   "d": "Rebound +1,8%, dana asing masih keluar",
+   "d": "Rebound +1,8%, bobot 296 saham dicoret",
    "h": "ihsg",
    "k": "IHSG",
-   "v": "5.347"
+   "v": "5.344"
   },
   {
    "c": "neg",
@@ -842,7 +853,7 @@
  "regimeTitle": "Stagflasi, risiko tinggi",
  "risk": 74,
  "riskNote": "Tekanan utama: perang Iran/Hormuz dan harga minyak, imbal hasil AS 10 tahun di atas 5%, taruhan kenaikan Fed, guncangan saham AI (Nvidia), serta arus keluar dana asing dari Indonesia.",
- "updatedAt": "2026-11-13T08:58:04Z",
+ "updatedAt": "2026-11-13T11:37:49Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1160,11 +1171,11 @@
  "brief": {
   "date": "2026-11-13",
   "points": [
-   "Indeks risiko global bertahan di 74/100: tekanan terbesar dari konflik Iran–Selat Hormuz serta inflasi dan suku bunga.",
-   "Pasar hampir pasti memperkirakan Fed menaikkan bunga pada Desember; imbal hasil obligasi AS 10 tahun di sekitar 5,1%.",
-   "Saham AI tertekan setelah CEO Nvidia mundur; Bitcoin turun di bawah $70.000.",
-   "IHSG naik ±1,8% ke kisaran 5.345 menjelang perubahan indeks MSCI pada 30 November; rupiah masih di atas 18.000.",
-   "Minyak kembali menguat karena risiko pasokan Timur Tengah belum mereda."
+   "Indeks risiko global di 74/100: konflik Iran–Selat Hormuz terus menekan, Iran melaporkan lagi tanker terkena ranjau; Brent bertahan sekitar $96.",
+   "Imbal hasil obligasi AS 10 tahun di atas 5,1% dan pasar memperkirakan Fed menaikkan bunga pada Desember.",
+   "Saham AI tertekan (CEO Nvidia mundur, kekhawatiran pembatasan chip); S&P 500 −0,35% dan Bitcoin turun ke sekitar $69.000.",
+   "IHSG rebound ±1,8% ke 5.344 setelah BEI mengeluarkan 296 saham dari pembobotan indeks; rupiah masih lemah di kisaran 18.190 per dolar.",
+   "Pantau: data PPI AS, pengumuman perubahan indeks MSCI (efektif setelah 30 November), dan perkembangan Hormuz."
   ]
  }
 }
