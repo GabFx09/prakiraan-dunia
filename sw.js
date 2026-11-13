@@ -1,7 +1,7 @@
 // Prakiraan Dunia service worker: works offline with the last data seen.
 // App shell: cache first, refreshed in the background.
 // Data (data/*.json, raw.githubusercontent.com): network first, cache as fallback.
-const VERSION = "pd-v3";
+const VERSION = "pd-v4";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -32,6 +32,16 @@ self.addEventListener("fetch", (e) => {
           return res;
         })
         .catch(() => caches.open(VERSION).then((c) => c.match(dataKey(url))).then((r) => r || Response.error()))
+    );
+    return;
+  }
+
+  // Page navigations: network first so a new version shows at once; cached copy when offline.
+  if (req.mode === "navigate") {
+    e.respondWith(
+      fetch(req)
+        .then((res) => { if (res.ok) { const copy = res.clone(); caches.open(VERSION).then((c) => c.put("./index.html", copy)); } return res; })
+        .catch(() => caches.open(VERSION).then((c) => c.match("./index.html")))
     );
     return;
   }

@@ -151,6 +151,10 @@ h1, h2, h3 { margin: 0; font-weight: 700; }
 .tag.netral, .tag.hold, .tag.open, .tag.t-mix { background: var(--line); color: var(--dim); }
 .tag.care { background: var(--yellow-bg); color: var(--yellow); }
 .drivers { display: grid; gap: 10px; }
+.topics { display: flex; flex-wrap: wrap; gap: 5px; }
+.topics button { font: 500 10.5px var(--mono); color: var(--dim); background: transparent; border: 1px solid var(--line2); padding: 3px 8px; cursor: pointer; text-transform: uppercase; border-radius: 2px; }
+.topics button[aria-pressed="true"] { color: #000; background: var(--cyan); border-color: var(--cyan); }
+.wi .tp { font: 10px var(--mono); color: var(--cyan); text-transform: uppercase; }
 .drv { border-left: 3px solid var(--sev, var(--dim)); padding: 2px 0 2px 10px; display: grid; gap: 3px; }
 .drv[data-sev="tinggi"] { --sev: var(--red); } .drv[data-sev="sedang"] { --sev: var(--yellow); } .drv[data-sev="rendah"] { --sev: var(--green); }
 .drv h3 { font-size: 13.5px; display: flex; justify-content: space-between; gap: 8px; }
@@ -357,7 +361,7 @@ footer b { color: var(--amber); }
 
 <section class="panel s7" id="berita">
   <div class="ph"><h2><span class="code">[2]</span>KAWAT BERITA</h2><span class="meta">dikurasi agen Claude · klik untuk sumber</span></div>
-  <div class="pb"><div class="wire" id="wire"></div></div>
+  <div class="pb"><div class="wire" id="wire"></div><div style="display:flex;justify-content:space-between;gap:8px;align-items:baseline;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:10px"><span class="sub">Arus berita langsung · tiap 15 menit</span><span class="dim mono" style="font-size:11px" id="t-head"></span></div><div class="topics" id="topics"></div><div class="wire" id="flow"></div></div>
 </section>
 
 <section class="panel s5" id="penggerak">
@@ -473,6 +477,7 @@ footer b { color: var(--amber); }
     <dl>
       <dt>Harga pasar</dt><dd>Yahoo Finance via GitHub Actions, ±15 menit, bisa tertunda. <span class="dim" id="t-mkt"></span></dd>
       <dt>Bitcoin live</dt><dd>CoinGecko, langsung dari browser Anda tiap menit. <span class="dim" id="t-cg"></span></dd>
+      <dt>Arus berita</dt><dd>Google News RSS via GitHub Actions, ±15 menit, tanpa kurasi.</dd>
       <dt>Analisis</dt><dd>Agen Claude di cloud Anthropic, tiap jam: berita, risiko, skenario, siklus, asumsi model. Ditulis AI, bisa keliru. <span class="dim" id="t-snap"></span></dd>
       <dt>Sinyal &amp; korelasi</dt><dd>Dihitung di browser dari harga 6 bulan.</dd>
       <dt>Simulasi</dt><dd>Monte Carlo di browser Anda.</dd>
@@ -566,7 +571,7 @@ const PRESETS = [
 ];
 
 // ===== state =====
-let S = null, MKT = null, CG = null, FC = null;
+let S = null, MKT = null, CG = null, FC = null, HL = null, topic = "semua";
 let current = "1b", profile = "moderat", custom = { ...PROFILES.moderat.w };
 let seed = 20261113, sim = null, lastModel = "", detailKey = null;
 try { const v = localStorage.getItem("pd-horizon"); if (v) current = v; } catch {}
@@ -595,6 +600,11 @@ function seriesOf(key) {
   return s;
 }
 const dirCls = (k, chg) => (chg == null || chg === 0 ? "flat" : goodWhenUp(k) === chg > 0 ? "up" : "down");
+function chgText(k, q) {
+  if (!q || q.chg == null) return "";
+  if (k === "ust10" && q.prev != null && q.span == null) { const b = Math.round((q.price - q.prev) * 100); return `${arrow(b)} ${Math.abs(b)} bps`; }
+  return `${arrow(q.chg)} ${nf(Math.abs(q.chg), 2)}%`;
+}
 const arrow = (chg) => (chg == null ? "" : chg > 0 ? "▲" : chg < 0 ? "▼" : "■");
 
 // ===== technicals =====
@@ -645,7 +655,7 @@ function renderLive() {
 }
 let tickerSig = "";
 function renderTicker() {
-  const items = KEYS.map((k) => { const q = quoteOf(k); if (!q) return ""; const c = q.chg; return `<span class="it" data-key="${k}"><b>${ASSET[k].code}</b>${fmtQuote(k, q.price)} <span class="${dirCls(k, c)}">${arrow(c)} ${c == null ? "" : nf(Math.abs(c), 2) + "%"}</span></span>`; }).join("");
+  const items = KEYS.map((k) => { const q = quoteOf(k); if (!q) return ""; const c = q.chg; return `<span class="it" data-key="${k}"><b>${ASSET[k].code}</b>${fmtQuote(k, q.price)} <span class="${dirCls(k, c)}">${chgText(k, q)}</span></span>`; }).join("");
   const html = items + (S ? `<span class="it" data-sec="kondisi"><b>RISIKO</b>${esc(S.risk)}/100</span>` : "");
   if (!html || html === tickerSig) return;
   tickerSig = html;
@@ -686,7 +696,7 @@ function renderTop() {
     let v = r.v, d = r.d, c = r.c === "pos" ? "up" : r.c === "neg" ? "down" : "flat", series = [];
     if (q) {
       v = fmtQuote(r.h, q.price);
-      if (q.chg != null) { d = `${arrow(q.chg)} ${nf(Math.abs(q.chg), 2)}% ${q.span || "1h"}`; c = dirCls(r.h, q.chg); }
+      if (q.chg != null) { d = `${chgText(r.h, q)} ${q.span || "1h"}`; c = dirCls(r.h, q.chg); }
       series = seriesOf(r.h).slice(-66).map((x) => x[1]);
     } else if (r.h) series = (S.history || []).map((x) => x[r.h]);
     const sp = spark(series);
@@ -706,6 +716,17 @@ function renderWire() {
   }).join("") : `<p class="dim">Belum ada berita.</p>`;
   $("drivers").innerHTML = (S.drivers || []).map((d) => `<div class="drv" data-sev="${esc(d.sev)}"><h3>${esc(d.t)}<span>${esc(d.sev)}</span></h3><p>${esc(d.p)}</p><p class="i">${esc(d.i)}</p></div>`).join("");
 }
+
+const TOPIC_LBL = { semua: "Semua", geopolitik: "Geopolitik", "bank-sentral": "Bank sentral", "saham-as": "Saham AS", "ai-teknologi": "AI", kripto: "Kripto", emas: "Emas", china: "China", indonesia: "Indonesia" };
+function renderFlow() {
+  const items = HL?.items || [];
+  $("t-head").textContent = HL?.updatedAt ? "Google News · " + ago(HL.updatedAt) : "";
+  const have = new Set(items.map((i) => i.topic));
+  $("topics").innerHTML = Object.keys(TOPIC_LBL).filter((t) => t === "semua" || have.has(t)).map((t) => `<button type="button" data-t="${t}" aria-pressed="${t === topic}">${TOPIC_LBL[t]}</button>`).join("");
+  const list = items.filter((i) => topic === "semua" || i.topic === topic).slice(0, 12);
+  $("flow").innerHTML = list.length ? list.map((n) => `<div class="wi"><time datetime="${esc(n.time)}">${esc(ago(n.time))}</time><div><a href="${esc(/^https:\/\//.test(n.url) ? n.url : "#")}" target="_blank" rel="noopener">${esc(n.t)}</a><small>${esc(n.src)}</small></div><span class="tp">${esc(TOPIC_LBL[n.topic] || n.topic)}</span></div>`).join("") : `<p class="dim">Arus berita akan muncul setelah pengambilan berikutnya.</p>`;
+}
+$("topics").addEventListener("click", (e) => { const b = e.target.closest("button[data-t]"); if (!b) return; topic = b.dataset.t; renderFlow(); });
 
 // ===== [3] horizons =====
 function renderTabs() {
@@ -984,7 +1005,7 @@ function renderDetail() {
   const [tc, tl] = t ? TREND[t.trend] : ["t-mix", "—"];
   $("detail").innerHTML = `<div class="ph"><h2><span class="code">${A.code}</span>${esc(A.n)}</h2><span class="meta">${esc(q?.symbol || "")}${q?.time ? " · data " + ago(q.time) : ""} <button class="btn" type="button" id="dt-close" style="padding:2px 8px;margin-left:8px">Tutup ✕</button></span></div>
   <div class="pb">
-    <div class="dt-top"><span class="px">${fmtQuote(k, q?.price)}</span><span class="ch ${dirCls(k, q?.chg)}">${arrow(q?.chg)} ${q?.chg == null ? "" : nf(Math.abs(q.chg), 2) + "%"} <span class="dim" style="font-size:12px">${q?.span || "dari penutupan sebelumnya"}</span></span><span class="tag ${tc}">TREN ${tl}</span>${k === "usdidr" ? '<span class="dim" style="font-size:12px">naik = rupiah melemah</span>' : ""}</div>
+    <div class="dt-top"><span class="px">${fmtQuote(k, q?.price)}</span><span class="ch ${dirCls(k, q?.chg)}">${chgText(k, q)} <span class="dim" style="font-size:12px">${q?.span || "dari penutupan sebelumnya"}</span></span><span class="tag ${tc}">TREN ${tl}</span>${k === "usdidr" ? '<span class="dim" style="font-size:12px">naik = rupiah melemah</span>' : ""}</div>
     <div class="dt-chart">${lineChart(k)}</div>
     <div class="legend"><span><i style="background:var(--amber);height:2px"></i>Rata-rata 20 hari</span><span><i style="border-top:2px dashed var(--cyan);height:0"></i>Rata-rata 50 hari</span></div>
     ${t ? `<div class="dt-stats"><div><span>MA20</span><b>${fmtQuote(k, t.ma20)}</b></div><div><span>MA50</span><b>${fmtQuote(k, t.ma50)}</b></div><div><span>RSI 14</span><b>${t.rsi == null ? "—" : nf(t.rsi, 0)}</b></div><div><span>Momentum 20h</span><b class="${t.mom > 0 ? "up" : "down"}">${spct(t.mom)}</b></div><div><span>Dari puncak 6 bln</span><b>${spct(t.dd)}</b></div><div><span>Volatilitas/thn</span><b>${pct(t.vol, 0)}</b></div></div>` : ""}
@@ -1035,7 +1056,7 @@ function context() {
   const sig = KEYS.map((k) => { const t = tech(k); return t ? `${ASSET[k].code}: tren ${TREND[t.trend][1]}, RSI ${t.rsi == null ? "?" : nf(t.rsi, 0)}, momentum 20h ${spct(t.mom)}, dari puncak ${spct(t.dd)}` : null; }).filter(Boolean).join("\n");
   const cyc = (S.cycles || []).map((c) => `- ${c.n}: fase "${c.phases[phaseIdx(c)]}". ${c.now} Berikutnya: ${c.next}`).join("\n");
   const hz = (S.horizons || []).map((x) => `- ${x.t} (${x.s}): ${x.sum} ${(x.sc || []).map((s) => `${LBL[s.k]} "${s.n}" ${s.p}%`).join(" | ")}`).join("\n");
-  const news = (S.news || []).slice(0, 10).map((n) => `- ${n.t} (${n.src})`).join("\n");
+  const news = (S.news || []).slice(0, 8).map((n) => `- ${n.t} (${n.src})`).concat((HL?.items || []).slice(0, 10).map((n) => `- [${ago(n.time)}] ${n.t} (${n.src})`)).join("\n");
   const A = S.model.assets, w = weights();
   const port = A.map((a, i) => `${a.n} ${Math.round(w[i] * 100)}%`).join(", ");
   const simTxt = sim ? sim.stats.map((s) => `${s.label}: median ${fmtRpShort(s.q[2])}, rentang 90% ${fmtRpShort(s.q[0])}–${fmtRpShort(s.q[4])}, peluang rugi ${pct(s.pLoss)}`).join("\n") : "-";
@@ -1055,7 +1076,7 @@ $("ask").onclick = async () => {
 // ===== render all =====
 function renderAll(flash) {
   if (!S?.model?.assets?.length) return;
-  renderLive(); renderTicker(); renderTop(); renderWire(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); renderTrack(); renderDetail();
+  renderLive(); renderTicker(); renderTop(); renderWire(); renderFlow(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); renderTrack(); renderDetail();
   const key = JSON.stringify([S.model, (S.horizons || []).map((h) => (h.sc || []).map((s) => s.p))]);
   if (key !== lastModel || !sim) { lastModel = key; runSim(); }
   if (flash) { const el = $("kondisi"); el.classList.remove("flash"); void el.offsetWidth; el.classList.add("flash"); }
@@ -1070,11 +1091,12 @@ async function getJSON(name) {
   return null;
 }
 async function refresh(first) {
-  const [snap, mkt, fc] = await Promise.all([getJSON("snapshot.json"), getJSON("market.json"), getJSON("forecasts.json")]);
+  const [snap, mkt, fc, hl] = await Promise.all([getJSON("snapshot.json"), getJSON("market.json"), getJSON("forecasts.json"), getJSON("headlines.json")]);
   let changed = false;
   if (snap?.model?.assets?.length) { changed = !S || snap.updatedAt !== S.updatedAt; S = snap; }
   if (mkt?.quotes) { changed = changed || !MKT || mkt.updatedAt !== MKT.updatedAt; MKT = mkt; }
   if (fc?.items) { changed = changed || !FC || fc.updatedAt !== FC.updatedAt; FC = fc; }
+  if (hl?.items) { changed = changed || !HL || hl.updatedAt !== HL.updatedAt; HL = hl; }
   if (S && (changed || first)) renderAll(!first && changed);
   renderLive();
 }
