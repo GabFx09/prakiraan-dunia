@@ -14,6 +14,10 @@ Aplikasi tetap bisa dibuka saat offline dengan data terakhir yang tersimpan.
 
 **Unduh kode:** [main.zip](https://github.com/GabFx09/prakiraan-dunia/archive/refs/heads/main.zip)
 
+## Notifikasi peringatan penting
+
+Pasang aplikasi gratis **ntfy** (Android/iOS), tekan +, lalu berlangganan topik **`prakiraan-dunia-gfx09`**. Atau buka https://ntfy.sh/prakiraan-dunia-gfx09. Peringatan dikirim saat ada berita besar (dipilih agen Claude), guncangan harga harian, atau lonjakan indeks risiko.
+
 ## Cara kerjanya
 
 | Bagian | Sumber | Seberapa sering |

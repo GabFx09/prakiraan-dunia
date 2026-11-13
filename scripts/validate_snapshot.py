@@ -45,6 +45,14 @@ def main(path):
     for p in d.get("riskParts", []) or []:
         if not (0 <= int(p.get("v", -1)) <= 100):
             fail(f"riskParts '{p.get('k')}' di luar 0-100")
+    for a in d.get("alerts", []) or []:
+        if not a.get("id") or not a.get("title") or a.get("level") not in ("kritis", "penting"):
+            fail(f"alert tidak valid: {a}")
+        if a.get("url") and not str(a["url"]).startswith("https://"):
+            fail(f"alert url harus https: {a.get('id')}")
+    b = d.get("brief")
+    if b is not None and (not isinstance(b.get("points"), list) or not (1 <= len(b["points"]) <= 6)):
+        fail("brief.points harus 1-6 butir")
     for a in d["assets"]:
         if len(a.get("s", [])) != 6 or not set(a["s"]) <= STANCES:
             fail(f"aset '{a.get('n')}' punya sikap tidak valid")

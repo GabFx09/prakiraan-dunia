@@ -287,6 +287,47 @@ textarea { font-family: var(--sans); }
 .src dl { display: grid; grid-template-columns: minmax(0, 150px) minmax(0, 1fr); gap: 7px 12px; margin: 0; font-size: 12.5px; }
 .src dt { font: 10.5px var(--mono); color: var(--dim); text-transform: uppercase; padding-top: 2px; }
 .src dd { margin: 0; }
+/* alerts, brief, portfolio */
+#alertbar { margin-top: 10px; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 8px 12px; border: 1px solid var(--yellow); background: var(--yellow-bg); border-radius: 4px; font-size: 13px; }
+#alertbar.kritis { border-color: var(--red); background: var(--red-bg); }
+#alertbar b { font: 700 11px var(--mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--yellow); }
+#alertbar.kritis b { color: var(--red); }
+#alertbar a { color: var(--text); text-decoration: none; font-weight: 500; }
+#alertbar a:hover { color: var(--amber); }
+#alertbar button { background: transparent; border: 0; color: var(--dim); cursor: pointer; font: 14px var(--mono); }
+@media (prefers-reduced-motion: no-preference) { #alertbar.kritis b { animation: blink 1.2s steps(1) infinite; } }
+.brief { border: 1px solid var(--line); background: var(--bg); padding: 10px 12px; display: grid; gap: 6px; }
+.brief ul { margin: 0; padding-left: 18px; display: grid; gap: 3px; font-size: 13px; }
+.alerts-grid { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 14px; }
+.al { border-left: 3px solid var(--yellow); padding: 4px 0 4px 10px; display: grid; gap: 3px; }
+.al.kritis { border-color: var(--red); }
+.al-h { display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; font: 11px var(--mono); color: var(--dim); }
+.al a { color: var(--text); text-decoration: none; font-weight: 600; font-size: 13.5px; }
+.al a:hover { color: var(--amber); }
+.al p { font-size: 12.5px; color: var(--dim); }
+.tag.kritis { background: var(--red-bg); color: var(--red); }
+.tag.penting { background: var(--yellow-bg); color: var(--yellow); }
+.al-list { display: grid; gap: 10px; }
+.box { border: 1px solid var(--line); padding: 10px 12px; display: grid; gap: 8px; align-content: start; }
+.box h3 { font: 700 11.5px var(--mono); color: var(--amber); text-transform: uppercase; letter-spacing: 0.05em; }
+.box p { font-size: 12.5px; }
+.topic { font: 600 13px var(--mono); color: var(--cyan); background: var(--bg); border: 1px dashed var(--line2); padding: 3px 8px; user-select: all; }
+.pa-form { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr) auto; gap: 6px; }
+.pa-form select, .pa-form input { padding: 6px 8px; font-size: 12.5px; }
+.pa-list { display: grid; gap: 4px; font: 12px var(--mono); }
+.pa-list div { display: flex; justify-content: space-between; gap: 8px; align-items: center; border-bottom: 1px dashed var(--line); padding-bottom: 4px; }
+.pa-list button { background: transparent; border: 0; color: var(--dim); cursor: pointer; font: 12px var(--mono); }
+.pa-list .done { color: var(--green); }
+.pf-grid { display: grid; grid-template-columns: minmax(0, 280px) minmax(0, 1fr); gap: 14px; }
+.pf-inputs { display: grid; gap: 7px; }
+.pf-in { display: grid; grid-template-columns: 10px minmax(0, 1fr) minmax(0, 130px); gap: 8px; align-items: center; font-size: 12.5px; }
+.pf-in input { padding: 6px 8px; font-size: 13px; text-align: right; }
+.pf-sum { font: 700 15px var(--mono); }
+.drift { height: 8px; background: var(--line); position: relative; }
+.drift i { position: absolute; top: 0; bottom: 0; left: 0; }
+@media (max-width: 900px) { .alerts-grid, .pf-grid { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 520px) { .pa-form { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+
 footer { margin-top: 18px; font: 11px var(--mono); color: var(--dim); display: flex; flex-wrap: wrap; gap: 6px 16px; justify-content: space-between; }
 footer b { color: var(--amber); }
 
@@ -321,6 +362,8 @@ footer b { color: var(--amber); }
 
 <div class="ticker" aria-label="Pita harga"><div class="ticker-track" id="ticker"></div></div>
 
+<div id="alertbar" hidden role="status"></div>
+
 <form class="cmdline" id="cmdform" autocomplete="off">
   <label for="cmd">PD&gt;</label>
   <input id="cmd" type="text" spellcheck="false" placeholder="Ketik perintah: BTC, IHSG, EMAS, SIKLUS, SIM, AKURASI, BANTU… lalu Enter">
@@ -336,6 +379,7 @@ footer b { color: var(--amber); }
 <section class="panel" id="kondisi">
   <div class="ph"><h2><span class="code">[1]</span>RISIKO GLOBAL</h2><span class="meta" id="m-kondisi"></span></div>
   <div class="pb">
+    <div class="brief" id="brief" hidden></div>
     <div class="regime">
       <div style="display:grid;gap:8px;align-content:start">
         <span class="sub">Rezim pasar</span>
@@ -356,6 +400,42 @@ footer b { color: var(--amber); }
       </div>
     </div>
     <div class="readings" id="readings"></div>
+  </div>
+</section>
+
+<section class="panel" id="peringatan">
+  <div class="ph"><h2><span class="code">[A]</span>PERINGATAN PENTING</h2><span class="meta" id="m-alert"></span></div>
+  <div class="pb">
+    <div class="alerts-grid">
+      <div style="display:grid;gap:10px;align-content:start;min-width:0">
+        <p class="lede">Muncul saat ada berita yang benar-benar besar (dipilih agen Claude), guncangan harga harian yang jarang terjadi, atau lonjakan indeks risiko. Dicek otomatis setiap ±15 menit.</p>
+        <div class="al-list" id="al-list"></div>
+      </div>
+      <div style="display:grid;gap:10px;align-content:start;min-width:0">
+        <div class="box">
+          <h3>📱 Notifikasi ke HP (walau aplikasi tertutup)</h3>
+          <p>1. Pasang aplikasi gratis <b>ntfy</b> dari Play Store atau App Store. 2. Tekan <b>+</b>, isi topik di bawah, lalu <b>Subscribe</b>. Tidak perlu akun.</p>
+          <div class="row"><span class="topic" id="topic">prakiraan-dunia-gfx09</span><button class="btn" type="button" id="copy-topic">Salin topik</button><a class="btn" href="https://ntfy.sh/prakiraan-dunia-gfx09" target="_blank" rel="noopener">Buka di browser ↗</a></div>
+          <p class="dim" style="font-size:11.5px">Topik ini publik dan hanya berisi peringatan dari situs ini.</p>
+        </div>
+        <div class="box">
+          <h3>🔔 Notifikasi di perangkat ini</h3>
+          <p id="notif-status" class="dim">Tampilkan notifikasi saat situs atau aplikasi Prakiraan Dunia sedang terbuka (termasuk di latar belakang).</p>
+          <div class="row"><button class="btn pri" type="button" id="notif-btn">Aktifkan notifikasi</button><button class="btn" type="button" id="notif-test" hidden>Tes</button></div>
+        </div>
+        <div class="box">
+          <h3>🎯 Peringatan harga pribadi</h3>
+          <p class="dim" style="font-size:12px">Beri tahu saya jika harga menyentuh level tertentu. Tersimpan di perangkat ini saja.</p>
+          <form class="pa-form" id="pa-form">
+            <select id="pa-key" aria-label="Aset"></select>
+            <select id="pa-op" aria-label="Kondisi"><option value=">">naik di atas</option><option value="<">turun di bawah</option></select>
+            <input type="text" id="pa-val" inputmode="decimal" placeholder="Level" aria-label="Level harga">
+            <button class="btn pri" type="submit">Tambah</button>
+          </form>
+          <div class="pa-list" id="pa-list"></div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -402,12 +482,30 @@ footer b { color: var(--amber); }
   </div>
 </section>
 
+<section class="panel" id="portofolio">
+  <div class="ph"><h2><span class="code">[P]</span>PORTOFOLIO SAYA</h2><span class="meta">tersimpan di perangkat ini saja</span></div>
+  <div class="pb">
+    <p class="lede">Masukkan nilai aset yang Anda miliki sekarang. Halaman ini membandingkannya dengan alokasi target profil Anda, menghitung berapa yang perlu ditambah atau dikurangi, dan menguji ketahanannya terhadap krisis.</p>
+    <div class="pf-grid">
+      <div class="pf-inputs" id="pf-inputs"></div>
+      <div style="display:grid;gap:10px;align-content:start;min-width:0">
+        <div class="row" style="justify-content:space-between"><span>Total: <span class="pf-sum" id="pf-total">Rp 0</span></span><span class="dim mono" style="font-size:12px" id="pf-profile"></span></div>
+        <div style="display:grid;gap:4px"><span class="sub" id="pf-drift-l">Penyimpangan dari target</span><div class="drift"><i id="pf-drift" style="width:0"></i></div></div>
+        <div class="tw"><table id="pf-table"></table></div>
+        <p id="pf-note" style="font-size:12.5px"></p>
+        <div class="row"><button class="btn pri" type="button" id="pf-use">Simulasikan portofolio ini</button><button class="btn" type="button" id="pf-clear">Kosongkan</button></div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="panel" id="simulasi">
   <div class="ph"><h2><span class="code">[6]</span>SIMULASI MONTE CARLO &amp; UJI STRES</h2><span class="meta" id="sim-meta"></span></div>
   <div class="pb">
     <div class="sim">
       <div class="side">
-        <div class="field"><label for="amount">Dana investasi (Rp)</label><input type="text" id="amount" inputmode="numeric" value="100.000.000"></div>
+        <div class="field"><label for="amount">Dana investasi awal (Rp)</label><input type="text" id="amount" inputmode="numeric" value="100.000.000"></div>
+        <div class="field"><label for="monthly">Setoran rutin per bulan (Rp)</label><input type="text" id="monthly" inputmode="numeric" value="0"></div>
         <div class="field"><span class="lab" id="prof-lab">Profil risiko</span><div class="seg" role="group" aria-labelledby="prof-lab" id="profiles"></div></div>
         <p class="dim" style="font-size:12px" id="profile-desc"></p>
         <div class="allocbar" id="allocbar" aria-hidden="true"></div>
@@ -423,6 +521,7 @@ footer b { color: var(--amber); }
           <span><i style="background:rgba(var(--amber-rgb),.4)"></i>50% masa depan</span>
           <span><i style="background:var(--amber);height:2px"></i>Median</span>
           <span><i style="border-top:2px dashed var(--cyan);height:0"></i>Semua di deposito</span>
+          <span><i style="border-top:2px dotted var(--dim);height:0"></i>Total disetor</span>
         </div>
         <div class="tw"><table id="simtable"></table></div>
       </div>
@@ -540,11 +639,13 @@ const ASSET = {
 const KEYS = ["ihsg", "spx", "gold", "brent", "usdidr", "ust10", "btc"];
 const SECTIONS = [
   ["1", "RISIKO", "kondisi", ["RISIKO", "KONDISI", "RISK"]],
+  ["A", "PERINGATAN", "peringatan", ["PERINGATAN", "ALERT", "NOTIF", "NOTIFIKASI"]],
   ["2", "BERITA", "berita", ["BERITA", "NEWS", "PENGGERAK"]],
   ["3", "PRAKIRAAN", "prakiraan", ["PRAKIRAAN", "SKENARIO", "FORECAST"]],
   ["4", "SIKLUS", "siklus", ["SIKLUS", "CYCLE", "KALENDER"]],
   ["5", "SINYAL", "sinyal", ["SINYAL", "TEKNIKAL", "KORELASI", "CORR"]],
-  ["6", "SIMULASI", "simulasi", ["SIM", "SIMULASI", "MONTE", "STRES", "STRESS", "PORTOFOLIO"]],
+  ["P", "PORTOFOLIO", "portofolio", ["PORTOFOLIO", "PORTFOLIO", "SAYA", "REBALANCE"]],
+  ["6", "SIMULASI", "simulasi", ["SIM", "SIMULASI", "MONTE", "STRES", "STRESS"]],
   ["7", "MATRIKS", "matriks", ["MATRIKS", "MATRIX", "ASET"]],
   ["8", "AKURASI", "akurasi", ["AKURASI", "RAPOR", "TRACK"]],
   ["9", "TANYA", "analis", ["TANYA", "AI", "CLAUDE", "ANALIS"]],
@@ -571,7 +672,7 @@ const PRESETS = [
 ];
 
 // ===== state =====
-let S = null, MKT = null, CG = null, FC = null, HL = null, topic = "semua";
+let S = null, MKT = null, CG = null, FC = null, HL = null, AL = null, topic = "semua";
 let current = "1b", profile = "moderat", custom = { ...PROFILES.moderat.w };
 let seed = 20261113, sim = null, lastModel = "", detailKey = null;
 try { const v = localStorage.getItem("pd-horizon"); if (v) current = v; } catch {}
@@ -701,10 +802,182 @@ function renderTop() {
     } else if (r.h) series = (S.history || []).map((x) => x[r.h]);
     const sp = spark(series);
     return `<div class="rd"${r.h ? ` data-key="${esc(r.h)}" role="button" tabindex="0"` : ""}><span class="k">${esc(r.k)}</span><span class="v">${esc(v)}</span><span class="d ${c}">${esc(d)}</span>${sp ? `<svg viewBox="0 0 300 24" preserveAspectRatio="none" aria-hidden="true">${sp}</svg>` : ""}</div>`;
-  }).join("");
+  }).join("") + derivedTiles();
+  const b = S.brief;
+  $("brief").hidden = !b?.points?.length;
+  if (b?.points?.length) $("brief").innerHTML = `<span class="sub">Ringkasan hari ini${b.date ? " · " + esc(dShort(b.date)) : ""}</span><ul>${b.points.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
 }
 $("readings").addEventListener("click", (e) => { const r = e.target.closest("[data-key]"); if (r) openDetail(r.dataset.key); });
 $("readings").addEventListener("keydown", (e) => { if (e.key === "Enter") { const r = e.target.closest("[data-key]"); if (r) openDetail(r.dataset.key); } });
+
+function derivedTiles() {
+  const g = quoteOf("gold"), fx = quoteOf("usdidr"), b = quoteOf("btc");
+  if (!fx) return "";
+  const comb = (q) => ((1 + (q.chg || 0) / 100) * (1 + (fx.chg || 0) / 100) - 1) * 100;
+  const tile = (k, v, chg, key, note) => `<div class="rd" data-key="${key}" role="button" tabindex="0"><span class="k">${k}</span><span class="v">${v}</span><span class="d ${chg > 0 ? "up" : chg < 0 ? "down" : "flat"}">${arrow(chg)} ${nf(Math.abs(chg), 2)}% · ${note}</span></div>`;
+  let out = "";
+  if (g) out += tile("Emas Rp/gram (spot)", "Rp " + nf((g.price * fx.price) / 31.1035), comb(g), "gold", "belum termasuk premi");
+  if (b) out += tile("Bitcoin dalam Rupiah", "Rp " + nf((b.price * fx.price) / 1e6, 0) + " jt", comb(b), "btc", "harga × kurs");
+  return out;
+}
+
+// ===== [A] alerts & notifications =====
+const SEEN_KEY = "pd-seen-alerts";
+async function getSeen() {
+  try { if (window.caches) { const c = await caches.open("pd-meta"); const m = await c.match("seen"); if (m) return new Set(await m.json()); } } catch {}
+  try { return new Set(JSON.parse(localStorage.getItem(SEEN_KEY) || "null") || []); } catch { return new Set(); }
+}
+async function putSeen(set) {
+  const arr = [...set].slice(-300);
+  try { if (window.caches) { const c = await caches.open("pd-meta"); await c.put("seen", new Response(JSON.stringify(arr))); } } catch {}
+  try { localStorage.setItem(SEEN_KEY, JSON.stringify(arr)); } catch {}
+}
+const notifOn = () => { try { return "Notification" in window && Notification.permission === "granted" && localStorage.getItem("pd-notif") === "1"; } catch { return false; } };
+async function notify(title, body, url, tag) {
+  if (!notifOn()) return false;
+  const opts = { body, icon: "icons/icon-192.png", badge: "icons/icon-192.png", tag, data: { url } };
+  try { const reg = await navigator.serviceWorker?.getRegistration(); if (reg) { await reg.showNotification(title, opts); return true; } } catch {}
+  try { new Notification(title, opts); return true; } catch { return false; }
+}
+const isOwn = (u) => typeof u === "string" && u.startsWith(location.origin + location.pathname.replace(/index\.html$/, ""));
+function renderAlerts() {
+  const items = AL?.items || [];
+  $("m-alert").textContent = AL?.updatedAt ? `${items.length} tercatat · dicek ${ago(AL.updatedAt)}` : "";
+  $("al-list").innerHTML = items.length ? items.slice(0, 15).map((a) => {
+    const url = /^https:\/\//.test(a.url || "") ? a.url : "#peringatan";
+    return `<div class="al ${esc(a.level)}"><div class="al-h"><span class="tag ${esc(a.level)}">${esc(a.level)}</span><time datetime="${esc(a.time)}">${esc(ago(a.time))}</time><span>${esc({ berita: "berita", harga: "guncangan harga", risiko: "indeks risiko" }[a.kind] || a.kind || "")}</span></div><a href="${esc(url)}"${isOwn(url) ? "" : ' target="_blank" rel="noopener"'}>${esc(a.title)}</a>${a.body ? `<p>${esc(a.body)}</p>` : ""}</div>`;
+  }).join("") : `<p class="dim">Belum ada peringatan. Itu kabar baik: belum ada kejadian yang cukup besar sejak sistem ini aktif.</p>`;
+  let dismissed = ""; try { dismissed = localStorage.getItem("pd-bar-dismiss") || ""; } catch {}
+  const top = items.find((a) => Date.now() - new Date(a.time).getTime() < 24 * 3600e3);
+  const bar = $("alertbar");
+  if (top && top.id !== dismissed) {
+    const url = /^https:\/\//.test(top.url || "") ? top.url : "#peringatan";
+    bar.className = top.level === "kritis" ? "kritis" : "";
+    bar.innerHTML = `<b>${top.level === "kritis" ? "● Kritis" : "● Penting"}</b><a href="${esc(url)}"${isOwn(url) ? "" : ' target="_blank" rel="noopener"'}>${esc(top.title)} <span class="dim mono" style="font-size:11px">· ${esc(ago(top.time))}</span></a><button type="button" id="bar-x" aria-label="Tutup peringatan">✕</button>`;
+    bar.hidden = false;
+    $("bar-x").onclick = () => { try { localStorage.setItem("pd-bar-dismiss", top.id); } catch {} bar.hidden = true; };
+  } else bar.hidden = true;
+}
+async function checkNewAlerts() {
+  const items = AL?.items || [];
+  if (!items.length) return;
+  let first = false; try { first = !localStorage.getItem(SEEN_KEY); } catch {}
+  const seen = await getSeen();
+  for (const a of items) {
+    if (seen.has(a.id)) continue;
+    seen.add(a.id);
+    if (!first && Date.now() - new Date(a.time).getTime() < 6 * 3600e3) await notify((a.level === "kritis" ? "🔴 " : "🟠 ") + a.title, a.body || "", a.url || location.href, a.id);
+  }
+  await putSeen(seen);
+}
+function renderNotifUI() {
+  const st = $("notif-status"), btn = $("notif-btn");
+  if (!("Notification" in window)) { st.textContent = "Browser ini tidak mendukung notifikasi. Gunakan aplikasi ntfy di atas."; btn.hidden = true; return; }
+  if (Notification.permission === "denied") { st.textContent = "Notifikasi diblokir di browser ini. Izinkan lewat pengaturan situs, atau gunakan aplikasi ntfy."; btn.hidden = true; return; }
+  if (notifOn()) { st.textContent = "Aktif. Peringatan baru dan peringatan harga pribadi akan muncul sebagai notifikasi selama situs/aplikasi terbuka."; btn.textContent = "Matikan"; $("notif-test").hidden = false; }
+  else { st.textContent = "Tampilkan notifikasi saat situs atau aplikasi Prakiraan Dunia sedang terbuka (termasuk di latar belakang)."; btn.textContent = "Aktifkan notifikasi"; $("notif-test").hidden = true; }
+  btn.hidden = false;
+}
+$("notif-btn").addEventListener("click", async () => {
+  if (notifOn()) { try { localStorage.setItem("pd-notif", "0"); } catch {} renderNotifUI(); return; }
+  let perm = Notification.permission;
+  if (perm !== "granted") { try { perm = await Notification.requestPermission(); } catch {} }
+  if (perm === "granted") {
+    try { localStorage.setItem("pd-notif", "1"); } catch {}
+    try { const reg = await navigator.serviceWorker?.ready; if (reg && "periodicSync" in reg) await reg.periodicSync.register("pd-alerts", { minInterval: 30 * 60 * 1000 }); } catch {}
+    await putSeen(new Set([...(await getSeen()), ...(AL?.items || []).map((a) => a.id)]));
+    notify("Notifikasi Prakiraan Dunia aktif", "Anda akan diberi tahu saat ada peringatan penting.", location.href, "pd-on");
+  }
+  renderNotifUI();
+});
+$("notif-test").addEventListener("click", () => notify("🟠 Contoh peringatan", "Beginilah tampilan notifikasi saat ada berita penting atau harga menyentuh level Anda.", location.href, "pd-test"));
+$("copy-topic").addEventListener("click", async () => {
+  try { await navigator.clipboard.writeText($("topic").textContent); say("Topik ntfy disalin."); }
+  catch { const r = document.createRange(); r.selectNodeContents($("topic")); const s = getSelection(); s.removeAllRanges(); s.addRange(r); say("Salin manual topik yang sudah dipilih (Ctrl+C)."); }
+});
+
+// personal price alerts
+let PA = [];
+try { PA = JSON.parse(localStorage.getItem("pd-pa") || "[]") || []; } catch {}
+const savePA = () => { try { localStorage.setItem("pd-pa", JSON.stringify(PA)); } catch {} };
+const parseNum = (s) => { const t = String(s).trim().replace(/\s/g, ""); if (!t) return NaN; const x = /,\d{1,2}$/.test(t) ? t.replace(/\./g, "").replace(",", ".") : t.replace(/[.,](?=\d{3}(\D|$))/g, ""); return parseFloat(x); };
+$("pa-key").innerHTML = KEYS.map((k) => `<option value="${k}">${ASSET[k].code} · ${esc(ASSET[k].n)}</option>`).join("");
+$("pa-key").addEventListener("change", () => { const q = quoteOf($("pa-key").value); $("pa-val").placeholder = q ? "kini " + fmtQuote($("pa-key").value, q.price) : "Level"; });
+$("pa-form").addEventListener("submit", (e) => {
+  e.preventDefault();
+  const key = $("pa-key").value, op = $("pa-op").value, v = parseNum($("pa-val").value);
+  if (!isFinite(v)) { say("Isi level harga dengan angka, misalnya 65000 atau 5,25."); return; }
+  PA.push({ id: Date.now().toString(36), key, op, v, done: false });
+  savePA(); $("pa-val").value = ""; renderPA(); checkPA();
+  say(`Peringatan dibuat: <b>${ASSET[key].code}</b> ${op === ">" ? "naik di atas" : "turun di bawah"} ${esc(fmtQuote(key, v))}`);
+});
+function renderPA() {
+  $("pa-list").innerHTML = PA.length ? PA.map((a) => { const q = quoteOf(a.key); return `<div><span class="${a.done ? "done" : ""}">${a.done ? "✓ " : ""}${ASSET[a.key]?.code || a.key} ${a.op === ">" ? "≥" : "≤"} ${esc(fmtQuote(a.key, a.v))} <span class="dim">· kini ${q ? esc(fmtQuote(a.key, q.price)) : "—"}</span></span><button type="button" data-del="${esc(a.id)}" aria-label="Hapus">✕</button></div>`; }).join("") : `<p class="dim" style="font-family:var(--sans)">Belum ada peringatan harga.</p>`;
+}
+$("pa-list").addEventListener("click", (e) => { const b = e.target.closest("[data-del]"); if (!b) return; PA = PA.filter((a) => a.id !== b.dataset.del); savePA(); renderPA(); });
+function checkPA() {
+  let hit = false;
+  for (const a of PA) {
+    if (a.done) continue;
+    const q = quoteOf(a.key); if (!q) continue;
+    if ((a.op === ">" && q.price >= a.v) || (a.op === "<" && q.price <= a.v)) {
+      a.done = true; hit = true;
+      const t = `🎯 ${ASSET[a.key].code} ${a.op === ">" ? "naik di atas" : "turun di bawah"} ${fmtQuote(a.key, a.v)}`;
+      say(`<b>${esc(t)}</b> · kini ${esc(fmtQuote(a.key, q.price))}`);
+      notify(t, `Harga sekarang ${fmtQuote(a.key, q.price)}.`, location.href.split("#")[0] + "#" + a.key, "pa-" + a.id);
+    }
+  }
+  if (hit) savePA();
+  renderPA();
+}
+
+// ===== [P] my portfolio =====
+let HOLD = {};
+try { HOLD = JSON.parse(localStorage.getItem("pd-hold") || "{}") || {}; } catch {}
+function targetWeights() { const w = weights(); return Object.fromEntries(S.model.assets.map((a, i) => [a.id, w[i]])); }
+function buildPfInputs() {
+  if ($("pf-inputs").dataset.built) return;
+  $("pf-inputs").innerHTML = S.model.assets.map((a) => `<div class="pf-in"><span style="width:10px;height:10px;background:${COLORS[a.id]}"></span><label for="pf-${a.id}">${esc(a.n)}</label><input type="text" id="pf-${a.id}" data-id="${a.id}" inputmode="numeric" placeholder="0" value="${HOLD[a.id] ? nf(HOLD[a.id]) : ""}"></div>`).join("");
+  $("pf-inputs").dataset.built = "1";
+}
+$("pf-inputs").addEventListener("input", (e) => {
+  const el = e.target.closest("input[data-id]"); if (!el) return;
+  const n = parseAmt(el.value); el.value = n ? nf(n) : ""; HOLD[el.dataset.id] = n;
+  try { localStorage.setItem("pd-hold", JSON.stringify(HOLD)); } catch {}
+  renderPortfolio();
+});
+function renderPortfolio() {
+  if (!S?.model?.assets) return;
+  buildPfInputs();
+  const A = S.model.assets, tw = targetWeights();
+  const total = A.reduce((t, a) => t + (+HOLD[a.id] || 0), 0);
+  $("pf-total").textContent = fmtRp(total);
+  $("pf-profile").textContent = `target: profil ${PROFILES[profile].label} (ubah di panel [6])`;
+  if (!total) { $("pf-table").innerHTML = ""; $("pf-note").textContent = "Isi nilai aset Anda di kiri untuk melihat perbandingan dan saran penyeimbangan."; $("pf-drift").style.width = "0"; $("pf-drift-l").textContent = "Penyimpangan dari target"; return; }
+  let drift = 0;
+  const rows = A.map((a) => { const cur = (+HOLD[a.id] || 0) / total, tgt = tw[a.id] || 0, diff = tgt * total - (+HOLD[a.id] || 0); drift += Math.abs(cur - tgt); return { a, cur, tgt, diff }; });
+  drift /= 2;
+  const col = drift > 0.15 ? "var(--red)" : drift > 0.07 ? "var(--yellow)" : "var(--green)";
+  $("pf-drift").style.cssText = `width:${Math.min(100, drift * 200)}%;background:${col}`;
+  $("pf-drift-l").textContent = `Penyimpangan dari target: ${pct(drift, 0)}`;
+  $("pf-table").innerHTML = `<thead><tr><th>Aset</th><th class="r">Sekarang</th><th class="r">Target</th><th class="r">Saran</th></tr></thead><tbody>${rows.map(({ a, cur, tgt, diff }) => {
+    const small = Math.abs(diff) < total * 0.02;
+    return `<tr><td><span style="display:inline-block;width:8px;height:8px;background:${COLORS[a.id]};margin-right:6px"></span>${esc(a.n)}</td><td class="r">${pct(cur, 0)}</td><td class="r dim">${pct(tgt, 0)}</td><td class="r ${small ? "dim" : diff > 0 ? "up" : "down"}">${small ? "sesuai" : (diff > 0 ? "+ " : "− ") + fmtRpShort(Math.abs(diff))}</td></tr>`;
+  }).join("")}</tbody>`;
+  const worst = STRESS.map((s) => ({ n: s.n, r: A.reduce((t, a) => t + ((+HOLD[a.id] || 0) / total) * (s.r[a.id] ?? 0), 0) })).sort((x, y) => x.r - y.r)[0];
+  $("pf-note").innerHTML = `${drift > 0.07 ? `Portofolio menyimpang <b>${pct(drift, 0)}</b> dari target; pertimbangkan menyeimbangkan ulang secara bertahap, idealnya lewat setoran baru agar tidak perlu menjual.` : "Portofolio sudah dekat dengan target."} Jika <b>${esc(worst.n)}</b> terulang, portofolio ini diperkirakan berubah <b class="${worst.r < 0 ? "down" : "up"}">${spct(worst.r)}</b> (${worst.r < 0 ? "−" : "+"}${fmtRpShort(Math.abs(worst.r * total))}).`;
+}
+$("pf-use").addEventListener("click", () => {
+  const A = S.model.assets, total = A.reduce((t, a) => t + (+HOLD[a.id] || 0), 0);
+  if (!total) { say("Isi dulu nilai aset di panel Portofolio Saya."); return; }
+  custom = Object.fromEntries(A.map((a) => [a.id, Math.round(((+HOLD[a.id] || 0) / total) * 100)]));
+  profile = "kustom";
+  try { localStorage.setItem("pd-profile", profile); localStorage.setItem("pd-custom", JSON.stringify(custom)); } catch {}
+  $("amount").value = nf(total);
+  renderAlloc(); renderStress(); renderPortfolio(); scheduleSim(); go("simulasi");
+  say("Simulasi kini memakai portofolio Anda.");
+});
+$("pf-clear").addEventListener("click", () => { HOLD = {}; try { localStorage.removeItem("pd-hold"); } catch {} $("pf-inputs").dataset.built = ""; renderPortfolio(); });
 
 // ===== [2] news & drivers =====
 function renderWire() {
@@ -818,13 +1091,13 @@ function renderAlloc() {
   const A = S.model.assets, w = weights(), amt = parseAmt($("amount").value);
   const src = profile === "kustom" ? custom : PROFILES[profile].w;
   $("allocbar").innerHTML = A.map((a, i) => `<i style="width:${(w[i] * 100).toFixed(2)}%;background:${COLORS[a.id]}" title="${esc(a.n)}"></i>`).join("");
-  $("sliders").innerHTML = A.map((a, i) => `<div class="sl"><span class="sw" style="background:${COLORS[a.id]}"></span><label for="sl-${a.id}">${esc(a.n)} · <span class="mono">${fmtRpShort(amt * w[i])}</span></label><span class="pv">${Math.round(w[i] * 100)}%</span><input type="range" id="sl-${a.id}" data-id="${a.id}" min="0" max="60" step="1" value="${+src[a.id] || 0}"></div>`).join("");
+  $("sliders").innerHTML = A.map((a, i) => `<div class="sl"><span class="sw" style="background:${COLORS[a.id]}"></span><label for="sl-${a.id}">${esc(a.n)} · <span class="mono">${fmtRpShort(amt * w[i])}</span></label><span class="pv">${Math.round(w[i] * 100)}%</span><input type="range" id="sl-${a.id}" data-id="${a.id}" min="0" max="100" step="1" value="${+src[a.id] || 0}"></div>`).join("");
 }
 $("profiles").addEventListener("click", (e) => {
   const b = e.target.closest("button[data-p]"); if (!b) return;
   if (b.dataset.p === "kustom" && profile !== "kustom") custom = { ...PROFILES[profile].w };
   profile = b.dataset.p; try { localStorage.setItem("pd-profile", profile); } catch {}
-  renderAlloc(); renderStress(); scheduleSim();
+  renderAlloc(); renderStress(); renderPortfolio(); scheduleSim();
 });
 $("sliders").addEventListener("input", (e) => {
   const s = e.target.closest("input[data-id]"); if (!s) return;
@@ -839,6 +1112,8 @@ $("sliders").addEventListener("input", (e) => {
   renderStress(); scheduleSim();
 });
 $("amount").addEventListener("input", (e) => { const n = parseAmt(e.target.value); e.target.value = n ? nf(n) : ""; renderAlloc(); renderStress(); scheduleSim(); });
+$("monthly").addEventListener("input", (e) => { const n = parseAmt(e.target.value); e.target.value = n ? nf(n) : ""; try { localStorage.setItem("pd-monthly", String(n)); } catch {} scheduleSim(); });
+try { const mv = +localStorage.getItem("pd-monthly"); if (mv) $("monthly").value = nf(mv); } catch {}
 
 function mulberry32(a) { return function () { a |= 0; a = (a + 0x6D2B79F5) | 0; let t = Math.imul(a ^ (a >>> 15), 1 | a); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
 function probsOf(id) {
@@ -847,7 +1122,7 @@ function probsOf(id) {
   const t = p.reduce((a, b) => a + b, 0);
   return t > 0 ? p.map((x) => x / t) : [0.5, 0.25, 0.25];
 }
-function simulate(w, amount, n, sd) {
+function simulate(w, amount, n, sd, monthly = 0) {
   const A = S.model.assets, k = A.length, M = 60, rnd = mulberry32(sd);
   let spare = null;
   const gauss = () => { if (spare !== null) { const s = spare; spare = null; return s; } let u = 0; while (u === 0) u = rnd(); const v = rnd(), r = Math.sqrt(-2 * Math.log(u)); spare = r * Math.sin(2 * Math.PI * v); return r * Math.cos(2 * Math.PI * v); };
@@ -865,23 +1140,24 @@ function simulate(w, amount, n, sd) {
       const dr = drift[m <= 12 ? r1 : m <= 36 ? r2 : r3], zm = gauss(), zf = gauss();
       let g = 0;
       for (let i = 0; i < k; i++) { if (w[i] === 0) continue; g += w[i] * Math.exp(dr[i] + vol[i] * (bm[i] * zm + bf[i] * zf + idw[i] * gauss())); }
-      V *= g; vals[m * n + p] = V;
+      V = V * g + monthly; vals[m * n + p] = V;
     }
   }
   const Q = [0.05, 0.25, 0.5, 0.75, 0.95], bands = [], stats = [];
   const depMu = +A.find((a) => a.id === "dep")?.mu?.[0] || 0.05;
   const CP = { 1: "1 bulan", 3: "3 bulan", 6: "6 bulan", 12: "1 tahun", 36: "3 tahun", 60: "5 tahun" };
+  const depPath = [amount]; for (let m = 1; m <= M; m++) depPath.push(depPath[m - 1] * Math.pow(1 + depMu, 1 / 12) + monthly);
   for (let m = 0; m <= M; m++) {
     const col = vals.slice(m * n, (m + 1) * n).sort();
     bands.push(Q.map((q) => col[Math.min(n - 1, Math.floor(q * n))]));
     if (CP[m]) {
-      const dep = amount * Math.pow(1 + depMu, m / 12);
+      const dep = depPath[m], invested = amount + monthly * m;
       let loss = 0, beat = 0;
-      for (let i = 0; i < n; i++) { if (col[i] < amount) loss++; if (col[i] > dep) beat++; }
-      stats.push({ m, label: CP[m], q: bands[m], pLoss: loss / n, pBeat: beat / n });
+      for (let i = 0; i < n; i++) { if (col[i] < invested) loss++; if (col[i] > dep) beat++; }
+      stats.push({ m, label: CP[m], q: bands[m], pLoss: loss / n, pBeat: beat / n, invested });
     }
   }
-  return { bands, stats, n, amount, depMu };
+  return { bands, stats, n, amount, depMu, monthly, depPath };
 }
 let simTimer = null;
 function scheduleSim() { clearTimeout(simTimer); simTimer = setTimeout(runSim, 250); }
@@ -892,7 +1168,7 @@ function runSim() {
   $("sim-meta").textContent = "menghitung…";
   requestAnimationFrame(() => setTimeout(() => {
     const t0 = performance.now();
-    sim = simulate(weights(), amount, n, seed);
+    sim = simulate(weights(), amount, n, seed, parseAmt($("monthly").value));
     $("sim-meta").textContent = `${nf(n)} masa depan × 60 bulan · ${nf((performance.now() - t0) / 1000, 2)} dtk`;
     renderSim(); drawFan();
   }, 0));
@@ -901,8 +1177,8 @@ $("rerun").addEventListener("click", () => { seed = (Math.random() * 2 ** 31) | 
 $("paths").addEventListener("change", runSim);
 function renderSim() {
   const y1 = sim.stats.find((s) => s.m === 12), y5 = sim.stats.find((s) => s.m === 60);
-  $("sim-head").innerHTML = `Dalam <b>1 tahun</b>, separuh dari ${nf(sim.n)} masa depan berakhir di atas <b>${fmtRpShort(y1.q[2])}</b>; peluang di bawah modal <b>${pct(y1.pLoss)}</b>. Dalam <b>5 tahun</b>, median <b>${fmtRpShort(y5.q[2])}</b>; 1 dari 20 masa depan terburuk di bawah <b>${fmtRpShort(y5.q[0])}</b>.`;
-  $("simtable").innerHTML = `<thead><tr><th>Periode</th><th class="r">Median</th><th class="r">Rentang 90%</th><th class="r">Peluang rugi</th><th class="r">Kalahkan deposito</th></tr></thead><tbody>${sim.stats.map((s) => `<tr><td>${s.label}</td><td class="r">${fmtRpShort(s.q[2])}</td><td class="r dim">${fmtRpShort(s.q[0])} – ${fmtRpShort(s.q[4])}</td><td class="r ${s.pLoss > 0.3 ? "down" : ""}">${pct(s.pLoss)}</td><td class="r">${pct(s.pBeat)}</td></tr>`).join("")}</tbody>`;
+  $("sim-head").innerHTML = `Dalam <b>1 tahun</b>, separuh dari ${nf(sim.n)} masa depan berakhir di atas <b>${fmtRpShort(y1.q[2])}</b>; peluang di bawah total setoran <b>${pct(y1.pLoss)}</b>. Dalam <b>5 tahun</b>${sim.monthly ? ` (total disetor <b>${fmtRpShort(y5.invested)}</b>)` : ""}, median <b>${fmtRpShort(y5.q[2])}</b>; 1 dari 20 masa depan terburuk di bawah <b>${fmtRpShort(y5.q[0])}</b>.`;
+  $("simtable").innerHTML = `<thead><tr><th>Periode</th><th class="r">Median</th><th class="r">Rentang 90%</th><th class="r">Disetor</th><th class="r">Peluang rugi</th><th class="r">Kalahkan deposito</th></tr></thead><tbody>${sim.stats.map((s) => `<tr><td>${s.label}</td><td class="r">${fmtRpShort(s.q[2])}</td><td class="r dim">${fmtRpShort(s.q[0])} – ${fmtRpShort(s.q[4])}</td><td class="r dim">${fmtRpShort(s.invested)}</td><td class="r ${s.pLoss > 0.3 ? "down" : ""}">${pct(s.pLoss)}</td><td class="r">${pct(s.pBeat)}</td></tr>`).join("")}</tbody>`;
 }
 function niceStep(raw) { const p = Math.pow(10, Math.floor(Math.log10(raw))); const f = raw / p; return (f < 1.5 ? 1 : f < 3 ? 2 : f < 7 ? 5 : 10) * p; }
 function drawFan() {
@@ -912,7 +1188,7 @@ function drawFan() {
   cv.width = W * dpr; cv.height = H * dpr;
   const c = cv.getContext("2d"); c.setTransform(dpr, 0, 0, dpr, 0, 0); c.clearRect(0, 0, W, H);
   const pad = { l: 64, r: 12, t: 12, b: 26 }, B = sim.bands, M = B.length - 1;
-  const dep = (m) => sim.amount * Math.pow(1 + sim.depMu, m / 12);
+  const dep = (m) => sim.depPath[m], inv = (m) => sim.amount + sim.monthly * m;
   let lo = Math.min(...B.map((b) => b[0]), sim.amount), hi = Math.max(...B.map((b) => b[4]), dep(M));
   const span = hi - lo; lo -= span * 0.04; hi += span * 0.04;
   const x = (m) => pad.l + (m / M) * (W - pad.l - pad.r), y = (v) => pad.t + (1 - (v - lo) / (hi - lo)) * (H - pad.t - pad.b);
@@ -925,7 +1201,7 @@ function drawFan() {
   [[0, "KINI"], [6, "6B"], [12, "1T"], [24, "2T"], [36, "3T"], [48, "4T"], [60, "5T"]].forEach(([m, l]) => { c.beginPath(); c.moveTo(x(m), pad.t); c.lineTo(x(m), H - pad.b); c.stroke(); c.fillText(l, x(m), H - pad.b + 7); });
   const band = (a, b, alpha) => { c.beginPath(); for (let m = 0; m <= M; m++) c.lineTo(x(m), y(B[m][a])); for (let m = M; m >= 0; m--) c.lineTo(x(m), y(B[m][b])); c.closePath(); c.globalAlpha = alpha; c.fillStyle = amb; c.fill(); c.globalAlpha = 1; };
   band(0, 4, 0.14); band(1, 3, 0.3);
-  c.setLineDash([2, 4]); c.strokeStyle = dim; c.beginPath(); c.moveTo(pad.l, y(sim.amount)); c.lineTo(W - pad.r, y(sim.amount)); c.stroke();
+  c.setLineDash([2, 4]); c.strokeStyle = dim; c.beginPath(); for (let m = 0; m <= M; m++) c.lineTo(x(m), y(inv(m))); c.stroke();
   c.setLineDash([6, 4]); c.strokeStyle = cyan; c.lineWidth = 1.5; c.beginPath(); for (let m = 0; m <= M; m++) c.lineTo(x(m), y(dep(m))); c.stroke(); c.setLineDash([]);
   c.strokeStyle = amb; c.lineWidth = 2.2; c.beginPath(); for (let m = 0; m <= M; m++) c.lineTo(x(m), y(B[m][2])); c.stroke();
   c.fillStyle = amb; c.beginPath(); c.arc(x(M), y(B[M][2]), 3.5, 0, Math.PI * 2); c.fill();
@@ -993,6 +1269,7 @@ function lineChart(key) {
 function openDetail(key) {
   if (!ASSET[key] || !S) return;
   detailKey = key; renderDetail();
+  try { history.replaceState(null, "", "#" + key); } catch {}
   $("detail").hidden = false;
   $("detail").scrollIntoView({ behavior: smooth(), block: "start" });
 }
@@ -1016,7 +1293,13 @@ function renderDetail() {
   </div>`;
   $("dt-close").onclick = closeDetail;
 }
-function closeDetail() { $("detail").hidden = true; detailKey = null; }
+function closeDetail() { $("detail").hidden = true; detailKey = null; try { if (ASSET[location.hash.slice(1)]) history.replaceState(null, "", location.pathname + location.search); } catch {} }
+function fromHash() {
+  const hsh = decodeURIComponent(location.hash.slice(1)).toLowerCase(); if (!hsh) return;
+  const k = Object.keys(ASSET).find((x) => x === hsh || ASSET[x].code.toLowerCase() === hsh);
+  if (k) openDetail(k); else if ($(hsh) && $(hsh).classList.contains("panel")) go(hsh);
+}
+window.addEventListener("hashchange", fromHash);
 
 // ===== command line =====
 $("fnbar").innerHTML = SECTIONS.map(([n, l, id]) => `<button type="button" data-go="${id}"><span>${n}</span>${l}</button>`).join("");
@@ -1059,9 +1342,10 @@ function context() {
   const news = (S.news || []).slice(0, 8).map((n) => `- ${n.t} (${n.src})`).concat((HL?.items || []).slice(0, 10).map((n) => `- [${ago(n.time)}] ${n.t} (${n.src})`)).join("\n");
   const A = S.model.assets, w = weights();
   const port = A.map((a, i) => `${a.n} ${Math.round(w[i] * 100)}%`).join(", ");
+  const alertTxt = (AL?.items || []).slice(0, 5).map((a) => `- [${a.level}, ${ago(a.time)}] ${a.title}`).join("\n") || "-";
   const simTxt = sim ? sim.stats.map((s) => `${s.label}: median ${fmtRpShort(s.q[2])}, rentang 90% ${fmtRpShort(s.q[0])}–${fmtRpShort(s.q[4])}, peluang rugi ${pct(s.pLoss)}`).join("\n") : "-";
   const done = (FC?.items || []).filter((i) => i.status !== "open"), hits = done.filter((i) => i.status === "hit").length;
-  return `HARGA TERKINI: ${px}\n\nINDEKS RISIKO: ${S.risk}/100 · ${S.regimeTitle}. ${S.riskNote || ""}\n\nSINYAL TEKNIKAL:\n${sig}\n\nBERITA:\n${news}\n\nSIKLUS:\n${cyc}\n\nPRAKIRAAN:\n${hz}\n\nPORTOFOLIO SAYA (${PROFILES[profile].label}, ${fmtRp(parseAmt($("amount").value))}): ${port}\n\nSIMULASI MONTE CARLO:\n${simTxt}\n\nREKAM JEJAK PRAKIRAAN: ${done.length ? `${hits}/${done.length} rentang skenario dasar kena` : "belum ada yang dinilai"}.`;
+  return `HARGA TERKINI: ${px}\n\nINDEKS RISIKO: ${S.risk}/100 · ${S.regimeTitle}. ${S.riskNote || ""}\n\nSINYAL TEKNIKAL:\n${sig}\n\nBERITA:\n${news}\n\nSIKLUS:\n${cyc}\n\nPRAKIRAAN:\n${hz}\n\nPORTOFOLIO SAYA (${PROFILES[profile].label}, ${fmtRp(parseAmt($("amount").value))}): ${port}\n\nPERINGATAN TERBARU:\n${alertTxt}\n\nSIMULASI MONTE CARLO${sim?.monthly ? ` (dengan setoran ${fmtRp(sim.monthly)}/bulan)` : ""}:\n${simTxt}\n\nREKAM JEJAK PRAKIRAAN: ${done.length ? `${hits}/${done.length} rentang skenario dasar kena` : "belum ada yang dinilai"}.`;
 }
 $("ask").onclick = async () => {
   const q = $("q").value.trim();
@@ -1076,7 +1360,7 @@ $("ask").onclick = async () => {
 // ===== render all =====
 function renderAll(flash) {
   if (!S?.model?.assets?.length) return;
-  renderLive(); renderTicker(); renderTop(); renderWire(); renderFlow(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); renderTrack(); renderDetail();
+  renderLive(); renderTicker(); renderTop(); renderWire(); renderFlow(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); renderTrack(); renderDetail(); renderPortfolio(); renderPA();
   const key = JSON.stringify([S.model, (S.horizons || []).map((h) => (h.sc || []).map((s) => s.p))]);
   if (key !== lastModel || !sim) { lastModel = key; runSim(); }
   if (flash) { const el = $("kondisi"); el.classList.remove("flash"); void el.offsetWidth; el.classList.add("flash"); }
@@ -1091,12 +1375,14 @@ async function getJSON(name) {
   return null;
 }
 async function refresh(first) {
-  const [snap, mkt, fc, hl] = await Promise.all([getJSON("snapshot.json"), getJSON("market.json"), getJSON("forecasts.json"), getJSON("headlines.json")]);
+  const [snap, mkt, fc, hl, al] = await Promise.all([getJSON("snapshot.json"), getJSON("market.json"), getJSON("forecasts.json"), getJSON("headlines.json"), getJSON("alerts.json")]);
   let changed = false;
   if (snap?.model?.assets?.length) { changed = !S || snap.updatedAt !== S.updatedAt; S = snap; }
   if (mkt?.quotes) { changed = changed || !MKT || mkt.updatedAt !== MKT.updatedAt; MKT = mkt; }
   if (fc?.items) { changed = changed || !FC || fc.updatedAt !== FC.updatedAt; FC = fc; }
   if (hl?.items) { changed = changed || !HL || hl.updatedAt !== HL.updatedAt; HL = hl; }
+  if (al?.items) { const ch = !AL || al.updatedAt !== AL.updatedAt; AL = al; if (ch) { renderAlerts(); checkNewAlerts(); } }
+  if (S) checkPA();
   if (S && (changed || first)) renderAll(!first && changed);
   renderLive();
 }
@@ -1107,7 +1393,7 @@ async function refreshBTC() {
     const d = await r.json();
     if (d?.bitcoin?.usd) {
       CG = { price: d.bitcoin.usd, chg: Math.round((d.bitcoin.usd_24h_change || 0) * 100) / 100, at: new Date().toISOString() };
-      if (S) { renderTicker(); renderTop(); if (detailKey === "btc") renderDetail(); }
+      if (S) { renderTicker(); renderTop(); checkPA(); if (detailKey === "btc") renderDetail(); }
       renderLive();
     }
   } catch {}
@@ -1135,7 +1421,10 @@ window.addEventListener("offline", renderLive);
 (async function boot() {
   renderClocks(); setInterval(renderClocks, 15000);
   setInterval(renderLive, 30000);
+  renderNotifUI();
   await refresh(true);
+  if (!AL) renderAlerts();
+  fromHash();
   if (!S) $("regime-title").textContent = "Data belum bisa dimuat. Periksa koneksi lalu muat ulang.";
   refreshBTC();
   setInterval(() => { if (!document.hidden) refresh(false); }, 5 * 60e3);

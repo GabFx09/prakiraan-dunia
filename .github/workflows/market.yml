@@ -44,11 +44,16 @@ jobs:
       - name: Cek akurasi prakiraan
         run: python3 scripts/evaluate_forecasts.py
 
+      - name: Peringatan penting (kirim notifikasi ke HP)
+        env:
+          NTFY_TOPIC: prakiraan-dunia-gfx09
+        run: python3 scripts/alerts.py || true
+
       - name: Simpan ke repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/market.json data/forecasts.json data/headlines.json data/snapshot.json
+          git add data/market.json data/forecasts.json data/headlines.json data/snapshot.json data/alerts.json
           if git diff --cached --quiet; then echo "Tidak ada perubahan"; exit 0; fi
           msg="data: harga & berita $(date -u +%Y-%m-%dT%H:%MZ)"
           [ "${REVERTED:-0}" = "1" ] && msg="data: kembalikan analisis agen yang tidak valid; $msg"
