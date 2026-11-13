@@ -80,7 +80,13 @@ jobs:
           msg="data: harga & berita $(date -u +%Y-%m-%dT%H:%MZ)"
           [ "${REVERTED:-0}" = "1" ] && msg="data: kembalikan analisis agen yang tidak valid; $msg"
           git commit -m "$msg"
-          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 5; done
+          # Data files are regenerated every run, so on a conflict our fresh copy wins
+          # (during a rebase, "theirs" is the commit being replayed, i.e. this run's data).
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 5))
+          done
           exit 1
 
       - name: Hidupkan lagi detak 15 menit bila berhenti
