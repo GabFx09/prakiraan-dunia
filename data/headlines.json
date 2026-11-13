@@ -1,7 +1,23 @@
 {
- "updatedAt": "2026-11-13T15:42:01Z",
+ "updatedAt": "2026-11-13T15:56:47Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall St reverses early gains as Nvidia fallout rattles tech stocks",
+   "src": "marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSW44djR5MGhRTDFuODNCeU9KQTNsMUZ3RkItWS16SU1DYzRSTFFoejlFczQ0Q2drM2ZGdVZ0VWZVTFA2MlZ5R0lXN3FpUlVSUHFGVWFYSUtXMzlRRXRubEpOSFRld3hqVXBraWdZX2hudmF5NWZTMkgzTS1TeU9OaDVYUjdPY2c1ZVZmclRBc3RJVXRoM1hDcVo2RDBMQ01qZG45c3dmWlVaVGZmeDNZVWdDZEZZWWZzSVgw?oc=5",
+   "time": "2026-11-13T15:46:05Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Not Nvidia. Not Micron. This Artificial Intelligence (AI) Stock Will Be 2027’s Biggest Winner After the Latest Tech Sell-Off",
+   "src": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRU1IeW81VlhpbzZhNmR3VVFHYUU2WEt3clFPZk5CaDdZWllfMWtfY095ZThtRkhqMlIyVDBtb2lZRFNMeEE2dnp1VVQ1cFFjaFdURVJ1NXZTbkhfM3lDR2JObEtwZEdhc0NPWWFSdFpPd1VobGFnYmhFQnQtQ0xYNG45VmFmNmxtdHg0c2tiU0d0Ti1sVVJkTUl4RS1fYUNSTmJrWHdTd2NaQjlCYzJ5anFwWFF2WkgtYnpUbm1BOVdDLWNMb2ZrRjRpamM1dGVVYWpXU0RrWjMzeDlTQzF5RWNoYWgzMVNCRElZRnBWQzlSZ3AybFE?oc=5",
+   "time": "2026-11-13T15:44:00Z"
+  },
   {
    "topic": "bank-sentral",
    "lang": "en",
@@ -9,6 +25,14 @@
    "src": "bloomingbit",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BZ1pCbFM2dnZvZ0lTS3loc3ZrME5GWE5lNmw2YWRYWWF4ZmlKUVQ3NGJSa0RoTUpmVmtQM2NOWkZfY2tXV3dTcHpBREN0TmdRMmw4cw?oc=5",
    "time": "2026-11-13T15:06:17Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price on Nov 13, 2026 at 11am EST Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX1RFbkx6OGdYVUg2TWR4ZGZ3Wl9sNE45ejVJbVRpa1Jub0pEZzFUZVZUaWVTb3hVU0gyY25lN3hWSDJ4QlpJS2tGampiS25PcVBVNldvRXgtVkFyYUNYT3k3amRYUXlBUlNsM1JMaFl4ZDNNUlhTTktFdmhpTlhXdThYWVI1QWxVRDdmdl93aGIzWERlWVJoVjZSbUhGUGVPLThrZS1SV3BfZ2xKdmZn?oc=5",
+   "time": "2026-11-13T15:05:25Z"
   },
   {
    "topic": "bank-sentral",
@@ -131,20 +155,12 @@
    "time": "2026-11-13T13:44:01Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Barlow’s Research Roundup: Price targets cut on gold stocks and Goldman Sachs’s tentative market outlook for 2027",
-   "src": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbkY5bXBGUDNreDBLcTZDM3RFTmRqbnpUNHdMaTh2TUxWXzBVY0ktTjVrQ21RcnZxOVJhMFVJc1dRdDBnd1VaWkhIRG9iS3pwSVRIcS1ZMkhfRlVUdUJXTTU1N2FzWkpDX09QVGduZFFTdDlva2IyMWJ1UW1reDZuVjBhTWRyUWdLQ25sVjZMWl9BQ0NqYkpWTTlLR29XamJwelRRX2lodjkzalY4VFNrY1I3VFVlM2NqNlZVSUxEMU45ZmZVTjFNOWR6aEU1M2NVcjA4ZE5ZUkkzYlBEcU0w?oc=5",
-   "time": "2026-11-13T13:43:40Z"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Transaksi Mata Uang Lokal dengan Tiongkok Melonjak, BI Luncurkan Bank Kliring Renminbi",
-   "src": "Niaga.Asia",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlFrOFpPY2NBSGZ6Zzk4Uk9odzFQdmpzMV9pUk1ZdEtoR2I2YXVmLXp6WnFuUy14ZUJTUThLQnhmMFU1TjV3TTFyajNEdGZrV0V1RFctMjBzcWxlZlNwZkRJREEzeXFiVU1DTk1hNXRacnFTcWFENjRTQ3huZVpMLXpfUWl6X2V3emtMekVaUHJ0cFl1QWFfWHJBMTM1ZTJNOEo2NTE3ZWR2SmxQMFE?oc=5",
-   "time": "2026-11-13T13:28:25Z"
+   "t": "BI Luncurkan Bank Kliring Renminbi, Mata Uang Tiongkok",
+   "src": "Lintas Lampung",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHZjYTRVZVZYTFotNTBpMVg1UlJlbDljOUxFa0hwX1lkRWM5dldBbHdVTEhldXhpRGFVV1BqdWtzRzdRN2pZTFR6OUVsWC1JUWRoVkJhY3V1OEIzZEZfSlF2bXRBVFJzMVdQcDM0WUhSMDFEejFkMVVwam81SDFqOWQtbHJhRjBjM0UwLQ?oc=5",
+   "time": "2026-11-13T13:30:00Z"
   },
   {
    "topic": "emas",
@@ -195,12 +211,12 @@
    "time": "2026-11-13T12:32:21Z"
   },
   {
-   "topic": "kripto",
+   "topic": "emas",
    "lang": "en",
-   "t": "BTC price range on Nov 13, 2026 at 8am EST Crypto Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREVVY2FpU3YtM3VjX2U5YkhyRDlPVGJJbml1dERBZzBKYXprZjZHdUhQZWFlZlZUZnpSZF9jNGhpNzZ4c1N5TkZDNzVfeGZmOEg1cTNDMVZKSUxmTTl0cnFhUENMMUdUbnRvdHduenoyZ2lCZWlIQTc2QWphNWVIcWd2NUZKRkpwUVJyVmtYdzVOQ0wwZVdwR282aEgxeTNEb1pmT0l1aEZPWkpWNzdpOWtIeDNwZw?oc=5",
-   "time": "2026-11-13T12:02:56Z"
+   "t": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "src": "Kitco",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+   "time": "2026-11-13T12:21:17Z"
   },
   {
    "topic": "geopolitik",
@@ -275,14 +291,6 @@
    "time": "2026-11-13T09:32:49Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "src": "Kitco",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-   "time": "2026-11-13T08:47:51Z"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "European shares fall as Nvidia CEO’s exit raises doubts over AI boom",
@@ -297,6 +305,14 @@
    "src": "sindomanado",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRqVUFCT0FTTC1LTTJJRmdOYnpTTVhpQjhJdm1Td0U3b0xETDlkTU9Ma2thZlRabnRieVk3djRUTVNvNmFUN3lxRE9nbXdYdi04WVlUYjc0ZGZwR2YyM2VNOGtZYWRLSWhsZldhN1JqQ0h0M0prOHdwUGF4Qm1VTzhvNFcxcjlXTWZrT0lhakVSLUY1T0MxMEtxMVpkX2o5SUpHcjRNd25EX2JTNjlDSnkxOVpmVVlsOXQzdmRzdjhuQQ?oc=5",
    "time": "2026-11-13T08:32:25Z"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Trump says \"we don't need a deal with Iran,\" as Tehran sticks to its demands",
+   "src": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JdnI2N05uOHdtZFhtb0U3MGN6bEhNN05QbE85RV81UGRMenBqY04tWXhLU1MxRzR6NWxZOUx5cnNzYmRwRFEwRWJnbi1Cc0JpMUt2aW53VEpWOFA0cEptN2xLLVB6S1RxNDlydWs5MGsySnprakktTlkwUmxqODQ?oc=5",
+   "time": "2026-11-13T08:31:00Z"
   },
   {
    "topic": "indonesia",
@@ -411,6 +427,14 @@
    "time": "2026-11-13T06:03:00Z"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold rebounds but heads for weekly fall before US inflation data",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONDhBMUxOVE5NNmVSclhvRGR3NlVvdUJ2NWtHMGZxaHJuTTNSN0NlU1EyWlhMeWlkc0NPOVB4UFZrUUFleFBwZnRMdGxQYWxoR1BkYWsxYmxNSDRadTdFckpCd3JZN0FOVENFNEJzbDVQb2xwSk93VnBYajd5U3ozQm9NN3ZnbDdfcThJSjhuV29MREZ6RXhJS3ZLMNIBoAFBVV95cUxPazNRNjRId2p0TWh6RGEyMGhScDdSN05xb1BPQllZMWxNWmNmVmFJdHJGbnIwcnllQXphX1FRa2QxcnJtZUxISmgwaXpRWFVtV3hSNGRkUElzQnlHYzNHZ0xEXzFiSnZfaHNkc3ViOFBTTjZfVVNkTkVHRmFhYjI0SVZsVzJHNW43bXdfcm9sdjFMTUd5ZEZHbi13UkdHbnlC?oc=5",
+   "time": "2026-11-13T04:43:00Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Menguat 2,65% ke 5.250, Ini 10 Saham Net Buy Asing Terbesar",
@@ -429,7 +453,7 @@
   {
    "topic": "emas",
    "lang": "en",
-   "t": "Gold rebounds but heads for weekly fall before US inflation data",
+   "t": "Rate hike bets keep gold on track for its worst week in four months",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
    "time": "2026-11-13T03:43:00Z"
@@ -457,30 +481,6 @@
    "src": "ANTARA News Manado",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmZ2Y3RWSDg0eDM0ZmgyR3VEaXVBb1lvXzU0VUg0TXlQSnVHUXAwSkpOd3E0TTJ0NExHbG9xYWNMREJzTkI4Q2J6Q0NuMDRxUlM2aXdSMko5bkRtblJVQm50dzlxOFFGMnNucHdhNDlURmVaWFpodDN6bG0wYklVN1FWa2VNZjU4WFJtU2kzZ1VWbHNMaU01VEI5VXVFa3JIZ2RyaGNETjRhbjFxSWJN?oc=5",
    "time": "2026-11-13T01:47:25Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Inflasi Maluku Utara Tembus 6,18 Persen, Pemprov dan BI Genjot Evaluasi Kinerja TPID 2026",
-   "src": "Suara Pemerintah",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSmJPUDJsUzF0R2ZsbjV3TDhTUXFuVS1KR2phRWdzckdQdEdSWXpIaWVFMF94MFFyZ1NLbjMtcTdZSjFuNW5zZjQ2UER1enNNV2VnbzZqWFp6WXgzaTFpeGFPOXBrZ1FLUmJ6WXZNSzhjbTI0WlJvRW9HMEFnWWF4TkhHdTFSQzU0SmQ4QnJNMC05Y01BbUNxanpkdE5jUjJqdFlTeDJ1MWZGWEwzYlBxbzcxQjVRRXJfUTM1LVA4RUk?oc=5",
-   "time": "2026-11-13T01:35:44Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed's Williams says central bank has 'work to do' to get inflation back on target",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5",
-   "time": "2026-11-13T01:35:00Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
-   "time": "2026-11-13T01:34:28Z"
   }
  ],
  "errors": []
