@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-14T15:19:43Z",
+ "updatedAt": "2026-11-14T16:33:00Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "ev-transportasi-202611132141-927a",
+   "time": "2026-11-14T16:33:00Z",
+   "orig": "Old air traffic control equipment regularly disrupts US flights",
+   "level": "penting",
+   "kind": "peristiwa",
+   "title": "🌍 Penerbangan/transportasi: Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS",
+   "body": "Diberitakan 8 media (Reuters). Biasanya berdampak ke: Saham maskapai & pariwisata, minyak. Judul asli: Old air traffic control equipment regularly disrupts US flights. Berita lain: Krisis Kontrol Lalu Lintas Udara AS: Bagaimana Sistem Komunikasi yang Kelebihan Beban Menghentikan Penerbangan Secara Nasional (International Business Times, Singapore Edition); Floppy disk di balik kekacauan penerbangan AS? Pembaruan FAA pada Kontrol Lalu Lintas Udara mungkin menyebabkan sistem lama kelebihan beban (The Week)",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5"
+  },
   {
    "id": "ev-siber-202611131741-4d50",
    "time": "2026-11-14T15:19:43Z",
@@ -34,6 +44,7 @@
  "sent": [
   "ev-perang-202611140317-81e6",
   "ev-siber-202611131741-4d50",
-  "ev-transportasi-202611132107-1b92"
+  "ev-transportasi-202611132107-1b92",
+  "ev-transportasi-202611132141-927a"
  ]
 }
