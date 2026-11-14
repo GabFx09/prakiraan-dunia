@@ -337,6 +337,17 @@
       "ihsg": 5344.406,
       "usdidr": 18190.0,
       "ust10": 5.154
+    },
+    {
+      "t": "2026-11-14T15:58:00Z",
+      "risk": 77,
+      "btc": 65843.9,
+      "gold": 3886.3,
+      "brent": 95.84,
+      "spx": 7561.67,
+      "ihsg": 5344.406,
+      "usdidr": 18190.0,
+      "ust10": 5.154
     }
   ],
   "horizons": [
@@ -915,10 +926,10 @@
     },
     {
       "c": "neg",
-      "d": "Turun, di bawah $67.000",
+      "d": "Turun ~14% sepekan, ~$65.000",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$66.515"
+      "v": "$65.844"
     },
     {
       "c": "neg",
@@ -952,7 +963,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 77,
   "riskNote": "Tekanan utama: tanker terkena ranjau di Hormuz, imbal hasil AS 10 tahun di atas 5,15%, taruhan kenaikan Fed Desember, kripto melemah, dan arus keluar dana asing dari Indonesia.",
-  "updatedAt": "2026-11-14T14:30:00Z",
+  "updatedAt": "2026-11-14T15:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1243,7 +1254,7 @@
     {
       "k": "Geopolitik",
       "v": 88,
-      "note": "Perang Iran, Selat Hormuz"
+      "note": "Hormuz tetap tertutup, tanker kena ranjau"
     },
     {
       "k": "Inflasi & suku bunga",
@@ -1270,8 +1281,8 @@
   "brief": {
     "date": "2026-11-14",
     "points": [
-      "Indeks risiko naik tipis ke 77/100: tanker kedua terkena ranjau dan terbakar di Selat Hormuz timur (akhir pekan), sementara Iran mengaku kesepakatan sudah dekat.",
-      "Bitcoin turun ke sekitar $66.500 (-2,5%); S&P 500 ditutup 7.562 (-0,4%) karena saham Nvidia tertekan. Pasar saham tutup akhir pekan.",
+      "Indeks risiko tetap 77/100: Iran menyatakan Selat Hormuz tetap tertutup sampai syarat dipenuhi, setelah tanker kedua terkena ranjau dan terbakar.",
+      "Bitcoin turun ke sekitar $65.800 (-3,5% hari ini, ~14% sepekan) di tengah arus keluar dana ETF; S&P 500 ditutup 7.562 (-0,4%). Pasar saham tutup akhir pekan.",
       "Imbal hasil obligasi AS 10 tahun sekitar 5,15% dan pasar menimbang kenaikan Fed Desember; dolar menguat dan rupiah melemah ke sekitar 18.190.",
       "IHSG ditutup 5.344 (+1,78%, naik 5,8% sepekan); kabar niat mundur Wapres Gibran masih berstatus belum jelas dan perlu dipantau.",
       "Pantau: pertemuan Xi-Trump, RDG BI 17–18 November, rapat OPEC+ 29 November, perkembangan Hormuz, dan demo di dalam negeri."
