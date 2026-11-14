@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T18:41:38Z",
+ "updatedAt": "2026-11-14T18:56:12Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "What we know about the US ground stop and what to do if your flight is affected",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NMFpQR3laaXdVRWVzRnNfWG9IVWxGb1FOTjBnYlE3cDBSSXkwN2xBRWdFb2ZBT3lvRjcxS25EcFhHX1hMZWxBaFBBbVBuLWF4bWFUVTRwZDJldFF3bXc?oc=5",
-   "sources": 12,
+   "sources": 11,
    "recent6h": 0,
-   "score": 12.0,
+   "score": 11.0,
    "level": "besar",
    "first": "2026-11-13T19:59:08Z",
    "last": "2026-11-14T12:40:30Z",
@@ -37,10 +37,10 @@
      "t_id": "Ground Stop FAA Nasional Membuat Wisatawan Terdampar"
     },
     {
-     "t": "FAA outage leads to wild day of lines, canceled flights at Hartsfield-Jackson",
-     "src": "The Atlanta Journal-Constitution",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmtyUW1GQ2ZCSDFsZDN3dHBPcWpOcFhleWN4eld0YXRmOVBNQmFRZFhHTnMwMjdMcWE2TzkydEZkTEt6eGNMOTN5azFTVFR1Tkl6OHlIZDRBN1RZV2FxODJjMW1oTEdRc19EUldSYUdhbWlUcXBHc29zRVVvcHZPX0lwdHJfWUdzQVNWSVZiZzA3dllHN2RwQlY4YmZUYmxoWDR2LUhCU2lyOC1kRVE?oc=5",
-     "t_id": "Pemadaman FAA menyebabkan antrian yang liar, pembatalan penerbangan di Hartsfield-Jackson"
+     "t": "FAA: Ground stops lifted, airplane departures can resume",
+     "src": "WHEC.com",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFpNamFtSFNYZThRM3A3OUw3VHNfOU5hTUNoVFJxSzMxT0NjNENtX3NwUTJFOTIxMU80Y0o4dkNtNERhVzNEd1BzUEhBNENKeGNEZGowSjFjRGZpN0tTc0RGTjJuMnhWMWx6THZDSmZWQTBfdFd1X1dHS0Z5TXVHQUVNczdkZHA1WnJLbWNoWVhMWmQzR2ZSUUkyOExJcjMtR3c?oc=5",
+     "t_id": "FAA: Ground stop dicabut, keberangkatan pesawat dapat dilanjutkan"
     }
    ],
    "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
@@ -230,27 +230,49 @@
    ]
   },
   {
-   "id": "siber-202611131741-4d50",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "23 best reactions to Microsoft global outage impacting Outlook and Teams for millions of users",
-   "src": "Indy100",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmRlMEt1MkNhYlZFak9aTFZfeWVmLXBMSmhHRGtTUnhzVEp3OVNEVDZqbW5DbVlMM0Z1Z2MwQW5ycHlaLU96dGhLeXVleHdoNWFzQWxTOVF3T3FJbEdGRGludnVFTVNZbmduQnctZ2ZQdnNadUpiRDZJN2wzcXVzbQ?oc=5",
+   "id": "indonesia-202611131421-1e33",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Polda DIY Akui Turunkan 858 Polisi Berpakaian Sipil saat Demo 10 November 2026, Sebut Perintah dari Kapolda - Ayo Bandung",
+   "src": "Ayo Bandung",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOblJIRUlGRFZYeV91TlA2OU1KV2pMRWtPWnVDeU8xUG95enFpOEw4RU5GTm9NVG5SeENCT1dMUXJjckFDajRkWXNDNkw1VUZnbW04VFRfYWVKVzhvNkVTUjZCc1RuU2RJU2VGMjRVTFlfTWtHZ0h6VTlqRlJyRGVXOHpCR0FYc3UxcDZ0TW42aEZMbGp6WXpBWjV4RXdKbnNiQjZzQkZZdXAzMGhIUVdROE1Xem1pTG4zUVpzOVFRT0FPOXVvdy1Lam5ZM0RlbDdjdTJzY1ZjWmYtNzRoVldoMWYtWdIB6AFBVV95cUxQTFJ0RDVMcVhyZ3ZRYlhra1RJVDc4U0o0QWJiQlNvbGJ1Rm9KT1BRQlBqRTR2cWVPd0x6UGpBNVRPM3BmbENzZ2FSbjFWeXpsSURwYXhOM0VyRm42UlgzVlU3VUJDWDcyZExQS3VBSnZLLThwZUQzaENmZXZCZmh4WlMyc2dMSkxTVDIyQmJhaE1qUWhQbFBkNXhpSlpRNWQ1YXQwdmI1N2tsNjNEUWR0aG45UVFUZnp1RWFGSmhwRGZSRklkeGI0WGtUUElDNjNiLXNOSGJYbG9KUjFXcGs3V1RhbERnck5O?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-13T17:41:00Z",
-   "last": "2026-11-14T09:53:15Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "first": "2026-11-13T14:21:45Z",
+   "last": "2026-11-14T12:00:44Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Microsoft Outlook Down Still? Microsoft Restores Email After Global Outage of Over 24 Hours",
-     "src": "International Business Times Australia",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzZNWmhpMmVuVGwyYy1zelVGNXZDdHBPMzdaU211ZHN3UXF5dGV4NkZ1aHh3UlJjM0phaFE1dk1zeGZRcjJEaTloOGp6bG9EUTl4S2JkR0NmbDkyTFUyZHBOQ0FDQUdLS2dDUUo1ajZsck1DZTNYcDl1el9HM3hEcFI3djV3VnNL?oc=5",
-     "t_id": "Microsoft Outlook Masih Down? Microsoft Memulihkan Email Setelah Pemadaman Global Lebih Dari 24 Jam"
+     "t": "Polda DIY Akui Kerahkan 858 Polisi Berpakaian Sipil saat Demo Jogja, Ini Penjelasannya",
+     "src": "Lombok Post",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjJySVhjQlNaaWt1YTNIaWlGZjdzYk5nUFVhcnYtdzVEb1BPYVZjck5oZFUzU0hjaUlBYm5XbkNBQW52UnpoQVVPMU8tWjZhQ2FVaDJrY0VVUzdPMW85VENGeTluejNoOFBwdFd4YmpDeW5LRkQ2N1ZmWmJES0ZXYzY4RWs0a1ZkSW1fOGg5dFhoLTY2U3JaU3drR3RsTnh5UWw3Rl9FQjgwQjBJZzF5Nk1QcTBIWEFEOUt5dVh5blVzREZMM1BGV09vZ3QyTXY3akHSAdcBQVVfeXFMT0U2MDhKWWcwU19TZ0hFY2xHQldGbi1tYzN4OTVjQ3JxSEdhdUZLb3NZYzA0UUxfN201MExBM0Fodld2ckM0S2RkaXdMZzNtX1JQSjVXUjBwMjZtS3hLTXpxNkFZVXQ4WWxBeDFBMF9XOFBqdnRZWWNIWWVTN3dDdDZubTBEcDVZb1VJRVNtQ2lNYkNQcXd6SEdHTGR6YjRSUVlkTXZNbXdnR3VaNkk5cVpZZHlMTWk4Mk5ubVVhZ29xWFlWSG5uV2w3clF5VnZoTHRxQkN6YkU?oc=5"
     },
+    {
+     "t": "Polda DIY Akui Kerahkan 858 Polisi Berpakaian Sipil saat Demo 10 November 2026 - Strategi.id",
+     "src": "Strategi.id",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2Jsel9GYmFIM3MzV0pieVJ0YTFuM29lX0ctOTJfOE5UT2IyakxyZ2ZKdVNOZnUzZDBaWXdMS3ZsMjg1RkU3MTc4V3R0NEpwVWl0TDh3Q0dpNk9veFdnYjg5UVVwYWNjX21VdXExdGJad1hZM200LVBVRHhrSkFoeGlzdnhnOWxNVGx4cm1ZaEE4N2NIYWpxNlFtczgxazY5b1BiMWNyem1jV2RndnVrcFRISFZUY05KX3h6NmRBUDI5Z9IBxwFBVV95cUxPZDFVT1ZzZHk1cDA0TTZENlczREFPNy1aVnFCcXJLdldTVGswbE1VbEduWVllZXRsRmkydnNXUTUxZ2p5U2RhRjdSdU1fOEJLbEJ5NGR3WGx5bHZNLU1ZSW5QX29GeGdTdUxfYmJBdjRJV0hnV01xR1JyZ1FnSWk5UmVUNDlRdHJLY01kT2tIQzk4bWZFa1BUdHNsS3JGYTBFU2c5TVZlVnJ3ZXBlSFlzY0NqQmZ5U2xyZEJLa3VTNkVyZ3VTZXhJ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611131741-4d50",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Microsoft Outlook Down Still? Microsoft Restores Email After Global Outage of Over 24 Hours",
+   "src": "International Business Times Australia",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzZNWmhpMmVuVGwyYy1zelVGNXZDdHBPMzdaU211ZHN3UXF5dGV4NkZ1aHh3UlJjM0phaFE1dk1zeGZRcjJEaTloOGp6bG9EUTl4S2JkR0NmbDkyTFUyZHBOQ0FDQUdLS2dDUUo1ajZsck1DZTNYcDl1el9HM3hEcFI3djV3VnNL?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-13T17:41:00Z",
+   "last": "2026-11-14T09:03:52Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
     {
      "t": "Outlook outage updates: Microsoft apologizes for email disruption, says there was no hack",
      "src": "ABC News - Breaking News, Latest News and Videos",
@@ -258,30 +280,7 @@
      "t_id": "Pembaruan pemadaman Outlook: Microsoft meminta maaf atas gangguan email, mengatakan tidak ada peretasan"
     }
    ],
-   "title_id": "23 reaksi terbaik terhadap pemadaman global Microsoft yang berdampak pada Outlook dan Teams bagi jutaan pengguna"
-  },
-  {
-   "id": "indonesia-202611131421-1e33",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Heboh Truk Diduga Bawa Ormas Saat Demo, Polda DIY Sebut Mereka Reserse",
-   "src": "Holopis",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV2amtTS0hPUnhOYTJYN3ljUnZyRHJkZWlnbzRzc3R6YW1yZzZ5Q1Q2OUlPanN1Y1BhVlE2WHBEUi1fZVE2a0NUbDFrZjcyUUpQcG44YXhPSDhtdFh5ZngyeGNzZjNsdlFwTktRLWNpZW5XYnlGWnh6V1R6UWpReWhsNElDcDEwUE5QQmxELUhsQ29EZFp3UkloVlRGVVhzRS0w?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-13T14:21:45Z",
-   "last": "2026-11-14T12:10:31Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Viral Truk Brimob Angkut Sekelompok Orang Berkaos Hitam Demo 10 November di Yogyakarta, Polda Sebut dari Reserse - Konteks.co.id",
-     "src": "Konteks.co.id",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObFlnb3BxaW9qa01FbkhIVy1VU2ZRN0Y4bWF6cU5iYTlST0hSaXowV3RYa2o2d0RQa3BRdWhUSUVnOGpmV3BZaDhXRWtheGpSM1RYcmkxY1d0eDBNN2tyaFhLUmpLek5nczdheDRHWHlSbTllN215aUY3dFJUQnhEckhRdzZmajNOUHFqTUF0T2c1ZEpvbVNlcWxPNFZ5djUzcS16S0hVQXl4VG1ocEFrZ0JwWUYzSG0xc2N3STI5bFluSTFxdzdBVDJKMlNsUTFmbUZVZ2RJTTlsRVJFNzlrUU9jQkpOQllGcXhF0gHwAUFVX3lxTFAzOUVuODBfRE9XMlZZQjJ2ZkNQbk1BZVJWU0NzWUI4NXhLcktfMnoxX25pN25Kd29lU1pKMVlYeXlGY2NSZnBVT0tzRzV4Q2d0cEgweHpzbDdId2JWaFBEaHZsWXFnaDRFenp3dGRzZW1BMHgxYno4NTdDWWJtNWRkU25WTkRRMUhGa2E4bVdNSkJCN3lhZkUxZkxpcTJZZEZRUVFnZnVmOVV5UmQzSGVMdkdRZFNYM0J2R19NLUFSQVpsY3dFQm9NVmFLaXBKMFdCaktpclUxdE9uUW1zbjlPZURQWFUtNFQwSWtuMnFLdg?oc=5"
-    }
-   ]
+   "title_id": "Microsoft Outlook Masih Down? Microsoft Memulihkan Email Setelah Pemadaman Global Lebih Dari 24 Jam"
   },
   {
    "id": "kesehatan-202611131730-d1cd",
