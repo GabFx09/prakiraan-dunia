@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T22:32:37Z",
+ "updatedAt": "2026-11-14T22:47:14Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -86,14 +86,20 @@
    "title": "Microsoft’s Global Outage and Fixes: What We Know",
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5",
-   "sources": 3,
+   "sources": 4,
    "recent6h": 0,
-   "score": 3.0,
+   "score": 4.0,
    "level": "sedang",
    "first": "2026-11-13T17:41:00Z",
-   "last": "2026-11-14T13:15:00Z",
+   "last": "2026-11-14T13:13:00Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "Software company with thousands of Fortune 500 clients joins Microsoft in experiencing major outage",
+     "src": "Fox Business",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1NkQ0k0VmN4X2JGY05vV3YxX3hFS0x1U2Q4Z0FOdWxGTm5ReGRabEhCdWhZOHZHNkJPa1BtMmJKVE1BQW40eWpwenZHV0xtUGZLWkpELVp0ellOMXVMVnVRa3N1NXBLdDkySjRfalFKTWxfbFhtc3Y5eFJyWnZycFBNZjgtYUdhdUNILWlnUWJXdmhaTVJueG9QV0hta21JVFc5dmZYTExya2hicERSQVRJNHlJbFhzQ19zWGxWb2VyTzVHTmfSAcsBQVVfeXFMTXFScVp1TUNNWXJkVlNQSEUxMlh2aXRxeXVpeUFxLWJCMG1Fdk5CbmJ1emR1czI1ak1VWkJWVGhpRDRUSkhzeTExZkdTYmxQR1NRS3ZFTGJDQjgwRW1rYmE1N2NsZVd5RExOd3hXeUo4RjZ4dE84d0lPWUJIa0NzSW5LTEtrWWp0TjdQXzEwWWZCdDVVd2tLcGhXN0lNRkc5blprRGQ2bDZIbS1qempyZjQxSEtpTTJrNlFvQV81Z1F6QlV1Rm5pb2UzTmc?oc=5",
+     "t_id": "Perusahaan perangkat lunak dengan ribuan klien Fortune 500 bergabung dengan Microsoft dalam mengalami pemadaman besar-besaran"
+    },
     {
      "t": "Microsoft Outlook Down Still? Microsoft Restores Email After Global Outage of Over 24 Hours",
      "src": "International Business Times Australia",
@@ -108,6 +114,43 @@
     }
    ],
    "title_id": "Gangguan dan Perbaikan Global Microsoft: Yang Kami Ketahui"
+  },
+  {
+   "id": "transportasi-202611132141-927a",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Old air traffic control equipment regularly disrupts US flights",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-13T21:41:05Z",
+   "last": "2026-11-14T09:36:13Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Floppy disks behind US flight chaos? FAA's updates to Air Traffic Control may have caused old system to overload",
+     "src": "The Week",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVG50T3ZBSG5CdGkwc24za1FoZXpDZ25sY0RsQlpCT09OY3IxQUNGUlZYQk9vT09Yd042MVBNWklWWkVRVG9aWEJnbEZ4YWlLX053Sk80S213anpoeU9HXzZYa2xyb1A3OUZvME9WRlZuczA3M2pKczdtSEJYNkNEVmpQSG5BZk1SRGFScUZzb2xRQTgyMEY0QXoyY0Uxejh4UG5FN2JjMTZOaUJZR2dlZ0pIOU4ySjBFOTdBM01EWlhlS01BTVRKTkwxNUdyVGxfUFN0bExsTEsxOU1HbWY1R1BWb1FxNFI2TTFDR2wwT3dEdDFTdkpj0gH8AUFVX3lxTE9uMUNZZ1J2emxiLTVPR0E1OGdqU2xfVlpnMF9GbVR5b2dNRTN5RXVaU0Q0eUdCc084dkNyTkNkZW8tOVlURERnd1VVaXNCQU5CU2NDamNfX2xUTnhBYzI1dnVwaHEzaHhET3JtcWtCRXdQbVc5RjgxTmU3UTVUaFBkWE9ORjhJRDdhcTNKdkctOTJTeTFiMjRTdUh0cGJKLXZOc2lBdElhdTdMb1VVNGF1bHRXd0tkOC0tbEVGZmlIYklQaHpNVkUzX1N4NnV2UUJaZDVtVDZkMTZQb2RlcXNKNkZXYmlQQ0xDM2syWDBXVW9ZYTZwcnJjR090Zg?oc=5",
+     "t_id": "Floppy disk di balik kekacauan penerbangan AS? Pembaruan FAA pada Kontrol Lalu Lintas Udara mungkin menyebabkan sistem lama kelebihan beban"
+    },
+    {
+     "t": "Do U.S. air traffic control and email blackouts after China AI espionage have a common answer?",
+     "src": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckd1VlJSaFo4LXZlenY0VkZoRGJmbFBWZUE0WHB2ZzlPSy1Wa255MXc3SjR2NDFLQ21uSHpEd2pBcWhlcEdUdkR1NVMzdWFKMTdWR1NGYVpEWFMyM3hLaFQ3VElrc0w5MzVCWGg1Rnl2ZUx0WDllUk9hb1o0ZnB4Um16aVZENjJQUU9hZDZ1Z2lPalpjc3JBNG5JSzQ0WEFoaTRZNGgwRlVxa0pfYWc?oc=5",
+     "t_id": "Apakah kontrol lalu lintas udara AS dan pemadaman email setelah spionase AI Tiongkok mempunyai jawaban yang sama?"
+    },
+    {
+     "t": "North Bay travelers grounded as nationwide air traffic control outage halts departures",
+     "src": "The Press Democrat",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HZEtURDdZNUhoSUFERUlLc2ctcU9PWUxRUFRLZDZYNklhQ0NKNzdkR2FfZ1pTTlIxaUdfSldtcHdvR0huSjhwelJiSXprZ3d4MjRKSmREREtFRnl3dWZ5RzZIUTNKd3RNT0MtZXBZa1pwQnBRa1JqaVpB?oc=5",
+     "t_id": "Pelancong North Bay dilarang terbang karena pemadaman kontrol lalu lintas udara nasional menghentikan keberangkatan"
+    }
+   ],
+   "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
   },
   {
    "id": "transportasi-202611131959-a1f2",
@@ -167,37 +210,6 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2Jsel9GYmFIM3MzV0pieVJ0YTFuM29lX0ctOTJfOE5UT2IyakxyZ2ZKdVNOZnUzZDBaWXdMS3ZsMjg1RkU3MTc4V3R0NEpwVWl0TDh3Q0dpNk9veFdnYjg5UVVwYWNjX21VdXExdGJad1hZM200LVBVRHhrSkFoeGlzdnhnOWxNVGx4cm1ZaEE4N2NIYWpxNlFtczgxazY5b1BiMWNyem1jV2RndnVrcFRISFZUY05KX3h6NmRBUDI5Z9IBxwFBVV95cUxPZDFVT1ZzZHk1cDA0TTZENlczREFPNy1aVnFCcXJLdldTVGswbE1VbEduWVllZXRsRmkydnNXUTUxZ2p5U2RhRjdSdU1fOEJLbEJ5NGR3WGx5bHZNLU1ZSW5QX29GeGdTdUxfYmJBdjRJV0hnV01xR1JyZ1FnSWk5UmVUNDlRdHJLY01kT2tIQzk4bWZFa1BUdHNsS3JGYTBFU2c5TVZlVnJ3ZXBlSFlzY0NqQmZ5U2xyZEJLa3VTNkVyZ3VTZXhJ?oc=5"
     }
    ]
-  },
-  {
-   "id": "transportasi-202611132141-927a",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Old air traffic control equipment regularly disrupts US flights",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-13T21:41:05Z",
-   "last": "2026-11-14T02:45:00Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Do U.S. air traffic control and email blackouts after China AI espionage have a common answer?",
-     "src": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckd1VlJSaFo4LXZlenY0VkZoRGJmbFBWZUE0WHB2ZzlPSy1Wa255MXc3SjR2NDFLQ21uSHpEd2pBcWhlcEdUdkR1NVMzdWFKMTdWR1NGYVpEWFMyM3hLaFQ3VElrc0w5MzVCWGg1Rnl2ZUx0WDllUk9hb1o0ZnB4Um16aVZENjJQUU9hZDZ1Z2lPalpjc3JBNG5JSzQ0WEFoaTRZNGgwRlVxa0pfYWc?oc=5",
-     "t_id": "Apakah kontrol lalu lintas udara AS dan pemadaman email setelah spionase AI Tiongkok mempunyai jawaban yang sama?"
-    },
-    {
-     "t": "North Bay travelers grounded as nationwide air traffic control outage halts departures",
-     "src": "The Press Democrat",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HZEtURDdZNUhoSUFERUlLc2ctcU9PWUxRUFRLZDZYNklhQ0NKNzdkR2FfZ1pTTlIxaUdfSldtcHdvR0huSjhwelJiSXprZ3d4MjRKSmREREtFRnl3dWZ5RzZIUTNKd3RNT0MtZXBZa1pwQnBRa1JqaVpB?oc=5",
-     "t_id": "Pelancong North Bay dilarang terbang karena pemadaman kontrol lalu lintas udara nasional menghentikan keberangkatan"
-    }
-   ],
-   "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
   },
   {
    "id": "indonesia-202611132200-8d75",
