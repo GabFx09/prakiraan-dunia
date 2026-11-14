@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T00:33:24Z",
+ "updatedAt": "2026-11-14T00:48:02Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -27,14 +27,6 @@
    "time": "2026-11-13T23:33:45Z"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "IRGC Says LNG Tanker Hit Mine, Exploded in Strait of Hormuz: 9 outlets compared",
-   "src": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVZkUkN5c0FLVWtLMVNqYS1QWk5QOTkxZG9pRzFOcEFtVmNpODlJYkY2Z0ViZ0I0RDhySV95TVNtaTcxZk4tclZvLVQzNEUwWDJ0cEwxaGlGcDZMSk9pMV9OcEtPcWU2VFkzMUVsamh0QnI4XzVVeXVudnVHa055aC1VYTVUY2J0V2V4M3p3MjFqZW0ybFFfMGJpUnBfSE5fa09SNy1WVmJzbUcydDFzUS04MWxyRFItdDctWGhPQmRkYnFyR2Zublpuc1c?oc=5",
-   "time": "2026-11-13T23:29:05Z"
-  },
-  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "The AI boom has handed the Fed an inflation problem that rate hikes may not fix",
@@ -59,12 +51,12 @@
    "time": "2026-11-13T23:15:00Z"
   },
   {
-   "topic": "geopolitik",
+   "topic": "saham-as",
    "lang": "en",
-   "t": "Strait of Hormuz Watch: Negotiations Uncertain as Vessel Attacks Continue",
-   "src": "IndustryWeek",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
-   "time": "2026-11-13T22:56:50Z"
+   "t": "Wall Street stocks mostly lower as Nvidia extends slump",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTQ0Qi0tTlhXZ254X2s0WmREa0U4Uzdaa01KZGo3V0lCbHFtM29qc0YzNHNvUHQ0LVN5WFBDSlBnSGJXZlh5Wm5GM09PVG5JdVVlTU9wWEhPVEhCUzRScWV3RDBicnVUbTVRQVJ6ZTlYRmJUTHJKOE45SUVPQ0Z4cFdGSnN1NmlsbUtUOTEza1FDMGdwaXhDTV9kdm8?oc=5",
+   "time": "2026-11-13T23:07:04Z"
   },
   {
    "topic": "indonesia",
@@ -97,6 +89,14 @@
    "src": "Boston Herald",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSFRTRUFWSFFuVXN1aUF3emVjaUt4OU9wSFVuZWlua1VoZXdpdzl6N3JNWmtaWDZQMG91RjRIMmJXWmVEREg2OGF2cEhFeGIwdzZYMEZpTW90eDF5bXJqb1RZeEpway1aV0hMdEU3d1BNMDB1dVpILXFILU9RbjI4NkkwMA?oc=5",
    "time": "2026-11-13T21:37:15Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street’s Wild Ride Delivers Big Paydays and Bigger Bruises",
+   "src": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVhvdk85Ym1feVJmenNRYk1rbFZ3SHpGNWcybXc1RnZFSHFIZWpzMm1rTXNtbGY3UFpyWEZFc3lIeUFDT3ZHZEtIaDRQdmRHanVMVUlnWlNuSmRxM0JTWXRUTGU2UnZKX1R2Z0dXdk8yMDduQlQwNDBDNURYQ3ZlTG9MVzBaNkJuSWxsUkFDNHh2Wm14aUw2bFBGZ0xxZ1diUm5RZ0tHOTlLUURHQXBNSllEaVQ?oc=5",
+   "time": "2026-11-13T21:25:24Z"
   },
   {
    "topic": "ai-teknologi",
@@ -243,6 +243,14 @@
    "time": "2026-11-13T17:02:17Z"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Strait of Hormuz Watch: Negotiations Uncertain as Vessel Attacks Continue",
+   "src": "IndustryWeek",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
+   "time": "2026-11-13T16:56:50Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Menguat 5,82% Sepekan: Saham Eks-MSCI Rebound, Pemilik SRTG Borong Saham Rp2,14 Miliar",
@@ -329,14 +337,6 @@
    "src": "Crypto News",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9seDVJSFJXd0V3VVdEc2dlR0JYNmdsWUxfZFBmVHN4ZXp1dXEtUmJCMnVkVTZWV2dxZnNKcHN5WDk4WDhRUkdjMzZnMXJHNWgyTllVU1NCd1VobXVvMTdyRWMyNTlmVXpsVHNkeFh4ZzFEcEFIY1RENE9n?oc=5",
    "time": "2026-11-13T14:16:08Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stock Market Today: Nvidia Rebounds After Huang’s Exit as Treasury Yields Top 5%",
-   "src": "24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFVqVENnX1lmSjJKNmE1eVFJSGtEQm9MeXFVbDZvcm1oMFhyR2ZXWHdGa21ZMXltejV3ZTF5eVI2M3ZXVUhjalZzTHZCTXJJTmxVcFowWm81X2NxMUgzVXpjYUJNWjU3Y3NPMjl0cUtDT3I5bzRmYXNmRzFKdkFpaDAzSDNOTjdpRlR5U0J3THR3djFwRUFzVzk2MmlRbHI2ZFVrbEcxNmxVX2Q2dFZWeFNDVlhwV1hmYTh1UVhB?oc=5",
-   "time": "2026-11-13T14:15:00Z"
   },
   {
    "topic": "kripto",
@@ -453,6 +453,14 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "BI dan Bank Sentral Filipina Perkuat Kolaborasi, Bidik Stabilitas Moneter Hingga Keamanan Siber",
+   "src": "detik suara rakyat",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFR2RWptUXd0YUdXM2FZZGpKWEdVOHVMdmZFUXBicWNubnZ5SXQyZWZSU3lKOUlRUFdBbjB6XzZfVTVnYzVGbXNCenRWUG1NeTRuZVUxZV9FUkp2dnRXcHlfWVhORWxoVHhPdnZhV2pvVTdDLWdFdUJzWVE1NkE4c3oxYWxScDhRQmR3YmE3NzYwdXU1WnV1SGJwcDFQclMzQXc2ejZPY0VSR3FLVXVsZ1ZHUmVBVHJhRXRJUHFtWWw?oc=5",
+   "time": "2026-11-13T09:32:49Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "TPID Sulut Proyeksikan Inflasi 2026 di Kisaran 5–8 Persen, Rica Jadi Pemicu Tekanan Harga",
    "src": "sindomanado",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRqVUFCT0FTTC1LTTJJRmdOYnpTTVhpQjhJdm1Td0U3b0xETDlkTU9Ma2thZlRabnRieVk3djRUTVNvNmFUN3lxRE9nbXdYdi04WVlUYjc0ZGZwR2YyM2VNOGtZYWRLSWhsZldhN1JqQ0h0M0prOHdwUGF4Qm1VTzhvNFcxcjlXTWZrT0lhakVSLUY1T0MxMEtxMVpkX2o5SUpHcjRNd25EX2JTNjlDSnkxOVpmVVlsOXQzdmRzdjhuQQ?oc=5",
@@ -473,14 +481,6 @@
    "src": "Bareksa.com",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1JONzc1Vmt3MDVWc2d5Rm5JMHFXT3dGQTE3Szc0Rk1ZSDNVejFlQmJRTHZ6ZTdJMkUwWGZSdTBNZU9wTjhsaURMTVFzSDc0WDBBdEFRYkdZYkI3bllwSzdBV3pmbWJQTHBwZW9wZElka0J1NFpQUUxIQXRvTWZQS1JLWTFZWk9PYWNFV18yRDdHZHFLcWUzYkYzMzBLN0NhLUdGRFJ4UzI5OGZjYWx4YUpSX1lBMFRmdkx4QnZ5elo?oc=5",
    "time": "2026-11-13T07:59:18Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Lindungi Rupiah-Peso, RI & Filipina Perkuat Transaksi Tanpa Dolar AS",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkhqYjBZTnptcXRZS1FEUHFRT0ZTQUU2d1FTRWhNNkRWSmM1a2EwNmc1aFJlS3pRNHdRMkNkV1hGN3F6cUl1bmRRYmV2emwyTW16NjNZeW9XX3pndVY3ZWx0RzlDanJ1QnV0Y3RjbzlrZktJUkEtdS1BQm54bmRWUVBZY2xKVUZPQV9FWElfRy1iQ2dQT1dkbVZpc0R4bjZFRV9aS05RYVpobGlFLXhacVNPZXZKbHdFRFlhLXMtT1dpZ9IBxwFBVV95cUxPRWNhWmRqMk85SnhMOTNIVV9YN2hGOTNoOVZlaEJsUVQ3Yi1qVlBLOG9Vdy1MQVlhdE9heDJMUUlyekJYYk1ucFhrMU1QX3hTZ2Z0S05XSHlDZ0dQNzZmOFVuV0lkZkIzbHVodzlwTkEtWkc0dGpWbmFTMjkwdWx0ZFhmS3UzMkxtaGJjcUkxM3NBUDNFUG9HUFh1cWlWZU5pM3hWclhWeldPLTY5RnhzV19Sd0ZuaE9mZTV0RTIwLXc3b1c2Z0Yw?oc=5",
-   "time": "2026-11-13T07:46:38Z"
   }
  ],
  "errors": []
