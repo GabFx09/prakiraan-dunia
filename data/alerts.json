@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-14T14:26:33Z",
+ "updatedAt": "2026-11-14T15:19:43Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "ev-siber-202611131741-4d50",
+   "time": "2026-11-14T15:19:43Z",
+   "orig": "Microsoft’s Global Outage and Fixes: What We Know",
+   "level": "penting",
+   "kind": "peristiwa",
+   "title": "🌍 Siber/gangguan sistem: Gangguan dan Perbaikan Global Microsoft: Yang Kami Ketahui",
+   "body": "Diberitakan 6 media (The New York Times). Biasanya berdampak ke: Saham teknologi & perusahaan terdampak. Judul asli: Microsoft’s Global Outage and Fixes: What We Know. Berita lain: Microsoft Outlook Masih Down? Microsoft Memulihkan Email Setelah Pemadaman Global Lebih Dari 24 Jam (International Business Times Australia); Pembaruan pemadaman Outlook: Microsoft meminta maaf atas gangguan email, mengatakan tidak ada peretasan (ABC News - Breaking News, Latest News and Videos)",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5"
+  },
   {
    "id": "ev-transportasi-202611132107-1b92",
    "time": "2026-11-14T14:26:33Z",
@@ -23,6 +33,7 @@
  ],
  "sent": [
   "ev-perang-202611140317-81e6",
+  "ev-siber-202611131741-4d50",
   "ev-transportasi-202611132107-1b92"
  ]
 }
