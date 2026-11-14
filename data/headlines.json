@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T12:37:49Z",
+ "updatedAt": "2026-11-14T12:52:25Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -75,6 +75,14 @@
    "time": "2026-11-14T10:31:59Z"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC to INR: Bitcoin Price in Indian Rupee",
+   "src": "CoinGecko",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PTW5semFLSXhGRzI4cWZxMjJfc012QmZfRkFxbDk1d3Q1ZUpjX3RfVEhWNi1Ob3UwSFFFRHpQMnVQemN5VFpJQWhwRWRFanJaOHppaFFIaGlUdw?oc=5",
+   "time": "2026-11-14T10:30:03Z"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Prices Hit Records. Where Are the Major Discoveries?",
@@ -121,14 +129,6 @@
    "src": "Limapagi",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhenJtUWpBbHBPazc5V0lFYVlHTVVOM1hqTEhQTmRyRnFha3kzYWF6OTFKR0ljU21JaUh3VHZOZllWZC1uWU1mN1ljeU9MOF82c1NCYnpFNkRtMkRDdkNVaFMwM1FMUkRYTnc?oc=5",
    "time": "2026-11-14T09:42:50Z"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "META_TITLE_QUOTE",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LRXk3WmZ5Y1MwZVR2TUhJNEJYakk2Z3ZPbHkyWklVNkdJTnB3bjBpb0ctRzhrUzNhUmstaFJfUkJ0SVZ3VmRGTVJGS3F3aG95?oc=5",
-   "time": "2026-11-14T09:40:48Z"
   },
   {
    "topic": "indonesia",
@@ -243,14 +243,6 @@
    "time": "2026-11-14T07:00:00Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC to EUR: Bitcoin Price in Euro",
-   "src": "CoinGecko",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKNENfeURjTUIxS2NjeGlYd1ZYVmg0SGJ1Znp5M3dmQ2xfMmpTaXBIRF9VYkI0S1YxZFNwTXRmblNXemNhdkxxaFFTdWhXUjdaV0F5azM2b3JlQQ?oc=5",
-   "time": "2026-11-14T06:33:13Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets",
@@ -321,14 +313,6 @@
    "src": "DW.com",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVJPMWF5cVBHQjhIYUZ4V1F1RmdRbTNvWEVDWmZXY2JZSGJMWE81akNWVHFQc0FsRDN0aFk0VmtfT1ZfdFVKdXUxcF91UFczV3lDbzVVSWVwX2YxV0JQdXd5b2FsVm9HRzl2STFFSjNwSWQtS3QtSnBLMm9IUjZCNHBhUmdXLXo5bDc2dWJzQkZGZ9IBkgFBVV95cUxQQmlPNUVGME9kZDNadXdsbk5TRkpXd0FmVDltVDBuRVFUX3REWFJDSWM2X3Z3SzlLbzViX1l2VGxJSl9Uc2dkcm9wVkV2SkdSWk5aYTg3bWw5VERKWnB0WC1xcXlPLU5BdmlZY3RJYnhiaHhoS2NTeTJ6NUtOeHpTV1lvNjUtQ2pCdEJrVTZ4Vm9NUQ?oc=5",
    "time": "2026-11-13T23:54:02Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Pemerintah Indonesia meninjau pertumbuhan 5,47 persen dan inflasi 3,3 persen dalam rapat makroekonomi",
-   "src": "Traders Union",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdElxYm5YX2JhSjgtb194MDZDazN1N2ZoRzNOQjhkMFBZemM5TVZ0djlJNlFxSUFIQjctdjVKVmxqQk5rdVU3QkZMRi1ieDVwU2JSSVBtbFA2QlNjSlJyMGc2TWM4R1o2cHUtSE9yVDN1WVdCa2JQVVJuQjRmVlNKQjBUQ1A4SE5iekZhWmFneUlObUFrTDFoZ3pONmR2OThGTGZTR3ZqdjJieEZq?oc=5",
-   "time": "2026-11-13T23:27:26Z"
   },
   {
    "topic": "indonesia",
@@ -481,6 +465,22 @@
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDdDTVRyQmFuME9xMm1Uakhyb2V1S0JINzhjVUlSWkV0X0I1M0p5UWFacFFreThUQy1ZeGJWSDZKX2tOdHhUTXhtN0RVenNIMUhXbkQ0SkwzRUxCUmRyZlI4dHR1RUhuVWUyOUVnM29YMXVzV1ZuNEMtNUdjZVdvTnRrQV80dw?oc=5",
    "time": "2026-11-13T15:34:58Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Current price of Bitcoin for November 13, 2026",
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3SmQxZ1EyU2VheHYzYmZZWm11N3R0ZmNKOEtUcVJSLXVyTDkxWERDb3pxMkhuZm9GMzJQeHUwbmlreXJjdUJTYkdlUEZ2U0Zxc25EbC1JSndUOENZMk9NY3BrRzBVQms?oc=5",
+   "time": "2026-11-13T15:31:52Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Goldman Sachs cuts year-end gold price target to $4,150/oz, 2027 target to $4,800/oz",
+   "src": "Kitco",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQkZKMk5lUVlMdkdFWlJNOUE2UFI1Yk50NHRsZmNwV1kyeEF4eENvVmR3MDNUV1RVbElwc3ZGbXd0OGhRckZ2QTI3Q0NqRFNhSWM4U1NrVUhSVW1FaEVzdGx6N05lTUV3bWJFX0x2YlAtcktKT3U5MHNFcUV4M0pIZTNLbzNmZXNoSF9IMi1EOG1ybXVWQjVFVkhIeDd0LXU0b05fNnZmWTBYSVItTTZFMzUyWXNpZjhF?oc=5",
+   "time": "2026-11-13T15:25:53Z"
   }
  ],
  "errors": []
