@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T15:39:24Z",
+ "updatedAt": "2026-11-14T15:48:31Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -139,7 +139,7 @@
    "score": 6.5,
    "level": "besar",
    "first": "2026-11-13T17:41:00Z",
-   "last": "2026-11-14T10:15:27Z",
+   "last": "2026-11-14T13:15:00Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
@@ -221,8 +221,8 @@
    "src": "tutur.co.id",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2NQU1VDX3ZFcFNNVzFkbnVtU3JRUFhPWEdNLTBIUVlGMVZtOHh2RDM5dHllZ0NIdU5aYlFtN3Q0YURhZ3pNT0V4eFliTmZFNnVoS3ozQXV6enFQaFdGZGZYS3Y4UWN3bG9LVHVFM1RvdEpoWlF4U29YR2xBVW9uek8wQnREUkVxRE5mZlY5V2ZHamxmV0V4eF85Q1dxY0VUTmlr?oc=5",
    "sources": 3,
-   "recent6h": 3,
-   "score": 4.5,
+   "recent6h": 2,
+   "score": 4.0,
    "level": "sedang",
    "first": "2026-11-14T09:45:00Z",
    "last": "2026-11-14T14:00:10Z",
@@ -239,6 +239,37 @@
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNVZWaVJDVEFfRktNQTlzTldJUWx0X3ZPM2tkRXRIUjBmcHBNNW1wQURMYUV2UkRGcWxERkFhNW5SN1pfZlZQejdwZVk2VVNQbXBySW85WVYzN2RMaGJPSll3SkRuak90NEstZ2NzVVAyck54NzJIZ0N6ajJYeG85eTBWSlk4MW5zc0lOM0MtdXphZERzc2llMVozdDI5TWZPRERSNWxqX2JUUGtxM3daX3NSQXIwMGtTdVc3SDRwMkRBOGpIM01lSHdaSkw1akFzQlkwVkhEX3Y1TUpIOGU4MUE4Y2FuZVnSAewBQVVfeXFMUDZtVVZEbnZMbFV4b0lZSzBZM2c5Q3FBV1BXbGtaQU84eFloVTI4dV9UWUgyQjNVSzJZUmVJM01LWERUdTZDV3ZtVFlyYTdqMzYzWmhKLUVlZWFLcVRadkZ6TWlFOFhvdzQ3dlkwQVNlZEFZUk5GYkp1TV90SWZ5ZmRlcUs5d1Y2SjA3b01BSlpCMUxhZXE5bnRTQzh4WC1vNmpicVpOajF4Vmt5UDZiVlhYS1hKdUtPNWZEYUR0dmNHWnhJcGY2NzR6aVBrWF9Sc3NDa1FfdTgxdzV0VkdiTlpYdjJSbk8zUm51RU0?oc=5"
     }
    ]
+  },
+  {
+   "id": "kesehatan-202611131730-d1cd",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Kenya’s nine Ebola cases trace to single DRC entry as Africa CDC warns outbreak is far from over",
+   "src": "Daily Nation",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjV1Y0JFcWVBYTNNR0RlVVpkMmJfVWd6c3c0TGZTV0o0M2E5eXNnd0F5eUo5RXpBV2ZYSzZuOEZOcU43VEtBTEEtdXFycFRMTHMwMGREVG9QVUdUa1NzZzdFUXJ5OHU2VUY0UzktM3YxLVlmS3BnTldiYlAxRmpLcEJJWlRsSC1seU9Xc01zM2VNV25fZ0RGTTJvSzBsLV84T0M1MG9HcksxVDJhbEdfa0pNUmotWWl5cXNXSE41ZjM3VE82cVFwR1BIbkh1MVFjVDRkOU53?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-13T17:30:05Z",
+   "last": "2026-11-14T03:00:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Ebola outbreak update as of November 11",
+     "src": "Outbreak News Today",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTh4SnZXUzlKUTlndjVLRS1TbXhodjVOeUpMRGF5U002MW9nOHU5THRxSzNRWGdqdmFheEhMUm5US29naU1UU0VhbGpadVR3YlBQdUpRdVVZQ0xxenByblI3cklrY3VpdXZXU2RBWFE3Qy1SVzkyZ0pvcHpCZjJOSDYzMEFYbVBn?oc=5",
+     "t_id": "Pembaruan wabah Ebola per 11 November"
+    },
+    {
+     "t": "The New York Times. . The Ebola outbreak in the eastern Democratic Republic of the Congo has a new epicenter, one largely isolated from aid by an armed group that has killed and kidnapped aid workers. Declan Walsh, our chief Africa correspondent, report",
+     "src": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON0NtRWlYdTJiSHN4VkNndzdDQjd6N01mc3E5emJrVmtodkIzYkJnUWViSElaWlZwVzJGQkhSdUdJc3Y1QVo2Nm5WZFFScF9JVVZMZndvZm5qN1ctbkFSY0R1ak1GcDQzcDVlanY5SDBOakhwOEhHZTZCNS1EOHBnX3o3NUZIWFhBb0RDeEs1dkJLWFlQRzhpY1BOTGF4T0x1azN2cV80TnBEb1dvXy1KNnBSV0RTQXY1TzJNdy1uWDduLTBuelZmVTNxcXduSmJJaTVKSg?oc=5",
+     "t_id": "Waktu New York. . Wabah Ebola di Republik Demokratik Kongo bagian timur mempunyai pusat penyebaran baru, yang sebagian besar terisolasi dari bantuan yang dilakukan oleh kelompok bersenjata yang telah membunuh dan menculik para pekerja bantuan. Declan Walsh, kepala koresponden kami di Afrika, melaporkan"
+    }
+   ],
+   "title_id": "Sembilan kasus Ebola di Kenya berasal dari Kongo, sementara CDC di Afrika memperingatkan bahwa wabah ini masih jauh dari selesai"
   },
   {
    "id": "siber-202611132123-0ba9",
@@ -270,31 +301,6 @@
     }
    ],
    "title_id": "Apa yang sedang terjadi? Microsoft Turun, FAA Grounds Airlines, dan Layanan Cuaca Nasional Menyangkal Laporan Pemadaman Nasional Lainnya"
-  },
-  {
-   "id": "kesehatan-202611131730-d1cd",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Kenya’s nine Ebola cases trace to single DRC entry as Africa CDC warns outbreak is far from over",
-   "src": "Daily Nation",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTDQ0d2pYWjJGLWlWaW44MmhUbklvNUh0NXJUMlhwT29waThPN3M5MHZ6VGcxRm1VMjlDeUliYnZDZ25WYjdYRmpfZS0yT1pLUlNiYkZnUTVSTy10ak14Y1g0MTZpdHBJN251aEQ1OGEtdE9VQ2NoT2ZNczhBWGJwSWhPZXE0RHhUU24taVByUlJlY3BSSkdsM1dIRXN2OEtrMVFTdjN2d01qVlBzTm1Hc21PVFQxbkpacXl3NDEtcWRiaGZUdmdscWUzYU1PWVludV9aUW1VUU9IZw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-13T17:30:05Z",
-   "last": "2026-11-14T03:00:00Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Ebola outbreak update as of November 11",
-     "src": "Outbreak News Today",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTh4SnZXUzlKUTlndjVLRS1TbXhodjVOeUpMRGF5U002MW9nOHU5THRxSzNRWGdqdmFheEhMUm5US29naU1UU0VhbGpadVR3YlBQdUpRdVVZQ0xxenByblI3cklrY3VpdXZXU2RBWFE3Qy1SVzkyZ0pvcHpCZjJOSDYzMEFYbVBn?oc=5",
-     "t_id": "Pembaruan wabah Ebola per 11 November"
-    }
-   ],
-   "title_id": "Sembilan kasus Ebola di Kenya berasal dari Kongo, sementara CDC di Afrika memperingatkan bahwa wabah ini masih jauh dari selesai"
   },
   {
    "id": "kesehatan-202611140101-80ba",
