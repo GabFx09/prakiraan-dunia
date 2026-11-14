@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T20:38:48Z",
+ "updatedAt": "2026-11-14T20:53:24Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,14 +53,20 @@
    "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
    "src": "AP News",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
-   "sources": 8,
-   "recent6h": 0,
-   "score": 8.0,
+   "sources": 9,
+   "recent6h": 1,
+   "score": 9.5,
    "level": "besar",
    "first": "2026-11-13T19:59:08Z",
-   "last": "2026-11-14T12:40:30Z",
+   "last": "2026-11-14T20:27:40Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "U.S. Travel Urges Congress to Pass Modern Skies Act After Ground Stop",
+     "src": "FTN news",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVU5WmljakxaNFY2aldFNWJ1aXBybmt4a090WkQ0S0p5c01WOXViLUVJT1pzMENZeVBfRzdESm5ONlBLM3NGNzJSVldzSmVkUU5UM1BPa0tFa1Y0WnYwTjRzNzJ5OTNXV2J4dmowTFNLWDBpU3pKdXB0RFVZSzdDM2xlR09XNGs?oc=5",
+     "t_id": "Perjalanan AS Mendesak Kongres untuk Mengesahkan Undang-Undang Langit Modern Setelah Ground Stop"
+    },
     {
      "t": "FAA ground stop has canceled more than 12,500 US flights, short of Southwest's 2022 holiday meltdown",
      "src": "Nacionale",
@@ -78,12 +84,6 @@
      "src": "BBC",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NMFpQR3laaXdVRWVzRnNfWG9IVWxGb1FOTjBnYlE3cDBSSXkwN2xBRWdFb2ZBT3lvRjcxS25EcFhHX1hMZWxBaFBBbVBuLWF4bWFUVTRwZDJldFF3bXc?oc=5",
      "t_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
-    },
-    {
-     "t": "'Everything was like chaos.' FAA lifts ground stop, CVG travel stalled",
-     "src": "Cincinnati Enquirer",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE5lbjVoME1xNFpuLThjZjNxbjZ6eUxiTDhQT1RHMXlBeTItQzEtM3NjajMxcUpjcHFMLVdZSTFVZkp1aHFOQTNxS2NwWTZBWkFXU3M2UFFYanN5Y3NEb3NlNUg3bXZoMVlmQnJyckxHVm00Zmt0anJZLUZtZzhfTUVHZWJSMXV4NmJtLWZ1dTQwOEVtekFQcTVRZllxV0ZmVTJ2UHEzV2xjRVJLTnE0THctUHRKdVJVNlFEazdMdFM?oc=5",
-     "t_id": "'Semuanya seperti kekacauan.' FAA mencabut ground stop, perjalanan CVG terhenti"
     }
    ],
    "title_id": "Pemerintahan Trump menyalahkan sistem yang ‘kelebihan muatan’ sebagai penyebab penghentian penerbangan setelah FAA mengizinkan penerbangan dilanjutkan"
@@ -239,26 +239,21 @@
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Polda DIY Akui Turunkan 858 Polisi Berpakaian Sipil saat Demo 10 November 2026, Sebut Perintah dari Kapolda - Ayo Bandung",
-   "src": "Ayo Bandung",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOblJIRUlGRFZYeV91TlA2OU1KV2pMRWtPWnVDeU8xUG95enFpOEw4RU5GTm9NVG5SeENCT1dMUXJjckFDajRkWXNDNkw1VUZnbW04VFRfYWVKVzhvNkVTUjZCc1RuU2RJU2VGMjRVTFlfTWtHZ0h6VTlqRlJyRGVXOHpCR0FYc3UxcDZ0TW42aEZMbGp6WXpBWjV4RXdKbnNiQjZzQkZZdXAzMGhIUVdROE1Xem1pTG4zUVpzOVFRT0FPOXVvdy1Lam5ZM0RlbDdjdTJzY1ZjWmYtNzRoVldoMWYtWdIB6AFBVV95cUxQTFJ0RDVMcVhyZ3ZRYlhra1RJVDc4U0o0QWJiQlNvbGJ1Rm9KT1BRQlBqRTR2cWVPd0x6UGpBNVRPM3BmbENzZ2FSbjFWeXpsSURwYXhOM0VyRm42UlgzVlU3VUJDWDcyZExQS3VBSnZLLThwZUQzaENmZXZCZmh4WlMyc2dMSkxTVDIyQmJhaE1qUWhQbFBkNXhpSlpRNWQ1YXQwdmI1N2tsNjNEUWR0aG45UVFUZnp1RWFGSmhwRGZSRklkeGI0WGtUUElDNjNiLXNOSGJYbG9KUjFXcGs3V1RhbERnck5O?oc=5",
-   "sources": 3,
+   "title": "Heboh Truk Diduga Bawa Ormas Saat Demo, Polda DIY Sebut Mereka Reserse",
+   "src": "Holopis",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV2amtTS0hPUnhOYTJYN3ljUnZyRHJkZWlnbzRzc3R6YW1yZzZ5Q1Q2OUlPanN1Y1BhVlE2WHBEUi1fZVE2a0NUbDFrZjcyUUpQcG44YXhPSDhtdFh5ZngyeGNzZjNsdlFwTktRLWNpZW5XYnlGWnh6V1R6UWpReWhsNElDcDEwUE5QQmxELUhsQ29EZFp3UkloVlRGVVhzRS0w?oc=5",
+   "sources": 2,
    "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
+   "score": 2.0,
+   "level": "kecil",
    "first": "2026-11-13T14:21:45Z",
-   "last": "2026-11-14T12:00:44Z",
+   "last": "2026-11-14T12:10:31Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Polda DIY Akui Kerahkan 858 Polisi Berpakaian Sipil saat Demo Jogja, Ini Penjelasannya",
-     "src": "Lombok Post",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjJySVhjQlNaaWt1YTNIaWlGZjdzYk5nUFVhcnYtdzVEb1BPYVZjck5oZFUzU0hjaUlBYm5XbkNBQW52UnpoQVVPMU8tWjZhQ2FVaDJrY0VVUzdPMW85VENGeTluejNoOFBwdFd4YmpDeW5LRkQ2N1ZmWmJES0ZXYzY4RWs0a1ZkSW1fOGg5dFhoLTY2U3JaU3drR3RsTnh5UWw3Rl9FQjgwQjBJZzF5Nk1QcTBIWEFEOUt5dVh5blVzREZMM1BGV09vZ3QyTXY3akHSAdcBQVVfeXFMT0U2MDhKWWcwU19TZ0hFY2xHQldGbi1tYzN4OTVjQ3JxSEdhdUZLb3NZYzA0UUxfN201MExBM0Fodld2ckM0S2RkaXdMZzNtX1JQSjVXUjBwMjZtS3hLTXpxNkFZVXQ4WWxBeDFBMF9XOFBqdnRZWWNIWWVTN3dDdDZubTBEcDVZb1VJRVNtQ2lNYkNQcXd6SEdHTGR6YjRSUVlkTXZNbXdnR3VaNkk5cVpZZHlMTWk4Mk5ubVVhZ29xWFlWSG5uV2w3clF5VnZoTHRxQkN6YkU?oc=5"
-    },
-    {
-     "t": "Polda DIY Akui Kerahkan 858 Polisi Berpakaian Sipil saat Demo 10 November 2026 - Strategi.id",
-     "src": "Strategi.id",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2Jsel9GYmFIM3MzV0pieVJ0YTFuM29lX0ctOTJfOE5UT2IyakxyZ2ZKdVNOZnUzZDBaWXdMS3ZsMjg1RkU3MTc4V3R0NEpwVWl0TDh3Q0dpNk9veFdnYjg5UVVwYWNjX21VdXExdGJad1hZM200LVBVRHhrSkFoeGlzdnhnOWxNVGx4cm1ZaEE4N2NIYWpxNlFtczgxazY5b1BiMWNyem1jV2RndnVrcFRISFZUY05KX3h6NmRBUDI5Z9IBxwFBVV95cUxPZDFVT1ZzZHk1cDA0TTZENlczREFPNy1aVnFCcXJLdldTVGswbE1VbEduWVllZXRsRmkydnNXUTUxZ2p5U2RhRjdSdU1fOEJLbEJ5NGR3WGx5bHZNLU1ZSW5QX29GeGdTdUxfYmJBdjRJV0hnV01xR1JyZ1FnSWk5UmVUNDlRdHJLY01kT2tIQzk4bWZFa1BUdHNsS3JGYTBFU2c5TVZlVnJ3ZXBlSFlzY0NqQmZ5U2xyZEJLa3VTNkVyZ3VTZXhJ?oc=5"
+     "t": "Viral Truk Brimob Angkut Sekelompok Orang Berkaos Hitam Demo 10 November di Yogyakarta, Polda Sebut dari Reserse - Konteks.co.id",
+     "src": "Konteks.co.id",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObFlnb3BxaW9qa01FbkhIVy1VU2ZRN0Y4bWF6cU5iYTlST0hSaXowV3RYa2o2d0RQa3BRdWhUSUVnOGpmV3BZaDhXRWtheGpSM1RYcmkxY1d0eDBNN2tyaFhLUmpLek5nczdheDRHWHlSbTllN215aUY3dFJUQnhEckhRdzZmajNOUHFqTUF0T2c1ZEpvbVNlcWxPNFZ5djUzcS16S0hVQXl4VG1ocEFrZ0JwWUYzSG0xc2N3STI5bFluSTFxdzdBVDJKMlNsUTFmbUZVZ2RJTTlsRVJFNzlrUU9jQkpOQllGcXhF0gHwAUFVX3lxTFAzOUVuODBfRE9XMlZZQjJ2ZkNQbk1BZVJWU0NzWUI4NXhLcktfMnoxX25pN25Kd29lU1pKMVlYeXlGY2NSZnBVT0tzRzV4Q2d0cEgweHpzbDdId2JWaFBEaHZsWXFnaDRFenp3dGRzZW1BMHgxYno4NTdDWWJtNWRkU25WTkRRMUhGa2E4bVdNSkJCN3lhZkUxZkxpcTJZZEZRUVFnZnVmOVV5UmQzSGVMdkdRZFNYM0J2R19NLUFSQVpsY3dFQm9NVmFLaXBKMFdCaktpclUxdE9uUW1zbjlPZURQWFUtNFQwSWtuMnFLdg?oc=5"
     }
    ]
   },
