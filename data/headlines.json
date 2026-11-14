@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T06:14:49Z",
+ "updatedAt": "2026-11-14T06:29:32Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -9,6 +9,14 @@
    "src": "Robinhood",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRUViVXd1cC0zWW5OZ3liX0JWMmNVM2JsOE5NZl9sa29LeVFreXRZZExDR2I4T3lvVHRlek9FRWppRWM5b3phVFR2Uy1kY1hld0IySWZ1ajdac3hLZjJyTmhiY2xhNE9ya2FwYU1zeExCeXBNdkxuMm5JN2pEOTVqMV9QaGVKUFAzTS0zZ1QtNjlUT1duQkpOVUFEZkhlWGFsMkQybmpITC1vZEEtM3BONy15amljQQ?oc=5",
    "time": "2026-11-14T06:04:17Z"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Vietnam’s real trade test lies beyond Trump’s tariffs",
+   "src": "Asia Times",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW9PNVRRcW9oWWlNc0dUODFHRXo2eERRUktrMHBnRzREUldPV2xPS2FzTWJsM1FUOE42dGlzUzl6RGpLNUZzR0ROcy1jQkc5NkIyeTVOTHV0a1dLM01FQ3JHVHZ5OXRka2NxaXV4UDJYbmdhdk1LNWcxQVAxT3hhd3ZTOVJUZmV6?oc=5",
+   "time": "2026-11-14T06:00:58Z"
   },
   {
    "topic": "indonesia",
@@ -21,26 +29,10 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "Iran says two oil tankers hit by mines in Strait of Hormuz",
-   "src": "CNA",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTVLaS10VE1XV0RodmxlZ1NTNGQwdWZPa3VkTFN0Z1V5NjdkUkJMdWg3eHVyWDdVc28yeHRrNUc1MVJENUw5bjdic19aS0Q2NnJqRWI2WFMwWWZMbUFjbUtYbmY2dU9uN1pGVGFscmJ2THk0ZzRST2lVdlJnVFZ3aV9zQmpZcm50bjFIQXRObUE1allHbmJJejRyVXZCX28?oc=5",
-   "time": "2026-11-14T04:43:50Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
    "t": "Iran Guards say two oil tankers hit by mines in Hormuz",
    "src": "Arab News",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTZlTEN0Y0pmLVRqaHN1ZnlNZEplYU9WdHJINEI2eThyR3RJQ0x6QjNvOUxUMVFiVVNTUFN3b2VzN2FjQ29Pc1lidXAtVWpVbENGSV8xa3F2XzJvZ2pTMzgyU2o0ZENKaUpqZXFYQjRyQkRPdjEwWFlKeFA3RHN0NnJVVW1ZYlNaandYRUhrUV9YbXJ0MnM2SXJMcUkwU2VB?oc=5",
    "time": "2026-11-14T04:43:46Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC to INR: Bitcoin Price in Indian Rupee",
-   "src": "CoinGecko",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PTW5semFLSXhGRzI4cWZxMjJfc012QmZfRkFxbDk1d3Q1ZUpjX3RfVEhWNi1Ob3UwSFFFRHpQMnVQemN5VFpJQWhwRWRFanJaOHppaFFIaGlUdw?oc=5",
-   "time": "2026-11-14T04:16:35Z"
   },
   {
    "topic": "saham-as",
@@ -157,10 +149,26 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "Prabowo Terima Laporan Ekonomi Tumbuh 5,47 Persen dan Inflasi 3,3 Persen",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVE5zSzhLRXJOSl9PUXFuV0MycG9GSllzYi1ZYjI1Ui1fbDZzaGdtN196LTJXQWhOSTF2aXFEOXBsamc3V3RlZUpMdkUzdXV0YmlmUmhjcWdkZU5JeTY1SkplaXVXOWx6eUFXV09oS0Z3SW55Tlp1WmQtam9NZkdHLWVwdnRZcl9KeUR6ZUVnOG9IUGxhQzVUMzhVbEVIM0I0RENTQ2tIZHV3N0dfOUswUGNfMGZaSU5QeEgybHBIUkE?oc=5",
+   "time": "2026-11-13T23:24:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "IHSG Sepekan Naik 5,82%, Kapitalisasi Pasar Jadi Rp 9.047 Triliuh - kumparan.com",
    "src": "Kumparan.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX05FMHhldE5scThhel9Rdlh0S3B5QVZjTlNBS092TllRdnpaWUhhbGpzWTFsYWFiVUZlemItRFQ2cm90WFhfX3l3YlhROUlKMGRFY0I3ZzZ2VTlBR0RBQnlLTHA1QjdTdFpkZ1JLWkF1VlRaRDdFdVhsbDY3QnNaTWY5RVRXd296ZmY1VlJaeTlIU2JkVE9nS0NJV2l0VmpabWdwclc1bHU3bW45QWtEVtIBuAFBVV95cUxNa19ob2l3Z1RWQXhUeWFSMS1TdXZualVfM3B2UzhheTFDVUg1NnNjWms0VzEyUWtLZGQ1dFV0ZjdURDNEaUU2X0VjTUI2aGVkT1FMejRqV2hnN01rWnF3c1cwVkQ0dVNMNzQ1UXJoal85QXBISGd1UXhkSmR3X1JES0QwbmtWUkNVN1hGbWd4SDZkcVV1N1dQTlRFVzdJRjFrdjh4VjRldVFQbFZnWDlDeEZFbUtfaHk3?oc=5",
    "time": "2026-11-13T23:18:00Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC to EUR: Bitcoin Price in Euro",
+   "src": "CoinGecko",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKNENfeURjTUIxS2NjeGlYd1ZYVmg0SGJ1Znp5M3dmQ2xfMmpTaXBIRF9VYkI0S1YxZFNwTXRmblNXemNhdkxxaFFTdWhXUjdaV0F5azM2b3JlQQ?oc=5",
+   "time": "2026-11-13T23:10:02Z"
   },
   {
    "topic": "saham-as",
@@ -217,6 +225,14 @@
    "src": "Boston Herald",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSFRTRUFWSFFuVXN1aUF3emVjaUt4OU9wSFVuZWlua1VoZXdpdzl6N3JNWmtaWDZQMG91RjRIMmJXWmVEREg2OGF2cEhFeGIwdzZYMEZpTW90eDF5bXJqb1RZeEpway1aV0hMdEU3d1BNMDB1dVpILXFILU9RbjI4NkkwMA?oc=5",
    "time": "2026-11-13T21:37:15Z"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODVSNEEtLVQzUnBYcWNoTDJDdF9ZZUpudmRCLVJleVlyV1dLM1A2aGthbnk2YUZMNHE0SGFWMWI4VkhsMFVNTE1Fd3N6d2hIS1JRVXNhSG9wd3FrSTFSMENZb3FkbV81dHJtWGZhR1lHTmUyY19BNEc5d2N2aVZROW9SWFNmc1ByWWE5V291TEZxcFlBUFhsd0ZwT29sSy00bXd30gGoAUFVX3lxTE10YTRndzZ5OWwwZGxTQnNNM1U4Wnc4QVFYTHdxZWVWNnYxMi12d1BIRzBxS042OXJhZGRCN09leEhwUEpMV1hNeHg2OTVpYTJWbDJQeHY5OUxtZEZNX3U0ajkwdkVtTVU0ODFlV1M1SG9pN3J2S1RCbzU3cmdxaUhlRXoxYkE5MzNhNGZnaHdacThWQWxONGFYRy1Obm1jYjkyNHZWM0c1LQ?oc=5",
+   "time": "2026-11-13T21:18:44Z"
   },
   {
    "topic": "ai-teknologi",
@@ -397,10 +413,10 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "Bitcoin Slumps Below $70,000. Robinhood, Coinbase, and Other Crypto Stocks Follow It Down.",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTV80VkdRSEwyNVd4aEsxc0ljT2V0ekpnR3BOZ0l2TlpRT1ZVY1dva2YweDQ1N3MzZUI4c0h3YjBDTW12X1FLVUpOdWpOSjNqR3RUSkxVTTdDUVhLWGlEeVczay1MbkhiczgxNnpVRGxCcENSNzZCSzNySEQyUlVrcWdsYXprMmVIY25qcFBjTTJ0ams?oc=5",
-   "time": "2026-11-13T14:13:00Z"
+   "t": "Bitcoin price falls 4%, can BTC recover above $70,000?",
+   "src": "Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9seDVJSFJXd0V3VVdEc2dlR0JYNmdsWUxfZFBmVHN4ZXp1dXEtUmJCMnVkVTZWV2dxZnNKcHN5WDk4WDhRUkdjMzZnMXJHNWgyTllVU1NCd1VobXVvMTdyRWMyNTlmVXpsVHNkeFh4ZzFEcEFIY1RENE9n?oc=5",
+   "time": "2026-11-13T14:16:08Z"
   },
   {
    "topic": "kripto",
@@ -443,14 +459,6 @@
    "time": "2026-11-13T12:45:00Z"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "Can China and India Remain Competitive in Brazil's Crop Protection Market With 35% Tariffs?",
-   "src": "AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUF2VlZjVXNhSU9PZU1ONGFsR1Z5WnJ2U1BHSmZxSDVHMXFtVlVKd2VkaXpyeG5Hekw0NFF4Y2V4bmtqeW9NN0NCc3UzNzg3QnFUMHc4OG1WeDRULUtQS2tROUFEdDBZYVluS3VlblFQQzBCS2R2MDVaMXFwWUdRa3V0ME5mRW9MR3FCM0hwd2FiQQ?oc=5",
-   "time": "2026-11-13T12:45:00Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold price today, Friday, November 13, 2026: Gold's down over 4% in the last five days",
@@ -473,14 +481,6 @@
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
    "time": "2026-11-13T10:35:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG naik 1,78% jelang keputusan BI Rate, saham ini jadi penopang",
-   "src": "IDNFinancials",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTFiblFNeGhQQzBaWF92ODcyWlpBcTlhY25RTzNFNEppZEVSNUVoSG5nN0Vtc3N3dDJ0dS11TDF2aUxuelF4aXV5MXBUVF8wYWtBcE1LWGx1bWZkVGhxbVZBaVJKWm5ZVmd6eWtoUXJpWnpDOC1TOUlELTlmc2c4QTJIWWtKTFVMTEtqclVPZ2liYkNkX3hEanl1c2IyUmdhTi15VTZMN3JyeWc?oc=5",
-   "time": "2026-11-13T10:00:00Z"
   }
  ],
  "errors": []
