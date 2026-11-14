@@ -1,7 +1,16 @@
 {
- "updatedAt": "2026-11-14T18:26:38Z",
+ "updatedAt": "2026-11-14T18:41:23Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold prices fall EGP 260 in Egypt in one week",
+   "src": "Daily News Egypt",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWhVa1ZNaFFXWFhXcHNZWHlma1hwRGNqd0ZTUDVfOUFoNEY4b2dtc1ZTUEJqMDdiVVB6Z2s1b3liY3NmNnd0OHk4V1F6M09KNmNxRFdaWm5qSmgxcVZleWdtWVprNDM0MTN2aFhoVWJ1NkRSYWJjQ0dxb1NMQ3Yzc1ZJd0hJME5jR3RiUw?oc=5",
+   "time": "2026-11-14T18:24:01Z",
+   "t_id": "Harga emas turun EGP 260 di Mesir dalam seminggu"
+  },
   {
    "topic": "geopolitik",
    "lang": "en",
@@ -37,6 +46,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
    "time": "2026-11-14T16:38:57Z",
    "t_id": "Analisis harga Bitcoin: BTC terus menurun pada hari Sabtu, memasuki 'zona nilai dalam'"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC to INR: Bitcoin Price in Indian Rupee",
+   "src": "CoinGecko",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PTW5semFLSXhGRzI4cWZxMjJfc012QmZfRkFxbDk1d3Q1ZUpjX3RfVEhWNi1Ob3UwSFFFRHpQMnVQemN5VFpJQWhwRWRFanJaOHppaFFIaGlUdw?oc=5",
+   "time": "2026-11-14T16:33:29Z",
+   "t_id": "BTC ke INR: Harga Bitcoin dalam Rupee India"
   },
   {
    "topic": "ai-teknologi",
@@ -254,6 +272,14 @@
    "src": "cwibc.co.id",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZktMUlBqdWh6VE9kdE5nZktFVjAtSFQ0NHFyUFFNRlU4eWV1Z05DakdFQ081dDFBbFVhMTVoSFpUTlNSY1dQRmRIQ2ZzYTAtbGt2VUI3UFItOEhNZ0hr?oc=5",
    "time": "2026-11-14T09:53:05Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Perkuat Layanan Kebanksentralan untuk Jaga Stabilitas Fiskal",
+   "src": "Limapagi",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhenJtUWpBbHBPazc5V0lFYVlHTVVOM1hqTEhQTmRyRnFha3kzYWF6OTFKR0ljU21JaUh3VHZOZllWZC1uWU1mN1ljeU9MOF82c1NCYnpFNkRtMkRDdkNVaFMwM1FMUkRYTnc?oc=5",
+   "time": "2026-11-14T09:42:50Z"
   },
   {
    "topic": "indonesia",
@@ -497,32 +523,6 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlpMUGJTVFJlck5hRWotVFZkNTl1UkhZU1NfOFBBMHpmLUs5dzM3QlA1RXdfdE9lbUJvS3NGNzFxRWdlc2FJLWJUOVo5ZlpPYlY2MnFSY0JIUlFVUGNxQkYzczNqd2hXOHdsRXVRbV8zYjZiWXg3ZklWQ1A2dkE0aHJZMFdSTXFoMExKbktwdFZ4eUpaQkV3NE5ZZnRCblZra2lWODZwR2Fuc3FIeHlHcjl3?oc=5",
    "time": "2026-11-13T17:34:22Z",
    "t_id": "Bisakah The Fed Menaikkan Suku Bunga Sebesar 50 Basis Poin di Bulan Desember?"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "The S&P 500 Has a \"Pure Value\" Version. RPV Gives Its Cheapest Stocks the Biggest Weights",
-   "src": "24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVVQQVhfdUdzc29GTEhrTEhGck03UUw3NHZ1STJsSTdGVkxVLWEtWHhhR05hUi1HUkZfODdiQ3ZZek1wOWRiczh2SEtMa2hRUjZKRnB5dGZZaWJpanRnUVpiN1dGeElUbEcwOHAzd2V1WFBuUlFET0hyTzJQLTNaS3ZTcmQ4bHRHc052TGxBbnJzMzRuT2ZjZExSOEV5YTBQcjBXZUphV242eHQ3YUVzemdwWC1lbWt0bE5Oa0pkOGhuTWdaN3RQYW9mOU5qZw?oc=5",
-   "time": "2026-11-13T17:03:00Z",
-   "t_id": "S&P 500 Memiliki Versi \"Nilai Murni\". RPV Memberikan Bobot Terbesar pada Saham Termurahnya"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG Menguat 5,82% Sepekan: Saham Eks-MSCI Rebound, Pemilik SRTG Borong Saham Rp2,14 Miliar",
-   "src": "Ajaib",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjdlMUJNWmg2VGpTRHMxMTJwOHRnQThPRElaWFlSaWstdjNyOXRhbi1xdlpTMnEyMG5Wa28wb0V5UFhiTUI0VExrMG00X25SazRNM2hEcUoyRVVOZXVUUWh6MVl4Z0xqbm9UU2hPMlI5REh1emdMSmZ5TVZncXpFdGFSMUc?oc=5",
-   "time": "2026-11-13T16:50:49Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stocks sway as Wall Street heads for a winning week after several turbulent days",
-   "src": "KSL News",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbVhVLUFrVE9kQjhTRVRtZE1yZDNEdjhfUUlwUEI3RDJiR21MNGNBVG1xTzhGOF9QcWdCSTRlR0hOYmFVdDRvMTA5UThfM2NzeGxhaEc5cnA3ZHVBNlpvZmVaNTJNVnJBVkw1d0pOTHE2SzJIQ2xiSXBienpSMGVSQkl0a2V2R1JEQmpCV3lad3AzbFgzQndQX2hlRjFLaXZSQzE4VG5fYjVkcXhuS01WSjEwZ3p6NzNn?oc=5",
-   "time": "2026-11-13T16:29:55Z",
-   "t_id": "Saham-saham bergoyang seiring Wall Street menuju minggu kemenangan setelah beberapa hari penuh gejolak"
   }
  ],
  "errors": []

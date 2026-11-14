@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T18:26:53Z",
+ "updatedAt": "2026-11-14T18:41:38Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NMFpQR3laaXdVRWVzRnNfWG9IVWxGb1FOTjBnYlE3cDBSSXkwN2xBRWdFb2ZBT3lvRjcxS25EcFhHX1hMZWxBaFBBbVBuLWF4bWFUVTRwZDJldFF3bXc?oc=5",
    "sources": 12,
-   "recent6h": 1,
-   "score": 12.5,
+   "recent6h": 0,
+   "score": 12.0,
    "level": "besar",
    "first": "2026-11-13T19:59:08Z",
    "last": "2026-11-14T12:40:30Z",
@@ -53,9 +53,9 @@
    "title": "Old air traffic control equipment regularly disrupts US flights",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
-   "sources": 10,
+   "sources": 9,
    "recent6h": 2,
-   "score": 11.0,
+   "score": 10.0,
    "level": "besar",
    "first": "2026-11-13T21:41:05Z",
    "last": "2026-11-14T17:13:30Z",
@@ -139,10 +139,10 @@
    "title": "Microsoft’s Global Outage and Fixes: What We Know",
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5",
-   "sources": 7,
+   "sources": 4,
    "recent6h": 1,
-   "score": 7.5,
-   "level": "besar",
+   "score": 4.5,
+   "level": "sedang",
    "first": "2026-11-13T17:41:00Z",
    "last": "2026-11-14T13:13:00Z",
    "assets": "Saham teknologi & perusahaan terdampak",
@@ -154,22 +154,16 @@
      "t_id": "Perusahaan perangkat lunak dengan ribuan klien Fortune 500 bergabung dengan Microsoft dalam mengalami pemadaman besar-besaran"
     },
     {
-     "t": "Microsoft Outlook Down Still? Microsoft Restores Email After Global Outage of Over 24 Hours",
-     "src": "International Business Times Australia",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzZNWmhpMmVuVGwyYy1zelVGNXZDdHBPMzdaU211ZHN3UXF5dGV4NkZ1aHh3UlJjM0phaFE1dk1zeGZRcjJEaTloOGp6bG9EUTl4S2JkR0NmbDkyTFUyZHBOQ0FDQUdLS2dDUUo1ajZsck1DZTNYcDl1el9HM3hEcFI3djV3VnNL?oc=5",
-     "t_id": "Microsoft Outlook Masih Down? Microsoft Memulihkan Email Setelah Pemadaman Global Lebih Dari 24 Jam"
-    },
-    {
      "t": "Microsoft Outage: Aviation Crisis Deepens After Nationwide Flight Shutdown Exposes Aging Air Traffic System",
      "src": "International Business Times, Singapore Edition",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM25MYXNvNTFlOURaazZ2eTRUTG1YQVAwVkFOY0ZpRjR3MVlNN01CVlpQcGt4R0NlTW9ickt0SFJ0cllxNHgyeHptUnZaTFY3OWZYN3ItU0JVTmU1UGNqMmhhZFFQSHRvV0I5ek5ReGd1cllNTjlQWThwT0dtX0txaTBIOXh2cUduX2hBVDZ1QXJvT1hvLTJTaUFDb3gyS3BDdnJfS0swQnBpUXZpaTh1MnNiRGdnMUVTcmhONg?oc=5",
      "t_id": "Pemadaman Microsoft: Krisis Penerbangan Mendalam Setelah Penghentian Penerbangan Secara Nasional Mengungkapkan Sistem Lalu Lintas Udara yang Menua"
     },
     {
-     "t": "Outlook outage updates: Microsoft apologizes for email disruption, says there was no hack",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjZSX2hZVHVlY0d2clcySTg2UEhUcnc0MlkxQmdNOGhDcWJnMkpxOXY5UWJ3T2JUUGdrZDkyeTVTeFBZb3psd3Y1NEJiMU9nbWFBX2ZLSEduWlNmWnpuZkVfYlRNR0RiNDBraFpSV0lzOUFrX1FaNXdCNkFFTktFTkZNN01CYzJTakc2OVFB0gGTAUFVX3lxTFBya0ZHS3VKZzZLZFFRMzlBQVFfaW9kT2syZGZxVFh1UlBPdXhaUDdlODhVT1dRSlFoSXl0Q1ZzVFJnMXRmX0hDOHZYeEJBdUs2VEY1YW9oenU0dkduS0dkS1VzMnVUd1ltSExvMEV4cXZCa2NlXzdvZGdZbUV6c3RhekdQOGs0aFczV1l1X2xwMVJoWQ?oc=5",
-     "t_id": "Pembaruan pemadaman Outlook: Microsoft meminta maaf atas gangguan email, mengatakan tidak ada peretasan"
+     "t": "Microsoft outage exposes risks of growing reliance on tech providers",
+     "src": "Northeastern Global News",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5WU9HTEJmT0x6aW56Y0NCa181TldXdUJrM0ItOU9KZ01Ybmk2NDZoYnpFTTdQSnYtVlRuYkhjRmNybDQ3eks0TkdQZFFuOG1NWHVrdldib3MtZkh5OXBSZ1ltN25LalNfNFY3SnBtU1JJWnlPYnJrWFpFZw?oc=5",
+     "t_id": "Penghentian layanan Microsoft menimbulkan risiko meningkatnya ketergantungan pada penyedia teknologi"
     }
    ],
    "title_id": "Gangguan dan Perbaikan Global Microsoft: Yang Kami Ketahui"
@@ -236,6 +230,37 @@
    ]
   },
   {
+   "id": "siber-202611131741-4d50",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "23 best reactions to Microsoft global outage impacting Outlook and Teams for millions of users",
+   "src": "Indy100",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmRlMEt1MkNhYlZFak9aTFZfeWVmLXBMSmhHRGtTUnhzVEp3OVNEVDZqbW5DbVlMM0Z1Z2MwQW5ycHlaLU96dGhLeXVleHdoNWFzQWxTOVF3T3FJbEdGRGludnVFTVNZbmduQnctZ2ZQdnNadUpiRDZJN2wzcXVzbQ?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-13T17:41:00Z",
+   "last": "2026-11-14T09:53:15Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Microsoft Outlook Down Still? Microsoft Restores Email After Global Outage of Over 24 Hours",
+     "src": "International Business Times Australia",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzZNWmhpMmVuVGwyYy1zelVGNXZDdHBPMzdaU211ZHN3UXF5dGV4NkZ1aHh3UlJjM0phaFE1dk1zeGZRcjJEaTloOGp6bG9EUTl4S2JkR0NmbDkyTFUyZHBOQ0FDQUdLS2dDUUo1ajZsck1DZTNYcDl1el9HM3hEcFI3djV3VnNL?oc=5",
+     "t_id": "Microsoft Outlook Masih Down? Microsoft Memulihkan Email Setelah Pemadaman Global Lebih Dari 24 Jam"
+    },
+    {
+     "t": "Outlook outage updates: Microsoft apologizes for email disruption, says there was no hack",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjZSX2hZVHVlY0d2clcySTg2UEhUcnc0MlkxQmdNOGhDcWJnMkpxOXY5UWJ3T2JUUGdrZDkyeTVTeFBZb3psd3Y1NEJiMU9nbWFBX2ZLSEduWlNmWnpuZkVfYlRNR0RiNDBraFpSV0lzOUFrX1FaNXdCNkFFTktFTkZNN01CYzJTakc2OVFB0gGTAUFVX3lxTFBya0ZHS3VKZzZLZFFRMzlBQVFfaW9kT2syZGZxVFh1UlBPdXhaUDdlODhVT1dRSlFoSXl0Q1ZzVFJnMXRmX0hDOHZYeEJBdUs2VEY1YW9oenU0dkduS0dkS1VzMnVUd1ltSExvMEV4cXZCa2NlXzdvZGdZbUV6c3RhekdQOGs0aFczV1l1X2xwMVJoWQ?oc=5",
+     "t_id": "Pembaruan pemadaman Outlook: Microsoft meminta maaf atas gangguan email, mengatakan tidak ada peretasan"
+    }
+   ],
+   "title_id": "23 reaksi terbaik terhadap pemadaman global Microsoft yang berdampak pada Outlook dan Teams bagi jutaan pengguna"
+  },
+  {
    "id": "indonesia-202611131421-1e33",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -257,31 +282,6 @@
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObFlnb3BxaW9qa01FbkhIVy1VU2ZRN0Y4bWF6cU5iYTlST0hSaXowV3RYa2o2d0RQa3BRdWhUSUVnOGpmV3BZaDhXRWtheGpSM1RYcmkxY1d0eDBNN2tyaFhLUmpLek5nczdheDRHWHlSbTllN215aUY3dFJUQnhEckhRdzZmajNOUHFqTUF0T2c1ZEpvbVNlcWxPNFZ5djUzcS16S0hVQXl4VG1ocEFrZ0JwWUYzSG0xc2N3STI5bFluSTFxdzdBVDJKMlNsUTFmbUZVZ2RJTTlsRVJFNzlrUU9jQkpOQllGcXhF0gHwAUFVX3lxTFAzOUVuODBfRE9XMlZZQjJ2ZkNQbk1BZVJWU0NzWUI4NXhLcktfMnoxX25pN25Kd29lU1pKMVlYeXlGY2NSZnBVT0tzRzV4Q2d0cEgweHpzbDdId2JWaFBEaHZsWXFnaDRFenp3dGRzZW1BMHgxYno4NTdDWWJtNWRkU25WTkRRMUhGa2E4bVdNSkJCN3lhZkUxZkxpcTJZZEZRUVFnZnVmOVV5UmQzSGVMdkdRZFNYM0J2R19NLUFSQVpsY3dFQm9NVmFLaXBKMFdCaktpclUxdE9uUW1zbjlPZURQWFUtNFQwSWtuMnFLdg?oc=5"
     }
    ]
-  },
-  {
-   "id": "perang-202611140931-e23c",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Damaged Russian Warship Naro-Fominsk Unable to Reach Port Alone, Estonian Military Says",
-   "src": "Kyiv Post",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pVmhIUVdMa2tRWkNxTEJ6enVvSjYyQ3FqZ2QxUWQ4MHZsaU1TX3FJXzdGQndXTGJuU01ManpqMEdScWRMNDN2ZUZwMA?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-14T09:31:31Z",
-   "last": "2026-11-14T11:58:07Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukrainian Drones Leave Russian Missile Warship Unable to Sail, With Crew Dead and Wounded",
-     "src": "UNITED24 Media",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTJEdXBCVEpyWEt3dEx6REJsNDdqM3FSZERJUklfLU1ycEhWSU93cURqNzY2Wm9WaXVIbXFKZGxqMi0zakFBcGx1VldpNVAzZmdXLXg1d1hpbWxpWFBxMHZ6NmxpS3BHTk9FZkZaOV9NSjhVd21HbUVMbUlOX3ZxZk5UaF91U1NxSXlYWGpaQ29pRFNFUlFTQUkxdVlMWjVVQ1ppTThWSERicnEzX0VVbjZfc1Q1dHlzS0E0OGxXSmhhMkVUTUJlRjE1WThPWWFx?oc=5",
-     "t_id": "Drone Ukraina Membuat Kapal Perang Rudal Rusia Tidak Dapat Berlayar, Dengan Awaknya Meninggal dan Terluka"
-    }
-   ],
-   "title_id": "Kapal Perang Rusia Naro-Fominsk yang Rusak Tidak Dapat Mencapai Pelabuhan Sendirian, Kata Militer Estonia"
   },
   {
    "id": "kesehatan-202611131730-d1cd",
