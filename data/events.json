@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T23:16:29Z",
+ "updatedAt": "2026-11-14T23:31:11Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -79,43 +79,6 @@
    ]
   },
   {
-   "id": "siber-202611131741-4d50",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft’s Global Outage and Fixes: What We Know",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5",
-   "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-13T17:41:00Z",
-   "last": "2026-11-14T13:13:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Software company with thousands of Fortune 500 clients joins Microsoft in experiencing major outage",
-     "src": "Fox Business",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1NkQ0k0VmN4X2JGY05vV3YxX3hFS0x1U2Q4Z0FOdWxGTm5ReGRabEhCdWhZOHZHNkJPa1BtMmJKVE1BQW40eWpwenZHV0xtUGZLWkpELVp0ellOMXVMVnVRa3N1NXBLdDkySjRfalFKTWxfbFhtc3Y5eFJyWnZycFBNZjgtYUdhdUNILWlnUWJXdmhaTVJueG9QV0hta21JVFc5dmZYTExya2hicERSQVRJNHlJbFhzQ19zWGxWb2VyTzVHTmfSAcsBQVVfeXFMTXFScVp1TUNNWXJkVlNQSEUxMlh2aXRxeXVpeUFxLWJCMG1Fdk5CbmJ1emR1czI1ak1VWkJWVGhpRDRUSkhzeTExZkdTYmxQR1NRS3ZFTGJDQjgwRW1rYmE1N2NsZVd5RExOd3hXeUo4RjZ4dE84d0lPWUJIa0NzSW5LTEtrWWp0TjdQXzEwWWZCdDVVd2tLcGhXN0lNRkc5blprRGQ2bDZIbS1qempyZjQxSEtpTTJrNlFvQV81Z1F6QlV1Rm5pb2UzTmc?oc=5",
-     "t_id": "Perusahaan perangkat lunak dengan ribuan klien Fortune 500 bergabung dengan Microsoft dalam mengalami pemadaman besar-besaran"
-    },
-    {
-     "t": "Microsoft Outlook Down Still? Microsoft Restores Email After Global Outage of Over 24 Hours",
-     "src": "International Business Times Australia",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzZNWmhpMmVuVGwyYy1zelVGNXZDdHBPMzdaU211ZHN3UXF5dGV4NkZ1aHh3UlJjM0phaFE1dk1zeGZRcjJEaTloOGp6bG9EUTl4S2JkR0NmbDkyTFUyZHBOQ0FDQUdLS2dDUUo1ajZsck1DZTNYcDl1el9HM3hEcFI3djV3VnNL?oc=5",
-     "t_id": "Microsoft Outlook Masih Down? Microsoft Memulihkan Email Setelah Pemadaman Global Lebih Dari 24 Jam"
-    },
-    {
-     "t": "Outlook outage updates: Microsoft apologizes for email disruption, says there was no hack",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjZSX2hZVHVlY0d2clcySTg2UEhUcnc0MlkxQmdNOGhDcWJnMkpxOXY5UWJ3T2JUUGdrZDkyeTVTeFBZb3psd3Y1NEJiMU9nbWFBX2ZLSEduWlNmWnpuZkVfYlRNR0RiNDBraFpSV0lzOUFrX1FaNXdCNkFFTktFTkZNN01CYzJTakc2OVFB0gGTAUFVX3lxTFBya0ZHS3VKZzZLZFFRMzlBQVFfaW9kT2syZGZxVFh1UlBPdXhaUDdlODhVT1dRSlFoSXl0Q1ZzVFJnMXRmX0hDOHZYeEJBdUs2VEY1YW9oenU0dkduS0dkS1VzMnVUd1ltSExvMEV4cXZCa2NlXzdvZGdZbUV6c3RhekdQOGs0aFczV1l1X2xwMVJoWQ?oc=5",
-     "t_id": "Pembaruan pemadaman Outlook: Microsoft meminta maaf atas gangguan email, mengatakan tidak ada peretasan"
-    }
-   ],
-   "title_id": "Gangguan dan Perbaikan Global Microsoft: Yang Kami Ketahui"
-  },
-  {
    "id": "transportasi-202611131959-a1f2",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -153,41 +116,34 @@
    "title_id": "Ground stop FAA telah membatalkan lebih dari 12.500 penerbangan AS, sebelum kehancuran liburan Southwest pada tahun 2022"
   },
   {
-   "id": "transportasi-202611132141-927a",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "siber-202611131741-4d50",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Old air traffic control equipment regularly disrupts US flights",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
-   "sources": 4,
+   "title": "Microsoft’s Global Outage and Fixes: What We Know",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5",
+   "sources": 3,
    "recent6h": 0,
-   "score": 4.0,
+   "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-13T21:41:05Z",
-   "last": "2026-11-14T09:36:13Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "first": "2026-11-13T17:41:00Z",
+   "last": "2026-11-14T13:13:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Floppy disks behind US flight chaos? FAA's updates to Air Traffic Control may have caused old system to overload",
-     "src": "The Week",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVG50T3ZBSG5CdGkwc24za1FoZXpDZ25sY0RsQlpCT09OY3IxQUNGUlZYQk9vT09Yd042MVBNWklWWkVRVG9aWEJnbEZ4YWlLX053Sk80S213anpoeU9HXzZYa2xyb1A3OUZvME9WRlZuczA3M2pKczdtSEJYNkNEVmpQSG5BZk1SRGFScUZzb2xRQTgyMEY0QXoyY0Uxejh4UG5FN2JjMTZOaUJZR2dlZ0pIOU4ySjBFOTdBM01EWlhlS01BTVRKTkwxNUdyVGxfUFN0bExsTEsxOU1HbWY1R1BWb1FxNFI2TTFDR2wwT3dEdDFTdkpj0gH8AUFVX3lxTE9uMUNZZ1J2emxiLTVPR0E1OGdqU2xfVlpnMF9GbVR5b2dNRTN5RXVaU0Q0eUdCc084dkNyTkNkZW8tOVlURERnd1VVaXNCQU5CU2NDamNfX2xUTnhBYzI1dnVwaHEzaHhET3JtcWtCRXdQbVc5RjgxTmU3UTVUaFBkWE9ORjhJRDdhcTNKdkctOTJTeTFiMjRTdUh0cGJKLXZOc2lBdElhdTdMb1VVNGF1bHRXd0tkOC0tbEVGZmlIYklQaHpNVkUzX1N4NnV2UUJaZDVtVDZkMTZQb2RlcXNKNkZXYmlQQ0xDM2syWDBXVW9ZYTZwcnJjR090Zg?oc=5",
-     "t_id": "Floppy disk di balik kekacauan penerbangan AS? Pembaruan FAA pada Kontrol Lalu Lintas Udara mungkin menyebabkan sistem lama kelebihan beban"
+     "t": "Software company with thousands of Fortune 500 clients joins Microsoft in experiencing major outage",
+     "src": "Fox Business",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1NkQ0k0VmN4X2JGY05vV3YxX3hFS0x1U2Q4Z0FOdWxGTm5ReGRabEhCdWhZOHZHNkJPa1BtMmJKVE1BQW40eWpwenZHV0xtUGZLWkpELVp0ellOMXVMVnVRa3N1NXBLdDkySjRfalFKTWxfbFhtc3Y5eFJyWnZycFBNZjgtYUdhdUNILWlnUWJXdmhaTVJueG9QV0hta21JVFc5dmZYTExya2hicERSQVRJNHlJbFhzQ19zWGxWb2VyTzVHTmfSAcsBQVVfeXFMTXFScVp1TUNNWXJkVlNQSEUxMlh2aXRxeXVpeUFxLWJCMG1Fdk5CbmJ1emR1czI1ak1VWkJWVGhpRDRUSkhzeTExZkdTYmxQR1NRS3ZFTGJDQjgwRW1rYmE1N2NsZVd5RExOd3hXeUo4RjZ4dE84d0lPWUJIa0NzSW5LTEtrWWp0TjdQXzEwWWZCdDVVd2tLcGhXN0lNRkc5blprRGQ2bDZIbS1qempyZjQxSEtpTTJrNlFvQV81Z1F6QlV1Rm5pb2UzTmc?oc=5",
+     "t_id": "Perusahaan perangkat lunak dengan ribuan klien Fortune 500 bergabung dengan Microsoft dalam mengalami pemadaman besar-besaran"
     },
     {
-     "t": "Do U.S. air traffic control and email blackouts after China AI espionage have a common answer?",
-     "src": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckd1VlJSaFo4LXZlenY0VkZoRGJmbFBWZUE0WHB2ZzlPSy1Wa255MXc3SjR2NDFLQ21uSHpEd2pBcWhlcEdUdkR1NVMzdWFKMTdWR1NGYVpEWFMyM3hLaFQ3VElrc0w5MzVCWGg1Rnl2ZUx0WDllUk9hb1o0ZnB4Um16aVZENjJQUU9hZDZ1Z2lPalpjc3JBNG5JSzQ0WEFoaTRZNGgwRlVxa0pfYWc?oc=5",
-     "t_id": "Apakah kontrol lalu lintas udara AS dan pemadaman email setelah spionase AI Tiongkok mempunyai jawaban yang sama?"
-    },
-    {
-     "t": "North Bay travelers grounded as nationwide air traffic control outage halts departures",
-     "src": "The Press Democrat",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HZEtURDdZNUhoSUFERUlLc2ctcU9PWUxRUFRLZDZYNklhQ0NKNzdkR2FfZ1pTTlIxaUdfSldtcHdvR0huSjhwelJiSXprZ3d4MjRKSmREREtFRnl3dWZ5RzZIUTNKd3RNT0MtZXBZa1pwQnBRa1JqaVpB?oc=5",
-     "t_id": "Pelancong North Bay dilarang terbang karena pemadaman kontrol lalu lintas udara nasional menghentikan keberangkatan"
+     "t": "Microsoft ‘deeply sorry’ for global outage, rules out cyberattack and AI",
+     "src": "Nine.com.au",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRE1EVUZWYXJDLVdvdDhadEpIVHRxZWhmaHI5TmRGbGItS0hPOGZPQWZEYnhRYmJPWXk3Y2JDLXZqaGttQnFTZFBpZ0QzWWhSZy1DLUU5aVVPWlkyVjVtVG1uUHpfM2hqcFN2VlJYazVTN19jaHBYUXFDWm1EU3p2UzhYSHJuclFrZldoVXV0VUdsdzByelkwYkRNcWtlTFY3d3c?oc=5"
     }
    ],
-   "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
+   "title_id": "Gangguan dan Perbaikan Global Microsoft: Yang Kami Ketahui"
   },
   {
    "id": "indonesia-202611131421-1e33",
@@ -218,27 +174,35 @@
    ]
   },
   {
-   "id": "indonesia-202611132200-8d75",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Protes Kenaikan BBM dan Kebijakan Pemerintah, Demo Pelajar dan Mahasiswa di Chili Berakhir Ricuh",
-   "src": "Tribun Video",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWpWdGpZRTEwQ2ZFVHBKT29wcHotX0xpUW14Q1h4M0NvR1A4QmJPRUVGOHpHNTNfVlMtbTlYVDc0ZmdxQ1RMalZjY0xrTWtuRU9CRV9FQWphWEtLeTA1OFFxTy1Ic3JRcGlXdGZ1Zk9ickFocERfUjl6Vm84X0ZuVnVtLWNTenFfT1gzanRiZF9BZkMwdmx5aGFZQWV1eHFRUHc5Vlo3b2kzZ0xzdDQtWEpiektsYk14S2RIZUcyQzJDbDFSb2RPeFAyQ2M0NUVNdFE?oc=5",
-   "sources": 2,
+   "id": "transportasi-202611132141-927a",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Old air traffic control equipment regularly disrupts US flights",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
+   "sources": 3,
    "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-13T22:00:00Z",
-   "last": "2026-11-14T07:06:00Z",
-   "assets": "IHSG, rupiah, SBN",
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-13T21:41:05Z",
+   "last": "2026-11-14T09:36:13Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Mahasiswa UGM Diperiksa Polisi Usai Demo Ricuh",
-     "src": "JournalArta",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnFYQjhZc3VMYlE5c2UyZkhkcTBYTTlZRXpTaDJQMWI5Y3FpOFhwbUhQcEoyeGNrM3U1UHV0LWw1MzVndjNsUUtfTFlGLVJqU21hbi1XUHVpSThjRWFJcUxoWFMxUnd6NG11OGF5UTF3V0VQOHFHdGYwNUJQcTVSN3BzMlQ2UEE3TEg0dWUzZw?oc=5"
+     "t": "Floppy disks behind US flight chaos? FAA's updates to Air Traffic Control may have caused old system to overload",
+     "src": "The Week",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVG50T3ZBSG5CdGkwc24za1FoZXpDZ25sY0RsQlpCT09OY3IxQUNGUlZYQk9vT09Yd042MVBNWklWWkVRVG9aWEJnbEZ4YWlLX053Sk80S213anpoeU9HXzZYa2xyb1A3OUZvME9WRlZuczA3M2pKczdtSEJYNkNEVmpQSG5BZk1SRGFScUZzb2xRQTgyMEY0QXoyY0Uxejh4UG5FN2JjMTZOaUJZR2dlZ0pIOU4ySjBFOTdBM01EWlhlS01BTVRKTkwxNUdyVGxfUFN0bExsTEsxOU1HbWY1R1BWb1FxNFI2TTFDR2wwT3dEdDFTdkpj0gH8AUFVX3lxTE9uMUNZZ1J2emxiLTVPR0E1OGdqU2xfVlpnMF9GbVR5b2dNRTN5RXVaU0Q0eUdCc084dkNyTkNkZW8tOVlURERnd1VVaXNCQU5CU2NDamNfX2xUTnhBYzI1dnVwaHEzaHhET3JtcWtCRXdQbVc5RjgxTmU3UTVUaFBkWE9ORjhJRDdhcTNKdkctOTJTeTFiMjRTdUh0cGJKLXZOc2lBdElhdTdMb1VVNGF1bHRXd0tkOC0tbEVGZmlIYklQaHpNVkUzX1N4NnV2UUJaZDVtVDZkMTZQb2RlcXNKNkZXYmlQQ0xDM2syWDBXVW9ZYTZwcnJjR090Zg?oc=5",
+     "t_id": "Floppy disk di balik kekacauan penerbangan AS? Pembaruan FAA pada Kontrol Lalu Lintas Udara mungkin menyebabkan sistem lama kelebihan beban"
+    },
+    {
+     "t": "Do U.S. air traffic control and email blackouts after China AI espionage have a common answer?",
+     "src": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckd1VlJSaFo4LXZlenY0VkZoRGJmbFBWZUE0WHB2ZzlPSy1Wa255MXc3SjR2NDFLQ21uSHpEd2pBcWhlcEdUdkR1NVMzdWFKMTdWR1NGYVpEWFMyM3hLaFQ3VElrc0w5MzVCWGg1Rnl2ZUx0WDllUk9hb1o0ZnB4Um16aVZENjJQUU9hZDZ1Z2lPalpjc3JBNG5JSzQ0WEFoaTRZNGgwRlVxa0pfYWc?oc=5",
+     "t_id": "Apakah kontrol lalu lintas udara AS dan pemadaman email setelah spionase AI Tiongkok mempunyai jawaban yang sama?"
     }
-   ]
+   ],
+   "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
   },
   {
    "id": "kesehatan-202611140101-80ba",
