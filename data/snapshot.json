@@ -315,6 +315,17 @@
       "ihsg": 5344.406,
       "usdidr": 18190.0,
       "ust10": 5.154
+    },
+    {
+      "t": "2026-11-14T12:58:29Z",
+      "risk": 77,
+      "btc": 67067.65,
+      "gold": 3886.3,
+      "brent": 95.84,
+      "spx": 7561.67,
+      "ihsg": 5344.406,
+      "usdidr": 18190.0,
+      "ust10": 5.154
     }
   ],
   "horizons": [
@@ -761,6 +772,30 @@
   },
   "news": [
     {
+      "t": "Satu lagi tanker terkena ranjau laut dan terbakar di Selat Hormuz timur, menurut Iran",
+      "src": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVlmUEQ3N3EzTUpDQkl4bGFsNHZJTVJMZk1EV2FzRzlKcjVTVlAwdllLOWFwb3lJOHVIeHFuYmlIQ3haanJNVlpmYlRkdmdKOEVBRWFMRzlQZnpxVktOSDViVDlLQWVMWmhJT3N1ZFZJVUFkVXBPT29zdE0zMDRlVnFBUjItekVTVUk2UGtmX3NaU0xENC1maUtZbUtqUUdIOEx6QVpGVQ?oc=5",
+      "time": "2026-11-14T11:28:00Z",
+      "impact": "naik",
+      "assets": "Minyak, rupiah, emas"
+    },
+    {
+      "t": "BI meluncurkan bank kliring renminbi; dampaknya bagi rupiah dibahas",
+      "src": "republika.co.id",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNjSGVHMnpFaVFwX0UxNUVTRF9Ia2N1ZTNNSm02Zm93dkdOVmZuOXFtZnJwbmxlZXhuMTJ3OFRzdE8ySEM1MjgzWXJQYXhPRGtGeTZNMDJvTm96SzVaY21pSkcxTEVFZFJPRFdnWDljbDJvSjZqRWZmcktub05HRG1DNE1XWDRJdFhHRDJzZDQwd1Mwa3FnMjlSWTEzUnhBY0Y1Rl9kSE9KVVVPNlE?oc=5",
+      "time": "2026-11-14T09:29:57Z",
+      "impact": "netral",
+      "assets": "Rupiah, yuan"
+    },
+    {
+      "t": "AS dan China gelar pertemuan pertama dewan dagang baru membahas tarif dan produk pertanian menjelang pertemuan Xi-Trump",
+      "src": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SX0FBdkdnb0NoRXdMaWlrZlpyQk1oaEo0bnZSTXJxTDlacFpWTTZldUtrSkg5TGdFcHBxUzFwUlhoOGYtMHh5QUhwbEpFZEtndVhPSEZBNHRRWU1fYndac2VKbXZOWHoyOE1UV3JOcHprWWZFYS1kdS1B0gF_QVVfeXFMT3dWUTRlMEN4SDVQQ3lKWnJlM1AtVHdxakxDNnJ4Wl9QWHdjcURIMndkSzIwdUFyQlVTZXpYdEMxYWoxR0JWaFZBNmYwYm4zYmZfY3NvTDVzb2h3UE4tT18xZmFGd3ZubnVpc1NpLW9IZXBpSTNUVTVoSEIzOTlvMA?oc=5",
+      "time": "2026-11-14T08:16:44Z",
+      "impact": "turun",
+      "assets": "Saham Asia, rupiah"
+    },
+    {
       "t": "Dolar AS yang menguat menekan mata uang Asia, termasuk peso, ringgit, dan rupiah",
       "src": "CNBC Indonesia",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHNiYVliN0h6UVNoMnNOLW1Zd000dnJHcmdBcnJqWEp4S1h4Y09xY01CazNnbC1YalpKS2ZVUTJNZGdPdzhJYzBvQTNlOFpWSG5PRjR1aTdaLW92TWY4RXBMTFpPVGtHRDZXdG9qOURURWkwWDM5MVNKZGZaVm42RFlqb0hjYV9uc256c2VGZEk1bktudHVZVWd3cEVvUFdZeUhoa25EU0pGV1dJUU1LbFhLOEhpQ0drUWRoQ2xjVFZRaWo1akJVLWlmemQ?oc=5",
@@ -831,30 +866,6 @@
       "time": "2026-11-13T17:02:17Z",
       "impact": "turun",
       "assets": "Emas"
-    },
-    {
-      "t": "Serangan terhadap kapal di Selat Hormuz berlanjut, perundingan belum jelas",
-      "src": "IndustryWeek",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
-      "time": "2026-11-13T16:56:50Z",
-      "impact": "naik",
-      "assets": "Minyak, rupiah, emas"
-    },
-    {
-      "t": "Pejabat Fed Collins menyebut kenaikan suku bunga akan tepat dilakukan 'segera'",
-      "src": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEwzV3pSLU9vQ2tmOXhVYzdoTzhyaEcxUjdBdzM2NXE2VC0xNlFDaFhUOGlXa0ZqeTBDTFByTE1xVlVEejBIdEdSUlYwZlZhZnE0MXhzTUtQUlcyNFZYNE1rcVZKV1RWVHRmUXYydWNvbC03V0RFd3NjZUtpS2VtVFl1Umh2RWxDbzQ5a0hlR2F1bDhIN0paOW5sNFdTaU1lOEUwNVNZaHI?oc=5",
-      "time": "2026-11-13T16:10:44Z",
-      "impact": "naik",
-      "assets": "USD, obligasi AS, emas, saham"
-    },
-    {
-      "t": "IHSG ditutup melesat 1,78% ke 5.344, terkuat di bursa Asia, meski asing masih net jual",
-      "src": "Bloomberg Technoz",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMW1YdWdPM2dDWGtSdTl1UGpUclJlQ0V2THE4QlRndC1EaHRhcFpZVlFQc0ZneXdiNEtQNTEzWEFueUJxYVFjV08zb1FmT2xESjZOZjNtNHNRNEhnRU9GQ2lRSFNfVWU1YjllR2pubHlWRVZoN1VIRm82QUJCUlp0cUlMckkwQmtRd25ZMFhydENKQ2dGbU5kMGR6d0NFRjZIRW12Y0tJeW4?oc=5",
-      "time": "2026-11-13T12:51:19Z",
-      "impact": "naik",
-      "assets": "IHSG, saham RI"
     }
   ],
   "readings": [
@@ -893,10 +904,10 @@
     },
     {
       "c": "neg",
-      "d": "Anjlok ~6%, di bawah $67.000",
+      "d": "Anjlok, di bawah $68.000",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$67.225"
+      "v": "$67.068"
     },
     {
       "c": "neg",
@@ -928,9 +939,9 @@
   ],
   "regimeText": "Minyak kembali naik akibat serangan di infrastruktur energi Saudi dan gangguan Hormuz, sementara pasar kini memperkirakan Fed menaikkan suku bunga. Saham AI dan kripto tertekan, dan rupiah rentan karena arus keluar dana asing.",
   "regimeTitle": "Stagflasi, risiko tinggi",
-  "risk": 76,
+  "risk": 77,
   "riskNote": "Tekanan utama: tanker terkena ranjau di Hormuz, imbal hasil AS 10 tahun di atas 5,15%, taruhan kenaikan Fed Desember, kripto melemah, dan arus keluar dana asing dari Indonesia.",
-  "updatedAt": "2026-11-14T06:58:14Z",
+  "updatedAt": "2026-11-14T12:58:29Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1220,7 +1231,7 @@
   "riskParts": [
     {
       "k": "Geopolitik",
-      "v": 86,
+      "v": 88,
       "note": "Perang Iran, Selat Hormuz"
     },
     {
@@ -1248,11 +1259,11 @@
   "brief": {
     "date": "2026-11-14",
     "points": [
-      "Indeks risiko tetap 76/100: Hormuz masih rawan (dua tanker terkena ranjau), tetapi Iran menyebut kesepakatan sudah dekat dan IEA melaporkan pasokan minyak global kembali surplus.",
-      "Bitcoin turun sekitar 5,8% ke sekitar $67.200 (penambangan: tingkat kesulitan turun 9,1%); S&P 500 turun 0,4% karena saham Nvidia tertekan, namun indeks naik sepekan.",
+      "Indeks risiko naik tipis ke 77/100: tanker kedua terkena ranjau dan terbakar di Selat Hormuz timur (akhir pekan), sementara Iran mengaku kesepakatan sudah dekat.",
+      "Bitcoin turun ke sekitar $67.000; S&P 500 ditutup 7.562 (-0,4%) karena saham Nvidia tertekan. Pasar saham tutup akhir pekan.",
       "Imbal hasil obligasi AS 10 tahun sekitar 5,15% dan pasar menimbang kenaikan Fed Desember; dolar menguat dan rupiah melemah ke sekitar 18.190.",
       "IHSG ditutup 5.344 (+1,78%, naik 5,8% sepekan); kabar niat mundur Wapres Gibran masih berstatus belum jelas dan perlu dipantau.",
-      "Pantau: RDG Bank Indonesia 17–18 November, rapat OPEC+ 29 November, dan perkembangan perundingan Hormuz."
+      "Pantau: pertemuan Xi-Trump (setelah dewan dagang AS-China), RDG BI 17–18 November, rapat OPEC+ 29 November, dan perkembangan Hormuz."
     ]
   },
   "calendar": [
