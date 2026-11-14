@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-14T04:03:01Z",
+ "updatedAt": "2026-11-14T04:17:37Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Is the US Stock Selloff Over? Wall Street Debates AI Bubble as S&P 500, Chip Stocks Diverge for 2027",
+   "src": "TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGdqcnZNZERIazEwcm10Uk93ajhCX3Z6Q20tODVLMXdzSDRvRGh1Zk5OaWFHZ2c0bWx4RjVjYk4xN01wNDBiUHlpUTFqUlJNbkhrRThuMUdGd2RjX3FzcWZmT1ZkbVJlTUxoVXFjQXU3TWpPQUdKcnkxUlFxNkRIeU5Wd19SdWFWTGpXY0RUbWd0S0dWX25WMEhBMTRtZDgtbzVPTmoxZjFWbVI5cVBwcURXWGYzWVUyR2JlN1FMalQyZkVuZ2M5V3RjN0FkSTBCd0duZmdnNlpOOTFH?oc=5",
+   "time": "2026-11-14T04:09:06Z"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -187,11 +195,27 @@
    "time": "2026-11-13T21:37:15Z"
   },
   {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street’s Wild Ride Delivers Big Paydays and Bigger Bruises",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVhvdk85Ym1feVJmenNRYk1rbFZ3SHpGNWcybXc1RnZFSHFIZWpzMm1rTXNtbGY3UFpyWEZFc3lIeUFDT3ZHZEtIaDRQdmRHanVMVUlnWlNuSmRxM0JTWXRUTGU2UnZKX1R2Z0dXdk8yMDduQlQwNDBDNURYQ3ZlTG9MVzBaNkJuSWxsUkFDNHh2Wm14aUw2bFBGZ0xxZ1diUm5RZ0tHOTlLUURHQXBNSllEaVQ?oc=5",
+   "time": "2026-11-13T21:25:24Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1FhU3E0MEFkQjV4aHZ4WXk5cktoTzhKbE9Sd1ZKTS11dE5raks5bXA0dk5IOGZ1bzBfT2Y5LUluVTZENml5cnBxcVEyOWh6eU9UU0lIS3FNbmdxVnpvdVUyTkdRNlU0REJGYjhaQzhpZHlpWGV1U1pfRjFLVE5wb3h3NGxWbFJmSlRJNDktSENjNVVpUFlHbnNrcW1BMk9vN2NsNzFjQURkeUtGQXBrSWRsMzctNmRzWlhvSUJVQjk5aHZkeUNtYTh3?oc=5",
+   "time": "2026-11-13T21:04:14Z"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Iran says 2 oil tankers strike mines, catch fire in Strait of Hormuz",
    "src": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPek5FWnVXZThQZzdHcnRxT2JMRjEzVXFkSU9kc3ZPUVpManFaVUoxMXhPdTRFMWp0UTd5Z3kyRmdhZVB6S0IxNHF4RTNLUF9fOUhUclBYOGlCVjJuRzUwRlR2WENXb2NyR1hlVlhEMXd6bHktT0NXUlFpcnQ1cDBYa1l3R3RLcFJNeUxReENpVWRFdTUweXRHZmZSc0RudWkxTFFHQldIZ1BSS3dyODB2dkt3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUN3MXNQaXZ0TWdTdHpVOW8zRnUtd0FWNHdKMnhvZnp1SlpCVVlja3k0ZmRPd3RKSWFCWjZ5YjJNaGRsZ1RENEE3ODZ3OUVkcXgyYU1yZXBLakFQNGpRTW80a2xnV2hIMFItSHdiSUh6LUJjNWxZSWEwc1FRNExINXBnR2M3QkZ5Qi1rcFl6Y054WVRqRGszdnZtTmtibUsyNkNaMFVwLW4zN2Y5?oc=5",
    "time": "2026-11-13T21:01:42Z"
   },
   {
@@ -241,14 +265,6 @@
    "src": "The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2RfTnNBMmdzMVZyOFFSTDM3YjZXOVRmRWVCdGtQTFpGT1ZnbDdZTW1Sb3JnNnYwNjhobE0za3RlY2EwVjhZd2t3YkhSakRwRXZaV1hNbFdxLVJrOWtJWlk2YzJieTJUSnNtWjdyNy1sS1NhNmZKTEllQlpneUhWTE5ZelBaMnhSOXhBMmE2THRra3lxVWx0SnNoMF8yNFRzYlhKZnVrdGF6SmlXTDdkVDVvaW9SZw?oc=5",
    "time": "2026-11-13T20:00:00Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
-   "src": "marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDhKQU1xSjJBTWFoTGVwYnNfZWUzLXY1dzRFa0hud2I5Vm5WWHBTcW9IcXNwenY5azBuVFhzQ21URGI1eS1EcW5iUDJlaVVpUGtxbGJiM1lHb3lWcE51VUttVFQtaC1SWFNKT2VtWkN2cUpqRzZtaW1QdWFpcDBya2dSTlUtSU5RYTRHS2ljWUhicjBwbnRJOXNXLUhuMlJ0SVhtRHVCS3F3TVhHakhqZXZhaw?oc=5",
-   "time": "2026-11-13T19:58:16Z"
   },
   {
    "topic": "bank-sentral",
@@ -325,14 +341,6 @@
   {
    "topic": "ai-teknologi",
    "lang": "en",
-   "t": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1FhU3E0MEFkQjV4aHZ4WXk5cktoTzhKbE9Sd1ZKTS11dE5raks5bXA0dk5IOGZ1bzBfT2Y5LUluVTZENml5cnBxcVEyOWh6eU9UU0lIS3FNbmdxVnpvdVUyTkdRNlU0REJGYjhaQzhpZHlpWGV1U1pfRjFLVE5wb3h3NGxWbFJmSlRJNDktSENjNVVpUFlHbnNrcW1BMk9vN2NsNzFjQURkeUtGQXBrSWRsMzctNmRzWlhvSUJVQjk5aHZkeUNtYTh3?oc=5",
-   "time": "2026-11-13T16:23:18Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
    "t": "Not Nvidia. Not Micron. This Artificial Intelligence (AI) Stock Will Be 2027’s Biggest Winner After the Latest Tech Sell-Off",
    "src": "The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRU1IeW81VlhpbzZhNmR3VVFHYUU2WEt3clFPZk5CaDdZWllfMWtfY095ZThtRkhqMlIyVDBtb2lZRFNMeEE2dnp1VVQ1cFFjaFdURVJ1NXZTbkhfM3lDR2JObEtwZEdhc0NPWWFSdFpPd1VobGFnYmhFQnQtQ0xYNG45VmFmNmxtdHg0c2tiU0d0Ti1sVVJkTUl4RS1fYUNSTmJrWHdTd2NaQjlCYzJ5anFwWFF2WkgtYnpUbm1BOVdDLWNMb2ZrRjRpamM1dGVVYWpXU0RrWjMzeDlTQzF5RWNoYWgzMVNCRElZRnBWQzlSZ3AybFE?oc=5",
@@ -345,6 +353,14 @@
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDdDTVRyQmFuME9xMm1Uakhyb2V1S0JINzhjVUlSWkV0X0I1M0p5UWFacFFreThUQy1ZeGJWSDZKX2tOdHhUTXhtN0RVenNIMUhXbkQ0SkwzRUxCUmRyZlI4dHR1RUhuVWUyOUVnM29YMXVzV1ZuNEMtNUdjZVdvTnRrQV80dw?oc=5",
    "time": "2026-11-13T15:34:58Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Current price of Bitcoin for November 13, 2026",
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3SmQxZ1EyU2VheHYzYmZZWm11N3R0ZmNKOEtUcVJSLXVyTDkxWERDb3pxMkhuZm9GMzJQeHUwbmlreXJjdUJTYkdlUEZ2U0Zxc25EbC1JSndUOENZMk9NY3BrRzBVQms?oc=5",
+   "time": "2026-11-13T15:31:52Z"
   },
   {
    "topic": "ai-teknologi",
@@ -371,14 +387,6 @@
    "time": "2026-11-13T14:56:00Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Current price of Bitcoin for November 13, 2026",
-   "src": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3SmQxZ1EyU2VheHYzYmZZWm11N3R0ZmNKOEtUcVJSLXVyTDkxWERDb3pxMkhuZm9GMzJQeHUwbmlreXJjdUJTYkdlUEZ2U0Zxc25EbC1JSndUOENZMk9NY3BrRzBVQms?oc=5",
-   "time": "2026-11-13T14:31:52Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Current price of gold as of November 13, 2026",
@@ -389,10 +397,10 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "Bitcoin Slumps Below $70,000. Robinhood, Coinbase, and Other Crypto Stocks Follow It Down.",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTV80VkdRSEwyNVd4aEsxc0ljT2V0ekpnR3BOZ0l2TlpRT1ZVY1dva2YweDQ1N3MzZUI4c0h3YjBDTW12X1FLVUpOdWpOSjNqR3RUSkxVTTdDUVhLWGlEeVczay1MbkhiczgxNnpVRGxCcENSNzZCSzNySEQyUlVrcWdsYXprMmVIY25qcFBjTTJ0ams?oc=5",
-   "time": "2026-11-13T14:13:00Z"
+   "t": "Bitcoin price falls 4%, can BTC recover above $70,000?",
+   "src": "Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9seDVJSFJXd0V3VVdEc2dlR0JYNmdsWUxfZFBmVHN4ZXp1dXEtUmJCMnVkVTZWV2dxZnNKcHN5WDk4WDhRUkdjMzZnMXJHNWgyTllVU1NCd1VobXVvMTdyRWMyNTlmVXpsVHNkeFh4ZzFEcEFIY1RENE9n?oc=5",
+   "time": "2026-11-13T14:16:08Z"
   },
   {
    "topic": "kripto",
@@ -459,28 +467,20 @@
    "time": "2026-11-13T10:40:16Z"
   },
   {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
+   "time": "2026-11-13T10:35:00Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG naik 1,78% jelang keputusan BI Rate, saham ini jadi penopang",
    "src": "IDNFinancials",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTFiblFNeGhQQzBaWF92ODcyWlpBcTlhY25RTzNFNEppZEVSNUVoSG5nN0Vtc3N3dDJ0dS11TDF2aUxuelF4aXV5MXBUVF8wYWtBcE1LWGx1bWZkVGhxbVZBaVJKWm5ZVmd6eWtoUXJpWnpDOC1TOUlELTlmc2c4QTJIWWtKTFVMTEtqclVPZ2liYkNkX3hEanl1c2IyUmdhTi15VTZMN3JyeWc?oc=5",
    "time": "2026-11-13T10:00:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Ditutup ke Level 5.344, IHSG Akhir Pekan Menguat 1,78 Persen",
-   "src": "Pasardana",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVNsMENvMlNpZ3hTMHJ0NlBHYXlkQmgxTHBzSjd1TzMyakI3ek8zRks4aHdKRWNBSVpSQTl4TW1Gc2pIak1pOUZwZVUwOTRJZEYyVVAxSUozUHFhbmlpV0dJVm5VaW95S0ZRRmNXZlpUc01hMUE0ZUE1TVRDN1dnVDhXOTcxT3BxNkd3MzRQYzk1aGJDRU5pOGYtMXA?oc=5",
-   "time": "2026-11-13T09:35:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "TPID Sulut Proyeksikan Inflasi 2026 di Kisaran 5–8 Persen, Rica Jadi Pemicu Tekanan Harga",
-   "src": "sindomanado",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRqVUFCT0FTTC1LTTJJRmdOYnpTTVhpQjhJdm1Td0U3b0xETDlkTU9Ma2thZlRabnRieVk3djRUTVNvNmFUN3lxRE9nbXdYdi04WVlUYjc0ZGZwR2YyM2VNOGtZYWRLSWhsZldhN1JqQ0h0M0prOHdwUGF4Qm1VTzhvNFcxcjlXTWZrT0lhakVSLUY1T0MxMEtxMVpkX2o5SUpHcjRNd25EX2JTNjlDSnkxOVpmVVlsOXQzdmRzdjhuQQ?oc=5",
-   "time": "2026-11-13T08:32:25Z"
   }
  ],
  "errors": []
