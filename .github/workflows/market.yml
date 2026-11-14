@@ -10,7 +10,7 @@ name: Harga pasar
 # change to scripts/alerts.py or scripts/daily_brief.py stops sending until the
 # owner reviews it and updates the fingerprints here.
 env:
-  SHA_ALERTS: 1e6cad79b995188a1d15777b0842904ac35dfc3f9c9a963e60233f8251529d56
+  SHA_ALERTS: 9ab1ba9cc2c3dd060077150f8a56aad2470d7868a50aafe3a4f7059445d8ce23
   SHA_BRIEF: 7fb9e56a277d02924d8db3bcae52904442bdabba2c9c2bb507ccf11b686994a7
   SHA_HEALTH: 603f46ff84ce4e7f017d7eaf9dd52780c483a2c7ef979d827327a6e427282aaf
 
@@ -72,7 +72,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/market.json data/forecasts.json data/headlines.json data/snapshot.json data/backtest.json data/events.json
+          git add data/market.json data/forecasts.json data/headlines.json data/snapshot.json data/backtest.json data/events.json data/translations.json
           if git diff --cached --quiet; then echo "Tidak ada perubahan"; exit 0; fi
           msg="data: harga & berita $(date -u +%Y-%m-%dT%H:%MZ)"
           [ "${REVERTED:-0}" = "1" ] && msg="data: kembalikan analisis agen yang tidak valid; $msg"

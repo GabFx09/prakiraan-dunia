@@ -181,6 +181,7 @@ h1, h2, h3 { margin: 0; font-weight: 700; }
 .ev details { font-size: 12.5px; } .ev summary { cursor: pointer; color: var(--dim); font: 11px var(--mono); }
 .ev details a { display: block; color: var(--dim); text-decoration: none; padding: 3px 0; } .ev details a:hover { color: var(--amber); }
 .ev.auto h3 { font-size: 14px; font-weight: 500; }
+.ev .orig { font-size: 11.5px; color: var(--dim); font-style: italic; overflow-wrap: anywhere; }
 .topics { display: flex; flex-wrap: wrap; gap: 5px; }
 .topics button { font: 500 10.5px var(--mono); color: var(--dim); background: transparent; border: 1px solid var(--line2); padding: 3px 8px; cursor: pointer; text-transform: uppercase; border-radius: 2px; }
 .topics button[aria-pressed="true"] { color: #000; background: var(--cyan); border-color: var(--cyan); }
@@ -538,7 +539,7 @@ footer b { color: var(--amber); }
       <div style="display:flex;justify-content:space-between;gap:8px;align-items:baseline;flex-wrap:wrap"><span class="sub">Terdeteksi otomatis · diberitakan banyak media sekaligus · tiap 15 menit</span><span class="dim mono" style="font-size:11px" id="t-ev"></span></div>
       <div class="topics" id="ev-cats"></div>
       <div class="evs" id="ev-auto"></div>
-      <p class="dim" style="font-size:12px">Peristiwa yang diberitakan 6+ media dalam waktu singkat dikirim ke Kabar. Judul otomatis memakai bahasa aslinya; penjelasan berbahasa Indonesia ditambahkan agen pada pembaruan berikutnya.</p>
+      <p class="dim" style="font-size:12px">Peristiwa yang diberitakan 6+ media dalam waktu singkat dikirim ke Kabar. Judul berbahasa Inggris diterjemahkan otomatis (mesin, bisa kurang tepat); penjelasan lengkap ditulis agen pada pembaruan berikutnya.</p>
     </div>
   </div>
 </section>
@@ -1193,10 +1194,10 @@ function renderEvents() {
   $("ev-cats").innerHTML = Object.keys(EV_LBL).filter((c) => c === "semua" || have.has(c)).map((c) => `<button type="button" data-c="${c}" aria-pressed="${c === evCat}">${EV_LBL[c]}</button>`).join("");
   const list = items.filter((e) => evCat === "semua" || e.cat === evCat).slice(0, 12);
   $("ev-auto").innerHTML = list.length ? list.map((e) => `<article class="ev auto" data-sev="${esc(e.level)}"><div class="eh"><span>${esc(EV_LBL[e.cat] || e.label)}</span><b>${esc(e.sources)} media</b></div>
-    <h3><a href="${esc(/^https:\/\//.test(e.url) ? e.url : "#")}" target="_blank" rel="noopener">${esc(e.title)}</a></h3>
+    <h3><a href="${esc(/^https:\/\//.test(e.url) ? e.url : "#")}" target="_blank" rel="noopener">${esc(e.title_id || e.title)}</a></h3>${e.title_id ? `<span class="orig">Judul asli: ${esc(e.title)}</span>` : ""}
     <span class="dim mono" style="font-size:10.5px">${esc(e.src)} · mulai ${esc(ago(e.first))} · terbaru ${esc(ago(e.last))}</span>
     <span class="as">Biasanya berdampak ke: ${esc(e.assets)}</span>
-    ${(e.more || []).length ? `<details><summary>${e.more.length} berita lain</summary>${e.more.map((m) => `<a href="${esc(/^https:\/\//.test(m.url) ? m.url : "#")}" target="_blank" rel="noopener">${esc(m.t)} <span class="mono">· ${esc(m.src)}</span></a>`).join("")}</details>` : ""}</article>`).join("") : `<p class="dim">Tidak ada peristiwa besar yang terdeteksi saat ini.</p>`;
+    ${(e.more || []).length ? `<details><summary>${e.more.length} berita lain</summary>${e.more.map((m) => `<a href="${esc(/^https:\/\//.test(m.url) ? m.url : "#")}" target="_blank" rel="noopener">${esc(m.t_id || m.t)} <span class="mono">· ${esc(m.src)}</span></a>`).join("")}</details>` : ""}</article>`).join("") : `<p class="dim">Tidak ada peristiwa besar yang terdeteksi saat ini.</p>`;
 }
 $("ev-cats").addEventListener("click", (e) => { const b = e.target.closest("button[data-c]"); if (!b) return; evCat = b.dataset.c; renderEvents(); });
 
@@ -1207,7 +1208,7 @@ function renderFlow() {
   const have = new Set(items.map((i) => i.topic));
   $("topics").innerHTML = Object.keys(TOPIC_LBL).filter((t) => t === "semua" || have.has(t)).map((t) => `<button type="button" data-t="${t}" aria-pressed="${t === topic}">${TOPIC_LBL[t]}</button>`).join("");
   const list = items.filter((i) => topic === "semua" || i.topic === topic).slice(0, 12);
-  $("flow").innerHTML = list.length ? list.map((n) => `<div class="wi"><time datetime="${esc(n.time)}">${esc(ago(n.time))}</time><div><a href="${esc(/^https:\/\//.test(n.url) ? n.url : "#")}" target="_blank" rel="noopener">${esc(n.t)}</a><small>${esc(n.src)}</small></div><span class="tp">${esc(TOPIC_LBL[n.topic] || n.topic)}</span></div>`).join("") : `<p class="dim">Arus berita akan muncul setelah pengambilan berikutnya.</p>`;
+  $("flow").innerHTML = list.length ? list.map((n) => `<div class="wi"><time datetime="${esc(n.time)}">${esc(ago(n.time))}</time><div><a href="${esc(/^https:\/\//.test(n.url) ? n.url : "#")}" target="_blank" rel="noopener">${esc(n.t_id || n.t)}</a><small>${esc(n.src)}${n.t_id ? ` · <i title="${esc(n.t)}">diterjemahkan</i>` : ""}</small></div><span class="tp">${esc(TOPIC_LBL[n.topic] || n.topic)}</span></div>`).join("") : `<p class="dim">Arus berita akan muncul setelah pengambilan berikutnya.</p>`;
 }
 $("topics").addEventListener("click", (e) => { const b = e.target.closest("button[data-t]"); if (!b) return; topic = b.dataset.t; renderFlow(); });
 

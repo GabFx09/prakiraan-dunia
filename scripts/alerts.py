@@ -120,7 +120,7 @@ def _words(t):
 def event_alerts(events, known, now):
     """Big stories from the automatic detector; skip ones already alerted under another id."""
     out = []
-    old = [_words(i["title"]) for i in known if i.get("kind") == "peristiwa"]
+    old = [_words(i.get("orig") or i["title"]) for i in known if i.get("kind") == "peristiwa"]
     for e in events.get("items", []):
         # Indonesian search pools many small local outlets, so it needs more of them
         if e.get("sources", 0) < (10 if e.get("cat") == "indonesia" else EVENT_MIN_SOURCES):
@@ -131,16 +131,17 @@ def event_alerts(events, known, now):
             continue
         if now - last > EVENT_FRESH:
             continue
-        w = _words(e["title"])
-        if any(len(w & o) >= 3 for o in old):
-            continue
-        old.append(w)
-        more = "; ".join(f"{m['t']} ({m['src']})" for m in (e.get("more") or [])[:2])
+        ws = [_words(t) for t in [e["title"]] + [m.get("t", "") for m in e.get("more") or []]]
+        if any(len(w & o) >= 3 for w in ws for o in old):
+            continue  # same story as an alert already sent (headline wording changed)
+        old.append(ws[0])
+        more = "; ".join(f"{m.get('t_id') or m['t']} ({m['src']})" for m in (e.get("more") or [])[:2])
+        orig = f" Judul asli: {e['title']}." if e.get("title_id") else ""
         out.append({
-            "id": "ev-" + str(e["id"]), "time": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "id": "ev-" + str(e["id"]), "time": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "orig": e["title"],
             "level": "kritis" if e["sources"] >= 2 * EVENT_MIN_SOURCES else "penting", "kind": "peristiwa",
-            "title": f"🌍 {EVENT_CAT.get(e.get('cat'), 'Peristiwa')}: {e['title']}"[:140],
-            "body": f"Diberitakan {e['sources']} media ({e.get('src', '')}). Biasanya berdampak ke: {e.get('assets', '-')}."
+            "title": f"🌍 {EVENT_CAT.get(e.get('cat'), 'Peristiwa')}: {e.get('title_id') or e['title']}"[:140],
+            "body": f"Diberitakan {e['sources']} media ({e.get('src', '')}). Biasanya berdampak ke: {e.get('assets', '-')}.{orig}"
                     + (f" Berita lain: {more}" if more else ""),
             "url": e["url"] if str(e.get("url", "")).startswith("https://") else SITE + "#peristiwa",
         })

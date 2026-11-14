@@ -162,9 +162,23 @@ def main():
                 e["id"] = p["id"]
                 e["first"] = min(e["first"], p.get("first", e["first"]))
                 break
+    keep = keep[:30]
+    try:  # Indonesian translation of English headlines (best effort, cached)
+        import translate  # noqa: PLC0415
+        en = [e for e in keep if e["lang"] == "en"]
+        tr = translate.to_id([e["title"] for e in en] + [m["t"] for e in en for m in e["more"]])
+        for e in en:
+            if tr.get(e["title"]):
+                e["title_id"] = tr[e["title"]]
+            for m in e["more"]:
+                if tr.get(m["t"]):
+                    m["t_id"] = tr[m["t"]]
+        translate.save()
+    except Exception as ex:  # noqa: BLE001
+        errors.append(f"translate: {ex}")
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump({"updatedAt": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "source": "Google News RSS (deteksi otomatis)",
-                   "items": keep[:30], "errors": errors}, f, ensure_ascii=False, indent=1)
+                   "items": keep, "errors": errors}, f, ensure_ascii=False, indent=1)
     print(f"events: {len(keep)} ({sum(e['level'] == 'besar' for e in keep)} besar)", *errors, sep="\n")
 
 

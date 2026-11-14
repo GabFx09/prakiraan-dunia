@@ -1,44 +1,49 @@
 {
- "updatedAt": "2026-11-14T14:27:57Z",
+ "updatedAt": "2026-11-14T14:33:01Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
-   "id": "transportasi-202611132107-1b92",
+   "id": "transportasi-202611132107-05bd",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "FAA lifts nationwide ground stop that disrupted thousands of flights; White House says no indication of \"nefarious act\"",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UWWt5d2haNGYwVGZGMXVYUjhjZjlKbkhYWnNidWhBQ000OFgxbExacDFTY2IwYi1FLS03WkZKS1RTRmJNZDBEOERadEpPTk1jNGxNUkktSmo1TE92VTkxaFJ1YS1QR1ZEYTNMVlFhSnQ?oc=5",
-   "sources": 8,
+   "title": "What we know about the US ground stop and what to do if your flight is affected",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NMFpQR3laaXdVRWVzRnNfWG9IVWxGb1FOTjBnYlE3cDBSSXkwN2xBRWdFb2ZBT3lvRjcxS25EcFhHX1hMZWxBaFBBbVBuLWF4bWFUVTRwZDJldFF3bXc?oc=5",
+   "sources": 10,
    "recent6h": 1,
-   "score": 8.5,
+   "score": 10.5,
    "level": "besar",
-   "first": "2026-11-13T19:59:08Z",
-   "last": "2026-11-14T13:47:41Z",
+   "first": "2026-11-13T21:07:10Z",
+   "last": "2026-11-14T12:28:29Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
+     "t": "Thousands of flights cancelled Saturday as airlines work to recover from U.S. ground stop",
+     "src": "CTV News",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDNkRmd2SmRFWmxMeWphZkNLU0NYaF96UEV6TDlzVjRZNFBBUTJtNVRXTFkwMUhKc3c5QzRNR1gxZElkaDQ1ckZpSXNWdmRoNkpjTUVPOUxBcWFkOEdIczg5WW1lRHMyelByLWhZcjBXQVdYYVBzZ3hUMTdVZE8zak5paVhkTmxKRDN1Z1pRVld0OUhRclZDN2F3OTB1VWUwSEw5WmdFTG5fMnpDaDh5dw?oc=5",
+     "t_id": "Ribuan penerbangan dibatalkan pada hari Sabtu karena maskapai penerbangan berupaya memulihkan diri dari ground stop di AS"
+    },
+    {
      "t": "Nationwide FAA Ground Stop Leaves Travelers Stranded",
      "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRS1UNUwtN0pXd0pRd05zSlVjdWx5OVNzLVVsTTJmd3VQRktvQVlDT0FfQS1pMjIyNDRkOEx2Q1ladHJxZzdsckdvUVpoZjFSSU5samRHVGJQbE5nZXpGY2pBSDFQVi1TVU1nZGFlbnkxdU14T21pN21XazNQbHp3b3REcUpSb0dy?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRS1UNUwtN0pXd0pRd05zSlVjdWx5OVNzLVVsTTJmd3VQRktvQVlDT0FfQS1pMjIyNDRkOEx2Q1ladHJxZzdsckdvUVpoZjFSSU5samRHVGJQbE5nZXpGY2pBSDFQVi1TVU1nZGFlbnkxdU14T21pN21XazNQbHp3b3REcUpSb0dy?oc=5",
+     "t_id": "Ground Stop FAA Nasional Membuat Wisatawan Terdampar"
     },
     {
-     "t": "Microsoft denies role in FAA ground stop that caused 10,000+ flight delays and 6,600 cancellations; compa",
-     "src": "The Times of India",
-     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPc1ZnYjZNdmJkWkNFakdpVUlpMkFBM1I3dlJqNHdUdTdUUUk0d0lZTTJDV3ZxNnBBejY0c1pmZm43Qk5hN2hsaDVubVZ6bUtoT2F5U21WaERzc3dCRU1IY29OV3l5bU5XbWVvNG9xM1BrejNKZjcwanhYanBneHNoQTVUUVBrSkR4T1M5REU1bXJTWElCcGdYWFZfYUJRTThBWHY3Vmk5TjNWVGtacmxIc3NCQUhKM2RKSktadzlJRzh6WUN3WFdqYlBUTHBRa0tjdlQ4eFZQTkJSLXVVcENnSXotWXBEOFdBdklubmJlVG1XV25obkM4RloyS3FLOF9taXFRTzNGdldQSnhKc3M0dUFCMXo5RWgyRVJJRm9uQk0tQ0JRZnplbkt5SVlGWUxDTm9MajkzdHAtX080aHRzUdIBxgJBVV95cUxNZXNDX0dPN1gzU2N5UUpOaWVuTzBCQTVoc1NSNXJoMUdITGdfNFZsYUJPLTd3YkdFa2x1V1B5WnJDZ1RRaGZwX3g1cnhLLWppNzZ5dkpRU3Mtdl9DVXNMbFRQU0xCU3B4Q1o0QWFFZWhRNTFZMm02cmRkS1RIQ00xUTBYNTNudGgyZG1VeVJsQi1tcXBQMk1SaWZqVEg0UENVSVZVcm11dk0zdnJzblRoLVZaSW5FaU5YeEVONFNFQTNQV1p0TXkxMGNJdnBkbGZDcXNjWDB0UzltYkVZczN1bUZoeXllbmJIdHh2YkpsNjRBdHdXMlJqLVdYemJjQ3dqQXRnc0tOZUJMNkNOTHFQVHI3SW9VUlRfN3MwdGdOWW5VQmNldm5kNXByRVFfY09BSEkwMElDVXZBZlBuekl2bG1idk41UQ?oc=5"
-    },
-    {
-     "t": "What we know about the US ground stop and what to do if your flight is affected",
-     "src": "BBC",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NMFpQR3laaXdVRWVzRnNfWG9IVWxGb1FOTjBnYlE3cDBSSXkwN2xBRWdFb2ZBT3lvRjcxS25EcFhHX1hMZWxBaFBBbVBuLWF4bWFUVTRwZDJldFF3bXc?oc=5"
+     "t": "The Latest: FAA lifts nationwide ground stop on flights that halted travel across the US",
+     "src": "WHEC.com",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTGJiTlNNaG11cE13Y21fTlJheGw4c18zRkF0aW8tdFZGMTJrZjJHNXZJT2YxbC0xRDk5OUJSbEI0VHR2OVpYMDlHZWw5TF9peHhhR2NLWks0ZXpOc0g2U01zSmN1RzB2cFBCRjRqbkswWlhwZWNUNVdtSXE1THJhNlQ3RHRCeFNyd3NmSUxIWldLYnE3Y3hpazNleFBOYWZOX1AtZG5Ga1ZUQXdqSm55WU9US2M2VzJNdDgwaXQ3SElMN3RiaTNlYmdTWkN2YnlBSmJHSjdLSVBzeUNxQnhZ?oc=5",
+     "t_id": "Yang Terbaru: FAA mencabut pemberhentian sementara secara nasional pada penerbangan yang menghentikan perjalanan melintasi AS"
     },
     {
      "t": "'Everything was like chaos.' FAA lifts ground stop, CVG travelers stymied",
      "src": "Cincinnati Enquirer",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE5lbjVoME1xNFpuLThjZjNxbjZ6eUxiTDhQT1RHMXlBeTItQzEtM3NjajMxcUpjcHFMLVdZSTFVZkp1aHFOQTNxS2NwWTZBWkFXU3M2UFFYanN5Y3NEb3NlNUg3bXZoMVlmQnJyckxHVm00Zmt0anJZLUZtZzhfTUVHZWJSMXV4NmJtLWZ1dTQwOEVtekFQcTVRZllxV0ZmVTJ2UHEzV2xjRVJLTnE0THctUHRKdVJVNlFEazdMdFM?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE5lbjVoME1xNFpuLThjZjNxbjZ6eUxiTDhQT1RHMXlBeTItQzEtM3NjajMxcUpjcHFMLVdZSTFVZkp1aHFOQTNxS2NwWTZBWkFXU3M2UFFYanN5Y3NEb3NlNUg3bXZoMVlmQnJyckxHVm00Zmt0anJZLUZtZzhfTUVHZWJSMXV4NmJtLWZ1dTQwOEVtekFQcTVRZllxV0ZmVTJ2UHEzV2xjRVJLTnE0THctUHRKdVJVNlFEazdMdFM?oc=5",
+     "t_id": "'Semuanya seperti kekacauan.' FAA mencabut ground stop, wisatawan CVG terhalang"
     }
-   ]
+   ],
+   "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
   },
   {
    "id": "indonesia-202611131421-1e33",
@@ -72,9 +77,9 @@
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUXc0Nm5IekZYUGhLSy11R0V4aVZ2UHllZTRSS0NjODFsc05FQWVMVm43YkRFWVlwdzFXNlFNb0ZWMEU0aldKZmZSTmFkQnRyVEx1QjJRNVRFdzk4SGNSMUxIeGZ2cThfeFVpTWtJZk9KeHdNa1ZaRldnS3diS0RnR3BzSFg1ZnV2VnlzVUc2SEZvUVhWUFNCTkg3dkpWRkZFWVg4aDVCdmVpNjZXWHBDUWtyQk9XQ2x3Y3hCRXlZRnZ0R0Q2YlQ5clo1ckVNV1l0c2sxR3lB?oc=5"
     },
     {
-     "t": "Demo Jogja 10 November 2026 Berakhir Ricuh, Polda DIY Ungkap Turunkan 858 Reserse hingga Tetapkan Dua Tersangka - Indonesia Daily",
-     "src": "Indonesia Daily",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdFFZNHpIUGhiaEdYT3dpVmtRa01jQnpEbnBISy1EMUVTTVdrdDRRdV9LVnNMZXcyWFFUcnBuNE1LQ2t5RW1FMm1aNTYtOHQ2MS1IVC1fR3dmOTl1VTZtRU5KOEVUb2VqZDNzWEJIY3hSY3RRWmlpTWpmeW43VHEtakRleFlweXk3TXpBMXY3Q0VrOFptZG5Sdk5UUVBkY2pmOVFObVZ5UWROSm1NZXI5eXpZdzBxMTlaZGRFcDF6RFFtM3FsZUlpaWQ1VmtDNzFESzVrUGNRUW5sOWtZdWlVVllWZlp6OERKUU41bmRIUU9VaXZVT0lSeEd4RHNNc25ZLXdZ0gGIAkFVX3lxTE12UUphRTBLMEhBeDZVMGwwdUExV1JVTVY1WnhBTURRNmpaZUxpQWF4SG91bzZIODhtWjFkNEtENFNfZmZtd3NVVFJrQk9LNHdaSkl6eWd5Z1dkYUItNHk2ZFdDNXZ3RDgyNHVUS1VCWXZuUjdMUFlfaTdxVVdrbVZPeUVBY29PS21SUUhTa3p1MDIzSlpSc1g3eVNtaTdrdHBVVGFDUmFrNTROSlJ0QlJ6YXJ3RnF2X1lOalhPYUFRT195YkJETVJaTWFKaVlDVUJLV0ZoMFY0bTJJUWdyN0VYUDhWTmt1Ti1BY24yemM2TjVHN1J4UXgtOFhtTG5fcVFiZHVwSGtubA?oc=5"
+     "t": "Sekelompok Orang Berkaos Hitam saat Demo di Jogja, Polda DIY: Itu Anggota Kepolisian, Bukan Ormas - Suara Merdeka Pekalongan",
+     "src": "Suara Merdeka Pekalongan",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRXdfX3J5dXJvN2x2aHgwdWttMHRYa050OEpQb1YyLUFYemp3X3pGaXRROE5wUW4tTHVrSjREaV9tTWtlbXBDV2VLX1Z4VFVJLTFlMG03ampkUmdUc0s4Z0xOTEF6ZGVMOVFsRVg5S0d1ZGJXWEhQUWFJSmRiZ0hqbmpEX3BuZlBnRmxCLTFGX2tZQnhaajJWeHlsZmFyNS1FTVhwbXB2UmxMRWQ5X2QyZmxCWHZEN0YyUzE4WERoVVFZeFVnQVNtWm8xNWM2VGtUejhNTW1ISTBhOXJ4SkpVLW9WaDlTTlnSAewBQVVfeXFMTm9VMDBXMEVoMFRxQllBbDAtbzJrQWwwUGJUeGN6VzhqbWxBVTVSa3BUOFh4TzRlLWJqazF4dERWVERrREQ3SFpYOVRiY3lBaFpjNHBxeS1NWUtCUHBudjJrckVWNVk2MXBxS3M5NGVlZnAtZmRFVjRYamhDamxhNFhwMVpzOHhjNnF2YThCU0F2QWtONmdvc2xOYTVKM2tLUlZqOUgwcExydzAwNjJKOG9uSXNwbm1JREhraTdGRkgzUFZodHE5Zl84UVlVX3B2WTZZM0pIRUdXc01tZFRvRjBhVGhwUmpXRFhsc3k?oc=5"
     }
    ]
   },
@@ -97,24 +102,29 @@
     {
      "t": "Gulf states demand Iran pay compensation for missile and drone attacks",
      "src": "Aaj English TV",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVm5wbC1MRDJvYTdweG1Ua3IzSGg4X2RKa1pFS3drNzFFNVV1ZVp2Y2tkUHo0Ukx6bGRsLXdFNUZMS0lQRnYzQnVKN0ZiRDZ6S285R2NBLXVsM1laMUNvOEJDMFBuVDZEcnZpVUFyTlZHaDl3YnkxYXBSNjBDbzd2S2t0MWkxR3BBNGFVYURJdjJhNVRqZjJ3UExRVlV5REZTeDd6dHRPNkxyd0xM?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVm5wbC1MRDJvYTdweG1Ua3IzSGg4X2RKa1pFS3drNzFFNVV1ZVp2Y2tkUHo0Ukx6bGRsLXdFNUZMS0lQRnYzQnVKN0ZiRDZ6S285R2NBLXVsM1laMUNvOEJDMFBuVDZEcnZpVUFyTlZHaDl3YnkxYXBSNjBDbzd2S2t0MWkxR3BBNGFVYURJdjJhNVRqZjJ3UExRVlV5REZTeDd6dHRPNkxyd0xM?oc=5",
+     "t_id": "Negara-negara Teluk menuntut Iran membayar kompensasi atas serangan rudal dan drone"
     },
     {
      "t": "Yemen's Houthis claim drone, missile attacks on Saudi-led coalition, government forces",
      "src": "巴士的報",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2xtVmViWVFfaGQ2TzcteUlPX1IyZThSMXd4VUtELTlGcjNhQTJ6dGR6eVFENVZXUE5zdUMyWWMydFRPTU5zUGMyVTc3c0RNS1MyaWhYYldpX3ZiT2UwVjNxZGtxLW1oXzllZFVQTTg5QzBmNWRzeGxORmxIbHJfRFRpbnk3V0s5dU5oeUlxTTA4SnRGZW1uNGR1eTgzTFZxaGgyU2hFcU9ZRHNiUU5Nekg2QmtFM1o5UGlpUVBGQ01WTmJKcG54YjNNRklBckd1?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2xtVmViWVFfaGQ2TzcteUlPX1IyZThSMXd4VUtELTlGcjNhQTJ6dGR6eVFENVZXUE5zdUMyWWMydFRPTU5zUGMyVTc3c0RNS1MyaWhYYldpX3ZiT2UwVjNxZGtxLW1oXzllZFVQTTg5QzBmNWRzeGxORmxIbHJfRFRpbnk3V0s5dU5oeUlxTTA4SnRGZW1uNGR1eTgzTFZxaGgyU2hFcU9ZRHNiUU5Nekg2QmtFM1o5UGlpUVBGQ01WTmJKcG54YjNNRklBckd1?oc=5",
+     "t_id": "Houthi Yaman mengklaim serangan drone dan rudal terhadap koalisi pimpinan Saudi dan pasukan pemerintah"
     },
     {
      "t": "Houthis claim fresh drone and missile attacks on Saudi targets",
      "src": "Madhyamam",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdURzWWQ2dkVCbFR2b0JOYVVHR3VNRmF1eEVGdzJLZF9Bc19oaVlpVlNnWjdIaEdVa25fV1d4eE5FdnE5aFhObnlFbXBfNGw3R1AzamlWc043Sk4tRVZ1Q2NCMnZ4MEl1MkVzRzJJNE9BTnBuSzdBUWZQY0xmUWJpOU1nd0tTaUdRcTQzSlFZQ1RPNDZYWWhJTnIwSjQ5b251eFVpRklOVjZ0SGdnZXdIUThubUXSAbQBQVVfeXFMT3VEc1lkNnZFQmxUdm9CTmFVR0d1TUZhdXhFRncyS2RfQXNfaGlZaVZTZ1o3SGhHVWtuX1dXeHhORXZxOWhYTm55RW1wXzRsN0dQM2ppVnNON0pOLUVWdUNjQjJ2eDBJdTJFc0cySTRPQU5wbks3QVFmUGNMZlFiaTlNZ3dLU2lHUXE0M0pRWUNUTzQ2WFloSU5yMEo0OW9udXhVaUZJTlY2dEhnZ2V3SFE4bm1F?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdURzWWQ2dkVCbFR2b0JOYVVHR3VNRmF1eEVGdzJLZF9Bc19oaVlpVlNnWjdIaEdVa25fV1d4eE5FdnE5aFhObnlFbXBfNGw3R1AzamlWc043Sk4tRVZ1Q2NCMnZ4MEl1MkVzRzJJNE9BTnBuSzdBUWZQY0xmUWJpOU1nd0tTaUdRcTQzSlFZQ1RPNDZYWWhJTnIwSjQ5b251eFVpRklOVjZ0SGdnZXdIUThubUXSAbQBQVVfeXFMT3VEc1lkNnZFQmxUdm9CTmFVR0d1TUZhdXhFRncyS2RfQXNfaGlZaVZTZ1o3SGhHVWtuX1dXeHhORXZxOWhYTm55RW1wXzRsN0dQM2ppVnNON0pOLUVWdUNjQjJ2eDBJdTJFc0cySTRPQU5wbks3QVFmUGNMZlFiaTlNZ3dLU2lHUXE0M0pRWUNUTzQ2WFloSU5yMEo0OW9udXhVaUZJTlY2dEhnZ2V3SFE4bm1F?oc=5",
+     "t_id": "Houthi mengklaim serangan drone dan rudal baru terhadap sasaran Saudi"
     },
     {
      "t": "Houthis claim missile strike on Saudi Forces in Jazan",
      "src": "Daijiworld",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxbXI4N3dqVkotZGQxNHlPelI1UVJ2OXhzRjlzYTlwV1pIQy1kcGNBUnpFZEUyQVk4TzRCQ3hKX3FiVVpwcko4bjZOcWljRXdoUnZIdzdLUTRSZVpuaFJCZ0tQbmg?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxbXI4N3dqVkotZGQxNHlPelI1UVJ2OXhzRjlzYTlwV1pIQy1kcGNBUnpFZEUyQVk4TzRCQ3hKX3FiVVpwcko4bjZOcWljRXdoUnZIdzdLUTRSZVpuaFJCZ0tQbmg?oc=5",
+     "t_id": "Houthi mengklaim serangan rudal terhadap Pasukan Saudi di Jazan"
     }
-   ]
+   ],
+   "title_id": "Propulsi Hilang, Korban Dilaporkan: Estonia Merinci Konsekuensi Serangan Drone Ukraina terhadap Kapal Rudal Rusia di Teluk Finlandia"
   },
   {
    "id": "transportasi-202611132141-927a",
@@ -129,30 +139,35 @@
    "score": 7.0,
    "level": "besar",
    "first": "2026-11-13T21:41:05Z",
-   "last": "2026-11-14T02:45:00Z",
+   "last": "2026-11-14T07:18:24Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Montreal airport suspends all flights to and from the U.S. after FAA ground stop",
-     "src": "CTV News",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1RIcUc1LTRTYkFnMmVwVjJiV2pwTjBqaC1Wa3dYWWwxNFpVX1YyNG40NXUxdUZkaG9HZU1hOFVCZDVEdUViNjZsVktXeTFyYnJIY210RndEbUt0bHhLbjczclhXSkZDVERRUUxQVmdQTnNXZXk5ekY4WU9mSXptZy1lWDBYMU90bnRRU3o4cmMzRThiR1BUTFdKYnFuMEN4VVA1cUJyREZudnBzakllZzlwem5ibWYwWnJR?oc=5"
+     "t": "Trump official seeks $50 billion for air traffic control after outage",
+     "src": "The Express Tribune",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGpyN1ROYjhXVDNCSnJVVXUwZW5xSmdrVGU0YWRjcTBiS0RwM1VZRlJXZ1RJR0ZWQWZhWEFEQVNGaDNtS2FZUW4xRGNIYVF3a2VHVy1xcXU2bk5PZkRhd3ZYb3hpMGlVa0I4M0F0UmdNY05fR1dZRm82cTlzS0ZPaXhHNVlwa0dLX1hnMXo3NlNfZmppamJTTExjYWU1LVE1ZTFDUFVaUUw?oc=5",
+     "t_id": "Pejabat Trump mencari $50 miliar untuk kontrol lalu lintas udara setelah pemadaman listrik"
+    },
+    {
+     "t": "US lifts nationwide flight ban after air traffic control failure",
+     "src": "Aaj English TV",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGJXOGM0UWFYVnctMzZSTDdIQ3pDLXRYTWVHZzQ5UGF0azFUNjlCZ1FzN3ltZGc0QXFWbjREQ0dsSS0za1JQQkY1TGRZMHFxOUZYdHYxaXpWcG1UUTE0UVp1MFlCOFA0OGlkbEJmYW45aF9DOWdwT2k4ZWVxdVBPWTdwV1lHRklObUFNWG9PX1pHR3dCbDRSdU9tNUdOcDc0SV9MTA?oc=5",
+     "t_id": "AS mencabut larangan penerbangan nasional setelah kegagalan kontrol lalu lintas udara"
     },
     {
      "t": "North Bay travelers grounded as nationwide air traffic control outage halts departures",
      "src": "The Press Democrat",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HZEtURDdZNUhoSUFERUlLc2ctcU9PWUxRUFRLZDZYNklhQ0NKNzdkR2FfZ1pTTlIxaUdfSldtcHdvR0huSjhwelJiSXprZ3d4MjRKSmREREtFRnl3dWZ5RzZIUTNKd3RNT0MtZXBZa1pwQnBRa1JqaVpB?oc=5"
-    },
-    {
-     "t": "FAA Grounds Every Flight in America as Mysterious Communications Failure Sparks Nationwide Shutdown",
-     "src": "OFFGRID Survival",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVlXOGYwd1JZSU1NNk1nVXQ1QzNfYjlpS3EtelVkRjRzWTFGVW4zYUFCQU94REtBLVJsR21LMHF3NExLMC0yUTZoUW5VNV82NWFDZkNfSXNDVDVYZzFFTWY2T2ZvTVRMQkw3dGlYWnpsSDZPbWx1aXhyYlZ1NzAyUHh0cnNqOU44ZHFZS2ZHcEJtb0RNMmhrNG5XeXNKUjRGR09yNkw2Ymw2WFYyb1JDSkxoUFM0RkEzY1Vwb0NkcXVob0RoZzI4?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HZEtURDdZNUhoSUFERUlLc2ctcU9PWUxRUFRLZDZYNklhQ0NKNzdkR2FfZ1pTTlIxaUdfSldtcHdvR0huSjhwelJiSXprZ3d4MjRKSmREREtFRnl3dWZ5RzZIUTNKd3RNT0MtZXBZa1pwQnBRa1JqaVpB?oc=5",
+     "t_id": "Pelancong North Bay dilarang terbang karena pemadaman kontrol lalu lintas udara nasional menghentikan keberangkatan"
     },
     {
      "t": "Why has the FAA grounded all U.S. flights and what’s causing the nationwide shutdown?",
      "src": "Ticker News",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUE0aEh0cFR6VF81ZGV6eW51MU1ScWJfZUo0STluc1RnVnRGN2JfZ2Z3aFpEdHpaeXFwbS1LdmtWdmxtTWRaTTh0SmowWXBqNnlMeE9XZVVEdXZfY1dPbFVWMGNjamhpUGtZNkJSS1Fyd3dkQ1p4a2dYaDktVG5NLXBNZml2VlFNTnhGNXVKRjZjSVNiei1hLW14YkVBZnpJNEdzNjNfakQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUE0aEh0cFR6VF81ZGV6eW51MU1ScWJfZUo0STluc1RnVnRGN2JfZ2Z3aFpEdHpaeXFwbS1LdmtWdmxtTWRaTTh0SmowWXBqNnlMeE9XZVVEdXZfY1dPbFVWMGNjamhpUGtZNkJSS1Fyd3dkQ1p4a2dYaDktVG5NLXBNZml2VlFNTnhGNXVKRjZjSVNiei1hLW14YkVBZnpJNEdzNjNfakQ?oc=5",
+     "t_id": "Mengapa FAA menghentikan semua penerbangan di AS dan apa yang menyebabkan penutupan secara nasional?"
     }
-   ]
+   ],
+   "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
   },
   {
    "id": "siber-202611131741-4d50",
@@ -173,24 +188,29 @@
     {
      "t": "Outlook outage updates: Microsoft apologizes for email disruption, says there was no hack",
      "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjZSX2hZVHVlY0d2clcySTg2UEhUcnc0MlkxQmdNOGhDcWJnMkpxOXY5UWJ3T2JUUGdrZDkyeTVTeFBZb3psd3Y1NEJiMU9nbWFBX2ZLSEduWlNmWnpuZkVfYlRNR0RiNDBraFpSV0lzOUFrX1FaNXdCNkFFTktFTkZNN01CYzJTakc2OVFB0gGTAUFVX3lxTFBya0ZHS3VKZzZLZFFRMzlBQVFfaW9kT2syZGZxVFh1UlBPdXhaUDdlODhVT1dRSlFoSXl0Q1ZzVFJnMXRmX0hDOHZYeEJBdUs2VEY1YW9oenU0dkduS0dkS1VzMnVUd1ltSExvMEV4cXZCa2NlXzdvZGdZbUV6c3RhekdQOGs0aFczV1l1X2xwMVJoWQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjZSX2hZVHVlY0d2clcySTg2UEhUcnc0MlkxQmdNOGhDcWJnMkpxOXY5UWJ3T2JUUGdrZDkyeTVTeFBZb3psd3Y1NEJiMU9nbWFBX2ZLSEduWlNmWnpuZkVfYlRNR0RiNDBraFpSV0lzOUFrX1FaNXdCNkFFTktFTkZNN01CYzJTakc2OVFB0gGTAUFVX3lxTFBya0ZHS3VKZzZLZFFRMzlBQVFfaW9kT2syZGZxVFh1UlBPdXhaUDdlODhVT1dRSlFoSXl0Q1ZzVFJnMXRmX0hDOHZYeEJBdUs2VEY1YW9oenU0dkduS0dkS1VzMnVUd1ltSExvMEV4cXZCa2NlXzdvZGdZbUV6c3RhekdQOGs0aFczV1l1X2xwMVJoWQ?oc=5",
+     "t_id": "Pembaruan pemadaman Outlook: Microsoft meminta maaf atas gangguan email, mengatakan tidak ada peretasan"
     },
     {
      "t": "Microsoft outage exposes risks of growing reliance on tech providers",
      "src": "Northeastern Global News",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5WU9HTEJmT0x6aW56Y0NCa181TldXdUJrM0ItOU9KZ01Ybmk2NDZoYnpFTTdQSnYtVlRuYkhjRmNybDQ3eks0TkdQZFFuOG1NWHVrdldib3MtZkh5OXBSZ1ltN25LalNfNFY3SnBtU1JJWnlPYnJrWFpFZw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5WU9HTEJmT0x6aW56Y0NCa181TldXdUJrM0ItOU9KZ01Ybmk2NDZoYnpFTTdQSnYtVlRuYkhjRmNybDQ3eks0TkdQZFFuOG1NWHVrdldib3MtZkh5OXBSZ1ltN25LalNfNFY3SnBtU1JJWnlPYnJrWFpFZw?oc=5",
+     "t_id": "Penghentian layanan Microsoft menimbulkan risiko meningkatnya ketergantungan pada penyedia teknologi"
     },
     {
      "t": "Microsoft outage latest: Tech company breaks silence and says global service disruption wasn’t an AI attack",
      "src": "Newswav",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzlvUXZ6dDFCZUpPanB0bWNMNHpoeFFDbHYyamVManBVRk5mZkRYT0hFenZ0ajh1MUhyQnVjUHg3SWNwZXhQRDdrUFJybXl4aUNvRGVfZTlCeGF3QVJrc2UtbzBjZlFDenlvUW9leXVkbFBSUEJUdUJLYkx1MGYtNzNvYXE4YjFQY3RSOXRkU1p1YnM4MHpJV1dZcEsyT05VM3lYUkdaRXV2akpEb1ZfNWdaaHc2S2M?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzlvUXZ6dDFCZUpPanB0bWNMNHpoeFFDbHYyamVManBVRk5mZkRYT0hFenZ0ajh1MUhyQnVjUHg3SWNwZXhQRDdrUFJybXl4aUNvRGVfZTlCeGF3QVJrc2UtbzBjZlFDenlvUW9leXVkbFBSUEJUdUJLYkx1MGYtNzNvYXE4YjFQY3RSOXRkU1p1YnM4MHpJV1dZcEsyT05VM3lYUkdaRXV2akpEb1ZfNWdaaHc2S2M?oc=5",
+     "t_id": "Pemadaman terbaru Microsoft: Perusahaan teknologi memecah keheningan dan mengatakan gangguan layanan global bukanlah serangan AI"
     },
     {
      "t": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
      "src": "The Guardian",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUZWOUNtNWFCM2JscG9FNzZHc1JVYzVPSmtUd2pUM05DVUNxSEtyTDBtN3IyYVpLRUJXdVhFNkFzcE0yZ1VDdUxLeWFwU2xmTkVjSGRfcUREbWVldTFoX1RibnhjUkFzRmVNcU9HOS1pVnlzOXVtUHo4TlRtMHZIcWQzZ1h4bENjN25Sd3ZOMkFRb3VqSGZBYUNQdTdjd1FYMVE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUZWOUNtNWFCM2JscG9FNzZHc1JVYzVPSmtUd2pUM05DVUNxSEtyTDBtN3IyYVpLRUJXdVhFNkFzcE0yZ1VDdUxLeWFwU2xmTkVjSGRfcUREbWVldTFoX1RibnhjUkFzRmVNcU9HOS1pVnlzOXVtUHo4TlRtMHZIcWQzZ1h4bENjN25Sd3ZOMkFRb3VqSGZBYUNQdTdjd1FYMVE?oc=5",
+     "t_id": "Pemadaman Microsoft: perusahaan berupaya memperbaiki masalah global yang melumpuhkan Outlook dan Teams"
     }
-   ]
+   ],
+   "title_id": "Gangguan dan Perbaikan Global Microsoft: Yang Kami Ketahui"
   },
   {
    "id": "indonesia-202611140945-d5c5",
@@ -239,37 +259,42 @@
     {
      "t": "FAA grounds all US flights due to 'telecommunication outage' — officials say ' no indication...that this was a nefarious attack,' but they can't rule out a cyberattack yet",
      "src": "TechRadar",
-     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdNbmV3RFJxZ2hhXzdJZHNJM0ZqbVNlOGdTRUx3QTRiSDV0YVFaSnFab1RxeW1xUTBwbmdjZWxnRWhyRHRQNXJKaHo2RXJrQjFrdXhtcVZhRHJsRTJNQkttY3IzNkg4bmN1V0lSNjBaNFhUNFhSTHRoWFNKd05NRE1OczZwanRJbUpCVVpMZXF2UF91SVAxQ2RKcWg4VWlUQWg1TEdXclFTQS13UFNTOFBvVzAzY1lGM0J1WWxGOGZUSlFOd0J3ekpjVDYxZmtDYjJySDZQYUtxai1paFB0TUx6THJibXpZUWFCZ0s3UHhMamN6d2I2MHV2VndxSUFFa1hhWnE1MlF0OGpBQUl2UV9PTk5YRVNobTVxaXJ2VWVUTkJWS1dHN2puYzdLdm0yVzlmbjJ3?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdNbmV3RFJxZ2hhXzdJZHNJM0ZqbVNlOGdTRUx3QTRiSDV0YVFaSnFab1RxeW1xUTBwbmdjZWxnRWhyRHRQNXJKaHo2RXJrQjFrdXhtcVZhRHJsRTJNQkttY3IzNkg4bmN1V0lSNjBaNFhUNFhSTHRoWFNKd05NRE1OczZwanRJbUpCVVpMZXF2UF91SVAxQ2RKcWg4VWlUQWg1TEdXclFTQS13UFNTOFBvVzAzY1lGM0J1WWxGOGZUSlFOd0J3ekpjVDYxZmtDYjJySDZQYUtxai1paFB0TUx6THJibXpZUWFCZ0s3UHhMamN6d2I2MHV2VndxSUFFa1hhWnE1MlF0OGpBQUl2UV9PTk5YRVNobTVxaXJ2VWVUTkJWS1dHN2puYzdLdm0yVzlmbjJ3?oc=5",
+     "t_id": "FAA melarang semua penerbangan AS karena 'gangguan telekomunikasi' — para pejabat mengatakan 'tidak ada indikasi...bahwa ini adalah serangan jahat,' namun mereka belum bisa mengesampingkan serangan siber."
     },
     {
      "t": "FAA grounds all US departures amid nationwide communications outage",
      "src": "Ynetnews",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tUzhuMlhTcmxlbGVMSTE5SUdiaFcxUzQybHY2aURsb19xNEQzQnJPb0Y2YmoxTmxzSHV4OW5zZTVGMmsyWVZDUnVrSzBmZDdTYTZwc21Cdw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tUzhuMlhTcmxlbGVMSTE5SUdiaFcxUzQybHY2aURsb19xNEQzQnJPb0Y2YmoxTmxzSHV4OW5zZTVGMmsyWVZDUnVrSzBmZDdTYTZwc21Cdw?oc=5",
+     "t_id": "FAA melarang semua keberangkatan dari AS di tengah pemadaman komunikasi nasional"
     }
-   ]
+   ],
+   "title_id": "Apa yang sedang terjadi? Microsoft Turun, FAA Grounds Airlines, dan Layanan Cuaca Nasional Menyangkal Laporan Pemadaman Nasional Lainnya"
   },
   {
-   "id": "transportasi-202611132204-4d16",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "kesehatan-202611132125-d1cd",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "FAA outage leads to wild day of lines, canceled flights at Hartsfield-Jackson",
-   "src": "The Atlanta Journal-Constitution",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmtyUW1GQ2ZCSDFsZDN3dHBPcWpOcFhleWN4eld0YXRmOVBNQmFRZFhHTnMwMjdMcWE2TzkydEZkTEt6eGNMOTN5azFTVFR1Tkl6OHlIZDRBN1RZV2FxODJjMW1oTEdRc19EUldSYUdhbWlUcXBHc29zRVVvcHZPX0lwdHJfWUdzQVNWSVZiZzA3dllHN2RwQlY4YmZUYmxoWDR2LUhCU2lyOC1kRVE?oc=5",
+   "title": "Kenya’s nine Ebola cases trace to single DRC entry as Africa CDC warns outbreak is far from over",
+   "src": "Daily Nation",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjV1Y0JFcWVBYTNNR0RlVVpkMmJfVWd6c3c0TGZTV0o0M2E5eXNnd0F5eUo5RXpBV2ZYSzZuOEZOcU43VEtBTEEtdXFycFRMTHMwMGREVG9QVUdUa1NzZzdFUXJ5OHU2VUY0UzktM3YxLVlmS3BnTldiYlAxRmpLcEJJWlRsSC1seU9Xc01zM2VNV25fZ0RGTTJvSzBsLV84T0M1MG9HcksxVDJhbEdfa0pNUmotWWl5cXNXSE41ZjM3VE82cVFwR1BIbkh1MVFjVDRkOU53?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-13T22:04:00Z",
-   "last": "2026-11-14T03:59:30Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "first": "2026-11-13T21:25:56Z",
+   "last": "2026-11-14T03:00:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "FAA lifts nationwide flight halt after telecom outage disrupts thousands of US flights",
-     "src": "Interesting Engineering",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmplc095dmRRUHhDUWM0OFE5ZUczRDFXLUdEVEJyTGpBT3hTWEYyRGNFSFhaa01Ra2didUE1cEFtcGhaczl1NGFpVldSR2pkM25IM2F5eGsxMEJiWmtuZTlqblB4UW5ESGRFalRQOTZUZDJsc2RVakRwaXlZLW5teWRDcVUzQ0NIQi0w?oc=5"
+     "t": "Ebola outbreak update as of November 11",
+     "src": "Outbreak News Today",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTh4SnZXUzlKUTlndjVLRS1TbXhodjVOeUpMRGF5U002MW9nOHU5THRxSzNRWGdqdmFheEhMUm5US29naU1UU0VhbGpadVR3YlBQdUpRdVVZQ0xxenByblI3cklrY3VpdXZXU2RBWFE3Qy1SVzkyZ0pvcHpCZjJOSDYzMEFYbVBn?oc=5",
+     "t_id": "Pembaruan wabah Ebola per 11 November"
     }
-   ]
+   ],
+   "title_id": "Sembilan kasus Ebola di Kenya berasal dari Kongo, sementara CDC di Afrika memperingatkan bahwa wabah ini masih jauh dari selesai"
   },
   {
    "id": "kesehatan-202611140101-80ba",
@@ -289,10 +314,37 @@
    "more": [
     {
      "t": "Bird flu outbreak raises pandemic concerns as virus spreads across US farms",
-     "src": "KTVQ",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVhYaUpjak9mS1dEQjVZOVhoWkFDU3pabmhJa2xOeEdqeWE0OHFuckd6ZGExZWNJWUxMcXdKNVVSQkhIcm9McnhITXNNeDJtc0E3SmdZM0pLaTVxS1V0eUNRdmFpaVhaaXl6eVRocDFSRGxMcERaSGphRFQ3T0tlaVpkYUVRZjRIakFCam9aRndja05CcEZHalBuWW1JTkplU2c5Q0JR?oc=5"
+     "src": "Scripps News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTZCR3MyZDByZ3JTZF9EYTdpYmVaYllkS2wtc1lJREd1Z25ZV09jTUlKN3dmdm9EVlBHcUlWZDdrcDBhNlFoWmZkM3RlYm41NEZrcTlvR2dUQzBEb0NRS3JYX0IwZDFtdkt3RlRndFJsUFR4VXhhTUY1UE1aR1hsNmhVX2xZWVNEXzZ4V0ltZzF5QlpWOGRlODBGc2pkUllXQjVNOUM2N0J4T2ZHTTM0?oc=5",
+     "t_id": "Wabah flu burung meningkatkan kekhawatiran pandemi ketika virus menyebar ke seluruh peternakan di AS"
     }
-   ]
+   ],
+   "title_id": "Wabah flu burung meningkatkan kekhawatiran pandemi ketika virus menyebar ke seluruh peternakan di AS"
+  },
+  {
+   "id": "transportasi-202611132238-4b8d",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Does travel insurance cover the US ground stop? What Australians need to check in their policy",
+   "src": "Nacionale",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0FNZzBidm90Uno1ZmxMclc3Qk9QRExTMGZ3UEtxOGEtdEZ6X0s1V0lNZndXZmRJcTNjVmhhcnVBRUtYcU1ydWN4aE1kXy1NYzNEc09xeC04ZVBaU1NodWE1WVprMUk2OXZ0dnpMT3R4bVVRNHRpM0x2M0ZJeEh5ZEJfMHVwVWU1RjNHVFRmaXBrSnB0RTZuV0tPdno4X19Pbl83eEJQbFVfQ0VHb3ctUHlDQQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-13T22:38:08Z",
+   "last": "2026-11-14T00:45:00Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Does the Nationwide Ground Stop Show U.S ATC Needs New Technology?",
+     "src": "The Aviation Hub",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2tYWldPRGhkdnkwS3hxMC1QLVdXVGI1XzF5dXBUNl9IZ2MxemFwYkxualo3NnZneTZuSVhYaUlJRllpWFJQTVhIV3h2c0EyVUxNd2VURllBZHBHdWhDQjA3VUxlY1hWQmtQZ1ZuY3VydGR5ZlBVVVJYQVNQU0NIVUhNZ0xKRkNWWkZLZ2xWN2hYMlNURW5pVTZUUQ?oc=5",
+     "t_id": "Apakah Ground Stop Nasional Menunjukkan ATC AS Membutuhkan Teknologi Baru?"
+    }
+   ],
+   "title_id": "Apakah asuransi perjalanan mencakup pemberhentian di AS? Hal-hal yang perlu diperhatikan oleh warga Australia dalam kebijakan mereka"
   }
  ],
  "errors": []

@@ -81,10 +81,20 @@ def main():
     if not keep:
         print("no headlines fetched; keeping previous file", *errors, sep="\n")
         return
+    keep = keep[:MAX_ITEMS]
+    try:  # Indonesian translation of English headlines (best effort, cached)
+        import translate  # noqa: PLC0415
+        tr = translate.to_id([i["t"] for i in keep if i["lang"] == "en"])
+        for i in keep:
+            if i["lang"] == "en" and tr.get(i["t"]):
+                i["t_id"] = tr[i["t"]]
+        translate.save()
+    except Exception as e:  # noqa: BLE001
+        errors.append(f"translate: {e}")
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump({"updatedAt": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "source": "Google News RSS",
-                   "items": keep[:MAX_ITEMS], "errors": errors}, f, ensure_ascii=False, indent=1)
-    print(f"headlines: {len(keep[:MAX_ITEMS])}", *errors, sep="\n")
+                   "items": keep, "errors": errors}, f, ensure_ascii=False, indent=1)
+    print(f"headlines: {len(keep)}", *errors, sep="\n")
 
 
 if __name__ == "__main__":
