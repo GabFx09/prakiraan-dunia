@@ -58,6 +58,14 @@ def main(path):
             fail(f"kalender tidak valid: {e}")
         if e.get("url") and not str(e["url"]).startswith("https://"):
             fail(f"kalender url harus https: {e.get('t')}")
+    ev = d.get("events")
+    if ev is not None and (not isinstance(ev, list) or len(ev) > 12):
+        fail("events harus daftar berisi paling banyak 12 peristiwa")
+    for e in ev or []:
+        if not e.get("t") or e.get("sev") not in ("tinggi", "sedang", "rendah"):
+            fail(f"peristiwa tidak valid: {e}")
+        if e.get("url") and not str(e["url"]).startswith("https://"):
+            fail(f"peristiwa url harus https: {e.get('t')}")
     for a in d["assets"]:
         if len(a.get("s", [])) != 6 or not set(a["s"]) <= STANCES:
             fail(f"aset '{a.get('n')}' punya sikap tidak valid")

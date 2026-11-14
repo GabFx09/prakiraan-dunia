@@ -167,6 +167,20 @@ h1, h2, h3 { margin: 0; font-weight: 700; }
 .tag.netral, .tag.hold, .tag.open, .tag.t-mix { background: var(--line); color: var(--dim); }
 .tag.care { background: var(--yellow-bg); color: var(--yellow); }
 .drivers { display: grid; gap: 10px; }
+.evs { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 10px; }
+.ev { border: 1px solid var(--line); border-left: 3px solid var(--sev, var(--dim)); padding: 10px 12px; display: grid; gap: 5px; align-content: start; background: var(--bg); min-width: 0; }
+.ev[data-sev="tinggi"], .ev[data-sev="besar"] { --sev: var(--red); }
+.ev[data-sev="sedang"] { --sev: var(--yellow); }
+.ev .eh { display: flex; justify-content: space-between; gap: 8px; font: 500 10.5px var(--mono); color: var(--dim); text-transform: uppercase; letter-spacing: 0.04em; }
+.ev .eh b { color: var(--sev, var(--dim)); }
+.ev h3 { font-size: 15px; line-height: 1.35; margin: 0; overflow-wrap: anywhere; }
+.ev h3 a { color: var(--text); text-decoration: none; } .ev h3 a:hover { color: var(--amber); }
+.ev p { margin: 0; font-size: 13.5px; color: var(--dim); }
+.ev .imp { color: var(--text); }
+.ev .as { font: 11px var(--mono); color: var(--cyan); }
+.ev details { font-size: 12.5px; } .ev summary { cursor: pointer; color: var(--dim); font: 11px var(--mono); }
+.ev details a { display: block; color: var(--dim); text-decoration: none; padding: 3px 0; } .ev details a:hover { color: var(--amber); }
+.ev.auto h3 { font-size: 14px; font-weight: 500; }
 .topics { display: flex; flex-wrap: wrap; gap: 5px; }
 .topics button { font: 500 10.5px var(--mono); color: var(--dim); background: transparent; border: 1px solid var(--line2); padding: 3px 8px; cursor: pointer; text-transform: uppercase; border-radius: 2px; }
 .topics button[aria-pressed="true"] { color: #000; background: var(--cyan); border-color: var(--cyan); }
@@ -364,7 +378,7 @@ textarea { font-family: var(--sans); }
 /* simple mode */
 body:not(.simple) #sederhana { display: none; }
 body.simple .cmdline, body.simple .cmd-out, body.simple .fnbar, body.simple #detail, body.simple .ticker { display: none; }
-body.simple main.grid > section:not(#sederhana):not(#peringatan):not(#kalender) { display: none; }
+body.simple main.grid > section:not(#sederhana):not(#peringatan):not(#peristiwa):not(#kalender) { display: none; }
 #sederhana .pb { gap: 16px; }
 .weather { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 16px; align-items: center; border: 1px solid var(--line2); padding: 14px 16px; background: var(--bg); }
 .weather .w-icon { font-size: 44px; line-height: 1; }
@@ -512,6 +526,19 @@ footer b { color: var(--amber); }
           <div class="pa-list" id="pa-list"></div>
         </div>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="panel" id="peristiwa">
+  <div class="ph"><h2><span class="code">[B]</span>PERISTIWA BESAR DUNIA</h2><span class="meta" id="m-ev"></span></div>
+  <div class="pb" style="gap:14px">
+    <div style="display:grid;gap:8px"><span class="sub">Dijelaskan agen Claude · apa yang terjadi &amp; dampaknya ke investasi</span><div class="evs" id="ev-agent"></div></div>
+    <div style="display:grid;gap:8px;border-top:1px solid var(--line);padding-top:12px">
+      <div style="display:flex;justify-content:space-between;gap:8px;align-items:baseline;flex-wrap:wrap"><span class="sub">Terdeteksi otomatis · diberitakan banyak media sekaligus · tiap 15 menit</span><span class="dim mono" style="font-size:11px" id="t-ev"></span></div>
+      <div class="topics" id="ev-cats"></div>
+      <div class="evs" id="ev-auto"></div>
+      <p class="dim" style="font-size:12px">Peristiwa yang diberitakan 6+ media dalam waktu singkat dikirim ke Kabar. Judul otomatis memakai bahasa aslinya; penjelasan berbahasa Indonesia ditambahkan agen pada pembaruan berikutnya.</p>
     </div>
   </div>
 </section>
@@ -737,6 +764,7 @@ const KEYS = ["ihsg", "spx", "gold", "brent", "usdidr", "ust10", "btc"];
 const SECTIONS = [
   ["1", "RISIKO", "kondisi", ["RISIKO", "KONDISI", "RISK"]],
   ["A", "PERINGATAN", "peringatan", ["PERINGATAN", "ALERT", "NOTIF", "NOTIFIKASI"]],
+  ["B", "PERISTIWA", "peristiwa", ["PERISTIWA", "EVENTS", "EVENT", "BREAKING", "DUNIA", "KEJADIAN"]],
   ["2", "BERITA", "berita", ["BERITA", "NEWS", "PENGGERAK"]],
   ["3", "PRAKIRAAN", "prakiraan", ["PRAKIRAAN", "SKENARIO", "FORECAST"]],
   ["K", "KALENDER", "kalender", ["KALENDER", "AGENDA", "JADWAL", "CALENDAR"]],
@@ -771,7 +799,7 @@ const PRESETS = [
 ];
 
 // ===== state =====
-let S = null, MKT = null, CG = null, FC = null, HL = null, AL = null, BT = null, topic = "semua", stockMkt = "semua";
+let S = null, MKT = null, CG = null, FC = null, HL = null, AL = null, BT = null, EV = null, evCat = "semua", topic = "semua", stockMkt = "semua";
 let current = "1b", profile = "moderat", custom = { ...PROFILES.moderat.w };
 let seed = 20261113, sim = null, lastModel = "", detailKey = null;
 try { const v = localStorage.getItem("pd-horizon"); if (v) current = v; } catch {}
@@ -1146,6 +1174,32 @@ function renderWire() {
   $("drivers").innerHTML = (S.drivers || []).map((d) => `<div class="drv" data-sev="${esc(d.sev)}"><h3>${esc(d.t)}<span>${esc(d.sev)}</span></h3><p>${esc(d.p)}</p><p class="i">${esc(d.i)}</p></div>`).join("");
 }
 
+// ===== [B] big world events =====
+const EV_LBL = { semua: "Semua", kerusuhan: "Kerusuhan", perang: "Perang", politik: "Politik", korporat: "Perusahaan", transportasi: "Penerbangan", bencana: "Bencana", siber: "Siber", keuangan: "Keuangan", kesehatan: "Kesehatan", energi: "Energi", indonesia: "Indonesia" };
+const ST_LBL = { berlangsung: "masih berlangsung", mereda: "mulai mereda", selesai: "sudah selesai" };
+const SEV_RANK = { tinggi: 0, sedang: 1 };
+function renderEvents() {
+  const A = [...(S?.events || [])].sort((a, b) => (SEV_RANK[a.sev] ?? 2) - (SEV_RANK[b.sev] ?? 2) || String(b.time).localeCompare(String(a.time)));
+  $("ev-agent").innerHTML = A.length ? A.map((e) => {
+    const url = /^https:\/\//.test(e.url || "") ? e.url : null;
+    return `<article class="ev" data-sev="${esc(e.sev)}"><div class="eh"><span>${esc(EV_LBL[e.cat] || e.cat || "peristiwa")}${e.status ? " · " + esc(ST_LBL[e.status] || e.status) : ""}</span><b>${e.sev === "tinggi" ? "dampak besar" : e.sev === "sedang" ? "dampak sedang" : "dampak kecil"}</b></div>
+      <h3>${url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(e.t)}</a>` : esc(e.t)}</h3><p>${esc(e.what || "")}</p>${e.impact ? `<p class="imp"><b>Dampak:</b> ${esc(e.impact)}</p>` : ""}${e.assets ? `<span class="as">${esc(e.assets)}</span>` : ""}<span class="dim mono" style="font-size:10.5px">${e.time ? esc(ago(e.time)) : ""}${e.src ? " · " + esc(e.src) : ""}</span></article>`;
+  }).join("") : `<p class="dim">Penjelasan agen muncul pada pembaruan analisis berikutnya (tiap 3 jam).</p>`;
+  const items = EV?.items || [];
+  $("t-ev").textContent = EV?.updatedAt ? "Google News · " + ago(EV.updatedAt) : "";
+  $("m-ev").textContent = items.length ? items.filter((e) => e.level === "besar").length + " peristiwa besar · 36 jam terakhir" : "";
+  const have = new Set(items.map((i) => i.cat));
+  if (evCat !== "semua" && !have.has(evCat)) evCat = "semua";
+  $("ev-cats").innerHTML = Object.keys(EV_LBL).filter((c) => c === "semua" || have.has(c)).map((c) => `<button type="button" data-c="${c}" aria-pressed="${c === evCat}">${EV_LBL[c]}</button>`).join("");
+  const list = items.filter((e) => evCat === "semua" || e.cat === evCat).slice(0, 12);
+  $("ev-auto").innerHTML = list.length ? list.map((e) => `<article class="ev auto" data-sev="${esc(e.level)}"><div class="eh"><span>${esc(EV_LBL[e.cat] || e.label)}</span><b>${esc(e.sources)} media</b></div>
+    <h3><a href="${esc(/^https:\/\//.test(e.url) ? e.url : "#")}" target="_blank" rel="noopener">${esc(e.title)}</a></h3>
+    <span class="dim mono" style="font-size:10.5px">${esc(e.src)} · mulai ${esc(ago(e.first))} · terbaru ${esc(ago(e.last))}</span>
+    <span class="as">Biasanya berdampak ke: ${esc(e.assets)}</span>
+    ${(e.more || []).length ? `<details><summary>${e.more.length} berita lain</summary>${e.more.map((m) => `<a href="${esc(/^https:\/\//.test(m.url) ? m.url : "#")}" target="_blank" rel="noopener">${esc(m.t)} <span class="mono">· ${esc(m.src)}</span></a>`).join("")}</details>` : ""}</article>`).join("") : `<p class="dim">Tidak ada peristiwa besar yang terdeteksi saat ini.</p>`;
+}
+$("ev-cats").addEventListener("click", (e) => { const b = e.target.closest("button[data-c]"); if (!b) return; evCat = b.dataset.c; renderEvents(); });
+
 const TOPIC_LBL = { semua: "Semua", geopolitik: "Geopolitik", "bank-sentral": "Bank sentral", "saham-as": "Saham AS", "ai-teknologi": "AI", kripto: "Kripto", emas: "Emas", china: "China", indonesia: "Indonesia" };
 function renderFlow() {
   const items = HL?.items || [];
@@ -1486,7 +1540,7 @@ document.addEventListener("keydown", (e) => {
   const typing = /INPUT|TEXTAREA|SELECT/.test(document.activeElement?.tagName || "");
   if (e.key === "/" && !typing) { e.preventDefault(); $("cmd").focus(); return; }
   if (e.key === "Escape") { if (!$("detail").hidden) closeDetail(); if (document.activeElement === $("cmd")) $("cmd").blur(); return; }
-  if (!typing && !e.ctrlKey && !e.metaKey && !e.altKey) { const s = SECTIONS.find((x) => x[0] === e.key); if (s) go(s[2]); }
+  if (!typing && !e.ctrlKey && !e.metaKey && !e.altKey) { const s = SECTIONS.find((x) => x[0] === e.key.toUpperCase()); if (s) go(s[2]); }
 });
 
 // ===== analyst =====
@@ -1556,7 +1610,7 @@ setMode(simple, false);
 
 function renderAll(flash) {
   if (!S?.model?.assets?.length) return;
-  renderSimple(); renderLive(); renderTicker(); renderTop(); renderWire(); renderFlow(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); registerStocks(); renderTrack(); renderBacktest(); renderStocks(); renderCalendar(); renderDetail(); renderPortfolio(); renderPA();
+  renderSimple(); renderLive(); renderTicker(); renderTop(); renderWire(); renderEvents(); renderFlow(); renderTabs(); renderCycles(); renderSignals(); renderMatrix(); renderAlloc(); renderStress(); renderExpected(); registerStocks(); renderTrack(); renderBacktest(); renderStocks(); renderCalendar(); renderDetail(); renderPortfolio(); renderPA();
   const key = JSON.stringify([S.model, (S.horizons || []).map((h) => (h.sc || []).map((s) => s.p))]);
   if (key !== lastModel || !sim) { lastModel = key; runSim(); }
   if (flash) { const el = $("kondisi"); el.classList.remove("flash"); void el.offsetWidth; el.classList.add("flash"); }
@@ -1571,13 +1625,14 @@ async function getJSON(name) {
   return null;
 }
 async function refresh(first) {
-  const [snap, mkt, fc, hl, al, bt] = await Promise.all([getJSON("snapshot.json"), getJSON("market.json"), getJSON("forecasts.json"), getJSON("headlines.json"), getJSON("alerts.json"), getJSON("backtest.json")]);
+  const [snap, mkt, fc, hl, al, bt, ev] = await Promise.all([getJSON("snapshot.json"), getJSON("market.json"), getJSON("forecasts.json"), getJSON("headlines.json"), getJSON("alerts.json"), getJSON("backtest.json"), getJSON("events.json")]);
   let changed = false;
   if (snap?.model?.assets?.length) { changed = !S || snap.updatedAt !== S.updatedAt; S = snap; }
   if (mkt?.quotes) { changed = changed || !MKT || mkt.updatedAt !== MKT.updatedAt; MKT = mkt; }
   if (fc?.items) { changed = changed || !FC || fc.updatedAt !== FC.updatedAt; FC = fc; }
   if (hl?.items) { changed = changed || !HL || hl.updatedAt !== HL.updatedAt; HL = hl; }
   if (al?.items) { const ch = !AL || al.updatedAt !== AL.updatedAt; AL = al; if (ch) { renderAlerts(); checkNewAlerts(); } }
+  if (ev?.items) { changed = changed || !EV || ev.updatedAt !== EV.updatedAt; EV = ev; }
   if (bt?.coverage) { changed = changed || !BT || bt.updatedAt !== BT.updatedAt; BT = bt; }
   if (S) checkPA();
   if (S && (changed || first)) renderAll(!first && changed);

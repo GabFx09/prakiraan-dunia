@@ -4,6 +4,8 @@ Sources, checked every run of the market workflow (~15 min):
   1. Price shocks from data/market.json (big daily moves).
   2. Major-news alerts written by the Claude agent in data/snapshot.json `alerts`.
   3. A jump of 8+ points in the agent's global risk index.
+  4. Big world events from data/events.json (scripts/fetch_events.py): a story
+     reported by EVENT_MIN_SOURCES+ different outlets, still fresh.
 
 New alerts are sent once to the owner's Kabar app (https://gabfx09.github.io/kabar/),
 channel "Prakiraan Dunia", using kabar.py from the GabFx09/kabar repo. Needs the
@@ -103,6 +105,48 @@ def agent_alerts(snap):
     return out
 
 
+EVENT_MIN_SOURCES = 6
+EVENT_FRESH = timedelta(hours=6)
+EVENT_CAT = {"kerusuhan": "Kerusuhan", "perang": "Perang/militer", "politik": "Politik", "korporat": "Perusahaan besar",
+             "transportasi": "Penerbangan/transportasi", "bencana": "Bencana", "siber": "Siber/gangguan sistem",
+             "keuangan": "Keuangan", "kesehatan": "Kesehatan", "energi": "Energi", "indonesia": "Indonesia"}
+
+
+def _words(t):
+    import re  # noqa: PLC0415
+    return {w for w in re.findall(r"[a-z0-9]{4,}", t.lower())}
+
+
+def event_alerts(events, known, now):
+    """Big stories from the automatic detector; skip ones already alerted under another id."""
+    out = []
+    old = [_words(i["title"]) for i in known if i.get("kind") == "peristiwa"]
+    for e in events.get("items", []):
+        # Indonesian search pools many small local outlets, so it needs more of them
+        if e.get("sources", 0) < (10 if e.get("cat") == "indonesia" else EVENT_MIN_SOURCES):
+            continue
+        try:
+            last = datetime.strptime(e["last"][:19], "%Y-%m-%dT%H:%M:%S").replace(tzinfo=timezone.utc)
+        except Exception:  # noqa: BLE001
+            continue
+        if now - last > EVENT_FRESH:
+            continue
+        w = _words(e["title"])
+        if any(len(w & o) >= 3 for o in old):
+            continue
+        old.append(w)
+        more = "; ".join(f"{m['t']} ({m['src']})" for m in (e.get("more") or [])[:2])
+        out.append({
+            "id": "ev-" + str(e["id"]), "time": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "level": "kritis" if e["sources"] >= 2 * EVENT_MIN_SOURCES else "penting", "kind": "peristiwa",
+            "title": f"🌍 {EVENT_CAT.get(e.get('cat'), 'Peristiwa')}: {e['title']}"[:140],
+            "body": f"Diberitakan {e['sources']} media ({e.get('src', '')}). Biasanya berdampak ke: {e.get('assets', '-')}."
+                    + (f" Berita lain: {more}" if more else ""),
+            "url": e["url"] if str(e.get("url", "")).startswith("https://") else SITE + "#peristiwa",
+        })
+    return out[:3]
+
+
 def send_kabar(batch):
     """Send alerts to Kabar in one write (one combined push notification)."""
     sys.path.insert(0, KABAR_LIB)
@@ -111,7 +155,7 @@ def send_kabar(batch):
     for a in batch:
         icon = "🔴" if a["level"] == "kritis" else "🟠"
         isi = (a.get("body") or "").strip()
-        isi += ("\n\n" if isi else "") + f"_{a['level'].upper()} · {a['kind']}_ · Buka: {SITE}#peringatan"
+        isi += ("\n\n" if isi else "") + f"_{a['level'].upper()} · {a['kind']}_ · Buka: {SITE}#{'peristiwa' if a['kind'] == 'peristiwa' else 'peringatan'}"
         msgs.append({"judul": f"{icon} {a['title']}", "isi": isi, "url": a.get("url") or SITE,
                      "prioritas": "tinggi" if a["level"] == "kritis" else "normal"})
     kabar.kirim_banyak(msgs, saluran=CHANNEL)
@@ -123,6 +167,7 @@ def main():
     state = load("alerts.json", {"items": [], "sent": []})
     items = {i["id"]: i for i in state.get("items", [])}
     fresh = price_alerts(market, now) + risk_alert(snap) + agent_alerts(snap)
+    fresh += event_alerts(load("events.json", {}), list(items.values()), now)
     added = [a for a in fresh if a["id"] not in items]
     for a in added:
         items[a["id"]] = a
