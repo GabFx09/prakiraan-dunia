@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T21:08:06Z",
+ "updatedAt": "2026-11-14T21:22:42Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "FDD's Long War Journal",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU29yWi01YXpaNzh3QXNFOE5HaWZCLTZ0Wm5JdU5mQkg2VWktVDBaWEdqRmVTajZpdG9xUGYtQ0o0dkpJZzdxZm1lMVppdEN0VlVlWjNWS19QNXhjNEM4TFdFbkJwMkxfZVlqRXFmVnd6Wl9yTUdtMTV2TjlLR2Q0NjFCS3FORW9MUXVyQWY0NDl4VGlTTVFwV0JfdDVrMmxjc3NwZzFLWHlTNGwzU1dlT2E5WQ?oc=5",
    "sources": 9,
-   "recent6h": 3,
-   "score": 10.5,
+   "recent6h": 1,
+   "score": 9.5,
    "level": "besar",
    "first": "2026-11-14T03:23:42Z",
    "last": "2026-11-14T20:02:31Z",
@@ -53,9 +53,9 @@
    "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
    "src": "AP News",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
-   "sources": 9,
+   "sources": 8,
    "recent6h": 0,
-   "score": 9.0,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-13T19:59:08Z",
    "last": "2026-11-14T12:40:30Z",
@@ -96,14 +96,20 @@
    "title": "Old air traffic control equipment regularly disrupts US flights",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
-   "sources": 5,
+   "sources": 6,
    "recent6h": 0,
-   "score": 5.0,
-   "level": "sedang",
+   "score": 6.0,
+   "level": "besar",
    "first": "2026-11-13T21:41:05Z",
-   "last": "2026-11-14T02:45:00Z",
+   "last": "2026-11-14T03:12:45Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "What we know so far about why US flights were grounded",
+     "src": "ABC News & Headlines – Australian Broadcasting Corporation",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzY1NzA2VEo2c04yRXhhN0VSUTdrQ1A2alRyM3JTNGRTZVltZUVsRUNxWVlseDdZeXAzMHI2TTdhZ0tNV0tydGpPUDF5MXgzQll5YTRIelkybVpjRk1Pekg0STJ0eW9PakJLSUs0SUVEY0xSMkw5UXZ3eVEyWU5ZSEJTUTd5Rm5iVnp2WnB1Z2JzbkRMR3J3?oc=5",
+     "t_id": "Apa yang kita ketahui sejauh ini tentang mengapa penerbangan AS dihentikan"
+    },
     {
      "t": "Do U.S. air traffic control and email blackouts after China AI espionage have a common answer?",
      "src": "Fortune",
@@ -121,12 +127,6 @@
      "src": "FTN news",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSW42TnRaSWxGNjJqZUFJWWIxNi1fYlgwbF90WXFvUHhaS0d0WXV3TEtWY0VtcVdpczlpUXVoYWVKR2IzZWFzU2s5YzJYOTRkcGlQOEJWQWpDbzRteVdLb3lzdXJ4YktlT0hETmxNbVhQZEJlakpDZEEtQVduUVRVd3lKVG1VdFdlc2NzblhPRUFtcXN0?oc=5",
      "t_id": "Penerbangan Dihentikan di Seluruh AS saat FAA Melaporkan Kegagalan Komunikasi"
-    },
-    {
-     "t": "Flights halted at airports across U.S. due to air traffic control communications problems",
-     "src": "WBUR",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYTlSNUFWQzdSUk5QUHNuZU8zcjdtbDM4MzREMW9MLTBMeE1qdkQwTEw5TWx6Z0xZTkRwb0VNbzVqODNoSXRKUXhMMlQxZVF2ZjJDdTFqT2p4QTE4RXdPa3ZkbjNMZF9XTUFCdDhrUVVHVXpXdUJiTlpocEx2R3Y3aWNmbWgtSWp2VWtTdHUwU2s1X2t4elUwRE5ySzFpTVViRWYyM0xyYkNfWlNWTElEYVVSNzhWcDdneUE?oc=5",
-     "t_id": "Penerbangan dihentikan di bandara di seluruh AS karena masalah komunikasi kontrol lalu lintas udara"
     }
    ],
    "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
@@ -294,7 +294,7 @@
    "lang": "en",
    "title": "Kenya’s nine Ebola cases trace to single DRC entry as Africa CDC warns outbreak is far from over",
    "src": "Daily Nation",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTDQ0d2pYWjJGLWlWaW44MmhUbklvNUh0NXJUMlhwT29waThPN3M5MHZ6VGcxRm1VMjlDeUliYnZDZ25WYjdYRmpfZS0yT1pLUlNiYkZnUTVSTy10ak14Y1g0MTZpdHBJN251aEQ1OGEtdE9VQ2NoT2ZNczhBWGJwSWhPZXE0RHhUU24taVByUlJlY3BSSkdsM1dIRXN2OEtrMVFTdjN2d01qVlBzTm1Hc21PVFQxbkpacXl3NDEtcWRiaGZUdmdscWUzYU1PWVludV9aUW1VUU9IZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjV1Y0JFcWVBYTNNR0RlVVpkMmJfVWd6c3c0TGZTV0o0M2E5eXNnd0F5eUo5RXpBV2ZYSzZuOEZOcU43VEtBTEEtdXFycFRMTHMwMGREVG9QVUdUa1NzZzdFUXJ5OHU2VUY0UzktM3YxLVlmS3BnTldiYlAxRmpLcEJJWlRsSC1seU9Xc01zM2VNV25fZ0RGTTJvSzBsLV84T0M1MG9HcksxVDJhbEdfa0pNUmotWWl5cXNXSE41ZjM3VE82cVFwR1BIbkh1MVFjVDRkOU53?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
