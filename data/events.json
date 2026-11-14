@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T19:25:32Z",
+ "updatedAt": "2026-11-14T19:40:10Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -25,12 +25,6 @@
      "t_id": "Ground stop FAA telah membatalkan lebih dari 12.500 penerbangan AS, sebelum kehancuran liburan Southwest pada tahun 2022"
     },
     {
-     "t": "The Latest: FAA lifts nationwide ground stop on flights that halted travel across the US",
-     "src": "WHEC.com",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTGJiTlNNaG11cE13Y21fTlJheGw4c18zRkF0aW8tdFZGMTJrZjJHNXZJT2YxbC0xRDk5OUJSbEI0VHR2OVpYMDlHZWw5TF9peHhhR2NLWks0ZXpOc0g2U01zSmN1RzB2cFBCRjRqbkswWlhwZWNUNVdtSXE1THJhNlQ3RHRCeFNyd3NmSUxIWldLYnE3Y3hpazNleFBOYWZOX1AtZG5Ga1ZUQXdqSm55WU9US2M2VzJNdDgwaXQ3SElMN3RiaTNlYmdTWkN2YnlBSmJHSjdLSVBzeUNxQnhZ?oc=5",
-     "t_id": "Yang Terbaru: FAA mencabut pemberhentian sementara secara nasional pada penerbangan yang menghentikan perjalanan melintasi AS"
-    },
-    {
      "t": "US lifts nationwide ground stop after communications outage disrupts thousands of flights",
      "src": "Global Village Space",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWNaMFdNOUtLdmtySE53eGhSOVVfZDR3aXRMbHMwZjhBeGpOTWt3aVFVV3B0V2J1eTMxZFF6dVgwWkowTW5Sb0QyVjE2LWJYa2JVNFQxd3duVVhPcUVKSlFEUlROVlM5U0hRdlJOaEN4TWs2eHF4bXVxcGtqczB6eDF1N1o1Uld4OHNDbkhRZ0t5UWxWMjVUUmtfRTFYOHRMc2NqUTJ2Vy1iUTZHUWNPMXdnQW4xVEtCVzB0Q3hhV1ZacTQ?oc=5",
@@ -41,6 +35,12 @@
      "src": "https://www.thetraveler.org/",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRS1UNUwtN0pXd0pRd05zSlVjdWx5OVNzLVVsTTJmd3VQRktvQVlDT0FfQS1pMjIyNDRkOEx2Q1ladHJxZzdsckdvUVpoZjFSSU5samRHVGJQbE5nZXpGY2pBSDFQVi1TVU1nZGFlbnkxdU14T21pN21XazNQbHp3b3REcUpSb0dy?oc=5",
      "t_id": "Ground Stop FAA Nasional Membuat Wisatawan Terdampar"
+    },
+    {
+     "t": "FAA outage leads to wild day of lines, canceled flights at Hartsfield-Jackson",
+     "src": "The Atlanta Journal-Constitution",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmtyUW1GQ2ZCSDFsZDN3dHBPcWpOcFhleWN4eld0YXRmOVBNQmFRZFhHTnMwMjdMcWE2TzkydEZkTEt6eGNMOTN5azFTVFR1Tkl6OHlIZDRBN1RZV2FxODJjMW1oTEdRc19EUldSYUdhbWlUcXBHc29zRVVvcHZPX0lwdHJfWUdzQVNWSVZiZzA3dllHN2RwQlY4YmZUYmxoWDR2LUhCU2lyOC1kRVE?oc=5",
+     "t_id": "Pemadaman FAA menyebabkan antrian yang liar, pembatalan penerbangan di Hartsfield-Jackson"
     }
    ],
    "title_id": "Pemerintahan Trump menyalahkan sistem yang ‘kelebihan muatan’ sebagai penyebab penghentian penerbangan setelah FAA mengizinkan penerbangan dilanjutkan"
@@ -132,6 +132,43 @@
    "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
   },
   {
+   "id": "siber-202611131741-4d50",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Microsoft’s Global Outage and Fixes: What We Know",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-13T17:41:00Z",
+   "last": "2026-11-14T13:13:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Software company with thousands of Fortune 500 clients joins Microsoft in experiencing major outage",
+     "src": "Fox Business",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1NkQ0k0VmN4X2JGY05vV3YxX3hFS0x1U2Q4Z0FOdWxGTm5ReGRabEhCdWhZOHZHNkJPa1BtMmJKVE1BQW40eWpwenZHV0xtUGZLWkpELVp0ellOMXVMVnVRa3N1NXBLdDkySjRfalFKTWxfbFhtc3Y5eFJyWnZycFBNZjgtYUdhdUNILWlnUWJXdmhaTVJueG9QV0hta21JVFc5dmZYTExya2hicERSQVRJNHlJbFhzQ19zWGxWb2VyTzVHTmfSAcsBQVVfeXFMTXFScVp1TUNNWXJkVlNQSEUxMlh2aXRxeXVpeUFxLWJCMG1Fdk5CbmJ1emR1czI1ak1VWkJWVGhpRDRUSkhzeTExZkdTYmxQR1NRS3ZFTGJDQjgwRW1rYmE1N2NsZVd5RExOd3hXeUo4RjZ4dE84d0lPWUJIa0NzSW5LTEtrWWp0TjdQXzEwWWZCdDVVd2tLcGhXN0lNRkc5blprRGQ2bDZIbS1qempyZjQxSEtpTTJrNlFvQV81Z1F6QlV1Rm5pb2UzTmc?oc=5",
+     "t_id": "Perusahaan perangkat lunak dengan ribuan klien Fortune 500 bergabung dengan Microsoft dalam mengalami pemadaman besar-besaran"
+    },
+    {
+     "t": "What Is Going On? Microsoft Goes Down, FAA Grounds Airlines, and National Weather Service Is Denying Reports of Another Nationwide Outage",
+     "src": "OFFGRID Survival",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tR3M0TXZmZC05X2xaVmVJV1pZcDh3OWRubEYzN0RJZHU5ekNLaHpQV19tRWh4OVc5dXlIOVRXWkZydHZCYkV4N2JtRlN6R3FoRHNKSnBHb0VobGlmcWhXR2R2ZXBJZm1tSng2Z01Ob1k?oc=5",
+     "t_id": "Apa yang sedang terjadi? Microsoft Turun, FAA Grounds Airlines, dan Layanan Cuaca Nasional Menyangkal Laporan Pemadaman Nasional Lainnya"
+    },
+    {
+     "t": "FAA grounds all US departures amid nationwide communications outage",
+     "src": "Ynetnews",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tUzhuMlhTcmxlbGVMSTE5SUdiaFcxUzQybHY2aURsb19xNEQzQnJPb0Y2YmoxTmxzSHV4OW5zZTVGMmsyWVZDUnVrSzBmZDdTYTZwc21Cdw?oc=5",
+     "t_id": "FAA melarang semua keberangkatan dari AS di tengah pemadaman komunikasi nasional"
+    }
+   ],
+   "title_id": "Gangguan dan Perbaikan Global Microsoft: Yang Kami Ketahui"
+  },
+  {
    "id": "indonesia-202611132200-8d75",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -193,37 +230,6 @@
    ]
   },
   {
-   "id": "siber-202611131741-4d50",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft’s Global Outage and Fixes: What We Know",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-13T17:41:00Z",
-   "last": "2026-11-14T13:15:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft Outage: Aviation Crisis Deepens After Nationwide Flight Shutdown Exposes Aging Air Traffic System",
-     "src": "International Business Times, Singapore Edition",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM25MYXNvNTFlOURaazZ2eTRUTG1YQVAwVkFOY0ZpRjR3MVlNN01CVlpQcGt4R0NlTW9ickt0SFJ0cllxNHgyeHptUnZaTFY3OWZYN3ItU0JVTmU1UGNqMmhhZFFQSHRvV0I5ek5ReGd1cllNTjlQWThwT0dtX0txaTBIOXh2cUduX2hBVDZ1QXJvT1hvLTJTaUFDb3gyS3BDdnJfS0swQnBpUXZpaTh1MnNiRGdnMUVTcmhONg?oc=5",
-     "t_id": "Pemadaman Microsoft: Krisis Penerbangan Mendalam Setelah Penghentian Penerbangan Secara Nasional Mengungkapkan Sistem Lalu Lintas Udara yang Menua"
-    },
-    {
-     "t": "Microsoft outage exposes risks of growing reliance on tech providers",
-     "src": "Northeastern Global News",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5WU9HTEJmT0x6aW56Y0NCa181TldXdUJrM0ItOU9KZ01Ybmk2NDZoYnpFTTdQSnYtVlRuYkhjRmNybDQ3eks0TkdQZFFuOG1NWHVrdldib3MtZkh5OXBSZ1ltN25LalNfNFY3SnBtU1JJWnlPYnJrWFpFZw?oc=5",
-     "t_id": "Penghentian layanan Microsoft menimbulkan risiko meningkatnya ketergantungan pada penyedia teknologi"
-    }
-   ],
-   "title_id": "Gangguan dan Perbaikan Global Microsoft: Yang Kami Ketahui"
-  },
-  {
    "id": "indonesia-202611131421-1e33",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -250,6 +256,31 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2Jsel9GYmFIM3MzV0pieVJ0YTFuM29lX0ctOTJfOE5UT2IyakxyZ2ZKdVNOZnUzZDBaWXdMS3ZsMjg1RkU3MTc4V3R0NEpwVWl0TDh3Q0dpNk9veFdnYjg5UVVwYWNjX21VdXExdGJad1hZM200LVBVRHhrSkFoeGlzdnhnOWxNVGx4cm1ZaEE4N2NIYWpxNlFtczgxazY5b1BiMWNyem1jV2RndnVrcFRISFZUY05KX3h6NmRBUDI5Z9IBxwFBVV95cUxPZDFVT1ZzZHk1cDA0TTZENlczREFPNy1aVnFCcXJLdldTVGswbE1VbEduWVllZXRsRmkydnNXUTUxZ2p5U2RhRjdSdU1fOEJLbEJ5NGR3WGx5bHZNLU1ZSW5QX29GeGdTdUxfYmJBdjRJV0hnV01xR1JyZ1FnSWk5UmVUNDlRdHJLY01kT2tIQzk4bWZFa1BUdHNsS3JGYTBFU2c5TVZlVnJ3ZXBlSFlzY0NqQmZ5U2xyZEJLa3VTNkVyZ3VTZXhJ?oc=5"
     }
    ]
+  },
+  {
+   "id": "perang-202611140931-e23c",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Damaged Russian Warship Naro-Fominsk Unable to Reach Port Alone, Estonian Military Says",
+   "src": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pVmhIUVdMa2tRWkNxTEJ6enVvSjYyQ3FqZ2QxUWQ4MHZsaU1TX3FJXzdGQndXTGJuU01ManpqMEdScWRMNDN2ZUZwMA?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-14T09:31:31Z",
+   "last": "2026-11-14T11:58:07Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Ukrainian Drones Leave Russian Missile Warship Unable to Sail, With Crew Dead and Wounded",
+     "src": "UNITED24 Media",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTJEdXBCVEpyWEt3dEx6REJsNDdqM3FSZERJUklfLU1ycEhWSU93cURqNzY2Wm9WaXVIbXFKZGxqMi0zakFBcGx1VldpNVAzZmdXLXg1d1hpbWxpWFBxMHZ6NmxpS3BHTk9FZkZaOV9NSjhVd21HbUVMbUlOX3ZxZk5UaF91U1NxSXlYWGpaQ29pRFNFUlFTQUkxdVlMWjVVQ1ppTThWSERicnEzX0VVbjZfc1Q1dHlzS0E0OGxXSmhhMkVUTUJlRjE1WThPWWFx?oc=5",
+     "t_id": "Drone Ukraina Membuat Kapal Perang Rudal Rusia Tidak Dapat Berlayar, Dengan Awaknya Meninggal dan Terluka"
+    }
+   ],
+   "title_id": "Kapal Perang Rusia Naro-Fominsk yang Rusak Tidak Dapat Mencapai Pelabuhan Sendirian, Kata Militer Estonia"
   },
   {
    "id": "siber-202611131741-4d50",
@@ -283,7 +314,7 @@
    "lang": "en",
    "title": "Kenya’s nine Ebola cases trace to single DRC entry as Africa CDC warns outbreak is far from over",
    "src": "Daily Nation",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjV1Y0JFcWVBYTNNR0RlVVpkMmJfVWd6c3c0TGZTV0o0M2E5eXNnd0F5eUo5RXpBV2ZYSzZuOEZOcU43VEtBTEEtdXFycFRMTHMwMGREVG9QVUdUa1NzZzdFUXJ5OHU2VUY0UzktM3YxLVlmS3BnTldiYlAxRmpLcEJJWlRsSC1seU9Xc01zM2VNV25fZ0RGTTJvSzBsLV84T0M1MG9HcksxVDJhbEdfa0pNUmotWWl5cXNXSE41ZjM3VE82cVFwR1BIbkh1MVFjVDRkOU53?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTDQ0d2pYWjJGLWlWaW44MmhUbklvNUh0NXJUMlhwT29waThPN3M5MHZ6VGcxRm1VMjlDeUliYnZDZ25WYjdYRmpfZS0yT1pLUlNiYkZnUTVSTy10ak14Y1g0MTZpdHBJN251aEQ1OGEtdE9VQ2NoT2ZNczhBWGJwSWhPZXE0RHhUU24taVByUlJlY3BSSkdsM1dIRXN2OEtrMVFTdjN2d01qVlBzTm1Hc21PVFQxbkpacXl3NDEtcWRiaGZUdmdscWUzYU1PWVludV9aUW1VUU9IZw?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
@@ -300,31 +331,6 @@
     }
    ],
    "title_id": "Sembilan kasus Ebola di Kenya berasal dari Kongo, sementara CDC di Afrika memperingatkan bahwa wabah ini masih jauh dari selesai"
-  },
-  {
-   "id": "siber-202611132123-0ba9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "What Is Going On? Microsoft Goes Down, FAA Grounds Airlines, and National Weather Service Is Denying Reports of Another Nationwide Outage",
-   "src": "OFFGRID Survival",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tR3M0TXZmZC05X2xaVmVJV1pZcDh3OWRubEYzN0RJZHU5ekNLaHpQV19tRWh4OVc5dXlIOVRXWkZydHZCYkV4N2JtRlN6R3FoRHNKSnBHb0VobGlmcWhXR2R2ZXBJZm1tSng2Z01Ob1k?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-13T21:23:51Z",
-   "last": "2026-11-14T01:54:18Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "FAA grounds all US departures amid nationwide communications outage",
-     "src": "Ynetnews",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tUzhuMlhTcmxlbGVMSTE5SUdiaFcxUzQybHY2aURsb19xNEQzQnJPb0Y2YmoxTmxzSHV4OW5zZTVGMmsyWVZDUnVrSzBmZDdTYTZwc21Cdw?oc=5",
-     "t_id": "FAA melarang semua keberangkatan dari AS di tengah pemadaman komunikasi nasional"
-    }
-   ],
-   "title_id": "Apa yang sedang terjadi? Microsoft Turun, FAA Grounds Airlines, dan Layanan Cuaca Nasional Menyangkal Laporan Pemadaman Nasional Lainnya"
   },
   {
    "id": "kesehatan-202611140101-80ba",
