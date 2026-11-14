@@ -1,7 +1,50 @@
 {
- "updatedAt": "2026-11-14T19:54:47Z",
+ "updatedAt": "2026-11-14T20:06:34Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "perang-202611140323-076c",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Houthis sustain missile and drone attacks across Saudi Arabia",
+   "src": "FDD's Long War Journal",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU29yWi01YXpaNzh3QXNFOE5HaWZCLTZ0Wm5JdU5mQkg2VWktVDBaWEdqRmVTajZpdG9xUGYtQ0o0dkpJZzdxZm1lMVppdEN0VlVlWjNWS19QNXhjNEM4TFdFbkJwMkxfZVlqRXFmVnd6Wl9yTUdtMTV2TjlLR2Q0NjFCS3FORW9MUXVyQWY0NDl4VGlTTVFwV0JfdDVrMmxjc3NwZzFLWHlTNGwzU1dlT2E5WQ?oc=5",
+   "sources": 9,
+   "recent6h": 4,
+   "score": 11.0,
+   "level": "besar",
+   "first": "2026-11-14T03:23:42Z",
+   "last": "2026-11-14T20:02:31Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Gulf States Demand Full Compensation from Iran for Missile and Drone Attack Damage",
+     "src": "UrduPoint",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1E3QlhmRE9MRE43MXA1UjRLdWFzRWFXZXFudUhfakxfQ1ZqUzQ2bEtNaEpXNWFtVDllXzhhOVFCNEJRbzN4VWxDUFpTTlVTamswT0ljcDFIclk1S2JSa2JLOEJzcGNYbjJ0Mm81aXB0UGdsVnhRS0pxNnJudE1zaV9UOTRYQ211dXVXQVJoV1BwWERwWkFYamJwY3AtWFE?oc=5",
+     "t_id": "Negara-negara Teluk Menuntut Kompensasi Penuh dari Iran atas Kerusakan Serangan Rudal dan Drone"
+    },
+    {
+     "t": "Houthis Launch Missile Attacks on Southern Forces' Military Camps in Aden",
+     "src": "مركز سوث24",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iLW5hVmRhR3NTUWlWSUJxdk54ZVltSUE0cTBydjRBSk1qaVFGeGRIMlJzcDhzaFVCdFgtYlFqR3dEQ0d0RWxwQUFqRG5mclVQeWhoN1Jn?oc=5",
+     "t_id": "Houthi Melancarkan Serangan Rudal ke Kamp Militer Pasukan Selatan di Aden"
+    },
+    {
+     "t": "Estonian military reveals details of Ukrainian drone strike on Russian missile ship in Gulf of Finland",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGRScllYSnJ0cE9ZbEJnSmpMVWhhbDdzVzlfSXBXazVvNTVKNW1kdkYyWEw3V2ZQSUhWeTdLMU0zeU5pYzBQLS1keDNZVnUyVmhWWlFaZ0dfbjhXeWRMVmFwYjRjUENZeFh0UnFFbEJIcUMwbEtYd0stTGpldHRLSDFObWlCc2I5aTBycElweFZLRjhzbGFPb0pGajZxZG92ZDMxWU14Y9IBowFBVV95cUxNbF9vbHZVdl9QMURRNF9xc0dSUkNMUk9ta19xNFFkX3pHTlcwVk96eHI4RXJaaXZIdkVtNUZ6UmE4NWExaWNUYlFpekFONC0yQy1ZTFlMMFdLdHhWSDR0bjBiS3czV0tZci01X0hTckxjZ19SdlByS1N2NDZEWGIzdk1QQVJqdFRjc0hlT2tHcVlVMnlfZ1lZRzZQS3BXYXRVcGo0?oc=5",
+     "t_id": "Militer Estonia mengungkap rincian serangan drone Ukraina terhadap kapal rudal Rusia di Teluk Finlandia"
+    },
+    {
+     "t": "Propulsion Lost, Casualties Reported: Estonia Details Consequences of Ukrainian Drone Strike on Russian Missile Ship in Gulf of Finland",
+     "src": "Мілітарний",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1ctcXFtZWZ5OUVTZ19iTlA5SWJEZThlTlRWVEdaWFlhazgtdmViUmNOMHg2bU14RFRZdkU5amN3VlhZWU5oRXZGRG5NV1ZfUWVzQjhuaXVaZTdrSGg0cmNVM3oxZXRlQzU0MjMzTmpRb2FmQU1WZ3FtU0UyYjE2NGNBZG0wY1NmODFWZjNpd2ZUYThJY3BYeEo4TUYtYlBx?oc=5",
+     "t_id": "Propulsi Hilang, Korban Dilaporkan: Estonia Merinci Konsekuensi Serangan Drone Ukraina terhadap Kapal Rudal Rusia di Teluk Finlandia"
+    }
+   ],
+   "title_id": "Houthi terus melancarkan serangan rudal dan drone di seluruh Arab Saudi"
+  },
   {
    "id": "transportasi-202611131959-a1f2",
    "cat": "transportasi",
@@ -46,49 +89,6 @@
    "title_id": "Pemerintahan Trump menyalahkan sistem yang ‘kelebihan muatan’ sebagai penyebab penghentian penerbangan setelah FAA mengizinkan penerbangan dilanjutkan"
   },
   {
-   "id": "perang-202611140323-7173",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Gulf States Demand Full Compensation from Iran for Missile and Drone Attack Damage",
-   "src": "UrduPoint",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1E3QlhmRE9MRE43MXA1UjRLdWFzRWFXZXFudUhfakxfQ1ZqUzQ2bEtNaEpXNWFtVDllXzhhOVFCNEJRbzN4VWxDUFpTTlVTamswT0ljcDFIclk1S2JSa2JLOEJzcGNYbjJ0Mm81aXB0UGdsVnhRS0pxNnJudE1zaV9UOTRYQ211dXVXQVJoV1BwWERwWkFYamJwY3AtWFE?oc=5",
-   "sources": 8,
-   "recent6h": 3,
-   "score": 9.5,
-   "level": "besar",
-   "first": "2026-11-14T03:23:42Z",
-   "last": "2026-11-14T15:18:31Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Houthis Launch Missile Attacks on Southern Forces' Military Camps in Aden",
-     "src": "مركز سوث24",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iLW5hVmRhR3NTUWlWSUJxdk54ZVltSUE0cTBydjRBSk1qaVFGeGRIMlJzcDhzaFVCdFgtYlFqR3dEQ0d0RWxwQUFqRG5mclVQeWhoN1Jn?oc=5",
-     "t_id": "Houthi Melancarkan Serangan Rudal ke Kamp Militer Pasukan Selatan di Aden"
-    },
-    {
-     "t": "Estonian military reveals details of Ukrainian drone strike on Russian missile ship in Gulf of Finland",
-     "src": "The New Voice of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGRScllYSnJ0cE9ZbEJnSmpMVWhhbDdzVzlfSXBXazVvNTVKNW1kdkYyWEw3V2ZQSUhWeTdLMU0zeU5pYzBQLS1keDNZVnUyVmhWWlFaZ0dfbjhXeWRMVmFwYjRjUENZeFh0UnFFbEJIcUMwbEtYd0stTGpldHRLSDFObWlCc2I5aTBycElweFZLRjhzbGFPb0pGajZxZG92ZDMxWU14Y9IBowFBVV95cUxNbF9vbHZVdl9QMURRNF9xc0dSUkNMUk9ta19xNFFkX3pHTlcwVk96eHI4RXJaaXZIdkVtNUZ6UmE4NWExaWNUYlFpekFONC0yQy1ZTFlMMFdLdHhWSDR0bjBiS3czV0tZci01X0hTckxjZ19SdlByS1N2NDZEWGIzdk1QQVJqdFRjc0hlT2tHcVlVMnlfZ1lZRzZQS3BXYXRVcGo0?oc=5",
-     "t_id": "Militer Estonia mengungkap rincian serangan drone Ukraina terhadap kapal rudal Rusia di Teluk Finlandia"
-    },
-    {
-     "t": "Propulsion Lost, Casualties Reported: Estonia Details Consequences of Ukrainian Drone Strike on Russian Missile Ship in Gulf of Finland",
-     "src": "Мілітарний",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1ctcXFtZWZ5OUVTZ19iTlA5SWJEZThlTlRWVEdaWFlhazgtdmViUmNOMHg2bU14RFRZdkU5amN3VlhZWU5oRXZGRG5NV1ZfUWVzQjhuaXVaZTdrSGg0cmNVM3oxZXRlQzU0MjMzTmpRb2FmQU1WZ3FtU0UyYjE2NGNBZG0wY1NmODFWZjNpd2ZUYThJY3BYeEo4TUYtYlBx?oc=5",
-     "t_id": "Propulsi Hilang, Korban Dilaporkan: Estonia Merinci Konsekuensi Serangan Drone Ukraina terhadap Kapal Rudal Rusia di Teluk Finlandia"
-    },
-    {
-     "t": "Gulf states demand Iran pay compensation for missile and drone attacks",
-     "src": "Aaj English TV",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVm5wbC1MRDJvYTdweG1Ua3IzSGg4X2RKa1pFS3drNzFFNVV1ZVp2Y2tkUHo0Ukx6bGRsLXdFNUZMS0lQRnYzQnVKN0ZiRDZ6S285R2NBLXVsM1laMUNvOEJDMFBuVDZEcnZpVUFyTlZHaDl3YnkxYXBSNjBDbzd2S2t0MWkxR3BBNGFVYURJdjJhNVRqZjJ3UExRVlV5REZTeDd6dHRPNkxyd0xM?oc=5",
-     "t_id": "Negara-negara Teluk menuntut Iran membayar kompensasi atas serangan rudal dan drone"
-    }
-   ],
-   "title_id": "Negara-negara Teluk Menuntut Kompensasi Penuh dari Iran atas Kerusakan Serangan Rudal dan Drone"
-  },
-  {
    "id": "transportasi-202611132141-927a",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -96,20 +96,14 @@
    "title": "Old air traffic control equipment regularly disrupts US flights",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
-   "sources": 7,
+   "sources": 6,
    "recent6h": 0,
-   "score": 7.0,
+   "score": 6.0,
    "level": "besar",
    "first": "2026-11-13T21:41:05Z",
-   "last": "2026-11-14T09:36:13Z",
+   "last": "2026-11-14T02:45:00Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
-    {
-     "t": "Floppy disks behind US flight chaos? FAA's updates to Air Traffic Control may have caused old system to overload",
-     "src": "The Week",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVG50T3ZBSG5CdGkwc24za1FoZXpDZ25sY0RsQlpCT09OY3IxQUNGUlZYQk9vT09Yd042MVBNWklWWkVRVG9aWEJnbEZ4YWlLX053Sk80S213anpoeU9HXzZYa2xyb1A3OUZvME9WRlZuczA3M2pKczdtSEJYNkNEVmpQSG5BZk1SRGFScUZzb2xRQTgyMEY0QXoyY0Uxejh4UG5FN2JjMTZOaUJZR2dlZ0pIOU4ySjBFOTdBM01EWlhlS01BTVRKTkwxNUdyVGxfUFN0bExsTEsxOU1HbWY1R1BWb1FxNFI2TTFDR2wwT3dEdDFTdkpj0gH8AUFVX3lxTE9uMUNZZ1J2emxiLTVPR0E1OGdqU2xfVlpnMF9GbVR5b2dNRTN5RXVaU0Q0eUdCc084dkNyTkNkZW8tOVlURERnd1VVaXNCQU5CU2NDamNfX2xUTnhBYzI1dnVwaHEzaHhET3JtcWtCRXdQbVc5RjgxTmU3UTVUaFBkWE9ORjhJRDdhcTNKdkctOTJTeTFiMjRTdUh0cGJKLXZOc2lBdElhdTdMb1VVNGF1bHRXd0tkOC0tbEVGZmlIYklQaHpNVkUzX1N4NnV2UUJaZDVtVDZkMTZQb2RlcXNKNkZXYmlQQ0xDM2syWDBXVW9ZYTZwcnJjR090Zg?oc=5",
-     "t_id": "Floppy disk di balik kekacauan penerbangan AS? Pembaruan FAA pada Kontrol Lalu Lintas Udara mungkin menyebabkan sistem lama kelebihan beban"
-    },
     {
      "t": "Do U.S. air traffic control and email blackouts after China AI espionage have a common answer?",
      "src": "Fortune",
@@ -127,6 +121,12 @@
      "src": "OFFGRID Survival",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVlXOGYwd1JZSU1NNk1nVXQ1QzNfYjlpS3EtelVkRjRzWTFGVW4zYUFCQU94REtBLVJsR21LMHF3NExLMC0yUTZoUW5VNV82NWFDZkNfSXNDVDVYZzFFTWY2T2ZvTVRMQkw3dGlYWnpsSDZPbWx1aXhyYlZ1NzAyUHh0cnNqOU44ZHFZS2ZHcEJtb0RNMmhrNG5XeXNKUjRGR09yNkw2Ymw2WFYyb1JDSkxoUFM0RkEzY1Vwb0NkcXVob0RoZzI4?oc=5",
      "t_id": "FAA Menghentikan Setiap Penerbangan di Amerika karena Kegagalan Komunikasi Misterius Memicu Penutupan Nasional"
+    },
+    {
+     "t": "Flights Grounded Across US as FAA Reports Communications Failure",
+     "src": "FTN news",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSW42TnRaSWxGNjJqZUFJWWIxNi1fYlgwbF90WXFvUHhaS0d0WXV3TEtWY0VtcVdpczlpUXVoYWVKR2IzZWFzU2s5YzJYOTRkcGlQOEJWQWpDbzRteVdLb3lzdXJ4YktlT0hETmxNbVhQZEJlakpDZEEtQVduUVRVd3lKVG1VdFdlc2NzblhPRUFtcXN0?oc=5",
+     "t_id": "Penerbangan Dihentikan di Seluruh AS saat FAA Melaporkan Kegagalan Komunikasi"
     }
    ],
    "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
@@ -210,8 +210,8 @@
    "src": "tutur.co.id",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2NQU1VDX3ZFcFNNVzFkbnVtU3JRUFhPWEdNLTBIUVlGMVZtOHh2RDM5dHllZ0NIdU5aYlFtN3Q0YURhZ3pNT0V4eFliTmZFNnVoS3ozQXV6enFQaFdGZGZYS3Y4UWN3bG9LVHVFM1RvdEpoWlF4U29YR2xBVW9uek8wQnREUkVxRE5mZlY5V2ZHamxmV0V4eF85Q1dxY0VUTmlr?oc=5",
    "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
+   "recent6h": 0,
+   "score": 3.0,
    "level": "sedang",
    "first": "2026-11-14T09:45:00Z",
    "last": "2026-11-14T14:00:10Z",
@@ -253,6 +253,31 @@
    ]
   },
   {
+   "id": "perang-202611140931-e23c",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Damaged Russian Warship Naro-Fominsk Unable to Reach Port Alone, Estonian Military Says",
+   "src": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pVmhIUVdMa2tRWkNxTEJ6enVvSjYyQ3FqZ2QxUWQ4MHZsaU1TX3FJXzdGQndXTGJuU01ManpqMEdScWRMNDN2ZUZwMA?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-14T09:31:31Z",
+   "last": "2026-11-14T11:58:07Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Ukrainian Drones Leave Russian Missile Warship Unable to Sail, With Crew Dead and Wounded",
+     "src": "UNITED24 Media",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTJEdXBCVEpyWEt3dEx6REJsNDdqM3FSZERJUklfLU1ycEhWSU93cURqNzY2Wm9WaXVIbXFKZGxqMi0zakFBcGx1VldpNVAzZmdXLXg1d1hpbWxpWFBxMHZ6NmxpS3BHTk9FZkZaOV9NSjhVd21HbUVMbUlOX3ZxZk5UaF91U1NxSXlYWGpaQ29pRFNFUlFTQUkxdVlMWjVVQ1ppTThWSERicnEzX0VVbjZfc1Q1dHlzS0E0OGxXSmhhMkVUTUJlRjE1WThPWWFx?oc=5",
+     "t_id": "Drone Ukraina Membuat Kapal Perang Rudal Rusia Tidak Dapat Berlayar, Dengan Awaknya Meninggal dan Terluka"
+    }
+   ],
+   "title_id": "Kapal Perang Rusia Naro-Fominsk yang Rusak Tidak Dapat Mencapai Pelabuhan Sendirian, Kata Militer Estonia"
+  },
+  {
    "id": "siber-202611131741-4d50",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -284,7 +309,7 @@
    "lang": "en",
    "title": "Kenya’s nine Ebola cases trace to single DRC entry as Africa CDC warns outbreak is far from over",
    "src": "Daily Nation",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTDQ0d2pYWjJGLWlWaW44MmhUbklvNUh0NXJUMlhwT29waThPN3M5MHZ6VGcxRm1VMjlDeUliYnZDZ25WYjdYRmpfZS0yT1pLUlNiYkZnUTVSTy10ak14Y1g0MTZpdHBJN251aEQ1OGEtdE9VQ2NoT2ZNczhBWGJwSWhPZXE0RHhUU24taVByUlJlY3BSSkdsM1dIRXN2OEtrMVFTdjN2d01qVlBzTm1Hc21PVFQxbkpacXl3NDEtcWRiaGZUdmdscWUzYU1PWVludV9aUW1VUU9IZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjV1Y0JFcWVBYTNNR0RlVVpkMmJfVWd6c3c0TGZTV0o0M2E5eXNnd0F5eUo5RXpBV2ZYSzZuOEZOcU43VEtBTEEtdXFycFRMTHMwMGREVG9QVUdUa1NzZzdFUXJ5OHU2VUY0UzktM3YxLVlmS3BnTldiYlAxRmpLcEJJWlRsSC1seU9Xc01zM2VNV25fZ0RGTTJvSzBsLV84T0M1MG9HcksxVDJhbEdfa0pNUmotWWl5cXNXSE41ZjM3VE82cVFwR1BIbkh1MVFjVDRkOU53?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
