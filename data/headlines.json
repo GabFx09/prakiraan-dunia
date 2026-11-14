@@ -1,7 +1,16 @@
 {
- "updatedAt": "2026-11-14T15:04:24Z",
+ "updatedAt": "2026-11-14T15:19:00Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price range on Nov 14, 2026 at 11am EST Crypto Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdS11SjFDaFZ2ZWdEMDdJRVFEVzhQeXhoQks1aFNsTHBld2k3c0doS3RSRlZPTFJkZ0t3YVV2TzU4TGpFN01QdEJNYUgwdDNCTDYyd2Npd2tIa3J1ZjFZMzVvS2diWU1ySHFxRFFTM3VlRWdaWE50Nzl5OUdSTVJSYzRWdEJDYXo1aUZrd0NKZDdwV19VN0VELXZVeXRIY1hrS25JVFdqT1dTRG1abDkwam4wQ3hsVDQ?oc=5",
+   "time": "2026-11-14T15:06:31Z",
+   "t_id": "Kisaran harga BTC pada 14 November 2026 pukul 11.00 EST Pasar Prediksi Kripto"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -39,6 +48,15 @@
   {
    "topic": "kripto",
    "lang": "en",
+   "t": "BTC to GBP: Bitcoin Price in British Pound Sterling",
+   "src": "CoinGecko",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wYTZ5MWJSZUxGenlkSzlTYlRQTjUxSi1ESzlKbXh4U3FwZG5FNHBTZW9NMjNoXzZiY19IWE1oX25MVDBITmRWZkQ2Q2RQMm9SQUJmcnUxUEZOQQ?oc=5",
+   "time": "2026-11-14T13:00:00Z",
+   "t_id": "BTC ke GBP: Harga Bitcoin dalam Poundsterling Inggris"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
    "t": "A behind the scenes force may amplify bitcoin and ether price volatility",
    "src": "CoinDesk",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOS1BbnJwS2RLNGVLay02R2NROXMwdmJvOGgxLVU4d0tMY1RSMjY2OUVkd0I1NUJfdVhHa1JrN1gwNlRYcm45aHBhQ2dEenBONWwxd20yclRiU0Jfa25rZ2NKQ05Bd2V6NmhpWS1CQ3RXRlJ3U3NaOHpPV01Zck5NektCNVdYemFxdG9ubUNMSnRfTjF6c05iRDlIZVFzdVJjRGx2Wk1IS3VqNWVNRnhpZGtUQzJfSGc?oc=5",
@@ -71,15 +89,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY01Zd3JwVWFzTjBReVVyWEdXT2VDdWJ2cUFwb1ptTTduOXdRbmp2Mjd5eU9fU21kcThub2NDZ2pqNTBOM1VPTTVRY3lqc2NfTFBjS0llSjBrZEpuQVhBa1RiWkV5NnZyX0NuMTZqamhXMkVfVlZJOWttV0dlbVhLYnFtZnAtLTZUNzJnM2ZnRXZvdjI0ejg5cmZ6QUI5QTM4UERnODIzVkZtTTUtbjlJczE0TkRtSGUydUlZc0ZaV3c?oc=5",
    "time": "2026-11-14T12:15:05Z",
    "t_id": "'Jangan Tunggu'—Bitcoin Tiba-tiba Jatuh Bebas Karena Harga 'Runtuh' Kekhawatiran Memicu Kejutan Kehancuran Kripto senilai $2 Triliun"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price on Nov 14, 2026 at 8am EST Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzZwYU92R0U0NjZxQk1Idnl0aVVLTUdRZ04wdEY2b28xeW10R25RMjlWdkpSZHJvaldmSE43SW5wcGFsTHR5Znp0b3VybFFXeVd3eE53ZkpHVmw0U2RodzdjeXk4a1c2bXA3RXI0dndqNUg3LUVnWTI5cWxIVzRVN1c0eFh0UEltMEhaQkRSOW5qTTlycF9ZWGJHOTk4bVBtM2w3a25lQzAxY3I4elE?oc=5",
-   "time": "2026-11-14T12:05:10Z",
-   "t_id": "Harga BTC pada 14 November 2026 pukul 8 pagi EST Prediction Market"
   },
   {
    "topic": "geopolitik",
@@ -141,15 +150,6 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVktSjFuSVBOenplY2tFT2JSdDNBREhlM2c3Q0dZM3ppNTVxWTUwTVFPVFlHbFI5V2FiR0s3dktySVJFbWpKRURqX0k2dnAyTXdoQ2pTV1RGQUNKdUZDUFdETm9XeGVycFdPQ1ZxdjViOTdwTmVBMXdBWDJLTXVVVnRDSVVMN0VKZG1RSHk0TWxCenBYY241UVVHbFVHTzI3aDVnbzlqYlNhYWFRS0dRYnJjSQ?oc=5",
    "time": "2026-11-14T10:30:00Z",
    "t_id": "Harga Emas Mencapai Rekor. Dimanakah Penemuan Besarnya?"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "China, US discuss tariffs, farm trade ahead of Xi Trump meeting -...",
-   "src": "LBCI Lebanon",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlhfa1VveXU1U2pZdWdQcmlUREF1WHV3dmRwVVNfLVdNdXB1eDNpNlBVTklTMUs0ZVV0Sm1RYjJLdG1FS2E1VWx6QlFYbW84MDU0N0VlZ0xZOWJ5WGphTUlxUDEzRUNETTBfNnRHczc3MlVNNExjLThqVnB6ZjhMSlpjRFFkUjQ5d1Rob25XSy1SSE9iU0pvWWNiQzVyczYzbktHMFhVelU5NjZJeVNlNQ?oc=5",
-   "time": "2026-11-14T10:26:02Z",
-   "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian menjelang pertemuan Xi Trump -..."
   },
   {
    "topic": "indonesia",
@@ -218,15 +218,6 @@
    "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian menjelang pertemuan Xi-Trump"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Japanese, French and Omani Vessels Cross the Strait of Hormuz",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTZIX1dlZzRzYkNweHp6ZUNFSzB0MXdrVHE5NHhPQ1QyQXB6dnljYzdCWXpOS29EejZINkl4ZV9veFA2WXo1LU95SlBRY0lKZ3JIaXRqUU5LQ0REcENENXduZHJ2VERHMkRYeGV3VnNwSThkWXRhZ3FJeThCVjljVlVqOWQtSzJVaU9SRm41SzBrRHlkMEE?oc=5",
-   "time": "2026-11-14T08:07:32Z",
-   "t_id": "Kapal Jepang, Perancis dan Oman Melintasi Selat Hormuz"
-  },
-  {
    "topic": "china",
    "lang": "en",
    "t": "China, US discuss tariffs, farm trade at first trade council meeting",
@@ -257,7 +248,7 @@
    "topic": "china",
    "lang": "en",
    "t": "China, US Discuss Tariffs in First Meeting of Trade Council",
-   "src": "Bloomberg",
+   "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1l3WlBYaHhmZFVJSDZ0OHdibV8ybWVSUXZfLU1nY3JWMlVmT1RXR3BraTBqaWItVVNFX1l3YWFnNS1hb2RBcGJQUnJ4TFJMOU8xaXpoekJ6WlRjOFNFU3loUlpfdk5tTEJqVTVWUEZIb1RvZkpKTEp3bUNOUGxkbVl4SGNzUXgwOVdfTGV0eDJMVExaN2pxZlBkVnZnVDNHQ01May01UlhoUUJIRTBoM0p3SQ?oc=5",
    "time": "2026-11-14T07:46:00Z",
    "t_id": "Tiongkok dan AS Bahas Tarif pada Pertemuan Pertama Dewan Perdagangan"
@@ -365,15 +356,6 @@
    "t_id": "Trump menghadapi krisis minyak yang meningkat karena Iran memblokir Selat Hormuz"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Is Claude-maker Anthropic going public just as the AI bubble bursts?",
-   "src": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVJPMWF5cVBHQjhIYUZ4V1F1RmdRbTNvWEVDWmZXY2JZSGJMWE81akNWVHFQc0FsRDN0aFk0VmtfT1ZfdFVKdXUxcF91UFczV3lDbzVVSWVwX2YxV0JQdXd5b2FsVm9HRzl2STFFSjNwSWQtS3QtSnBLMm9IUjZCNHBhUmdXLXo5bDc2dWJzQkZGZ9IBkgFBVV95cUxQQmlPNUVGME9kZDNadXdsbk5TRkpXd0FmVDltVDBuRVFUX3REWFJDSWM2X3Z3SzlLbzViX1l2VGxJSl9Uc2dkcm9wVkV2SkdSWk5aYTg3bWw5VERKWnB0WC1xcXlPLU5BdmlZY3RJYnhiaHhoS2NTeTJ6NUtOeHpTV1lvNjUtQ2pCdEJrVTZ4Vm9NUQ?oc=5",
-   "time": "2026-11-13T23:54:02Z",
-   "t_id": "Apakah Anthropic pembuat Claude akan go public tepat saat gelembung AI meledak?"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Sepekan Naik 5,82%, Kapitalisasi Pasar Jadi Rp 9.047 Triliuh - kumparan.com",
@@ -389,6 +371,24 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LOFV2S1F2VFVFWG51dVRzbUg1VUJuLTdzenJxVjZZNnItQ2RYTjlQYTJ0SkJTQ0Q0OENocEhjR3JLMEN6YklVd2g0bmw2U01YSkowUkwwa3NUaE12a3NSOHR0WHRYUHZVbXRzYXZtS3dDdVhISDNXSTdLWDFEZ9IBgwFBVV95cUxPRTQ2aVhyLXhSZ0l0dzMzMGlJQ0RkdnpCZW80M1ZhQXpQTmdqemtJd0Q1SnI0ZF8wbm1RdktrQ3FjV2tSTnRNNjVKXzV4TEZyc0hvcklzRVpHeHQ0QXZ5dUx4cmRjVHplZi1EOUtucHZMdzNZZEVfNWc5b0JQNHRSSUFaSQ?oc=5",
    "time": "2026-11-13T22:44:00Z",
    "t_id": "Fed meluncurkan kalender tahun 2027, mengonfirmasi bahwa pertemuan bulan Oktober tidak akan menyertakan pemungutan suara mengenai suku bunga"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "time": "2026-11-13T22:31:22Z",
+   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "US Futures Gain With Microsoft Outage, Producer Prices in Focus",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGFnaDF1dHVTeVV2SlEyQ0w4SHlwMTVSb1RxMlc3SFByR1l1WnM1YXRVRy11RjAyZ0xnMVdldU1PY1lhMVRHeldxQ0pUTGp1eC13eEZSLUpiejF0ZlpqRlQ4QTBhN0xEMmxaNktiRldvbG5tbk9OZy1Pbkw0ck5MRXZnblRsRnVsbHY3TlBkRGxUVEVmX1B0dDJuNDlnR1h4cld4UWdsUUI5OWhEQnRBNTJZdw?oc=5",
+   "time": "2026-11-13T21:40:05Z",
+   "t_id": "Kontrak Berjangka AS Naik Karena Penghentian Microsoft, Harga Produsen Menjadi Fokus"
   },
   {
    "topic": "saham-as",
@@ -416,6 +416,15 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1FhU3E0MEFkQjV4aHZ4WXk5cktoTzhKbE9Sd1ZKTS11dE5raks5bXA0dk5IOGZ1bzBfT2Y5LUluVTZENml5cnBxcVEyOWh6eU9UU0lIS3FNbmdxVnpvdVUyTkdRNlU0REJGYjhaQzhpZHlpWGV1U1pfRjFLVE5wb3h3NGxWbFJmSlRJNDktSENjNVVpUFlHbnNrcW1BMk9vN2NsNzFjQURkeUtGQXBrSWRsMzctNmRzWlhvSUJVQjk5aHZkeUNtYTh3?oc=5",
    "time": "2026-11-13T21:04:14Z",
    "t_id": "Saham Nvidia tergelincir karena investor mencerna keluarnya CEO, dan penjualan chip yang lebih luas semakin cepat"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Kevin Warsh’s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5",
+   "time": "2026-11-13T21:01:00Z",
+   "t_id": "Rencana Kevin Warsh untuk Membentuk Kembali The Fed: Lebih Sedikit Pemungutan Suara, Lebih Banyak Pertimbangan"
   },
   {
    "topic": "emas",
@@ -448,7 +457,7 @@
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
-   "src": "Bloomberg",
+   "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXJmalVqcjF1WEgxXzRyZ2hNRTRMWXdCWGdpblhnaGwxY0ZDeFIwYTVnWENtQ2U2NFg3YkpUS21EdkNHaXlwVlVicGxWd2RJZnJqOXlySXJfZzdscXlqRFNJSkswUjZ0ZjFINC11aU9GMWdrMGR6SzdfYUlkN3pGaDZZci1NbnkxWmtoZ1lNa3E2MmxDcnFqRnN0MWpwUURLT05odHBpdVlhNXRjNUJOd3JGcnNCYzd6bjVqWQ?oc=5",
    "time": "2026-11-13T19:55:01Z",
    "t_id": "Fed berada di jalur yang tepat untuk menaikkan suku bunga bulan depan dan mungkin lagi pada bulan Januari"
@@ -513,15 +522,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3SmQxZ1EyU2VheHYzYmZZWm11N3R0ZmNKOEtUcVJSLXVyTDkxWERDb3pxMkhuZm9GMzJQeHUwbmlreXJjdUJTYkdlUEZ2U0Zxc25EbC1JSndUOENZMk9NY3BrRzBVQms?oc=5",
    "time": "2026-11-13T15:31:52Z",
    "t_id": "Harga Bitcoin saat ini untuk 13 November 2026"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Goldman Sachs cuts year-end gold price target to $4,150/oz, 2027 target to $4,800/oz",
-   "src": "Kitco",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQkZKMk5lUVlMdkdFWlJNOUE2UFI1Yk50NHRsZmNwV1kyeEF4eENvVmR3MDNUV1RVbElwc3ZGbXd0OGhRckZ2QTI3Q0NqRFNhSWM4U1NrVUhSVW1FaEVzdGx6N05lTUV3bWJFX0x2YlAtcktKT3U5MHNFcUV4M0pIZTNLbzNmZXNoSF9IMi1EOG1ybXVWQjVFVkhIeDd0LXU0b05fNnZmWTBYSVItTTZFMzUyWXNpZjhF?oc=5",
-   "time": "2026-11-13T15:25:53Z",
-   "t_id": "Goldman Sachs memangkas target harga emas akhir tahun menjadi $4,150/oz, target 2027 menjadi $4,800/oz"
   }
  ],
  "errors": []
