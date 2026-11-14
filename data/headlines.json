@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-14T04:32:21Z",
+ "updatedAt": "2026-11-14T04:46:54Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Melonjak 5,82 Persen Sepekan ke Level 5.344",
+   "src": "cwibc.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wcTc2cVdRaGVPOGFiTGJmSlRsVElUcllvZEZrcnhnLTIyUEduTVlzUEVEaHVaNEpJYmtlZS1yZFFXZFJpa0R2ZHJ6bGp2cTVPaU92SG9tUVE0WmRxMHBoSXlZek4yQQ?oc=5",
+   "time": "2026-11-14T04:44:34Z"
+  },
   {
    "topic": "saham-as",
    "lang": "en",
@@ -11,12 +19,28 @@
    "time": "2026-11-14T04:09:06Z"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Will Bitcoin Never Set Another All-Time High? Analysts Debate On X",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVY5WVlOS0JoUXFOX3EtSmN5RDBNT2x6dGU1S1AxaER5VGdYWDJGU29sT3JJVkhNQXlienVEWXg0N2ZyWWFsVmFCbjBNbDZiVFRGN0pId3hQSzlEQ0FrOXhub09lenhmU0hSZTZUSFQtUkpfclFRNk9aOHF4aG80TFFvT0tiVkV2UWNyOG5TRUZlVUxQWV8waEJQMA?oc=5",
+   "time": "2026-11-14T04:00:00Z"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold, silver prices today, 14 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore",
    "src": "Livemint",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdzd4TU1yQUQtakl0QjRMVDRrbUlEaU1vVUNfcGx5YjBmZW84al9USDlsUFY1UGMzejdTWlJJbGdZWnVrOUJHSlREZ21uYi1odkRIUEktMnBNdllHVHNwb0NLS0tKbVZMN0RlZ2tZOFY5YVc1bVMzWi1UaG1vMDNsZi1XclRXbjdmajJJVm1nWG1CUWFMSk1lYTZJMUNOamROb0VGcUhhdTlDSXhKWmZfMmh0b081NFZzUU1IZElvaU5wbDJsdjhzcTNuMkFrb3VGUmxYTFUyelBySElJcl9Oa3dTZ2lscjBERGdKbmc1QXRDd3Z6eFBOMmRjS0NQRnhk0gGGAkFVX3lxTFBmVEhVdmwxZWducW5ST3IxcTQ1aVI4UG1pVHJadld0ZUZyRE16Vm85MjRtNlllTDNaYmV2ZUxrby1MYTRDeHNQcGR5eXNnalpqUDFSTEwzaTBhZEJfZFBhUnRpd094dEtKS2tXNWY4QUxYVWhDUjYyNU9rWUxJalNFSEgwb3AyWHk2VzdKYWIzdEJhcTZSaUxDLTFHekx3UUJ4dUpBTXVtZU90cGhwUzdNa3NxX2dVR3R6VE8wclJRY2lOSUZZM21WT1Zlem5wYUdCVFJKYlpTalFoankwTTlwbHdVQk44VndhRC03dTFYRXZlSWNjbklOSjVHSS1VMG1wd2dlMkE?oc=5",
    "time": "2026-11-14T03:58:08Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "How To Handle This Market; Nvidia Earnings, Anthropic IPO Ahead",
+   "src": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
+   "time": "2026-11-14T03:56:00Z"
   },
   {
    "topic": "kripto",
@@ -73,14 +97,6 @@
    "src": "Kompas.id",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY19vZXhGSlNCaWt0VVkyN09qMjV3UXZheEE1N3JSREY1TzBadS12emVuTUF3WFE5UG9SelJzdmdWM1YtTWJnVnFtczBCcjdiUTBrZHBLOC1QT085SWVXbk1tMGhCSEswQ1FPSHAxUDE3ZXBwUU52RzJvS3hybFozR0sxcW5iSEoycmVySlRBaTcwdTREWlhjb3lyUHROcGg0cjhPdUFfUVVMYU1LN2pLYjFnN2VVaHN4RkprcWJn?oc=5",
    "time": "2026-11-14T01:00:10Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG Menguat 5,82 Persen ke Level 5.344 pada Pekan Kedua November",
-   "src": "cwibc.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwLUF6cE0wU3Nyek1UZm1FXzFxcjBMeU54Y3FVV1JRTjBGRXJ1ZVVEbXJNRzBQem5VbWN0RUdTNExsbW1RUzlEZFRBcmowTGNUd21oazBnck54UHV3d0ZONjlUbw?oc=5",
-   "time": "2026-11-14T00:51:02Z"
   },
   {
    "topic": "indonesia",
@@ -176,7 +192,7 @@
    "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
    "src": "EnergyNow.com",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "time": "2026-11-13T22:11:26Z"
+   "time": "2026-11-13T22:42:17Z"
   },
   {
    "topic": "geopolitik",
@@ -215,7 +231,7 @@
    "lang": "en",
    "t": "Iran says 2 oil tankers strike mines, catch fire in Strait of Hormuz",
    "src": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUN3MXNQaXZ0TWdTdHpVOW8zRnUtd0FWNHdKMnhvZnp1SlpCVVlja3k0ZmRPd3RKSWFCWjZ5YjJNaGRsZ1RENEE3ODZ3OUVkcXgyYU1yZXBLakFQNGpRTW80a2xnV2hIMFItSHdiSUh6LUJjNWxZSWEwc1FRNExINXBnR2M3QkZ5Qi1rcFl6Y054WVRqRGszdnZtTmtibUsyNkNaMFVwLW4zN2Y5?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPek5FWnVXZThQZzdHcnRxT2JMRjEzVXFkSU9kc3ZPUVpManFaVUoxMXhPdTRFMWp0UTd5Z3kyRmdhZVB6S0IxNHF4RTNLUF9fOUhUclBYOGlCVjJuRzUwRlR2WENXb2NyR1hlVlhEMXd6bHktT0NXUlFpcnQ1cDBYa1l3R3RLcFJNeUxReENpVWRFdTUweXRHZmZSc0RudWkxTFFHQldIZ1BSS3dyODB2dkt3?oc=5",
    "time": "2026-11-13T21:01:42Z"
   },
   {
@@ -355,14 +371,6 @@
    "time": "2026-11-13T15:31:52Z"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Stock Market Rebounds Even As Nvidia CEO Jensen Huang Resigns, Treasury Yields Jump: Weekly Review",
-   "src": "Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3NWQ1h5MjlGUE41X1hFY3JBb2RDT213U1Z6X2VFNFNqQi01UmxONXNGRFpuVDVKbHc2aDdTOFFVbVZTaWZuYU5rcHZhV0o2WG5QREtGbDlmTUZST3E0cE1PT0ZSNVdiZjBTS3FEcjhRRGU3OWNZQ0E4UkhGbjVZQXRTbnFVLU1HM2RDUnFycnJfd01BalBmVUlfeHVzNnJ2al92bzc5bWlTdw?oc=5",
-   "time": "2026-11-13T15:06:00Z"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "Bitcoin is falling to fresh lows today: What’s causing the crypto decline?",
@@ -473,14 +481,6 @@
    "src": "IDNFinancials",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTFiblFNeGhQQzBaWF92ODcyWlpBcTlhY25RTzNFNEppZEVSNUVoSG5nN0Vtc3N3dDJ0dS11TDF2aUxuelF4aXV5MXBUVF8wYWtBcE1LWGx1bWZkVGhxbVZBaVJKWm5ZVmd6eWtoUXJpWnpDOC1TOUlELTlmc2c4QTJIWWtKTFVMTEtqclVPZ2liYkNkX3hEanl1c2IyUmdhTi15VTZMN3JyeWc?oc=5",
    "time": "2026-11-13T10:00:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Ditutup ke Level 5.344, IHSG Akhir Pekan Menguat 1,78 Persen",
-   "src": "Pasardana",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVNsMENvMlNpZ3hTMHJ0NlBHYXlkQmgxTHBzSjd1TzMyakI3ek8zRks4aHdKRWNBSVpSQTl4TW1Gc2pIak1pOUZwZVUwOTRJZEYyVVAxSUozUHFhbmlpV0dJVm5VaW95S0ZRRmNXZlpUc01hMUE0ZUE1TVRDN1dnVDhXOTcxT3BxNkd3MzRQYzk1aGJDRU5pOGYtMXA?oc=5",
-   "time": "2026-11-13T09:35:00Z"
   }
  ],
  "errors": []
