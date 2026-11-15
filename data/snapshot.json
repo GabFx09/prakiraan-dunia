@@ -414,6 +414,17 @@
       "ihsg": 5344.406,
       "usdidr": 18190.0,
       "ust10": 5.154
+    },
+    {
+      "t": "2026-11-15T13:00:00Z",
+      "risk": 79,
+      "btc": 65456.45,
+      "gold": 3886.3,
+      "brent": 95.84,
+      "spx": 7561.67,
+      "ihsg": 5344.406,
+      "usdidr": 18190.0,
+      "ust10": 5.154
     }
   ],
   "horizons": [
@@ -860,6 +871,22 @@
   },
   "news": [
     {
+      "t": "IPO Anthropic senilai sekitar $64 miliar disebut jatuh di tengah aksi jual saham AI",
+      "src": "Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0E5Z0ZIZDR2Nm1zM2xobkpzZUdJVlFhSTVUd0dJSURzbmxzMUlmdHplcEY4T2xPdlZLekR2RlpZVXlPSW5zel94WG9aQTBpU2JOWkR6Qzdsa1RWU3hqYnlHWGtKYXJZM3AzUjJ1c2ZnUkstZVJWNGU1R1NROXJVN3NFaVVLVXNUM3hmQ2VfbE9wVUJa?oc=5",
+      "time": "2026-11-15T12:44:04Z",
+      "impact": "turun",
+      "assets": "Saham AI, Nasdaq"
+    },
+    {
+      "t": "Mirae Asset Sekuritas memperkirakan BI menahan BI-Rate di 5,75% pada RDG November",
+      "src": "kontan.co.id",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVZyMGFvZUFMOFhhaTN3RE9OeWNITlRnbWlwWXF2bU9ONkVHbGt0aVRQMDBoNkkzNEd1al80bkpXQzZDWUp0Nldsb1pRMnBBODVSQS1nbEdMUWJabTVQY0FKWUJzWkxpYXlPWDZxdEtHOFR1WVl0RXJOUlF2TXNxWDVzMGh4Szlxay1hV1FRUGpCbEs5MDdZelRoeGVBT2RXYi1ueHBTMG1ZX3ViTDZYLdIBqAFBVV95cUxNc3NiOExtd0h5ckNjbnZFbVN2bkk2VEpIQWtXLW9wUzlsVTlZTkEwZU9MdVJySFB0QXNjTHBnYTd3NDhZS1dmN19Jc2dZX29hU25hdHBWd0hSR2JSQU5jajBzaFVOLWFpWC1wRmRUZ2VXRnJHbWJCZnllTTZWWHVSSlAxTzlUbFY0YXFPS0s4TktnQlpsWlJ4eHBaX0QwNmQzXzZRX0ZhVVo?oc=5",
+      "time": "2026-11-15T10:16:24Z",
+      "impact": "netral",
+      "assets": "Rupiah, IHSG, SBN"
+    },
+    {
       "t": "Perubahan bobot IHSG: ratusan saham HSC dikeluarkan dari perhitungan indeks",
       "src": "kontan.co.id",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObE5NTHRUeng4T2NmVGF2MGhONkFrYmk4VGhncGY0eXhxRlRoUUVwVk8yZFA5T0RhVkxDak9OUGdMSEZ0MGZENXRaYjh3M0ozUlM4SlAxZFE2LXhuODJLY1VPeFNYa2cxWjRuUnNOM0h6dEVCNFJDd1ZwOXJNQ2dqRTZhNC12dXIwNC1Db3oyNUhFTEhGNmtMRmlmb1pRa1JjNFhfNDZOaDE2bDJncDVv0gGnAUFVX3lxTE0wRUFqaUdVeWxpMC1ubzN0bC1NX213bUsxM0w1OTBFWlFsR1JoZmZYeW1Uak9oWXpuVWtYUVlBRENTVWpPTlVrb1B5YWtjQ2tJWUp2TndnMG5MWmNpcGZkNVZRc0syMU5oTmJwVTNEWW5IZnVFblItbGloWm96LVJFWl9MMjU0cXM5bFF5TWhRR2JPNzVoM285UHJ2UC1HOXU4TE16RTNz?oc=5",
@@ -876,20 +903,20 @@
       "assets": "Minyak, emas, rupiah"
     },
     {
-      "t": "Bitcoin anjlok ke sekitar $64.000–66.000 saat akhir pekan; analis menyebut harga masuk zona nilai dalam tetapi tekanan belum tentu usai",
-      "src": "CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
-      "time": "2026-11-14T16:42:10Z",
-      "impact": "turun",
-      "assets": "Bitcoin, aset kripto"
-    },
-    {
       "t": "Goldman Sachs memangkas proyeksi harga emas 2027",
       "src": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzYyRU50SDUzOW15clJVVGhYWFZ5WDdSRWpMSnJBTUMzZDZ5VU16QUM3V3RSVE05Mjg2aFg2eFRQTkVkcWo3US0wU3hGWFFzWUVfYjdTLXNZNG5FelVydFhKVmx0SDR3S1l4VVVicmU5WlBLeUhxM051VXQwLVhjQk5ITjBBOGN1OUVjS1lUb2t5VGh6QmtSVmhyRVNYUG5hODJhNlFmcjB2NXFuMF9BTVBsclRJaTFEbmJjaURTWDRLZ2xNZnNwMy1B?oc=5",
       "time": "2026-11-14T18:32:48Z",
       "impact": "turun",
       "assets": "Emas"
+    },
+    {
+      "t": "Bitcoin anjlok ke sekitar $64.000–66.000 saat akhir pekan; analis menyebut harga masuk zona nilai dalam tetapi tekanan belum tentu usai",
+      "src": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
+      "time": "2026-11-14T16:42:10Z",
+      "impact": "turun",
+      "assets": "Bitcoin, aset kripto"
     },
     {
       "t": "Satu lagi tanker terkena ranjau laut dan terbakar di Selat Hormuz timur, menurut Iran",
@@ -938,22 +965,6 @@
       "time": "2026-11-13T21:46:00Z",
       "impact": "turun",
       "assets": "Minyak, rupiah, saham energi"
-    },
-    {
-      "t": "Iran menyatakan dua tanker terkena ranjau dan terbakar di Selat Hormuz",
-      "src": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUN3MXNQaXZ0TWdTdHpVOW8zRnUtd0FWNHdKMnhvZnp1SlpCVVlja3k0ZmRPd3RKSWFCWjZ5YjJNaGRsZ1RENEE3ODZ3OUVkcXgyYU1yZXBLakFQNGpRTW80a2xnV2hIMFItSHdiSUh6LUJjNWxZSWEwc1FRNExINXBnR2M3QkZ5Qi1rcFl6Y054WVRqRGszdnZtTmtibUsyNkNaMFVwLW4zN2Y5?oc=5",
-      "time": "2026-11-13T21:01:42Z",
-      "impact": "naik",
-      "assets": "Minyak, rupiah, emas"
-    },
-    {
-      "t": "Bloomberg: Fed diperkirakan menaikkan bunga bulan depan dan mungkin lagi pada Januari",
-      "src": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXJmalVqcjF1WEgxXzRyZ2hNRTRMWXdCWGdpblhnaGwxY0ZDeFIwYTVnWENtQ2U2NFg3YkpUS21EdkNHaXlwVlVicGxWd2RJZnJqOXlySXJfZzdscXlqRFNJSkswUjZ0ZjFINC11aU9GMWdrMGR6SzdfYUlkN3pGaDZZci1NbnkxWmtoZ1lNa3E2MmxDcnFqRnN0MWpwUURLT05odHBpdVlhNXRjNUJOd3JGcnNCYzd6bjVqWQ?oc=5",
-      "time": "2026-11-13T19:55:01Z",
-      "impact": "naik",
-      "assets": "USD, obligasi AS, saham, emas"
     }
   ],
   "readings": [
@@ -992,10 +1003,10 @@
     },
     {
       "c": "neg",
-      "d": "Terendah 3 bulan, rebound tipis",
+      "d": "Sempat ke ~$62 ribu, rebound tipis",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$65.442"
+      "v": "$65.456"
     },
     {
       "c": "neg",
@@ -1020,7 +1031,7 @@
     },
     {
       "c": "neu",
-      "d": "Diperkirakan naik ke 6,00%",
+      "d": "Analis: kemungkinan ditahan",
       "k": "BI-Rate",
       "v": "5,75%"
     }
@@ -1029,7 +1040,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 79,
   "riskNote": "Hormuz tertutup, Fed condong menaikkan bunga dan kripto jatuh menjaga risiko tetap tinggi.",
-  "updatedAt": "2026-11-15T10:00:00Z",
+  "updatedAt": "2026-11-15T13:00:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1347,11 +1358,11 @@
   "brief": {
     "date": "2026-11-15",
     "points": [
-      "Indeks risiko tetap tinggi di 79/100: tanker terbakar di Selat Hormuz dan Iran mengklaim serangan drone ke instalasi AS; pasar saham global tutup akhir pekan.",
-      "Bitcoin sempat jatuh ke bawah $64.000 (terendah tiga bulan) lalu naik tipis ke ~$65.442; emas bertahan ~$3.886.",
-      "Imbal hasil obligasi AS 10 tahun 5,15%, pasar memperkirakan Fed menaikkan bunga Desember; rupiah di sekitar 18.190 per dolar AS.",
-      "Dilaporkan Wapres Gibran menyatakan niat mundur; status resmi belum jelas. IHSG ditutup 5.344 (+1,78%) setelah perubahan bobot saham.",
-      "Pantau: RDG BI 17–18 November, pertemuan Xi-Trump, rapat OPEC+ 29 November, perkembangan Hormuz."
+      "Indeks risiko tetap tinggi di 79/100: ketegangan Teluk berlanjut (tanker terbakar di Hormuz, klaim serangan drone ke instalasi AS di Bahrain); pasar saham global tutup akhir pekan.",
+      "Bitcoin ~$65.456 setelah sempat jatuh ke kisaran $62.000–64.000; emas bertahan ~$3.886, Brent ~$95,84.",
+      "Imbal hasil obligasi AS 10 tahun 5,15%; pasar mempertimbangkan kemungkinan kenaikan bunga Fed Desember. Rupiah sekitar 18.190 per dolar AS.",
+      "Beberapa analis memperkirakan BI menahan BI-Rate di 5,75% pada RDG 17–18 November, di tengah tekanan rupiah; IHSG berpeluang menguat Senin menurut Kontan.",
+      "Pantau: RDG BI 17–18 November, laporan kinerja Nvidia, perkembangan Hormuz, rapat OPEC+ 29 November."
     ]
   },
   "calendar": [
