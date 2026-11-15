@@ -1,14 +1,32 @@
 {
- "updatedAt": "2026-11-15T07:46:39Z",
+ "updatedAt": "2026-11-15T08:01:19Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Gibran Turun, IHSG Naik",
+   "src": "republika.co.id",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SdXAyZDFjZm1vdEUyM2VoRnNQN0R0STdJUk9jblJ6ZDlNbW9QcUt6Uk1ybi1MRnlWZUYwcEF6ejNPSjdkZldsamZzUWo2Q2xUamFCcG9iODFDczBoX1lpNHJianllSTVXdFVJTThlcWNIRnhfVUhjMEFBYw?oc=5",
+   "time": "2026-11-15T07:53:51Z"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Is Gulf oil rebound at risk as US-Iran war enters uncharted waters?",
+   "src": "Al-Monitor",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1FsdFZUeUZhXzl6Y2pITk9oZjdldmhNc0lwM2pqSzZVN0ViQ0tBa0NtbzJ5VkthRjlDM0ZES09DTzAyd1Zsa0hDOWJSaEhZMDcxMkdjNEp6WUowZ3RFQWM0UzZIeFA4eWFSajhsQmhyN2sxQ05XWENlSGJDM1NsdkxYcmJjSXNwNHFtWktyZ1pMLU1nVHRiTEN6YTVUMll3bXBOdA?oc=5",
+   "time": "2026-11-15T07:40:52Z",
+   "t_id": "Apakah minyak Teluk berada dalam risiko karena perang AS-Iran memasuki situasi yang belum pernah terjadi sebelumnya?"
+  },
   {
    "topic": "kripto",
    "lang": "en",
    "t": "BTC price range on Nov 15, 2026 at 3am EST Prediction Market",
    "src": "Robinhood",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVlQdnRPTU5LeGtWN1gtN2hBTU9iUTlVdlUzLXktc3ZDWTh4R0F6UUpOM0kxVFNJVUdoVXk5UnlwLUNIcUNWdVpBd3JtQUZHbnJ4ZWNqWmU3R3JtQi14eE90cWo3Y2VKSWt3aFQ2ek1DVjFBXzlabFpkVHB2b3NVeXkxUlVPZ0RUZ0RNRWxMR3JRLUVCc21Ta2diNS1DM29FSDU2MUpiSVJLRGNyTG1wb2tTWG5lQQ?oc=5",
-   "time": "2026-11-15T07:09:36Z"
+   "time": "2026-11-15T07:09:36Z",
+   "t_id": "Kisaran harga BTC pada 15 November 2026 pukul 3 pagi EST Prediction Market"
   },
   {
    "topic": "indonesia",
@@ -32,7 +50,8 @@
    "t": "2 violating oil tankers explode in south Hormuz Strait: IRGC",
    "src": "Mehr News Agency",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFlfcXRwcE5rWF8zcmd3VVNfdDJ5NnlwN1JNWk9OSmJDNlZDM3hQSVh6UVZfd0hWelQ2a3hBdGswRXBNWG4wQ0tMdmZ2ZVoyNE00OUpySzBkZEgwOGpZYVVkT2FudGFUQVRERTlTR3pKTjhSdTByTnR6WWZ5NTVhc0UwaS1SRDVqT05QNEliRHRnVVlQSHdaSVVDTQ?oc=5",
-   "time": "2026-11-15T06:50:00Z"
+   "time": "2026-11-15T06:50:00Z",
+   "t_id": "2 kapal tanker minyak yang melanggar meledak di selatan Selat Hormuz: IRGC"
   },
   {
    "topic": "geopolitik",
@@ -62,11 +81,11 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "BTC to INR: Bitcoin Price in Indian Rupee",
+   "t": "BTC to GBP: Bitcoin Price in British Pound Sterling",
    "src": "CoinGecko",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PTW5semFLSXhGRzI4cWZxMjJfc012QmZfRkFxbDk1d3Q1ZUpjX3RfVEhWNi1Ob3UwSFFFRHpQMnVQemN5VFpJQWhwRWRFanJaOHppaFFIaGlUdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wYTZ5MWJSZUxGenlkSzlTYlRQTjUxSi1ESzlKbXh4U3FwZG5FNHBTZW9NMjNoXzZiY19IWE1oX25MVDBITmRWZkQ2Q2RQMm9SQUJmcnUxUEZOQQ?oc=5",
    "time": "2026-11-15T04:30:07Z",
-   "t_id": "BTC ke INR: Harga Bitcoin dalam Rupee India"
+   "t_id": "BTC ke GBP: Harga Bitcoin dalam Poundsterling Inggris"
   },
   {
    "topic": "ai-teknologi",
@@ -207,15 +226,6 @@
    "t_id": "Prediksi Harga Bitcoin: Di Mana Posisi Bitcoin di Akhir Tahun?"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Iran reports three incidents of oil tankers hit by mines in Hormuz",
-   "src": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWhZOG1mdFItMWE4UzZRUF83NWNEeUUwS24waFp1dnpzLWpNQklWeFhpcU5NOWc5cGNWNXlkU1dfVXB1UXJZTXFLZ09oMW5ObnUyRW1YeUJtLXdmalFCdUUxMUp0LWFtdGdVaWZoRFlEWXVMcjEyLXRyVFIwSDRuQXhyUWUxS1AwNnk1M0U0VHVJZWpWY3NPdWRONm1KUV90TWJZUnU3X3c2Zy1rVW9ZTg?oc=5",
-   "time": "2026-11-14T21:14:41Z",
-   "t_id": "Iran melaporkan tiga insiden kapal tanker minyak terkena ranjau di Hormuz"
-  },
-  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Fed Rate Hikes Threaten U.S. Farm Margins as Debt Hits $605 Billion",
@@ -234,15 +244,6 @@
    "t_id": "Trump menghadapi penolakan Carney untuk mundur ketika Kanada menentang tuntutan perdagangan AS dan negara dengan ekonomi terbesar di Afrika beralih ke Tiongkok"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "NVIDIA (NVDA): Can AI Demand Sustain Growth Through Leadership Uncertainty?",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0pZeVVHdkYxcndfVGlLN0VvdnRfZkFzZ2xpMTRUTXVNd1NTYUdyVFFPLU1xMGZXazlUSEREZk9iUDRub0o2OGlNZmVuYTJWRnk2U2ZwREpMN0t0YS03S2ExenhEMmRLZm5PeGVVeVBYLV9tNEhLLVJ2bDdqWWZtX0tSLW5lRUg0R1Iyb3NwQ3hWNEt6bTQ1NA?oc=5",
-   "time": "2026-11-14T19:24:30Z",
-   "t_id": "NVIDIA (NVDA): Bisakah Permintaan AI Mempertahankan Pertumbuhan Melalui Ketidakpastian Kepemimpinan?"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Goldman Sachs just slashed its 2027 gold forecast. Here are the new numbers",
@@ -250,6 +251,15 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzYyRU50SDUzOW15clJVVGhYWFZ5WDdSRWpMSnJBTUMzZDZ5VU16QUM3V3RSVE05Mjg2aFg2eFRQTkVkcWo3US0wU3hGWFFzWUVfYjdTLXNZNG5FelVydFhKVmx0SDR3S1l4VVVicmU5WlBLeUhxM051VXQwLVhjQk5ITjBBOGN1OUVjS1lUb2t5VGh6QmtSVmhyRVNYUG5hODJhNlFmcjB2NXFuMF9BTVBsclRJaTFEbmJjaURTWDRLZ2xNZnNwMy1B?oc=5",
    "time": "2026-11-14T18:32:48Z",
    "t_id": "Goldman Sachs baru saja memangkas perkiraan emasnya pada tahun 2027. Berikut nomor-nomor barunya"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold prices fall EGP 260 in Egypt in one week",
+   "src": "Daily News Egypt",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWhVa1ZNaFFXWFhXcHNZWHlma1hwRGNqd0ZTUDVfOUFoNEY4b2dtc1ZTUEJqMDdiVVB6Z2s1b3liY3NmNnd0OHk4V1F6M09KNmNxRFdaWm5qSmgxcVZleWdtWVprNDM0MTN2aFhoVWJ1NkRSYWJjQ0dxb1NMQ3Yzc1ZJd0hJME5jR3RiUw?oc=5",
+   "time": "2026-11-14T18:24:01Z",
+   "t_id": "Harga emas turun EGP 260 di Mesir dalam seminggu"
   },
   {
    "topic": "emas",
@@ -339,15 +349,6 @@
    "t_id": "Tiongkok dan AS mengadakan pertemuan pertama dewan perdagangan baru mengenai tarif"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Prices Hit Records. Where Are the Major Discoveries?",
-   "src": "Streetwise Reports",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVktSjFuSVBOenplY2tFT2JSdDNBREhlM2c3Q0dZM3ppNTVxWTUwTVFPVFlHbFI5V2FiR0s3dktySVJFbWpKRURqX0k2dnAyTXdoQ2pTV1RGQUNKdUZDUFdETm9XeGVycFdPQ1ZxdjViOTdwTmVBMXdBWDJLTXVVVnRDSVVMN0VKZG1RSHk0TWxCenBYY241UVVHbFVHTzI3aDVnbzlqYlNhYWFRS0dRYnJjSQ?oc=5",
-   "time": "2026-11-14T10:30:36Z",
-   "t_id": "Harga Emas Mencapai Rekor. Dimanakah Penemuan Besarnya?"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Agus Taufik Dikukuhkan, Ingkong Ala Harap BI Perkuat Pengendalian Inflasi Kaltara",
@@ -375,11 +376,20 @@
   {
    "topic": "china",
    "lang": "en",
-   "t": "China, US discuss tariffs, farm trade at first trade council meeting",
-   "src": "China Daily",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKN251S1BpVWwwZTFqdXJOS1h0d3ctdzgtTlZLZURzOE9zX1BCNElSLU5VSTJEcGhSRDlwSENhYWRBajhkRHVsdWltRTdROHRFZW0zbHhubHRJVlJCblV4b0JsSFJaZDN1Nmk4bzlZbHN6RjJwLVBwbFJwOW81UQ?oc=5",
-   "time": "2026-11-14T08:07:19Z",
-   "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian pada pertemuan dewan perdagangan pertama"
+   "t": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SX0FBdkdnb0NoRXdMaWlrZlpyQk1oaEo0bnZSTXJxTDlacFpWTTZldUtrSkg5TGdFcHBxUzFwUlhoOGYtMHh5QUhwbEpFZEtndVhPSEZBNHRRWU1fYndac2VKbXZOWHoyOE1UV3JOcHprWWZFYS1kdS1B0gF_QVVfeXFMT3dWUTRlMEN4SDVQQ3lKWnJlM1AtVHdxakxDNnJ4Wl9QWHdjcURIMndkSzIwdUFyQlVTZXpYdEMxYWoxR0JWaFZBNmYwYm4zYmZfY3NvTDVzb2h3UE4tT18xZmFGd3ZubnVpc1NpLW9IZXBpSTNUVTVoSEIzOTlvMA?oc=5",
+   "time": "2026-11-14T08:16:44Z",
+   "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian menjelang pertemuan Xi-Trump"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "First Meeting of US-China Trade Council Focuses on Tariffs, Agricultural Products",
+   "src": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZ3ZaUm9KNnFaOXNHUGE5Mlc0dUUtclowMGI5OVczQ2h4QVdVbWFNQ19JalhRQ21LMnd6VFQ3SzFaZDA1REw2NDFSd1FuQm5paVBsbkZaWDFjMEl6NFU2cVRoVThUUkxHbmRWNUpXSEQ2ZUdFNXc?oc=5",
+   "time": "2026-11-14T07:55:00Z",
+   "t_id": "Pertemuan Pertama Dewan Perdagangan AS-Tiongkok Berfokus pada Tarif, Produk Pertanian"
   },
   {
    "topic": "china",
@@ -393,11 +403,11 @@
   {
    "topic": "china",
    "lang": "en",
-   "t": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "time": "2026-11-14T07:13:00Z",
-   "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian menjelang pertemuan Xi-Trump"
+   "t": "China, US discuss tariffs, farm trade at first trade council meeting",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVBlbG8wbWFhUmowZXQxWl81Z1AtZk1HTVFwNGVOcVBfS05JV3h3TVdSTjVkX0VrSUtWenhxN1RBLS1zSUUzNG5tYVc4dVhJZ0RsdkZmWHJZbVBxcEVGMjFYaWJ5dTdST0ppdE1LcF95UDlMelZqOW1oeXkwR2hKTGVUNTMzaHd3OWY3Q1NMX2dQTUlXSVJOSHdR?oc=5",
+   "time": "2026-11-14T07:12:00Z",
+   "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian pada pertemuan dewan perdagangan pertama"
   },
   {
    "topic": "saham-as",
@@ -512,14 +522,6 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMC1EX0IzNnFwdWhKNVhpbi1jU25RakhGNGZyME9BMTdlaXFPd09IU0VfMklYZ19lZnZ5MWpFU2I2a0xlbVVtX2RpaDVqZzloY1NRRzlrTzJYNVA3eVFTbUZVYmJjSVh1aWhVNDZVMVMzMm9QV19SWGdNcEoxdWU0VVVzQV9faDN3eGpkSGZ1dGNVdEMtcUw0?oc=5",
    "time": "2026-11-13T19:17:00Z",
    "t_id": "Wall Street Menghapus Saham Nvidia. Inilah Mengapa Itu Sebuah Kesalahan."
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed likely to need to raise rates amid worsening inflation: Daly",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHBuM0FNRHlsWlNrX090Q3F6R2VZUTFYRkF3bFZwbDNQMUwxZXpiYmROVUJWWTVKZHRoOExqUkxpcktRYUZodDVncmNVSEdIMDktTDYxMXlWM1hvdXVKRmVfMmtvbTBUd1MyWkxFR3RqTlNJNVk1WFNtc2pnQ0w4QjRTdjlmcFdPUkVUZFVndGdCRWRPMEw3cFZHcjBlc3lhdDY2Vw?oc=5",
-   "time": "2026-11-13T18:48:40Z"
   }
  ],
  "errors": []
