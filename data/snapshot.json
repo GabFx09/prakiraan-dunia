@@ -425,6 +425,17 @@
       "ihsg": 5344.406,
       "usdidr": 18190.0,
       "ust10": 5.154
+    },
+    {
+      "t": "2026-11-15T15:58:00Z",
+      "risk": 79,
+      "btc": 64695.39,
+      "gold": 3886.3,
+      "brent": 95.84,
+      "spx": 7561.67,
+      "ihsg": 5344.406,
+      "usdidr": 18190.0,
+      "ust10": 5.154
     }
   ],
   "horizons": [
@@ -1006,7 +1017,7 @@
       "d": "Sempat ke ~$62 ribu, rebound tipis",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$65.456"
+      "v": "$64.695"
     },
     {
       "c": "neg",
@@ -1040,7 +1051,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 79,
   "riskNote": "Hormuz tertutup, Fed condong menaikkan bunga dan kripto jatuh menjaga risiko tetap tinggi.",
-  "updatedAt": "2026-11-15T13:00:00Z",
+  "updatedAt": "2026-11-15T15:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1358,11 +1369,11 @@
   "brief": {
     "date": "2026-11-15",
     "points": [
-      "Indeks risiko tetap tinggi di 79/100: ketegangan Teluk berlanjut (tanker terbakar di Hormuz, klaim serangan drone ke instalasi AS di Bahrain); pasar saham global tutup akhir pekan.",
-      "Bitcoin ~$65.456 setelah sempat jatuh ke kisaran $62.000–64.000; emas bertahan ~$3.886, Brent ~$95,84.",
-      "Imbal hasil obligasi AS 10 tahun 5,15%; pasar mempertimbangkan kemungkinan kenaikan bunga Fed Desember. Rupiah sekitar 18.190 per dolar AS.",
-      "Beberapa analis memperkirakan BI menahan BI-Rate di 5,75% pada RDG 17–18 November, di tengah tekanan rupiah; IHSG berpeluang menguat Senin menurut Kontan.",
-      "Pantau: RDG BI 17–18 November, laporan kinerja Nvidia, perkembangan Hormuz, rapat OPEC+ 29 November."
+      "Risiko tetap tinggi di 79/100: Iran mengklaim dua tanker lagi terkena ranjau di Selat Hormuz (satu disebut tenggelam, belum terverifikasi independen) dan menyerang pangkalan AS di Bahrain.",
+      "Bitcoin sekitar $64.695 setelah sempat jatuh ke kisaran $62.000; emas ~$3.886, Brent ~$95,84 (harga penutupan Jumat, pasar saham tutup akhir pekan).",
+      "Imbal hasil obligasi AS 10 tahun 5,15% dan pasar mempertimbangkan kenaikan bunga Fed Desember; rupiah sekitar 18.190 per dolar AS.",
+      "Pasar saham global baru buka Senin; sentimen Hormuz berpotensi menekan saham Asia dan menopang minyak serta dolar.",
+      "Pantau: RDG BI 17–18 November (analis condong menahan 5,75%), laporan Nvidia, perkembangan Hormuz, rapat OPEC+ 29 November."
     ]
   },
   "calendar": [
