@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T00:14:50Z",
+ "updatedAt": "2026-11-15T00:29:29Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -94,21 +94,21 @@
    "t_id": "Trump menghadapi penolakan Carney untuk mundur ketika Kanada menentang tuntutan perdagangan AS dan negara dengan ekonomi terbesar di Afrika beralih ke Tiongkok"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "src": "Kitco",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+   "time": "2026-11-14T20:26:38Z",
+   "t_id": "Harga Emas Hari Ini | Harga Emas Per Ons | Grafik Spot 24 Jam"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "What Happens if Bitcoin Falls Below $65,000?",
    "src": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU5FLVVqc3hPOGpWOFBKZjNqSDlKZ0dUMFJseXR1X2twNXpHdjlFa1lQc25mRjJaU0dGUmpEMVBKVDlIYVlFSVRvNkRnRVRkRWNMaGJGQjUzQlRQUlZFdGw3QXo5V3RQV25tOTZ6aDktdVM0S1ZhRGQxQnJWSFhnOUJ5alNnNHlRdDhDMmhlV3Z0cWd4MnREU0lscw?oc=5",
    "time": "2026-11-14T20:07:04Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Two tankers strike mines in Strait of Hormuz",
-   "src": "Israel National News",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZjNiTkF1a3R5MTl2ZVNXQ2dlNklUX0xMQWs1Vlh3dHg5eURIeWFheUJYWG5USkUtQVRYcndmdHpyemtDVmNpYzkxZ0ptWjJYSVctOXpTZjRaQQ?oc=5",
-   "time": "2026-11-14T19:24:20Z",
-   "t_id": "Dua kapal tanker menyerang ranjau di Selat Hormuz"
   },
   {
    "topic": "emas",
@@ -127,6 +127,15 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWhVa1ZNaFFXWFhXcHNZWHlma1hwRGNqd0ZTUDVfOUFoNEY4b2dtc1ZTUEJqMDdiVVB6Z2s1b3liY3NmNnd0OHk4V1F6M09KNmNxRFdaWm5qSmgxcVZleWdtWVprNDM0MTN2aFhoVWJ1NkRSYWJjQ0dxb1NMQ3Yzc1ZJd0hJME5jR3RiUw?oc=5",
    "time": "2026-11-14T18:24:01Z",
    "t_id": "Harga emas turun EGP 260 di Mesir dalam seminggu"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "What's Trump's strategy now with Iran? To keep things as they are",
+   "src": "OPB",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWpJVlg1bmM0Q3hPVjNvSzJVMDJ1akpDVTV5dkxTYTJGY1gtTFpiWkNMY2h3cU5RcFdhSF9lSjhBbEE0OFBibXJWQ05GUktOX1lNV1NxSThhOVJYV2ZrbnpmejJMaEVnYnhjQkhsWE9Pa2xyVmt5VElqNm1ZR2hPMF91eFNJN1JOZVEtaVlZVlg?oc=5",
+   "time": "2026-11-14T18:22:45Z",
+   "t_id": "Apa strategi Trump saat ini terhadap Iran? Untuk menjaga segala sesuatunya sebagaimana adanya"
   },
   {
    "topic": "ai-teknologi",
@@ -414,12 +423,13 @@
    "time": "2026-11-14T02:28:15Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG Menguat, Rupiah Berbalik Naik, Ekonom Umsura Soroti Dampak Politik Pengunduran Diri Gibran",
-   "src": "Universitas Muhammadiyah Surabaya",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVp5QkxEVkw4MFJzSjFjWEV1MmVZc01rakhIbXFDWTVEcXFtYWtLSlpFbG81ZUg2SDRKeGxrMjJmUkxQVWpLbUJIRlRRNVhaVjYtVG9nV25JNHpBSHlwcmFuT1I1WnVLQkpldGpIS2g0bXd6Y0hQcThWQWwwWXVCYkN0dnJWSXMta1RseTcxSENXY3p0WHhDbS1xQXZBNEJZdlR1RU9rck82SGR4SHN3OS1MU0ZwalU1NzJ0SHNRLTBONV9xMktrUl94Zw?oc=5",
-   "time": "2026-11-14T01:12:03Z"
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Can the Anthropic IPO Save the AI Rally?",
+   "src": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNE1SOFhsZ0ZYOEdyQW5FdFpBanlSZE1NSjlRZVlGTGc5Y1FkNDhRUmZzQ1Y4QWh4QWwxajVzSGpTV3R2enluSVh2MVZVTnN1RVVmRTQ3SmxrY0xtWC1iMExRd05WdVZ2bWRZa3ZTNFlZdVNPRkpTWlRTZ2toZUtVNk4wZW1Kenhnbmc?oc=5",
+   "time": "2026-11-14T02:00:00Z",
+   "t_id": "Bisakah IPO Antropis Menyelamatkan Reli AI?"
   },
   {
    "topic": "indonesia",
@@ -508,15 +518,6 @@
    "src": "Ajaib",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjdlMUJNWmg2VGpTRHMxMTJwOHRnQThPRElaWFlSaWstdjNyOXRhbi1xdlpTMnEyMG5Wa28wb0V5UFhiTUI0VExrMG00X25SazRNM2hEcUoyRVVOZXVUUWh6MVl4Z0xqbm9UU2hPMlI5REh1emdMSmZ5TVZncXpFdGFSMUc?oc=5",
    "time": "2026-11-13T16:50:49Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stocks sway as Wall Street heads for a winning week after several turbulent days",
-   "src": "KSL News",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbVhVLUFrVE9kQjhTRVRtZE1yZDNEdjhfUUlwUEI3RDJiR21MNGNBVG1xTzhGOF9QcWdCSTRlR0hOYmFVdDRvMTA5UThfM2NzeGxhaEc5cnA3ZHVBNlpvZmVaNTJNVnJBVkw1d0pOTHE2SzJIQ2xiSXBienpSMGVSQkl0a2V2R1JEQmpCV3lad3AzbFgzQndQX2hlRjFLaXZSQzE4VG5fYjVkcXhuS01WSjEwZ3p6NzNn?oc=5",
-   "time": "2026-11-13T16:29:55Z",
-   "t_id": "Saham-saham bergoyang seiring Wall Street menuju minggu kemenangan setelah beberapa hari penuh gejolak"
   }
  ],
  "errors": []
