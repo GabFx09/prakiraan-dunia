@@ -403,6 +403,17 @@
       "ihsg": 5344.406,
       "usdidr": 18190.0,
       "ust10": 5.154
+    },
+    {
+      "t": "2026-11-15T10:00:00Z",
+      "risk": 79,
+      "btc": 65441.61,
+      "gold": 3886.3,
+      "brent": 95.84,
+      "spx": 7561.67,
+      "ihsg": 5344.406,
+      "usdidr": 18190.0,
+      "ust10": 5.154
     }
   ],
   "horizons": [
@@ -981,10 +992,10 @@
     },
     {
       "c": "neg",
-      "d": "Turun ~5,6% sehari, >14% sepekan",
+      "d": "Terendah 3 bulan, rebound tipis",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$64.419"
+      "v": "$65.442"
     },
     {
       "c": "neg",
@@ -1016,9 +1027,9 @@
   ],
   "regimeText": "Minyak kembali naik akibat serangan di infrastruktur energi Saudi dan gangguan Hormuz, sementara pasar kini memperkirakan Fed menaikkan suku bunga. Saham AI dan kripto tertekan, dan rupiah rentan karena arus keluar dana asing.",
   "regimeTitle": "Stagflasi, risiko tinggi",
-  "risk": 78,
+  "risk": 79,
   "riskNote": "Hormuz tertutup, Fed condong menaikkan bunga dan kripto jatuh menjaga risiko tetap tinggi.",
-  "updatedAt": "2026-11-15T07:05:00Z",
+  "updatedAt": "2026-11-15T10:00:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1308,8 +1319,8 @@
   "riskParts": [
     {
       "k": "Geopolitik",
-      "v": 88,
-      "note": "Hormuz tetap tertutup, tanker kena ranjau"
+      "v": 89,
+      "note": "Hormuz belum aman, drone ke instalasi AS"
     },
     {
       "k": "Inflasi & suku bunga",
@@ -1336,8 +1347,8 @@
   "brief": {
     "date": "2026-11-15",
     "points": [
-      "Indeks risiko tetap tinggi di 78/100: Iran menyebut tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz, jalur itu belum aman; pasar saham global tutup akhir pekan.",
-      "Bitcoin turun sekitar 5.6% dalam sehari ke ~$64.419 (lebih dari 14% sepekan); emas bertahan ~$3.886.",
+      "Indeks risiko tetap tinggi di 79/100: tanker terbakar di Selat Hormuz dan Iran mengklaim serangan drone ke instalasi AS; pasar saham global tutup akhir pekan.",
+      "Bitcoin sempat jatuh ke bawah $64.000 (terendah tiga bulan) lalu naik tipis ke ~$65.442; emas bertahan ~$3.886.",
       "Imbal hasil obligasi AS 10 tahun 5,15%, pasar memperkirakan Fed menaikkan bunga Desember; rupiah di sekitar 18.190 per dolar AS.",
       "Dilaporkan Wapres Gibran menyatakan niat mundur; status resmi belum jelas. IHSG ditutup 5.344 (+1,78%) setelah perubahan bobot saham.",
       "Pantau: RDG BI 17–18 November, pertemuan Xi-Trump, rapat OPEC+ 29 November, perkembangan Hormuz."
@@ -1440,6 +1451,18 @@
       "time": "2026-11-14T11:28:00Z",
       "src": "The Independent",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVlmUEQ3N3EzTUpDQkl4bGFsNHZJTVJMZk1EV2FzRzlKcjVTVlAwdllLOWFwb3lJOHVIeHFuYmlIQ3haanJNVlpmYlRkdmdKOEVBRWFMRzlQZnpxVktOSDViVDlLQWVMWmhJT3N1ZFZJVUFkVXBPT29zdE0zMDRlVnFBUjItekVTVUk2UGtmX3NaU0xENC1maUtZbUtqUUdIOEx6QVpGVQ?oc=5"
+    },
+    {
+      "t": "Bahrain keluarkan peringatan ancaman keamanan; Iran klaim serangan drone ke instalasi AS",
+      "what": "Bahrain mengimbau warga pindah ke tempat aman, sementara Iran mengklaim serangan drone ke sebuah instalasi AS; dilaporkan lima media. Klaim belum terverifikasi independen.",
+      "impact": "Eskalasi di Teluk menambah risiko pasokan minyak; minyak dan emas cenderung terdorong naik, rupiah rentan tertekan.",
+      "assets": "Minyak, emas, rupiah",
+      "sev": "tinggi",
+      "status": "berlangsung",
+      "cat": "perang",
+      "time": "2026-11-14T10:00:23Z",
+      "src": "UrduPoint",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGdlaU81eVpoNjFGUkxoUllOSXNyWDJzRzFGWEE2NVZIQ090NHpLYXlsV3V0WFh0azFlNV9NLWl5Z0dPaks1RFVhS3BFbEJIaW9HUElBczdwYU9wNkgwczZ0c2h1NUdXa05kY08xbEYzSGRBTzNNbnJvY1ZlTFUzREFzYTE1WUZ0RG9nX3lKX21xZGhvQ0xUQ1BoNnpLRjBPUnZleVVUcw?oc=5"
     },
     {
       "t": "Wapres Gibran dilaporkan menyatakan niat mundur; status resmi belum dipastikan",
