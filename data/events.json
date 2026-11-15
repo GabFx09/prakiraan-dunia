@@ -1,49 +1,7 @@
 {
- "updatedAt": "2026-11-15T05:08:26Z",
+ "updatedAt": "2026-11-15T05:23:08Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
-  {
-   "id": "perang-202611140846-efa7",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Yemen reports deadly market attack in Taiz, announces missile and drone strikes on Saudi-backed forces",
-   "src": "ABNA English",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2kyZ245U3NjQ01fY1FqdGNHME1CdmttWEppcW82S1Q3azhaSWJiZXNXVWNXbG81ZWQ2SHk0bktUOWdNSmVnaHlIc2ZxX0M3Vl9qTnB4OU1wa2NvQTRvRkRhOG13TDhHMWFkcUNuMXhoTnY1eERMc0RUMDhzME5HRGZKUGg2VF85OG9haUlYR2U1aVJTVTFJbWNTbw?oc=5",
-   "sources": 8,
-   "recent6h": 1,
-   "score": 8.5,
-   "level": "besar",
-   "first": "2026-11-14T08:46:00Z",
-   "last": "2026-11-15T04:37:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Houthis sustain missile and drone attacks across Saudi Arabia",
-     "src": "FDD's Long War Journal",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU29yWi01YXpaNzh3QXNFOE5HaWZCLTZ0Wm5JdU5mQkg2VWktVDBaWEdqRmVTajZpdG9xUGYtQ0o0dkpJZzdxZm1lMVppdEN0VlVlWjNWS19QNXhjNEM4TFdFbkJwMkxfZVlqRXFmVnd6Wl9yTUdtMTV2TjlLR2Q0NjFCS3FORW9MUXVyQWY0NDl4VGlTTVFwV0JfdDVrMmxjc3NwZzFLWHlTNGwzU1dlT2E5WQ?oc=5",
-     "t_id": "Houthi terus melancarkan serangan rudal dan drone di seluruh Arab Saudi"
-    },
-    {
-     "t": "Gulf States Demand Full Compensation from Iran for Missile and Drone Attack Damage",
-     "src": "UrduPoint",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1E3QlhmRE9MRE43MXA1UjRLdWFzRWFXZXFudUhfakxfQ1ZqUzQ2bEtNaEpXNWFtVDllXzhhOVFCNEJRbzN4VWxDUFpTTlVTamswT0ljcDFIclk1S2JSa2JLOEJzcGNYbjJ0Mm81aXB0UGdsVnhRS0pxNnJudE1zaV9UOTRYQ211dXVXQVJoV1BwWERwWkFYamJwY3AtWFE?oc=5",
-     "t_id": "Negara-negara Teluk Menuntut Kompensasi Penuh dari Iran atas Kerusakan Serangan Rudal dan Drone"
-    },
-    {
-     "t": "Houthis Launch Missile Attacks on Southern Forces' Military Camps in Aden",
-     "src": "مركز سوث24",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iLW5hVmRhR3NTUWlWSUJxdk54ZVltSUE0cTBydjRBSk1qaVFGeGRIMlJzcDhzaFVCdFgtYlFqR3dEQ0d0RWxwQUFqRG5mclVQeWhoN1Jn?oc=5",
-     "t_id": "Houthi Melancarkan Serangan Rudal ke Kamp Militer Pasukan Selatan di Aden"
-    },
-    {
-     "t": "Estonian military reveals details of Ukrainian drone strike on Russian missile ship in Gulf of Finland",
-     "src": "The New Voice of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGRScllYSnJ0cE9ZbEJnSmpMVWhhbDdzVzlfSXBXazVvNTVKNW1kdkYyWEw3V2ZQSUhWeTdLMU0zeU5pYzBQLS1keDNZVnUyVmhWWlFaZ0dfbjhXeWRMVmFwYjRjUENZeFh0UnFFbEJIcUMwbEtYd0stTGpldHRLSDFObWlCc2I5aTBycElweFZLRjhzbGFPb0pGajZxZG92ZDMxWU14Y9IBowFBVV95cUxNbF9vbHZVdl9QMURRNF9xc0dSUkNMUk9ta19xNFFkX3pHTlcwVk96eHI4RXJaaXZIdkVtNUZ6UmE4NWExaWNUYlFpekFONC0yQy1ZTFlMMFdLdHhWSDR0bjBiS3czV0tZci01X0hTckxjZ19SdlByS1N2NDZEWGIzdk1QQVJqdFRjc0hlT2tHcVlVMnlfZ1lZRzZQS3BXYXRVcGo0?oc=5",
-     "t_id": "Militer Estonia mengungkap rincian serangan drone Ukraina terhadap kapal rudal Rusia di Teluk Finlandia"
-    }
-   ]
-  },
   {
    "id": "transportasi-202611131959-a1f2",
    "cat": "transportasi",
@@ -85,6 +43,42 @@
    ]
   },
   {
+   "id": "perang-202611140846-efa7",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Yemen reports deadly market attack in Taiz, announces missile and drone strikes on Saudi-backed forces",
+   "src": "ABNA English",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2kyZ245U3NjQ01fY1FqdGNHME1CdmttWEppcW82S1Q3azhaSWJiZXNXVWNXbG81ZWQ2SHk0bktUOWdNSmVnaHlIc2ZxX0M3Vl9qTnB4OU1wa2NvQTRvRkRhOG13TDhHMWFkcUNuMXhoTnY1eERMc0RUMDhzME5HRGZKUGg2VF85OG9haUlYR2U1aVJTVTFJbWNTbw?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-14T08:46:00Z",
+   "last": "2026-11-15T04:37:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Houthis sustain missile and drone attacks across Saudi Arabia",
+     "src": "FDD's Long War Journal",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU29yWi01YXpaNzh3QXNFOE5HaWZCLTZ0Wm5JdU5mQkg2VWktVDBaWEdqRmVTajZpdG9xUGYtQ0o0dkpJZzdxZm1lMVppdEN0VlVlWjNWS19QNXhjNEM4TFdFbkJwMkxfZVlqRXFmVnd6Wl9yTUdtMTV2TjlLR2Q0NjFCS3FORW9MUXVyQWY0NDl4VGlTTVFwV0JfdDVrMmxjc3NwZzFLWHlTNGwzU1dlT2E5WQ?oc=5",
+     "t_id": "Houthi terus melancarkan serangan rudal dan drone di seluruh Arab Saudi"
+    },
+    {
+     "t": "Houthis Launch Missile Attacks on Southern Forces' Military Camps in Aden",
+     "src": "مركز سوث24",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iLW5hVmRhR3NTUWlWSUJxdk54ZVltSUE0cTBydjRBSk1qaVFGeGRIMlJzcDhzaFVCdFgtYlFqR3dEQ0d0RWxwQUFqRG5mclVQeWhoN1Jn?oc=5",
+     "t_id": "Houthi Melancarkan Serangan Rudal ke Kamp Militer Pasukan Selatan di Aden"
+    },
+    {
+     "t": "Yemen's Houthis claim drone, missile attacks on Saudi-led coalition, government forces",
+     "src": "巴士的報",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2xtVmViWVFfaGQ2TzcteUlPX1IyZThSMXd4VUtELTlGcjNhQTJ6dGR6eVFENVZXUE5zdUMyWWMydFRPTU5zUGMyVTc3c0RNS1MyaWhYYldpX3ZiT2UwVjNxZGtxLW1oXzllZFVQTTg5QzBmNWRzeGxORmxIbHJfRFRpbnk3V0s5dU5oeUlxTTA4SnRGZW1uNGR1eTgzTFZxaGgyU2hFcU9ZRHNiUU5Nekg2QmtFM1o5UGlpUVBGQ01WTmJKcG54YjNNRklBckd1?oc=5",
+     "t_id": "Houthi Yaman mengklaim serangan drone dan rudal terhadap koalisi pimpinan Saudi dan pasukan pemerintah"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611141930-73b0",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -113,52 +107,19 @@
    ]
   },
   {
-   "id": "indonesia-202611140945-d5c5",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Prabowo Tak Gentar Hadapi Ancaman Demo: Siap Mati Demi Rakyat dan Bangsa",
-   "src": "tutur.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2NQU1VDX3ZFcFNNVzFkbnVtU3JRUFhPWEdNLTBIUVlGMVZtOHh2RDM5dHllZ0NIdU5aYlFtN3Q0YURhZ3pNT0V4eFliTmZFNnVoS3ozQXV6enFQaFdGZGZYS3Y4UWN3bG9LVHVFM1RvdEpoWlF4U29YR2xBVW9uek8wQnREUkVxRE5mZlY5V2ZHamxmV0V4eF85Q1dxY0VUTmlr?oc=5",
-   "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-14T09:45:00Z",
-   "last": "2026-11-14T14:00:10Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Sindir Mafia Kekayaan Negara Goyang Pemerintah Lewat Demontrasi dan Kerusuhan, Presiden Prabowo: Saya Tidak akan Gentar!",
-     "src": "KoranKota",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb19QOW1aTGxGbnA4NzRPVFhrTGxTUFNlTDJBanFvLUNSU3hDVFFGUThoY1RjVmV1M3B4cFM0eUN5blFLckFBQ0ZZUkRUcTlGWE52TlNpUmp6U004WDJFMFBjV1VHelpmdXpvVGVFSkU5aWpjSV9INmpkMG16WU8tX2Jzb0taSExGRkpBd2w1cW1faUh3VFduOHBXUVU1UzN6dWFjNkRrNGRHRkx0TlowTFIxWVk4YWRtTFlXT3VjRUNtUVk2Q0M1U3lId0h4VU1xbFFrMXdYVGl5UFptVG5fWkZfRUFLSDJ3WUhPNFhsNkw?oc=5"
-    },
-    {
-     "t": "Prabowo Tak Gentar Diancam Digoyang Lewat Demo dan Kerusuhan: Saya Tidak Akan Mundur!",
-     "src": "SINATA.ID",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYU1VQ3RCYnhFeDNWMFRRanFCb25CSXlJWlA1MERrSWpnVTRQbGlhdzRMdW53b3J0UndpajNPMUJUdGZYRGpKYTBjWlA4YmhUU2dOcWd3dFlLczZQbnlhUFpac1pXY09KWDZLN2c1N0VCRlNtbnpaZ0ZXSjVBZXFES3JyMklDaE1yWmNPQlFQWHJOWkw3dzlsd3gtSllOb2VKY2ZF?oc=5"
-    },
-    {
-     "t": "Prabowo Tegaskan Tak Gentar Hadapi Demonstrasi dan Kerusuhan, Singgung Pihak yang Ingin Goyang Kekuasaan - Poros Jakarta",
-     "src": "Poros Jakarta",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNVZWaVJDVEFfRktNQTlzTldJUWx0X3ZPM2tkRXRIUjBmcHBNNW1wQURMYUV2UkRGcWxERkFhNW5SN1pfZlZQejdwZVk2VVNQbXBySW85WVYzN2RMaGJPSll3SkRuak90NEstZ2NzVVAyck54NzJIZ0N6ajJYeG85eTBWSlk4MW5zc0lOM0MtdXphZERzc2llMVozdDI5TWZPRERSNWxqX2JUUGtxM3daX3NSQXIwMGtTdVc3SDRwMkRBOGpIM01lSHdaSkw1akFzQlkwVkhEX3Y1TUpIOGU4MUE4Y2FuZVnSAewBQVVfeXFMUDZtVVZEbnZMbFV4b0lZSzBZM2c5Q3FBV1BXbGtaQU84eFloVTI4dV9UWUgyQjNVSzJZUmVJM01LWERUdTZDV3ZtVFlyYTdqMzYzWmhKLUVlZWFLcVRadkZ6TWlFOFhvdzQ3dlkwQVNlZEFZUk5GYkp1TV90SWZ5ZmRlcUs5d1Y2SjA3b01BSlpCMUxhZXE5bnRTQzh4WC1vNmpicVpOajF4Vmt5UDZiVlhYS1hKdUtPNWZEYUR0dmNHWnhJcGY2NzR6aVBrWF9Sc3NDa1FfdTgxdzV0VkdiTlpYdjJSbk8zUm51RU0?oc=5"
-    }
-   ]
-  },
-  {
    "id": "kesehatan-202611150215-4e3f",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
    "lang": "en",
    "title": "Ebola outbreak remains out of control in Congo 6 months into response",
-   "src": "News4JAX",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTMyV1VjU0tFc3hGS2VlN3VweXJpQUE2M1QwaWNaMzBmWm9SYUswS3BzQXgyVzBBQkpXSEptN3N0Mzd4Qmt0bnRfTm1hMnJiTUJ4UENFTWpRcXlnT1VKaEtZMmdkXzJ5cFROOWk0bnVqMk9UWGV6V1BBelBKRmJKdlBnaVJfbDBmM2R2RDg4UFRNUkhnN0dMa1dDSG4zRVAxTWtxUTBVWFZiemdMV1JxNC12VQ?oc=5",
+   "src": "The Edwardsville Intelligencer",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd1ZVcklfWU4td3VqT3lEZkFLODhoaklaRzhDXzQ4dEZGT2pnYTRvNzZkMFpJSG83ZHpRVnZ4RlBvMEU4b015Wmp0VzQ5YTFRUlZNaFRpUU1SLTd6NUJBSzlybUwyanB0eVpwc0xNM1dCOHBtclM0cnRHYnFlMXdBbkdrY1ZJZ2ZIeFlVdWpXQlNlNGg3bkU2MGxDa2lpelJnclMtTVpFUGVBb3hEWlJQMjMwUQ?oc=5",
    "sources": 2,
    "recent6h": 2,
    "score": 3.0,
    "level": "kecil",
    "first": "2026-11-15T02:15:00Z",
-   "last": "2026-11-15T05:02:05Z",
+   "last": "2026-11-15T05:08:14Z",
    "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
@@ -192,58 +153,61 @@
    ]
   },
   {
-   "id": "kesehatan-202611140533-740e",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "perang-202611140846-efa7",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "US Stands to Lose Measles Elimination Status as Multiple States Face The Worst Outbreaks in Nearly Three Decades",
-   "src": "Health Policy Watch",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YVlNhTThWMUZqUnc0RDV6a2V4eEFOcWJ1bXhBSXRyQkxsRDd0a0FMYnBTSG5HSFM0UnpucUxnelNaS2dRbTRIenNnamZxbUpkNERhY2ZsT1hKNUFpWWdSVDAwMWkyTlY3UnIyRUpyYnRxZXNhRjBTUkVB?oc=5",
+   "title": "Gulf States Demand Full Compensation from Iran for Missile and Drone Attack Damage",
+   "src": "UrduPoint",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1E3QlhmRE9MRE43MXA1UjRLdWFzRWFXZXFudUhfakxfQ1ZqUzQ2bEtNaEpXNWFtVDllXzhhOVFCNEJRbzN4VWxDUFpTTlVTamswT0ljcDFIclk1S2JSa2JLOEJzcGNYbjJ0Mm81aXB0UGdsVnhRS0pxNnJudE1zaV9UOTRYQ211dXVXQVJoV1BwWERwWkFYamJwY3AtWFE?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-14T05:33:23Z",
-   "last": "2026-11-14T19:06:27Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "first": "2026-11-14T08:46:00Z",
+   "last": "2026-11-14T15:18:31Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Measles outbreak: America loses measles-elimination status",
-     "src": "The News International",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2NyZ1hXX1BHSUNTMVVHT1ducHFIeTB4enRURTVLRjJhNEk3UWFDSVg4SkNqcGxqOHBEcEZyWGZTN2NKcHNIWDQ2NElnOW9FdUZkLUNIR243Z2VxSk04RGxXeWU4SWJnNWpYZlozUDg4X1AzZVBrNGd5TTU4NERKUm0ydFFQZGpwMnJEMEZ3eU5oSjl1M0VlbGxCN3NIOU5E0gGcAUFVX3lxTFBiSl9zWmlaaDh4bktPTkg5bmEwNW5ZSUYxRW5ROHQ2Vk1QS25qdF8xb1lHTERkc2FSZWZjbTB6MlZsRFZldkVQekYzRkxIWEdJX3ZJSHJVaEo1Y3kzMGtCNUx0dmJsSEh1WUZKdDRXUkxvZkx4eHVpUmdvYnVGOUkxNUlfMnh3U1prVmpSYzFXOG5mb1JXZU1QeW9wNg?oc=5"
+     "t": "Estonian military reveals details of Ukrainian drone strike on Russian missile ship in Gulf of Finland",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGRScllYSnJ0cE9ZbEJnSmpMVWhhbDdzVzlfSXBXazVvNTVKNW1kdkYyWEw3V2ZQSUhWeTdLMU0zeU5pYzBQLS1keDNZVnUyVmhWWlFaZ0dfbjhXeWRMVmFwYjRjUENZeFh0UnFFbEJIcUMwbEtYd0stTGpldHRLSDFObWlCc2I5aTBycElweFZLRjhzbGFPb0pGajZxZG92ZDMxWU14Y9IBowFBVV95cUxNbF9vbHZVdl9QMURRNF9xc0dSUkNMUk9ta19xNFFkX3pHTlcwVk96eHI4RXJaaXZIdkVtNUZ6UmE4NWExaWNUYlFpekFONC0yQy1ZTFlMMFdLdHhWSDR0bjBiS3czV0tZci01X0hTckxjZ19SdlByS1N2NDZEWGIzdk1QQVJqdFRjc0hlT2tHcVlVMnlfZ1lZRzZQS3BXYXRVcGo0?oc=5",
+     "t_id": "Militer Estonia mengungkap rincian serangan drone Ukraina terhadap kapal rudal Rusia di Teluk Finlandia"
     },
     {
-     "t": "US measles elimination status revoked as outbreak spreads through 45 states",
-     "src": "The Jerusalem Post",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uRHphUjkxWFM4UktFUlc0Z2h6N3ZhWm5mdmozWlFTQlVoWGdYdkRaLVNnUThVa0NuRGJveC1heHhtZE5rWFREYmhBLTNlNzFvQlJKektfTWJXRngzc1Fj?oc=5"
+     "t": "Propulsion Lost, Casualties Reported: Estonia Details Consequences of Ukrainian Drone Strike on Russian Missile Ship in Gulf of Finland",
+     "src": "Мілітарний",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1ctcXFtZWZ5OUVTZ19iTlA5SWJEZThlTlRWVEdaWFlhazgtdmViUmNOMHg2bU14RFRZdkU5amN3VlhZWU5oRXZGRG5NV1ZfUWVzQjhuaXVaZTdrSGg0cmNVM3oxZXRlQzU0MjMzTmpRb2FmQU1WZ3FtU0UyYjE2NGNBZG0wY1NmODFWZjNpd2ZUYThJY3BYeEo4TUYtYlBx?oc=5",
+     "t_id": "Propulsi Hilang, Korban Dilaporkan: Estonia Merinci Konsekuensi Serangan Drone Ukraina terhadap Kapal Rudal Rusia di Teluk Finlandia"
     }
-   ]
+   ],
+   "title_id": "Negara-negara Teluk Menuntut Kompensasi Penuh dari Iran atas Kerusakan Serangan Rudal dan Drone"
   },
   {
-   "id": "indonesia-202611131421-1e33",
+   "id": "indonesia-202611140945-d5c5",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Polda DIY Akui Turunkan 858 Polisi Berpakaian Sipil saat Demo 10 November 2026, Sebut Perintah dari Kapolda - Ayo Bandung",
-   "src": "Ayo Bandung",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOblJIRUlGRFZYeV91TlA2OU1KV2pMRWtPWnVDeU8xUG95enFpOEw4RU5GTm9NVG5SeENCT1dMUXJjckFDajRkWXNDNkw1VUZnbW04VFRfYWVKVzhvNkVTUjZCc1RuU2RJU2VGMjRVTFlfTWtHZ0h6VTlqRlJyRGVXOHpCR0FYc3UxcDZ0TW42aEZMbGp6WXpBWjV4RXdKbnNiQjZzQkZZdXAzMGhIUVdROE1Xem1pTG4zUVpzOVFRT0FPOXVvdy1Lam5ZM0RlbDdjdTJzY1ZjWmYtNzRoVldoMWYtWdIB6AFBVV95cUxQTFJ0RDVMcVhyZ3ZRYlhra1RJVDc4U0o0QWJiQlNvbGJ1Rm9KT1BRQlBqRTR2cWVPd0x6UGpBNVRPM3BmbENzZ2FSbjFWeXpsSURwYXhOM0VyRm42UlgzVlU3VUJDWDcyZExQS3VBSnZLLThwZUQzaENmZXZCZmh4WlMyc2dMSkxTVDIyQmJhaE1qUWhQbFBkNXhpSlpRNWQ1YXQwdmI1N2tsNjNEUWR0aG45UVFUZnp1RWFGSmhwRGZSRklkeGI0WGtUUElDNjNiLXNOSGJYbG9KUjFXcGs3V1RhbERnck5O?oc=5",
+   "title": "Prabowo Tak Gentar Hadapi Ancaman Demo: Siap Mati Demi Rakyat dan Bangsa",
+   "src": "tutur.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2NQU1VDX3ZFcFNNVzFkbnVtU3JRUFhPWEdNLTBIUVlGMVZtOHh2RDM5dHllZ0NIdU5aYlFtN3Q0YURhZ3pNT0V4eFliTmZFNnVoS3ozQXV6enFQaFdGZGZYS3Y4UWN3bG9LVHVFM1RvdEpoWlF4U29YR2xBVW9uek8wQnREUkVxRE5mZlY5V2ZHamxmV0V4eF85Q1dxY0VUTmlr?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-13T14:21:45Z",
-   "last": "2026-11-14T12:00:44Z",
+   "first": "2026-11-14T09:45:00Z",
+   "last": "2026-11-14T14:00:10Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Polda DIY Akui Kerahkan 858 Polisi Berpakaian Sipil saat Demo Jogja, Ini Penjelasannya",
-     "src": "Lombok Post",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjJySVhjQlNaaWt1YTNIaWlGZjdzYk5nUFVhcnYtdzVEb1BPYVZjck5oZFUzU0hjaUlBYm5XbkNBQW52UnpoQVVPMU8tWjZhQ2FVaDJrY0VVUzdPMW85VENGeTluejNoOFBwdFd4YmpDeW5LRkQ2N1ZmWmJES0ZXYzY4RWs0a1ZkSW1fOGg5dFhoLTY2U3JaU3drR3RsTnh5UWw3Rl9FQjgwQjBJZzF5Nk1QcTBIWEFEOUt5dVh5blVzREZMM1BGV09vZ3QyTXY3akHSAdcBQVVfeXFMT0U2MDhKWWcwU19TZ0hFY2xHQldGbi1tYzN4OTVjQ3JxSEdhdUZLb3NZYzA0UUxfN201MExBM0Fodld2ckM0S2RkaXdMZzNtX1JQSjVXUjBwMjZtS3hLTXpxNkFZVXQ4WWxBeDFBMF9XOFBqdnRZWWNIWWVTN3dDdDZubTBEcDVZb1VJRVNtQ2lNYkNQcXd6SEdHTGR6YjRSUVlkTXZNbXdnR3VaNkk5cVpZZHlMTWk4Mk5ubVVhZ29xWFlWSG5uV2w3clF5VnZoTHRxQkN6YkU?oc=5"
+     "t": "Prabowo Tak Gentar Diancam Digoyang Lewat Demo dan Kerusuhan: Saya Tidak Akan Mundur!",
+     "src": "SINATA.ID",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYU1VQ3RCYnhFeDNWMFRRanFCb25CSXlJWlA1MERrSWpnVTRQbGlhdzRMdW53b3J0UndpajNPMUJUdGZYRGpKYTBjWlA4YmhUU2dOcWd3dFlLczZQbnlhUFpac1pXY09KWDZLN2c1N0VCRlNtbnpaZ0ZXSjVBZXFES3JyMklDaE1yWmNPQlFQWHJOWkw3dzlsd3gtSllOb2VKY2ZF?oc=5"
     },
     {
-     "t": "Polda DIY Kerahkan 858 Polisi Berpakaian Sipil saat Demo Jogja 10 November 2026, Ini Penjelasannya - Kelumajang",
-     "src": "Kelumajang",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbERjQ0Y4dS1xM19NUjVsR25OY1RQU212WWNfc3ZDSFVPc0Z6RjZCTTFIVmFKeld2NWF0blNmWkZOWm1ES3czcE1jX3NRTU56QThHTVVHRkY0ZjUtZTRRenp0anRlTVpBUmZyeTVHaXBQTFdOUlFQSGpDMjZ6eTJPOFk0VEdLNjVaeFEwa2t1NnU4Z0NVbG9Ud0lfVmRYYWZab0VGeGVXUFlFbzN2OGtJSW9kN2haZVB6a2x2d2NUaU50WXpYSjZDcFNOZndRR3BkZE5LS3FuUmJpU0nSAeABQVVfeXFMUDFDNG44X1d2V29WZVd3VDcyMmNEd2NzOGk4dGZDbUplZVdWM2ozZjhyRERUVDRjSmNhVnhYZVh6OXJGVVRjemtSR1lQSjNENS1zaENraFk3MTdjMlJJcWFDR0ctU1QyYmM4blh5S19PN09jekF1RFo3SXpCQ2VTNDUxd0w5QmszWjllbmpuZjJEQWJCQm5abkNVSm5RbDJfcVdIRHdaaW1OY3d5eS1HTzZGZ3dBS2JyMXdleFNKTThNakVyRTRwd0hpb0Zralh6bnpnRTVKdXFIVThqT1Z3WHc?oc=5"
+     "t": "Prabowo Tegaskan Tak Gentar Hadapi Demonstrasi dan Kerusuhan, Singgung Pihak yang Ingin Goyang Kekuasaan - Poros Jakarta",
+     "src": "Poros Jakarta",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNVZWaVJDVEFfRktNQTlzTldJUWx0X3ZPM2tkRXRIUjBmcHBNNW1wQURMYUV2UkRGcWxERkFhNW5SN1pfZlZQejdwZVk2VVNQbXBySW85WVYzN2RMaGJPSll3SkRuak90NEstZ2NzVVAyck54NzJIZ0N6ajJYeG85eTBWSlk4MW5zc0lOM0MtdXphZERzc2llMVozdDI5TWZPRERSNWxqX2JUUGtxM3daX3NSQXIwMGtTdVc3SDRwMkRBOGpIM01lSHdaSkw1akFzQlkwVkhEX3Y1TUpIOGU4MUE4Y2FuZVnSAewBQVVfeXFMUDZtVVZEbnZMbFV4b0lZSzBZM2c5Q3FBV1BXbGtaQU84eFloVTI4dV9UWUgyQjNVSzJZUmVJM01LWERUdTZDV3ZtVFlyYTdqMzYzWmhKLUVlZWFLcVRadkZ6TWlFOFhvdzQ3dlkwQVNlZEFZUk5GYkp1TV90SWZ5ZmRlcUs5d1Y2SjA3b01BSlpCMUxhZXE5bnRTQzh4WC1vNmpicVpOajF4Vmt5UDZiVlhYS1hKdUtPNWZEYUR0dmNHWnhJcGY2NzR6aVBrWF9Sc3NDa1FfdTgxdzV0VkdiTlpYdjJSbk8zUm51RU0?oc=5"
     }
    ]
   },
