@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T02:26:52Z",
+ "updatedAt": "2026-11-15T02:41:31Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -345,15 +345,6 @@
   {
    "topic": "china",
    "lang": "en",
-   "t": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SX0FBdkdnb0NoRXdMaWlrZlpyQk1oaEo0bnZSTXJxTDlacFpWTTZldUtrSkg5TGdFcHBxUzFwUlhoOGYtMHh5QUhwbEpFZEtndVhPSEZBNHRRWU1fYndac2VKbXZOWHoyOE1UV3JOcHprWWZFYS1kdS1B0gF_QVVfeXFMT3dWUTRlMEN4SDVQQ3lKWnJlM1AtVHdxakxDNnJ4Wl9QWHdjcURIMndkSzIwdUFyQlVTZXpYdEMxYWoxR0JWaFZBNmYwYm4zYmZfY3NvTDVzb2h3UE4tT18xZmFGd3ZubnVpc1NpLW9IZXBpSTNUVTVoSEIzOTlvMA?oc=5",
-   "time": "2026-11-14T08:16:44Z",
-   "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian menjelang pertemuan Xi-Trump"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
    "t": "China, US discuss tariffs, farm trade at first trade council meeting",
    "src": "China Daily",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKN251S1BpVWwwZTFqdXJOS1h0d3ctdzgtTlZLZURzOE9zX1BCNElSLU5VSTJEcGhSRDlwSENhYWRBajhkRHVsdWltRTdROHRFZW0zbHhubHRJVlJCblV4b0JsSFJaZDN1Nmk4bzlZbHN6RjJwLVBwbFJwOW81UQ?oc=5",
@@ -379,6 +370,15 @@
    "t_id": "Tiongkok dan AS Bahas Tarif pada Pertemuan Pertama Dewan Perdagangan"
   },
   {
+   "topic": "china",
+   "lang": "en",
+   "t": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+   "time": "2026-11-14T07:13:00Z",
+   "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian menjelang pertemuan Xi-Trump"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG melonjak 5,82% sepekan, CDIA hingga GIAA jadi pendorong utama",
@@ -387,21 +387,20 @@
    "time": "2026-11-14T07:00:00Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets",
-   "src": "FXEmpire",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzdCM1hzb2FXaGNBanJoWDJac05XeXpWX3R6WUJKZ1JTbTZyVHM1TmQyRlYzQlRIdmozb2ltem1hdnNvN1FaZi1GdFczYV81YnhxeDBnSGhzSURzOTREcnpPV0xDaEdKWFVSZVdFandqWFB4a09jcE9aTTQ2Und1SFgwdEpEV0NLaVRLeUhMSUJFSnBWN25HSFZ6UnUzY05mZzVrMWpxYXViUlAzcWV1aVM3SXVLZ3RPOWg1aFlB?oc=5",
-   "time": "2026-11-14T06:02:00Z",
-   "t_id": "Perkiraan Harga Emas (XAU/USD): Kekuatan Dolar Memperluas Target Penurunan"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Inflasi Maluku Utara 6,18 Persen, Pemprov Perkuat Kinerja TPID",
    "src": "Istana FM Ternate",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT091WENfX3ZJYnRWLVA0bVRpeDZBeHRYS2Q3S2N1VzNYQTRiY1FlaTlYdERtU2dOcnZGa1lyVllSdGNGLWtrZ2dPRlhHVTQzZlE0TkV0V0JCVlRfSThabTZpV3pwQlFiY0Fzejh3R2Q1WkpGLV9ORXBJdUZ2SHpRc1VQSE9WdjdOa1E?oc=5",
    "time": "2026-11-14T02:28:15Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Menguat, Rupiah Berbalik Naik, Ekonom Umsura Soroti Dampak Politik Pengunduran Diri Gibran",
+   "src": "Universitas Muhammadiyah Surabaya",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVp5QkxEVkw4MFJzSjFjWEV1MmVZc01rakhIbXFDWTVEcXFtYWtLSlpFbG81ZUg2SDRKeGxrMjJmUkxQVWpLbUJIRlRRNVhaVjYtVG9nV25JNHpBSHlwcmFuT1I1WnVLQkpldGpIS2g0bXd6Y0hQcThWQWwwWXVCYkN0dnJWSXMta1RseTcxSENXY3p0WHhDbS1xQXZBNEJZdlR1RU9rck82SGR4SHN3OS1MU0ZwalU1NzJ0SHNRLTBONV9xMktrUl94Zw?oc=5",
+   "time": "2026-11-14T01:12:03Z"
   },
   {
    "topic": "indonesia",
@@ -427,6 +426,15 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTQ0Qi0tTlhXZ254X2s0WmREa0U4Uzdaa01KZGo3V0lCbHFtM29qc0YzNHNvUHQ0LVN5WFBDSlBnSGJXZlh5Wm5GM09PVG5JdVVlTU9wWEhPVEhCUzRScWV3RDBicnVUbTVRQVJ6ZTlYRmJUTHJKOE45SUVPQ0Z4cFdGSnN1NmlsbUtUOTEza1FDMGdwaXhDTV9kdm8?oc=5",
    "time": "2026-11-13T23:07:04Z",
    "t_id": "Saham-saham Wall Street sebagian besar melemah karena kemerosotan Nvidia terus berlanjut"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street closes mixed as Nvidia and AMD sink; Nasdaq still posts its best week since August",
+   "src": "MLQ.ai",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHotVHN3dGpxMTJURzFhVGdSaGstYnJDdUltbExQUlhsRlRyaW9aR2ZPdF96bnRxck9ka0ZrNUxGS05JWUU4Tk40RW95UlV1WElZandjWjJuUEtzbUgxWC1zMk10djJmMFVVdnlIaktwVWRyMTg5Q0V4WWVNcEEwdWFDQW9qaU93OU5oV3ZYVUxPbnA1UlR6Q2FSTmNDY1ZWc2ZjYmt4M3Q4T2VyZDQ5RTRoQ2s?oc=5",
+   "time": "2026-11-13T21:52:10Z",
+   "t_id": "Wall Street ditutup bervariasi karena Nvidia dan AMD tenggelam; Nasdaq masih mencatatkan minggu terbaiknya sejak Agustus"
   },
   {
    "topic": "ai-teknologi",
@@ -463,15 +471,6 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tNlRPMDE2aG5CazhrMllJN0kxNHhaN3kwVFdoNXdXTHFtcjM0a3ljS0Z3MGFCU29OS0FOSTgxSFdPR1RwazhVNWgyZlZjUm1XcG5HMC1oYw?oc=5",
    "time": "2026-11-13T19:33:00Z",
    "t_id": "Dewan Keamanan LANGSUNG: Ketenangan Teluk yang rapuh diuji ketika ancaman terhadap pengiriman Hormuz meningkat"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall Street Is Writing Off Nvidia Stock. Here's Why That's a Mistake.",
-   "src": "The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMC1EX0IzNnFwdWhKNVhpbi1jU25RakhGNGZyME9BMTdlaXFPd09IU0VfMklYZ19lZnZ5MWpFU2I2a0xlbVVtX2RpaDVqZzloY1NRRzlrTzJYNVA3eVFTbUZVYmJjSVh1aWhVNDZVMVMzMm9QV19SWGdNcEoxdWU0VVVzQV9faDN3eGpkSGZ1dGNVdEMtcUw0?oc=5",
-   "time": "2026-11-13T19:17:00Z",
-   "t_id": "Wall Street Menghapus Saham Nvidia. Inilah Mengapa Itu Sebuah Kesalahan."
   },
   {
    "topic": "bank-sentral",
