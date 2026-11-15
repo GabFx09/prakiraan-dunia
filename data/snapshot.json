@@ -381,6 +381,17 @@
       "ihsg": 5344.406,
       "usdidr": 18190.0,
       "ust10": 5.154
+    },
+    {
+      "t": "2026-11-15T03:58:00Z",
+      "risk": 78,
+      "btc": 64718.32,
+      "gold": 3886.3,
+      "brent": 95.84,
+      "spx": 7561.67,
+      "ihsg": 5344.406,
+      "usdidr": 18190.0,
+      "ust10": 5.154
     }
   ],
   "horizons": [
@@ -827,6 +838,14 @@
   },
   "news": [
     {
+      "t": "Perubahan bobot IHSG: ratusan saham HSC dikeluarkan dari perhitungan indeks",
+      "src": "kontan.co.id",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObE5NTHRUeng4T2NmVGF2MGhONkFrYmk4VGhncGY0eXhxRlRoUUVwVk8yZFA5T0RhVkxDak9OUGdMSEZ0MGZENXRaYjh3M0ozUlM4SlAxZFE2LXhuODJLY1VPeFNYa2cxWjRuUnNOM0h6dEVCNFJDd1ZwOXJNQ2dqRTZhNC12dXIwNC1Db3oyNUhFTEhGNmtMRmlmb1pRa1JjNFhfNDZOaDE2bDJncDVv0gGnAUFVX3lxTE0wRUFqaUdVeWxpMC1ubzN0bC1NX213bUsxM0w1OTBFWlFsR1JoZmZYeW1Uak9oWXpuVWtYUVlBRENTVWpPTlVrb1B5YWtjQ2tJWUp2TndnMG5MWmNpcGZkNVZRc0syMU5oTmJwVTNEWW5IZnVFblItbGloWm96LVJFWl9MMjU0cXM5bFF5TWhRR2JPNzVoM285UHJ2UC1HOXU4TE16RTNz?oc=5",
+      "time": "2026-11-15T02:00:52Z",
+      "impact": "netral",
+      "assets": "IHSG, saham Indonesia"
+    },
+    {
       "t": "Angkatan laut Iran: tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz",
       "src": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
@@ -913,14 +932,6 @@
       "time": "2026-11-13T19:55:01Z",
       "impact": "naik",
       "assets": "USD, obligasi AS, saham, emas"
-    },
-    {
-      "t": "Bitcoin jatuh di bawah $69.000 di tengah tekanan suku bunga dan sentimen risiko, lalu turun lagi ke sekitar $67.000",
-      "src": "BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52STRzWHVIZG1sTzVVeUlrZkRqaHZwb2p4eTl0bG9SZzkzLUhueGRsQ2xEaDFIVEJmdk1CcDlHTWhEcGctMFk3bE5KOTlZWGEzWkI1WkdfRXQ2MzNJSTQzcjR2c2hUTjA5alg5SGtDaw?oc=5",
-      "time": "2026-11-13T19:34:41Z",
-      "impact": "turun",
-      "assets": "Bitcoin, kripto"
     }
   ],
   "readings": [
@@ -959,10 +970,10 @@
     },
     {
       "c": "neg",
-      "d": "Turun ~6,6% sehari, >14% sepekan",
+      "d": "Turun ~5% sehari, >14% sepekan",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$63.746"
+      "v": "$64.718"
     },
     {
       "c": "neg",
@@ -996,7 +1007,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 78,
   "riskNote": "Hormuz tertutup, Fed condong menaikkan bunga dan kripto jatuh menjaga risiko tetap tinggi.",
-  "updatedAt": "2026-11-15T00:58:00Z",
+  "updatedAt": "2026-11-15T03:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1314,10 +1325,10 @@
   "brief": {
     "date": "2026-11-15",
     "points": [
-      "Indeks risiko tetap 78/100: Iran menyebut tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz, dan jalur itu belum dibuka.",
-      "Bitcoin jatuh sekitar 6,6% dalam sehari ke ~$63.700 (turun lebih dari 14% sepekan); emas bertahan ~$3.886 setelah Goldman memangkas proyeksi 2027.",
-      "Imbal hasil obligasi AS 10 tahun 5,15% dan Fed diperkirakan menaikkan bunga Desember; rupiah di sekitar 18.190 per dolar AS.",
-      "IHSG ditutup 5.344 (+1,78%); pasar saham global tutup akhir pekan, S&P 500 di 7.562.",
+      "Indeks risiko tetap tinggi di 78/100: Iran menyebut tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz, jalur itu belum aman.",
+      "Bitcoin turun sekitar 5% dalam sehari ke ~$64.700 (lebih dari 14% sepekan); emas bertahan ~$3.886.",
+      "Imbal hasil obligasi AS 10 tahun 5,15%, pasar memperkirakan Fed menaikkan bunga Desember; rupiah di sekitar 18.190 per dolar AS.",
+      "Dilaporkan Wapres Gibran menyatakan niat mundur; status resmi belum jelas. IHSG ditutup 5.344 (+1,78%) setelah perubahan bobot saham.",
       "Pantau: RDG BI 17–18 November, pertemuan Xi-Trump, rapat OPEC+ 29 November, perkembangan Hormuz."
     ]
   },
@@ -1408,7 +1419,7 @@
   ],
   "events": [
     {
-      "t": "Tanker terkena ranjau laut dan terbakar di Selat Hormuz timur",
+      "t": "Tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz, menurut Iran",
       "what": "Angkatan laut Iran menyebut tiga kapal tanker minyak terbakar setelah menabrak ranjau laut di Selat Hormuz; insiden berulang dalam waktu dekat.",
       "impact": "Risiko pasokan minyak naik; harga minyak, emas dan dolar cenderung terdorong naik, sedangkan rupiah rentan tertekan.",
       "assets": "Minyak, emas, rupiah",
@@ -1418,6 +1429,18 @@
       "time": "2026-11-14T11:28:00Z",
       "src": "The Independent",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVlmUEQ3N3EzTUpDQkl4bGFsNHZJTVJMZk1EV2FzRzlKcjVTVlAwdllLOWFwb3lJOHVIeHFuYmlIQ3haanJNVlpmYlRkdmdKOEVBRWFMRzlQZnpxVktOSDViVDlLQWVMWmhJT3N1ZFZJVUFkVXBPT29zdE0zMDRlVnFBUjItekVTVUk2UGtmX3NaU0xENC1maUtZbUtqUUdIOEx6QVpGVQ?oc=5"
+    },
+    {
+      "t": "Wapres Gibran dilaporkan menyatakan niat mundur; status resmi belum dipastikan",
+      "what": "Sejumlah media melaporkan Wapres Gibran menyampaikan keinginan mundur kepada Presiden Prabowo dan pihak Istana membenarkannya. Belum ada keputusan resmi MPR; pengganti dipilih MPR dalam 60 hari bila pengunduran diri resmi.",
+      "impact": "Ketidakpastian politik dapat menambah volatilitas IHSG dan rupiah, meski pasar sejauh ini bereaksi terbatas.",
+      "assets": "IHSG, rupiah, SBN",
+      "sev": "sedang",
+      "status": "berlangsung",
+      "cat": "politik",
+      "time": "2026-11-11T03:00:00Z",
+      "src": "Emitennews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWFIOTV4ekRxZUFycFRFVUxwejEyT3ZHdUxJTG1tZGU0TjdwYnRxRlVuODVJb2dJbWpRdzNlaTJPX0h2cEFSWmhzdFNVRnl5RjhTYS1sZi00bDNxWjhCRHpNQUotc1pfdjRGZVBQSnMyT2k1Sk9qYlF2Sm5JckN4U21Dc3pvOXVTTVpEQ0s3akphYnV4WkJLbnB1WGs1aHc?oc=5"
     },
     {
       "t": "Negara Teluk tuntut kompensasi penuh dari Iran atas kerusakan serangan rudal dan drone",
