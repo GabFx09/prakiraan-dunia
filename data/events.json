@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T22:28:55Z",
+ "updatedAt": "2026-11-15T22:43:37Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -127,47 +127,41 @@
    ]
   },
   {
-   "id": "kesehatan-202611150642-094c",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "siber-202611150025-1c90",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
-   "sources": 5,
-   "recent6h": 1,
+   "title": "Nationwide ground stop lifted after air traffic control outage strands thousands of travelers at BNA",
+   "src": "News Channel 5 Nashville",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRE9XWnpEb1RiMV9SNVdHV1FteHJhNGU2MTFlZWpYSjc4bjJmeVdzQXpJTFFnUVU2dldWYm5rZjhoZjB2c1RoVW1uWm1ubkRKdXBRMFU3VGpZYmhPclZqdjB0cFRMTWlfcWVkVktuSEp1VmppNjVKVEdEd2lrc211UVNBZzdreElla0xtSlJ6NjYyRk10dmZRQXBQc1FrMGI1b21DbmVkdEhoMkpfaUpaQ1hpSUNCOW1ZcWRSdHhIUDl3bkxOanQ1RllJVGw0djQ?oc=5",
+   "sources": 4,
+   "recent6h": 3,
    "score": 5.5,
    "level": "sedang",
-   "first": "2026-11-15T05:02:00Z",
-   "last": "2026-11-15T20:07:23Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "first": "2026-11-15T00:25:02Z",
+   "last": "2026-11-15T22:35:18Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "WHO warns Ebola outbreak is far from over as DR Congo records up to 500 new cases every week",
-     "src": "The Eastleigh Voice",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDgyWnJtMDlBdVpqTnVhQktRRTMtVnBDNDNKTUZVb3pON2FMTlg4UC01aFV2TkJXWmZucjBoanF3c2tadElwY3RMcWVzX3V6MTNDRHBnNi1VMGJqRkljNFpqRVA1VzZoeGRwYTBJemozb0xZMmpxc0IycnRJdjUwRzVBRHdtQXMyWkdDWjd0eEVjbmlUUmtMeFpLSzZVSXhYeEFCR1dHczFKdmFzbGlwaWU2RW55N0FPYnlGNEFRT3l2Vk1PRTVUSDE1TVlWUEtW?oc=5",
-     "t_id": "WHO memperingatkan wabah Ebola masih jauh dari selesai karena Kongo mencatat 500 kasus baru setiap minggunya"
+     "t": "Outlook Outage Triggers FAA Ground Stop: 4+ Hours Down",
+     "src": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5",
+     "t_id": "Pemadaman Outlook Memicu Penghentian FAA: 4+ Jam Turun"
     },
     {
-     "t": "Why Ebola outbreak in Congo is still out of control",
-     "src": "NewsBytes",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0lYeUNCT2xIYjNxeGRGZ1Q2TGRVOWxJTGxNVHNHRXdJOHJza2VtTzRQenBzN1NIX0dOdFdVQU0tczZYM09oZ1ZaRVhvbFVLTF9ndEZHOHZDbE5CajFkQndGd2trUktPNldBcTM5LXIwTWZOMFR3RWNDaWRQTGJKaFNKVWNjX2NnMkRtczM2OThlQS1POFpHUDNjaHd5V0hhekNKQzVtWmNUbWdGb1FNeUQ4UDJRTW8x?oc=5",
-     "t_id": "Mengapa wabah Ebola di Kongo masih belum terkendali"
+     "t": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd19hVlBVdmNEMTUxdmdzVkRkdjVJWTVNVkNoU2RIdFQ3OVpwTmJKQkZCRW54RlMycXQybnJMR3IxaEJHQ20tcmIxUEtDUVlPTkNma1l3NHlDRzlic0c3NFZhTEwxSVd2WF9wbjhGOEdSYThMdGVxdXhxaHBxZnZ4NDhHTlZiUWp1MTd6blhNSE1JSmc3cnJhSW16OFRvQjN3bGdnTjhkVkNlejBfUkVWOXIwbnRvVkRUdDBCam5VMNIBxAFBVV95cUxNanVtNGJCT1JyVUZaeUp2VFhTamozLWpYUUh6ekVZbVVjWjM5NWF5Q3lYR0tEX19QNFBVeXV6Rkt5M1J5MWdtaXpYWG1GbGs0ZkluOWowenRvZTM3cHdFeVNlRjlKRzNaaDl6dVkya3JSRzYtcVYwZ0tFR2RqdmhORWFTd0NFamJvdTRCbnh6RjRiT185dk1FSEJENUZUWnhMSERPWHcxUVI5ZGhqUzE0am9FTGRFeXctemgtc18zNEhSR3pu?oc=5",
+     "t_id": "Duffy: Penyelidik memeriksa 2 router setelah penghentian FAA secara nasional, tidak ada tanda-tanda serangan siber asing"
     },
     {
-     "t": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
-     "src": "WHO | Regional Office for Africa",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUTRNWmRiRXF0RkVDOC0tZjF2ek5CSlFvaktDd2NFNm9YYVRFazNQYW5za2U0UUw3bG5LQkFWTTdkWDBxSWwxOEVhM1R0Nnl0X283azZKa05qRGJpeDF3aWNjd05RSjJuMDJENG93dERJYW52LU9WbVU1TXIzdGN1VGRlblNJVnlWTGpHRlpuRmpVYjlsWndmOEIyLW5xaWJwallxdHBFbWpGQzk0bmU4UTB6aFZOVFlLSVB0WF9LUGxqWDFtdTA2WURRbEs4aHkxazhOYlN3?oc=5",
-     "t_id": "Enam bulan kemudian, mengakses komunitas yang sulit dijangkau adalah kunci untuk menghentikan wabah Ebola"
-    },
-    {
-     "t": "Ebola outbreak remains out of control in Congo 6 months into response",
-     "src": "myMotherLode.com",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUFXcGxrNGV4eTB4dmNpblhHS0s2a1VMVUNXbWJWdGp6Tndmd2l4V19FQmZWWTh0bDZXRGFIRm5KYm5EcFh0M2RYdXZXWWpiR3BhN0wyYjJuWFAwV1M1NmI0YmhWbHVzUFN2aUtQNWZrc0FTYlc5ZlFHcFh1ME04S1MwZmFldkg1MzhLc0R6QW8zYjgwZHIyam5iZG1lcWFJem1NZWxlUDQ1bWV3V2hLam0xd1RRS050dGNicDNGLWJVUdIBwgFBVV95cUxNWUFXcGxrNGV4eTB4dmNpblhHS0s2a1VMVUNXbWJWdGp6Tndmd2l4V19FQmZWWTh0bDZXRGFIRm5KYm5EcFh0M2RYdXZXWWpiR3BhN0wyYjJuWFAwV1M1NmI0YmhWbHVzUFN2aUtQNWZrc0FTYlc5ZlFHcFh1ME04S1MwZmFldkg1MzhLc0R6QW8zYjgwZHIyam5iZG1lcWFJem1NZWxlUDQ1bWV3V2hLam0xd1RRS050dGNicDNGLWJVUQ?oc=5",
-     "t_id": "Wabah Ebola masih tidak terkendali di Kongo setelah 6 bulan respons"
+     "t": "FAA investigates exact cause of ground stop after telecommunications outage",
+     "src": "Ticker News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkR5M1FKMHpQM21FZ2tzX1Jkd2RnSnRHYy05YzBzcGFyMFFlSjFBR3pid3FzTWtYVkt4YTBzTHBwQjRYUUNMZGNQWmgyVjlSdEhXWDJmSzU1RG1yMks3dU1JeVBla2JBMmFYdDBacFloN0hnclZqYUxubFByNmhiTzMxZGhNbG94WVJYV2FxN3pZYjM0am8zeFdYc3FWaTA?oc=5",
+     "t_id": "FAA menyelidiki penyebab pasti ground stop setelah pemadaman telekomunikasi"
     }
    ],
-   "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
+   "title_id": "Ground stop di seluruh negeri dicabut setelah pemadaman kontrol lalu lintas udara membuat ribuan pelancong berada di BNA"
   },
   {
    "id": "perang-202611150334-baa7",
@@ -213,35 +207,41 @@
    "title_id": "Video | Pemberontak Houthi Yaman Membebaskan 600 Tahanan Perang yang Ditangkap dalam Eskalasi Pertempuran Terbaru"
   },
   {
-   "id": "siber-202611150025-1c90",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "kesehatan-202611150642-094c",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Outlook Outage Triggers FAA Ground Stop: 4+ Hours Down",
-   "src": "shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5",
-   "sources": 3,
+   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
+   "sources": 4,
    "recent6h": 2,
-   "score": 4.0,
+   "score": 5.0,
    "level": "sedang",
-   "first": "2026-11-15T00:25:02Z",
-   "last": "2026-11-15T21:15:45Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "first": "2026-11-15T05:02:00Z",
+   "last": "2026-11-15T21:07:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd19hVlBVdmNEMTUxdmdzVkRkdjVJWTVNVkNoU2RIdFQ3OVpwTmJKQkZCRW54RlMycXQybnJMR3IxaEJHQ20tcmIxUEtDUVlPTkNma1l3NHlDRzlic0c3NFZhTEwxSVd2WF9wbjhGOEdSYThMdGVxdXhxaHBxZnZ4NDhHTlZiUWp1MTd6blhNSE1JSmc3cnJhSW16OFRvQjN3bGdnTjhkVkNlejBfUkVWOXIwbnRvVkRUdDBCam5VMNIBxAFBVV95cUxNanVtNGJCT1JyVUZaeUp2VFhTamozLWpYUUh6ekVZbVVjWjM5NWF5Q3lYR0tEX19QNFBVeXV6Rkt5M1J5MWdtaXpYWG1GbGs0ZkluOWowenRvZTM3cHdFeVNlRjlKRzNaaDl6dVkya3JSRzYtcVYwZ0tFR2RqdmhORWFTd0NFamJvdTRCbnh6RjRiT185dk1FSEJENUZUWnhMSERPWHcxUVI5ZGhqUzE0am9FTGRFeXctemgtc18zNEhSR3pu?oc=5",
-     "t_id": "Duffy: Penyelidik memeriksa 2 router setelah penghentian FAA secara nasional, tidak ada tanda-tanda serangan siber asing"
+     "t": "Ebola outbreak remains out of control in Congo 6 months into response",
+     "src": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzJqSWxEdFVlLW5aemZVZGlfSklmNUJKWERlOHY2dm13V3N1Qkk4aGpJbXN3NGlrQnE2NkhWNXFDczhZd01KaEQwNVBYU3hBYVJ1Z2I4OGVub2hSVmpMQkN1TkpmNW93MXZFX0V6V2ZNMjJIZlV2MmFnMlpZOFJObERJbGRrLXdGVURhSUlPT21oc2VsUnhGZFNBQ3JiWG9XVGxrZHpIZDg2UlIw0gGsAUFVX3lxTE5XMmpJbER0VWUtblp6ZlVkaV9KSWY1QkpYRGU4djZ2bXdXc3VCSThoakltc3c0aWtCcTY2SFY1cUNzOFl3TUpoRDA1UFhTeEFhUnVnYjg4ZW5vaFJWakxCQ3VOSmY1b3cxdkVfRXpXZk0yMkhmVXYyYWcyWlk4Uk5sRElsZGstd0ZVRGFJSU9PbWhzZWxSeEZkU0FDcmJYb1dUbGtkekhkODZSUjA?oc=5",
+     "t_id": "Wabah Ebola masih tidak terkendali di Kongo setelah 6 bulan respons"
     },
     {
-     "t": "FAA investigates exact cause of ground stop after telecommunications outage",
-     "src": "Ticker News",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkR5M1FKMHpQM21FZ2tzX1Jkd2RnSnRHYy05YzBzcGFyMFFlSjFBR3pid3FzTWtYVkt4YTBzTHBwQjRYUUNMZGNQWmgyVjlSdEhXWDJmSzU1RG1yMks3dU1JeVBla2JBMmFYdDBacFloN0hnclZqYUxubFByNmhiTzMxZGhNbG94WVJYV2FxN3pZYjM0am8zeFdYc3FWaTA?oc=5",
-     "t_id": "FAA menyelidiki penyebab pasti ground stop setelah pemadaman telekomunikasi"
+     "t": "WHO warns Ebola outbreak is far from over as DR Congo records up to 500 new cases every week",
+     "src": "The Eastleigh Voice",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDgyWnJtMDlBdVpqTnVhQktRRTMtVnBDNDNKTUZVb3pON2FMTlg4UC01aFV2TkJXWmZucjBoanF3c2tadElwY3RMcWVzX3V6MTNDRHBnNi1VMGJqRkljNFpqRVA1VzZoeGRwYTBJemozb0xZMmpxc0IycnRJdjUwRzVBRHdtQXMyWkdDWjd0eEVjbmlUUmtMeFpLSzZVSXhYeEFCR1dHczFKdmFzbGlwaWU2RW55N0FPYnlGNEFRT3l2Vk1PRTVUSDE1TVlWUEtW?oc=5",
+     "t_id": "WHO memperingatkan wabah Ebola masih jauh dari selesai karena Kongo mencatat 500 kasus baru setiap minggunya"
+    },
+    {
+     "t": "Why Ebola outbreak in Congo is still out of control",
+     "src": "NewsBytes",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0lYeUNCT2xIYjNxeGRGZ1Q2TGRVOWxJTGxNVHNHRXdJOHJza2VtTzRQenBzN1NIX0dOdFdVQU0tczZYM09oZ1ZaRVhvbFVLTF9ndEZHOHZDbE5CajFkQndGd2trUktPNldBcTM5LXIwTWZOMFR3RWNDaWRQTGJKaFNKVWNjX2NnMkRtczM2OThlQS1POFpHUDNjaHd5V0hhekNKQzVtWmNUbWdGb1FNeUQ4UDJRTW8x?oc=5",
+     "t_id": "Mengapa wabah Ebola di Kongo masih belum terkendali"
     }
    ],
-   "title_id": "Pemadaman Outlook Memicu Penghentian FAA: 4+ Jam Turun"
+   "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
   },
   {
    "id": "siber-202611141522-6287",
