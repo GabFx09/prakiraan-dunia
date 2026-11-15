@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T18:18:44Z",
+ "updatedAt": "2026-11-15T18:33:22Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -21,13 +21,12 @@
    "t_id": "Kisaran harga BTC pada 15 November 2026 pukul 13.00 Pasar Prediksi EST"
   },
   {
-   "topic": "kripto",
+   "topic": "saham-as",
    "lang": "en",
-   "t": "BTC to EUR: Bitcoin Price in Euro",
-   "src": "CoinGecko",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKNENfeURjTUIxS2NjeGlYd1ZYVmg0SGJ1Znp5M3dmQ2xfMmpTaXBIRF9VYkI0S1YxZFNwTXRmblNXemNhdkxxaFFTdWhXUjdaV0F5azM2b3JlQQ?oc=5",
-   "time": "2026-11-15T17:05:00Z",
-   "t_id": "BTC ke EUR: Harga Bitcoin dalam Euro"
+   "t": "Bitcoin vs. Stocks: Is Crypto Really the Best Investment. The Results May Surprise You",
+   "src": "24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVI5ZVRXc212b2NmVm9rY2NTbTdDZTV4cE9KelpuM0dnNm15M0xPNzduRTlWQTd4M2NCems4bGdZOTJYRjJ2LXVIUHUxUkJsd0dBU2JWVVZLOGFrMFQzWU1SME1mUWNfWm1KS1ZuamtlZ0xjVnlRbWJIbUpZZm1HZFh2anc3aVppNHM2dVVpcl9UOHA5Mk5VTndfejVidUNIWW9SN0ctUGJQZHp4WEFjblRYaXdST19jLVZReUg3R2hfUXFsRGc?oc=5",
+   "time": "2026-11-15T17:05:00Z"
   },
   {
    "topic": "indonesia",
@@ -63,6 +62,15 @@
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX2c5bVdydHBtdEcyUURVb2x0M2dPNGU0WEtTV2thT3p0SjJSRm9IcHliLTBIek5lLVZLNnVOdDJfSFppNGM4UjhIRGFvYkE3ODMtaVBVeWtsUHY5SkNpOXV2OXVIbEE2LUlyUGNDVHNfVncwVTVFaDdvblBqVUh0OVRELWJkOXlCWTNFc003THJ6VTVsTjBzbzQyVmh6eFVuREZNRGN4WVU0TnBROWR6azJJT1FNNDloem51QmRwR1J6QmVaV3ppbkt6Q3NzdVlBSHAwdmZoOA?oc=5",
    "time": "2026-11-15T16:41:00Z",
    "t_id": "Kevin Warsh Ingin Tahu Apakah AI Dapat Mengubah Perekonomian. Jawabannya Bisa Mengubah Suku Bunga"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC to GBP: Bitcoin Price in British Pound Sterling",
+   "src": "CoinGecko",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wYTZ5MWJSZUxGenlkSzlTYlRQTjUxSi1ESzlKbXh4U3FwZG5FNHBTZW9NMjNoXzZiY19IWE1oX25MVDBITmRWZkQ2Q2RQMm9SQUJmcnUxUEZOQQ?oc=5",
+   "time": "2026-11-15T16:20:32Z",
+   "t_id": "BTC ke GBP: Harga Bitcoin dalam Poundsterling Inggris"
   },
   {
    "topic": "ai-teknologi",
@@ -126,15 +134,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMnppeW92UWx4VDRlNlN0WTRSR3R4Y1I3WjEwMGlEZVZOcjBXUlZzVkd5Nk4wa0pmeUtTRGNEQVVnemZXWC1faHZDSDZ6ME9udkpCLVlLUDhEUm9MVmR2VEgyRzc0dEpYUE1vR0VKWXhjT21peGhlaGhPa0RxX3NIOHhjU3J6NVdkdUpXWDZFTm5hWkliNkdnTHhiNU1ZQlV1X1FOREh2ZFA4YTY1dlItUlRIaVUxSXRmSVJsTmZXNVc?oc=5",
    "time": "2026-11-15T14:48:00Z",
    "t_id": "Iran Mengatakan Super Tanker Minyak yang Membawa 2 Juta Barel Tenggelam di Selat Hormuz"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "A $1,000 Investment in Ford a Decade Ago Is Worth Less Than $2,000, Under Half of What the S&P 500 Delivered",
-   "src": "24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaWFGSUx6Ri1EY1FENXVfelVhajdUbl9tdTY2YkIxcjVJRjJ1VzFkZHNDV29obnl6cmVFYkE0QlR1UUQyLXBSVTFmelV5T3JDM1NwYWRNQVpIMVBtZnRZV3dNUG5IdzdIdlVhdTRoVzFVUDZXY09BMTNyLUtBWnNJR3pEeVJpaWo4WWQ4eXZxS00tdURsUDB2Vnd5R3V3SHVMV2RBcFBHS3I1RVdWRW44QlU4Z1FTdi04Q0IzYlVnSzgtbzV1X2swR29WSjNGR0FhU19ROTJfb1FXaFlmWVRV?oc=5",
-   "time": "2026-11-15T14:43:00Z",
-   "t_id": "Investasi $1.000 di Ford Satu Dekade Lalu Bernilai Kurang dari $2.000, Kurang dari Setengah dari Nilai yang Dihasilkan S&P 500"
   },
   {
    "topic": "indonesia",
@@ -269,6 +268,15 @@
    "time": "2026-11-15T11:55:00Z"
   },
   {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "The Stock Market Is Doing Something for Only the 6th Time in 156 Years, and History Says It's Clear What Comes Next for Stocks",
+   "src": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDk0M3pBZFVxN2dFRjVfakVoM3FOeXI2YXY0ODFqbmtkbXZGdVEyaEs5dV8xWnhNd1V0WWZpOG5rc054aFZOR2RNUXpIVV9aUGprbzBjSUNuQXNpdzBtQlFJd2RGZDFUcDNrc3llMkVpcFl4Q1lTbFQ3YzJBbUN2dmFaWTJheVpha0pDcXRQaTJIb0oyZHQ0Z0pzZEdZemg1ME01dVd0TzY3SGlxTER6MnRNVFpSZ1R2M3NKT2h6TGJIM3BGYk5kTzBCYU5kWEtSUk1DeQ?oc=5",
+   "time": "2026-11-15T11:36:00Z",
+   "t_id": "Pasar Saham Melakukan Sesuatu Hanya untuk Keenam Kalinya dalam 156 Tahun, dan Sejarah Mengatakan Sudah Jelas Apa yang Akan Terjadi Selanjutnya untuk Saham"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI Pertimbangkan Tahan Suku Bunga di Tengah Tekanan Rupiah",
@@ -280,8 +288,8 @@
    "topic": "indonesia",
    "lang": "id",
    "t": "Mirae Asset Sekuritas Prediksi BI Rate Ditahan di 5,75%, Cek Dampaknya ke IHSG",
-   "src": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxbHNrbHRmMnk5RnNDMjYxYnYtbTdNQURqWTJpcWgwT3lCbEVXMkI3SDBhbzF6Y0NiaFpUdUtOemZWaERsYzllZW85LUxadTcyd0xfbTlkaUY4bGdqOTQxdGdUV3JOdw?oc=5",
+   "src": "kontan.co.id",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVZyMGFvZUFMOFhhaTN3RE9OeWNITlRnbWlwWXF2bU9ONkVHbGt0aVRQMDBoNkkzNEd1al80bkpXQzZDWUp0Nldsb1pRMnBBODVSQS1nbEdMUWJabTVQY0FKWUJzWkxpYXlPWDZxdEtHOFR1WVl0RXJOUlF2TXNxWDVzMGh4Szlxay1hV1FRUGpCbEs5MDdZelRoeGVBT2RXYi1ueHBTMG1ZX3ViTDZYLdIBqAFBVV95cUxNc3NiOExtd0h5ckNjbnZFbVN2bkk2VEpIQWtXLW9wUzlsVTlZTkEwZU9MdVJySFB0QXNjTHBnYTd3NDhZS1dmN19Jc2dZX29hU25hdHBWd0hSR2JSQU5jajBzaFVOLWFpWC1wRmRUZ2VXRnJHbWJCZnllTTZWWHVSSlAxTzlUbFY0YXFPS0s4TktnQlpsWlJ4eHBaX0QwNmQzXzZRX0ZhVVo?oc=5",
    "time": "2026-11-15T10:16:24Z"
   },
   {
@@ -341,6 +349,14 @@
    "src": "Kompasiana.com",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMl9xRmZheHpJYzhPbm1Cek84MFQ2T3cwYTZ6M3VfU1pHR1UwR1NlSWZSbUN6a01IZzZSSktqLW1fSXhOWl80cm5jdG9aX0lzVld2cE15QnZfNzE1SmlMRXo5UzVtQi1Wak41MmY5VGwxQ3hiYjlZdnBuY2txTkYyVllEbWpWdGg0OUxwUUNPeWlYWWo0YlBqWm1ZbkpsNjlsbHhraDBhSlFacmtrNFQxLWp3MDhrQ3hWMnBXa1VDaW1XbjFXUzRhOEFRSGpBc1htbUZjSFdiU0paaVdZ?oc=5",
    "time": "2026-11-15T07:01:06Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia tops Korean investors' weekly US stock buying list",
+   "src": "The Korea Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0YyZVdUTXFLa3hYWFRIdVpRX0p4b1dvckxhOHJoZmlMOG90YWZXNGRlbHNpTlIxUDZnZlgwRVNXczNKYVl5Q0RBNzlLYWJ4blNlR2dnMXZ5VFd5Sk44U2hqbm1IcWozM1lPWC16NmpFdXc5bWpzUWNKRVNPUmhsaFVJaHZOV285MG9uNnJGVWxpT1FtMmxacXYzTGRxUzA4V1JMb9IBqgFBVV95cUxQSGVpV1V6UWJPcG5ORVB4MUxPSC14b3VGZHRkeWtnUXA0blViZjBiUUx1OXplRHJzaGF1QTRLbGJVaC1fQTJtMlRtbmoxaTlqVVBSWVFGMUVYXzBVX2YwTXdNamtJV2lnelM1UFJIWUYzd2MxeDVUZ3REUXRTZlNhaEpDUERydlVNV01qeGxjVU9jMmFoS3VZSmJadjRUZDB3YllaRG43eFU5UQ?oc=5",
+   "time": "2026-11-15T05:51:02Z"
   },
   {
    "topic": "indonesia",
@@ -506,22 +522,6 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHd3YW95LVZSaG1LWjdoVDE4NkxGVWVDMFY3ZHZZX2NrOFgyMUxJNXI3c3lkNWxIcEc3RVRpd3FfMmg1OXZ2UHp1bmJVYnlnX3F0cFN3VTdhS0RSMFc2RHdjekl5cXNZX2ptemNVaTljLVpzSWVNRmhOTzZTUDJPcXNaazB0bzR5YVp5ZTJHVi11eklRbE14N0Joa3dQZzdZRFBRWGJSX0dDQzdoVXRyc2RUc2JGajlyMEE?oc=5",
    "time": "2026-11-14T09:29:57Z",
    "t_id": "AS dan Tiongkok mengadakan pertemuan dewan perdagangan pertama, membahas tarif dan perdagangan pertanian"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Luncurkan Bank Kliring Renminbi, Apa Dampaknya bagi Rupiah?",
-   "src": "republika.co.id",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNjSGVHMnpFaVFwX0UxNUVTRF9Ia2N1ZTNNSm02Zm93dkdOVmZuOXFtZnJwbmxlZXhuMTJ3OFRzdE8ySEM1MjgzWXJQYXhPRGtGeTZNMDJvTm96SzVaY21pSkcxTEVFZFJPRFdnWDljbDJvSjZqRWZmcktub05HRG1DNE1XWDRJdFhHRDJzZDQwd1Mwa3FnMjlSWTEzUnhBY0Y1Rl9kSE9KVVVPNlE?oc=5",
-   "time": "2026-11-14T09:29:57Z"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Hopes expressed for more gains in China-US trade",
-   "src": "China Daily Global Edition",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVTNmUEFQbFhGV0RucUNIMkZzc0dRYUFDM1gyTFhBQXVOQnJuZ1VjOGxHUHA2U1NCcDIwMVRuTGxFOHI1NjJvZmpaOUtoV01ZdjhXTk1IeVNmUXZqNkU1YjlDcWZ4UEVLb0lZeDYxMzkxSHl3bmtGMFlhT2VZc1dZZDJ3?oc=5",
-   "time": "2026-11-14T08:00:00Z"
   }
  ],
  "errors": []
