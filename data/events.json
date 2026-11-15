@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T21:59:36Z",
+ "updatedAt": "2026-11-15T22:14:13Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -19,10 +19,10 @@
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "FAA Lifts Nationwide Ground Stop After Communications Outage",
+     "t": "FAA Ground Stop Update: More Than 14,000 Flights Canceled As Officials Identify Possible Source Of Nationwide Aviation Shutdown",
      "src": "Bossip",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HcjZFcnNHYS00NmZfZW4ybHBMdkpNb0N2QlNPSk9aRXR0azlNQWtBR1BQalF5aUlkN1VrZERWWVVuOWVuMGxqVE9MOTViVTg3dU9QU3lfT01SY2dUZlVn?oc=5",
-     "t_id": "FAA Mencabut Ground Stop Secara Nasional Setelah Gangguan Komunikasi"
+     "t_id": "Pembaruan Ground Stop FAA: Lebih dari 14,000 Penerbangan Dibatalkan Saat Para Pejabat Mengidentifikasi Kemungkinan Sumber Penghentian Penerbangan Nasional"
     },
     {
      "t": "What the nationwide ground stop means for holiday travel",
@@ -198,19 +198,50 @@
      "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
     },
     {
-     "t": "Yemen : Houthi Ballistic Missile Attack targets aden airport",
-     "src": "Yemen Online",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81cVZxZXFwcWRHd2xkQkM0WVJ5OW50LWc4N2RsSmt0YzZ0SWdDMHlsWE9uZ0VCMUZwQmtiN2QzQWlrWWxTLXZHcFpsTi1WbDlHWkxRYXhFVF9Ydk9DRG5BUHNHMlpsYU0?oc=5",
-     "t_id": "Yaman : Serangan Rudal Balistik Houthi menargetkan bandara aden"
-    },
-    {
      "t": "Yemen reports deadly market attack in Taiz, announces missile and drone strikes on Saudi-backed forces",
      "src": "ABNA English",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2kyZ245U3NjQ01fY1FqdGNHME1CdmttWEppcW82S1Q3azhaSWJiZXNXVWNXbG81ZWQ2SHk0bktUOWdNSmVnaHlIc2ZxX0M3Vl9qTnB4OU1wa2NvQTRvRkRhOG13TDhHMWFkcUNuMXhoTnY1eERMc0RUMDhzME5HRGZKUGg2VF85OG9haUlYR2U1aVJTVTFJbWNTbw?oc=5",
      "t_id": "Yaman melaporkan serangan pasar yang mematikan di Taiz, mengumumkan serangan rudal dan drone terhadap pasukan yang didukung Saudi"
+    },
+    {
+     "t": "West Asia Conflict Escalates as Drone and Missile Strikes Hit Baghdad and Doha",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NkV3BXbGtQSmhEdUp6Q0k1S1hBSERyQnF0X2xvckdpaE4tSGphWElNVE9ZVGR4dFpHX0NOZHEtUlZmV0dVaHNhT1VLaXhWTnM4Sm5jUnNFVXBzNHd0dUFYbWlqSGJ3SjhLLWZmODN0enU2TEhOZEJKODJ0WGxhc1VQbmFfS3htRGxyWFhjX3lLTy1KSjltV05waGNYVExRdHFZcUtXaw?oc=5",
+     "t_id": "Konflik Asia Barat Meningkat seiring Serangan Drone dan Rudal Menghantam Bagdad dan Doha"
     }
    ],
    "title_id": "Video | Pemberontak Houthi Yaman Membebaskan 600 Tahanan Perang yang Ditangkap dalam Eskalasi Pertempuran Terbaru"
+  },
+  {
+   "id": "siber-202611150025-1c90",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Outlook Outage Triggers FAA Ground Stop: 4+ Hours Down",
+   "src": "shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-15T00:25:02Z",
+   "last": "2026-11-15T21:15:45Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd19hVlBVdmNEMTUxdmdzVkRkdjVJWTVNVkNoU2RIdFQ3OVpwTmJKQkZCRW54RlMycXQybnJMR3IxaEJHQ20tcmIxUEtDUVlPTkNma1l3NHlDRzlic0c3NFZhTEwxSVd2WF9wbjhGOEdSYThMdGVxdXhxaHBxZnZ4NDhHTlZiUWp1MTd6blhNSE1JSmc3cnJhSW16OFRvQjN3bGdnTjhkVkNlejBfUkVWOXIwbnRvVkRUdDBCam5VMNIBxAFBVV95cUxNanVtNGJCT1JyVUZaeUp2VFhTamozLWpYUUh6ekVZbVVjWjM5NWF5Q3lYR0tEX19QNFBVeXV6Rkt5M1J5MWdtaXpYWG1GbGs0ZkluOWowenRvZTM3cHdFeVNlRjlKRzNaaDl6dVkya3JSRzYtcVYwZ0tFR2RqdmhORWFTd0NFamJvdTRCbnh6RjRiT185dk1FSEJENUZUWnhMSERPWHcxUVI5ZGhqUzE0am9FTGRFeXctemgtc18zNEhSR3pu?oc=5",
+     "t_id": "Duffy: Penyelidik memeriksa 2 router setelah penghentian FAA secara nasional, tidak ada tanda-tanda serangan siber asing"
+    },
+    {
+     "t": "FAA investigates exact cause of ground stop after telecommunications outage",
+     "src": "Ticker News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkR5M1FKMHpQM21FZ2tzX1Jkd2RnSnRHYy05YzBzcGFyMFFlSjFBR3pid3FzTWtYVkt4YTBzTHBwQjRYUUNMZGNQWmgyVjlSdEhXWDJmSzU1RG1yMks3dU1JeVBla2JBMmFYdDBacFloN0hnclZqYUxubFByNmhiTzMxZGhNbG94WVJYV2FxN3pZYjM0am8zeFdYc3FWaTA?oc=5",
+     "t_id": "FAA menyelidiki penyebab pasti ground stop setelah pemadaman telekomunikasi"
+    }
+   ],
+   "title_id": "Pemadaman Outlook Memicu Penghentian FAA: 4+ Jam Turun"
   },
   {
    "id": "siber-202611141522-6287",
@@ -248,31 +279,6 @@
     }
    ],
    "title_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
-  },
-  {
-   "id": "siber-202611150025-1c90",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Outlook Outage Triggers FAA Ground Stop: 4+ Hours Down",
-   "src": "shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-15T00:25:02Z",
-   "last": "2026-11-15T21:15:45Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "FAA investigates exact cause of ground stop after telecommunications outage",
-     "src": "Ticker News",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkR5M1FKMHpQM21FZ2tzX1Jkd2RnSnRHYy05YzBzcGFyMFFlSjFBR3pid3FzTWtYVkt4YTBzTHBwQjRYUUNMZGNQWmgyVjlSdEhXWDJmSzU1RG1yMks3dU1JeVBla2JBMmFYdDBacFloN0hnclZqYUxubFByNmhiTzMxZGhNbG94WVJYV2FxN3pZYjM0am8zeFdYc3FWaTA?oc=5",
-     "t_id": "FAA menyelidiki penyebab pasti ground stop setelah pemadaman telekomunikasi"
-    }
-   ],
-   "title_id": "Pemadaman Outlook Memicu Penghentian FAA: 4+ Jam Turun"
   },
   {
    "id": "perang-202611140846-efa7",
@@ -324,29 +330,6 @@
      "t": "Potret Warga Ngamuk, Demo Besar-Besaran Tolak Proyek Data Center AI",
      "src": "CNBC Indonesia",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlEwSkhWZWxCZGdYcndkdUVDTENvSk96cERQQTl3T3JTZThlZjQza2tqVkxKczlyM3pWYy1nb1ppcU04Vm1zQkVoa3VlaHhXOFAyVTFIb2VzbHp0TUk1em1ja2FtZng4TFRVdndEWVlmRUxzZC16N2ptTkkxeEZGcEdpYUROZ1hQSzhPXzZkaF9sNEY1QU03NkhSTVAtdnR1TXk4U0c5aWticzhNLUFMYlFTbGc2eElIX1BtTUlKVElsc0o1?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611142210-ad33",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Krisis Perumahan Memburuk, Ribuan Warga Portugal Gelar Demo",
-   "src": "katakini.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWjZqVEZKSWI4aUYwTGFGMEZzQU5PYXdIaXM3cGpDYk4zZDRzTGE2UUdpNkQ5bmVNNzdsaWIwVWY3RUt1M293Qlhsck1MSGtZeWNKSnFzQ1Y3dldqMHhLUWZWSFBUR3l2Tm9LdmxDRzB2ZWFadG01RXdmbTZFU2M4NFp3MHYtclNZaXdjS1BMTzRMQ09JcmtKdQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-14T22:10:42Z",
-   "last": "2026-11-14T22:35:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ribuan warga demo di 32 kota Portugal tuntut solusi krisis perumahan",
-     "src": "Elshinta",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3loT3dKZS1ZeXZDZU5JV1M1STNTNEVKVXExSm1hZFpydjR6SDNGZml3MlphZ0p5bGhLSkc5THNiZXRnZEp4aVVmU0ZlMHlsamRJVGpPcUdQLW50MXFQdGExWW9ienZFNzVjQk1KMGQ3OXY5ZW8xS1piMlhtUHNPdW9MYWkyTVd3dmVv?oc=5"
     }
    ]
   }
