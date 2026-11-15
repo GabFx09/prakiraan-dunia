@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-14T16:33:00Z",
+ "updatedAt": "2026-11-15T00:59:08Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-btc-20261115-down",
+   "time": "2026-11-15T00:59:08Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "btc",
+   "title": "Bitcoin anjlok 7,1% dalam sehari",
+   "body": "Harga terakhir 63.412. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#btc"
+  },
   {
    "id": "ev-transportasi-202611132141-927a",
    "time": "2026-11-14T16:33:00Z",
@@ -45,6 +55,7 @@
   "ev-perang-202611140317-81e6",
   "ev-siber-202611131741-4d50",
   "ev-transportasi-202611132107-1b92",
-  "ev-transportasi-202611132141-927a"
+  "ev-transportasi-202611132141-927a",
+  "px-btc-20261115-down"
  ]
 }
