@@ -1,14 +1,22 @@
 {
- "updatedAt": "2026-11-15T09:00:02Z",
+ "updatedAt": "2026-11-15T09:14:40Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price range on Nov 15, 2026 at 5am EST Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZng4TVNQYTB6Z3lLSUVkajgzZzh1MUJsSFVfLVcybzVpZjZRT0hqY0o2OWZvbzlEcW5VX0lOdzhpY0JNYmFQdDJjeTN0SXNGRkRSU1lYSkJzc0huR0VfQTFLallDQ01vV1dkaHhnSjhEa19LRGdCSFhaa0ZNZi0xM0l4Yk5Ca2M5cTBhcmZmTG1zY295TXg5eFp4dWhkV0tfUW5aY0pmSVZCSkJFRmlkWmlJNDRYdw?oc=5",
+   "time": "2026-11-15T09:08:03Z"
+  },
   {
    "topic": "kripto",
    "lang": "en",
    "t": "Crypto Market Downturn: Bitcoin Below $64K, Altcoins Drop 22%",
    "src": "Bitcoin Foundation",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnY1YmdIbXBNWERaVVI1bUhZRGxCeFg3N3V1cHo2NHp4b0s1eklXQWxPcmNLelI1Zzl3akVDUzk4dDJjSm5mUVBVX2dPeTgzUlBZSXhYM01UOGdIQTFyczBlMHU3Q05TRTQ3RXA4ZVdCNWs5c2NjR3owakNXT21iVF9NUGJXaHUtTVk0LWxmUlVUNXE4RW9PSm9tSkR0ZTVLYUQ3eFpn?oc=5",
-   "time": "2026-11-15T08:56:54Z"
+   "time": "2026-11-15T08:56:46Z"
   },
   {
    "topic": "indonesia",
@@ -17,14 +25,6 @@
    "src": "Kompas.id",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOczFwSDdHV3BqMTRrS2RhMDJUdlFtd2ttT3NZSWMzelJhaTA4LWZLQTlKT0VDQ1VBdWhRRWZMSm9ITHZWVi1lTm13bXJrQlJ4V3Y1NWd1am1lLXlaeURvaEN5cm1aSFJGZ1R3MHNVbXo1Wk9QUVlydEhBQi15QWVfdEZFMloyNVJLaWd6aXpYOFZSMm80ZzRKelVjMnA?oc=5",
    "time": "2026-11-15T08:18:23Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price range on Nov 15, 2026 at 4am EST Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkR0cFdvLTZwSkJpdUs5R1NfWFRwb2FLRXBxRHNpYmNIamFnVmQxdW1xeHNLdTB1akp3ajBaTlVhWHp6YzFCTjV5U2pFcjB1OGswSWVZbHowR19hY1VURTdESjdkTERWV05md1BUTTU4eGMyMTNWQzF2NDgxdWxaUE1aSGVpTktJVlNzYWtnMW5mV3R2Q19NeDJ1eGVNRGc3bnRtZFNQYlJFVGxXSzh4dGxBb0RJQQ?oc=5",
-   "time": "2026-11-15T08:09:49Z"
   },
   {
    "topic": "indonesia",
@@ -249,6 +249,15 @@
    "t_id": "Prediksi Harga Bitcoin: Di Mana Posisi Bitcoin di Akhir Tahun?"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran reports three incidents of oil tankers hit by mines in Hormuz",
+   "src": "Arab News",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWhZOG1mdFItMWE4UzZRUF83NWNEeUUwS24waFp1dnpzLWpNQklWeFhpcU5NOWc5cGNWNXlkU1dfVXB1UXJZTXFLZ09oMW5ObnUyRW1YeUJtLXdmalFCdUUxMUp0LWFtdGdVaWZoRFlEWXVMcjEyLXRyVFIwSDRuQXhyUWUxS1AwNnk1M0U0VHVJZWpWY3NPdWRONm1KUV90TWJZUnU3X3c2Zy1rVW9ZTg?oc=5",
+   "time": "2026-11-14T21:14:41Z",
+   "t_id": "Iran melaporkan tiga insiden kapal tanker minyak terkena ranjau di Hormuz"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Fed Rate Hikes Threaten U.S. Farm Margins as Debt Hits $605 Billion",
@@ -363,6 +372,15 @@
   {
    "topic": "china",
    "lang": "en",
+   "t": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SX0FBdkdnb0NoRXdMaWlrZlpyQk1oaEo0bnZSTXJxTDlacFpWTTZldUtrSkg5TGdFcHBxUzFwUlhoOGYtMHh5QUhwbEpFZEtndVhPSEZBNHRRWU1fYndac2VKbXZOWHoyOE1UV3JOcHprWWZFYS1kdS1B0gF_QVVfeXFMT3dWUTRlMEN4SDVQQ3lKWnJlM1AtVHdxakxDNnJ4Wl9QWHdjcURIMndkSzIwdUFyQlVTZXpYdEMxYWoxR0JWaFZBNmYwYm4zYmZfY3NvTDVzb2h3UE4tT18xZmFGd3ZubnVpc1NpLW9IZXBpSTNUVTVoSEIzOTlvMA?oc=5",
+   "time": "2026-11-14T08:16:44Z",
+   "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian menjelang pertemuan Xi-Trump"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
    "t": "China, US discuss tariffs, farm trade at first trade council meeting",
    "src": "China Daily",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKN251S1BpVWwwZTFqdXJOS1h0d3ctdzgtTlZLZURzOE9zX1BCNElSLU5VSTJEcGhSRDlwSENhYWRBajhkRHVsdWltRTdROHRFZW0zbHhubHRJVlJCblV4b0JsSFJaZDN1Nmk4bzlZbHN6RjJwLVBwbFJwOW81UQ?oc=5",
@@ -388,15 +406,6 @@
    "t_id": "Tiongkok dan AS Bahas Tarif pada Pertemuan Pertama Dewan Perdagangan"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "time": "2026-11-14T07:13:00Z",
-   "t_id": "Tiongkok dan AS membahas tarif dan perdagangan pertanian menjelang pertemuan Xi-Trump"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Inflasi Maluku Utara 6,18 Persen, Pemprov Perkuat Kinerja TPID",
@@ -417,7 +426,7 @@
    "lang": "id",
    "t": "Tekanan Rupiah Diperkirakan Berlanjut sampai Akhir 2026",
    "src": "Kompas.id",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5meTFURmctVFo2N3dWQmdEZDY3WVkwUzZzd2k0MjNGZ0FQVkxyM3hwZ2JSNlc1eHItdU9vbGY2c0J4V2o4ZGZEczUxVWNlbDF5cnU4dElkaDlEUXRpTWZabDM3R0VEQWVQcTZHeWZ5MUlya1FjZUJtNm12dW4?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDdWTV9ZNzFxVmExRDZkclBkczh3ZGd3X2lHTUV0VlR3MzlKWU5kOTU5V014V0Z4dTFWcUt0RmJWZFBRblVob0JJQ3R6dDFlUmktTUNNOVhoNll2VU1SYllPX2pSM1ZBVkUtRDlDb2JTQTRSX2I3dWlzeDRtZHJWNzlWY3JNdkdDUjlVUFVwSVFpSUtkNUwtekdhTEc?oc=5",
    "time": "2026-11-14T00:00:02Z"
   },
   {
@@ -508,15 +517,6 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXJmalVqcjF1WEgxXzRyZ2hNRTRMWXdCWGdpblhnaGwxY0ZDeFIwYTVnWENtQ2U2NFg3YkpUS21EdkNHaXlwVlVicGxWd2RJZnJqOXlySXJfZzdscXlqRFNJSkswUjZ0ZjFINC11aU9GMWdrMGR6SzdfYUlkN3pGaDZZci1NbnkxWmtoZ1lNa3E2MmxDcnFqRnN0MWpwUURLT05odHBpdVlhNXRjNUJOd3JGcnNCYzd6bjVqWQ?oc=5",
    "time": "2026-11-13T19:55:01Z",
    "t_id": "Fed berada di jalur yang tepat untuk menaikkan suku bunga bulan depan dan mungkin lagi pada bulan Januari"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-   "src": "UN News",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tNlRPMDE2aG5CazhrMllJN0kxNHhaN3kwVFdoNXdXTHFtcjM0a3ljS0Z3MGFCU29OS0FOSTgxSFdPR1RwazhVNWgyZlZjUm1XcG5HMC1oYw?oc=5",
-   "time": "2026-11-13T19:33:00Z",
-   "t_id": "Dewan Keamanan LANGSUNG: Ketenangan Teluk yang rapuh diuji ketika ancaman terhadap pengiriman Hormuz meningkat"
   }
  ],
  "errors": []
