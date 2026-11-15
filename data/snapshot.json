@@ -392,6 +392,17 @@
       "ihsg": 5344.406,
       "usdidr": 18190.0,
       "ust10": 5.154
+    },
+    {
+      "t": "2026-11-15T07:05:00Z",
+      "risk": 78,
+      "btc": 64419.15,
+      "gold": 3886.3,
+      "brent": 95.84,
+      "spx": 7561.67,
+      "ihsg": 5344.406,
+      "usdidr": 18190.0,
+      "ust10": 5.154
     }
   ],
   "horizons": [
@@ -970,10 +981,10 @@
     },
     {
       "c": "neg",
-      "d": "Turun ~5% sehari, >14% sepekan",
+      "d": "Turun ~5,6% sehari, >14% sepekan",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$64.718"
+      "v": "$64.419"
     },
     {
       "c": "neg",
@@ -1007,7 +1018,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 78,
   "riskNote": "Hormuz tertutup, Fed condong menaikkan bunga dan kripto jatuh menjaga risiko tetap tinggi.",
-  "updatedAt": "2026-11-15T03:58:00Z",
+  "updatedAt": "2026-11-15T07:05:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1325,8 +1336,8 @@
   "brief": {
     "date": "2026-11-15",
     "points": [
-      "Indeks risiko tetap tinggi di 78/100: Iran menyebut tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz, jalur itu belum aman.",
-      "Bitcoin turun sekitar 5% dalam sehari ke ~$64.700 (lebih dari 14% sepekan); emas bertahan ~$3.886.",
+      "Indeks risiko tetap tinggi di 78/100: Iran menyebut tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz, jalur itu belum aman; pasar saham global tutup akhir pekan.",
+      "Bitcoin turun sekitar 5.6% dalam sehari ke ~$64.419 (lebih dari 14% sepekan); emas bertahan ~$3.886.",
       "Imbal hasil obligasi AS 10 tahun 5,15%, pasar memperkirakan Fed menaikkan bunga Desember; rupiah di sekitar 18.190 per dolar AS.",
       "Dilaporkan Wapres Gibran menyatakan niat mundur; status resmi belum jelas. IHSG ditutup 5.344 (+1,78%) setelah perubahan bobot saham.",
       "Pantau: RDG BI 17–18 November, pertemuan Xi-Trump, rapat OPEC+ 29 November, perkembangan Hormuz."
