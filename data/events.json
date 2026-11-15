@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T23:42:18Z",
+ "updatedAt": "2026-11-15T23:56:53Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -37,10 +37,10 @@
      "t_id": "FAA Ground Stop: Saran Maskapai Terbaru Karena Lebih dari 1.000 Penerbangan Dibatalkan"
     },
     {
-     "t": "FAA ground stop updates: Here's what we know",
-     "src": "Mashable",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LM1dNcUdydlQ4U0hDaXRWRFRhaEc3QkNRS2JfMHdZNm90RUIyTHNaQTJFbklkOC1rMUV6OVJHRU03c0J3b1M5Y0tUZWstd20xb0lXaEZLcHlkSlNpVl9FVTdWMWIxeXJrRUYtUUpaMA?oc=5",
-     "t_id": "Pembaruan ground stop FAA: Inilah yang kami ketahui"
+     "t": "FAA Outage Cancellations Top 15,000 as JetBlue Cuts More Than a Quarter of Its Sunday Flights",
+     "src": "Men's Journal",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0N3aEdqSEQ0ZG9hd0NCYXJlQmdBeWNRVWVOQnlVM3I4RmU1RnRyck50SDdWbzVxM0tCY2pBQVpVN1ZqekpodFNkNE1aSmlIaG5jWHV6a1E2V1ZYVFR0bUY3SUgxVG5tS3Z2QlVTWkZXaDBvTW1Zc3pYellDUjJuckhaZ09IdjVh?oc=5",
+     "t_id": "Pembatalan Pemadaman FAA Mencapai 15.000 karena JetBlue Memotong Lebih dari Seperempat Penerbangan Hari Minggunya"
     }
    ],
    "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
@@ -134,10 +134,10 @@
    "title": "Houthis claim missile attack on Riyadh airport",
    "src": "Investing.com",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHBmc2daOENYRXdjbHl0RE5GaFZtR2tKTGI5Ry1vQTNnQnF5UGszUDFYQXFtQ25WdmV0TWtXc001QlQ2bkY4Y0tIdnRQMjlzTUJPOVlnSVRpeFRzQmNydHhSX0RzcVFhSXJHRDRreHM2VWRGQXcxLWNBcXlkcHVaXzlTYjlTUHliTmd3NjVGazRIdTNuNV9oLURRRTlRLW92THJGd2FCYmo0ZHZzRTVfYmUtaU1FbXZEYTBjeHlB?oc=5",
-   "sources": 6,
+   "sources": 5,
    "recent6h": 2,
-   "score": 7.0,
-   "level": "besar",
+   "score": 6.0,
+   "level": "sedang",
    "first": "2026-11-15T03:34:53Z",
    "last": "2026-11-15T18:20:30Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
@@ -307,6 +307,31 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlEwSkhWZWxCZGdYcndkdUVDTENvSk96cERQQTl3T3JTZThlZjQza2tqVkxKczlyM3pWYy1nb1ppcU04Vm1zQkVoa3VlaHhXOFAyVTFIb2VzbHp0TUk1em1ja2FtZng4TFRVdndEWVlmRUxzZC16N2ptTkkxeEZGcEdpYUROZ1hQSzhPXzZkaF9sNEY1QU03NkhSTVAtdnR1TXk4U0c5aWticzhNLUFMYlFTbGc2eElIX1BtTUlKVElsc0o1?oc=5"
     }
    ]
+  },
+  {
+   "id": "perang-202611150334-efa7",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Yemen reports deadly market attack in Taiz, announces missile and drone strikes on Saudi-backed forces",
+   "src": "ABNA English",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2kyZ245U3NjQ01fY1FqdGNHME1CdmttWEppcW82S1Q3azhaSWJiZXNXVWNXbG81ZWQ2SHk0bktUOWdNSmVnaHlIc2ZxX0M3Vl9qTnB4OU1wa2NvQTRvRkRhOG13TDhHMWFkcUNuMXhoTnY1eERMc0RUMDhzME5HRGZKUGg2VF85OG9haUlYR2U1aVJTVTFJbWNTbw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-15T03:34:53Z",
+   "last": "2026-11-15T04:37:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "West Asia Conflict Escalates as Drone and Missile Strikes Hit Baghdad and Doha",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NkV3BXbGtQSmhEdUp6Q0k1S1hBSERyQnF0X2xvckdpaE4tSGphWElNVE9ZVGR4dFpHX0NOZHEtUlZmV0dVaHNhT1VLaXhWTnM4Sm5jUnNFVXBzNHd0dUFYbWlqSGJ3SjhLLWZmODN0enU2TEhOZEJKODJ0WGxhc1VQbmFfS3htRGxyWFhjX3lLTy1KSjltV05waGNYVExRdHFZcUtXaw?oc=5",
+     "t_id": "Konflik Asia Barat Meningkat seiring Serangan Drone dan Rudal Menghantam Bagdad dan Doha"
+    }
+   ],
+   "title_id": "Yaman melaporkan serangan pasar yang mematikan di Taiz, mengumumkan serangan rudal dan drone terhadap pasukan yang didukung Saudi"
   }
  ],
  "errors": []
