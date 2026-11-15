@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-15T22:13:59Z",
+ "updatedAt": "2026-11-15T22:28:40Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Federal Reserve ‘has some work to do on inflation,’ Kansas City Fed chief says",
+   "src": "The Business Times",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSzN5SzlKUEpsS0pueEloNzJ1U0dIRnlGVTBMeGl4dkxYS3lDWjdMZUkyM2N3RGRzbzY0ZHRmSGJidnY0eWRHMzVKZ2syWDVDTEdwbzZUaXVZUnBHeXdTbFE1eDBUelE0NmRpbFJLZUt3T3NIMlJxbjY4aHliV1ZnMTNpaDY0Si1MWE1iTTRKNFF6eGk2NThUU284bTNkOXhDVzBQOC02b3FkcHpCZG5xeUduWGxFWXhQaWhnbVZucHdIZEN2ZWlCSm5uVHVvSXdRVVE?oc=5",
+   "time": "2026-11-15T22:12:00Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -82,6 +90,14 @@
    "t_id": "Angkatan Laut Iran mengatakan kapal tanker minyak terbakar setelah menabrak ranjau di timur Hormuz"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEV2d0pEVGhUanZROXNyZXgtMm5aUTE4NXJXQ2tuY2pBLWJSaDlLQ2s3MC1ScjZWdFhEZkF4WmotOEQ2Y0J4M3Ytb2tSYkVwVmVvTDVUX0VFb0F0LTVaeGx1MVY2Y2ZtS0E2Z2ZZOGdPNVFIVC05czF3NUhqTW1tWXM2YWdVX2YyYjd4ZGpOTlZ3Sl9EMHZKRjBEa1JFQTc4ZVhzb01EMmpWbEJGdEtycEo1Yw?oc=5",
+   "time": "2026-11-15T20:00:00Z"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Futures Indicated Lower With Rally Under Pressure. What To Do.",
@@ -125,6 +141,24 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmpReEpXNS0wU1l5SlZqc3J1ZGQtRUF0WF9XeHgxUURQVk9VeVhtbFB5dy11VUtSaU9pZGktZmNQeEZ1cFE1eTR0NHZJaDhPT2ZZSjg4ay1PVVIwRGV4bDNjOFRWQ29qNzNlZmp1djBhUHdBUnQ3bUh1WVlHUm5iUUpCSzkxdHlUZjdvU0ZOU2JpamhOQnc?oc=5",
    "time": "2026-11-15T18:11:00Z",
    "t_id": "Supertanker minyak ‘tenggelam setelah menabrak tambang’ di Selat Hormuz"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "src": "EnergyNow",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzRueW14dHJOMjRZQk91MVVmMlI3QmdrRjJMRHFmb0tPbnhkcUxBVDFDdmtPRTBNODVIMWtGa3FYcXZsU2lLZnpMQWlNQ3VfSHNTbDhjd1E4ek9FX25UeXNRQ0cwSUJ6RW1nTFgyZXg3V05aalI2cXVKTHRjdi1icVhfcksxOXd3WTB1ZmVOZGozTWhsSWxJc2syNUMwY0dNbWRseWdaelM?oc=5",
+   "time": "2026-11-15T18:10:39Z",
+   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Michael Saylor's Strategy Just Lost Its MSCI Index Spot as Bitcoin Plunges. Is MSTR Stock a Sell?",
+   "src": "24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeG5YODNPT0hRNW5INmM3MXVUc3B6SU5Uakg0V3RXVG9HTnUwZWFjaVY0MkpxWllhMFo1dVFiMWl6SVl2TURHcm9tX1l6SVNpYmJ4cENxcHpTLU5wRndwN21Ha3pZNXJfTWpBa2t5VUtLeTFZV0Vrc3NUTkJoYTVnMjRfMEdKOHM0ZXBINVRhWGVwaWNxQlBxSGlNd1dmaFV0S3VSc2R2SGhuZ1EycnRJVGVKTmFsRWJTRUlGWEt4T0ZfUnFjQ2tYa0dKTmxqbXZmSnJBeg?oc=5",
+   "time": "2026-11-15T17:28:00Z",
+   "t_id": "Strategi Michael Saylor Baru Saja Kehilangan Posisi Indeks MSCI Saat Bitcoin Turun. Apakah Saham MSTR Jual?"
   },
   {
    "topic": "saham-as",
@@ -200,15 +234,6 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "Two oil tankers ablaze after striking naval mines in the Strait of Hormuz",
-   "src": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM3RmbzFmbDdMOVNCbV80bkNJMWZ5d1NwOGN3MlZJSHR5MXZpRFNtLUFwc3phSktfQXNRbXFBZkNHMWlrdzllenRWR1FTY3ZiLWNjYXEwTHNpSURKVjNqaHlUY19lR3FNM3BZY1VqYzRDVU42VHMwSV9IN1g4RjBNTlNZb2pxRTUxV3lPWXVsZUVpcVhuSGRPUUhlVTJUZzNoaE9JTndCbmtWWVUwSlZUSnBkc0wxeVZRT05QdQ?oc=5",
-   "time": "2026-11-15T15:30:00Z",
-   "t_id": "Dua kapal tanker minyak terbakar setelah menabrak ranjau laut di Selat Hormuz"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
    "t": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks",
    "src": "Anadolu Ajansı",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVpyVXN0aUg3WkJlT2lSODV2bnF4RE1BUjZLSkIxYlA3YktPZjlNcGZUUDFBU2k5VThpbFBydWN0eHMyOWZtN01iUnNBdEMxd096M2FoUENtcHlzMlBaZGR4ME8tMU9sYm9HaTQ1a0tCSDI1WlBUUDV2cDRmQjdXaVdYV0RValpHb19EVWhiMFIzZXR1WmpRTnhhOFVuVEhvVGs5YjVyRjJTZTBj?oc=5",
@@ -223,15 +248,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMnppeW92UWx4VDRlNlN0WTRSR3R4Y1I3WjEwMGlEZVZOcjBXUlZzVkd5Nk4wa0pmeUtTRGNEQVVnemZXWC1faHZDSDZ6ME9udkpCLVlLUDhEUm9MVmR2VEgyRzc0dEpYUE1vR0VKWXhjT21peGhlaGhPa0RxX3NIOHhjU3J6NVdkdUpXWDZFTm5hWkliNkdnTHhiNU1ZQlV1X1FOREh2ZFA4YTY1dlItUlRIaVUxSXRmSVJsTmZXNVc?oc=5",
    "time": "2026-11-15T14:48:00Z",
    "t_id": "Iran Mengatakan Super Tanker Minyak yang Membawa 2 Juta Barel Tenggelam di Selat Hormuz"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "A $1,000 Investment in Ford a Decade Ago Is Worth Less Than $2,000, Under Half of What the S&P 500 Delivered",
-   "src": "24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaWFGSUx6Ri1EY1FENXVfelVhajdUbl9tdTY2YkIxcjVJRjJ1VzFkZHNDV29obnl6cmVFYkE0QlR1UUQyLXBSVTFmelV5T3JDM1NwYWRNQVpIMVBtZnRZV3dNUG5IdzdIdlVhdTRoVzFVUDZXY09BMTNyLUtBWnNJR3pEeVJpaWo4WWQ4eXZxS00tdURsUDB2Vnd5R3V3SHVMV2RBcFBHS3I1RVdWRW44QlU4Z1FTdi04Q0IzYlVnSzgtbzV1X2swR29WSjNGR0FhU19ROTJfb1FXaFlmWVRV?oc=5",
-   "time": "2026-11-15T14:43:00Z",
-   "t_id": "Investasi $1.000 di Ford Satu Dekade Lalu Bernilai Kurang dari $2.000, Kurang dari Setengah dari Nilai yang Dihasilkan S&P 500"
   },
   {
    "topic": "indonesia",
@@ -278,15 +294,6 @@
    "t_id": "Apa yang dapat diajarkan oleh “dekade-dekade yang hilang” kepada Kanada tentang meningkatnya hubungan dagang dengan Tiongkok"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "time": "2026-11-15T13:08:45Z",
-   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Anthropic's $64 billion IPO lands in the middle of an AI selloff",
@@ -294,6 +301,15 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0E5Z0ZIZDR2Nm1zM2xobkpzZUdJVlFhSTVUd0dJSURzbmxzMUlmdHplcEY4T2xPdlZLekR2RlpZVXlPSW5zel94WG9aQTBpU2JOWkR6Qzdsa1RWU3hqYnlHWGtKYXJZM3AzUjJ1c2ZnUkstZVJWNGU1R1NROXJVN3NFaVVLVXNUM3hmQ2VfbE9wVUJa?oc=5",
    "time": "2026-11-15T12:44:04Z",
    "t_id": "IPO Anthropic senilai $64 miliar terjadi di tengah aksi jual AI"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil Prices Fly Blind as the Hormuz Enigma Deepens: Bousso",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQekw1WFJNUFRkc2k0UVUyRWEzSXJLV25ldkdCcC1hTDM4Y3N5amZGV3NXUWN1VHZUMVVMS3ktejJTbkJBQmoyMHFkeER4Y0E3b2VFYzlLY1lPaW5NZzY4U3BQUjNMR1duQVJoNTVpMXhJQnBuUGx6by1EWnYzOXNpY1FYSG16VXlISFh3NXlGcWs?oc=5",
+   "time": "2026-11-15T12:42:53Z",
+   "t_id": "Harga Minyak Menjadi Buta Saat Enigma Hormuz Mendalam: Bousso"
   },
   {
    "topic": "indonesia",
@@ -458,15 +474,6 @@
    "t_id": "Dia Berpikir S&P 500 401(k) senilai $200.000 Menyebarkan Risiko AI-nya. Dua Kelas Berbagi Alfabet Menaruh $10.380 di Satu Perusahaan. Penurunan 20% Bisa Membebaninya $2.076"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Rate Hikes Threaten U.S. Farm Margins as Debt Hits $605 Billion",
-   "src": "AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzeVIwRHdsY045UWNkZThtVkhWb2QwWVhVSlVFaUM1TTRCV1dNRVh5ZDJEV1JqZnNGYlBlam5sS2RhVkJ1dWUwTVhLRmNfdEpUeDVpVldtcDZibUJ5eHdOUTVOa0U3eTBpSFlQaGpVSVZoXzZMUGtjelBHQQ?oc=5",
-   "time": "2026-11-14T21:04:04Z",
-   "t_id": "Kenaikan Suku Bunga Fed Mengancam Margin Pertanian AS karena Utang Mencapai $605 Miliar"
-  },
-  {
    "topic": "china",
    "lang": "en",
    "t": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China",
@@ -509,15 +516,6 @@
    "src": "InfoPublik",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTW00UUVyVk10Nnl0emdVWFZGTHp0dzdhMFA1ZEVRaVNhcl9DUjhEcm5IYnVTOVRSQzBxODdEMXNPell0OFJFREtoVHZhV1RPbXVUeHJtaDVkZEk0VS1SZi1OUG1nVUlTOTY4RFVmem5fWUIzLThOWTN2cXZxTkxtU0FmQkJySDdNaUJyNXFpMzhEOFBWcG91QmZ0czBoUExNUEE0LXpKdURmSUMybXNmWjVWNTA1ZTJPd18tdjIteUNKOGlZLTVRLXl6SQ?oc=5",
    "time": "2026-11-14T15:17:52Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmxPcmNNS1JISWxpNy11VFVWNUZsdi13QmZIZDNmT0Npcno0S1JMYzJtRnlqckY4bGU5U3JlczcyeVJTYzZhRlpWeDBkeTR0TGw3Q2VHRzNCYUM3eUZQVHdPUmUxOXd6NnJMSnZSS01EUjFSdTJIeFhXNlc5cThsNXdMZnRzODZMLWNiR0N5QVR5RWFhMzFwUUxPYlYxOWxDTi0yOEg5ZjdLVlk?oc=5",
-   "time": "2026-11-14T15:08:45Z",
-   "t_id": "Collins dari Fed Mengatakan Kenaikan Suku Bunga yang 'Stabil dan Bertahap' Adalah Tepat"
   },
   {
    "topic": "saham-as",

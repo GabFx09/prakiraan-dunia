@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T22:14:13Z",
+ "updatedAt": "2026-11-15T22:28:55Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "What we know about the US ground stop and what to do if your flight is affected",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "sources": 12,
+   "sources": 11,
    "recent6h": 2,
-   "score": 13.0,
+   "score": 12.0,
    "level": "besar",
    "first": "2026-11-14T21:27:00Z",
    "last": "2026-11-15T20:21:52Z",
@@ -37,10 +37,10 @@
      "t_id": "FAA Ground Stop: Saran Maskapai Terbaru Karena Lebih dari 1.000 Penerbangan Dibatalkan"
     },
     {
-     "t": "FAA Outage Cancellations Top 15,000 as JetBlue Cuts More Than a Quarter of Its Sunday Flights",
-     "src": "Men's Journal",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0N3aEdqSEQ0ZG9hd0NCYXJlQmdBeWNRVWVOQnlVM3I4RmU1RnRyck50SDdWbzVxM0tCY2pBQVpVN1ZqekpodFNkNE1aSmlIaG5jWHV6a1E2V1ZYVFR0bUY3SUgxVG5tS3Z2QlVTWkZXaDBvTW1Zc3pYellDUjJuckhaZ09IdjVh?oc=5",
-     "t_id": "Pembatalan Pemadaman FAA Mencapai 15.000 karena JetBlue Memotong Lebih dari Seperempat Penerbangan Hari Minggunya"
+     "t": "FAA ground stop updates: Here's what we know",
+     "src": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LM1dNcUdydlQ4U0hDaXRWRFRhaEc3QkNRS2JfMHdZNm90RUIyTHNaQTJFbklkOC1rMUV6OVJHRU03c0J3b1M5Y0tUZWstd20xb0lXaEZLcHlkSlNpVl9FVTdWMWIxeXJrRUYtUUpaMA?oc=5",
+     "t_id": "Pembaruan ground stop FAA: Inilah yang kami ketahui"
     }
    ],
    "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
@@ -279,6 +279,30 @@
     }
    ],
    "title_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
+  },
+  {
+   "id": "perang-202611150426-38d2",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Houthis claim missile attack on Riyadh airport",
+   "src": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHBmc2daOENYRXdjbHl0RE5GaFZtR2tKTGI5Ry1vQTNnQnF5UGszUDFYQXFtQ25WdmV0TWtXc001QlQ2bkY4Y0tIdnRQMjlzTUJPOVlnSVRpeFRzQmNydHhSX0RzcVFhSXJHRDRreHM2VWRGQXcxLWNBcXlkcHVaXzlTYjlTUHliTmd3NjVGazRIdTNuNV9oLURRRTlRLW92THJGd2FCYmo0ZHZzRTVfYmUtaU1FbXZEYTBjeHlB?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-15T04:26:37Z",
+   "last": "2026-11-15T18:20:30Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Yemen : Houthis Accused of Ballistic Missile Attack on School Sheltering Displaced Families in Lahj",
+     "src": "Yemen Online",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWDBaUmJwQjk1ak1YOHA3WUlSblZ1d3I2U25fZlRGTkw5aGJtU1NKTkN0SWFqcGpSdTZ3YkZwTjNpZGNONmwzd01HNlJaSlQ1aENvaEplalV1OENXWkhCT1JVcU1pMjg?oc=5"
+    }
+   ],
+   "title_id": "Houthi mengklaim serangan rudal di bandara Riyadh"
   },
   {
    "id": "perang-202611140846-efa7",
