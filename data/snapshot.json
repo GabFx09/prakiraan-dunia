@@ -447,6 +447,17 @@
       "ihsg": 5344.406,
       "usdidr": 18149.0,
       "ust10": 5.154
+    },
+    {
+      "t": "2026-11-15T21:58:00Z",
+      "risk": 79,
+      "btc": 64983.71,
+      "gold": 3886.3,
+      "brent": 95.84,
+      "spx": 7561.67,
+      "ihsg": 5344.406,
+      "usdidr": 18149.0,
+      "ust10": 5.154
     }
   ],
   "horizons": [
@@ -893,6 +904,14 @@
   },
   "news": [
     {
+      "t": "Iran mengklaim supertanker bermuatan 2 juta barel tenggelam setelah menabrak ranjau di Selat Hormuz; belum ada konfirmasi independen",
+      "src": "The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmpReEpXNS0wU1l5SlZqc3J1ZGQtRUF0WF9XeHgxUURQVk9VeVhtbFB5dy11VUtSaU9pZGktZmNQeEZ1cFE1eTR0NHZJaDhPT2ZZSjg4ay1PVVIwRGV4bDNjOFRWQ29qNzNlZmp1djBhUHdBUnQ3bUh1WVlHUm5iUUpCSzkxdHlUZjdvU0ZOU2JpamhOQnc?oc=5",
+      "time": "2026-11-15T18:11:00Z",
+      "impact": "naik",
+      "assets": "Minyak, emas, dolar AS, rupiah"
+    },
+    {
       "t": "IPO Anthropic senilai sekitar $64 miliar disebut jatuh di tengah aksi jual saham AI",
       "src": "Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0E5Z0ZIZDR2Nm1zM2xobkpzZUdJVlFhSTVUd0dJSURzbmxzMUlmdHplcEY4T2xPdlZLekR2RlpZVXlPSW5zel94WG9aQTBpU2JOWkR6Qzdsa1RWU3hqYnlHWGtKYXJZM3AzUjJ1c2ZnUkstZVJWNGU1R1NROXJVN3NFaVVLVXNUM3hmQ2VfbE9wVUJa?oc=5",
@@ -979,14 +998,6 @@
       "time": "2026-11-13T23:07:04Z",
       "impact": "turun",
       "assets": "Saham AS, Bitcoin"
-    },
-    {
-      "t": "Iran menyatakan kesepakatan soal Selat Hormuz sudah dekat, tetapi tidak akan membuka jalur itu sendirian",
-      "src": "EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlVMcFlqcUlsZm1YaXlHOFFCQ0Q5cDRNbXBUUGl1d1FTQVB2Y2NWUWQ0Y3dTWnVXRnZ2MEhVa2FzQ0xicW1LQWdCcll4Tl9VRS00blhiMVJoY0x3S2RyLXlXR0cza0s4aXRRNnozZllMWVFoVG5oYVl1dV9PMXdUekZTcExwWlZMVnNsbHVObVN1R0x0blQwTVEwMFR1Wl9BUFg2TWxrREliSU1kR0I3bG9idlNEdw?oc=5",
-      "time": "2026-11-13T21:46:00Z",
-      "impact": "turun",
-      "assets": "Minyak, rupiah, saham energi"
     }
   ],
   "readings": [
@@ -1025,10 +1036,10 @@
     },
     {
       "c": "neg",
-      "d": "Sempat ke ~$62 ribu, rebound tipis",
+      "d": "Rebound tipis dari ~$62 ribu",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$64.612"
+      "v": "$64.984"
     },
     {
       "c": "neg",
@@ -1062,7 +1073,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 79,
   "riskNote": "Hormuz tertutup, Fed condong menaikkan bunga dan kripto jatuh menjaga risiko tetap tinggi.",
-  "updatedAt": "2026-11-15T19:00:00Z",
+  "updatedAt": "2026-11-15T21:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1380,8 +1391,8 @@
   "brief": {
     "date": "2026-11-16",
     "points": [
-      "Risiko tetap tinggi di 79/100: Iran mengklaim dua tanker terkena ranjau di Selat Hormuz dan menyerang pangkalan AS di Bahrain; klaim belum terverifikasi independen.",
-      "Bitcoin sekitar $64.600 setelah sempat ke kisaran $62.000; emas ~$3.886, Brent ~$95,84 (penutupan Jumat, bursa saham tutup akhir pekan).",
+      "Risiko tetap tinggi di 79/100: Iran mengklaim sebuah supertanker bermuatan ~2 juta barel tenggelam setelah menabrak ranjau di Selat Hormuz dan menyerang pangkalan AS di Bahrain; klaim belum terverifikasi independen.",
+      "Bitcoin sekitar $64.980 setelah sempat ke kisaran $62.000 saat akhir pekan; emas ~$3.886, Brent ~$95,84 (penutupan Jumat, bursa saham tutup akhir pekan).",
       "Imbal hasil obligasi AS 10 tahun 5,15% dan pasar memperhitungkan kemungkinan kenaikan bunga Fed Desember; rupiah sekitar 18.150 per dolar AS.",
       "Bursa Asia buka Senin; sentimen Hormuz berpotensi menekan saham dan menopang minyak serta dolar.",
       "Pantau: RDG BI 17–18 November (analis condong menahan 5,75%), perkembangan Hormuz, rapat OPEC+ 29 November."
@@ -1474,16 +1485,16 @@
   ],
   "events": [
     {
-      "t": "Tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz, menurut Iran",
-      "what": "Angkatan laut Iran menyebut tiga kapal tanker minyak terbakar setelah menabrak ranjau laut di Selat Hormuz; insiden berulang dalam waktu dekat.",
+      "t": "Iran: supertanker 2 juta barel tenggelam setelah menabrak ranjau di Selat Hormuz",
+      "what": "Angkatan laut Iran menyebut beberapa tanker terbakar akibat ranjau laut di Selat Hormuz, dan satu supertanker bermuatan sekitar 2 juta barel dilaporkan tenggelam. Sebagian besar laporan bersumber dari klaim Iran dan belum diverifikasi independen.",
       "impact": "Risiko pasokan minyak naik; harga minyak, emas dan dolar cenderung terdorong naik, sedangkan rupiah rentan tertekan.",
       "assets": "Minyak, emas, rupiah",
       "sev": "tinggi",
       "status": "berlangsung",
       "cat": "perang",
-      "time": "2026-11-14T11:28:00Z",
-      "src": "The Independent",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVlmUEQ3N3EzTUpDQkl4bGFsNHZJTVJMZk1EV2FzRzlKcjVTVlAwdllLOWFwb3lJOHVIeHFuYmlIQ3haanJNVlpmYlRkdmdKOEVBRWFMRzlQZnpxVktOSDViVDlLQWVMWmhJT3N1ZFZJVUFkVXBPT29zdE0zMDRlVnFBUjItekVTVUk2UGtmX3NaU0xENC1maUtZbUtqUUdIOEx6QVpGVQ?oc=5"
+      "time": "2026-11-15T14:48:00Z",
+      "src": "The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmpReEpXNS0wU1l5SlZqc3J1ZGQtRUF0WF9XeHgxUURQVk9VeVhtbFB5dy11VUtSaU9pZGktZmNQeEZ1cFE1eTR0NHZJaDhPT2ZZSjg4ay1PVVIwRGV4bDNjOFRWQ29qNzNlZmp1djBhUHdBUnQ3bUh1WVlHUm5iUUpCSzkxdHlUZjdvU0ZOU2JpamhOQnc?oc=5"
     },
     {
       "t": "Bahrain keluarkan peringatan ancaman keamanan; Iran klaim serangan drone ke instalasi AS",
