@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T18:48:14Z",
+ "updatedAt": "2026-11-15T18:58:49Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -7,27 +7,22 @@
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Iran targets US military base in Bahrain with drone attack",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
-   "sources": 9,
+   "title": "Iran launches missile and drone strike on US military base in Bahrain amid rising tensions in Middle East",
+   "src": "The Sun",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxS0xtdHR5eEtyUi1yajVIeFQ0Uk5oZl84SmxRYlFIaHFXbEpIS2otd0pJQTQ4SFVZZEtXYUp4RlBwMHlMSFhfZ3FwRV9IUXYyMkVQNDdieEpHelZCakZzSVBmQUdQMWJVV01lV1h5Q3h5NTNJREk1TTNB?oc=5",
+   "sources": 5,
    "recent6h": 2,
-   "score": 10.0,
-   "level": "besar",
+   "score": 6.0,
+   "level": "sedang",
    "first": "2026-11-15T05:32:08Z",
-   "last": "2026-11-15T15:13:22Z",
+   "last": "2026-11-15T15:15:50Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Iran launches missile and drone strike on US military base in Bahrain amid rising tensions in Middle East",
-     "src": "www.the-sun.com",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIZWVxOElDT0R1NDV4Z1FWcW5vek9kTlEySTdYZVVIOWU3NTJYVllqQW1rUko4TjBucnJQajNhT0x2MVV0T25SMVpGcTdfRkJfbzF0Mm9MZnp4NVpWOEdWUUVieWpqY2tOYjRQQUNib3VPOWVqYWVETg?oc=5",
-     "t_id": "Iran melancarkan serangan rudal dan drone ke pangkalan militer AS di Bahrain di tengah meningkatnya ketegangan di Timur Tengah"
-    },
-    {
-     "t": "Bahrain intercepts Iranian missiles targeting US base",
-     "src": "RTE.ie",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CUEtoMFduTmxnNGpNcGRCRTk5S0lTLVVyUVYwN2drbGtoMnVZUVI2ZmFzMDBsQl9TdDBxNGo0SC1ZalJxdTUzWTBIUFpGWHYzbXNhVU1jaUJYVEw5VXVrdk1GbGtWM25TSlRBcHRGeWE?oc=5"
+     "t": "Iran launches drone and missile strike on U.S. base in Bahrain, repelled.",
+     "src": "The Taiwan Times",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFE3UXVkYThfaW1JaG9UeE92b1J5Ti0tVzZ2TnhZbHhvcENidWYtTzlidWFxaHBvVGF3THhNNktLdzBrUnVLeFpybGFyS3dOUVl6dmtIMS01R1F3QW42ei1ZWTdqWkxkY0VCeWNCbWdDdTVVOEJxZzg0VEpxSDQzbk1CYm5YMTd3MUFwcDQ4b180Q2hHT0ttckJGQW5vMU5saXVldkZtaEcteTRX?oc=5",
+     "t_id": "Iran melancarkan serangan drone dan rudal ke pangkalan AS di Bahrain, namun berhasil digagalkan."
     },
     {
      "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
@@ -36,48 +31,19 @@
      "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
     },
     {
-     "t": "Iran war live: Tehran targets air base in Bahrain in first direct strike on Gulf state in weeks",
-     "src": "Arabian Business",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "perang-202611150437-e98b",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
-   "src": "Kurdistan24",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWh1TEZ5YlcyWHZqbkFiMjlaOW50Y0dDS2xzQW5hdHQtX3RYWXROaEZfY0l3TkZnckFKZ0JuRjFJX1ZteHZzd2psbDJyOTNrZnFGUUt1aVpraE1wNEZmUVhiQVdiNTdFMU1pNVJpNGN2aWFiT3Vlajh0dFVMbm9fZ2JXeUMzTC1scVNvWTZDb1Vwc0JaODAyNFpCeEt4eFlQQUxCUUJaMHAwN3BER1kzQ0lpRnZwT1ZK?oc=5",
-   "sources": 4,
-   "recent6h": 2,
-   "score": 5.0,
-   "level": "sedang",
-   "first": "2026-11-15T03:34:53Z",
-   "last": "2026-11-15T16:38:55Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "5 Civilians Killed in Houthi Missile Attack Near Yemen's Aden",
-     "src": "Sada Elbalad English",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnViRE5KVThCeDBsNjBJcjl1dTU2Vkl4X3g3bUtWWWdIcy1BMXRGZjJNZmxaV1lTTHNaNklUWVRoTFpFdkF0Q2lvYVppdmZuT0VEMzg5OXBqVEJPZlplTHFqVXdzWGcwVGVROWRQUDVtcjdUUWM5NE1xSi1KLVFoUXJhWQ?oc=5",
-     "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
+     "t": "UAE residents' update: Bahrain alert, Saudi intercepts missiles as Middle East tensions rise",
+     "src": "Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFE2Z1ZqR1R2Mm4yal9HbE4zVWlzdTlkbVVwRHhBM3d0Z3laYUk3ekZ4VXJhLXUySEl0QndzRWlweFRERmFZMjNxQnZUaVY3YUZIYjZBbWdaa0F3ay12VUllRTYzc1JGOTJNbzA0bEtGOGxzTGpVM29wV3RmNzU3X0xXU1luN2tTNkpySzBYdjI1cWNyR3Jfc0d2dzVBWlhndE5BX0VzUnplZmVqVDRtUWlwMU9pUWhqZnJKUHc1MWhMWV9W0gHUAUFVX3lxTE8tTjFYYnBBX2ZQMkw3RnNJZGdSSkpvRkI1ZGZIZGNKX0hWRzhqbzI1STlyYWZ5WDJCcXdjSWhYV0pZcl90NHFHR1VEVU9SdVVBMnI5ZUJyWXoxTlE5T1NTcjBYQUN6cl8wdVlpNm11ajBGaDVvajd4Ym1HcThWVkRmQklWemdKODVQTUlxNGZ5aTByZzZJdFc1NndZeXhkcmpEZllNSV95QkZJWFJDckxrMHdMV1haWG50bEYxNDdVWGp6N1hJTVdYNTVRVHY1ZmhNdXBM?oc=5",
+     "t_id": "Kabar terbaru dari penduduk UEA: Bahrain waspada, Saudi mencegat rudal saat ketegangan Timur Tengah meningkat"
     },
     {
-     "t": "Yemen reports deadly market attack in Taiz, announces missile and drone strikes on Saudi-backed forces",
-     "src": "ABNA English",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2kyZ245U3NjQ01fY1FqdGNHME1CdmttWEppcW82S1Q3azhaSWJiZXNXVWNXbG81ZWQ2SHk0bktUOWdNSmVnaHlIc2ZxX0M3Vl9qTnB4OU1wa2NvQTRvRkRhOG13TDhHMWFkcUNuMXhoTnY1eERMc0RUMDhzME5HRGZKUGg2VF85OG9haUlYR2U1aVJTVTFJbWNTbw?oc=5",
-     "t_id": "Yaman melaporkan serangan pasar yang mematikan di Taiz, mengumumkan serangan rudal dan drone terhadap pasukan yang didukung Saudi"
-    },
-    {
-     "t": "West Asia Conflict Escalates as Drone and Missile Strikes Hit Baghdad and Doha",
-     "src": "DD News",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NkV3BXbGtQSmhEdUp6Q0k1S1hBSERyQnF0X2xvckdpaE4tSGphWElNVE9ZVGR4dFpHX0NOZHEtUlZmV0dVaHNhT1VLaXhWTnM4Sm5jUnNFVXBzNHd0dUFYbWlqSGJ3SjhLLWZmODN0enU2TEhOZEJKODJ0WGxhc1VQbmFfS3htRGxyWFhjX3lLTy1KSjltV05waGNYVExRdHFZcUtXaw?oc=5",
-     "t_id": "Konflik Asia Barat Meningkat seiring Serangan Drone dan Rudal Menghantam Bagdad dan Doha"
+     "t": "Iran claims drone attack on US base in Bahrain as Gulf tensions rise",
+     "src": "Ynetnews",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NWtyYk1keWZqZFlXNGh5c3pES2JlTVpQYjNaLXhnRWd5OW9rM1VsUG12ZFZLbm5TZF8yNHBCV0ZYakZxTmJwWEt2ZDhuZG02emNvWVR3?oc=5",
+     "t_id": "Iran mengklaim serangan pesawat tak berawak di pangkalan AS di Bahrain seiring meningkatnya ketegangan Teluk"
     }
    ],
-   "title_id": "Serangan Rudal Houthi Tewaskan Lima Orang di Dekat Aden Yaman Saat Pertempuran Meningkat"
+   "title_id": "Iran melancarkan serangan rudal dan drone ke pangkalan militer AS di Bahrain di tengah meningkatnya ketegangan di Timur Tengah"
   },
   {
    "id": "indonesia-202611141930-a1d8",
@@ -183,10 +149,10 @@
      "t_id": "AS mencabut penghentian penerbangan secara nasional setelah pemadaman kontrol lalu lintas udara besar-besaran"
     },
     {
-     "t": "FAA investigates exact cause of ground stop after telecommunications outage",
-     "src": "Ticker News",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkR5M1FKMHpQM21FZ2tzX1Jkd2RnSnRHYy05YzBzcGFyMFFlSjFBR3pid3FzTWtYVkt4YTBzTHBwQjRYUUNMZGNQWmgyVjlSdEhXWDJmSzU1RG1yMks3dU1JeVBla2JBMmFYdDBacFloN0hnclZqYUxubFByNmhiTzMxZGhNbG94WVJYV2FxN3pZYjM0am8zeFdYc3FWaTA?oc=5",
-     "t_id": "FAA menyelidiki penyebab pasti ground stop setelah pemadaman telekomunikasi"
+     "t": "The Outage That Grounded All Flights in the U.S. Occurred During an Upgrade of the Aging Air Traffic Control System",
+     "src": "SFG Media",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZZDA0V3pnV1g5d3Ewc1NJMl9EU3BEOWZOb0Q4YmlUOXRuUk51bUN1Ni1pcTVXZXFiVXg2OEd5YUltUmtEc0N4OHVmWXZrZzBmVkdoS2VKTXlJd3ZmNHctbDFBVEhpY3pTM1pZdFhjYi1kV25rUTUwVVBWSGp3UQ?oc=5",
+     "t_id": "Pemadaman yang Menghentikan Semua Penerbangan di AS Terjadi Selama Peningkatan Sistem Kontrol Lalu Lintas Udara yang Menua"
     }
    ],
    "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
@@ -229,52 +195,35 @@
    "title_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
   },
   {
-   "id": "transportasi-202611142027-e86a",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "What the nationwide ground stop means for holiday travel",
-   "src": "FOX 5 Atlanta",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iY1RvbmhNRFFxQS1nb25PMUZlNS04dFdQLUY3RmlCQW1tc0duM3FvUmJxazdpaFBfazdScWhYWGJJczREVVVqbERWV3gzTVhGVmhmMS12Sm9yZWxrRDZPQ2VHYUbSAWpBVV95cUxQWHVPU2N1ZXNkWGpzdFJZSk9renlKa3RXdGhOblJiQ2ZfUXNDVXh3WDczX1YtVWhPUnYwTzUwa0dYYXVaY2JMWUpRWldfVnpDcnY1OEhiSjJoUmR2NHVPSXg2dVhPR0xKODlB?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-14T20:27:40Z",
-   "last": "2026-11-15T18:06:26Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "U.S. Travel Urges Congress to Pass Modern Skies Act After Ground Stop",
-     "src": "FTN news",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVU5WmljakxaNFY2aldFNWJ1aXBybmt4a090WkQ0S0p5c01WOXViLUVJT1pzMENZeVBfRzdESm5ONlBLM3NGNzJSVldzSmVkUU5UM1BPa0tFa1Y0WnYwTjRzNzJ5OTNXV2J4dmowTFNLWDBpU3pKdXB0RFVZSzdDM2xlR09XNGs?oc=5",
-     "t_id": "Perjalanan AS Mendesak Kongres untuk Mengesahkan Undang-Undang Langit Modern Setelah Ground Stop"
-    }
-   ]
-  },
-  {
-   "id": "perang-202611150601-ee5f",
+   "id": "perang-202611150437-e98b",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "US intelligence believes Iran could still have up to 2,500 missiles – report",
-   "src": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUm9YZEZBLTUxTUZOODItV1Q1Z2RweWVTYVBBMTgySWIyOVN5eWJrT0g4SUVHMmJkbTJLWGQ5dkNYMmlPb3BQaHB2TEJyYm1HaEM4bVVMOHR4a1FBRmN2SWFrRUk1Qi1DWmRya1Q4MDhwWlMzMnNCc1ljVXhSSGJEUXdkUHlwbDhPNW5uUEM5VmZhREFtdks5OHBOemUzMnN5dXF2QzNTSdIBrAFBVV95cUxPZm40NWNrbnlXc1NsbXlOU3V4R00wNXdIQ0FuMnl3dGdzbkpqaGxmTmRQbFJNM2NNM0pOYm1lWC0zNEs3SXhjZnRtcVYtdFZqNHZ4eDRwdHZTSjZTczFSR2FZNGxoOGc2ay1KRDBfbnNOQjhQWEcybW9jV0syaVBDaFVGX2Jyd0l0OWlQWlFZRmg0dFF5N3pVNUxqa2xvN0lBWUc4WXR0U3pLbnZ4?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-15T06:01:58Z",
-   "last": "2026-11-15T10:24:45Z",
+   "title": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
+   "src": "Kurdistan24",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWh1TEZ5YlcyWHZqbkFiMjlaOW50Y0dDS2xzQW5hdHQtX3RYWXROaEZfY0l3TkZnckFKZ0JuRjFJX1ZteHZzd2psbDJyOTNrZnFGUUt1aVpraE1wNEZmUVhiQVdiNTdFMU1pNVJpNGN2aWFiT3Vlajh0dFVMbm9fZ2JXeUMzTC1scVNvWTZDb1Vwc0JaODAyNFpCeEt4eFlQQUxCUUJaMHAwN3BER1kzQ0lpRnZwT1ZK?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-15T03:34:53Z",
+   "last": "2026-11-15T16:38:55Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Iran retains up to 2,500 missiles despite US, Israeli strikes",
-     "src": "Latest news from Azerbaijan",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDdtd2F0Tlp6WjJUeC02YzRlNTlEQVdudFlIVlhscFcxZk5OZzFqYzh6c2ZlTHVxbnhNMF9rSDZiMWpGb2pXaC1TNnhtSVRva0hDd3ZFUTg1LUhETlBqSU1yOEpsUU8zeHlyaHpuLTJnQThHa2pMVG1VSl9KWWtIeG9QanZBdllM?oc=5",
-     "t_id": "Iran mempertahankan hingga 2.500 rudal meskipun ada serangan AS dan Israel"
+     "t": "5 Civilians Killed in Houthi Missile Attack Near Yemen's Aden",
+     "src": "Sada Elbalad English",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnViRE5KVThCeDBsNjBJcjl1dTU2Vkl4X3g3bUtWWWdIcy1BMXRGZjJNZmxaV1lTTHNaNklUWVRoTFpFdkF0Q2lvYVppdmZuT0VEMzg5OXBqVEJPZlplTHFqVXdzWGcwVGVROWRQUDVtcjdUUWM5NE1xSi1KLVFoUXJhWQ?oc=5",
+     "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
+    },
+    {
+     "t": "Yemen reports deadly market attack in Taiz, announces missile and drone strikes on Saudi-backed forces",
+     "src": "ABNA English",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2kyZ245U3NjQ01fY1FqdGNHME1CdmttWEppcW82S1Q3azhaSWJiZXNXVWNXbG81ZWQ2SHk0bktUOWdNSmVnaHlIc2ZxX0M3Vl9qTnB4OU1wa2NvQTRvRkRhOG13TDhHMWFkcUNuMXhoTnY1eERMc0RUMDhzME5HRGZKUGg2VF85OG9haUlYR2U1aVJTVTFJbWNTbw?oc=5",
+     "t_id": "Yaman melaporkan serangan pasar yang mematikan di Taiz, mengumumkan serangan rudal dan drone terhadap pasukan yang didukung Saudi"
     }
-   ]
+   ],
+   "title_id": "Serangan Rudal Houthi Tewaskan Lima Orang di Dekat Aden Yaman Saat Pertempuran Meningkat"
   },
   {
    "id": "perang-202611141511-076c",
