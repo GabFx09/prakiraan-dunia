@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T10:42:37Z",
+ "updatedAt": "2026-11-15T10:57:13Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -50,15 +50,6 @@
    "src": "kontan.co.id",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVhYWF9YM0pFVGMyckZNUENxV2YxT3ZsRDFDZ3ZfbUhwbFdwR1JOSDJleDZSczlydEh5RlhzdW5ZWlpjZ0NFNWxPbUlzUExvVnUtUXFYckhEbTJCcDNzMWpzajZpcklnNWFuOWEyUVh4VTVpMzMxV0JpRklkVXlqMFJXRlo2eUtrcThramlGckNocEhBWDI2ZEViQjZGSEJkNEVBT25lQTZQNHZoVE82eEZfRTlGd9IBrgFBVV95cUxPYXNTYTZzaEN3SllsNnVrY0xSTUVsOVdNd1VnWi1yX0JmaGpkbVpHTS1XVmI2ZWk5ZGlIMTItTUF6MnVxVUJ3TFhGQmZ0ZW05d3NhMGU2a2F5Ul94bUxxT29jdlR3LW1ZSnUzcGU1d1dkdVZveDc1NGU5NHJGNUJsZzRtb05WSXQ5MXh2bzZJckZZRG41TnY2VmtPeEh6Y0QxYU5GTFFvbC1DMkhfYWc?oc=5",
    "time": "2026-11-15T09:41:11Z"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Shafaq News..Gold prices rise in Baghdad, Erbil markets",
-   "src": "شفق نيوز",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1Y3bkRQQW9XQlNKNl92RjlOVlF4VjZMbkJ2aEp3UWpKeXpHODFWekRZWTVjaU1sSkVzNW9fM2VfNlZ3MVA3Vlp4VXYyM2dxX0pUeTlJdHk1QndOQzF3c0FoazdWVmtjbmVVOGo5bXhqeGZOaU1yWnRTaFB3YU5XWA?oc=5",
-   "time": "2026-11-15T09:32:42Z",
-   "t_id": "Shafaq News..Harga emas naik di pasar Bagdad dan Erbil"
   },
   {
    "topic": "ai-teknologi",
@@ -182,14 +173,6 @@
    "t_id": "Harga emas, perak hari ini, 15 November: Periksa harga eceran emas 24K, 22K, 18K, 999 perak di Delhi, Mumbai, Bangalore"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG Menguat 5,8 Persen di Tengah Tekanan Suku Bunga AS",
-   "src": "cwibc.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2ek1xQjN2WktYbHlFdkZYUGVKc1pJLUl1c01UeFplNzZscGctdXdiNVlON2ZKZVJ4R0dFQ2E4OW1NUk5tdGpRZTdlZlR5Y0dPanNoNFJqbFI3Y2FuTENETXhjOE0?oc=5",
-   "time": "2026-11-15T03:26:11Z"
-  },
-  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Nov. 25 Will Be a Critical Day for the Stock Market",
@@ -278,6 +261,15 @@
    "t_id": "Prediksi Harga Bitcoin: Di Mana Posisi Bitcoin di Akhir Tahun?"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Broadcom Stock Nears Earnings: Can AVGO Break $379 After Nvidia Rally?",
+   "src": "TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1BvX3A3YkZCRWgyM3ZvZDBLY2laclRXU3RrU2poNXRoLVc0cTB6Vnh0Y1FHYl9STW1JS2lwa0RpYk9qRjJxMDZVZG9KcTJyQWtyWnU2ZHZ5anNqMU1Xc1BIUVdKV0xwQkNrRm94ZnVGTjJydXdONkdZTkN5TUc4Qjd0RVFMc0VjTlBORml6V3U5b2UwaDJGTUhJODlySnBtSEtIMEtYS2lic3BMalhYa2tZOTZuVFE3TzRZcjQ4YlVheEk?oc=5",
+   "time": "2026-11-14T22:01:22Z",
+   "t_id": "Saham Broadcom Mendekati Pendapatan: Bisakah AVGO Menembus $379 Setelah Reli Nvidia?"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Fed Rate Hikes Threaten U.S. Farm Margins as Debt Hits $605 Billion",
@@ -303,6 +295,15 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzYyRU50SDUzOW15clJVVGhYWFZ5WDdSRWpMSnJBTUMzZDZ5VU16QUM3V3RSVE05Mjg2aFg2eFRQTkVkcWo3US0wU3hGWFFzWUVfYjdTLXNZNG5FelVydFhKVmx0SDR3S1l4VVVicmU5WlBLeUhxM051VXQwLVhjQk5ITjBBOGN1OUVjS1lUb2t5VGh6QmtSVmhyRVNYUG5hODJhNlFmcjB2NXFuMF9BTVBsclRJaTFEbmJjaURTWDRLZ2xNZnNwMy1B?oc=5",
    "time": "2026-11-14T18:32:48Z",
    "t_id": "Goldman Sachs baru saja memangkas perkiraan emasnya pada tahun 2027. Berikut nomor-nomor barunya"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold prices fall EGP 260 in Egypt in one week",
+   "src": "Daily News Egypt",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWhVa1ZNaFFXWFhXcHNZWHlma1hwRGNqd0ZTUDVfOUFoNEY4b2dtc1ZTUEJqMDdiVVB6Z2s1b3liY3NmNnd0OHk4V1F6M09KNmNxRFdaWm5qSmgxcVZleWdtWVprNDM0MTN2aFhoVWJ1NkRSYWJjQ0dxb1NMQ3Yzc1ZJd0hJME5jR3RiUw?oc=5",
+   "time": "2026-11-14T18:24:01Z",
+   "t_id": "Harga emas turun EGP 260 di Mesir dalam seminggu"
   },
   {
    "topic": "emas",
@@ -344,7 +345,7 @@
    "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
    "src": "EnergyNow.com",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "time": "2026-11-14T14:06:48Z",
+   "time": "2026-11-14T13:56:45Z",
    "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
   },
   {
@@ -453,6 +454,14 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "IHSG Menguat, Rupiah Berbalik Naik, Ekonom Umsura Soroti Dampak Politik Pengunduran Diri Gibran",
+   "src": "Universitas Muhammadiyah Surabaya",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVp5QkxEVkw4MFJzSjFjWEV1MmVZc01rakhIbXFDWTVEcXFtYWtLSlpFbG81ZUg2SDRKeGxrMjJmUkxQVWpLbUJIRlRRNVhaVjYtVG9nV25JNHpBSHlwcmFuT1I1WnVLQkpldGpIS2g0bXd6Y0hQcThWQWwwWXVCYkN0dnJWSXMta1RseTcxSENXY3p0WHhDbS1xQXZBNEJZdlR1RU9rck82SGR4SHN3OS1MU0ZwalU1NzJ0SHNRLTBONV9xMktrUl94Zw?oc=5",
+   "time": "2026-11-14T01:12:03Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "Arah BI Rate Ikut Mainkan Sentimen Investor Bursa Pekan Depan",
    "src": "Kompas.id",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY19vZXhGSlNCaWt0VVkyN09qMjV3UXZheEE1N3JSREY1TzBadS12emVuTUF3WFE5UG9SelJzdmdWM1YtTWJnVnFtczBCcjdiUTBrZHBLOC1QT085SWVXbk1tMGhCSEswQ1FPSHAxUDE3ZXBwUU52RzJvS3hybFozR0sxcW5iSEoycmVySlRBaTcwdTREWlhjb3lyUHROcGg0cjhPdUFfUVVMYU1LN2pLYjFnN2VVaHN4RkprcWJn?oc=5",
@@ -463,7 +472,7 @@
    "lang": "id",
    "t": "Tekanan Rupiah Diperkirakan Berlanjut sampai Akhir 2026",
    "src": "Kompas.id",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5meTFURmctVFo2N3dWQmdEZDY3WVkwUzZzd2k0MjNGZ0FQVkxyM3hwZ2JSNlc1eHItdU9vbGY2c0J4V2o4ZGZEczUxVWNlbDF5cnU4dElkaDlEUXRpTWZabDM3R0VEQWVQcTZHeWZ5MUlya1FjZUJtNm12dW4?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDdWTV9ZNzFxVmExRDZkclBkczh3ZGd3X2lHTUV0VlR3MzlKWU5kOTU5V014V0Z4dTFWcUt0RmJWZFBRblVob0JJQ3R6dDFlUmktTUNNOVhoNll2VU1SYllPX2pSM1ZBVkUtRDlDb2JTQTRSX2I3dWlzeDRtZHJWNzlWY3JNdkdDUjlVUFVwSVFpSUtkNUwtekdhTEc?oc=5",
    "time": "2026-11-14T00:00:02Z"
   },
   {
@@ -509,15 +518,6 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1FhU3E0MEFkQjV4aHZ4WXk5cktoTzhKbE9Sd1ZKTS11dE5raks5bXA0dk5IOGZ1bzBfT2Y5LUluVTZENml5cnBxcVEyOWh6eU9UU0lIS3FNbmdxVnpvdVUyTkdRNlU0REJGYjhaQzhpZHlpWGV1U1pfRjFLVE5wb3h3NGxWbFJmSlRJNDktSENjNVVpUFlHbnNrcW1BMk9vN2NsNzFjQURkeUtGQXBrSWRsMzctNmRzWlhvSUJVQjk5aHZkeUNtYTh3?oc=5",
    "time": "2026-11-13T21:04:14Z",
    "t_id": "Saham Nvidia tergelincir karena investor mencerna keluarnya CEO, dan penjualan chip yang lebih luas semakin cepat"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Kevin Warsh’s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5",
-   "time": "2026-11-13T21:01:00Z",
-   "t_id": "Rencana Kevin Warsh untuk Membentuk Kembali The Fed: Lebih Sedikit Pemungutan Suara, Lebih Banyak Pertimbangan"
   }
  ],
  "errors": []
