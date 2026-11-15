@@ -370,6 +370,17 @@
       "ihsg": 5344.406,
       "usdidr": 18190.0,
       "ust10": 5.154
+    },
+    {
+      "t": "2026-11-15T00:58:00Z",
+      "risk": 78,
+      "btc": 63745.96,
+      "gold": 3886.3,
+      "brent": 95.84,
+      "spx": 7561.67,
+      "ihsg": 5344.406,
+      "usdidr": 18190.0,
+      "ust10": 5.154
     }
   ],
   "horizons": [
@@ -816,6 +827,14 @@
   },
   "news": [
     {
+      "t": "Angkatan laut Iran: tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz",
+      "src": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+      "time": "2026-11-14T22:54:19Z",
+      "impact": "naik",
+      "assets": "Minyak, emas, rupiah"
+    },
+    {
       "t": "Bitcoin anjlok ke sekitar $64.000–66.000 saat akhir pekan; analis menyebut harga masuk zona nilai dalam tetapi tekanan belum tentu usai",
       "src": "CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
@@ -902,14 +921,6 @@
       "time": "2026-11-13T19:34:41Z",
       "impact": "turun",
       "assets": "Bitcoin, kripto"
-    },
-    {
-      "t": "IEA: pasokan minyak global kembali surplus untuk pertama kali sejak perang Iran dimulai",
-      "src": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5",
-      "time": "2026-11-13T18:46:00Z",
-      "impact": "turun",
-      "assets": "Minyak"
     }
   ],
   "readings": [
@@ -948,10 +959,10 @@
     },
     {
       "c": "neg",
-      "d": "Turun ~5,7% sehari, ~14% sepekan",
+      "d": "Turun ~6,6% sehari, >14% sepekan",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$64.338"
+      "v": "$63.746"
     },
     {
       "c": "neg",
@@ -985,7 +996,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 78,
   "riskNote": "Hormuz tertutup, Fed condong menaikkan bunga dan kripto jatuh menjaga risiko tetap tinggi.",
-  "updatedAt": "2026-11-14T22:05:00Z",
+  "updatedAt": "2026-11-15T00:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1303,8 +1314,8 @@
   "brief": {
     "date": "2026-11-15",
     "points": [
-      "Indeks risiko naik tipis ke 78/100: dua tanker terkena ranjau di Selat Hormuz dan Iran belum mau membuka jalur itu sendirian.",
-      "Bitcoin jatuh sekitar 5,7% dalam sehari ke ~$64.300 (turun lebih dari 14% sepekan); emas bertahan ~$3.886 setelah Goldman memangkas proyeksi 2027.",
+      "Indeks risiko tetap 78/100: Iran menyebut tiga tanker terbakar setelah menabrak ranjau di Selat Hormuz, dan jalur itu belum dibuka.",
+      "Bitcoin jatuh sekitar 6,6% dalam sehari ke ~$63.700 (turun lebih dari 14% sepekan); emas bertahan ~$3.886 setelah Goldman memangkas proyeksi 2027.",
       "Imbal hasil obligasi AS 10 tahun 5,15% dan Fed diperkirakan menaikkan bunga Desember; rupiah di sekitar 18.190 per dolar AS.",
       "IHSG ditutup 5.344 (+1,78%); pasar saham global tutup akhir pekan, S&P 500 di 7.562.",
       "Pantau: RDG BI 17–18 November, pertemuan Xi-Trump, rapat OPEC+ 29 November, perkembangan Hormuz."
@@ -1398,7 +1409,7 @@
   "events": [
     {
       "t": "Tanker terkena ranjau laut dan terbakar di Selat Hormuz timur",
-      "what": "Angkatan laut Iran menyebut sebuah kapal tanker minyak terbakar setelah menghantam ranjau laut di Selat Hormuz bagian timur; ini insiden kedua dalam waktu dekat.",
+      "what": "Angkatan laut Iran menyebut tiga kapal tanker minyak terbakar setelah menabrak ranjau laut di Selat Hormuz; insiden berulang dalam waktu dekat.",
       "impact": "Risiko pasokan minyak naik; harga minyak, emas dan dolar cenderung terdorong naik, sedangkan rupiah rentan tertekan.",
       "assets": "Minyak, emas, rupiah",
       "sev": "tinggi",
