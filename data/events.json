@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T05:23:08Z",
+ "updatedAt": "2026-11-15T05:37:46Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c?oc=5",
-   "sources": 7,
+   "sources": 6,
    "recent6h": 1,
-   "score": 7.5,
+   "score": 6.5,
    "level": "besar",
    "first": "2026-11-13T19:59:08Z",
    "last": "2026-11-15T00:25:02Z",
@@ -35,10 +35,46 @@
      "t_id": "Ground stop FAA telah membatalkan lebih dari 12.500 penerbangan AS, sebelum kehancuran liburan Southwest pada tahun 2022"
     },
     {
-     "t": "The Latest: FAA lifts nationwide ground stop on flights that halted travel across the US",
-     "src": "WHEC.com",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTGJiTlNNaG11cE13Y21fTlJheGw4c18zRkF0aW8tdFZGMTJrZjJHNXZJT2YxbC0xRDk5OUJSbEI0VHR2OVpYMDlHZWw5TF9peHhhR2NLWks0ZXpOc0g2U01zSmN1RzB2cFBCRjRqbkswWlhwZWNUNVdtSXE1THJhNlQ3RHRCeFNyd3NmSUxIWldLYnE3Y3hpazNleFBOYWZOX1AtZG5Ga1ZUQXdqSm55WU9US2M2VzJNdDgwaXQ3SElMN3RiaTNlYmdTWkN2YnlBSmJHSjdLSVBzeUNxQnhZ?oc=5",
-     "t_id": "Yang Terbaru: FAA mencabut pemberhentian sementara secara nasional pada penerbangan yang menghentikan perjalanan melintasi AS"
+     "t": "US lifts nationwide ground stop after communications outage disrupts thousands of flights",
+     "src": "Global Village Space",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWNaMFdNOUtLdmtySE53eGhSOVVfZDR3aXRMbHMwZjhBeGpOTWt3aVFVV3B0V2J1eTMxZFF6dVgwWkowTW5Sb0QyVjE2LWJYa2JVNFQxd3duVVhPcUVKSlFEUlROVlM5U0hRdlJOaEN4TWs2eHF4bXVxcGtqczB6eDF1N1o1Uld4OHNDbkhRZ0t5UWxWMjVUUmtfRTFYOHRMc2NqUTJ2Vy1iUTZHUWNPMXdnQW4xVEtCVzB0Q3hhV1ZacTQ?oc=5",
+     "t_id": "AS mencabut penghentian penerbangan secara nasional setelah pemadaman komunikasi mengganggu ribuan penerbangan"
+    }
+   ]
+  },
+  {
+   "id": "perang-202611140846-efa7",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Iran claims drone attack on US base in Bahrain as Gulf tensions rise",
+   "src": "Ynetnews",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NWtyYk1keWZqZFlXNGh5c3pES2JlTVpQYjNaLXhnRWd5OW9rM1VsUG12ZFZLbm5TZF8yNHBCV0ZYakZxTmJwWEt2ZDhuZG02emNvWVR3?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-14T08:46:00Z",
+   "last": "2026-11-15T05:32:08Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Gulf States Demand Full Compensation from Iran for Missile and Drone Attack Damage",
+     "src": "UrduPoint",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1E3QlhmRE9MRE43MXA1UjRLdWFzRWFXZXFudUhfakxfQ1ZqUzQ2bEtNaEpXNWFtVDllXzhhOVFCNEJRbzN4VWxDUFpTTlVTamswT0ljcDFIclk1S2JSa2JLOEJzcGNYbjJ0Mm81aXB0UGdsVnhRS0pxNnJudE1zaV9UOTRYQ211dXVXQVJoV1BwWERwWkFYamJwY3AtWFE?oc=5",
+     "t_id": "Negara-negara Teluk Menuntut Kompensasi Penuh dari Iran atas Kerusakan Serangan Rudal dan Drone"
+    },
+    {
+     "t": "Estonian military reveals details of Ukrainian drone strike on Russian missile ship in Gulf of Finland",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGRScllYSnJ0cE9ZbEJnSmpMVWhhbDdzVzlfSXBXazVvNTVKNW1kdkYyWEw3V2ZQSUhWeTdLMU0zeU5pYzBQLS1keDNZVnUyVmhWWlFaZ0dfbjhXeWRMVmFwYjRjUENZeFh0UnFFbEJIcUMwbEtYd0stTGpldHRLSDFObWlCc2I5aTBycElweFZLRjhzbGFPb0pGajZxZG92ZDMxWU14Y9IBowFBVV95cUxNbF9vbHZVdl9QMURRNF9xc0dSUkNMUk9ta19xNFFkX3pHTlcwVk96eHI4RXJaaXZIdkVtNUZ6UmE4NWExaWNUYlFpekFONC0yQy1ZTFlMMFdLdHhWSDR0bjBiS3czV0tZci01X0hTckxjZ19SdlByS1N2NDZEWGIzdk1QQVJqdFRjc0hlT2tHcVlVMnlfZ1lZRzZQS3BXYXRVcGo0?oc=5",
+     "t_id": "Militer Estonia mengungkap rincian serangan drone Ukraina terhadap kapal rudal Rusia di Teluk Finlandia"
+    },
+    {
+     "t": "Propulsion Lost, Casualties Reported: Estonia Details Consequences of Ukrainian Drone Strike on Russian Missile Ship in Gulf of Finland",
+     "src": "Мілітарний",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1ctcXFtZWZ5OUVTZ19iTlA5SWJEZThlTlRWVEdaWFlhazgtdmViUmNOMHg2bU14RFRZdkU5amN3VlhZWU5oRXZGRG5NV1ZfUWVzQjhuaXVaZTdrSGg0cmNVM3oxZXRlQzU0MjMzTmpRb2FmQU1WZ3FtU0UyYjE2NGNBZG0wY1NmODFWZjNpd2ZUYThJY3BYeEo4TUYtYlBx?oc=5",
+     "t_id": "Propulsi Hilang, Korban Dilaporkan: Estonia Merinci Konsekuensi Serangan Drone Ukraina terhadap Kapal Rudal Rusia di Teluk Finlandia"
     }
    ]
   },
@@ -79,21 +115,26 @@
    ]
   },
   {
-   "id": "indonesia-202611141930-73b0",
+   "id": "indonesia-202611141930-a1d8",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Protes Biaya Hidup Mahal, 106 Ribu Orang Demo di Prancis",
-   "src": "VOI.ID",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQal9iWTlwbFdPbnQ5ZnJqMmhacGNTeUdrWXp4SUhKSU1yeFRfQmFrbXJadVhXcVE3VFFJbTBtRC1tdWF6YnBiaTZ5NGdLc1hhVHg2NkZrRld5NU1BNWlWeHVKTGdoMkdQV1hpc2xiclVJRG9qS1JfazI2WkNFVnlqSC04NTZLa2to0gGIAUFVX3lxTFBqX2JZOXBsV09udDlmcmoyaFpwY1N5R2tZenhJSEpJTXJ4VF9CYWttclp1WFdxUTdUUUltMG1ELW11YXpicGJpNnk0Z0tzWGFUeDY2RmtGV3k1TUE1aVZ4dUpMZ2gyR1BXWGlzbGJyVUlEb2pLUl9rMjZaQ0VWeWpILTg1Nktra2g?oc=5",
+   "title": "RICUH! Demo di Prancis Kembali Memanas, Polisi Tembakkan Gas Air Mata dan Kejar Demonstran",
+   "src": "Tribun Video",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPekdiQ0o2YkZ1Z2RSTFk3eWtuM1JiSHQwWThHUm02VHZCVFYxdmFEc2laZERLUmh6LVI4NXlZcXozMUhmTUtpTl8tS0ZZWHhQYkowRGpCcE5EYUp1WkgtOUJGUW5lRTdfS3pvYVFiOGZnWWxOLThSV1l4VF9YVEVaTXhMRHZIRzlxaFVoTXpaTVpmUTlubUZMdVVyU19Mb290NndVNE93ZHRTSGh1ck52bFV3UlhLampuZVZFZXpTUllBa0t3cklrRA?oc=5",
    "sources": 3,
-   "recent6h": 2,
-   "score": 4.0,
+   "recent6h": 3,
+   "score": 4.5,
    "level": "sedang",
-   "first": "2026-11-14T07:10:31Z",
-   "last": "2026-11-15T02:27:41Z",
+   "first": "2026-11-14T19:30:00Z",
+   "last": "2026-11-15T04:35:19Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Protes Biaya Hidup Mahal, 106 Ribu Orang Demo di Prancis",
+     "src": "VOI.ID",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQal9iWTlwbFdPbnQ5ZnJqMmhacGNTeUdrWXp4SUhKSU1yeFRfQmFrbXJadVhXcVE3VFFJbTBtRC1tdWF6YnBiaTZ5NGdLc1hhVHg2NkZrRld5NU1BNWlWeHVKTGdoMkdQV1hpc2xiclVJRG9qS1JfazI2WkNFVnlqSC04NTZLa2to0gGIAUFVX3lxTFBqX2JZOXBsV09udDlmcmoyaFpwY1N5R2tZenhJSEpJTXJ4VF9CYWttclp1WFdxUTdUUUltMG1ELW11YXpicGJpNnk0Z0tzWGFUeDY2RmtGV3k1TUE1aVZ4dUpMZ2gyR1BXWGlzbGJyVUlEb2pLUl9rMjZaQ0VWeWpILTg1Nktra2g?oc=5"
+    },
     {
      "t": "Paris Kembali Membara! Demo Biaya Hidup di Prancis Ricuh hingga 121 Demonstran Ditangkap Polisi",
      "src": "Tribun Video",
@@ -107,81 +148,32 @@
    ]
   },
   {
-   "id": "kesehatan-202611150215-4e3f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Ebola outbreak remains out of control in Congo 6 months into response",
-   "src": "The Edwardsville Intelligencer",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd1ZVcklfWU4td3VqT3lEZkFLODhoaklaRzhDXzQ4dEZGT2pnYTRvNzZkMFpJSG83ZHpRVnZ4RlBvMEU4b015Wmp0VzQ5YTFRUlZNaFRpUU1SLTd6NUJBSzlybUwyanB0eVpwc0xNM1dCOHBtclM0cnRHYnFlMXdBbkdrY1ZJZ2ZIeFlVdWpXQlNlNGg3bkU2MGxDa2lpelJnclMtTVpFUGVBb3hEWlJQMjMwUQ?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-15T02:15:00Z",
-   "last": "2026-11-15T05:08:14Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Ebola outbreak not under control amid 'dysfunctions' in response, MSF warns",
-     "src": "The National",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0x1bHlaMUM3MERESUc2YzNmbm52NkR6ZDA3MEtidlFjTDRQcmp4R1dKR0JnemN1XzVpeHRhOHdkRkpuRXBPcUZyVTZXa3VYcmJxYjNYYWpiWWpFbEJHRzM0dnIwd3JwUU9qcnplZnJOTnp0djhNZ0NOT2g0STNWVjNOZEQ5cnpRQ3g2blRsYnY1ZGV0TEhhZnE2dU5LVlZxTk9JWnpKSTRWZGpVdUppYkZqYWJfZzIxTG5VZlBtLVY2TlU?oc=5"
-    }
-   ]
-  },
-  {
    "id": "perang-202611142348-73da",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Video | Houthi Attack On Riyadh | Saudi Arabia Intercepts 2 Houthi Missiles Over Riyadh",
-   "src": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEJwekRncFZ6Rm9JR1FyX3ZoRVhfQTktTmhNSWdTN1hReHdjMnl0TTNQdGh4U0xqV2t2aG9JWFVDSHVuT21SMks4NEw1dGRPX1huYmxLeEkwakJtR1pyRjVOUElzaWZqcWJQenEySTRpY3I1NmNZcko5eWxCRGg0Qk9ibzJ5dUdkUWZfTTdjSlJmNTk4MHozNmtMR2hQZDdleEJPOEw4WlBERFBvaHU4SDhn?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
+   "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
+   "sources": 3,
+   "recent6h": 3,
+   "score": 4.5,
+   "level": "sedang",
    "first": "2026-11-14T23:48:15Z",
-   "last": "2026-11-15T02:40:09Z",
+   "last": "2026-11-15T03:06:08Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Video | Houthi Attack On Riyadh | Saudi Arabia Intercepts 2 Houthi Missiles Over Riyadh",
+     "src": "NDTV",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEJwekRncFZ6Rm9JR1FyX3ZoRVhfQTktTmhNSWdTN1hReHdjMnl0TTNQdGh4U0xqV2t2aG9JWFVDSHVuT21SMks4NEw1dGRPX1huYmxLeEkwakJtR1pyRjVOUElzaWZqcWJQenEySTRpY3I1NmNZcko5eWxCRGg0Qk9ibzJ5dUdkUWZfTTdjSlJmNTk4MHozNmtMR2hQZDdleEJPOEw4WlBERFBvaHU4SDhn?oc=5"
+    },
     {
      "t": "Live - Bahrain intercepts Iranian drone, Saudi confronts missiles targeting Riyadh",
      "src": "Iran International",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYTFVTTdXUzNYNUhDSlpNS2VjV1VVTUs2MU43Z1lfamE5MkhlMFdtMVdReUVjTjNZZVpNSmZVUmJ6Ry1IWm9CTk1JUS1ONW1VTkVEX2tJdWJiNUMxZHc?oc=5"
     }
    ]
-  },
-  {
-   "id": "perang-202611140846-efa7",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Gulf States Demand Full Compensation from Iran for Missile and Drone Attack Damage",
-   "src": "UrduPoint",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1E3QlhmRE9MRE43MXA1UjRLdWFzRWFXZXFudUhfakxfQ1ZqUzQ2bEtNaEpXNWFtVDllXzhhOVFCNEJRbzN4VWxDUFpTTlVTamswT0ljcDFIclk1S2JSa2JLOEJzcGNYbjJ0Mm81aXB0UGdsVnhRS0pxNnJudE1zaV9UOTRYQ211dXVXQVJoV1BwWERwWkFYamJwY3AtWFE?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-14T08:46:00Z",
-   "last": "2026-11-14T15:18:31Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Estonian military reveals details of Ukrainian drone strike on Russian missile ship in Gulf of Finland",
-     "src": "The New Voice of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGRScllYSnJ0cE9ZbEJnSmpMVWhhbDdzVzlfSXBXazVvNTVKNW1kdkYyWEw3V2ZQSUhWeTdLMU0zeU5pYzBQLS1keDNZVnUyVmhWWlFaZ0dfbjhXeWRMVmFwYjRjUENZeFh0UnFFbEJIcUMwbEtYd0stTGpldHRLSDFObWlCc2I5aTBycElweFZLRjhzbGFPb0pGajZxZG92ZDMxWU14Y9IBowFBVV95cUxNbF9vbHZVdl9QMURRNF9xc0dSUkNMUk9ta19xNFFkX3pHTlcwVk96eHI4RXJaaXZIdkVtNUZ6UmE4NWExaWNUYlFpekFONC0yQy1ZTFlMMFdLdHhWSDR0bjBiS3czV0tZci01X0hTckxjZ19SdlByS1N2NDZEWGIzdk1QQVJqdFRjc0hlT2tHcVlVMnlfZ1lZRzZQS3BXYXRVcGo0?oc=5",
-     "t_id": "Militer Estonia mengungkap rincian serangan drone Ukraina terhadap kapal rudal Rusia di Teluk Finlandia"
-    },
-    {
-     "t": "Propulsion Lost, Casualties Reported: Estonia Details Consequences of Ukrainian Drone Strike on Russian Missile Ship in Gulf of Finland",
-     "src": "Мілітарний",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1ctcXFtZWZ5OUVTZ19iTlA5SWJEZThlTlRWVEdaWFlhazgtdmViUmNOMHg2bU14RFRZdkU5amN3VlhZWU5oRXZGRG5NV1ZfUWVzQjhuaXVaZTdrSGg0cmNVM3oxZXRlQzU0MjMzTmpRb2FmQU1WZ3FtU0UyYjE2NGNBZG0wY1NmODFWZjNpd2ZUYThJY3BYeEo4TUYtYlBx?oc=5",
-     "t_id": "Propulsi Hilang, Korban Dilaporkan: Estonia Merinci Konsekuensi Serangan Drone Ukraina terhadap Kapal Rudal Rusia di Teluk Finlandia"
-    }
-   ],
-   "title_id": "Negara-negara Teluk Menuntut Kompensasi Penuh dari Iran atas Kerusakan Serangan Rudal dan Drone"
   },
   {
    "id": "indonesia-202611140945-d5c5",
@@ -191,14 +183,19 @@
    "title": "Prabowo Tak Gentar Hadapi Ancaman Demo: Siap Mati Demi Rakyat dan Bangsa",
    "src": "tutur.co.id",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2NQU1VDX3ZFcFNNVzFkbnVtU3JRUFhPWEdNLTBIUVlGMVZtOHh2RDM5dHllZ0NIdU5aYlFtN3Q0YURhZ3pNT0V4eFliTmZFNnVoS3ozQXV6enFQaFdGZGZYS3Y4UWN3bG9LVHVFM1RvdEpoWlF4U29YR2xBVW9uek8wQnREUkVxRE5mZlY5V2ZHamxmV0V4eF85Q1dxY0VUTmlr?oc=5",
-   "sources": 3,
+   "sources": 4,
    "recent6h": 0,
-   "score": 3.0,
+   "score": 4.0,
    "level": "sedang",
    "first": "2026-11-14T09:45:00Z",
    "last": "2026-11-14T14:00:10Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Sindir Mafia Kekayaan Negara Goyang Pemerintah Lewat Demontrasi dan Kerusuhan, Presiden Prabowo: Saya Tidak akan Gentar!",
+     "src": "KoranKota",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb19QOW1aTGxGbnA4NzRPVFhrTGxTUFNlTDJBanFvLUNSU3hDVFFGUThoY1RjVmV1M3B4cFM0eUN5blFLckFBQ0ZZUkRUcTlGWE52TlNpUmp6U004WDJFMFBjV1VHelpmdXpvVGVFSkU5aWpjSV9INmpkMG16WU8tX2Jzb0taSExGRkpBd2w1cW1faUh3VFduOHBXUVU1UzN6dWFjNkRrNGRHRkx0TlowTFIxWVk4YWRtTFlXT3VjRUNtUVk2Q0M1U3lId0h4VU1xbFFrMXdYVGl5UFptVG5fWkZfRUFLSDJ3WUhPNFhsNkw?oc=5"
+    },
     {
      "t": "Prabowo Tak Gentar Diancam Digoyang Lewat Demo dan Kerusuhan: Saya Tidak Akan Mundur!",
      "src": "SINATA.ID",
@@ -208,6 +205,29 @@
      "t": "Prabowo Tegaskan Tak Gentar Hadapi Demonstrasi dan Kerusuhan, Singgung Pihak yang Ingin Goyang Kekuasaan - Poros Jakarta",
      "src": "Poros Jakarta",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNVZWaVJDVEFfRktNQTlzTldJUWx0X3ZPM2tkRXRIUjBmcHBNNW1wQURMYUV2UkRGcWxERkFhNW5SN1pfZlZQejdwZVk2VVNQbXBySW85WVYzN2RMaGJPSll3SkRuak90NEstZ2NzVVAyck54NzJIZ0N6ajJYeG85eTBWSlk4MW5zc0lOM0MtdXphZERzc2llMVozdDI5TWZPRERSNWxqX2JUUGtxM3daX3NSQXIwMGtTdVc3SDRwMkRBOGpIM01lSHdaSkw1akFzQlkwVkhEX3Y1TUpIOGU4MUE4Y2FuZVnSAewBQVVfeXFMUDZtVVZEbnZMbFV4b0lZSzBZM2c5Q3FBV1BXbGtaQU84eFloVTI4dV9UWUgyQjNVSzJZUmVJM01LWERUdTZDV3ZtVFlyYTdqMzYzWmhKLUVlZWFLcVRadkZ6TWlFOFhvdzQ3dlkwQVNlZEFZUk5GYkp1TV90SWZ5ZmRlcUs5d1Y2SjA3b01BSlpCMUxhZXE5bnRTQzh4WC1vNmpicVpOajF4Vmt5UDZiVlhYS1hKdUtPNWZEYUR0dmNHWnhJcGY2NzR6aVBrWF9Sc3NDa1FfdTgxdzV0VkdiTlpYdjJSbk8zUm51RU0?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "kesehatan-202611150215-4e3f",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+   "src": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQmdqX0psb01kMUpiVEN2S1RZTXNQNFBSblZvblFCblVhRjhad1FCZG1GTElQd2RSNzJYTnh6ZDdyLU5veG9VZXRSQlZaajdRTnhzVTg5R1JpRFJFZGd1SDJSUHAtTHFYZHdCUDNzWkJNc1hCNUNZaHZJaFJHeWR4RGJoM2E4ZU9sZ3E4cFp1V3AtdDFuV0RRN0FnbUgtOFFNSmR1bmFxYUdzZS03aFBhM2tkZE5XbWtMVl91RHllVnZxQlU5ZXYxY2IyWnVGaV9qXzJ5dzBpRTNsOTNaaEZlNnI2MnlPZUZV0gHuAUFVX3lxTFBrNmh6TEJGbjFuZ1daUFBMZnFUWUh6X0REVEFDVXpZYS13aVd6eTQzVWpGbkZ0QTdsTjgwa0ZodkliWng0LURERjZEREFzTHJjZFdoeGktSU1FZ2JZVnllbFlMUlg5Q1VwSUZvTXBVV1N5a0stUU9abVMzSTdNSEN5dDVDT3lDd0NDUjRaNlpNUlhKcEhZb09ESWFMbEJQWTVaNVhqMWs0YUNJNjZIUnIyMHNYVzJyY2Fwb1dIMXJidm1oUWtralpHNXdCa2JjQmZDLTFGRS13RU5OR25vRDZLT1VNeHdNZTVTcjhzQnc?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-15T02:15:00Z",
+   "last": "2026-11-15T05:09:08Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Ebola outbreak not under control amid 'dysfunctions' in response, MSF warns",
+     "src": "The National",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0x1bHlaMUM3MERESUc2YzNmbm52NkR6ZDA3MEtidlFjTDRQcmp4R1dKR0JnemN1XzVpeHRhOHdkRkpuRXBPcUZyVTZXa3VYcmJxYjNYYWpiWWpFbEJHRzM0dnIwd3JwUU9qcnplZnJOTnp0djhNZ0NOT2g0STNWVjNOZEQ5cnpRQ3g2blRsYnY1ZGV0TEhhZnE2dU5LVlZxTk9JWnpKSTRWZGpVdUppYkZqYWJfZzIxTG5VZlBtLVY2TlU?oc=5"
     }
    ]
   },

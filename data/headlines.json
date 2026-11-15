@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T05:22:49Z",
+ "updatedAt": "2026-11-15T05:37:25Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -115,6 +115,14 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKNENfeURjTUIxS2NjeGlYd1ZYVmg0SGJ1Znp5M3dmQ2xfMmpTaXBIRF9VYkI0S1YxZFNwTXRmblNXemNhdkxxaFFTdWhXUjdaV0F5azM2b3JlQQ?oc=5",
    "time": "2026-11-15T00:30:41Z",
    "t_id": "BTC ke EUR: Harga Bitcoin dalam Euro"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "China, US hold first meeting of trade council under economic, trade consultation mechanism",
+   "src": "Global Times",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzWUhDOFRVQ1hCNnhLQmlSMTZXdUlXUkNHSHJSemlDTUNISS1xN3RaS3RrZkVoQVl6RENNdGFOQllhNUZmYTNNNnBVODNKMnl6YVBYbk5OSzdoaGx3OVFfMTNB?oc=5",
+   "time": "2026-11-15T00:28:00Z"
   },
   {
    "topic": "indonesia",
@@ -312,15 +320,6 @@
    "t_id": "Apakah Anthropic pembuat Claude akan go public tepat saat gelembung AI meledak?"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "China and US hold first meeting of new trade council on tariffs",
-   "src": "ThePrint",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0trQWlKMzNISElMVkNrUDVGbnJPQXMtS3FJbl8zYkx6SDdaa0FYY2JvbVlFVE52d0FpcElWSm9ONm5VbHNSc2Z2dDFvbW1fcmdQcTZQa1BDNUF5RmpIREJMOW9aSnJPS01BdTR5aHM0YkI0ZnFEczduUFRHSVRzaU5kVmt6YUlCX2k2ZlB4QXc1cVhWNXVHRFFPNmZwUlnSAaQBQVVfeXFMT1hSMEh4aGFyZTdJbjZrRk9sdjBISU5mcEZfZkN1TFNudkhMa3Z0Q0JLUS1wMjZRZ3lWSHRwVTdlV0VZWThPczJGbVN6VUVqSlFsV1dhRjRfLTFidlFzSDg4OUdVNnZlcVk3eEhOel9SZ0tWZ1pPVGNaR1laTTZJWE1YZ2tBeGd0WkpYNVpOYW94RXV1WXBVeXc0SzV6NU40WFVSbHY?oc=5",
-   "time": "2026-11-14T11:40:27Z",
-   "t_id": "Tiongkok dan AS mengadakan pertemuan pertama dewan perdagangan baru mengenai tarif"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI Waspadai Tekanan Inflasi Nataru, Gelombang Laut Hambat Distribusi di Kaltara",
@@ -448,13 +447,22 @@
    "t_id": "Saham-saham Wall Street sebagian besar melemah karena kemerosotan Nvidia terus berlanjut"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "US Futures Gain With Microsoft Outage, Producer Prices in Focus",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGFnaDF1dHVTeVV2SlEyQ0w4SHlwMTVSb1RxMlc3SFByR1l1WnM1YXRVRy11RjAyZ0xnMVdldU1PY1lhMVRHeldxQ0pUTGp1eC13eEZSLUpiejF0ZlpqRlQ4QTBhN0xEMmxaNktiRldvbG5tbk9OZy1Pbkw0ck5MRXZnblRsRnVsbHY3TlBkRGxUVEVmX1B0dDJuNDlnR1h4cld4UWdsUUI5OWhEQnRBNTJZdw?oc=5",
+   "time": "2026-11-13T21:40:05Z",
+   "t_id": "Kontrak Berjangka AS Naik Karena Penghentian Microsoft, Harga Produsen Menjadi Fokus"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
-   "t": "Wall Street’s Wild Ride Delivers Big Paydays and Bigger Bruises",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVhvdk85Ym1feVJmenNRYk1rbFZ3SHpGNWcybXc1RnZFSHFIZWpzMm1rTXNtbGY3UFpyWEZFc3lIeUFDT3ZHZEtIaDRQdmRHanVMVUlnWlNuSmRxM0JTWXRUTGU2UnZKX1R2Z0dXdk8yMDduQlQwNDBDNURYQ3ZlTG9MVzBaNkJuSWxsUkFDNHh2Wm14aUw2bFBGZ0xxZ1diUm5RZ0tHOTlLUURHQXBNSllEaVQ?oc=5",
-   "time": "2026-11-13T21:25:24Z",
-   "t_id": "Wild Ride di Wall Street Menghasilkan Pembayaran Besar dan Kerugian Lebih Besar"
+   "t": "Stocks fall but Wall Street notches a winning week after several turbulent days",
+   "src": "Boston Herald",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSFRTRUFWSFFuVXN1aUF3emVjaUt4OU9wSFVuZWlua1VoZXdpdzl6N3JNWmtaWDZQMG91RjRIMmJXWmVEREg2OGF2cEhFeGIwdzZYMEZpTW90eDF5bXJqb1RZeEpway1aV0hMdEU3d1BNMDB1dVpILXFILU9RbjI4NkkwMA?oc=5",
+   "time": "2026-11-13T21:37:15Z",
+   "t_id": "Saham-saham melemah namun Wall Street mencatatkan minggu kemenangan setelah beberapa hari penuh gejolak"
   },
   {
    "topic": "ai-teknologi",
@@ -500,14 +508,6 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlpMUGJTVFJlck5hRWotVFZkNTl1UkhZU1NfOFBBMHpmLUs5dzM3QlA1RXdfdE9lbUJvS3NGNzFxRWdlc2FJLWJUOVo5ZlpPYlY2MnFSY0JIUlFVUGNxQkYzczNqd2hXOHdsRXVRbV8zYjZiWXg3ZklWQ1A2dkE0aHJZMFdSTXFoMExKbktwdFZ4eUpaQkV3NE5ZZnRCblZra2lWODZwR2Fuc3FIeHlHcjl3?oc=5",
    "time": "2026-11-13T17:34:22Z",
    "t_id": "Bisakah The Fed Menaikkan Suku Bunga Sebesar 50 Basis Poin di Bulan Desember?"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Rate-hike bets keep gold on track for worst week in four months",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
-   "time": "2026-11-13T17:30:34Z"
   }
  ],
  "errors": []
