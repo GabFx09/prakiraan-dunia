@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T01:43:06Z",
+ "updatedAt": "2026-11-15T01:57:51Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,9 +53,9 @@
    "title": "FAA lifts nationwide ground stop after outage",
    "src": "Ticker News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkR5M1FKMHpQM21FZ2tzX1Jkd2RnSnRHYy05YzBzcGFyMFFlSjFBR3pid3FzTWtYVkt4YTBzTHBwQjRYUUNMZGNQWmgyVjlSdEhXWDJmSzU1RG1yMks3dU1JeVBla2JBMmFYdDBacFloN0hnclZqYUxubFByNmhiTzMxZGhNbG94WVJYV2FxN3pZYjM0am8zeFdYc3FWaTA?oc=5",
-   "sources": 5,
+   "sources": 4,
    "recent6h": 1,
-   "score": 5.5,
+   "score": 4.5,
    "level": "sedang",
    "first": "2026-11-13T19:59:08Z",
    "last": "2026-11-15T00:25:02Z",
@@ -66,12 +66,6 @@
      "src": "Nacionale",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTGx3ZnBNSTBVMXBsSnpWb0ZiNks4YTdyNXFoVlZhWk5USDdJVG1RYmcxTmdicVNGcEVNUi0wVnVRdUxwc0k0MklJV000Um54THFiZG5leENHV1hJeVdnVW5qeTlqajIzOUNPTEtUVEtSMThzczVFNlNrUEc2N3hjX01OUWlEcVR0RDVuUGU3V0ZpVkFaMUM1cnpieW1aMmxHczBNVG9ycTR3NzlVX3I4?oc=5",
      "t_id": "Ground stop FAA telah membatalkan lebih dari 12.500 penerbangan AS, sebelum kehancuran liburan Southwest pada tahun 2022"
-    },
-    {
-     "t": "US lifts nationwide ground stop after communications outage disrupts thousands of flights",
-     "src": "Global Village Space",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWNaMFdNOUtLdmtySE53eGhSOVVfZDR3aXRMbHMwZjhBeGpOTWt3aVFVV3B0V2J1eTMxZFF6dVgwWkowTW5Sb0QyVjE2LWJYa2JVNFQxd3duVVhPcUVKSlFEUlROVlM5U0hRdlJOaEN4TWs2eHF4bXVxcGtqczB6eDF1N1o1Uld4OHNDbkhRZ0t5UWxWMjVUUmtfRTFYOHRMc2NqUTJ2Vy1iUTZHUWNPMXdnQW4xVEtCVzB0Q3hhV1ZacTQ?oc=5",
-     "t_id": "AS mencabut penghentian penerbangan secara nasional setelah pemadaman komunikasi mengganggu ribuan penerbangan"
     },
     {
      "t": "Nationwide FAA Ground Stop Leaves Travelers Stranded",
@@ -86,6 +80,42 @@
      "t_id": "'Semuanya seperti kekacauan.' FAA mencabut ground stop, perjalanan CVG terhenti"
     }
    ]
+  },
+  {
+   "id": "transportasi-202611132141-927a",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Old air traffic control equipment regularly disrupts US flights",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-13T21:41:05Z",
+   "last": "2026-11-14T22:10:52Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flights Grounded Across US as FAA Reports Communications Failure",
+     "src": "FTN news",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSW42TnRaSWxGNjJqZUFJWWIxNi1fYlgwbF90WXFvUHhaS0d0WXV3TEtWY0VtcVdpczlpUXVoYWVKR2IzZWFzU2s5YzJYOTRkcGlQOEJWQWpDbzRteVdLb3lzdXJ4YktlT0hETmxNbVhQZEJlakpDZEEtQVduUVRVd3lKVG1VdFdlc2NzblhPRUFtcXN0?oc=5",
+     "t_id": "Penerbangan Dihentikan di Seluruh AS saat FAA Melaporkan Kegagalan Komunikasi"
+    },
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5"
+    },
+    {
+     "t": "Floppy disks behind US flight chaos? FAA's updates to Air Traffic Control may have caused old system to overload",
+     "src": "The Week",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVG50T3ZBSG5CdGkwc24za1FoZXpDZ25sY0RsQlpCT09OY3IxQUNGUlZYQk9vT09Yd042MVBNWklWWkVRVG9aWEJnbEZ4YWlLX053Sk80S213anpoeU9HXzZYa2xyb1A3OUZvME9WRlZuczA3M2pKczdtSEJYNkNEVmpQSG5BZk1SRGFScUZzb2xRQTgyMEY0QXoyY0Uxejh4UG5FN2JjMTZOaUJZR2dlZ0pIOU4ySjBFOTdBM01EWlhlS01BTVRKTkwxNUdyVGxfUFN0bExsTEsxOU1HbWY1R1BWb1FxNFI2TTFDR2wwT3dEdDFTdkpj0gH8AUFVX3lxTE9uMUNZZ1J2emxiLTVPR0E1OGdqU2xfVlpnMF9GbVR5b2dNRTN5RXVaU0Q0eUdCc084dkNyTkNkZW8tOVlURERnd1VVaXNCQU5CU2NDamNfX2xUTnhBYzI1dnVwaHEzaHhET3JtcWtCRXdQbVc5RjgxTmU3UTVUaFBkWE9ORjhJRDdhcTNKdkctOTJTeTFiMjRTdUh0cGJKLXZOc2lBdElhdTdMb1VVNGF1bHRXd0tkOC0tbEVGZmlIYklQaHpNVkUzX1N4NnV2UUJaZDVtVDZkMTZQb2RlcXNKNkZXYmlQQ0xDM2syWDBXVW9ZYTZwcnJjR090Zg?oc=5",
+     "t_id": "Floppy disk di balik kekacauan penerbangan AS? Pembaruan FAA pada Kontrol Lalu Lintas Udara mungkin menyebabkan sistem lama kelebihan beban"
+    }
+   ],
+   "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
   },
   {
    "id": "indonesia-202611140945-d5c5",
@@ -172,60 +202,30 @@
    ]
   },
   {
-   "id": "transportasi-202611132141-927a",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Old air traffic control equipment regularly disrupts US flights",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-13T21:41:05Z",
-   "last": "2026-11-14T16:32:28Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5"
-    },
-    {
-     "t": "Floppy disks behind US flight chaos? FAA's updates to Air Traffic Control may have caused old system to overload",
-     "src": "The Week",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVG50T3ZBSG5CdGkwc24za1FoZXpDZ25sY0RsQlpCT09OY3IxQUNGUlZYQk9vT09Yd042MVBNWklWWkVRVG9aWEJnbEZ4YWlLX053Sk80S213anpoeU9HXzZYa2xyb1A3OUZvME9WRlZuczA3M2pKczdtSEJYNkNEVmpQSG5BZk1SRGFScUZzb2xRQTgyMEY0QXoyY0Uxejh4UG5FN2JjMTZOaUJZR2dlZ0pIOU4ySjBFOTdBM01EWlhlS01BTVRKTkwxNUdyVGxfUFN0bExsTEsxOU1HbWY1R1BWb1FxNFI2TTFDR2wwT3dEdDFTdkpj0gH8AUFVX3lxTE9uMUNZZ1J2emxiLTVPR0E1OGdqU2xfVlpnMF9GbVR5b2dNRTN5RXVaU0Q0eUdCc084dkNyTkNkZW8tOVlURERnd1VVaXNCQU5CU2NDamNfX2xUTnhBYzI1dnVwaHEzaHhET3JtcWtCRXdQbVc5RjgxTmU3UTVUaFBkWE9ORjhJRDdhcTNKdkctOTJTeTFiMjRTdUh0cGJKLXZOc2lBdElhdTdMb1VVNGF1bHRXd0tkOC0tbEVGZmlIYklQaHpNVkUzX1N4NnV2UUJaZDVtVDZkMTZQb2RlcXNKNkZXYmlQQ0xDM2syWDBXVW9ZYTZwcnJjR090Zg?oc=5",
-     "t_id": "Floppy disk di balik kekacauan penerbangan AS? Pembaruan FAA pada Kontrol Lalu Lintas Udara mungkin menyebabkan sistem lama kelebihan beban"
-    }
-   ],
-   "title_id": "Peralatan pengatur lalu lintas udara yang lama sering mengganggu penerbangan AS"
-  },
-  {
    "id": "indonesia-202611131421-1e33",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Polda DIY Akui Kerahkan 858 Polisi Berpakaian Sipil saat Demo Jogja, Ini Penjelasannya",
-   "src": "Lombok Post",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjJySVhjQlNaaWt1YTNIaWlGZjdzYk5nUFVhcnYtdzVEb1BPYVZjck5oZFUzU0hjaUlBYm5XbkNBQW52UnpoQVVPMU8tWjZhQ2FVaDJrY0VVUzdPMW85VENGeTluejNoOFBwdFd4YmpDeW5LRkQ2N1ZmWmJES0ZXYzY4RWs0a1ZkSW1fOGg5dFhoLTY2U3JaU3drR3RsTnh5UWw3Rl9FQjgwQjBJZzF5Nk1QcTBIWEFEOUt5dVh5blVzREZMM1BGV09vZ3QyTXY3akHSAdcBQVVfeXFMT0U2MDhKWWcwU19TZ0hFY2xHQldGbi1tYzN4OTVjQ3JxSEdhdUZLb3NZYzA0UUxfN201MExBM0Fodld2ckM0S2RkaXdMZzNtX1JQSjVXUjBwMjZtS3hLTXpxNkFZVXQ4WWxBeDFBMF9XOFBqdnRZWWNIWWVTN3dDdDZubTBEcDVZb1VJRVNtQ2lNYkNQcXd6SEdHTGR6YjRSUVlkTXZNbXdnR3VaNkk5cVpZZHlMTWk4Mk5ubVVhZ29xWFlWSG5uV2w3clF5VnZoTHRxQkN6YkU?oc=5",
+   "title": "Polda DIY Akui Turunkan 858 Polisi Berpakaian Sipil saat Demo 10 November 2026, Sebut Perintah dari Kapolda - Ayo Bandung",
+   "src": "Ayo Bandung",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOblJIRUlGRFZYeV91TlA2OU1KV2pMRWtPWnVDeU8xUG95enFpOEw4RU5GTm9NVG5SeENCT1dMUXJjckFDajRkWXNDNkw1VUZnbW04VFRfYWVKVzhvNkVTUjZCc1RuU2RJU2VGMjRVTFlfTWtHZ0h6VTlqRlJyRGVXOHpCR0FYc3UxcDZ0TW42aEZMbGp6WXpBWjV4RXdKbnNiQjZzQkZZdXAzMGhIUVdROE1Xem1pTG4zUVpzOVFRT0FPOXVvdy1Lam5ZM0RlbDdjdTJzY1ZjWmYtNzRoVldoMWYtWdIB6AFBVV95cUxQTFJ0RDVMcVhyZ3ZRYlhra1RJVDc4U0o0QWJiQlNvbGJ1Rm9KT1BRQlBqRTR2cWVPd0x6UGpBNVRPM3BmbENzZ2FSbjFWeXpsSURwYXhOM0VyRm42UlgzVlU3VUJDWDcyZExQS3VBSnZLLThwZUQzaENmZXZCZmh4WlMyc2dMSkxTVDIyQmJhaE1qUWhQbFBkNXhpSlpRNWQ1YXQwdmI1N2tsNjNEUWR0aG45UVFUZnp1RWFGSmhwRGZSRklkeGI0WGtUUElDNjNiLXNOSGJYbG9KUjFXcGs3V1RhbERnck5O?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
    "first": "2026-11-13T14:21:45Z",
-   "last": "2026-11-14T05:18:15Z",
+   "last": "2026-11-14T12:00:44Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Polda DIY Akui Kerahkan 858 Polisi Berpakaian Sipil saat Demo Jogja, Ini Penjelasannya",
+     "src": "Lombok Post",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjJySVhjQlNaaWt1YTNIaWlGZjdzYk5nUFVhcnYtdzVEb1BPYVZjck5oZFUzU0hjaUlBYm5XbkNBQW52UnpoQVVPMU8tWjZhQ2FVaDJrY0VVUzdPMW85VENGeTluejNoOFBwdFd4YmpDeW5LRkQ2N1ZmWmJES0ZXYzY4RWs0a1ZkSW1fOGg5dFhoLTY2U3JaU3drR3RsTnh5UWw3Rl9FQjgwQjBJZzF5Nk1QcTBIWEFEOUt5dVh5blVzREZMM1BGV09vZ3QyTXY3akHSAdcBQVVfeXFMT0U2MDhKWWcwU19TZ0hFY2xHQldGbi1tYzN4OTVjQ3JxSEdhdUZLb3NZYzA0UUxfN201MExBM0Fodld2ckM0S2RkaXdMZzNtX1JQSjVXUjBwMjZtS3hLTXpxNkFZVXQ4WWxBeDFBMF9XOFBqdnRZWWNIWWVTN3dDdDZubTBEcDVZb1VJRVNtQ2lNYkNQcXd6SEdHTGR6YjRSUVlkTXZNbXdnR3VaNkk5cVpZZHlMTWk4Mk5ubVVhZ29xWFlWSG5uV2w3clF5VnZoTHRxQkN6YkU?oc=5"
+    },
     {
      "t": "Polda DIY Kerahkan 858 Polisi Berpakaian Sipil saat Demo Jogja 10 November 2026, Ini Penjelasannya - Kelumajang",
      "src": "Kelumajang",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbERjQ0Y4dS1xM19NUjVsR25OY1RQU212WWNfc3ZDSFVPc0Z6RjZCTTFIVmFKeld2NWF0blNmWkZOWm1ES3czcE1jX3NRTU56QThHTVVHRkY0ZjUtZTRRenp0anRlTVpBUmZyeTVHaXBQTFdOUlFQSGpDMjZ6eTJPOFk0VEdLNjVaeFEwa2t1NnU4Z0NVbG9Ud0lfVmRYYWZab0VGeGVXUFlFbzN2OGtJSW9kN2haZVB6a2x2d2NUaU50WXpYSjZDcFNOZndRR3BkZE5LS3FuUmJpU0nSAeABQVVfeXFMUDFDNG44X1d2V29WZVd3VDcyMmNEd2NzOGk4dGZDbUplZVdWM2ozZjhyRERUVDRjSmNhVnhYZVh6OXJGVVRjemtSR1lQSjNENS1zaENraFk3MTdjMlJJcWFDR0ctU1QyYmM4blh5S19PN09jekF1RFo3SXpCQ2VTNDUxd0w5QmszWjllbmpuZjJEQWJCQm5abkNVSm5RbDJfcVdIRHdaaW1OY3d5eS1HTzZGZ3dBS2JyMXdleFNKTThNakVyRTRwd0hpb0Zralh6bnpnRTVKdXFIVThqT1Z3WHc?oc=5"
-    },
-    {
-     "t": "Sekelompok Orang Berkaos Hitam saat Demo di Jogja, Polda DIY: Itu Anggota Kepolisian, Bukan Ormas - Suara Merdeka Pekalongan",
-     "src": "Suara Merdeka Pekalongan",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRXdfX3J5dXJvN2x2aHgwdWttMHRYa050OEpQb1YyLUFYemp3X3pGaXRROE5wUW4tTHVrSjREaV9tTWtlbXBDV2VLX1Z4VFVJLTFlMG03ampkUmdUc0s4Z0xOTEF6ZGVMOVFsRVg5S0d1ZGJXWEhQUWFJSmRiZ0hqbmpEX3BuZlBnRmxCLTFGX2tZQnhaajJWeHlsZmFyNS1FTVhwbXB2UmxMRWQ5X2QyZmxCWHZEN0YyUzE4WERoVVFZeFVnQVNtWm8xNWM2VGtUejhNTW1ISTBhOXJ4SkpVLW9WaDlTTlnSAewBQVVfeXFMTm9VMDBXMEVoMFRxQllBbDAtbzJrQWwwUGJUeGN6VzhqbWxBVTVSa3BUOFh4TzRlLWJqazF4dERWVERrREQ3SFpYOVRiY3lBaFpjNHBxeS1NWUtCUHBudjJrckVWNVk2MXBxS3M5NGVlZnAtZmRFVjRYamhDamxhNFhwMVpzOHhjNnF2YThCU0F2QWtONmdvc2xOYTVKM2tLUlZqOUgwcExydzAwNjJKOG9uSXNwbm1JREhraTdGRkgzUFZodHE5Zl84UVlVX3B2WTZZM0pIRUdXc01tZFRvRjBhVGhwUmpXRFhsc3k?oc=5"
     }
    ]
   },
@@ -246,10 +246,10 @@
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "What Is Going On? Microsoft Goes Down, FAA Grounds Airlines, and National Weather Service Is Denying Reports of Another Nationwide Outage",
-     "src": "OFFGRID Survival",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tR3M0TXZmZC05X2xaVmVJV1pZcDh3OWRubEYzN0RJZHU5ekNLaHpQV19tRWh4OVc5dXlIOVRXWkZydHZCYkV4N2JtRlN6R3FoRHNKSnBHb0VobGlmcWhXR2R2ZXBJZm1tSng2Z01Ob1k?oc=5",
-     "t_id": "Apa yang sedang terjadi? Microsoft Turun, FAA Grounds Airlines, dan Layanan Cuaca Nasional Menyangkal Laporan Pemadaman Nasional Lainnya"
+     "t": "Microsoft Outage: Aviation Crisis Deepens After Nationwide Flight Shutdown Exposes Aging Air Traffic System",
+     "src": "International Business Times, Singapore Edition",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM25MYXNvNTFlOURaazZ2eTRUTG1YQVAwVkFOY0ZpRjR3MVlNN01CVlpQcGt4R0NlTW9ickt0SFJ0cllxNHgyeHptUnZaTFY3OWZYN3ItU0JVTmU1UGNqMmhhZFFQSHRvV0I5ek5ReGd1cllNTjlQWThwT0dtX0txaTBIOXh2cUduX2hBVDZ1QXJvT1hvLTJTaUFDb3gyS3BDdnJfS0swQnBpUXZpaTh1MnNiRGdnMUVTcmhONg?oc=5",
+     "t_id": "Pemadaman Microsoft: Krisis Penerbangan Mendalam Setelah Penghentian Penerbangan Secara Nasional Mengungkapkan Sistem Lalu Lintas Udara yang Menua"
     }
    ],
    "title_id": "Gangguan dan Perbaikan Global Microsoft: Yang Kami Ketahui"
