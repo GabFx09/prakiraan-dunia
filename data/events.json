@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T21:30:23Z",
+ "updatedAt": "2026-11-15T21:44:58Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,20 @@
    "title": "What we know about the US ground stop and what to do if your flight is affected",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "sources": 9,
-   "recent6h": 1,
-   "score": 9.5,
+   "sources": 12,
+   "recent6h": 2,
+   "score": 13.0,
    "level": "besar",
    "first": "2026-11-14T21:27:00Z",
-   "last": "2026-11-15T18:06:26Z",
+   "last": "2026-11-15T20:21:52Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "FAA Lifts Nationwide Ground Stop After Communications Outage",
+     "src": "Bossip",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HcjZFcnNHYS00NmZfZW4ybHBMdkpNb0N2QlNPSk9aRXR0azlNQWtBR1BQalF5aUlkN1VrZERWWVVuOWVuMGxqVE9MOTViVTg3dU9QU3lfT01SY2dUZlVn?oc=5",
+     "t_id": "FAA Mencabut Ground Stop Secara Nasional Setelah Gangguan Komunikasi"
+    },
     {
      "t": "What the nationwide ground stop means for holiday travel",
      "src": "FOX 5 Atlanta",
@@ -35,12 +41,6 @@
      "src": "Men's Journal",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0N3aEdqSEQ0ZG9hd0NCYXJlQmdBeWNRVWVOQnlVM3I4RmU1RnRyck50SDdWbzVxM0tCY2pBQVpVN1ZqekpodFNkNE1aSmlIaG5jWHV6a1E2V1ZYVFR0bUY3SUgxVG5tS3Z2QlVTWkZXaDBvTW1Zc3pYellDUjJuckhaZ09IdjVh?oc=5",
      "t_id": "Pembatalan Pemadaman FAA Mencapai 15.000 karena JetBlue Memotong Lebih dari Seperempat Penerbangan Hari Minggunya"
-    },
-    {
-     "t": "FAA ground stop updates: Here's what we know",
-     "src": "Mashable",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LM1dNcUdydlQ4U0hDaXRWRFRhaEc3QkNRS2JfMHdZNm90RUIyTHNaQTJFbklkOC1rMUV6OVJHRU03c0J3b1M5Y0tUZWstd20xb0lXaEZLcHlkSlNpVl9FVTdWMWIxeXJrRUYtUUpaMA?oc=5",
-     "t_id": "Pembaruan ground stop FAA: Inilah yang kami ketahui"
     }
    ],
    "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
@@ -198,56 +198,19 @@
      "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
     },
     {
-     "t": "Yemen : Houthi Ballistic Missile Attack targets aden airport",
-     "src": "Yemen Online",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81cVZxZXFwcWRHd2xkQkM0WVJ5OW50LWc4N2RsSmt0YzZ0SWdDMHlsWE9uZ0VCMUZwQmtiN2QzQWlrWWxTLXZHcFpsTi1WbDlHWkxRYXhFVF9Ydk9DRG5BUHNHMlpsYU0?oc=5",
-     "t_id": "Yaman : Serangan Rudal Balistik Houthi menargetkan bandara aden"
-    },
-    {
      "t": "Yemen reports deadly market attack in Taiz, announces missile and drone strikes on Saudi-backed forces",
      "src": "ABNA English",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2kyZ245U3NjQ01fY1FqdGNHME1CdmttWEppcW82S1Q3azhaSWJiZXNXVWNXbG81ZWQ2SHk0bktUOWdNSmVnaHlIc2ZxX0M3Vl9qTnB4OU1wa2NvQTRvRkRhOG13TDhHMWFkcUNuMXhoTnY1eERMc0RUMDhzME5HRGZKUGg2VF85OG9haUlYR2U1aVJTVTFJbWNTbw?oc=5",
      "t_id": "Yaman melaporkan serangan pasar yang mematikan di Taiz, mengumumkan serangan rudal dan drone terhadap pasukan yang didukung Saudi"
+    },
+    {
+     "t": "West Asia Conflict Escalates as Drone and Missile Strikes Hit Baghdad and Doha",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NkV3BXbGtQSmhEdUp6Q0k1S1hBSERyQnF0X2xvckdpaE4tSGphWElNVE9ZVGR4dFpHX0NOZHEtUlZmV0dVaHNhT1VLaXhWTnM4Sm5jUnNFVXBzNHd0dUFYbWlqSGJ3SjhLLWZmODN0enU2TEhOZEJKODJ0WGxhc1VQbmFfS3htRGxyWFhjX3lLTy1KSjltV05waGNYVExRdHFZcUtXaw?oc=5",
+     "t_id": "Konflik Asia Barat Meningkat seiring Serangan Drone dan Rudal Menghantam Bagdad dan Doha"
     }
    ],
    "title_id": "Video | Pemberontak Houthi Yaman Membebaskan 600 Tahanan Perang yang Ditangkap dalam Eskalasi Pertempuran Terbaru"
-  },
-  {
-   "id": "transportasi-202611141611-05bd",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "FAA Lifts Nationwide Ground Stop After Communications Outage",
-   "src": "Bossip",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HcjZFcnNHYS00NmZfZW4ybHBMdkpNb0N2QlNPSk9aRXR0azlNQWtBR1BQalF5aUlkN1VrZERWWVVuOWVuMGxqVE9MOTViVTg3dU9QU3lfT01SY2dUZlVn?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-14T16:11:50Z",
-   "last": "2026-11-15T20:21:52Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "US lifts nationwide ground stop after communications outage disrupts flights",
-     "src": "Daily Times",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkg1UUNoNzBDY1lmdE14bzFvOS1EVHNVY0pyaFNzNGVYa1BEY2poVHZVbXEtenF5dGgzS2ZybXEybjJwejJ3RFZhN2lvSTJvanRVN3JXZzBERlhEZUNnOTVWVnFUSWRfTzdDMDVZV1VhTnhFQ2ZBcllQRkdXRzdmTlhBMnYtc1RlbHlTYnRaQjk5R1hRTkhwUmVDcF9INDhsRnVoUmZxUDhuX3JTWUdkNg?oc=5",
-     "t_id": "AS mencabut penghentian sementara secara nasional setelah pemadaman komunikasi mengganggu penerbangan"
-    },
-    {
-     "t": "US lifts nationwide flight ground stop after major air traffic control outage",
-     "src": "Greater Kashmir",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTG40WV9aQzZjZFNGZDlReW1vUEZmTzFvV2J3MUxZX0l2ZU0za3BQWTBFcUhwcWdpdzRmRXByampiMnRKc3laNjFvbDBPdlAwQVJOZGhvSkFESDJfQldtNzBGSGFvMDJwVlFoNTJ4R0xWZTVlV3dFdVh4dVBQT1dRRE8wR01Zbm94Rng2OE5yN3JVS0trNmlhbHJDX2pFclRteFZBemlGc1gwdEd6enBGUVhFYTZfUUU4VU1sX0JUVlpfMTVfTWfSAcYBQVVfeXFMTUxuNFlfWkM2Y2RTRmQ5UXltb1BGZk8xb1didzFMWV9JdmVNM2twUFkwRXFIcHFnaXc0ZkVwcmpqYjJ0SnN5WjYxb2wwT3ZQMEFSTmRob0pBREgyX0JXbTcwRkhhbzAycFZRaDUyeEdMVmU1ZVd3RXVYeHVQUE9XUURPMEdNWW5veEZ4NjhOcjdyVUtLazZpYWxyQ19qRXJUbXhWQXppRnNYMHRHenpwRlFYRWE2X1FFOFVNbF9CVFZaXzE1X01n?oc=5",
-     "t_id": "AS mencabut penghentian penerbangan secara nasional setelah pemadaman kontrol lalu lintas udara besar-besaran"
-    },
-    {
-     "t": "The Outage That Grounded All Flights in the U.S. Occurred During an Upgrade of the Aging Air Traffic Control System",
-     "src": "SFG Media",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZZDA0V3pnV1g5d3Ewc1NJMl9EU3BEOWZOb0Q4YmlUOXRuUk51bUN1Ni1pcTVXZXFiVXg2OEd5YUltUmtEc0N4OHVmWXZrZzBmVkdoS2VKTXlJd3ZmNHctbDFBVEhpY3pTM1pZdFhjYi1kV25rUTUwVVBWSGp3UQ?oc=5",
-     "t_id": "Pemadaman yang Menghentikan Semua Penerbangan di AS Terjadi Selama Peningkatan Sistem Kontrol Lalu Lintas Udara yang Menua"
-    }
-   ],
-   "title_id": "FAA Mencabut Ground Stop Secara Nasional Setelah Gangguan Komunikasi"
   },
   {
    "id": "siber-202611141522-6287",
@@ -285,6 +248,31 @@
     }
    ],
    "title_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
+  },
+  {
+   "id": "siber-202611150025-1c90",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Outlook Outage Triggers FAA Ground Stop: 4+ Hours Down",
+   "src": "shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-15T00:25:02Z",
+   "last": "2026-11-15T21:15:45Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "FAA investigates exact cause of ground stop after telecommunications outage",
+     "src": "Ticker News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkR5M1FKMHpQM21FZ2tzX1Jkd2RnSnRHYy05YzBzcGFyMFFlSjFBR3pid3FzTWtYVkt4YTBzTHBwQjRYUUNMZGNQWmgyVjlSdEhXWDJmSzU1RG1yMks3dU1JeVBla2JBMmFYdDBacFloN0hnclZqYUxubFByNmhiTzMxZGhNbG94WVJYV2FxN3pZYjM0am8zeFdYc3FWaTA?oc=5",
+     "t_id": "FAA menyelidiki penyebab pasti ground stop setelah pemadaman telekomunikasi"
+    }
+   ],
+   "title_id": "Pemadaman Outlook Memicu Penghentian FAA: 4+ Jam Turun"
   },
   {
    "id": "perang-202611140846-efa7",
