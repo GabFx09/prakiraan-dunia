@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T07:01:51Z",
+ "updatedAt": "2026-11-16T07:05:07Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -38,8 +38,8 @@
    "topic": "saham-as",
    "lang": "en",
    "t": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "src": "Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRU5KUl9nb01NalpsMHFtbGxpbV9nSm9QclR5OFdfMWJtYWpoMkh2N191VVpXR0ZQZWNnODZlSmp4NUZyV1VJcHJLUUpkUE9xbDNObUVnWTNNUElmWUx6QXBXWjByaVZiV1YybWtBazRjWk5ha0E0UmxKa2ZsaktpazBuVDYwUTFYU0g0Ykg0T1AtMWxYZWRBOVMwZTFHcDlrQnlsZWU4Mm1JU015QnFISV9TOEZlZUU?oc=5",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVRGSEZsR3d2ZTF0SHVyekdjcnpDWnNpajFsbG9SckFuTzUyZXplQndRRVB3N3VuSHcyOFJPeHhIYjI1LVliNzRsaWZGekRrN1VzSGlua0doZ0wzTFJyUnJPQVNWdUZtQmc5LVhHbVhXTkNGWVByWFNYZGpTU2IxcndOR3J5T2NVQWp6RVphTjJaZw?oc=5",
    "time": "2026-11-16T06:27:59Z"
   },
   {
@@ -90,14 +90,6 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFhlMk9GRllTSG1RUHVKUWNXeWMydDJ5cnZwZGJxNHdIQ0dZQjlpZ1FIYmZMSWJVNlBJUkZVNzB3bVMxRmtTRS1KeUFTbmlmRmlZX0htMVFxdHV6bjEtcFhxcnh4QWlGUkhTU09jMXcwaGxfRVd0emNJUkI0dFk3ZDJVM2Rub3FCNGxaaDNR?oc=5",
    "time": "2026-11-16T05:29:38Z",
    "t_id": "Wall Street Mengecam Fed, Pembekuan Suku Bunga Bank of Korea"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Gold holds steady as investors await Warsh remarks for rate signals",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRU1aT3ktODNULUM3bEpZMVRRd3prSEc2QnE3UllBSjhjbDRWM3czV0FkY21fbmY1anZaWXdyZlVnUkRLMFhtNFBMZ3U5WjRTbWNqbnVUbFg1SkRnY0o3RTZJWEhwUzEzV0xCVmxlNHZwUFZRa2xYUHB3LVpQbkxyaFhlemtlcW84cHpLV1FmRTc4OEZHRFltTkpmdXM0cG40MzNjR2JCWWJrNGRN0gGsAUFVX3lxTE1FTVpPeS04M1QtQzdsSlkxVFF3emtIRzZCcTdSWUFKOGNsNFYzdzNXQWRjbV9uZjVqdlpZd3JmVWdSREswWG00UExndTlaNFNtY2pudVRsWDVKRGdjSjdFNklYSHBTMTNXTEJWbGU0dnBQVlFrbFhQcHctWlBuTHJoWGV6a2VxbzhwektXUWZFNzg4RkdEWW1OSmZ1czRwbjQzM2NHYkJZYms0ZE0?oc=5",
-   "time": "2026-11-16T05:24:13Z"
   },
   {
    "topic": "kripto",
@@ -264,6 +256,14 @@
    "time": "2026-11-16T03:30:00Z"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul",
+   "src": "BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Lb3JYbDl5QnFPamFrR1RoVU55QnhXMmhpOFpOWU5DRVVrM25VaTZ5SjQwbFhtcVNQTDVtWGJSMThacGVTVllfSVc3bE8zTlhFTGJXckYyUkpBVzQtS2xJOHJDa0FVMHBhUkh6VXQ2WHZLOV9uWXVRYQ?oc=5",
+   "time": "2026-11-16T03:28:19Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Bareksa Insight: IHSG Naik, Peluang Kenaikan Bunga AS Membesar",
@@ -328,6 +328,15 @@
    "src": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2FWcktJLVd2aW9ObWxWUGJ4MVBiNDJ6clFlSmRTSjhNSVZrbHlCamNBYUZfeTJ2cjdtZVFZMU40a1Q0dkdRcHlibDJjS20zdW1jYmtOcnkweEx0QzFOUGpFZ2JWN3Jmc1dNakJITW45VG4waDNGU285TlN3el93ZUxzYWxXdUg3eVk0U2NSUGJySFE?oc=5",
    "time": "2026-11-16T02:04:00Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "CCTV Script 16/11/26",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZc3FkZlJGM0plYnRHQkh3YUdyYy1ULTM0S1lhWEFoQXZ5VFZHalpTbnpSQzRMbUtfV1RQOVJXaHlyWHFFS3N2SWNKS05yZ1ZqZzNTdlNORno3S2owQ2hDOGNKRHBBM0hvSXZn0gFrQVVfeXFMUFlzcWRmUkYzSmVidEdCSHdhR3JjLVQtMzRLWWFYQWhBdnlUVkdqWlNuelJDNExtS19XVFA5UldoeXJYcUVLc3ZJY0pLTnJnVmpnM1N2U05GejdLajBDaEM4Y0pEcEEzSG9Jdmc?oc=5",
+   "time": "2026-11-16T01:50:00Z",
+   "t_id": "Skrip CCTV 16/11/26"
   },
   {
    "topic": "indonesia",
@@ -458,11 +467,10 @@
   {
    "topic": "saham-as",
    "lang": "en",
-   "t": "Palo Alto Networks Stock Outlook: Is Wall Street Bullish or Bearish?",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzhFQlBuR1NCVjNlM1FWbzU1S01CSTBvRG13QWNFTU5WVlBtLWVUNzJ4X3dEekZqX1I3ZkJYb0NMcWlCcmpIT1FUUm1Fd2ludExTeUpuYnprdnkyeXU2OG5rNmdTbF9lT0NNOXhCZGJ3dUxtN1I3dUlTSnM2c195eGIxXzBobjhuY3NVR3UzYXZDOVhCTWFCV3NWcGJWdw?oc=5",
-   "time": "2026-11-15T21:50:58Z",
-   "t_id": "Outlook Saham Palo Alto Networks: Apakah Wall Street Bullish atau Bearish?"
+   "t": "What Are Wall Street Analysts' Target Price for American Electric Power Stock?",
+   "src": "Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNUliWHFFeVhrNTZrWVpweHJ2TDY2eTd4UWk4SGU4cVRMN0xLZm1TTEx0akJJU05KbVlHMTkxVGpBTUpCbWRsMnhnNUdMdjl6dmZ2N1I0M01ha1FHVmw2YW5DQ0FyTks5eENLOFhRTTBiRlVwbmpXNXdTSVJ0Ymd4YWFsVnhoMFE4Nkc5LTlKRE1rR0tVWlA2Sll2TGF3ZXB3UlFMdnpQODNCZlB6RUc1akZLaGNEU2JkaGZteg?oc=5",
+   "time": "2026-11-15T21:13:30Z"
   },
   {
    "topic": "geopolitik",
@@ -499,15 +507,6 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWxKVFl1LVNDUjNsd0dYX1RXMGxWUWJUbzAxM3VTMkg2UF90S0NLZjd0bzBnZVdCdlp6RWVQLXFlYjdFVDdJVXVNbXpNVy1naDI1X1R4bjZweUdWc0pZMEczNGlDcm5MUVVCbkFQczhpSmNNX0lDV3d0NE9CM0JWeUp2QlNGb2pmSDRFQzJiZUdseGF2LXZlTjFrTEpMOWc?oc=5",
    "time": "2026-11-15T19:33:18Z",
    "t_id": "Prediksi: Kapan Bitcoin Akan Kembali ke Titik Tertinggi Sepanjang Masa?"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Prediction: Weekend Panic Sends BTC To $62,000 As Margin Calls Bite",
-   "src": "Coinpedia",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUcydDROVF9Ua0plUVdKbXJMR19KYlNzMTJBNTYxcEl3UWI4VTc1emZwTXU0aHpCOU5GX1pWNnVLbVRLNFRHMlJTeXBERk9xSmdsanNKbEE5OGxvbmRZOVNfUElOZUQzRUtVU1FURDViUVRySVMzaWtYR200eVNoVDR4eEdTeWZ2MDB6WUoySm50b2E0WGg0TEpCTGZwTVFZa0FEbklnNVVmd9IBrwFBVV95cUxPaUZsNGJwMEs2dVJYTlFOYVJRTDFpRXcyUVJ5b3llNnhER3NRZHg0MVJtYldKSlRoU0NlbXJiVFR1cnZvUVpWZTBKR2xRQlhLcm1vZEJ2UzRJUGpienRYUmJzdHJGaHZHTkJRN3BmaDNyY2hQYnNfMTRFaWJPUklSNGZIbWJVOEZrVjlZdjY4N3dMV1RIRTJCRlQzb0gzVDVRaGxKRFdJb0M0OVk2ZGh3?oc=5",
-   "time": "2026-11-15T19:18:38Z",
-   "t_id": "Prediksi Harga Bitcoin: Kepanikan Akhir Pekan Mengirim BTC Menjadi $62,000 Saat Margin Call Menggigit"
   }
  ],
  "errors": []
