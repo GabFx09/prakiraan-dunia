@@ -491,6 +491,17 @@
    "ihsg": 5298.612,
    "usdidr": 18250.0,
    "ust10": 5.154
+  },
+  {
+   "t": "2026-11-16T10:05:00Z",
+   "risk": 80,
+   "btc": 64296.42,
+   "gold": 3860.5,
+   "brent": 92.25,
+   "spx": 7561.67,
+   "ihsg": 5320.981,
+   "usdidr": 18250.0,
+   "ust10": 5.154
   }
  ],
  "horizons": [
@@ -1048,49 +1059,49 @@
   },
   {
    "c": "neg",
-   "d": "Di atas 5%, naik lagi",
+   "d": "Di atas 5%, bertahan tinggi",
    "h": "ust10",
    "k": "Obligasi AS 10 thn",
    "v": "5,15%"
   },
   {
    "c": "neg",
-   "d": "Naik lagi, tanker kena ranjau",
+   "d": "Turun 3,8% dari penutupan",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$96,67"
+   "v": "$92,25"
   },
   {
    "c": "neg",
-   "d": "Turun 1,1%, dekat terendah setahun",
+   "d": "Turun 0,7%, dekat terendah setahun",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.844"
+   "v": "$3.860"
   },
   {
    "c": "neg",
-   "d": "Rebound tipis dari ~$62 ribu",
+   "d": "Tertekan, di bawah $65 ribu",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$64.624"
+   "v": "$64.296"
   },
   {
    "c": "neg",
-   "d": "−0,4%, Nvidia tertekan",
+   "d": "Penutupan Jumat, saham AI tertekan",
    "h": "spx",
    "k": "S&P 500",
    "v": "≈7.562"
   },
   {
    "c": "neg",
-   "d": "Turun 0,9% jelang RDG BI",
+   "d": "Turun 0,44% jelang RDG BI",
    "h": "ihsg",
    "k": "IHSG",
-   "v": "5.299"
+   "v": "5.321"
   },
   {
    "c": "neg",
-   "d": "Rupiah melemah, dolar kuat",
+   "d": "Rupiah terlemah sepanjang masa",
    "h": "usdidr",
    "k": "USD/IDR",
    "v": "18.250"
@@ -1105,8 +1116,8 @@
  "regimeText": "Minyak kembali naik akibat serangan di infrastruktur energi Saudi dan gangguan Hormuz, sementara pasar kini memperkirakan Fed menaikkan suku bunga. Saham AI dan kripto tertekan, dan rupiah rentan karena arus keluar dana asing.",
  "regimeTitle": "Stagflasi, risiko tinggi",
  "risk": 80,
- "riskNote": "Risiko tinggi: tanker kembali terkena ranjau di Hormuz, imbal hasil AS di atas 5%, dan rupiah melewati 18.250.",
- "updatedAt": "2026-11-16T07:03:00Z",
+ "riskNote": "Risiko tinggi: Hormuz belum aman, imbal hasil AS di atas 5%, dan rupiah di rekor terlemah sekitar 18.250.",
+ "updatedAt": "2026-11-16T10:05:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1424,11 +1435,11 @@
  "brief": {
   "date": "2026-11-16",
   "points": [
-   "Risiko naik tipis ke 80/100: Iran menyebut dua tanker lagi terkena ranjau dan terbakar di Selat Hormuz; Brent naik ke sekitar $96,67.",
-   "IHSG turun sekitar 0,9% ke 5.299 jelang RDG Bank Indonesia 17–18 November; rupiah melemah ke sekitar 18.250 per dolar AS.",
-   "Emas turun 1,1% ke $3.844, Bitcoin sekitar $64.620, imbal hasil obligasi AS 10 tahun 5,15% karena taruhan kenaikan bunga Fed.",
-   "Saham teknologi AI tertekan menjelang laporan keuangan Nvidia; kabar kepemimpinan Nvidia masih belum jelas.",
-   "Pantau: keputusan BI-Rate (banyak analis memperkirakan ditahan 5,75%), perkembangan Hormuz, dan rapat OPEC+ 29 November."
+   "Risiko tetap tinggi di 80/100: Iran mengklaim tanker terkena ranjau di Selat Hormuz; dua tanker dikonfirmasi terkena, klaim tenggelamnya supertanker belum terverifikasi.",
+   "Rupiah ditutup sekitar 18.245–18.250 per dolar AS (terlemah sepanjang masa); IHSG turun 0,44% ke 5.321 jelang RDG Bank Indonesia 17–18 November.",
+   "Brent turun sekitar 3,8% ke $92,25 menurut data pasar, tetapi laporan media menyebut serangan baru masih menjaga kekhawatiran pasokan; emas turun ke $3.860, Bitcoin sekitar $64.300.",
+   "Pasar memperkirakan Fed menaikkan bunga Desember; imbal hasil obligasi AS 10 tahun 5,15%. Saham AI menunggu laporan Nvidia.",
+   "Pantau: keputusan BI-Rate (18 Nov), perkembangan Hormuz, dan rapat OPEC+ 29 November."
   ]
  },
  "calendar": [
@@ -1518,7 +1529,7 @@
  ],
  "events": [
   {
-   "t": "Iran: supertanker 2 juta barel tenggelam setelah menabrak ranjau di Selat Hormuz",
+   "t": "Iran klaim supertanker 2 juta barel tenggelam di Hormuz; dua tanker dikonfirmasi terkena",
    "what": "Angkatan laut Iran menyebut beberapa tanker terbakar akibat ranjau laut di Selat Hormuz, dan satu supertanker bermuatan sekitar 2 juta barel dilaporkan tenggelam. Sebagian besar laporan bersumber dari klaim Iran dan belum diverifikasi independen.",
    "impact": "Risiko pasokan minyak naik; harga minyak, emas dan dolar cenderung terdorong naik, sedangkan rupiah rentan tertekan.",
    "assets": "Minyak, emas, rupiah",
