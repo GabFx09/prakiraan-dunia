@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T13:00:50Z",
+ "updatedAt": "2026-11-16T13:12:14Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "US Flight Cancellations Top 17,000 in Worst Tech-Related Outage",
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGVSb2RteVJqbWpLUU5sZnJXQXZQakNoT1dtYnRNbzNZOU9IWnBKWC1lb0lnQ2NfMnpmTl9HMDB1aWZld1pOTVBFdDBXeWpOVVRaN2Z1TUVmaWNSVFYtLThvOUVidERZZmRoRnJhZ2pnUzBrRjNLTGhmUk51TkdYMU1KQVRIMjl4V3VfS19LVEZ5V2k1bkx6SkhGUFRJWnVmeFFac3RxT3hvNkl5Q0w2bUdxVnE?oc=5",
-   "sources": 14,
-   "recent6h": 4,
-   "score": 16.0,
+   "sources": 15,
+   "recent6h": 3,
+   "score": 16.5,
    "level": "besar",
    "first": "2026-11-15T13:13:02Z",
    "last": "2026-11-16T10:00:00Z",
@@ -198,6 +198,37 @@
     }
    ],
    "title_id": "Iran menargetkan pangkalan militer AS di Bahrain dengan serangan pesawat tak berawak"
+  },
+  {
+   "id": "transportasi-202611151457-05bd",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "What we know about the US ground stop and what to do if your flight is affected",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-15T14:57:15Z",
+   "last": "2026-11-16T11:48:24Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flying Monday? Here's what to know after nationwide FAA ground stop",
+     "src": "WTVC",
+     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPUEF6eFdWWG1lOGxUWldRM2phRHdtS1ZZcW1lWlZfeFlNRVQtZ3F4b3ZCakFsVmJPeFZHSFNyTHg5emJaOTU5M1lvNEs1OTFScVgxeDNaWVJFai1ySzJuUTVSM3NQT012ZVE4R1FzMG9pSUNKT2hXNlZpZS0yQVdaQkNDVDYzVDVvYUl2LXo5VEdKMllzNy1sa1F0aXFJa0lUbDV0YzhpZXZFZ1JlXzJaaVFaVWNYeG1PSV9nY1F3eGtNc2tzZ2hScDh3MG5FV0NLX1dOanFJSlJHc21TM2JRZDNNZUtoaTdtSDh3Y0RuMXpQMXA4UHFMQnhMc3ZfNTYyZW1qclBFOUdXSEtaQ3VkTjBILUJaVnljX2JvQzVyaDB3MndJZzJRYnpCV3B0OVFkWWpqX0NrdGwxTXRycjNrMlZQbjRRMkN3eE45Tl80cUxJZVNK?oc=5",
+     "t_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
+    },
+    {
+     "t": "Flight ground stop in Canada, like the FAA's on Friday, unlikely: aviation expert",
+     "src": "CTV News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm1tcmM5bDdNaGZHSUxvc1dGNmxnZ2F5bkx0UGY1dUszd3FUNGhycUVZOExydjdoUXhCcVpMT1JPSXp1RXc3Sno4NFgxVkZhbjJJeFhYNnhfSFRxRmR6ZjQ2TE41OXhxSENTTy1qQzhObzNrb25lMlVLTHJtRG5OTnpNNEg0WXhySEt2dVM5N2tMWlJVM2c1UlZmOV9pVC1yTzNiNXY2T3NrYk1GVHlUWlhHSUZIZ2s?oc=5",
+     "t_id": "Perhentian penerbangan di Kanada, seperti yang dilakukan FAA pada hari Jumat, tidak mungkin terjadi: pakar penerbangan"
+    }
+   ],
+   "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
   },
   {
    "id": "indonesia-202611151505-5935",
@@ -392,54 +423,29 @@
    ]
   },
   {
-   "id": "transportasi-202611151821-b7b9",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "perang-202611151420-e98b",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "FAA Lifts Nationwide Ground Stop After Telecommunications Outage, Sean Duffy Says “It Is Safe To Fly”",
-   "src": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHBvTWIxQVZ1ZlVvYmRtYnhCVXNKNW9BYkYwWkJFLVJQbGR1MThpbWRFNmF3NFJWRW5qZWNPdVgweV9mQWwyXzE1NGUzSDNHVEM3Znkyb2xUQXg5YmVVcmFzTHZIRGFKUVZ4WktQeHJLcWtHWUpzNjBKbm44Y2hsdlZjZkxCeUFCbTNfRFNLN3dGR3JscUZ4OWFfLUVfa1NfNGoyRHlrWFJVZVRVY1F4Um5Tano1TTJkMzlqOW5tWkkyV1ZjVXNPXy01SkVraUdyZ2hOZnhaUWhGajVvbmhzQlM4MkQ4UTFCUEE?oc=5",
+   "title": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
+   "src": "Kurdistan24",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xZnljYVI1Tl9RWXZQektsekxYY1ZTekRSc0Q4a1B2bXlyb3NzSzVwV3J0S25jV3k3cGlwUzFXOWdEc2NjVlpISU5JZ3RCanFPcXREbnVR?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-15T18:21:39Z",
-   "last": "2026-11-16T01:26:10Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "first": "2026-11-15T14:20:16Z",
+   "last": "2026-11-15T15:20:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "FAA outage: Sean Duffy refuses to apologise, blames decades of underinvestment",
-     "src": "The News International",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMk1ubjZ6TTlvaF9nNXUyWkxaMm9FX2JhTzc0dlRrNG02VXJfZXpKa0pSRmdrSXBTa3dRSlJmRndKR3hqMlA5dFdPX0hyZ3ZXOENDMXJKUkhhOURxcDdmaDd2a3BmbWJlUktMTnphT3pQYmIwczE1R1FxWTBXVG0zTFFQM3hxcVZNVjlIR1RoVjB2eDNxSXpUMDBKTGVZcXZyMFVGeFl5Si1vTHJFd2VKOFJrZGpHU1VJY0HSAbYBQVVfeXFMTVBtQU9yN1c0dTdYUkc0U0RZaURlOWV4Y01KUWo3R00wMjNhSU5VNjRLQWVEbm80bm0wdWFTYVdTbFRDNWVJZEZqX1AzNW11NG50WTBjYXA2ZnNCUnBhSjZLajE1Q3NmUXY2VW5wQXZhdWZVSkpKQ2VnVkZsbnFsN0ZvZmI3MktQeWJoSkhVWjdxOGVzRDR6Z0hiOWlKbVdrUjJHU2NyQmVrOTdpdWJUYllaOWFWQVE?oc=5",
-     "t_id": "Pemadaman FAA: Sean Duffy menolak untuk meminta maaf, menyalahkan kurangnya investasi selama beberapa dekade"
+     "t": "5 Civilians Killed in Houthi Missile Attack Near Yemen's Aden",
+     "src": "Sada Elbalad English",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnViRE5KVThCeDBsNjBJcjl1dTU2Vkl4X3g3bUtWWWdIcy1BMXRGZjJNZmxaV1lTTHNaNklUWVRoTFpFdkF0Q2lvYVppdmZuT0VEMzg5OXBqVEJPZlplTHFqVXdzWGcwVGVROWRQUDVtcjdUUWM5NE1xSi1KLVFoUXJhWQ?oc=5",
+     "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
     }
    ],
-   "title_id": "FAA Mencabut Ground Stop Secara Nasional Setelah Gangguan Telekomunikasi, Sean Duffy Mengatakan “Aman Untuk Terbang”"
-  },
-  {
-   "id": "transportasi-202611151457-05bd",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "What we know about the US ground stop and what to do if your flight is affected",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-15T14:57:15Z",
-   "last": "2026-11-15T22:33:11Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Flight ground stop in Canada, like the FAA's on Friday, unlikely: aviation expert",
-     "src": "CTV News",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm1tcmM5bDdNaGZHSUxvc1dGNmxnZ2F5bkx0UGY1dUszd3FUNGhycUVZOExydjdoUXhCcVpMT1JPSXp1RXc3Sno4NFgxVkZhbjJJeFhYNnhfSFRxRmR6ZjQ2TE41OXhxSENTTy1qQzhObzNrb25lMlVLTHJtRG5OTnpNNEg0WXhySEt2dVM5N2tMWlJVM2c1UlZmOV9pVC1yTzNiNXY2T3NrYk1GVHlUWlhHSUZIZ2s?oc=5",
-     "t_id": "Perhentian penerbangan di Kanada, seperti yang dilakukan FAA pada hari Jumat, tidak mungkin terjadi: pakar penerbangan"
-    }
-   ],
-   "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
+   "title_id": "Serangan Rudal Houthi Tewaskan Lima Orang di Dekat Aden Yaman Saat Pertempuran Meningkat"
   }
  ],
  "errors": []
