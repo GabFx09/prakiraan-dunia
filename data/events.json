@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T18:58:40Z",
+ "updatedAt": "2026-11-16T19:03:35Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
-   "sources": 9,
+   "sources": 10,
    "recent6h": 4,
-   "score": 11.0,
+   "score": 12.0,
    "level": "besar",
    "first": "2026-11-15T05:02:00Z",
    "last": "2026-11-16T18:53:45Z",
@@ -50,15 +50,15 @@
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Flying Monday? Here's what to know after nationwide FAA ground stop",
-   "src": "WXLV",
-   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPZUsyajVEcml6SDFEcDVRb21Zd0tiQ281Z2tBUjVFMWk0WXdpd1lQekxCX2J6VVI0QVl0dnlzX1RyVWdKc3g1ME5lZ0Nfenk5WDh5d3VGTmt6X09RRjNqYlYyb3JIY0dwekVwR2dweHRjb296aFhOMElpQVJKTHN2Qm5fOTNDQkx1Rmc2dEotd2lwRmlwNW9zNGJWUjNSdTd6WGQ2dERwR3I0Q3VQZnNXUkthdkw2Y2VnclJjb1k0djIxLTNYeHFkZWRGU2pocFVFaU9jT21KRzZFc2g5dzJhYzZOWGFLZHFsdUtHel9sOW1tSGtTa0RXWGVybzFMSVlSTjN4bzkyUy05aFdZUXlnUVRiWnYxUW03bXc0OUhJY0QtdGRCZmUtMUJ6QnpZdw?oc=5",
+   "title": "Flight cancellations top 2,200 nationwide Sunday, including 20 at LAX, after FAA ground stop",
+   "src": "Westside Today",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0VGYmJoTmJERFhFazhjMUxmNDhxVUFrVnFtckk0Ylg0OFFRVF9iLWQ2SFJXTHpfYjJ3VTAza0kzTk9aOXRaOFVMNzh3V3pIb0U3NVdNZzhoTXljRGhUaDlubjVNUlZ3QmV1MEd6SURmemJlSnZ2TzRMSEtKMGtsazYzT2tTRmhvNUtfMnlneVluR3dHeXE5eUNILUNqaGNKMTIzWk1wTG4?oc=5",
    "sources": 7,
-   "recent6h": 0,
-   "score": 7.0,
+   "recent6h": 1,
+   "score": 7.5,
    "level": "besar",
    "first": "2026-11-15T14:57:15Z",
-   "last": "2026-11-16T11:54:11Z",
+   "last": "2026-11-16T13:37:34Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
@@ -86,7 +86,7 @@
      "t_id": "Akhir Pekan Kekacauan: Mengapa FAA Melakukan Penerbangan Darat ke Seluruh Negeri?"
     }
    ],
-   "title_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
+   "title_id": "Pembatalan penerbangan mencapai 2.200 secara nasional pada hari Minggu, termasuk 20 di LAX, setelah pemberhentian FAA"
   },
   {
    "id": "politik-202611160500-0aa3",
@@ -243,6 +243,37 @@
    "title_id": "Mengapa pemadaman Microsoft 365 berbeda dan mengapa memerlukan waktu lama untuk memulihkan layanan email"
   },
   {
+   "id": "siber-202611152238-be98",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Microsoft 365 blackout led to chlorine gas poisoning of 15 hotel guests",
+   "src": "UNILAD Tech",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWhDdEZZNlNnai1BRDBTUmJOaV9iaU5FVUFpRkNuUnNqWkxNcW9YOUYtWWNocE8zMEJrQlBXT3VfM2hpT29qMEFpT3pRQ1d6Vk5iSnFaYTg2MzNJUWdkLTJKVThWZWxoRDVWb2h1alAtUEFuSDFKaUZKYTFGcGhYRk5xdC1FWmVnSTBnWlBhUE84RGE5WFJlVU16UEpiWjhGTWxaUkpkTFZqQQ?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-15T22:38:07Z",
+   "last": "2026-11-16T13:15:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Microsoft reveals the cause of its catastrophic Outlook outage — incident set off by a ‘cascading failure’ of servers as crash leads to chlorine gas poisoning of 15 hotel guests",
+     "src": "TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONUJrbVpQUXFEekpaeUJNYW5uZTkwaFhyeDByMWhCTzZUbE9rR3ZUQ1hkS1JJQnRTYXhIX2xPNDVaQnZGSWtDVmhKZmU4NUpTWGNUalpfenlIamxmZEc5b3d4SVBjR2xMUko5UUxLY3RZdFNtNC1MX0pUd3pQaUNZUkZqZFNfSDk4el9FX2pBUnBIb0tLTDFySUh5MlBqcnQ4bmtCV3lwU0pGRW9ySU5hekgzOTQ2MXlxQUdRalhDdHBTVUwzNVJQOU1Ublk2ZTh5NTE1cUY2ZkpSQTBZZFYtY25nSG9TYXVGT1pQTURoSF9tUVB2WUw2d21wVkV5dkRJVEg3eDJCMlJ5Z2ZxSzd5dFdoVHRwdHFoOFJFWEZxbnRSUQ?oc=5",
+     "t_id": "Microsoft mengungkapkan penyebab pemadaman Outlook yang sangat parah — insiden yang dipicu oleh 'kegagalan beruntun' pada server karena kerusakan yang menyebabkan keracunan gas klorin pada 15 tamu hotel"
+    },
+    {
+     "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
+     "src": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5",
+     "t_id": "Pemadaman Microsoft Menyebabkan 15 Tamu Hotel Keracunan Klorin"
+    }
+   ],
+   "title_id": "Pemadaman Microsoft 365 menyebabkan keracunan gas klorin pada 15 tamu hotel"
+  },
+  {
    "id": "siber-202611152321-a1e9",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -316,31 +347,6 @@
    "title_id": "Ukraina melancarkan serangan drone terbesar terhadap Rusia sejak perang dimulai"
   },
   {
-   "id": "siber-202611152238-be98",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft reveals the cause of its catastrophic Outlook outage — incident set off by a ‘cascading failure’ of servers as crash leads to chlorine gas poisoning of 15 hotel guests",
-   "src": "TechRadar",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONUJrbVpQUXFEekpaeUJNYW5uZTkwaFhyeDByMWhCTzZUbE9rR3ZUQ1hkS1JJQnRTYXhIX2xPNDVaQnZGSWtDVmhKZmU4NUpTWGNUalpfenlIamxmZEc5b3d4SVBjR2xMUko5UUxLY3RZdFNtNC1MX0pUd3pQaUNZUkZqZFNfSDk4el9FX2pBUnBIb0tLTDFySUh5MlBqcnQ4bmtCV3lwU0pGRW9ySU5hekgzOTQ2MXlxQUdRalhDdHBTVUwzNVJQOU1Ublk2ZTh5NTE1cUY2ZkpSQTBZZFYtY25nSG9TYXVGT1pQTURoSF9tUVB2WUw2d21wVkV5dkRJVEg3eDJCMlJ5Z2ZxSzd5dFdoVHRwdHFoOFJFWEZxbnRSUQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-15T22:38:07Z",
-   "last": "2026-11-16T11:55:28Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
-     "src": "Security Affairs",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5",
-     "t_id": "Pemadaman Microsoft Menyebabkan 15 Tamu Hotel Keracunan Klorin"
-    }
-   ],
-   "title_id": "Microsoft mengungkapkan penyebab pemadaman Outlook yang sangat parah — insiden yang dipicu oleh 'kegagalan beruntun' pada server karena kerusakan yang menyebabkan keracunan gas klorin pada 15 tamu hotel"
-  },
-  {
    "id": "indonesia-202611152305-a66f",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -392,7 +398,7 @@
    ]
   },
   {
-   "id": "siber-202611151541-c469",
+   "id": "siber-202611152238-be98",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
@@ -403,7 +409,7 @@
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-15T15:41:13Z",
+   "first": "2026-11-15T22:14:23Z",
    "last": "2026-11-16T10:33:00Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
