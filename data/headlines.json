@@ -1,7 +1,24 @@
 {
- "updatedAt": "2026-11-16T08:40:10Z",
+ "updatedAt": "2026-11-16T08:54:54Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Price Nosedives Again: Latest Institutional Warning Points to Potential Drop to $3,600",
+   "src": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWENqYVpoLWxfZU1RbWdacG0ycFRFNUhqTktZaHlCM0d3MzRqSF9ybkdrUXlOVzEwVm92OEFBRHRJQ2szcXVOOXRQekZxYnF2aWxj?oc=5",
+   "time": "2026-11-16T08:52:09Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
+   "time": "2026-11-16T08:35:13Z",
+   "t_id": "Saham Asia Bersiap Menghadapi Tekanan AI, Penurunan Data: Pembungkusan Pasar"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -25,15 +42,6 @@
    "src": "TradingView",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOM1JnbnFnTE9LYW1saXZUZEZSNEdyaEJIQ1owcV8yWGJSeFUybWhncXNMdmgyR05keUJaQkdEWjgzVkMwVlVFMzVTZXlVR3FnZktUVExsSlJEeG5qU2hYSU1BVHo1MkpNTE5EVWxqVmxSdVExS1ZJRGNLRTZyTHpkZ2t3ajhvRW90bE80b21SNlJ0NlVic0xMYktNbTI4ay1TQ3BSRGRpU2RmX1dWLUkzQkN4SFZXR1Jienlicjhfc0twZDJmSVlYNnJBS1huczdRbVNLSEM4UnJKTVZlWHN2TU9JeUNsZUxET3NkYmFnOVBNVUhWS3VWZUFKZmF0R3d2?oc=5",
    "time": "2026-11-16T08:17:35Z"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "UBS Forecast: Gold Prices Could Surge to $5,000 – Now Is the Ideal Long-Term Investment Window",
-   "src": "36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wVnlGNklRZUl3eXFtcV9tb3NXRlVVVlFKUy1ycE1LcTNQUy1WaktvZ3lvU2xKLWVJcnlNNGlkZUktR3o4d0xEZkw0d3hEZkxFMDY0?oc=5",
-   "time": "2026-11-16T08:11:44Z",
-   "t_id": "Perkiraan UBS: Harga Emas Bisa Melonjak hingga $5.000 – Sekarang Adalah Jendela Investasi Jangka Panjang yang Ideal"
   },
   {
    "topic": "kripto",
@@ -111,15 +119,6 @@
    "src": "cwibc.co.id",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Mc0xBeTZFQlRSbzdTZnFoNC1Sc2ZNNXhnSWctU3M5ZFdCSkRPSVdVcEhTcGRGbzRtbzhNandvR2dmcC1rZGVkTWJFdjVrS2tXdFRJWmhXajhPUlNFcEhnSnBmUFJpVGc?oc=5",
    "time": "2026-11-16T07:10:59Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
-   "time": "2026-11-16T07:02:00Z",
-   "t_id": "Saham Asia Bersiap Menghadapi Tekanan AI, Penurunan Data: Pembungkusan Pasar"
   },
   {
    "topic": "indonesia",
@@ -346,14 +345,6 @@
    "time": "2026-11-16T03:30:00Z"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "China’s Zero-tariff Window Puts Nigeria’s Export Capacity to Test as Trade Hits $17.4bn",
-   "src": "THISDAYLIVE",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXB4WVF6TktBTXAtTUtOZVB4ZVZFcUVaR1NuVXlSV3VhaGI0Vy1kNTNpNDlRVDN6ZERLTzhkaEhYdjAyMXhkMi0wSnlxbEMtczRjWjRVWk5rVXdOLU5hdFBlU2FXTUF4dkdTMGlSMnpFazV0NXRzaHZMNWJod21hWnFmak9Ua0lmSnU1dmZfcXZPLW9sbHVydmZDSjl0QmNTb05QY1lrSDd6RmI3T3gwZnB1Szl3LWZibFhOWmdXYW1WZw?oc=5",
-   "time": "2026-11-16T03:18:31Z"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Bareksa Insight: IHSG Naik, Peluang Kenaikan Bunga AS Membesar",
@@ -514,6 +505,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUcydDROVF9Ua0plUVdKbXJMR19KYlNzMTJBNTYxcEl3UWI4VTc1emZwTXU0aHpCOU5GX1pWNnVLbVRLNFRHMlJTeXBERk9xSmdsanNKbEE5OGxvbmRZOVNfUElOZUQzRUtVU1FURDViUVRySVMzaWtYR200eVNoVDR4eEdTeWZ2MDB6WUoySm50b2E0WGg0TEpCTGZwTVFZa0FEbklnNVVmd9IBrwFBVV95cUxPaUZsNGJwMEs2dVJYTlFOYVJRTDFpRXcyUVJ5b3llNnhER3NRZHg0MVJtYldKSlRoU0NlbXJiVFR1cnZvUVpWZTBKR2xRQlhLcm1vZEJ2UzRJUGpienRYUmJzdHJGaHZHTkJRN3BmaDNyY2hQYnNfMTRFaWJPUklSNGZIbWJVOEZrVjlZdjY4N3dMV1RIRTJCRlQzb0gzVDVRaGxKRFdJb0M0OVk2ZGh3?oc=5",
    "time": "2026-11-15T19:18:38Z",
    "t_id": "Prediksi Harga Bitcoin: Kepanikan Akhir Pekan Mengirim BTC Menjadi $62,000 Saat Margin Call Menggigit"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "‘Bond King’ Jeffrey Gundlach Is \"Not Interested in Buying Stocks.\" His Warning Points to 10 Years of Losses",
+   "src": "24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRnlndVdTVjZvUEgxeVRFckJNUkxkaElCanJ2VzE4aDN5bkIzelQyWExUTWRrcG13SHZLcnVQeDlQc2lvLTVjZVZPa3VlUlRVYWZyUEM2dXlISWdIUWlJN2pvMmgtZEZKamhJbjJfX3lkdk51MXROYy1QRURwLXNRUVNBREVfai00cFhKQTVtS3htT2dCeGJJbXlxVXJIcVY3dzVESTFRbmwxZk9iTDlVYmNSZ20zMzlTQUtTam9BaXRoUnNILXAtVEY3bTM0Tml6WFhoYUY2STJDOXZ5Qmkw?oc=5",
+   "time": "2026-11-15T17:12:00Z",
+   "t_id": "'Bond King' Jeffrey Gundlach \"Tidak Tertarik Membeli Saham.\" Peringatannya Menunjukkan Kerugian 10 Tahun"
   }
  ],
  "errors": []
