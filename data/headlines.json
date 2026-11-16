@@ -1,7 +1,24 @@
 {
- "updatedAt": "2026-11-16T12:27:57Z",
+ "updatedAt": "2026-11-16T12:42:39Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "OJK Soroti Dampak Level BI Rate Terhadap Industri Pinjol",
+   "src": "Bloomberg Technoz",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWNHY3RXYTQwMllrS1RoX2VhS1FtYUlnV1dtN1NRNkREVVFIUDlvQ256WkhfRGxDc3F2U3ZzS0tkU0xnZWdCbmdJNHMwS2dlZV9kOUVFQU9VVUdnMGQwZGw0RXUtRnlfZDMzM0s3bjJGcTlzVWZBVFNvampSNVdnOEhnYkZRZDFjZ0MtNno4T0l2QXQxbUFOcW4wbXJBTXRaMGdKNnVoY3lhX1A5?oc=5",
+   "time": "2026-11-16T12:40:00Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them",
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yS0RmaHF4aWFYdWEwa1Z4TmZ0dzdqM1NPR21vdTZvc3dZNlVDalJHdHROUjJEcm03V0YtdHhEdC01T0tpS0RDLWZNRFpLNWlnZVJPeXlXY3k0Tk1NNW1hUEtrOE9DaWp6OU44VGpQclQtQW9pTF9jazVRNVV2UDA?oc=5",
+   "time": "2026-11-16T12:36:00Z",
+   "t_id": "Harga Bitcoin Jatuh dan Membawa Saham Coinbase dan Strategi Turun Bersamanya"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -21,13 +38,13 @@
    "t_id": "Harga Bitcoin Hari Ini: BTC Kehilangan Dukungan $65K: CZ Menimbang IPO Antropis dan Arus Keluar ETF"
   },
   {
-   "topic": "emas",
+   "topic": "ai-teknologi",
    "lang": "en",
-   "t": "Gold price falls to lowest level in a year in key signal over interest rates",
-   "src": "Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmx1Nk5KUjhqaTk3aDdkRmQ1M0l0eE10QWxzTFBGeTEydEstUmt5OThlNjZKYlN2Tm1MN21td0lzWHF0bDk2RHR0aE9YaERqRzR2YXp3cXNjMjViRFhLd1UwbDVJMUU1MlJ3SjhUQmxNWHdkblVYRVBoUENrR0xHM0lULU4?oc=5",
-   "time": "2026-11-16T11:53:15Z",
-   "t_id": "Harga emas turun ke level terendah dalam setahun sebagai sinyal penting mengenai suku bunga"
+   "t": "Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test: 3 Charts To Watch This Week",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHU2V3IySzZJUE42dGxWdl8wcXo2NzRncW5KZF9qTHdZeUd2bzVVYmV0aGRFSGlmMnBzcVJCZ21pajV5SVJDOW4zUlhzTU9RaTFmOU5CQUJyaTdSdDJaZENrcTRjdk1jT2VCSExBN3NocXBDdk5ockVyXzNKSzA5ZEtMVjktMEZQemZ4VGYzZUlobF9Sc0N5bGdSWEFXR3M2MTlj?oc=5",
+   "time": "2026-11-16T12:00:06Z",
+   "t_id": "Pendapatan Nvidia, Risalah Rapat Fed, IPO Anthropic Menguji Reli AI: 3 Grafik Yang Perlu Diperhatikan Minggu Ini"
   },
   {
    "topic": "geopolitik",
@@ -164,7 +181,7 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Ditutup Melemah 0,44% ke Level 5.320 (Senin, 16 November 2026)",
+   "t": "IHSG Ditutup Melemah 0,44% ke Level 5.320 (Senin, 16 November 2026) | Pusat Data Ekonomi dan Bisnis Indonesia",
    "src": "Databoks",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmdZcUZ5Y1pHU3pxbEkyZWhmcVlVWkVKMDBYRk5EbjllaEVoQWtGV191Zk1rNUQ4TkZhYURRTUFIaC1CSXlYdXY1NFZWX1h6cThkSWNBNS1iQ3NpbjJVR2pfZmdXRndPaHJKeUdpRy00YzYtX1ZyUEUxRHpiRHFUNzVDRTB5MDRaZkJ6amhDajEzUERHbi1CSUZCb294V2x4d0FxdFEyQWp6M01NbzZRSFRxUDd1TXJQLXBaTEpodEY?oc=5",
    "time": "2026-11-16T10:25:54Z"
@@ -376,6 +393,14 @@
    "time": "2026-11-16T07:43:26Z"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "META_TITLE_QUOTE",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LRXk3WmZ5Y1MwZVR2TUhJNEJYakk2Z3ZPbHkyWklVNkdJTnB3bjBpb0ctRzhrUzNhUmstaFJfUkJ0SVZ3VmRGTVJGS3F3aG95?oc=5",
+   "time": "2026-11-16T07:35:18Z"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Nvidia Down 30% as AI Selloff Resumes Before Earnings",
@@ -445,15 +470,6 @@
    "t_id": "Emas mencapai titik terendah dalam satu tahun karena ketahanan dolar seiring meningkatnya spekulasi hawkish The Fed"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Forecast: ETF outflows hit $1.07 billion as BTC struggles to recover from oversold levels",
-   "src": "FXStreet",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdDl0Mmx2bWJndm5nOUJSTDk2TFRleUtKNC10bGJjUEpXVlJXX0N6amRkLWRudzh2Ynh3TDRpT0NKVWNsT0VqNm02bzZWVWY0cHNibUxnNTZ5SnZjdmpJNG9YWVB6RkJuZWZBN2pXUmM3QTRIcWVKdnh1THFReGNLc3RQVkJ6U1EwaHJnQ2FZM3V1VDBONV9EenVZVnBaaVdpVjV0OXpOQkJqR1kybmpCWmNvV3RqWEc3cDhqNWltWHoxVFJvdkdtSkpQNnlvQVJWUWxJSWdHMm5qbnpPRl84YmFlaVFWMHF6TkE4QUpQVklydw?oc=5",
-   "time": "2026-11-16T05:20:34Z",
-   "t_id": "Perkiraan Harga Bitcoin: Arus keluar ETF mencapai $1,07 miliar karena BTC berjuang untuk pulih dari level oversold"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Price Forecast: XAU/USD consolidates before the next leg down",
@@ -481,15 +497,6 @@
    "t_id": "Prediksi harga Bitcoin minggu ini: Akankah BTC turun hingga $60K atau mendapatkan kembali $70K?"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Dow Jones Futures: Techs Fall As Jensen Huang Mulls Nvidia Return; Anthropic IPO Looms",
-   "src": "Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
-   "time": "2026-11-16T04:08:00Z",
-   "t_id": "Dow Jones Futures: Saham Teknologi Jatuh Saat Jensen Huang Pertimbangkan Kembalinya Nvidia; IPO Antropis Tampak"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Breaking! IHSG Turun 1%, Ini Penyebabnya",
@@ -513,15 +520,6 @@
    "src": "kumparan",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSVh5R3lDdjR5Q1NnbzBVRjRKMFVwbnBPS1FyZTVGNG5Gb01ReHh0dWwzdVMtZnZmajFrcmswTmJkdGQ2YndNRXk4R0EybGJQNGhUSHpYYkFCNVpQYWhISkZTcGFUTnl1WEVqcDBjV1M3dDEyVjlVVnY1UlZONU4zbi1Bdy0ya1JvUnRQellmNzB1WnNDY2llMzUwUmtwSlVTQ09jSnluN1NwdGVh0gG0AUFVX3lxTE5uN2EtTHQ5QlBJd2pBV0JCRXhCYjZSRUxkUW5IaWxPSFVvb1lpZ0k1TEU5YVY5UlR4blpxY05sQVpjNHhOWkxSbElFVUxSeTEtd0pFcUFlS0tUVl9hUDZwS3dyZmp6bm9lQ1F3cHg4S2xvT2lkbWE1SGpWc1UzOUVxTTFTRVJjU05INjRhMnFJRExLbS1LaldHS3hIUEREYmtDdzUtMHZrNV92RWZXU0twbThtZg?oc=5",
    "time": "2026-11-16T03:30:00Z"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "China’s Zero-tariff Window Puts Nigeria’s Export Capacity to Test as Trade Hits $17.4bn",
-   "src": "THISDAYLIVE",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXB4WVF6TktBTXAtTUtOZVB4ZVZFcUVaR1NuVXlSV3VhaGI0Vy1kNTNpNDlRVDN6ZERLTzhkaEhYdjAyMXhkMi0wSnlxbEMtczRjWjRVWk5rVXdOLU5hdFBlU2FXTUF4dkdTMGlSMnpFazV0NXRzaHZMNWJod21hWnFmak9Ua0lmSnU1dmZfcXZPLW9sbHVydmZDSjl0QmNTb05QY1lrSDd6RmI3T3gwZnB1Szl3LWZibFhOWmdXYW1WZw?oc=5",
-   "time": "2026-11-16T03:21:02Z",
-   "t_id": "Jendela Tarif Nol Tiongkok Menguji Kapasitas Ekspor Nigeria saat Perdagangan Mencapai $17,4 miliar"
   }
  ],
  "errors": []
