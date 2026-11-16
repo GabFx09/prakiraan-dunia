@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T12:42:54Z",
+ "updatedAt": "2026-11-16T12:57:33Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,14 +53,20 @@
    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
-   "sources": 7,
-   "recent6h": 2,
-   "score": 8.0,
+   "sources": 8,
+   "recent6h": 3,
+   "score": 9.5,
    "level": "besar",
    "first": "2026-11-15T05:02:00Z",
-   "last": "2026-11-16T12:14:02Z",
+   "last": "2026-11-16T12:54:10Z",
    "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
+    {
+     "t": "Ebola outbreak update as of November 14",
+     "src": "Outbreak News Today",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmtoMUlMMm44cUhvSTJ2Z1BtZjFuUS10LWt4YXJVbDdJNkxwSnZMbjI2eWd1XzQ0aG9saHV0ZUk1MUVFZWtrSFJTY0x0aUZpc1I2UThhTXl0SkZXNWJoallzMzZ5eGJXbS1jWjByT3dGZkF0XzVnTmJLcjV6VkJKelVFWXI3MW1k?oc=5",
+     "t_id": "Pembaruan wabah Ebola per 14 November"
+    },
     {
      "t": "How the Ebola Outbreak is Threatening Mothers and Young Children",
      "src": "Parents Africa",
@@ -78,15 +84,52 @@
      "src": "China Daily",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12eW9HYVRSMi1jRE9OU0c2b1R1QzB6emlxOEZ1ZU92UDlXZXVUM2R1MDN1V2YzUjRUVjgxZmZYV1V4cm9DaG1lVTB3U1ZGVUNxdmFWbjV5MTc?oc=5",
      "t_id": "Wabah Ebola di Kongo menyebar ke daerah-daerah terpencil karena kekerasan menghambat upaya tanggap darurat"
-    },
-    {
-     "t": "Ebola outbreak remains out of control in Congo 6 months into response",
-     "src": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzJqSWxEdFVlLW5aemZVZGlfSklmNUJKWERlOHY2dm13V3N1Qkk4aGpJbXN3NGlrQnE2NkhWNXFDczhZd01KaEQwNVBYU3hBYVJ1Z2I4OGVub2hSVmpMQkN1TkpmNW93MXZFX0V6V2ZNMjJIZlV2MmFnMlpZOFJObERJbGRrLXdGVURhSUlPT21oc2VsUnhGZFNBQ3JiWG9XVGxrZHpIZDg2UlIw0gGsAUFVX3lxTE5XMmpJbER0VWUtblp6ZlVkaV9KSWY1QkpYRGU4djZ2bXdXc3VCSThoakltc3c0aWtCcTY2SFY1cUNzOFl3TUpoRDA1UFhTeEFhUnVnYjg4ZW5vaFJWakxCQ3VOSmY1b3cxdkVfRXpXZk0yMkhmVXYyYWcyWlk4Uk5sRElsZGstd0ZVRGFJSU9PbWhzZWxSeEZkU0FDcmJYb1dUbGtkekhkODZSUjA?oc=5",
-     "t_id": "Wabah Ebola masih tidak terkendali di Kongo setelah 6 bulan respons"
     }
    ],
    "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
+  },
+  {
+   "id": "siber-202611151541-c469",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Microsoft Reveals How Over 80% of Servers Failed During Global Outage",
+   "src": "Analytics Insight",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWVWV1M5eUY2Xzg0UGthMkZRc0E5eXNXU3FMaGpLN1RaZ2lSdDY1Z2VtSGN3LUdpVmQ5Mmltci1WRTNNS1RCeXhRcTRnZ3JVWF9fZkp2UXg2V1NYcml0VzFSUWRodWtULVZ1RmhGekhlMGh1WDFQWngwcmMwSmoxbWduV0tFSkszSFFfUnQ3d1ZMa2lTazVISXVKbDFTQUxWaUUwTUZXWjA2UdIBtwFBVV95cUxPSmNMYkhwUW1ocVJRZHFTcHhyeHVtNDZ2QWJnVmVvZ25xaEVIblFwdXRhOXVBbXhJZWNFT1dyajdFRDB1QVBqVk4xT0ltTjJvSXlPbHVacFBtbTRWT1lDN0hXWHctRmtkZUN4V2xaeV9RbjZvU3lIWlphYVF0RnB2WjV5Q05CYU9URHpBTVdEVDZ1cWd0SGNnNlNad1BGMXBfMDJpelZJTGlTV1duTUpZY2VXZjllTEE?oc=5",
+   "sources": 5,
+   "recent6h": 2,
+   "score": 6.0,
+   "level": "sedang",
+   "first": "2026-11-15T15:41:13Z",
+   "last": "2026-11-16T11:08:19Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Over 80% of servers were down at peak of global outage, says Microsoft; cites July bug",
+     "src": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR09sLUJrNTNMcmhFVjFfUDUxbFNHMU5uUElGZXZDVms0aUlaNHp1ZWtuMnlCTmhaSjFNc3FIV0xiVjlJMnVvWWNxbmwzeU11YVV0bVNDcDlGT0tYdURYYi1DUW5PSWZKaVBNNlN3bVFWMUJobVM1UFcyTXczc2s4b2pzbld4QWc5Rm1JTE04aE5wU0w1VFhRTXFmaXZTaW42LWNtak5HRjlBVkRGVEpBZzdiRFNiMHE0ekJCcnhrOElsV3ZabVNMaFBGZEh5SmdzN19zNFJWbGlCRmR0bVBYWXg0bWl2VktT0gHuAUFVX3lxTE1Qd0hMU3ZaSGR6eW1lRlBHSFpQNXAxVzg1SjJSejZWZDJvN1R6RnRzTDhwbHduZ09mRFQyd245UDJaQ2tNYkl6QXJ3YjM3bWVPdjdlMkpqNWp2S0ViLVJaUlh0ck5XUmxwN2VTUU1HRERkTHIwZzZpTkduY2c5TzNHVmIyOVgzNUVrcFEtbEZTLXJRa3lXak1CQnRZSDJNbkVnN1ZJUTJNUTZ6V282SW45VTBLd1Z6VEhPNWVkQ1hVTEFUTm4xOUtld3JkX1hyZWY4R2ZGMElRQ240WHZsQzViZ2FjdlU1Zi1qSVRoeGc?oc=5",
+     "t_id": "Lebih dari 80% server mati pada puncak pemadaman global, kata Microsoft; mengutip bug Juli"
+    },
+    {
+     "t": "Microsoft says network change exposed bug behind global Microsoft 365 outage, issues apology",
+     "src": "Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTFcybU42MjJmZHpwN0ltQ0lhby1ucS1BczdjTXdqemZ3c1pHbnl0emhPVnpMNkRuSTZjZC10d0kzRWNzUU05OFU0SmNqS3pHcTU1SElaRXlISHpoSDRRZldRYVZZdGJJMUV1YWNxUzBvanVlUHRwRV9RLTZBdHNRMFdxZEZreUtZTG9Vd21NS2lLSVNOVWtBMlRLRHQyb19ULVBLcy1fY1VUYXNRNk05dENTQXo1Z2NqOEJWZ1RubWMzVVR4MVdadHFB?oc=5",
+     "t_id": "Microsoft mengatakan perubahan jaringan mengungkap bug di balik pemadaman global Microsoft 365, dan mengeluarkan permintaan maaf"
+    },
+    {
+     "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
+     "src": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5",
+     "t_id": "Pemadaman Microsoft Menyebabkan 15 Tamu Hotel Keracunan Klorin"
+    },
+    {
+     "t": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests — email warning system fails, 40 first responders deployed for triage, four taken to hospital",
+     "src": "Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPNUtBYWlURV9kUWtiR2FoOVdHZGtDRXIxQTBDejk2cDhLQVZxTFpGN21uS1ZuZXRNTW41QUc2Y1o3YUphV2NkbWJwV3RRMUZMdlhPMGlMQkRjeDFqTlphRnhwalpEMFdDYV9QMXV6UHU2REJleEJHcFdOVGZ2Y0lUYlZ2d01seHF3UFhaTndVUzRxTUVCQ1AtdWZ5OWY0bnVsNlJUQU1GZ0dfSVVQNjgyZ2lfXzNxMEVkYXBlQ0hQWjJtUnRjOG5mUDNzYUJTbWtuVE5jTjdqdzRrVnliVnBJQnlkRUxDaU1YLTJJdkkzNm41QzB5RVlDcC1jMWpHZHpLd0VKR19RdlV0OFp3am4xRU9rdU95bUUyTGdkY1cwTWFKN0gzR1lZVXFoN2JudE9UUlJzeERpQQ?oc=5",
+     "t_id": "Pemadaman Microsoft 365 menyebabkan keracunan gas klorin pada 15 tamu hotel — sistem peringatan email gagal, 40 petugas pertolongan pertama dikerahkan untuk triase, empat dibawa ke rumah sakit"
+    }
+   ],
+   "title_id": "Microsoft Mengungkapkan Bagaimana Lebih dari 80% Server Gagal Selama Pemadaman Global"
   },
   {
    "id": "politik-202611160500-0aa3",
@@ -139,9 +182,9 @@
    "title": "Iran targets US military base in Bahrain with drone attack",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
-   "sources": 5,
+   "sources": 4,
    "recent6h": 0,
-   "score": 5.0,
+   "score": 4.0,
    "level": "sedang",
    "first": "2026-11-15T05:32:08Z",
    "last": "2026-11-16T02:55:23Z",
@@ -164,77 +207,42 @@
      "src": "The Taiwan Times",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFE3UXVkYThfaW1JaG9UeE92b1J5Ti0tVzZ2TnhZbHhvcENidWYtTzlidWFxaHBvVGF3THhNNktLdzBrUnVLeFpybGFyS3dOUVl6dmtIMS01R1F3QW42ei1ZWTdqWkxkY0VCeWNCbWdDdTVVOEJxZzg0VEpxSDQzbk1CYm5YMTd3MUFwcDQ4b180Q2hHT0ttckJGQW5vMU5saXVldkZtaEcteTRX?oc=5",
      "t_id": "Iran melancarkan serangan drone dan rudal ke pangkalan AS di Bahrain, namun berhasil digagalkan."
-    },
-    {
-     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
-     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
     }
    ],
    "title_id": "Iran menargetkan pangkalan militer AS di Bahrain dengan serangan pesawat tak berawak"
   },
   {
-   "id": "siber-202611151541-c469",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft Reveals How Over 80% of Servers Failed During Global Outage",
-   "src": "Analytics Insight",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWVWV1M5eUY2Xzg0UGthMkZRc0E5eXNXU3FMaGpLN1RaZ2lSdDY1Z2VtSGN3LUdpVmQ5Mmltci1WRTNNS1RCeXhRcTRnZ3JVWF9fZkp2UXg2V1NYcml0VzFSUWRodWtULVZ1RmhGekhlMGh1WDFQWngwcmMwSmoxbWduV0tFSkszSFFfUnQ3d1ZMa2lTazVISXVKbDFTQUxWaUUwTUZXWjA2UdIBtwFBVV95cUxPSmNMYkhwUW1ocVJRZHFTcHhyeHVtNDZ2QWJnVmVvZ25xaEVIblFwdXRhOXVBbXhJZWNFT1dyajdFRDB1QVBqVk4xT0ltTjJvSXlPbHVacFBtbTRWT1lDN0hXWHctRmtkZUN4V2xaeV9RbjZvU3lIWlphYVF0RnB2WjV5Q05CYU9URHpBTVdEVDZ1cWd0SGNnNlNad1BGMXBfMDJpelZJTGlTV1duTUpZY2VXZjllTEE?oc=5",
-   "sources": 3,
-   "recent6h": 2,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-15T15:41:13Z",
-   "last": "2026-11-16T11:08:19Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "What caused the global Microsoft outage? Why Outlook went down – and how the issue had been hiding for months",
-     "src": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTQ4OGo4Q0xxQmhhNDBONEVXb2xKMGpfYmhTbUF5RFNjb0tCRjg3QkZfLUFGMXBGZWlRRTNscDFRcWdsVUtHanNKbEhGRFhfMWx5TE1mR09mRzAwQ3FkQkJrcERfcV9OVDNoeGFFRGtYVEE5UExRcmtnN1B0UFVYX3hFTENrLXpwSnRqZkZyOWRRVGRReFE4Zmx2NmlNazB3NXk0?oc=5",
-     "t_id": "Apa yang menyebabkan pemadaman Microsoft secara global? Mengapa Outlook tidak berfungsi – dan bagaimana masalah tersebut tersembunyi selama berbulan-bulan"
-    },
-    {
-     "t": "Microsoft outage: What actually went wrong, an expert reveals",
-     "src": "InDaily Queensland",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1N5ZDNOa1V1UDl5WlA5c3J3UlF2eFYtOHIyLThKSEh3ODVkNFJpXzVMOUFtLWI2UzdaRU9FRzdfOVA5VTZwbVN2MU53TWdlOGxvUU0xakJKd3dhTjBMMnJkNHpYdXZEZThlRjRKQXJiT21ROFdiZTBQcmozYzVsY1FMN1liQlRMQjQ1Y1FWdF9Zd0YxMkctQ0NBQ2Z1OE1mc19ZOFpsZy1uWWJsVzNiVjl4TXR3RHUzTGY3N05DMmJINUVs?oc=5",
-     "t_id": "Pemadaman Microsoft: Apa yang sebenarnya salah, ungkap seorang ahli"
-    }
-   ],
-   "title_id": "Microsoft Mengungkapkan Bagaimana Lebih dari 80% Server Gagal Selama Pemadaman Global"
-  },
-  {
-   "id": "transportasi-202611151457-05bd",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "What we know about the US ground stop and what to do if your flight is affected",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
+   "id": "indonesia-202611151505-5935",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Frexit Guncang Paris! Massa Desak Macron Mundur dan Prancis Keluar dari Uni Eropa",
+   "src": "Tribun Video",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZjhXdU9lcUNVbDVaRFVjRVlHbkRYLW0wLWNRdGNjcGViYmdUdmFhZ0JSMTgyM2txLVQtbzZDZHBQdUx1eGJMMjc2eW5tRU9fUWl6ZlRwZl83VWc0VU1ISDlOZVdmRENhVjBoWk84WklaeUVxREZwbFVPS2l3MEc3UWozenVwUmJTRU90c29Oa2pWR0xwUmlCeDdTNU9JcGU2Rlp4SmJ3ZTE1S0lORWd3RERSUnJQR2tzQ19SU2hGVGxRXzdZ?oc=5",
    "sources": 3,
    "recent6h": 1,
    "score": 3.5,
    "level": "sedang",
-   "first": "2026-11-15T14:57:15Z",
-   "last": "2026-11-16T11:48:24Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "first": "2026-11-15T15:05:00Z",
+   "last": "2026-11-16T10:25:49Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Flying Monday? Here's what to know after nationwide FAA ground stop",
-     "src": "WTVC",
-     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPUEF6eFdWWG1lOGxUWldRM2phRHdtS1ZZcW1lWlZfeFlNRVQtZ3F4b3ZCakFsVmJPeFZHSFNyTHg5emJaOTU5M1lvNEs1OTFScVgxeDNaWVJFai1ySzJuUTVSM3NQT012ZVE4R1FzMG9pSUNKT2hXNlZpZS0yQVdaQkNDVDYzVDVvYUl2LXo5VEdKMllzNy1sa1F0aXFJa0lUbDV0YzhpZXZFZ1JlXzJaaVFaVWNYeG1PSV9nY1F3eGtNc2tzZ2hScDh3MG5FV0NLX1dOanFJSlJHc21TM2JRZDNNZUtoaTdtSDh3Y0RuMXpQMXA4UHFMQnhMc3ZfNTYyZW1qclBFOUdXSEtaQ3VkTjBILUJaVnljX2JvQzVyaDB3MndJZzJRYnpCV3B0OVFkWWpqX0NrdGwxTXRycjNrMlZQbjRRMkN3eE45Tl80cUxJZVNK?oc=5",
-     "t_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
+     "t": "Demo Protes Biaya Hidup di Prancis Kembali Rusuh, 121 Orang Ditangkap",
+     "src": "Herald.ID",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXhsTmtsU2xwTVJzS0NKcTUxczB4ejVBX2UxQmJxbmlEQk44UWt6b0poSTc0SlViMExsa0JwTHQxb25NWEdLMnJUZVhxWnI4dEo1TWRTLUNpTmFvbk5oYUhUd1NHOXB3dFZyU1Q1RHZYamZFNm93eHpicTRlM0Uwd1BvbHhEQ01maTVVRXY2SE9tYU84LWFEN1hXZ2YtMGs?oc=5"
     },
     {
-     "t": "Flight ground stop in Canada, like the FAA's on Friday, unlikely: aviation expert",
-     "src": "CTV News",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm1tcmM5bDdNaGZHSUxvc1dGNmxnZ2F5bkx0UGY1dUszd3FUNGhycUVZOExydjdoUXhCcVpMT1JPSXp1RXc3Sno4NFgxVkZhbjJJeFhYNnhfSFRxRmR6ZjQ2TE41OXhxSENTTy1qQzhObzNrb25lMlVLTHJtRG5OTnpNNEg0WXhySEt2dVM5N2tMWlJVM2c1UlZmOV9pVC1yTzNiNXY2T3NrYk1GVHlUWlhHSUZIZ2s?oc=5",
-     "t_id": "Perhentian penerbangan di Kanada, seperti yang dilakukan FAA pada hari Jumat, tidak mungkin terjadi: pakar penerbangan"
+     "t": "Demo Besar di Prancis: Lebih dari 200 Orang Ditangkap, Bentrokan Pecah di Paris - galeri foto",
+     "src": "tvOneNews",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWgzaDk2R0s5VUlUZHlsdDJsLWdOTjRTSVltSkc4NzN4VnFvR1pvTkUyVWJrUmFMLTcwSUdUNWFEaVJ2NTZCQVdCMjE2bENKdGVCNDloWjRQNnhqREJtWVVUc09sdHppUTM5TnBuWXZkbHdoOVctLW53cVJEOU91WXR2N0Vyd1BPTTU2b0ViQUczLTdtcUhuM1I0bWZyQm0yUHlZMTJFd3djVVNZNDd1UmNLTHZ2S0Y2SGdPVVROc1VaWTBHOF81eHg0NjJpSWhfYmhHRndESklkMXNG?oc=5"
+    },
+    {
+     "t": "Demo Besar di Prancis: Lebih dari 200 Orang Ditangkap, Bentrokan Pecah di Paris",
+     "src": "tvOneNews",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS18wRHhwWnZGMnZFNzJxLTJqZVdQU3NiYkhmV3V3MkR4M0w1SFM0NEg5QWgwZ1VFVkFFSVFUTXVhbE11cmRrWHZ0MG10Nk9vMHdlQTF4UGowOUV3R2I5bmkybXlkQXRBMVVFbnd3NUU5Ti1vNDBNR2xnZFNLamsxLXBRa2ZWZEVEWGhtcEhFM3hpcERzZlpGUmo3LWJicVpwV0V6QnV1V3hjMHJzSTlKTUVPU3kzelZJcGhvUGNTX2MtR3dJY3FCZTJVTdIB0AFBVV95cUxOUWNfSW9fQ3JfWUFPRjAxbkNzWFB4azR6MzNENUtwRnl1RnREMUR2REs0LUVYOVM2OUZmdnBKYVZyblNkQ18wVGZJazMwMTQyLXZkWTYzY3J1Y2dSUWZUN2FoR2pUTVQwZFQ0VXljYUtKcDBXRDdaaU43Wl81NXlIZEJXRE9TeTFtRklSeTBMc2dUc0owa2lfZTRhUXF1bXE1LTFCV3NKRHNpcWlPa3RzMkFaeHVSc2VCX3VKMVlvSTQyNzROb3lzSHBRbThJSlc4?oc=5"
     }
-   ],
-   "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
+   ]
   },
   {
    "id": "perang-202611151802-a602",
@@ -314,27 +322,35 @@
    ]
   },
   {
-   "id": "indonesia-202611160645-ce98",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Tiba-Tiba Menteri Tito Pelototi Wilayah RI Ini, Rawan Demo Besar",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON25wVGxXU0tGNnFqdEZzNVZ3dGY0a2VHbndjTDFDZTNNT2xDb3FPT2RkRGpfU0ZEM2JPMzhPMG9aS0VJQm14Ym8tLVhVeldXRWRYN0VfNkNEN21JdkZENE9NdVVpamZyZHRkcmVpczdiZWQ2Y3RkN0tnQ0NVcVVqOXh4N2s3dUltaVMwZVIzeUstUDQ0am9BdUZlX29WTmxsR2R5d0VCVFp2dU5ibDlqT1JUMmQ1LTQ2VEVOUkczUdIBxAFBVV95cUxPaHk5M2NaT0hCbXdRQWQweDBWSXlhTFlSN1NsY3BlRmFLbVBPSWc5MWwwclE1N1hOaUFBZVZ3aDlSZkZsMTdwUXNaUW9IRE9ibV9wVkczSTZYMVRxdjhoV1J2ZDB6VEVWSk1aXy1YSTJBRWNEWEEzUFBxV25VS1plTTdXY3FLUG1KNnJiTVJpMElSRzRSX2VJZGxuMnE0WVM4UlZ2bUhzVjdRVVVPY0RSTVdkdVpUMFlrMGtSUzAxU01UQ3dn?oc=5",
-   "sources": 2,
-   "recent6h": 2,
+   "id": "kerusuhan-202611151423-289e",
+   "cat": "kerusuhan",
+   "label": "Kerusuhan & protes besar",
+   "lang": "en",
+   "title": "Why Guatemala Just Declared A State Of Emergency In Zacapa And Izabal",
+   "src": "ИФЗ РАН",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwV2pHYU1uMFVFT1kzZTh0cEFXN3drOUFBeTJSbmtDU1FhN1ZIWGduSHlLMHBFZ3NKbi1zR0xqOW50Q1hLM19ubVg0aUJUWW8yWEdDcUZTZlkzbE96OGVBQnFoQnhWN1NGS2phTUhoem5zZ25VcUg1U1dzdGdUQQ?oc=5",
+   "sources": 3,
+   "recent6h": 0,
    "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-16T06:45:00Z",
-   "last": "2026-11-16T06:48:46Z",
-   "assets": "IHSG, rupiah, SBN",
+   "level": "sedang",
+   "first": "2026-11-15T14:23:27Z",
+   "last": "2026-11-16T05:35:16Z",
+   "assets": "Mata uang lokal, saham negara terkait, emas",
    "more": [
     {
-     "t": "Mendagri Tito Soroti Wilayah Rawan Demo Jelang Penetapan Upah Minimum",
-     "src": "Zonautara.com",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzFiMkpOMklTU1Z6UEVRaUR6LWlQZTF6MDNsYkVodExVUmtEa29Ba015ZlhvenRBczlpamhYTWk1TlZQZElPa3FIbEpkTlkyRnJqZHhLSEtERVlFamhFcEY5aWpNM1dVdW92Mmo1cDREb2ZrN1FTRldLUC1PYV9udkZmUXdhQXVOZ0pNd3h2ZFV3blduNFZIWFlYX01iSVZITGlxdXBB?oc=5"
+     "t": "Spain declared a state of emergency in the Canary Islands due to an influx of migrants: thousands arrived in 2 days",
+     "src": "Haberler.com",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORWkxT2pmdWVPTklLUFNwWE8zeDVLTUhhYk5aVFJ5NEtXUFpkR3dpMnFFODZkcVQwQjFxVC1HdTVfUk5ZU3RTaGx2OG1IcjRLVkRRT1Q0NC1yZmphUW9rM3NmS3FKMTJZRWYyMklJdkl4T3prcTdnU0M1dXVoMllTYWx2dzVMcTBwcGc?oc=5",
+     "t_id": "Spanyol mengumumkan keadaan darurat di Kepulauan Canary karena masuknya migran: ribuan orang tiba dalam 2 hari"
+    },
+    {
+     "t": "VIDEO: State of Emergency Declared Due to Devastating Storm in Indonesia",
+     "src": "Aurora News",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2ZtWlpkZmRmOHlPN2ZyM2tlZy0xMWs2T1BMVDQwNHNla1Jnbzd6WWtwRHhtMlppTkdpRUhwUmE3S0U5Z3JjYk01VVBreFlPNGhMU1pvbmNLaHFPWkJFTFpvcV8xeHRKeExxbGpJNkNPMUd0NV9NNWR0dmp5TS14cV9PV25FUmFGNm9lZjNJTjdacUJVcU5jSUt5N25SdGNEOW5MX0FLekRHSWVTNi1UZ3p3?oc=5",
+     "t_id": "VIDEO: Keadaan Darurat Dinyatakan Akibat Badai yang Menghancurkan Indonesia"
     }
-   ]
+   ],
+   "title_id": "Mengapa Guatemala Baru Mendeklarasikan Keadaan Darurat di Zacapa dan Izabal"
   },
   {
    "id": "indonesia-202611152305-a66f",
@@ -365,57 +381,77 @@
    ]
   },
   {
-   "id": "indonesia-202611151505-5935",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Frexit Guncang Paris! Massa Desak Macron Mundur dan Prancis Keluar dari Uni Eropa",
-   "src": "Tribun Video",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZjhXdU9lcUNVbDVaRFVjRVlHbkRYLW0wLWNRdGNjcGViYmdUdmFhZ0JSMTgyM2txLVQtbzZDZHBQdUx1eGJMMjc2eW5tRU9fUWl6ZlRwZl83VWc0VU1ISDlOZVdmRENhVjBoWk84WklaeUVxREZwbFVPS2l3MEc3UWozenVwUmJTRU90c29Oa2pWR0xwUmlCeDdTNU9JcGU2Rlp4SmJ3ZTE1S0lORWd3RERSUnJQR2tzQ19SU2hGVGxRXzdZ?oc=5",
+   "id": "siber-202611151541-c469",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "What caused the global Microsoft outage? Why Outlook went down – and how the issue had been hiding for months",
+   "src": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTQ4OGo4Q0xxQmhhNDBONEVXb2xKMGpfYmhTbUF5RFNjb0tCRjg3QkZfLUFGMXBGZWlRRTNscDFRcWdsVUtHanNKbEhGRFhfMWx5TE1mR09mRzAwQ3FkQkJrcERfcV9OVDNoeGFFRGtYVEE5UExRcmtnN1B0UFVYX3hFTENrLXpwSnRqZkZyOWRRVGRReFE4Zmx2NmlNazB3NXk0?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-15T15:05:00Z",
-   "last": "2026-11-16T10:25:49Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-15T15:41:13Z",
+   "last": "2026-11-16T10:33:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Demo Besar di Prancis: Lebih dari 200 Orang Ditangkap, Bentrokan Pecah di Paris - galeri foto",
-     "src": "tvOneNews",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWgzaDk2R0s5VUlUZHlsdDJsLWdOTjRTSVltSkc4NzN4VnFvR1pvTkUyVWJrUmFMLTcwSUdUNWFEaVJ2NTZCQVdCMjE2bENKdGVCNDloWjRQNnhqREJtWVVUc09sdHppUTM5TnBuWXZkbHdoOVctLW53cVJEOU91WXR2N0Vyd1BPTTU2b0ViQUczLTdtcUhuM1I0bWZyQm0yUHlZMTJFd3djVVNZNDd1UmNLTHZ2S0Y2SGdPVVROc1VaWTBHOF81eHg0NjJpSWhfYmhHRndESklkMXNG?oc=5"
-    },
-    {
-     "t": "Demo Besar di Prancis: Lebih dari 200 Orang Ditangkap, Bentrokan Pecah di Paris",
-     "src": "tvOneNews",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS18wRHhwWnZGMnZFNzJxLTJqZVdQU3NiYkhmV3V3MkR4M0w1SFM0NEg5QWgwZ1VFVkFFSVFUTXVhbE11cmRrWHZ0MG10Nk9vMHdlQTF4UGowOUV3R2I5bmkybXlkQXRBMVVFbnd3NUU5Ti1vNDBNR2xnZFNLamsxLXBRa2ZWZEVEWGhtcEhFM3hpcERzZlpGUmo3LWJicVpwV0V6QnV1V3hjMHJzSTlKTUVPU3kzelZJcGhvUGNTX2MtR3dJY3FCZTJVTdIB0AFBVV95cUxOUWNfSW9fQ3JfWUFPRjAxbkNzWFB4azR6MzNENUtwRnl1RnREMUR2REs0LUVYOVM2OUZmdnBKYVZyblNkQ18wVGZJazMwMTQyLXZkWTYzY3J1Y2dSUWZUN2FoR2pUTVQwZFQ0VXljYUtKcDBXRDdaaU43Wl81NXlIZEJXRE9TeTFtRklSeTBMc2dUc0owa2lfZTRhUXF1bXE1LTFCV3NKRHNpcWlPa3RzMkFaeHVSc2VCX3VKMVlvSTQyNzROb3lzSHBRbThJSlc4?oc=5"
+     "t": "Microsoft outage: What actually went wrong, an expert reveals",
+     "src": "InDaily Queensland",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1N5ZDNOa1V1UDl5WlA5c3J3UlF2eFYtOHIyLThKSEh3ODVkNFJpXzVMOUFtLWI2UzdaRU9FRzdfOVA5VTZwbVN2MU53TWdlOGxvUU0xakJKd3dhTjBMMnJkNHpYdXZEZThlRjRKQXJiT21ROFdiZTBQcmozYzVsY1FMN1liQlRMQjQ1Y1FWdF9Zd0YxMkctQ0NBQ2Z1OE1mc19ZOFpsZy1uWWJsVzNiVjl4TXR3RHUzTGY3N05DMmJINUVs?oc=5",
+     "t_id": "Pemadaman Microsoft: Apa yang sebenarnya salah, ungkap seorang ahli"
     }
-   ]
+   ],
+   "title_id": "Apa yang menyebabkan pemadaman Microsoft secara global? Mengapa Outlook tidak berfungsi – dan bagaimana masalah tersebut tersembunyi selama berbulan-bulan"
   },
   {
-   "id": "kerusuhan-202611151423-289e",
-   "cat": "kerusuhan",
-   "label": "Kerusuhan & protes besar",
-   "lang": "en",
-   "title": "Spain declared a state of emergency in the Canary Islands due to an influx of migrants: thousands arrived in 2 days",
-   "src": "Haberler.com",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORWkxT2pmdWVPTklLUFNwWE8zeDVLTUhhYk5aVFJ5NEtXUFpkR3dpMnFFODZkcVQwQjFxVC1HdTVfUk5ZU3RTaGx2OG1IcjRLVkRRT1Q0NC1yZmphUW9rM3NmS3FKMTJZRWYyMklJdkl4T3prcTdnU0M1dXVoMllTYWx2dzVMcTBwcGc?oc=5",
+   "id": "indonesia-202611160645-ce98",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Tiba-Tiba Menteri Tito Pelototi Wilayah RI Ini, Rawan Demo Besar",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON25wVGxXU0tGNnFqdEZzNVZ3dGY0a2VHbndjTDFDZTNNT2xDb3FPT2RkRGpfU0ZEM2JPMzhPMG9aS0VJQm14Ym8tLVhVeldXRWRYN0VfNkNEN21JdkZENE9NdVVpamZyZHRkcmVpczdiZWQ2Y3RkN0tnQ0NVcVVqOXh4N2s3dUltaVMwZVIzeUstUDQ0am9BdUZlX29WTmxsR2R5d0VCVFp2dU5ibDlqT1JUMmQ1LTQ2VEVOUkczUdIBxAFBVV95cUxPaHk5M2NaT0hCbXdRQWQweDBWSXlhTFlSN1NsY3BlRmFLbVBPSWc5MWwwclE1N1hOaUFBZVZ3aDlSZkZsMTdwUXNaUW9IRE9ibV9wVkczSTZYMVRxdjhoV1J2ZDB6VEVWSk1aXy1YSTJBRWNEWEEzUFBxV25VS1plTTdXY3FLUG1KNnJiTVJpMElSRzRSX2VJZGxuMnE0WVM4UlZ2bUhzVjdRVVVPY0RSTVdkdVpUMFlrMGtSUzAxU01UQ3dn?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-15T14:23:27Z",
-   "last": "2026-11-15T20:09:05Z",
-   "assets": "Mata uang lokal, saham negara terkait, emas",
+   "first": "2026-11-16T06:45:00Z",
+   "last": "2026-11-16T06:48:46Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "VIDEO: State of Emergency Declared Due to Devastating Storm in Indonesia",
-     "src": "Aurora News",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2ZtWlpkZmRmOHlPN2ZyM2tlZy0xMWs2T1BMVDQwNHNla1Jnbzd6WWtwRHhtMlppTkdpRUhwUmE3S0U5Z3JjYk01VVBreFlPNGhMU1pvbmNLaHFPWkJFTFpvcV8xeHRKeExxbGpJNkNPMUd0NV9NNWR0dmp5TS14cV9PV25FUmFGNm9lZjNJTjdacUJVcU5jSUt5N25SdGNEOW5MX0FLekRHSWVTNi1UZ3p3?oc=5",
-     "t_id": "VIDEO: Keadaan Darurat Dinyatakan Akibat Badai yang Menghancurkan Indonesia"
+     "t": "Mendagri Tito Soroti Wilayah Rawan Demo Jelang Penetapan Upah Minimum",
+     "src": "Zonautara.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzFiMkpOMklTU1Z6UEVRaUR6LWlQZTF6MDNsYkVodExVUmtEa29Ba015ZlhvenRBczlpamhYTWk1TlZQZElPa3FIbEpkTlkyRnJqZHhLSEtERVlFamhFcEY5aWpNM1dVdW92Mmo1cDREb2ZrN1FTRldLUC1PYV9udkZmUXdhQXVOZ0pNd3h2ZFV3blduNFZIWFlYX01iSVZITGlxdXBB?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "transportasi-202611151457-05bd",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "What we know about the US ground stop and what to do if your flight is affected",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-15T14:57:15Z",
+   "last": "2026-11-15T22:33:11Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flight ground stop in Canada, like the FAA's on Friday, unlikely: aviation expert",
+     "src": "CTV News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm1tcmM5bDdNaGZHSUxvc1dGNmxnZ2F5bkx0UGY1dUszd3FUNGhycUVZOExydjdoUXhCcVpMT1JPSXp1RXc3Sno4NFgxVkZhbjJJeFhYNnhfSFRxRmR6ZjQ2TE41OXhxSENTTy1qQzhObzNrb25lMlVLTHJtRG5OTnpNNEg0WXhySEt2dVM5N2tMWlJVM2c1UlZmOV9pVC1yTzNiNXY2T3NrYk1GVHlUWlhHSUZIZ2s?oc=5",
+     "t_id": "Perhentian penerbangan di Kanada, seperti yang dilakukan FAA pada hari Jumat, tidak mungkin terjadi: pakar penerbangan"
     }
    ],
-   "title_id": "Spanyol mengumumkan keadaan darurat di Kepulauan Canary karena masuknya migran: ribuan orang tiba dalam 2 hari"
+   "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
   }
  ],
  "errors": []
