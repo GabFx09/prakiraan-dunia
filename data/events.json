@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T18:48:55Z",
+ "updatedAt": "2026-11-16T18:58:40Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,20 @@
    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
-   "sources": 8,
+   "sources": 9,
    "recent6h": 4,
-   "score": 10.0,
+   "score": 11.0,
    "level": "besar",
    "first": "2026-11-15T05:02:00Z",
-   "last": "2026-11-16T14:52:10Z",
+   "last": "2026-11-16T18:53:45Z",
    "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
+    {
+     "t": "Africa CDC chief warns DRC's Ebola outbreak remains out of control after six months",
+     "src": "Latin Times",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREN5U0swcTVvb0dlVmJzZnlPaGk0UEp6WURvTjZ6T2JHZkJ2eXBVcXQtWGlhNDlGbk82X1NUVW1OMUdJMHBJMGlSR3NBSlloNHRWdmJvU0RNb0NzSm9xODJYLWJDV1cxd2h2Sm9HSVdsb2tTTHJ3WkVPaHRhM2hqS19EYTN4Vi1EWWtld2N2QXJZdw?oc=5",
+     "t_id": "Ketua CDC Afrika memperingatkan wabah Ebola di Kongo masih tidak terkendali setelah enam bulan"
+    },
     {
      "t": "Congo Ebola Outbreak Still Uncontained After Six Months",
      "src": "Nature World News",
@@ -35,12 +41,6 @@
      "src": "Baller Alert",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2NzTnpWTVAtZkZaXzR0aXVxY1RsaUU1LXpZcS11MGJpSzlxdGU5X0Z4bW5iYW5TaVhmTVpDdndsdHh2NlFDZmJpREYwRHRfWTVMTmtGNzNmTTRkNFJXb0NIaVd4TWZBWm1ldEV4WnFpczliNk5jR3ZRRkRqZkR4ZUlfX3BmZTNkT3JqblVRNA?oc=5",
      "t_id": "Wabah Ebola Menyebar ke 5 Negara, 5.500 Orang Meninggal"
-    },
-    {
-     "t": "Ebola outbreak update as of November 14",
-     "src": "Outbreak News Today",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmtoMUlMMm44cUhvSTJ2Z1BtZjFuUS10LWt4YXJVbDdJNkxwSnZMbjI2eWd1XzQ0aG9saHV0ZUk1MUVFZWtrSFJTY0x0aUZpc1I2UThhTXl0SkZXNWJoallzMzZ5eGJXbS1jWjByT3dGZkF0XzVnTmJLcjV6VkJKelVFWXI3MW1k?oc=5",
-     "t_id": "Pembaruan wabah Ebola per 14 November"
     }
    ],
    "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
@@ -243,37 +243,6 @@
    "title_id": "Mengapa pemadaman Microsoft 365 berbeda dan mengapa memerlukan waktu lama untuk memulihkan layanan email"
   },
   {
-   "id": "siber-202611152238-be98",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft 365 blackout led to chlorine gas poisoning of 15 hotel guests",
-   "src": "UNILAD Tech",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWhDdEZZNlNnai1BRDBTUmJOaV9iaU5FVUFpRkNuUnNqWkxNcW9YOUYtWWNocE8zMEJrQlBXT3VfM2hpT29qMEFpT3pRQ1d6Vk5iSnFaYTg2MzNJUWdkLTJKVThWZWxoRDVWb2h1alAtUEFuSDFKaUZKYTFGcGhYRk5xdC1FWmVnSTBnWlBhUE84RGE5WFJlVU16UEpiWjhGTWxaUkpkTFZqQQ?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-15T22:38:07Z",
-   "last": "2026-11-16T13:15:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft reveals the cause of its catastrophic Outlook outage — incident set off by a ‘cascading failure’ of servers as crash leads to chlorine gas poisoning of 15 hotel guests",
-     "src": "TechRadar",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONUJrbVpQUXFEekpaeUJNYW5uZTkwaFhyeDByMWhCTzZUbE9rR3ZUQ1hkS1JJQnRTYXhIX2xPNDVaQnZGSWtDVmhKZmU4NUpTWGNUalpfenlIamxmZEc5b3d4SVBjR2xMUko5UUxLY3RZdFNtNC1MX0pUd3pQaUNZUkZqZFNfSDk4el9FX2pBUnBIb0tLTDFySUh5MlBqcnQ4bmtCV3lwU0pGRW9ySU5hekgzOTQ2MXlxQUdRalhDdHBTVUwzNVJQOU1Ublk2ZTh5NTE1cUY2ZkpSQTBZZFYtY25nSG9TYXVGT1pQTURoSF9tUVB2WUw2d21wVkV5dkRJVEg3eDJCMlJ5Z2ZxSzd5dFdoVHRwdHFoOFJFWEZxbnRSUQ?oc=5",
-     "t_id": "Microsoft mengungkapkan penyebab pemadaman Outlook yang sangat parah — insiden yang dipicu oleh 'kegagalan beruntun' pada server karena kerusakan yang menyebabkan keracunan gas klorin pada 15 tamu hotel"
-    },
-    {
-     "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
-     "src": "Security Affairs",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5",
-     "t_id": "Pemadaman Microsoft Menyebabkan 15 Tamu Hotel Keracunan Klorin"
-    }
-   ],
-   "title_id": "Pemadaman Microsoft 365 menyebabkan keracunan gas klorin pada 15 tamu hotel"
-  },
-  {
    "id": "siber-202611152321-a1e9",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -338,13 +307,38 @@
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Russia Claims Ukraine Launched Largest Drone Assault of the War With Over 2,000 UAVs",
-     "src": "UNITED24 Media",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGItdEl6UENBRVRlZjlDODRFSlFLeHN0VGVmUEhrRERyLWlkeWFNWmlVbTdaUjIyX3RaX2pvZm1WSnB2MWduOEpnT1hXcXhFUGhXaDlUczNqc0JHZHhDY05rNkF4em92M0xuRXJzV2VUNThtUVNQdWFpdF95STlEVnltUDBBT0hFUnk2VHVyVzFfSm85ZHFONjNVNWw4OWlNaURJRkNCTTRSRXVJV1Z1c3U5cTBja3o1a0lhZmRUNVpzdEhobGo1TVhR?oc=5",
-     "t_id": "Rusia Mengklaim Ukraina Meluncurkan Serangan Drone Terbesar dalam Perang Dengan Lebih dari 2.000 UAV"
+     "t": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
+     "src": "The Moscow Times",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGFyRTd1TlRuZXFxcU53N2ltQjM4QVAyYmFHeHlVZmh2OEZpSmlWeUhOWjFQRkQwSkJhNGhKRVFzVXlPVEQtTVJqNXdpM2o3MzNIcGlqVmJqTDRscmxIMFZlWE5YS3duVzdQOXozUGx4aUU3YXNYVldHelZqMl9oby0tZHZaYkZSNlM3a2FUTFM4VE5VWmQ4UkdUcmJWUFBvTnhRNW5KdWJCNjJoM0lVbg?oc=5",
+     "t_id": "Ukraina Menghantam Jembatan Krimea di Tengah Rekor Serangan Drone Semalam"
     }
    ],
    "title_id": "Ukraina melancarkan serangan drone terbesar terhadap Rusia sejak perang dimulai"
+  },
+  {
+   "id": "siber-202611152238-be98",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Microsoft reveals the cause of its catastrophic Outlook outage — incident set off by a ‘cascading failure’ of servers as crash leads to chlorine gas poisoning of 15 hotel guests",
+   "src": "TechRadar",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONUJrbVpQUXFEekpaeUJNYW5uZTkwaFhyeDByMWhCTzZUbE9rR3ZUQ1hkS1JJQnRTYXhIX2xPNDVaQnZGSWtDVmhKZmU4NUpTWGNUalpfenlIamxmZEc5b3d4SVBjR2xMUko5UUxLY3RZdFNtNC1MX0pUd3pQaUNZUkZqZFNfSDk4el9FX2pBUnBIb0tLTDFySUh5MlBqcnQ4bmtCV3lwU0pGRW9ySU5hekgzOTQ2MXlxQUdRalhDdHBTVUwzNVJQOU1Ublk2ZTh5NTE1cUY2ZkpSQTBZZFYtY25nSG9TYXVGT1pQTURoSF9tUVB2WUw2d21wVkV5dkRJVEg3eDJCMlJ5Z2ZxSzd5dFdoVHRwdHFoOFJFWEZxbnRSUQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-15T22:38:07Z",
+   "last": "2026-11-16T11:55:28Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
+     "src": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5",
+     "t_id": "Pemadaman Microsoft Menyebabkan 15 Tamu Hotel Keracunan Klorin"
+    }
+   ],
+   "title_id": "Microsoft mengungkapkan penyebab pemadaman Outlook yang sangat parah — insiden yang dipicu oleh 'kegagalan beruntun' pada server karena kerusakan yang menyebabkan keracunan gas klorin pada 15 tamu hotel"
   },
   {
    "id": "indonesia-202611152305-a66f",
