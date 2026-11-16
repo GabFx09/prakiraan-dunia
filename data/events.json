@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T02:41:48Z",
+ "updatedAt": "2026-11-16T03:00:46Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "What we know about the US ground stop and what to do if your flight is affected",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "sources": 9,
-   "recent6h": 1,
-   "score": 9.5,
+   "sources": 10,
+   "recent6h": 0,
+   "score": 10.0,
    "level": "besar",
    "first": "2026-11-14T21:27:00Z",
    "last": "2026-11-15T20:51:02Z",
@@ -126,21 +126,26 @@
    ]
   },
   {
-   "id": "siber-202611150559-d46e",
+   "id": "siber-202611150559-496a",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
-   "src": "Security Affairs",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5",
-   "sources": 5,
-   "recent6h": 1,
-   "score": 5.5,
-   "level": "sedang",
+   "title": "Microsoft outage exposes cracks in Australia's defence armour",
+   "src": "Big News Network.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkxLTXAyZEVtbERZaGJDTXBxakRZb192cTdPTUstUEtXS1o1VzVJOWwxbmNsN2pDWEtkcm5oNUJJSjBadktvWVdnY3BHdUMyWEl0TFZJc1UtYVZQbmtlT2tMNW5ERWlhSEVoT1FpWm85bUJKa210OXJKUjlVeVlKLWFOeFhjV3NPZl9BZjZiaGszcXkwM3ZQRGtFRkJRTUhHZXNpalFUQ18?oc=5",
+   "sources": 6,
+   "recent6h": 2,
+   "score": 7.0,
+   "level": "besar",
    "first": "2026-11-15T05:59:13Z",
-   "last": "2026-11-15T22:38:07Z",
+   "last": "2026-11-16T01:00:00Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
+     "src": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5"
+    },
     {
      "t": "Microsoft Outlook Down Again? Users Report Fresh Problems a Day After Microsoft Declared Global Outage Over",
      "src": "International Business Times Australia",
@@ -158,51 +163,8 @@
      "src": "GovTech",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0tZTGM2WXJ2bER0amxyZ19hRGZjcmJFUUlwWktpM3JnNVlWaS10Q0RBSGoxLXR1Uk5UNzZUcjcyOWVwbEFVTkJmSEN3Q3ZJelRRWWZCekJZRHNxU3VDR3ZqQTg4NFQyUjFjMFIydVZULVVPNEFJcTlsUkdZNVVOSk1mREQyT3BLellyX0o2T2djR1ZSOEVMOG13TEF0RHMzRTZESXAxMXlXYl83?oc=5",
      "t_id": "5 Pelajaran Langsung dari Pemadaman Microsoft Secara Global"
-    },
-    {
-     "t": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
-     "src": "The News Minute",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGFfbFFGUEVGNUNySkFPbUstSThRRFNiZmpxN2tQSGF0YlVSUHlDN3FVMWhiYlA4Y1dxR0h6clU0UlhaSlk0clROWGRic3NzX1RwU2VTbzVkbEVYdGNQUDhFbWNVZ2RQSzg5dFV4X0ZMVGg4TkV6cF81WTV1VG5ZUDdKNEpXSUNITVozdnNST0RTdHFLclNGbU1wcDlCVEtxSHpvYXhYRXpvVjMwckNBUWRn0gG_AUFVX3lxTE9fU2Z5MklBTC04ZERzbnhJWU4wS2twaU5UYjlCQ01CUUM5YmtEdXAxU0tBUDZwMjZGaE5JcWxIYThtVTNJYmYxSUxMZ0VnOU5aMVd6RG5fUVp6Rnh6Z2MwWW9MS0tYSkJ6Tl8xZEt0dkp1MjZnZFoxcXlwUkZjXzkzTjNXaWxPM053Q0JYNUdiM1dPaEh5bG1jRnJYVkQ4eU1RcjM5SW13VXhLMTl3QzEyY2NLX2s4NUQxbkNWd0Nr?oc=5",
-     "t_id": "Microsoft telah mengalami pemadaman global. Seorang pakar teknologi menjelaskan apa yang salah"
     }
    ]
-  },
-  {
-   "id": "kesehatan-202611150642-094c",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
-   "sources": 4,
-   "recent6h": 2,
-   "score": 5.0,
-   "level": "sedang",
-   "first": "2026-11-15T05:02:00Z",
-   "last": "2026-11-15T21:07:00Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Ebola outbreak remains out of control in Congo 6 months into response",
-     "src": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzJqSWxEdFVlLW5aemZVZGlfSklmNUJKWERlOHY2dm13V3N1Qkk4aGpJbXN3NGlrQnE2NkhWNXFDczhZd01KaEQwNVBYU3hBYVJ1Z2I4OGVub2hSVmpMQkN1TkpmNW93MXZFX0V6V2ZNMjJIZlV2MmFnMlpZOFJObERJbGRrLXdGVURhSUlPT21oc2VsUnhGZFNBQ3JiWG9XVGxrZHpIZDg2UlIw0gGsAUFVX3lxTE5XMmpJbER0VWUtblp6ZlVkaV9KSWY1QkpYRGU4djZ2bXdXc3VCSThoakltc3c0aWtCcTY2SFY1cUNzOFl3TUpoRDA1UFhTeEFhUnVnYjg4ZW5vaFJWakxCQ3VOSmY1b3cxdkVfRXpXZk0yMkhmVXYyYWcyWlk4Uk5sRElsZGstd0ZVRGFJSU9PbWhzZWxSeEZkU0FDcmJYb1dUbGtkekhkODZSUjA?oc=5",
-     "t_id": "Wabah Ebola masih tidak terkendali di Kongo setelah 6 bulan respons"
-    },
-    {
-     "t": "WHO warns Ebola outbreak is far from over as DR Congo records up to 500 new cases every week",
-     "src": "The Eastleigh Voice",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDgyWnJtMDlBdVpqTnVhQktRRTMtVnBDNDNKTUZVb3pON2FMTlg4UC01aFV2TkJXWmZucjBoanF3c2tadElwY3RMcWVzX3V6MTNDRHBnNi1VMGJqRkljNFpqRVA1VzZoeGRwYTBJemozb0xZMmpxc0IycnRJdjUwRzVBRHdtQXMyWkdDWjd0eEVjbmlUUmtMeFpLSzZVSXhYeEFCR1dHczFKdmFzbGlwaWU2RW55N0FPYnlGNEFRT3l2Vk1PRTVUSDE1TVlWUEtW?oc=5",
-     "t_id": "WHO memperingatkan wabah Ebola masih jauh dari selesai karena Kongo mencatat 500 kasus baru setiap minggunya"
-    },
-    {
-     "t": "Why Ebola outbreak in Congo is still out of control",
-     "src": "NewsBytes",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0lYeUNCT2xIYjNxeGRGZ1Q2TGRVOWxJTGxNVHNHRXdJOHJza2VtTzRQenBzN1NIX0dOdFdVQU0tczZYM09oZ1ZaRVhvbFVLTF9ndEZHOHZDbE5CajFkQndGd2trUktPNldBcTM5LXIwTWZOMFR3RWNDaWRQTGJKaFNKVWNjX2NnMkRtczM2OThlQS1POFpHUDNjaHd5V0hhekNKQzVtWmNUbWdGb1FNeUQ4UDJRTW8x?oc=5",
-     "t_id": "Mengapa wabah Ebola di Kongo masih belum terkendali"
-    }
-   ],
-   "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
   },
   {
    "id": "perang-202611150334-baa7",
@@ -248,27 +210,41 @@
    "title_id": "Video | Pemberontak Houthi Yaman Membebaskan 600 Tahanan Perang yang Ditangkap dalam Eskalasi Pertempuran Terbaru"
   },
   {
-   "id": "siber-202611151002-f76b",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "kesehatan-202611150642-094c",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdlRxel9hZWtiTmd6OWV3OHRCZjhpUS1Obm1adXlGcWVnaDlRMi1mcmpuT2xlNUNxbXhJVnMxdXdFMmxnLUZIdFNkZk5uOU5NamEtSGxsMUktaGFlWXZ1Mk9BdmZveDZHcnk3LWVwdDNHeF9XcnUwZGFrelJCTlIwYjFYU1c5TGdTbmJmQ0RVXzNHdWM?oc=5",
-   "sources": 2,
+   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
+   "sources": 4,
    "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-15T10:02:06Z",
-   "last": "2026-11-15T21:15:45Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-15T05:02:00Z",
+   "last": "2026-11-15T21:07:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Outlook Outage, FAA Stop: 4+ Hours Down, 0 Link Shown",
-     "src": "shattered.io",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5"
+     "t": "Ebola outbreak remains out of control in Congo 6 months into response",
+     "src": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzJqSWxEdFVlLW5aemZVZGlfSklmNUJKWERlOHY2dm13V3N1Qkk4aGpJbXN3NGlrQnE2NkhWNXFDczhZd01KaEQwNVBYU3hBYVJ1Z2I4OGVub2hSVmpMQkN1TkpmNW93MXZFX0V6V2ZNMjJIZlV2MmFnMlpZOFJObERJbGRrLXdGVURhSUlPT21oc2VsUnhGZFNBQ3JiWG9XVGxrZHpIZDg2UlIw0gGsAUFVX3lxTE5XMmpJbER0VWUtblp6ZlVkaV9KSWY1QkpYRGU4djZ2bXdXc3VCSThoakltc3c0aWtCcTY2SFY1cUNzOFl3TUpoRDA1UFhTeEFhUnVnYjg4ZW5vaFJWakxCQ3VOSmY1b3cxdkVfRXpXZk0yMkhmVXYyYWcyWlk4Uk5sRElsZGstd0ZVRGFJSU9PbWhzZWxSeEZkU0FDcmJYb1dUbGtkekhkODZSUjA?oc=5",
+     "t_id": "Wabah Ebola masih tidak terkendali di Kongo setelah 6 bulan respons"
+    },
+    {
+     "t": "WHO warns Ebola outbreak is far from over as DR Congo records up to 500 new cases every week",
+     "src": "The Eastleigh Voice",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDgyWnJtMDlBdVpqTnVhQktRRTMtVnBDNDNKTUZVb3pON2FMTlg4UC01aFV2TkJXWmZucjBoanF3c2tadElwY3RMcWVzX3V6MTNDRHBnNi1VMGJqRkljNFpqRVA1VzZoeGRwYTBJemozb0xZMmpxc0IycnRJdjUwRzVBRHdtQXMyWkdDWjd0eEVjbmlUUmtMeFpLSzZVSXhYeEFCR1dHczFKdmFzbGlwaWU2RW55N0FPYnlGNEFRT3l2Vk1PRTVUSDE1TVlWUEtW?oc=5",
+     "t_id": "WHO memperingatkan wabah Ebola masih jauh dari selesai karena Kongo mencatat 500 kasus baru setiap minggunya"
+    },
+    {
+     "t": "Why Ebola outbreak in Congo is still out of control",
+     "src": "NewsBytes",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0lYeUNCT2xIYjNxeGRGZ1Q2TGRVOWxJTGxNVHNHRXdJOHJza2VtTzRQenBzN1NIX0dOdFdVQU0tczZYM09oZ1ZaRVhvbFVLTF9ndEZHOHZDbE5CajFkQndGd2trUktPNldBcTM5LXIwTWZOMFR3RWNDaWRQTGJKaFNKVWNjX2NnMkRtczM2OThlQS1POFpHUDNjaHd5V0hhekNKQzVtWmNUbWdGb1FNeUQ4UDJRTW8x?oc=5",
+     "t_id": "Mengapa wabah Ebola di Kongo masih belum terkendali"
     }
-   ]
+   ],
+   "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
   },
   {
    "id": "indonesia-202611150300-acea",
@@ -290,11 +266,6 @@
      "t": "Potret Sepekan, Gibran Mundur Hingga Demo Besar-Besaran di Spanyol",
      "src": "Head Topics",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzlYcGpiX2hxdklNaGt6QXBCQU9mSjNoUFlSLS1EQm02TlB4OHJCTkQ0NHg3S0hMdUN6NTZNcHJQRnpLekpjakNabTdwOTkzZGVrcl9tTThJVVBObUxSWWhGZ0p5WXpFTFVTSFlkTTBRTHhrV1M3ZnJ2Rzh3X01pLTQ5WkZmZzUyNF9ySGFvUUhhUFhVT0ZNMHphMDhadw?oc=5"
-    },
-    {
-     "t": "Potret Warga Ngamuk, Demo Besar-Besaran Tolak Proyek Data Center AI",
-     "src": "CNBC Indonesia",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlEwSkhWZWxCZGdYcndkdUVDTENvSk96cERQQTl3T3JTZThlZjQza2tqVkxKczlyM3pWYy1nb1ppcU04Vm1zQkVoa3VlaHhXOFAyVTFIb2VzbHp0TUk1em1ja2FtZng4TFRVdndEWVlmRUxzZC16N2ptTkkxeEZGcEdpYUROZ1hQSzhPXzZkaF9sNEY1QU03NkhSTVAtdnR1TXk4U0c5aWticzhNLUFMYlFTbGc2eElIX1BtTUlKVElsc0o1?oc=5"
     }
    ]
   }
