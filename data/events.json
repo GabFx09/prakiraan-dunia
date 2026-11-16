@@ -1,37 +1,40 @@
 {
- "updatedAt": "2026-11-16T05:37:44Z",
+ "updatedAt": "2026-11-16T05:52:14Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
-   "id": "siber-202611150559-3f00",
+   "id": "siber-202611150559-496a",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Microsoft outage shows that big tech can’t be treated as too big to fail",
-   "src": "The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXZDUzYyMy05RHpGay1vQ2xxU3phZ0pZeUJlbktWTjZySVN5Mzd3VjNGdHhHT1VRemVlOXZIRjV0YlpGczlxdElqeHNTZ2F0STZSTlpsbkR0SG5qQmVMQ2Z3QUNJOFF6NWZ5ZTFva1BBczV6LWJ1RWdqVW44SzdZcVc0U1lfQ0RqNXYzN0xrclEtZHlueEdPVThjQ25zRkxYNUlCLXRKN3FUQQ?oc=5",
+   "title": "Microsoft outage exposes cracks in Australia's defence armour",
+   "src": "Big News Network.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkxLTXAyZEVtbERZaGJDTXBxakRZb192cTdPTUstUEtXS1o1VzVJOWwxbmNsN2pDWEtkcm5oNUJJSjBadktvWVdnY3BHdUMyWEl0TFZJc1UtYVZQbmtlT2tMNW5ERWlhSEVoT1FpWm85bUJKa210OXJKUjlVeVlKLWFOeFhjV3NPZl9BZjZiaGszcXkwM3ZQRGtFRkJRTUhHZXNpalFUQ18?oc=5",
    "sources": 7,
-   "recent6h": 2,
-   "score": 8.0,
+   "recent6h": 1,
+   "score": 7.5,
    "level": "besar",
    "first": "2026-11-15T05:59:13Z",
-   "last": "2026-11-16T01:27:00Z",
+   "last": "2026-11-16T01:00:00Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Microsoft outage exposes cracks in Australia's defence armour",
-     "src": "Big News Network.com",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkxLTXAyZEVtbERZaGJDTXBxakRZb192cTdPTUstUEtXS1o1VzVJOWwxbmNsN2pDWEtkcm5oNUJJSjBadktvWVdnY3BHdUMyWEl0TFZJc1UtYVZQbmtlT2tMNW5ERWlhSEVoT1FpWm85bUJKa210OXJKUjlVeVlKLWFOeFhjV3NPZl9BZjZiaGszcXkwM3ZQRGtFRkJRTUhHZXNpalFUQ18?oc=5"
-    },
-    {
      "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
      "src": "Security Affairs",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5",
+     "t_id": "Pemadaman Microsoft Menyebabkan 15 Tamu Hotel Keracunan Klorin"
     },
     {
      "t": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
      "src": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG1uUGNQYlAxRzRfVTBBblV4UzBEd1hFYVdZOUg1N0tRUm1JUXY3d0VLZzJGb0dXdE5kZFRlc2FDbk15NktNNEQ1X0hiNURrdkxpVTctSmRRYThWVGtEVGRtUUFXRm1CbEZvMXpkd20zeTdibGtRQ2tSd0JuYnJXQTRZc2tzOEVlQm5PUVpCZy1SMU5yaWRibXlrSzdDSFBZMjhqd3RNbWpJMEdwLXhjTE1xUktEazFXVlJN?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG1uUGNQYlAxRzRfVTBBblV4UzBEd1hFYVdZOUg1N0tRUm1JUXY3d0VLZzJGb0dXdE5kZFRlc2FDbk15NktNNEQ1X0hiNURrdkxpVTctSmRRYThWVGtEVGRtUUFXRm1CbEZvMXpkd20zeTdibGtRQ2tSd0JuYnJXQTRZc2tzOEVlQm5PUVpCZy1SMU5yaWRibXlrSzdDSFBZMjhqd3RNbWpJMEdwLXhjTE1xUktEazFXVlJN?oc=5",
+     "t_id": "Bisakah semuanya rusak? Jet yang dilarang terbang, pemadaman Microsoft, kekacauan AI membuat beberapa orang bertanya-tanya"
+    },
+    {
+     "t": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests — email warning system fails, 40 first responders deployed for triage, four taken to hospital",
+     "src": "Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPNUtBYWlURV9kUWtiR2FoOVdHZGtDRXIxQTBDejk2cDhLQVZxTFpGN21uS1ZuZXRNTW41QUc2Y1o3YUphV2NkbWJwV3RRMUZMdlhPMGlMQkRjeDFqTlphRnhwalpEMFdDYV9QMXV6UHU2REJleEJHcFdOVGZ2Y0lUYlZ2d01seHF3UFhaTndVUzRxTUVCQ1AtdWZ5OWY0bnVsNlJUQU1GZ0dfSVVQNjgyZ2lfXzNxMEVkYXBlQ0hQWjJtUnRjOG5mUDNzYUJTbWtuVE5jTjdqdzRrVnliVnBJQnlkRUxDaU1YLTJJdkkzNm41QzB5RVlDcC1jMWpHZHpLd0VKR19RdlV0OFp3am4xRU9rdU95bUUyTGdkY1cwTWFKN0gzR1lZVXFoN2JudE9UUlJzeERpQQ?oc=5",
+     "t_id": "Pemadaman Microsoft 365 menyebabkan keracunan gas klorin pada 15 tamu hotel — sistem peringatan email gagal, 40 petugas pertolongan pertama dikerahkan untuk triase, empat dibawa ke rumah sakit"
     },
     {
      "t": "Microsoft Outlook Down Again? Users Report Fresh Problems a Day After Microsoft Declared Global Outage Over",
@@ -39,7 +42,8 @@
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUptMHItcUlxZ0JDdWZMS193alFqajk0bXYtc1o3Sm9VUmtHXy16REVua1JMd3pRa0ZXUkxocmZnZTVneHJsQk9sTC1LNmI0Q1htNnhYWU1VVFZNTzdacFJiWE0tcGNubGtoRjJWM25SRzFtQ3p3YnM2RWF6VFc3NGdqbkpPZXBwRGFFLVVJcno?oc=5",
      "t_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
     }
-   ]
+   ],
+   "title_id": "Penghentian Microsoft memperlihatkan adanya retakan pada pertahanan Australia"
   },
   {
    "id": "perang-202611150532-3b31",
@@ -60,7 +64,8 @@
     {
      "t": "Dubai airport resumes flights after Iran drone strike; missile kills one in Abu Dhabi",
      "src": "DD News",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3BIRk81TTBBSkZhUDdFM18wWXpJTlBaYzBEUkw4NGlRX1lHekpVSVlXSTIzcGw3UlNkR3cxeFdMNXpxa0NZMm1tc2JaOEtpVDhwY1hOY1V3WG14UENMRm9WdjliZWVSWVRmRENabGl1VmRUUGlqTGJUX1BocVAwZmxoYmFjRWFVQUdHcy0yLUFzaU85QTltZzBxZk5RUkRUQzg4SXlid2pjUWI1Tm5N?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3BIRk81TTBBSkZhUDdFM18wWXpJTlBaYzBEUkw4NGlRX1lHekpVSVlXSTIzcGw3UlNkR3cxeFdMNXpxa0NZMm1tc2JaOEtpVDhwY1hOY1V3WG14UENMRm9WdjliZWVSWVRmRENabGl1VmRUUGlqTGJUX1BocVAwZmxoYmFjRWFVQUdHcy0yLUFzaU85QTltZzBxZk5RUkRUQzg4SXlid2pjUWI1Tm5N?oc=5",
+     "t_id": "Bandara Dubai melanjutkan penerbangan setelah serangan drone Iran; rudal membunuh satu orang di Abu Dhabi"
     },
     {
      "t": "Iran launches missile and drone strike on US military base in Bahrain amid rising tensions in Middle East",
@@ -84,48 +89,6 @@
    "title_id": "Iran menargetkan pangkalan militer AS di Bahrain dengan serangan pesawat tak berawak"
   },
   {
-   "id": "transportasi-202611142127-05bd",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "What we know about the US ground stop and what to do if your flight is affected",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "sources": 6,
-   "recent6h": 0,
-   "score": 6.0,
-   "level": "besar",
-   "first": "2026-11-14T21:27:00Z",
-   "last": "2026-11-15T20:51:02Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEkxWS1FQmNqZHQ0UjluR3FaUVFMS0VxSlQzQURPUEhnUFZnTlhIMlREbXc3TllNNGVFa3dMdWJNUk1xbFR5UnhGdW5iMVZncms4T1dqQ29UR0ZRYXh3dFVORkp1S3IzMUV1LXNtb0FoSGxUT1FkajdxU05jbF9DNDExc2MwYVZTa2RoSW9SaDlBcGJkMXpRankzbkNtcVF0WjgzNtIBqgFBVV95cUxPa0RnWlk5cllod2l3VWxWZEI2Zzk0OU1TcTRYdHBXbU5ObVkzRDhvcjFRLWo1T3IzOU5ZYTZ5bDlEQ0hjZU5rOV9SZTVrWW9Fa0NlclduT2FpVHVWd0h3NzZWU05xUUF1SUM0UzdNQ1Vic2ZOdWdZQ2lpaTlfSEV1NDhZWFZWcXlYc2pTcnRBZTBJdGdxdWhTNjRpbHJnS1pMLXZyQXM4N3AxQQ?oc=5"
-    },
-    {
-     "t": "What the nationwide ground stop means for holiday travel",
-     "src": "FOX 5 Atlanta",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iY1RvbmhNRFFxQS1nb25PMUZlNS04dFdQLUY3RmlCQW1tc0duM3FvUmJxazdpaFBfazdScWhYWGJJczREVVVqbERWV3gzTVhGVmhmMS12Sm9yZWxrRDZPQ2VHYUbSAWpBVV95cUxQWHVPU2N1ZXNkWGpzdFJZSk9renlKa3RXdGhOblJiQ2ZfUXNDVXh3WDczX1YtVWhPUnYwTzUwa0dYYXVaY2JMWUpRWldfVnpDcnY1OEhiSjJoUmR2NHVPSXg2dVhPR0xKODlB?oc=5",
-     "t_id": "Apa arti pemberhentian nasional bagi perjalanan liburan"
-    },
-    {
-     "t": "FAA Ground Stop: Latest Airline Advice As More Than 1,000 Flights Canceled",
-     "src": "Newsweek",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmlpamoxSXV1ZFJlUUJNNFVTazVTQkQ1WmFmTENqUGE0LUxSMm5HZkEwOWJzWG1DWXFxaWhoaFJvMWYwQk5KX0NLUzh3VlBNU3dOQkZQeW5RZWVwNlhyYTlyRDBGZ3RhZUpVM3pDMW5aYnhwNExDeEs4WWRPUGlDVF9mSlF6Q19mOEltS1d4V2x4djI1b0ZV?oc=5",
-     "t_id": "FAA Ground Stop: Saran Maskapai Terbaru Karena Lebih dari 1.000 Penerbangan Dibatalkan"
-    },
-    {
-     "t": "FAA ground stop updates: Here's what we know",
-     "src": "Mashable",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LM1dNcUdydlQ4U0hDaXRWRFRhaEc3QkNRS2JfMHdZNm90RUIyTHNaQTJFbklkOC1rMUV6OVJHRU03c0J3b1M5Y0tUZWstd20xb0lXaEZLcHlkSlNpVl9FVTdWMWIxeXJrRUYtUUpaMA?oc=5",
-     "t_id": "Pembaruan ground stop FAA: Inilah yang kami ketahui"
-    }
-   ],
-   "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
-  },
-  {
    "id": "politik-202611160500-0aa3",
    "cat": "politik",
    "label": "Guncangan politik",
@@ -144,14 +107,17 @@
     {
      "t": "Spain to hold snap election on November 29 — The Guardian",
      "src": "UA.NEWS",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmZZMjdVanFvaDFJZjY2TnQ0Tm9waUdVMmtPaDlaRjNZcVg5YTJBNHFZMW93OGU0Nl9zRWpBZGlwLVY2STlDNzNVLUp3MU1hVnRUazY3NFU5R2wxOFFKT19xcE92aTlwcGlnN1Y4UUlONzNoWlVXc2NkQnJ0OHprQkpGY2lXT3NfWDdIWFI4WXNrN1pmalFiUQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmZZMjdVanFvaDFJZjY2TnQ0Tm9waUdVMmtPaDlaRjNZcVg5YTJBNHFZMW93OGU0Nl9zRWpBZGlwLVY2STlDNzNVLUp3MU1hVnRUazY3NFU5R2wxOFFKT19xcE92aTlwcGlnN1Y4UUlONzNoWlVXc2NkQnJ0OHprQkpGY2lXT3NfWDdIWFI4WXNrN1pmalFiUQ?oc=5",
+     "t_id": "Spanyol akan mengadakan pemilihan cepat pada 29 November — The Guardian"
     },
     {
      "t": "Will Spain’s snap election in November bring a far-right party into government?",
      "src": "Mezha.net",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM08welBsci03VEJzampzM0Y5d1ZmMGU4a3lIeGFYYkNNZjRhZzNIUmtubS1FMDNEMHUyV0c4V0FiLTNsNWxoZnZCZmtWRVpWcVhEM3VfMV9Mb1VLVUVPOVFvcHV1TlJBbnhObzZuc3d6M3VmSGxlMXYwSFVHd3Vxdjhn?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM08welBsci03VEJzampzM0Y5d1ZmMGU4a3lIeGFYYkNNZjRhZzNIUmtubS1FMDNEMHUyV0c4V0FiLTNsNWxoZnZCZmtWRVpWcVhEM3VfMV9Mb1VLVUVPOVFvcHV1TlJBbnhObzZuc3d6M3VmSGxlMXYwSFVHd3Vxdjhn?oc=5",
+     "t_id": "Akankah pemilu cepat di Spanyol pada bulan November akan membawa partai sayap kanan ke dalam pemerintahan?"
     }
-   ]
+   ],
+   "title_id": "Akankah pemilu cepat di Spanyol pada bulan November akan membawa partai sayap kanan ke dalam pemerintahan?"
   },
   {
    "id": "kesehatan-202611150642-094c",
@@ -191,41 +157,41 @@
    "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
   },
   {
-   "id": "perang-202611150334-baa7",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "transportasi-202611142127-05bd",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Video | Yemen's Houthi Rebels Release 600 War Detainees Captured In Latest Escalation Of Fighting",
-   "src": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2FJbFZ3X0VLaFNsYVFoQ3pvb1hYMmd3aG5UalJWaEQ2QWhxWGJqeTRlOTBuREdSX29STTRwUjF0U0h1cmlLSDEzYUZpMTFmVWZYY0NwZXhUaW1rSmlnY1JiWXkzWnZVX003dk5hQ0R1ZTJIOXlLX0N5WVRIODNXUlE2YTdTeE5kNHo0WjZYOThLd3F6TFlnWkRrRkoydk43NWcyNXJCeVoyS1NPcWxuYUZCYWZYN1dhOTZaR3RJSXBSdw?oc=5",
+   "title": "What we know about the US ground stop and what to do if your flight is affected",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
    "sources": 4,
    "recent6h": 0,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-15T03:34:53Z",
-   "last": "2026-11-15T18:09:18Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-14T21:27:00Z",
+   "last": "2026-11-15T20:51:02Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
-     "src": "Kurdistan24",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xZnljYVI1Tl9RWXZQektsekxYY1ZTekRSc0Q4a1B2bXlyb3NzSzVwV3J0S25jV3k3cGlwUzFXOWdEc2NjVlpISU5JZ3RCanFPcXREbnVR?oc=5",
-     "t_id": "Serangan Rudal Houthi Tewaskan Lima Orang di Dekat Aden Yaman Saat Pertempuran Meningkat"
+     "t": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEkxWS1FQmNqZHQ0UjluR3FaUVFMS0VxSlQzQURPUEhnUFZnTlhIMlREbXc3TllNNGVFa3dMdWJNUk1xbFR5UnhGdW5iMVZncms4T1dqQ29UR0ZRYXh3dFVORkp1S3IzMUV1LXNtb0FoSGxUT1FkajdxU05jbF9DNDExc2MwYVZTa2RoSW9SaDlBcGJkMXpRankzbkNtcVF0WjgzNtIBqgFBVV95cUxPa0RnWlk5cllod2l3VWxWZEI2Zzk0OU1TcTRYdHBXbU5ObVkzRDhvcjFRLWo1T3IzOU5ZYTZ5bDlEQ0hjZU5rOV9SZTVrWW9Fa0NlclduT2FpVHVWd0h3NzZWU05xUUF1SUM0UzdNQ1Vic2ZOdWdZQ2lpaTlfSEV1NDhZWFZWcXlYc2pTcnRBZTBJdGdxdWhTNjRpbHJnS1pMLXZyQXM4N3AxQQ?oc=5",
+     "t_id": "Garis waktu pemberhentian FAA: Kekacauan akhir pekan menghentikan pesawat dan menunda pertandingan"
     },
     {
-     "t": "5 Civilians Killed in Houthi Missile Attack Near Yemen's Aden",
-     "src": "Sada Elbalad English",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnViRE5KVThCeDBsNjBJcjl1dTU2Vkl4X3g3bUtWWWdIcy1BMXRGZjJNZmxaV1lTTHNaNklUWVRoTFpFdkF0Q2lvYVppdmZuT0VEMzg5OXBqVEJPZlplTHFqVXdzWGcwVGVROWRQUDVtcjdUUWM5NE1xSi1KLVFoUXJhWQ?oc=5",
-     "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
+     "t": "FAA Ground Stop: Latest Airline Advice As More Than 1,000 Flights Canceled",
+     "src": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmlpamoxSXV1ZFJlUUJNNFVTazVTQkQ1WmFmTENqUGE0LUxSMm5HZkEwOWJzWG1DWXFxaWhoaFJvMWYwQk5KX0NLUzh3VlBNU3dOQkZQeW5RZWVwNlhyYTlyRDBGZ3RhZUpVM3pDMW5aYnhwNExDeEs4WWRPUGlDVF9mSlF6Q19mOEltS1d4V2x4djI1b0ZV?oc=5",
+     "t_id": "FAA Ground Stop: Saran Maskapai Terbaru Karena Lebih dari 1.000 Penerbangan Dibatalkan"
     },
     {
-     "t": "Yemen : Houthi Ballistic Missile Attack targets aden airport",
-     "src": "Yemen Online",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81cVZxZXFwcWRHd2xkQkM0WVJ5OW50LWc4N2RsSmt0YzZ0SWdDMHlsWE9uZ0VCMUZwQmtiN2QzQWlrWWxTLXZHcFpsTi1WbDlHWkxRYXhFVF9Ydk9DRG5BUHNHMlpsYU0?oc=5",
-     "t_id": "Yaman : Serangan Rudal Balistik Houthi menargetkan bandara aden"
+     "t": "FAA ground stop updates: Here's what we know",
+     "src": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LM1dNcUdydlQ4U0hDaXRWRFRhaEc3QkNRS2JfMHdZNm90RUIyTHNaQTJFbklkOC1rMUV6OVJHRU03c0J3b1M5Y0tUZWstd20xb0lXaEZLcHlkSlNpVl9FVTdWMWIxeXJrRUYtUUpaMA?oc=5",
+     "t_id": "Pembaruan ground stop FAA: Inilah yang kami ketahui"
     }
    ],
-   "title_id": "Video | Pemberontak Houthi Yaman Membebaskan 600 Tahanan Perang yang Ditangkap dalam Eskalasi Pertempuran Terbaru"
+   "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
   },
   {
    "id": "indonesia-202611150321-fcbf",
@@ -252,13 +218,39 @@
      "t": "Aksi Demo Besar-besaran Kembali Terjadi di Prancis, 106.000 Orang Turun ke Jalan",
      "src": "Koran Jakarta",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnBUVnZxOW5FTFN3OWFRSV9LRVNKYlF3V1d6LWlYTElvbGRSMERZU21XNmZnRVFMOHFEU2szT0ppSDRPME5UMHhZSWc2SVQtOVZwSWZOUzFxNDdqVm9RNUpxWE0xOHRJeHZmeGFjMEhpSlN3Q1U1YjFoTnctb3Jtb2RYb3JuR012UXdad1M5VjRXR0ZtZWh2X0tzS042cllvemhDRk5WZ3ZLbGF3Y21LbFlDVWJRd9IBuwFBVV95cUxPeUFyVVR3T052aDhkSkRhUmtLaXdVUHdFc3poZUZiTXBuM1k4OE9NWjZnSVVWcjZrWUd4alZQclpXdk5lUXV4elRfY2IzZkNkNExyQXBfRXFGMG9INHI0YmtwSnl4bEhyU3lhVExpNmFtdXlEdTJXSmpLSDBRampqMXR5MWNWeDdWa3YtMWM3NjF1LUh3d2pNTFU5RlBMZ3VuSHM3LTR4Tm9qQTdkVTVXRlREME9jandaaGRR?oc=5"
-    },
-    {
-     "t": "Gelombang Demo Rompi Kuning di Prancis Memanas: 106 Ribu Orang Turun ke Jalan",
-     "src": "Head Topics",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT2ZFOU9EQmNuY3loMEdrNGd5Nl9OUlVvb1JXVWZ3ZWRHTVFFTzA5cTFGbEloM0JMZzllUmRJRm9BSEcyaFh5OGVRNUZIcU9CaW43X1NVclYxT2tfNEdNdW1YRndJMTVRelZ2MXI3TjlyYWZRWFhQbklOdUNrOHBON0h2NkhmTVljR0ZjVDRkcFRHLXpiYlU4SG15bw?oc=5"
     }
    ]
+  },
+  {
+   "id": "perang-202611150334-baa7",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
+   "src": "Kurdistan24",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xZnljYVI1Tl9RWXZQektsekxYY1ZTekRSc0Q4a1B2bXlyb3NzSzVwV3J0S25jV3k3cGlwUzFXOWdEc2NjVlpISU5JZ3RCanFPcXREbnVR?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-15T03:34:53Z",
+   "last": "2026-11-15T15:20:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "5 Civilians Killed in Houthi Missile Attack Near Yemen's Aden",
+     "src": "Sada Elbalad English",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnViRE5KVThCeDBsNjBJcjl1dTU2Vkl4X3g3bUtWWWdIcy1BMXRGZjJNZmxaV1lTTHNaNklUWVRoTFpFdkF0Q2lvYVppdmZuT0VEMzg5OXBqVEJPZlplTHFqVXdzWGcwVGVROWRQUDVtcjdUUWM5NE1xSi1KLVFoUXJhWQ?oc=5",
+     "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
+    },
+    {
+     "t": "Yemen : Houthi Ballistic Missile Attack targets aden airport",
+     "src": "Yemen Online",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81cVZxZXFwcWRHd2xkQkM0WVJ5OW50LWc4N2RsSmt0YzZ0SWdDMHlsWE9uZ0VCMUZwQmtiN2QzQWlrWWxTLXZHcFpsTi1WbDlHWkxRYXhFVF9Ydk9DRG5BUHNHMlpsYU0?oc=5",
+     "t_id": "Yaman : Serangan Rudal Balistik Houthi menargetkan bandara aden"
+    }
+   ],
+   "title_id": "Serangan Rudal Houthi Tewaskan Lima Orang di Dekat Aden Yaman Saat Pertempuran Meningkat"
   },
   {
    "id": "indonesia-202611150906-0f77",
@@ -315,7 +307,33 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0N3aEdqSEQ0ZG9hd0NCYXJlQmdBeWNRVWVOQnlVM3I4RmU1RnRyck50SDdWbzVxM0tCY2pBQVpVN1ZqekpodFNkNE1aSmlIaG5jWHV6a1E2V1ZYVFR0bUY3SUgxVG5tS3Z2QlVTWkZXaDBvTW1Zc3pYellDUjJuckhaZ09IdjVh?oc=5",
      "t_id": "Pembatalan Pemadaman FAA Mencapai 15.000 karena JetBlue Memotong Lebih dari Seperempat Penerbangan Hari Minggunya"
     }
-   ]
+   ],
+   "title_id": "Pembatalan Penerbangan di AS menduduki peringkat 17.000 teratas dalam Gangguan Terburuk Terkait Teknologi"
+  },
+  {
+   "id": "siber-202611152115-b7b9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "FAA Lifts Nationwide Ground Stop After Telecommunications Outage, Sean Duffy Says “It Is Safe To Fly”",
+   "src": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHBvTWIxQVZ1ZlVvYmRtYnhCVXNKNW9BYkYwWkJFLVJQbGR1MThpbWRFNmF3NFJWRW5qZWNPdVgweV9mQWwyXzE1NGUzSDNHVEM3Znkyb2xUQXg5YmVVcmFzTHZIRGFKUVZ4WktQeHJLcWtHWUpzNjBKbm44Y2hsdlZjZkxCeUFCbTNfRFNLN3dGR3JscUZ4OWFfLUVfa1NfNGoyRHlrWFJVZVRVY1F4Um5Tano1TTJkMzlqOW5tWkkyV1ZjVXNPXy01SkVraUdyZ2hOZnhaUWhGajVvbmhzQlM4MkQ4UTFCUEE?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-15T21:15:45Z",
+   "last": "2026-11-16T01:26:10Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Outlook Outage, FAA Stop: 4+ Hours Down, 0 Link Shown",
+     "src": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5",
+     "t_id": "Pemadaman Outlook, Penghentian FAA: 4+ Jam Tidak Aktif, 0 Tautan Ditampilkan"
+    }
+   ],
+   "title_id": "FAA Mencabut Ground Stop Secara Nasional Setelah Gangguan Telekomunikasi, Sean Duffy Mengatakan “Aman Untuk Terbang”"
   },
   {
    "id": "kerusuhan-202611151423-289e",
@@ -336,9 +354,11 @@
     {
      "t": "VIDEO: State of Emergency Declared Due to Devastating Storm in Indonesia",
      "src": "Aurora News",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2ZtWlpkZmRmOHlPN2ZyM2tlZy0xMWs2T1BMVDQwNHNla1Jnbzd6WWtwRHhtMlppTkdpRUhwUmE3S0U5Z3JjYk01VVBreFlPNGhMU1pvbmNLaHFPWkJFTFpvcV8xeHRKeExxbGpJNkNPMUd0NV9NNWR0dmp5TS14cV9PV25FUmFGNm9lZjNJTjdacUJVcU5jSUt5N25SdGNEOW5MX0FLekRHSWVTNi1UZ3p3?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2ZtWlpkZmRmOHlPN2ZyM2tlZy0xMWs2T1BMVDQwNHNla1Jnbzd6WWtwRHhtMlppTkdpRUhwUmE3S0U5Z3JjYk01VVBreFlPNGhMU1pvbmNLaHFPWkJFTFpvcV8xeHRKeExxbGpJNkNPMUd0NV9NNWR0dmp5TS14cV9PV25FUmFGNm9lZjNJTjdacUJVcU5jSUt5N25SdGNEOW5MX0FLekRHSWVTNi1UZ3p3?oc=5",
+     "t_id": "VIDEO: Keadaan Darurat Dinyatakan Akibat Badai yang Menghancurkan Indonesia"
     }
-   ]
+   ],
+   "title_id": "Spanyol mengumumkan keadaan darurat di Kepulauan Canary karena masuknya migran: ribuan orang tiba dalam 2 hari"
   },
   {
    "id": "indonesia-202611150300-acea",
