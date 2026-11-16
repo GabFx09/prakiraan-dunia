@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T16:51:40Z",
+ "updatedAt": "2026-11-16T17:21:00Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
-   "sources": 10,
+   "sources": 9,
    "recent6h": 6,
-   "score": 13.0,
+   "score": 12.0,
    "level": "besar",
    "first": "2026-11-15T05:02:00Z",
    "last": "2026-11-16T14:52:10Z",
@@ -74,16 +74,16 @@
      "t_id": "Akhir Pekan Kekacauan: Mengapa FAA Melakukan Penerbangan Darat ke Seluruh Negeri?"
     },
     {
+     "t": "Flight ground stop in Canada, like the FAA's on Friday, unlikely: aviation expert",
+     "src": "CTV News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm1tcmM5bDdNaGZHSUxvc1dGNmxnZ2F5bkx0UGY1dUszd3FUNGhycUVZOExydjdoUXhCcVpMT1JPSXp1RXc3Sno4NFgxVkZhbjJJeFhYNnhfSFRxRmR6ZjQ2TE41OXhxSENTTy1qQzhObzNrb25lMlVLTHJtRG5OTnpNNEg0WXhySEt2dVM5N2tMWlJVM2c1UlZmOV9pVC1yTzNiNXY2T3NrYk1GVHlUWlhHSUZIZ2s?oc=5",
+     "t_id": "Perhentian penerbangan di Kanada, seperti yang dilakukan FAA pada hari Jumat, tidak mungkin terjadi: pakar penerbangan"
+    },
+    {
      "t": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
      "src": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEkxWS1FQmNqZHQ0UjluR3FaUVFMS0VxSlQzQURPUEhnUFZnTlhIMlREbXc3TllNNGVFa3dMdWJNUk1xbFR5UnhGdW5iMVZncms4T1dqQ29UR0ZRYXh3dFVORkp1S3IzMUV1LXNtb0FoSGxUT1FkajdxU05jbF9DNDExc2MwYVZTa2RoSW9SaDlBcGJkMXpRankzbkNtcVF0WjgzNtIBqgFBVV95cUxPa0RnWlk5cllod2l3VWxWZEI2Zzk0OU1TcTRYdHBXbU5ObVkzRDhvcjFRLWo1T3IzOU5ZYTZ5bDlEQ0hjZU5rOV9SZTVrWW9Fa0NlclduT2FpVHVWd0h3NzZWU05xUUF1SUM0UzdNQ1Vic2ZOdWdZQ2lpaTlfSEV1NDhZWFZWcXlYc2pTcnRBZTBJdGdxdWhTNjRpbHJnS1pMLXZyQXM4N3AxQQ?oc=5",
      "t_id": "Garis waktu pemberhentian FAA: Kekacauan akhir pekan menghentikan pesawat dan menunda pertandingan"
-    },
-    {
-     "t": "Microsoft outage and FAA ground stop in one week has some asking questions, suggesting theories",
-     "src": "CTV News",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVJTRjVDVzV2dTVuZVVMWkZHWTRxdlBNQ1J5dzFHNTJTSTZvMU9IRTA1cFhNTmtNTkJiOW93MDRISGlaRkFpcHRVTWJWYi1jWWFFXzZJdU9WSXlKdE9fR3pybTF3dTUyNWVmM3BHR2l6bEFWSVhOVmFRWnRic19MRlp6SkRWNmdvOHNXU0Zvbno1ZlVLQTZPdjhBUHJSdHFjQkJvNFhEakZGbzRwRTJ5VFRGUDZQbW5ETWVoM3c0OFRYdw?oc=5",
-     "t_id": "Pemadaman Microsoft dan penghentian FAA dalam satu minggu menimbulkan beberapa pertanyaan, dan memberikan teori"
     }
    ],
    "title_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
@@ -286,6 +286,43 @@
    "title_id": "Pemadaman Microsoft 365 menyebabkan keracunan gas klorin pada 15 tamu hotel"
   },
   {
+   "id": "siber-202611151820-7af8",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "FAA SMART AI: $875M Deal, 22 Centers, No Outage Link",
+   "src": "shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0xFOWZkSzhLR2RhVmZRTFo1dFJjM0lvOVRtcF9xaUtxRF9OWktfdlZKNnI1Qmg0UGpZSE4yWkxxclVhVTNiU0NtQkQ0TjEwdjVhQkpHd1dYSTNud282VVhtUU1IU2lGalRoZWR3ejJ1VGNwYkYzTXhIVDU3YVRMbXkxaG5leHZjYWo3MA?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-15T18:20:11Z",
+   "last": "2026-11-16T13:03:08Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Outlook Outage, FAA Stop: 4+ Hours Down, 0 Link Shown",
+     "src": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5",
+     "t_id": "Pemadaman Outlook, Penghentian FAA: 4+ Jam Tidak Aktif, 0 Tautan Ditampilkan"
+    },
+    {
+     "t": "Microsoft outage and FAA ground stop in one week has some asking questions, suggesting theories",
+     "src": "CTV News",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVJTRjVDVzV2dTVuZVVMWkZHWTRxdlBNQ1J5dzFHNTJTSTZvMU9IRTA1cFhNTmtNTkJiOW93MDRISGlaRkFpcHRVTWJWYi1jWWFFXzZJdU9WSXlKdE9fR3pybTF3dTUyNWVmM3BHR2l6bEFWSVhOVmFRWnRic19MRlp6SkRWNmdvOHNXU0Zvbno1ZlVLQTZPdjhBUHJSdHFjQkJvNFhEakZGbzRwRTJ5VFRGUDZQbW5ETWVoM3c0OFRYdw?oc=5",
+     "t_id": "Pemadaman Microsoft dan penghentian FAA dalam satu minggu menimbulkan beberapa pertanyaan, dan memberikan teori"
+    },
+    {
+     "t": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd19hVlBVdmNEMTUxdmdzVkRkdjVJWTVNVkNoU2RIdFQ3OVpwTmJKQkZCRW54RlMycXQybnJMR3IxaEJHQ20tcmIxUEtDUVlPTkNma1l3NHlDRzlic0c3NFZhTEwxSVd2WF9wbjhGOEdSYThMdGVxdXhxaHBxZnZ4NDhHTlZiUWp1MTd6blhNSE1JSmc3cnJhSW16OFRvQjN3bGdnTjhkVkNlejBfUkVWOXIwbnRvVkRUdDBCam5VMNIBxAFBVV95cUxNanVtNGJCT1JyVUZaeUp2VFhTamozLWpYUUh6ekVZbVVjWjM5NWF5Q3lYR0tEX19QNFBVeXV6Rkt5M1J5MWdtaXpYWG1GbGs0ZkluOWowenRvZTM3cHdFeVNlRjlKRzNaaDl6dVkya3JSRzYtcVYwZ0tFR2RqdmhORWFTd0NFamJvdTRCbnh6RjRiT185dk1FSEJENUZUWnhMSERPWHcxUVI5ZGhqUzE0am9FTGRFeXctemgtc18zNEhSR3pu?oc=5",
+     "t_id": "Duffy: Penyelidik memeriksa 2 router setelah penghentian FAA secara nasional, tidak ada tanda-tanda serangan siber asing"
+    }
+   ],
+   "title_id": "FAA SMART AI: Kesepakatan $875 Juta, 22 Pusat, Tanpa Tautan Pemadaman"
+  },
+  {
    "id": "siber-202611151541-c469",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -294,8 +331,8 @@
    "src": "Analytics Insight",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWVWV1M5eUY2Xzg0UGthMkZRc0E5eXNXU3FMaGpLN1RaZ2lSdDY1Z2VtSGN3LUdpVmQ5Mmltci1WRTNNS1RCeXhRcTRnZ3JVWF9fZkp2UXg2V1NYcml0VzFSUWRodWtULVZ1RmhGekhlMGh1WDFQWngwcmMwSmoxbWduV0tFSkszSFFfUnQ3d1ZMa2lTazVISXVKbDFTQUxWaUUwTUZXWjA2UdIBtwFBVV95cUxPSmNMYkhwUW1ocVJRZHFTcHhyeHVtNDZ2QWJnVmVvZ25xaEVIblFwdXRhOXVBbXhJZWNFT1dyajdFRDB1QVBqVk4xT0ltTjJvSXlPbHVacFBtbTRWT1lDN0hXWHctRmtkZUN4V2xaeV9RbjZvU3lIWlphYVF0RnB2WjV5Q05CYU9URHpBTVdEVDZ1cWd0SGNnNlNad1BGMXBfMDJpelZJTGlTV1duTUpZY2VXZjllTEE?oc=5",
    "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
+   "recent6h": 0,
+   "score": 3.0,
    "level": "sedang",
    "first": "2026-11-15T15:41:13Z",
    "last": "2026-11-16T11:08:19Z",
@@ -373,8 +410,8 @@
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVRzR3lvX21tRVdpaTV1VUlFSm1IenFzVEtJbkdKWkY1LW9ubmZ0R1JlcEUzaFRLa0E0ZTBGSHNVX3hHaVpEMGM1ajJkNTlHVU1CUnRTSld0X1B6LWF3eUFyTVRjSHNJZ1hVUDg2VmdmdTVpazJzZDV4cVpUbHptbV9IMEg0cTctQ3pQSkIxUGtWN2F2TXJreEdpcXZoZ1VtOXhQTmh6SXpCRmhTOE1QSlFvWi1RMmYtY04wQlpKT0l1MkU?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-15T23:05:00Z",
    "last": "2026-11-16T11:15:00Z",
@@ -401,8 +438,8 @@
    "src": "IDN Times",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVy03WWhabVNSVUxmblhZbUVSQkhKRXFqdE5GWW1abmt2QnltVmFlUmYzak1RRnRsakdyUHZEYW56OHBuZThiYThicURuN1hLbVNDNHVnQlNOa280RmY0cW5ZZi10bDNoQ0M2aXA0Q25EYWc2NWhOdnpyQ1FuNUNiQm9JUS1uZHZSeWVQdDBVWjFUWldDRGpNRlNWZnAycDBFUnVJUy1WRHJDZ1NaX05qQV9PYVd3YmxNczBKY2dYOWbSAcYBQVVfeXFMTTlIemhpVklDT0JreWlkS2ozaFhtdnBVUjJWWE4zeTVhanFFTWVQOEFkMXozQkFXX1dDN3ZPVzBYaVBoRXFwYmlLSGVtVm80Y2p1TG1iNGhkejl3dVozSlY5dnRUY05MX3FBdEoybklaSjdXaWdBTVRhWjVhSXRMaHhpVEF3SF9lUjAwbFFBYnoyX0xPXy1VOGVBTUVXeng3c0QzN0J3Z1ZBRHBVbk4tM1FJS0ViTVNnT1gyb1VtNGxISGQ5TWd3?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-16T09:36:00Z",
    "last": "2026-11-16T11:06:00Z",
@@ -439,29 +476,6 @@
    ]
   },
   {
-   "id": "indonesia-202611160128-1ca5",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Sound Horeg di Jember Tuai Kritik, Suaranya Ganggu Sekolah hingga RS",
-   "src": "Jatim TIMES",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTW9qMjByS2ZmSXNGMFhBZUxxazFrUGtvS2N1cWpuVUVBb2VDQVhVUUNSc2ZYQ21IZlpUN01qOHZoRGZjNzJvdzFXc2NsY3JpODhtQldETXdfWDNDZXFlYWgzbV9nMFdLcmdZbHFFWmIzcWdUc2dRYTNwb3NSTlEtWnZ6aFFLUnZjdFQwb2cxUnJpa0Zfc1NwUHgtRlo1QWdIX1RjMUV0cGZlVmpVdHkzTFJFOEZCLTM0M1h0MVVta1VPREJRTXfSAcsBQVVfeXFMTnlwXzVjd0lib01HVXFQR0MzOXl5aVJqZXJYMUh6a1RKdnZRdXB4NXRNXzZhU2VxZ0lLbmdBdS1SWm5zS000cFRUcDk1Q0ZZeTNrdjA5bWxKUkk0WHhRZmxDbjhsTzJPT0FHM3d4eV85OXZzVDliS1lHWjV0dzZBbFFaYzBjRmFpUTMyLUdwNEIwcHdlZHhGM3JEUE5jR2VmbWxfa3dLTEd3MTdydjJITHEzc2lWOEpsSXJIZFJ3Q0NxTlpnZDUzemdaZU0?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T01:28:00Z",
-   "last": "2026-11-16T08:23:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "MUI Jember Minta Polisi Lindungi Warga Jelang Demo Pelaku Usaha Sound Horeg",
-     "src": "Jatimnet.com",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHRPd056WlJ3WWtCZnNuWm94bkFZSXpzdE9yV2VKSWRHaVZmRm1rb09PQ2IxQVBsNTFabEtBbnFfeFJjVngyc3E5a1V0U3hmcUlUU0VScUZrRmlLVmlxbk4xbUlRS05lbHRzb0htRDBfRlhWMHpGN2ZwZWlkU0RhSjN1cjF3RzJQUlBWdS1QOUN4VnVtTUJLZUxmNDk?oc=5"
-    }
-   ]
-  },
-  {
    "id": "indonesia-202611160645-ce98",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -483,31 +497,6 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzFiMkpOMklTU1Z6UEVRaUR6LWlQZTF6MDNsYkVodExVUmtEa29Ba015ZlhvenRBczlpamhYTWk1TlZQZElPa3FIbEpkTlkyRnJqZHhLSEtERVlFamhFcEY5aWpNM1dVdW92Mmo1cDREb2ZrN1FTRldLUC1PYV9udkZmUXdhQXVOZ0pNd3h2ZFV3blduNFZIWFlYX01iSVZITGlxdXBB?oc=5"
     }
    ]
-  },
-  {
-   "id": "kerusuhan-202611151423-289e",
-   "cat": "kerusuhan",
-   "label": "Kerusuhan & protes besar",
-   "lang": "en",
-   "title": "Why Guatemala Just Declared A State Of Emergency In Zacapa And Izabal",
-   "src": "ИФЗ РАН",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwV2pHYU1uMFVFT1kzZTh0cEFXN3drOUFBeTJSbmtDU1FhN1ZIWGduSHlLMHBFZ3NKbi1zR0xqOW50Q1hLM19ubVg0aUJUWW8yWEdDcUZTZlkzbE96OGVBQnFoQnhWN1NGS2phTUhoem5zZ25VcUg1U1dzdGdUQQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-15T14:23:27Z",
-   "last": "2026-11-16T05:35:16Z",
-   "assets": "Mata uang lokal, saham negara terkait, emas",
-   "more": [
-    {
-     "t": "Spain declared a state of emergency in the Canary Islands due to an influx of migrants: thousands arrived in 2 days",
-     "src": "Haberler.com",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORWkxT2pmdWVPTklLUFNwWE8zeDVLTUhhYk5aVFJ5NEtXUFpkR3dpMnFFODZkcVQwQjFxVC1HdTVfUk5ZU3RTaGx2OG1IcjRLVkRRT1Q0NC1yZmphUW9rM3NmS3FKMTJZRWYyMklJdkl4T3prcTdnU0M1dXVoMllTYWx2dzVMcTBwcGc?oc=5",
-     "t_id": "Spanyol mengumumkan keadaan darurat di Kepulauan Canary karena masuknya migran: ribuan orang tiba dalam 2 hari"
-    }
-   ],
-   "title_id": "Mengapa Guatemala Baru Mendeklarasikan Keadaan Darurat di Zacapa dan Izabal"
   }
  ],
  "errors": []
