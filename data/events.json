@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T11:29:29Z",
+ "updatedAt": "2026-11-16T11:58:47Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGVSb2RteVJqbWpLUU5sZnJXQXZQakNoT1dtYnRNbzNZOU9IWnBKWC1lb0lnQ2NfMnpmTl9HMDB1aWZld1pOTVBFdDBXeWpOVVRaN2Z1TUVmaWNSVFYtLThvOUVidERZZmRoRnJhZ2pnUzBrRjNLTGhmUk51TkdYMU1KQVRIMjl4V3VfS19LVEZ5V2k1bkx6SkhGUFRJWnVmeFFac3RxT3hvNkl5Q0w2bUdxVnE?oc=5",
    "sources": 15,
-   "recent6h": 7,
-   "score": 18.5,
+   "recent6h": 6,
+   "score": 18.0,
    "level": "besar",
    "first": "2026-11-15T13:13:02Z",
    "last": "2026-11-16T10:00:00Z",
@@ -44,6 +44,49 @@
     }
    ],
    "title_id": "Pembatalan Penerbangan di AS menduduki peringkat 17.000 teratas dalam Gangguan Terburuk Terkait Teknologi"
+  },
+  {
+   "id": "kesehatan-202611150642-094c",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
+   "sources": 7,
+   "recent6h": 1,
+   "score": 7.5,
+   "level": "besar",
+   "first": "2026-11-15T05:02:00Z",
+   "last": "2026-11-16T11:31:54Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Congo's Ebola Outbreak Remains Out of Control After Six Months, With Women and Children Bearing a Heavy Toll",
+     "src": "EEW Magazine",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWthRWNNUG5uNHNFN1NFd3gwanRoLWFndGdOak5qdk9XTURtNkZYNFNJcGdUVVNveFh1cGNjX2x1TU1tMnVuLUNwUXdUS01iaUZNZEF0QVlmR0QwX2NISUhTVFE1N2MwTV9JWVNLOXhnWU9rTXhncGhIQW5rMmR2ZmppWVYyT0hPMFJLNjk4RDAwY25qNTRabFpjdm1pay00V1NQUXh3?oc=5",
+     "t_id": "Wabah Ebola di Kongo Masih Tak Terkendali Setelah Enam Bulan, Perempuan dan Anak-anak Menimbulkan Banyak Korban"
+    },
+    {
+     "t": "DR Congo Ebola outbreak spreads to remote areas as violence hampers response",
+     "src": "China Daily",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12eW9HYVRSMi1jRE9OU0c2b1R1QzB6emlxOEZ1ZU92UDlXZXVUM2R1MDN1V2YzUjRUVjgxZmZYV1V4cm9DaG1lVTB3U1ZGVUNxdmFWbjV5MTc?oc=5",
+     "t_id": "Wabah Ebola di Kongo menyebar ke daerah-daerah terpencil karena kekerasan menghambat upaya tanggap darurat"
+    },
+    {
+     "t": "Ebola outbreak remains out of control in Congo 6 months into response",
+     "src": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzJqSWxEdFVlLW5aemZVZGlfSklmNUJKWERlOHY2dm13V3N1Qkk4aGpJbXN3NGlrQnE2NkhWNXFDczhZd01KaEQwNVBYU3hBYVJ1Z2I4OGVub2hSVmpMQkN1TkpmNW93MXZFX0V6V2ZNMjJIZlV2MmFnMlpZOFJObERJbGRrLXdGVURhSUlPT21oc2VsUnhGZFNBQ3JiWG9XVGxrZHpIZDg2UlIw0gGsAUFVX3lxTE5XMmpJbER0VWUtblp6ZlVkaV9KSWY1QkpYRGU4djZ2bXdXc3VCSThoakltc3c0aWtCcTY2SFY1cUNzOFl3TUpoRDA1UFhTeEFhUnVnYjg4ZW5vaFJWakxCQ3VOSmY1b3cxdkVfRXpXZk0yMkhmVXYyYWcyWlk4Uk5sRElsZGstd0ZVRGFJSU9PbWhzZWxSeEZkU0FDcmJYb1dUbGtkekhkODZSUjA?oc=5",
+     "t_id": "Wabah Ebola masih tidak terkendali di Kongo setelah 6 bulan respons"
+    },
+    {
+     "t": "Ebola outbreak kills over 5,400 in DR Congo as conflict hampers response",
+     "src": "Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGN2LV9UaVN1VlphSzhQbmh3SHA2R1dJcWZjYi12Znh4a2p3UFlqZXo3RXNITWJBRkI0TWlxMWhtUllTem0tSkdpUVB6MFd2a0k3RkFlUFNuTjZGSkpJenJwbktWMDRaeG9hSmlmNnpqSUhWd2VFZk1SdDVuclJGY2t1NG5FSzlDYzJJWmtIQWtiU2ZuaC0xazNKd2ZzUFlDMkHSAacBQVVfeXFMTTNNb1ZOMFNDOVpXb3dDbnpZclhyaFdmdjBsYzJyWTJ3VlF3dkl1c19CWjY2My00RjhaLXJmTkNkWDJyRWJoa0pRTjc4MTVOOHBHVWVENUNfbFhWN3M1WjVSbURIUWF4eHpCUkVqTmw0MHdRRVlNY05GN1U5MEpxaHBrdFFnb0s3emFqd3hUblYzRFl1RVNDZ0lfcXJVY0dSZllySWtmbDA?oc=5",
+     "t_id": "Wabah Ebola menewaskan lebih dari 5.400 orang di Kongo karena konflik menghambat upaya tanggap darurat"
+    }
+   ],
+   "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
   },
   {
    "id": "siber-202611151541-c469",
@@ -87,49 +130,6 @@
     }
    ],
    "title_id": "Microsoft Mengungkapkan Bagaimana Lebih dari 80% Server Gagal Selama Pemadaman Global"
-  },
-  {
-   "id": "kesehatan-202611150642-094c",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
-   "sources": 6,
-   "recent6h": 0,
-   "score": 6.0,
-   "level": "besar",
-   "first": "2026-11-15T05:02:00Z",
-   "last": "2026-11-16T04:18:26Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "DR Congo Ebola outbreak spreads to remote areas as violence hampers response",
-     "src": "China Daily",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12eW9HYVRSMi1jRE9OU0c2b1R1QzB6emlxOEZ1ZU92UDlXZXVUM2R1MDN1V2YzUjRUVjgxZmZYV1V4cm9DaG1lVTB3U1ZGVUNxdmFWbjV5MTc?oc=5",
-     "t_id": "Wabah Ebola di Kongo menyebar ke daerah-daerah terpencil karena kekerasan menghambat upaya tanggap darurat"
-    },
-    {
-     "t": "Ebola outbreak remains out of control in Congo 6 months into response",
-     "src": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzJqSWxEdFVlLW5aemZVZGlfSklmNUJKWERlOHY2dm13V3N1Qkk4aGpJbXN3NGlrQnE2NkhWNXFDczhZd01KaEQwNVBYU3hBYVJ1Z2I4OGVub2hSVmpMQkN1TkpmNW93MXZFX0V6V2ZNMjJIZlV2MmFnMlpZOFJObERJbGRrLXdGVURhSUlPT21oc2VsUnhGZFNBQ3JiWG9XVGxrZHpIZDg2UlIw0gGsAUFVX3lxTE5XMmpJbER0VWUtblp6ZlVkaV9KSWY1QkpYRGU4djZ2bXdXc3VCSThoakltc3c0aWtCcTY2SFY1cUNzOFl3TUpoRDA1UFhTeEFhUnVnYjg4ZW5vaFJWakxCQ3VOSmY1b3cxdkVfRXpXZk0yMkhmVXYyYWcyWlk4Uk5sRElsZGstd0ZVRGFJSU9PbWhzZWxSeEZkU0FDcmJYb1dUbGtkekhkODZSUjA?oc=5",
-     "t_id": "Wabah Ebola masih tidak terkendali di Kongo setelah 6 bulan respons"
-    },
-    {
-     "t": "Ebola outbreak kills over 5,400 in DR Congo as conflict hampers response",
-     "src": "Tribune Online",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGN2LV9UaVN1VlphSzhQbmh3SHA2R1dJcWZjYi12Znh4a2p3UFlqZXo3RXNITWJBRkI0TWlxMWhtUllTem0tSkdpUVB6MFd2a0k3RkFlUFNuTjZGSkpJenJwbktWMDRaeG9hSmlmNnpqSUhWd2VFZk1SdDVuclJGY2t1NG5FSzlDYzJJWmtIQWtiU2ZuaC0xazNKd2ZzUFlDMkHSAacBQVVfeXFMTTNNb1ZOMFNDOVpXb3dDbnpZclhyaFdmdjBsYzJyWTJ3VlF3dkl1c19CWjY2My00RjhaLXJmTkNkWDJyRWJoa0pRTjc4MTVOOHBHVWVENUNfbFhWN3M1WjVSbURIUWF4eHpCUkVqTmw0MHdRRVlNY05GN1U5MEpxaHBrdFFnb0s3emFqd3hUblYzRFl1RVNDZ0lfcXJVY0dSZllySWtmbDA?oc=5",
-     "t_id": "Wabah Ebola menewaskan lebih dari 5.400 orang di Kongo karena konflik menghambat upaya tanggap darurat"
-    },
-    {
-     "t": "WHO warns Ebola outbreak is far from over as DR Congo records up to 500 new cases every week",
-     "src": "The Eastleigh Voice",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDgyWnJtMDlBdVpqTnVhQktRRTMtVnBDNDNKTUZVb3pON2FMTlg4UC01aFV2TkJXWmZucjBoanF3c2tadElwY3RMcWVzX3V6MTNDRHBnNi1VMGJqRkljNFpqRVA1VzZoeGRwYTBJemozb0xZMmpxc0IycnRJdjUwRzVBRHdtQXMyWkdDWjd0eEVjbmlUUmtMeFpLSzZVSXhYeEFCR1dHczFKdmFzbGlwaWU2RW55N0FPYnlGNEFRT3l2Vk1PRTVUSDE1TVlWUEtW?oc=5",
-     "t_id": "WHO memperingatkan wabah Ebola masih jauh dari selesai karena Kongo mencatat 500 kasus baru setiap minggunya"
-    }
-   ],
-   "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
   },
   {
    "id": "politik-202611160500-0aa3",
@@ -393,29 +393,6 @@
    ]
   },
   {
-   "id": "indonesia-202611151147-31f0",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Banjir Aceh Tamiang Meluas: 3.028 Warga Mengungsi, 41 Desa Terdamapak",
-   "src": "info aceh timur",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWElBYXdLazNzbThVWHlDT0JGWkVyd1l4ZGRpUjU1S1ZkVk54RFJQbVJZb3JVR1llV1J3aWF0X1BkOWdVaFRrZTZzQ3A4VDdub0sxS2phX0VBVEp5VThHdHR1cXhzRVJhY1lxekFQYmkwUVBWc1BuYmhJRVM3SW1OQ1ZVSWdMY1VZbnUwc21OVDVZdjREaXotbWJR0gGfAUFVX3lxTE1MOF9oLURQZDBiQkZiSE5OMXVJUzhLNGFrcEhXX09DVFY2VTAyNmhGeHpPM3hjdXpTdjA5dFIxeHVnM1RRcVhON01Ba0x1OGZVMXJxMlJJWTV2bkUzOFRtWUJFQWE5dnJDdzFEMUExQl9QTXJWcWxVMWVVNWVSSjdLaERNRGtvQ25RcnlTSWZONDZEbkFLUVVrSEFOblJxbw?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-15T11:47:40Z",
-   "last": "2026-11-16T08:47:06Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "LIVE: Banjir Kiriman Rendam Aceh Singkil hingga Sungai Lae Soraya Meluap, Warga Lhok Raya Mengungsi",
-     "src": "Tribun Video",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdE5aelNfb050STBBQ1dBTTcySEtpUHB5a3BmY0JJRGRoUkpGaXYxdDhYM056X3M5OG92dXNtbW54YlhPSWktaHpZSTQ1djA5TDZ1QUNwUnFrOXRxVHN3Nk95ck4zbV9UN0lNRmVMRmVRZFI3Mm9rUEgtZlF5M3ZveUVsSVVUTnJuV05RU3F6VU9oVHhoUUxPT0lQRnh0VVoxWVIyazNEV1BBbnF5eGZLaEJlM2F6T2JOYlRic3lHclJ6NlJjeXFEYkRUV1ItUUlLNmUxdw?oc=5"
-    }
-   ]
-  },
-  {
    "id": "kerusuhan-202611151423-289e",
    "cat": "kerusuhan",
    "label": "Kerusuhan & protes besar",
@@ -439,31 +416,6 @@
     }
    ],
    "title_id": "Spanyol mengumumkan keadaan darurat di Kepulauan Canary karena masuknya migran: ribuan orang tiba dalam 2 hari"
-  },
-  {
-   "id": "perang-202611150334-baa7",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
-   "src": "Kurdistan24",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xZnljYVI1Tl9RWXZQektsekxYY1ZTekRSc0Q4a1B2bXlyb3NzSzVwV3J0S25jV3k3cGlwUzFXOWdEc2NjVlpISU5JZ3RCanFPcXREbnVR?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-15T03:34:53Z",
-   "last": "2026-11-15T15:20:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "5 Civilians Killed in Houthi Missile Attack Near Yemen's Aden",
-     "src": "Sada Elbalad English",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnViRE5KVThCeDBsNjBJcjl1dTU2Vkl4X3g3bUtWWWdIcy1BMXRGZjJNZmxaV1lTTHNaNklUWVRoTFpFdkF0Q2lvYVppdmZuT0VEMzg5OXBqVEJPZlplTHFqVXdzWGcwVGVROWRQUDVtcjdUUWM5NE1xSi1KLVFoUXJhWQ?oc=5",
-     "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
-    }
-   ],
-   "title_id": "Serangan Rudal Houthi Tewaskan Lima Orang di Dekat Aden Yaman Saat Pertempuran Meningkat"
   }
  ],
  "errors": []
