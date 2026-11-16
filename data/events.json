@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T00:11:31Z",
+ "updatedAt": "2026-11-16T00:26:37Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -46,6 +46,49 @@
    "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
   },
   {
+   "id": "perang-202611150532-3b31",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Iran targets US military base in Bahrain with drone attack",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
+   "sources": 8,
+   "recent6h": 0,
+   "score": 8.0,
+   "level": "besar",
+   "first": "2026-11-15T05:32:08Z",
+   "last": "2026-11-15T15:13:22Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Iran launches missile and drone strike on US military base in Bahrain amid rising tensions in Middle East",
+     "src": "www.the-sun.com",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIZWVxOElDT0R1NDV4Z1FWcW5vek9kTlEySTdYZVVIOWU3NTJYVllqQW1rUko4TjBucnJQajNhT0x2MVV0T25SMVpGcTdfRkJfbzF0Mm9MZnp4NVpWOEdWUUVieWpqY2tOYjRQQUNib3VPOWVqYWVETg?oc=5",
+     "t_id": "Iran melancarkan serangan rudal dan drone ke pangkalan militer AS di Bahrain di tengah meningkatnya ketegangan di Timur Tengah"
+    },
+    {
+     "t": "Iran launches drone and missile strike on U.S. base in Bahrain, repelled.",
+     "src": "The Taiwan Times",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFE3UXVkYThfaW1JaG9UeE92b1J5Ti0tVzZ2TnhZbHhvcENidWYtTzlidWFxaHBvVGF3THhNNktLdzBrUnVLeFpybGFyS3dOUVl6dmtIMS01R1F3QW42ei1ZWTdqWkxkY0VCeWNCbWdDdTVVOEJxZzg0VEpxSDQzbk1CYm5YMTd3MUFwcDQ4b180Q2hHT0ttckJGQW5vMU5saXVldkZtaEcteTRX?oc=5",
+     "t_id": "Iran melancarkan serangan drone dan rudal ke pangkalan AS di Bahrain, namun berhasil digagalkan."
+    },
+    {
+     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+     "src": "EnergyNow",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczVGOHAzUENEVHpzT3BVcTlZdnFjSXZpSU91S3ZsQUZhSVI3LVYzUVlTV1V2WXQ3WUNNVzN6ZVpsRFJJMzJ2ZHY5Vm1MNTBDSXZrSS0yc0YzaFRoNWpOSEZfMUVCWmhHRTNrdi1mbDU3VFNlQkNBX2J3a09laDFWcmZZVzNYT2tmeU1wS1hnS2dZa2VfUFVrMWI3WE1TN1FnSThlZEJCV04zVWt2NEdWM1F0R29WMjRSZE5r?oc=5",
+     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+    },
+    {
+     "t": "Bahrain Intercepts Iranian Drone Attacks as Tehran Says It Hit U.S. Base",
+     "src": "Haaretz",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcFJkeHBOQkhkd2hwNzVNanB0WTZRZUVPNzEzOXVFTGhqeHJRT3lZZEFiSmZYemx2U01TUy1aN2UtcmlmMjRfcERCTlZXUHk5V2JHY0RGMGlVdWZQNkJyTUxEdlJmeU9pQ0dfanQ0anBpa3B6UllEXzV4Y1lDTldRN25OZklXNlM2WmJZMGFlU2Q1OVlJby1pY0tRQkpySXE2eXVLSjFvbHMyN2pvaTR6Z1FNdmZ3SlZ5dzNkamhsWFJxOUZBVUlyc3dRVWtZdmVJSjNtOS16TWpRalpUd3FJX1pBUHczZExBZTFodFRwUHJ3OWljWU90clJvWjAzUDZm?oc=5",
+     "t_id": "Bahrain Mencegah Serangan Drone Iran Saat Teheran Mengatakan Itu Menghantam Pangkalan AS"
+    }
+   ],
+   "title_id": "Iran menargetkan pangkalan militer AS di Bahrain dengan serangan pesawat tak berawak"
+  },
+  {
    "id": "indonesia-202611150321-fcbf",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -84,127 +127,46 @@
    ]
   },
   {
-   "id": "perang-202611150426-38d2",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Houthis claim missile attack on Riyadh airport",
-   "src": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHBmc2daOENYRXdjbHl0RE5GaFZtR2tKTGI5Ry1vQTNnQnF5UGszUDFYQXFtQ25WdmV0TWtXc001QlQ2bkY4Y0tIdnRQMjlzTUJPOVlnSVRpeFRzQmNydHhSX0RzcVFhSXJHRDRreHM2VWRGQXcxLWNBcXlkcHVaXzlTYjlTUHliTmd3NjVGazRIdTNuNV9oLURRRTlRLW92THJGd2FCYmo0ZHZzRTVfYmUtaU1FbXZEYTBjeHlB?oc=5",
-   "sources": 7,
-   "recent6h": 1,
-   "score": 7.5,
-   "level": "besar",
-   "first": "2026-11-15T03:34:53Z",
-   "last": "2026-11-15T18:20:30Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Video | Yemen's Houthi Rebels Release 600 War Detainees Captured In Latest Escalation Of Fighting",
-     "src": "NDTV",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2FJbFZ3X0VLaFNsYVFoQ3pvb1hYMmd3aG5UalJWaEQ2QWhxWGJqeTRlOTBuREdSX29STTRwUjF0U0h1cmlLSDEzYUZpMTFmVWZYY0NwZXhUaW1rSmlnY1JiWXkzWnZVX003dk5hQ0R1ZTJIOXlLX0N5WVRIODNXUlE2YTdTeE5kNHo0WjZYOThLd3F6TFlnWkRrRkoydk43NWcyNXJCeVoyS1NPcWxuYUZCYWZYN1dhOTZaR3RJSXBSdw?oc=5",
-     "t_id": "Video | Pemberontak Houthi Yaman Membebaskan 600 Tahanan Perang yang Ditangkap dalam Eskalasi Pertempuran Terbaru"
-    },
-    {
-     "t": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
-     "src": "Kurdistan24",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWh1TEZ5YlcyWHZqbkFiMjlaOW50Y0dDS2xzQW5hdHQtX3RYWXROaEZfY0l3TkZnckFKZ0JuRjFJX1ZteHZzd2psbDJyOTNrZnFGUUt1aVpraE1wNEZmUVhiQVdiNTdFMU1pNVJpNGN2aWFiT3Vlajh0dFVMbm9fZ2JXeUMzTC1scVNvWTZDb1Vwc0JaODAyNFpCeEt4eFlQQUxCUUJaMHAwN3BER1kzQ0lpRnZwT1ZK?oc=5",
-     "t_id": "Serangan Rudal Houthi Tewaskan Lima Orang di Dekat Aden Yaman Saat Pertempuran Meningkat"
-    },
-    {
-     "t": "5 Civilians Killed in Houthi Missile Attack Near Yemen's Aden",
-     "src": "Sada Elbalad English",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnViRE5KVThCeDBsNjBJcjl1dTU2Vkl4X3g3bUtWWWdIcy1BMXRGZjJNZmxaV1lTTHNaNklUWVRoTFpFdkF0Q2lvYVppdmZuT0VEMzg5OXBqVEJPZlplTHFqVXdzWGcwVGVROWRQUDVtcjdUUWM5NE1xSi1KLVFoUXJhWQ?oc=5",
-     "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
-    },
-    {
-     "t": "Yemen : Houthi Ballistic Missile Attack targets aden airport",
-     "src": "Yemen Online",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81cVZxZXFwcWRHd2xkQkM0WVJ5OW50LWc4N2RsSmt0YzZ0SWdDMHlsWE9uZ0VCMUZwQmtiN2QzQWlrWWxTLXZHcFpsTi1WbDlHWkxRYXhFVF9Ydk9DRG5BUHNHMlpsYU0?oc=5",
-     "t_id": "Yaman : Serangan Rudal Balistik Houthi menargetkan bandara aden"
-    }
-   ],
-   "title_id": "Houthi mengklaim serangan rudal di bandara Riyadh"
-  },
-  {
-   "id": "perang-202611150532-3b31",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Iran targets US military base in Bahrain with drone attack",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
-   "sources": 7,
-   "recent6h": 0,
-   "score": 7.0,
-   "level": "besar",
-   "first": "2026-11-15T05:32:08Z",
-   "last": "2026-11-15T15:13:22Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Iran launches missile and drone strike on US military base in Bahrain amid rising tensions in Middle East",
-     "src": "www.the-sun.com",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIZWVxOElDT0R1NDV4Z1FWcW5vek9kTlEySTdYZVVIOWU3NTJYVllqQW1rUko4TjBucnJQajNhT0x2MVV0T25SMVpGcTdfRkJfbzF0Mm9MZnp4NVpWOEdWUUVieWpqY2tOYjRQQUNib3VPOWVqYWVETg?oc=5",
-     "t_id": "Iran melancarkan serangan rudal dan drone ke pangkalan militer AS di Bahrain di tengah meningkatnya ketegangan di Timur Tengah"
-    },
-    {
-     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczVGOHAzUENEVHpzT3BVcTlZdnFjSXZpSU91S3ZsQUZhSVI3LVYzUVlTV1V2WXQ3WUNNVzN6ZVpsRFJJMzJ2ZHY5Vm1MNTBDSXZrSS0yc0YzaFRoNWpOSEZfMUVCWmhHRTNrdi1mbDU3VFNlQkNBX2J3a09laDFWcmZZVzNYT2tmeU1wS1hnS2dZa2VfUFVrMWI3WE1TN1FnSThlZEJCV04zVWt2NEdWM1F0R29WMjRSZE5r?oc=5",
-     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
-    },
-    {
-     "t": "Bahrain Intercepts Iranian Drone Attacks as Tehran Says It Hit U.S. Base",
-     "src": "Haaretz",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcFJkeHBOQkhkd2hwNzVNanB0WTZRZUVPNzEzOXVFTGhqeHJRT3lZZEFiSmZYemx2U01TUy1aN2UtcmlmMjRfcERCTlZXUHk5V2JHY0RGMGlVdWZQNkJyTUxEdlJmeU9pQ0dfanQ0anBpa3B6UllEXzV4Y1lDTldRN25OZklXNlM2WmJZMGFlU2Q1OVlJby1pY0tRQkpySXE2eXVLSjFvbHMyN2pvaTR6Z1FNdmZ3SlZ5dzNkamhsWFJxOUZBVUlyc3dRVWtZdmVJSjNtOS16TWpRalpUd3FJX1pBUHczZExBZTFodFRwUHJ3OWljWU90clJvWjAzUDZm?oc=5",
-     "t_id": "Bahrain Mencegah Serangan Drone Iran Saat Teheran Mengatakan Itu Menghantam Pangkalan AS"
-    },
-    {
-     "t": "Iran claims drone attack on US military airbase in Bahrain",
-     "src": "France 24",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1c4aEZGVWxpWDlYajhJZXFCbTBRa0NTTlZDWEpBMWNacEw5aEFOUnZGLTVGMXVlZkFVOEwzSEFFZXo4SW1nc0E5dUQzYzVqZmx5WXpBNlRERy10Uk1WdFd3S1VkOXFvUXg3VlF0ZFBlM1ZXMU53WXdVT2VKZG14ckNoVF9mWXdRckdxc1N2SWNETmo0Nzd3alA2YzNsRnNwVFdv?oc=5",
-     "t_id": "Iran mengklaim serangan drone terhadap pangkalan udara militer AS di Bahrain"
-    }
-   ],
-   "title_id": "Iran menargetkan pangkalan militer AS di Bahrain dengan serangan pesawat tak berawak"
-  },
-  {
-   "id": "siber-202611150025-1c90",
+   "id": "siber-202611150559-d46e",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Nationwide ground stop lifted after air traffic control outage strands thousands of travelers at BNA",
-   "src": "News Channel 5 Nashville",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRE9XWnpEb1RiMV9SNVdHV1FteHJhNGU2MTFlZWpYSjc4bjJmeVdzQXpJTFFnUVU2dldWYm5rZjhoZjB2c1RoVW1uWm1ubkRKdXBRMFU3VGpZYmhPclZqdjB0cFRMTWlfcWVkVktuSEp1VmppNjVKVEdEd2lrc211UVNBZzdreElla0xtSlJ6NjYyRk10dmZRQXBQc1FrMGI1b21DbmVkdEhoMkpfaUpaQ1hpSUNCOW1ZcWRSdHhIUDl3bkxOanQ1RllJVGw0djQ?oc=5",
-   "sources": 4,
-   "recent6h": 3,
+   "title": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
+   "src": "Security Affairs",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5",
+   "sources": 5,
+   "recent6h": 1,
    "score": 5.5,
    "level": "sedang",
-   "first": "2026-11-15T00:25:02Z",
-   "last": "2026-11-15T22:35:18Z",
+   "first": "2026-11-15T05:59:13Z",
+   "last": "2026-11-15T22:38:07Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Outlook Outage Triggers FAA Ground Stop: 4+ Hours Down",
-     "src": "shattered.io",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5",
-     "t_id": "Pemadaman Outlook Memicu Penghentian FAA: 4+ Jam Turun"
+     "t": "Microsoft Outlook Down Again? Users Report Fresh Problems a Day After Microsoft Declared Global Outage Over",
+     "src": "International Business Times Australia",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUptMHItcUlxZ0JDdWZMS193alFqajk0bXYtc1o3Sm9VUmtHXy16REVua1JMd3pRa0ZXUkxocmZnZTVneHJsQk9sTC1LNmI0Q1htNnhYWU1VVFZNTzdacFJiWE0tcGNubGtoRjJWM25SRzFtQ3p3YnM2RWF6VFc3NGdqbkpPZXBwRGFFLVVJcno?oc=5",
+     "t_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
     },
     {
-     "t": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd19hVlBVdmNEMTUxdmdzVkRkdjVJWTVNVkNoU2RIdFQ3OVpwTmJKQkZCRW54RlMycXQybnJMR3IxaEJHQ20tcmIxUEtDUVlPTkNma1l3NHlDRzlic0c3NFZhTEwxSVd2WF9wbjhGOEdSYThMdGVxdXhxaHBxZnZ4NDhHTlZiUWp1MTd6blhNSE1JSmc3cnJhSW16OFRvQjN3bGdnTjhkVkNlejBfUkVWOXIwbnRvVkRUdDBCam5VMNIBxAFBVV95cUxNanVtNGJCT1JyVUZaeUp2VFhTamozLWpYUUh6ekVZbVVjWjM5NWF5Q3lYR0tEX19QNFBVeXV6Rkt5M1J5MWdtaXpYWG1GbGs0ZkluOWowenRvZTM3cHdFeVNlRjlKRzNaaDl6dVkya3JSRzYtcVYwZ0tFR2RqdmhORWFTd0NFamJvdTRCbnh6RjRiT185dk1FSEJENUZUWnhMSERPWHcxUVI5ZGhqUzE0am9FTGRFeXctemgtc18zNEhSR3pu?oc=5",
-     "t_id": "Duffy: Penyelidik memeriksa 2 router setelah penghentian FAA secara nasional, tidak ada tanda-tanda serangan siber asing"
+     "t": "Microsoft Outage exposes critical risks of shared Digital Infrastructure",
+     "src": "Indian Newslink",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM056Sk1qRXNLdTBzWGJfZ1FyejZ2akU0V0o4cC1fSG9TSGJIU0VtUFEwR0VJT01aY0RnUElzV2RQRnFDS0lZT1YxeTFBNXhwSkxLbWt1ME1NSlE4dVlsSTJKWmJHM2JRQl9GVTBNZy0wMUZFdk5SaG42YmZsUVR6b2M3ZWtJTXJQV1FTd1R0Qld4UmQ3S2Z2WWRqWlVtclJucFNNMUJ3NW8?oc=5",
+     "t_id": "Microsoft Outage memaparkan risiko penting dari Infrastruktur Digital bersama"
     },
     {
-     "t": "FAA investigates exact cause of ground stop after telecommunications outage",
-     "src": "Ticker News",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkR5M1FKMHpQM21FZ2tzX1Jkd2RnSnRHYy05YzBzcGFyMFFlSjFBR3pid3FzTWtYVkt4YTBzTHBwQjRYUUNMZGNQWmgyVjlSdEhXWDJmSzU1RG1yMks3dU1JeVBla2JBMmFYdDBacFloN0hnclZqYUxubFByNmhiTzMxZGhNbG94WVJYV2FxN3pZYjM0am8zeFdYc3FWaTA?oc=5",
-     "t_id": "FAA menyelidiki penyebab pasti ground stop setelah pemadaman telekomunikasi"
+     "t": "5 Immediate Lessons From the Global Microsoft Outage",
+     "src": "GovTech",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0tZTGM2WXJ2bER0amxyZ19hRGZjcmJFUUlwWktpM3JnNVlWaS10Q0RBSGoxLXR1Uk5UNzZUcjcyOWVwbEFVTkJmSEN3Q3ZJelRRWWZCekJZRHNxU3VDR3ZqQTg4NFQyUjFjMFIydVZULVVPNEFJcTlsUkdZNVVOSk1mREQyT3BLellyX0o2T2djR1ZSOEVMOG13TEF0RHMzRTZESXAxMXlXYl83?oc=5",
+     "t_id": "5 Pelajaran Langsung dari Pemadaman Microsoft Secara Global"
+    },
+    {
+     "t": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
+     "src": "The News Minute",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGFfbFFGUEVGNUNySkFPbUstSThRRFNiZmpxN2tQSGF0YlVSUHlDN3FVMWhiYlA4Y1dxR0h6clU0UlhaSlk0clROWGRic3NzX1RwU2VTbzVkbEVYdGNQUDhFbWNVZ2RQSzg5dFV4X0ZMVGg4TkV6cF81WTV1VG5ZUDdKNEpXSUNITVozdnNST0RTdHFLclNGbU1wcDlCVEtxSHpvYXhYRXpvVjMwckNBUWRn0gG_AUFVX3lxTE9fU2Z5MklBTC04ZERzbnhJWU4wS2twaU5UYjlCQ01CUUM5YmtEdXAxU0tBUDZwMjZGaE5JcWxIYThtVTNJYmYxSUxMZ0VnOU5aMVd6RG5fUVp6Rnh6Z2MwWW9MS0tYSkJ6Tl8xZEt0dkp1MjZnZFoxcXlwUkZjXzkzTjNXaWxPM053Q0JYNUdiM1dPaEh5bG1jRnJYVkQ4eU1RcjM5SW13VXhLMTl3QzEyY2NLX2s4NUQxbkNWd0Nr?oc=5",
+     "t_id": "Microsoft telah mengalami pemadaman global. Seorang pakar teknologi menjelaskan apa yang salah"
     }
-   ],
-   "title_id": "Ground stop di seluruh negeri dicabut setelah pemadaman kontrol lalu lintas udara membuat ribuan pelancong berada di BNA"
+   ]
   },
   {
    "id": "kesehatan-202611150642-094c",
@@ -213,7 +175,7 @@
    "lang": "en",
    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
    "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXpYXzNoQkdwbmw5Q3A1UWFoSDZUSXMxUVk1S25KRVludFE1QWVpSEhuSGRFY2dsUjllemQ3NjBwaFQ1cUVrdXdxN0pRc1ZwbnVqWlhqSGVZMmpUbVpicWpGSGVqZjRUX2lfYW0waC1MT0Q5UUMxRklibjFhczJKRjBqMjFWRy05RzlZaHRPOE9NT3hJSXVTX19DTFRkejhvXzZvd1FQeEt5R2ZBaWpkRWdB0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
    "sources": 4,
    "recent6h": 2,
    "score": 5.0,
@@ -244,41 +206,102 @@
    "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
   },
   {
-   "id": "siber-202611141522-6287",
+   "id": "perang-202611150334-baa7",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Video | Yemen's Houthi Rebels Release 600 War Detainees Captured In Latest Escalation Of Fighting",
+   "src": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2FJbFZ3X0VLaFNsYVFoQ3pvb1hYMmd3aG5UalJWaEQ2QWhxWGJqeTRlOTBuREdSX29STTRwUjF0U0h1cmlLSDEzYUZpMTFmVWZYY0NwZXhUaW1rSmlnY1JiWXkzWnZVX003dk5hQ0R1ZTJIOXlLX0N5WVRIODNXUlE2YTdTeE5kNHo0WjZYOThLd3F6TFlnWkRrRkoydk43NWcyNXJCeVoyS1NPcWxuYUZCYWZYN1dhOTZaR3RJSXBSdw?oc=5",
+   "sources": 5,
+   "recent6h": 0,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-15T03:34:53Z",
+   "last": "2026-11-15T18:09:18Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
+     "src": "Kurdistan24",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWh1TEZ5YlcyWHZqbkFiMjlaOW50Y0dDS2xzQW5hdHQtX3RYWXROaEZfY0l3TkZnckFKZ0JuRjFJX1ZteHZzd2psbDJyOTNrZnFGUUt1aVpraE1wNEZmUVhiQVdiNTdFMU1pNVJpNGN2aWFiT3Vlajh0dFVMbm9fZ2JXeUMzTC1scVNvWTZDb1Vwc0JaODAyNFpCeEt4eFlQQUxCUUJaMHAwN3BER1kzQ0lpRnZwT1ZK?oc=5",
+     "t_id": "Serangan Rudal Houthi Tewaskan Lima Orang di Dekat Aden Yaman Saat Pertempuran Meningkat"
+    },
+    {
+     "t": "5 Civilians Killed in Houthi Missile Attack Near Yemen's Aden",
+     "src": "Sada Elbalad English",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnViRE5KVThCeDBsNjBJcjl1dTU2Vkl4X3g3bUtWWWdIcy1BMXRGZjJNZmxaV1lTTHNaNklUWVRoTFpFdkF0Q2lvYVppdmZuT0VEMzg5OXBqVEJPZlplTHFqVXdzWGcwVGVROWRQUDVtcjdUUWM5NE1xSi1KLVFoUXJhWQ?oc=5",
+     "t_id": "5 Warga Sipil Tewas dalam Serangan Rudal Houthi Dekat Aden Yaman"
+    },
+    {
+     "t": "Yemen reports deadly market attack in Taiz, announces missile and drone strikes on Saudi-backed forces",
+     "src": "ABNA English",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2kyZ245U3NjQ01fY1FqdGNHME1CdmttWEppcW82S1Q3azhaSWJiZXNXVWNXbG81ZWQ2SHk0bktUOWdNSmVnaHlIc2ZxX0M3Vl9qTnB4OU1wa2NvQTRvRkRhOG13TDhHMWFkcUNuMXhoTnY1eERMc0RUMDhzME5HRGZKUGg2VF85OG9haUlYR2U1aVJTVTFJbWNTbw?oc=5",
+     "t_id": "Yaman melaporkan serangan pasar yang mematikan di Taiz, mengumumkan serangan rudal dan drone terhadap pasukan yang didukung Saudi"
+    },
+    {
+     "t": "West Asia Conflict Escalates as Drone and Missile Strikes Hit Baghdad and Doha",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NkV3BXbGtQSmhEdUp6Q0k1S1hBSERyQnF0X2xvckdpaE4tSGphWElNVE9ZVGR4dFpHX0NOZHEtUlZmV0dVaHNhT1VLaXhWTnM4Sm5jUnNFVXBzNHd0dUFYbWlqSGJ3SjhLLWZmODN0enU2TEhOZEJKODJ0WGxhc1VQbmFfS3htRGxyWFhjX3lLTy1KSjltV05waGNYVExRdHFZcUtXaw?oc=5",
+     "t_id": "Konflik Asia Barat Meningkat seiring Serangan Drone dan Rudal Menghantam Bagdad dan Doha"
+    }
+   ],
+   "title_id": "Video | Pemberontak Houthi Yaman Membebaskan 600 Tahanan Perang yang Ditangkap dalam Eskalasi Pertempuran Terbaru"
+  },
+  {
+   "id": "siber-202611150025-1c90",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Microsoft Outlook Down Again? Users Report Fresh Problems a Day After Microsoft Declared Global Outage Over",
-   "src": "International Business Times Australia",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUptMHItcUlxZ0JDdWZMS193alFqajk0bXYtc1o3Sm9VUmtHXy16REVua1JMd3pRa0ZXUkxocmZnZTVneHJsQk9sTC1LNmI0Q1htNnhYWU1VVFZNTzdacFJiWE0tcGNubGtoRjJWM25SRzFtQ3p3YnM2RWF6VFc3NGdqbkpPZXBwRGFFLVVJcno?oc=5",
-   "sources": 4,
-   "recent6h": 0,
+   "title": "Nationwide ground stop lifted after air traffic control outage strands thousands of travelers at BNA",
+   "src": "News Channel 5 Nashville",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRE9XWnpEb1RiMV9SNVdHV1FteHJhNGU2MTFlZWpYSjc4bjJmeVdzQXpJTFFnUVU2dldWYm5rZjhoZjB2c1RoVW1uWm1ubkRKdXBRMFU3VGpZYmhPclZqdjB0cFRMTWlfcWVkVktuSEp1VmppNjVKVEdEd2lrc211UVNBZzdreElla0xtSlJ6NjYyRk10dmZRQXBQc1FrMGI1b21DbmVkdEhoMkpfaUpaQ1hpSUNCOW1ZcWRSdHhIUDl3bkxOanQ1RllJVGw0djQ?oc=5",
+   "sources": 3,
+   "recent6h": 2,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-14T15:22:18Z",
-   "last": "2026-11-15T14:43:17Z",
+   "first": "2026-11-15T00:25:02Z",
+   "last": "2026-11-15T22:35:18Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Microsoft Outage exposes critical risks of shared Digital Infrastructure",
-     "src": "Indian Newslink",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM056Sk1qRXNLdTBzWGJfZ1FyejZ2akU0V0o4cC1fSG9TSGJIU0VtUFEwR0VJT01aY0RnUElzV2RQRnFDS0lZT1YxeTFBNXhwSkxLbWt1ME1NSlE4dVlsSTJKWmJHM2JRQl9GVTBNZy0wMUZFdk5SaG42YmZsUVR6b2M3ZWtJTXJQV1FTd1R0Qld4UmQ3S2Z2WWRqWlVtclJucFNNMUJ3NW8?oc=5",
-     "t_id": "Microsoft Outage memaparkan risiko penting dari Infrastruktur Digital bersama"
+     "t": "Outlook Outage Triggers FAA Ground Stop: 4+ Hours Down",
+     "src": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5",
+     "t_id": "Pemadaman Outlook Memicu Penghentian FAA: 4+ Jam Turun"
     },
     {
-     "t": "5 Immediate Lessons From the Global Microsoft Outage",
-     "src": "GovTech",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0tZTGM2WXJ2bER0amxyZ19hRGZjcmJFUUlwWktpM3JnNVlWaS10Q0RBSGoxLXR1Uk5UNzZUcjcyOWVwbEFVTkJmSEN3Q3ZJelRRWWZCekJZRHNxU3VDR3ZqQTg4NFQyUjFjMFIydVZULVVPNEFJcTlsUkdZNVVOSk1mREQyT3BLellyX0o2T2djR1ZSOEVMOG13TEF0RHMzRTZESXAxMXlXYl83?oc=5",
-     "t_id": "5 Pelajaran Langsung dari Pemadaman Microsoft Secara Global"
-    },
-    {
-     "t": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
-     "src": "The News Minute",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGFfbFFGUEVGNUNySkFPbUstSThRRFNiZmpxN2tQSGF0YlVSUHlDN3FVMWhiYlA4Y1dxR0h6clU0UlhaSlk0clROWGRic3NzX1RwU2VTbzVkbEVYdGNQUDhFbWNVZ2RQSzg5dFV4X0ZMVGg4TkV6cF81WTV1VG5ZUDdKNEpXSUNITVozdnNST0RTdHFLclNGbU1wcDlCVEtxSHpvYXhYRXpvVjMwckNBUWRn0gG_AUFVX3lxTE9fU2Z5MklBTC04ZERzbnhJWU4wS2twaU5UYjlCQ01CUUM5YmtEdXAxU0tBUDZwMjZGaE5JcWxIYThtVTNJYmYxSUxMZ0VnOU5aMVd6RG5fUVp6Rnh6Z2MwWW9MS0tYSkJ6Tl8xZEt0dkp1MjZnZFoxcXlwUkZjXzkzTjNXaWxPM053Q0JYNUdiM1dPaEh5bG1jRnJYVkQ4eU1RcjM5SW13VXhLMTl3QzEyY2NLX2s4NUQxbkNWd0Nr?oc=5",
-     "t_id": "Microsoft telah mengalami pemadaman global. Seorang pakar teknologi menjelaskan apa yang salah"
+     "t": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd19hVlBVdmNEMTUxdmdzVkRkdjVJWTVNVkNoU2RIdFQ3OVpwTmJKQkZCRW54RlMycXQybnJMR3IxaEJHQ20tcmIxUEtDUVlPTkNma1l3NHlDRzlic0c3NFZhTEwxSVd2WF9wbjhGOEdSYThMdGVxdXhxaHBxZnZ4NDhHTlZiUWp1MTd6blhNSE1JSmc3cnJhSW16OFRvQjN3bGdnTjhkVkNlejBfUkVWOXIwbnRvVkRUdDBCam5VMNIBxAFBVV95cUxNanVtNGJCT1JyVUZaeUp2VFhTamozLWpYUUh6ekVZbVVjWjM5NWF5Q3lYR0tEX19QNFBVeXV6Rkt5M1J5MWdtaXpYWG1GbGs0ZkluOWowenRvZTM3cHdFeVNlRjlKRzNaaDl6dVkya3JSRzYtcVYwZ0tFR2RqdmhORWFTd0NFamJvdTRCbnh6RjRiT185dk1FSEJENUZUWnhMSERPWHcxUVI5ZGhqUzE0am9FTGRFeXctemgtc18zNEhSR3pu?oc=5",
+     "t_id": "Duffy: Penyelidik memeriksa 2 router setelah penghentian FAA secara nasional, tidak ada tanda-tanda serangan siber asing"
     }
    ],
-   "title_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
+   "title_id": "Ground stop di seluruh negeri dicabut setelah pemadaman kontrol lalu lintas udara membuat ribuan pelancong berada di BNA"
+  },
+  {
+   "id": "perang-202611150426-38d2",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Houthis claim missile attack on Riyadh airport",
+   "src": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHBmc2daOENYRXdjbHl0RE5GaFZtR2tKTGI5Ry1vQTNnQnF5UGszUDFYQXFtQ25WdmV0TWtXc001QlQ2bkY4Y0tIdnRQMjlzTUJPOVlnSVRpeFRzQmNydHhSX0RzcVFhSXJHRDRreHM2VWRGQXcxLWNBcXlkcHVaXzlTYjlTUHliTmd3NjVGazRIdTNuNV9oLURRRTlRLW92THJGd2FCYmo0ZHZzRTVfYmUtaU1FbXZEYTBjeHlB?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-15T03:34:53Z",
+   "last": "2026-11-15T18:20:30Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Yemen : Houthis Accused of Ballistic Missile Attack on School Sheltering Displaced Families in Lahj",
+     "src": "Yemen Online",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWDBaUmJwQjk1ak1YOHA3WUlSblZ1d3I2U25fZlRGTkw5aGJtU1NKTkN0SWFqcGpSdTZ3YkZwTjNpZGNONmwzd01HNlJaSlQ1aENvaEplalV1OENXWkhCT1JVcU1pMjg?oc=5"
+    }
+   ],
+   "title_id": "Houthi mengklaim serangan rudal di bandara Riyadh"
   },
   {
    "id": "indonesia-202611150300-acea",
