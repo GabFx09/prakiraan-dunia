@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T05:08:22Z",
+ "updatedAt": "2026-11-16T05:23:51Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -37,8 +37,8 @@
     },
     {
      "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczVGOHAzUENEVHpzT3BVcTlZdnFjSXZpSU91S3ZsQUZhSVI3LVYzUVlTV1V2WXQ3WUNNVzN6ZVpsRFJJMzJ2ZHY5Vm1MNTBDSXZrSS0yc0YzaFRoNWpOSEZfMUVCWmhHRTNrdi1mbDU3VFNlQkNBX2J3a09laDFWcmZZVzNYT2tmeU1wS1hnS2dZa2VfUFVrMWI3WE1TN1FnSThlZEJCV04zVWt2NEdWM1F0R29WMjRSZE5r?oc=5",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
      "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
     }
    ],
@@ -127,6 +127,34 @@
    "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
   },
   {
+   "id": "politik-202611160500-0aa3",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Will Spain’s snap election in November bring a far-right party into government?",
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0xzb3YxVWdRaUUwUjlhRkhrTWNsTmJ0T3ZuV04zWW9xZGVjQURBYXpxZERfZmU5Mm1jdWY2d3NGSzZRM3VXd1hVN3RXVXNKYm9JaXdXaGxNNkh0WVI4Y0Q5elc3WmNROGVJdC0zcXAzUWRwWk9Jb09yYXd4ZDJLWkdCRTN5UjFOamRFWHUyX3pRQmtHRzQwSmhOM1U2T3RQNmtmcWRQTWRQV2hSRV8tMXNCcmZmT1MzRTd0NURJVWc?oc=5",
+   "sources": 3,
+   "recent6h": 3,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-16T05:00:00Z",
+   "last": "2026-11-16T05:20:38Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain to hold snap election on November 29 — The Guardian",
+     "src": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmZZMjdVanFvaDFJZjY2TnQ0Tm9waUdVMmtPaDlaRjNZcVg5YTJBNHFZMW93OGU0Nl9zRWpBZGlwLVY2STlDNzNVLUp3MU1hVnRUazY3NFU5R2wxOFFKT19xcE92aTlwcGlnN1Y4UUlONzNoWlVXc2NkQnJ0OHprQkpGY2lXT3NfWDdIWFI4WXNrN1pmalFiUQ?oc=5"
+    },
+    {
+     "t": "Will Spain’s snap election in November bring a far-right party into government?",
+     "src": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM08welBsci03VEJzampzM0Y5d1ZmMGU4a3lIeGFYYkNNZjRhZzNIUmtubS1FMDNEMHUyV0c4V0FiLTNsNWxoZnZCZmtWRVpWcVhEM3VfMV9Mb1VLVUVPOVFvcHV1TlJBbnhObzZuc3d6M3VmSGxlMXYwSFVHd3Vxdjhn?oc=5"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611150321-fcbf",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -166,7 +194,7 @@
    "lang": "en",
    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
    "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXpYXzNoQkdwbmw5Q3A1UWFoSDZUSXMxUVk1S25KRVludFE1QWVpSEhuSGRFY2dsUjllemQ3NjBwaFQ1cUVrdXdxN0pRc1ZwbnVqWlhqSGVZMmpUbVpicWpGSGVqZjRUX2lfYW0waC1MT0Q5UUMxRklibjFhczJKRjBqMjFWRy05RzlZaHRPOE9NT3hJSXVTX19DTFRkejhvXzZvd1FQeEt5R2ZBaWpkRWdB0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
    "sources": 4,
    "recent6h": 0,
    "score": 4.0,
@@ -287,6 +315,29 @@
      "src": "Men's Journal",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0N3aEdqSEQ0ZG9hd0NCYXJlQmdBeWNRVWVOQnlVM3I4RmU1RnRyck50SDdWbzVxM0tCY2pBQVpVN1ZqekpodFNkNE1aSmlIaG5jWHV6a1E2V1ZYVFR0bUY3SUgxVG5tS3Z2QlVTWkZXaDBvTW1Zc3pYellDUjJuckhaZ09IdjVh?oc=5",
      "t_id": "Pembatalan Pemadaman FAA Mencapai 15.000 karena JetBlue Memotong Lebih dari Seperempat Penerbangan Hari Minggunya"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611152321-a1e9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1k3NUhZNy1SeFNkMVB3THZEMGtZMnRObVVEUTZoQzNhX0VqRkRyQUo1Tnd5RjZfdzBsNVd6d3U4ZUtuRUxEZWxzZC1Da3RZa0doQ21RdmszOE5XM1NJZDdUQV83VnExcE5nZk93ZS1WYkYtNjNqVG9HZENmM2FxSjJ2MXd3Sm84X1E5UTZZUVVfYm1KTHlkZ25xOGFUR2Y3enB4a09faGlHWWZY?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-15T23:21:00Z",
+   "last": "2026-11-16T03:45:55Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Americans fear the worst amid Pentagon doomsday prepping, Black October, email outage, airport chaos",
+     "src": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRWg3RWFHYkVmR1J0SEltSWIxX2xnMnZLS3F4dHlyVWhSaElzb21veUxtT3VGQVJWaVN5cTEyUE95ek1RLWJJMzlMX1pRM1g4b0VrR193VFdUaWprZkllSXgyMWRiWmlncnpiQ295VGF4aGliRnBPOF9lcGZSVUN0VlFqYVgxR01RcUZzR1gwcnJzcW9vNWNfbWNaUzVHZWNTQzdxbjA2NmttdThxOTRETVlEcjBIMm1oYVU0S2xhQkhUR0ZaQzlhUU1EbHQ4VFVaVXcyOWpCdXVWaVhBSU1ETnpDNHVTVVYtTWlZ?oc=5"
     }
    ]
   },
