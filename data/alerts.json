@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-16T07:02:50Z",
+ "updatedAt": "2026-11-16T22:35:47Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "ev-siber-202611161838-ae67",
+   "time": "2026-11-16T22:35:47Z",
+   "orig": "Major U.S. banks report widespread service outages",
+   "level": "penting",
+   "kind": "peristiwa",
+   "title": "🌍 Siber/gangguan sistem: Major U.S. banks report widespread service outages",
+   "body": "Diberitakan 7 media (CBS News). Biasanya berdampak ke: Saham teknologi & perusahaan terdampak. Berita lain: Chase says a software bug, not a cyberattack, caused the outage that spread to customers of other big US banks (MLQ.ai); Chase, Bank of America, and other major banks suffer online outages (Yahoo Finance UK)",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5"
+  },
   {
    "id": "ev-transportasi-202611151313-a343",
    "time": "2026-11-16T07:02:50Z",
@@ -97,6 +107,7 @@
   "ev-perang-202611141000-7732",
   "ev-perang-202611150437-38d2",
   "ev-siber-202611131741-4d50",
+  "ev-siber-202611161838-ae67",
   "ev-transportasi-202611132107-1b92",
   "ev-transportasi-202611132141-927a",
   "ev-transportasi-202611151313-a343",
