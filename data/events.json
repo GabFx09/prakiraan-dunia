@@ -1,7 +1,49 @@
 {
- "updatedAt": "2026-11-16T03:58:51Z",
+ "updatedAt": "2026-11-16T04:09:45Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "transportasi-202611142127-05bd",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "What we know about the US ground stop and what to do if your flight is affected",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
+   "sources": 10,
+   "recent6h": 0,
+   "score": 10.0,
+   "level": "besar",
+   "first": "2026-11-14T21:27:00Z",
+   "last": "2026-11-15T20:51:02Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEkxWS1FQmNqZHQ0UjluR3FaUVFMS0VxSlQzQURPUEhnUFZnTlhIMlREbXc3TllNNGVFa3dMdWJNUk1xbFR5UnhGdW5iMVZncms4T1dqQ29UR0ZRYXh3dFVORkp1S3IzMUV1LXNtb0FoSGxUT1FkajdxU05jbF9DNDExc2MwYVZTa2RoSW9SaDlBcGJkMXpRankzbkNtcVF0WjgzNtIBqgFBVV95cUxPa0RnWlk5cllod2l3VWxWZEI2Zzk0OU1TcTRYdHBXbU5ObVkzRDhvcjFRLWo1T3IzOU5ZYTZ5bDlEQ0hjZU5rOV9SZTVrWW9Fa0NlclduT2FpVHVWd0h3NzZWU05xUUF1SUM0UzdNQ1Vic2ZOdWdZQ2lpaTlfSEV1NDhZWFZWcXlYc2pTcnRBZTBJdGdxdWhTNjRpbHJnS1pMLXZyQXM4N3AxQQ?oc=5"
+    },
+    {
+     "t": "FAA Ground Stop Update: More Than 14,000 Flights Canceled As Officials Identify Possible Source Of Nationwide Aviation Shutdown",
+     "src": "Bossip",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HcjZFcnNHYS00NmZfZW4ybHBMdkpNb0N2QlNPSk9aRXR0azlNQWtBR1BQalF5aUlkN1VrZERWWVVuOWVuMGxqVE9MOTViVTg3dU9QU3lfT01SY2dUZlVn?oc=5",
+     "t_id": "Pembaruan Ground Stop FAA: Lebih dari 14,000 Penerbangan Dibatalkan Saat Para Pejabat Mengidentifikasi Kemungkinan Sumber Penghentian Penerbangan Nasional"
+    },
+    {
+     "t": "What the nationwide ground stop means for holiday travel",
+     "src": "FOX 5 Atlanta",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iY1RvbmhNRFFxQS1nb25PMUZlNS04dFdQLUY3RmlCQW1tc0duM3FvUmJxazdpaFBfazdScWhYWGJJczREVVVqbERWV3gzTVhGVmhmMS12Sm9yZWxrRDZPQ2VHYUbSAWpBVV95cUxQWHVPU2N1ZXNkWGpzdFJZSk9renlKa3RXdGhOblJiQ2ZfUXNDVXh3WDczX1YtVWhPUnYwTzUwa0dYYXVaY2JMWUpRWldfVnpDcnY1OEhiSjJoUmR2NHVPSXg2dVhPR0xKODlB?oc=5",
+     "t_id": "Apa arti pemberhentian nasional bagi perjalanan liburan"
+    },
+    {
+     "t": "FAA Ground Stop: Latest Airline Advice As More Than 1,000 Flights Canceled",
+     "src": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmlpamoxSXV1ZFJlUUJNNFVTazVTQkQ1WmFmTENqUGE0LUxSMm5HZkEwOWJzWG1DWXFxaWhoaFJvMWYwQk5KX0NLUzh3VlBNU3dOQkZQeW5RZWVwNlhyYTlyRDBGZ3RhZUpVM3pDMW5aYnhwNExDeEs4WWRPUGlDVF9mSlF6Q19mOEltS1d4V2x4djI1b0ZV?oc=5",
+     "t_id": "FAA Ground Stop: Saran Maskapai Terbaru Karena Lebih dari 1.000 Penerbangan Dibatalkan"
+    }
+   ],
+   "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
+  },
   {
    "id": "perang-202611150532-3b31",
    "cat": "perang",
@@ -83,48 +125,6 @@
    ]
   },
   {
-   "id": "transportasi-202611142127-05bd",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "What we know about the US ground stop and what to do if your flight is affected",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "sources": 9,
-   "recent6h": 0,
-   "score": 9.0,
-   "level": "besar",
-   "first": "2026-11-14T21:27:00Z",
-   "last": "2026-11-15T20:51:02Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEkxWS1FQmNqZHQ0UjluR3FaUVFMS0VxSlQzQURPUEhnUFZnTlhIMlREbXc3TllNNGVFa3dMdWJNUk1xbFR5UnhGdW5iMVZncms4T1dqQ29UR0ZRYXh3dFVORkp1S3IzMUV1LXNtb0FoSGxUT1FkajdxU05jbF9DNDExc2MwYVZTa2RoSW9SaDlBcGJkMXpRankzbkNtcVF0WjgzNtIBqgFBVV95cUxPa0RnWlk5cllod2l3VWxWZEI2Zzk0OU1TcTRYdHBXbU5ObVkzRDhvcjFRLWo1T3IzOU5ZYTZ5bDlEQ0hjZU5rOV9SZTVrWW9Fa0NlclduT2FpVHVWd0h3NzZWU05xUUF1SUM0UzdNQ1Vic2ZOdWdZQ2lpaTlfSEV1NDhZWFZWcXlYc2pTcnRBZTBJdGdxdWhTNjRpbHJnS1pMLXZyQXM4N3AxQQ?oc=5"
-    },
-    {
-     "t": "FAA Ground Stop Update: More Than 14,000 Flights Canceled As Officials Identify Possible Source Of Nationwide Aviation Shutdown",
-     "src": "Bossip",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HcjZFcnNHYS00NmZfZW4ybHBMdkpNb0N2QlNPSk9aRXR0azlNQWtBR1BQalF5aUlkN1VrZERWWVVuOWVuMGxqVE9MOTViVTg3dU9QU3lfT01SY2dUZlVn?oc=5",
-     "t_id": "Pembaruan Ground Stop FAA: Lebih dari 14,000 Penerbangan Dibatalkan Saat Para Pejabat Mengidentifikasi Kemungkinan Sumber Penghentian Penerbangan Nasional"
-    },
-    {
-     "t": "What the nationwide ground stop means for holiday travel",
-     "src": "FOX 5 Atlanta",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iY1RvbmhNRFFxQS1nb25PMUZlNS04dFdQLUY3RmlCQW1tc0duM3FvUmJxazdpaFBfazdScWhYWGJJczREVVVqbERWV3gzTVhGVmhmMS12Sm9yZWxrRDZPQ2VHYUbSAWpBVV95cUxQWHVPU2N1ZXNkWGpzdFJZSk9renlKa3RXdGhOblJiQ2ZfUXNDVXh3WDczX1YtVWhPUnYwTzUwa0dYYXVaY2JMWUpRWldfVnpDcnY1OEhiSjJoUmR2NHVPSXg2dVhPR0xKODlB?oc=5",
-     "t_id": "Apa arti pemberhentian nasional bagi perjalanan liburan"
-    },
-    {
-     "t": "FAA Ground Stop: Latest Airline Advice As More Than 1,000 Flights Canceled",
-     "src": "Newsweek",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmlpamoxSXV1ZFJlUUJNNFVTazVTQkQ1WmFmTENqUGE0LUxSMm5HZkEwOWJzWG1DWXFxaWhoaFJvMWYwQk5KX0NLUzh3VlBNU3dOQkZQeW5RZWVwNlhyYTlyRDBGZ3RhZUpVM3pDMW5aYnhwNExDeEs4WWRPUGlDVF9mSlF6Q19mOEltS1d4V2x4djI1b0ZV?oc=5",
-     "t_id": "FAA Ground Stop: Saran Maskapai Terbaru Karena Lebih dari 1.000 Penerbangan Dibatalkan"
-    }
-   ],
-   "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
-  },
-  {
    "id": "siber-202611150559-496a",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -132,14 +132,19 @@
    "title": "Microsoft outage exposes cracks in Australia's defence armour",
    "src": "Big News Network.com",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkxLTXAyZEVtbERZaGJDTXBxakRZb192cTdPTUstUEtXS1o1VzVJOWwxbmNsN2pDWEtkcm5oNUJJSjBadktvWVdnY3BHdUMyWEl0TFZJc1UtYVZQbmtlT2tMNW5ERWlhSEVoT1FpWm85bUJKa210OXJKUjlVeVlKLWFOeFhjV3NPZl9BZjZiaGszcXkwM3ZQRGtFRkJRTUhHZXNpalFUQ18?oc=5",
-   "sources": 5,
-   "recent6h": 1,
-   "score": 5.5,
-   "level": "sedang",
+   "sources": 7,
+   "recent6h": 2,
+   "score": 8.0,
+   "level": "besar",
    "first": "2026-11-15T05:59:13Z",
    "last": "2026-11-16T01:00:00Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
+     "src": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5"
+    },
     {
      "t": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
      "src": "PBS",
@@ -152,16 +157,10 @@
      "t_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
     },
     {
-     "t": "5 Immediate Lessons From the Global Microsoft Outage",
-     "src": "GovTech",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0tZTGM2WXJ2bER0amxyZ19hRGZjcmJFUUlwWktpM3JnNVlWaS10Q0RBSGoxLXR1Uk5UNzZUcjcyOWVwbEFVTkJmSEN3Q3ZJelRRWWZCekJZRHNxU3VDR3ZqQTg4NFQyUjFjMFIydVZULVVPNEFJcTlsUkdZNVVOSk1mREQyT3BLellyX0o2T2djR1ZSOEVMOG13TEF0RHMzRTZESXAxMXlXYl83?oc=5",
-     "t_id": "5 Pelajaran Langsung dari Pemadaman Microsoft Secara Global"
-    },
-    {
-     "t": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
-     "src": "The News Minute",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGFfbFFGUEVGNUNySkFPbUstSThRRFNiZmpxN2tQSGF0YlVSUHlDN3FVMWhiYlA4Y1dxR0h6clU0UlhaSlk0clROWGRic3NzX1RwU2VTbzVkbEVYdGNQUDhFbWNVZ2RQSzg5dFV4X0ZMVGg4TkV6cF81WTV1VG5ZUDdKNEpXSUNITVozdnNST0RTdHFLclNGbU1wcDlCVEtxSHpvYXhYRXpvVjMwckNBUWRn0gG_AUFVX3lxTE9fU2Z5MklBTC04ZERzbnhJWU4wS2twaU5UYjlCQ01CUUM5YmtEdXAxU0tBUDZwMjZGaE5JcWxIYThtVTNJYmYxSUxMZ0VnOU5aMVd6RG5fUVp6Rnh6Z2MwWW9MS0tYSkJ6Tl8xZEt0dkp1MjZnZFoxcXlwUkZjXzkzTjNXaWxPM053Q0JYNUdiM1dPaEh5bG1jRnJYVkQ4eU1RcjM5SW13VXhLMTl3QzEyY2NLX2s4NUQxbkNWd0Nr?oc=5",
-     "t_id": "Microsoft telah mengalami pemadaman global. Seorang pakar teknologi menjelaskan apa yang salah"
+     "t": "Microsoft Outage exposes critical risks of shared Digital Infrastructure",
+     "src": "Indian Newslink",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM056Sk1qRXNLdTBzWGJfZ1FyejZ2akU0V0o4cC1fSG9TSGJIU0VtUFEwR0VJT01aY0RnUElzV2RQRnFDS0lZT1YxeTFBNXhwSkxLbWt1ME1NSlE4dVlsSTJKWmJHM2JRQl9GVTBNZy0wMUZFdk5SaG42YmZsUVR6b2M3ZWtJTXJQV1FTd1R0Qld4UmQ3S2Z2WWRqWlVtclJucFNNMUJ3NW8?oc=5",
+     "t_id": "Microsoft Outage memaparkan risiko penting dari Infrastruktur Digital bersama"
     }
    ]
   },
