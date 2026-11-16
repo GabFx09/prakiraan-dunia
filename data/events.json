@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T10:16:04Z",
+ "updatedAt": "2026-11-16T10:50:49Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,20 @@
    "title": "What we know about the US ground stop and what to do if your flight is affected",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "sources": 7,
-   "recent6h": 1,
-   "score": 7.5,
+   "sources": 9,
+   "recent6h": 2,
+   "score": 10.0,
    "level": "besar",
    "first": "2026-11-14T21:27:00Z",
-   "last": "2026-11-16T06:40:23Z",
+   "last": "2026-11-16T10:00:00Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+     "src": "Bedford Gazette",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc2x3V095eXAxNkZGd1JvT3hKOTZDSWlVRmdTbWVpTFI1ODBtZVhmNDFFVHhGc1l1VkYtYzFXQ0FDaXJDbVgyN240YWpKNUZpY1pzNGdIcnNQN1czaUtNem9mazlkTGg2WERiR2lja0N0b1lERE1kdVBPdm56eWJtTld3Tlljc3VUX3RFNkZtOGZJUi1fZWpLZ016WjczYzctS3FGU3pnNll2WGNpUmU5WHRFMlVKMDcwZmRWbEdYWFVablgteUx2NHljcERhWVBtcnlBRW9IWHJ5WEZsaHo3ZjRNTjc1Smpnc2VvbFdNREZrdWJ2MWdVOGUzellnYzhBMzJQMldvMA?oc=5",
+     "t_id": "Bisakah semuanya rusak? Jet yang dilarang terbang, pemadaman Microsoft, kekacauan AI membuat beberapa orang bertanya-tanya"
+    },
     {
      "t": "FAA Nationwide Ground Stop: Router Failure Triggers 12,462 Cancellations",
      "src": "Travel Tourister",
@@ -35,12 +41,6 @@
      "src": "Katie Couric Media",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR09xMDh3X1VIa3Rpd3FhczRFMUZmVFlxZ2tLUElkRHkybXFFYmYtU1BaMHRvODBDU25acGdtNWtyQXJ2UmxFU2pwM3J5R0pxUGNJUGhDMmtrcWZPcDJLdk1QUTZVcjlWc3F4UWNTTzJycHVWU0RyQjBLdUVYN2xENkVSYXpteXUxUnc?oc=5",
      "t_id": "Akhir Pekan Kekacauan: Mengapa FAA Melakukan Penerbangan Darat ke Seluruh Negeri?"
-    },
-    {
-     "t": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEkxWS1FQmNqZHQ0UjluR3FaUVFMS0VxSlQzQURPUEhnUFZnTlhIMlREbXc3TllNNGVFa3dMdWJNUk1xbFR5UnhGdW5iMVZncms4T1dqQ29UR0ZRYXh3dFVORkp1S3IzMUV1LXNtb0FoSGxUT1FkajdxU05jbF9DNDExc2MwYVZTa2RoSW9SaDlBcGJkMXpRankzbkNtcVF0WjgzNtIBqgFBVV95cUxPa0RnWlk5cllod2l3VWxWZEI2Zzk0OU1TcTRYdHBXbU5ObVkzRDhvcjFRLWo1T3IzOU5ZYTZ5bDlEQ0hjZU5rOV9SZTVrWW9Fa0NlclduT2FpVHVWd0h3NzZWU05xUUF1SUM0UzdNQ1Vic2ZOdWdZQ2lpaTlfSEV1NDhZWFZWcXlYc2pTcnRBZTBJdGdxdWhTNjRpbHJnS1pMLXZyQXM4N3AxQQ?oc=5",
-     "t_id": "Garis waktu pemberhentian FAA: Kekacauan akhir pekan menghentikan pesawat dan menunda pertandingan"
     }
    ],
    "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
@@ -50,17 +50,23 @@
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "US Flight Cancellations Top 17,000 in Worst Tech-Related Outage - Other Media news - Tasnim News Agency",
-   "src": "تسنیم",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0N2enZhNkhCbXpMSGU5RmpaZExHUFpTREZBTVpHRjhraDNKWllmZ2k1bjlqNk96QV9GTlJ0TDV1QXYwLUpnRzBsd3AxOUdtMmpGMVczMWFBSTRuVzdSLWliR1FiR1NOSWhlRENiVU1CRlVHdF9fMzRKeTRkSW1uZmx3XzhzOHk1ckQ5TW05NF9fWWd0U3JfNDRxRnJDOE9sSjB1TTZCcnpnTTJwUG53WF9wWmtuRG8?oc=5",
-   "sources": 5,
-   "recent6h": 4,
-   "score": 7.0,
-   "level": "sedang",
+   "title": "US Flight Cancellations Top 17,000 in Worst Tech-Related Outage",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGVSb2RteVJqbWpLUU5sZnJXQXZQakNoT1dtYnRNbzNZOU9IWnBKWC1lb0lnQ2NfMnpmTl9HMDB1aWZld1pOTVBFdDBXeWpOVVRaN2Z1TUVmaWNSVFYtLThvOUVidERZZmRoRnJhZ2pnUzBrRjNLTGhmUk51TkdYMU1KQVRIMjl4V3VfS19LVEZ5V2k1bkx6SkhGUFRJWnVmeFFac3RxT3hvNkl5Q0w2bUdxVnE?oc=5",
+   "sources": 7,
+   "recent6h": 5,
+   "score": 9.5,
+   "level": "besar",
    "first": "2026-11-15T13:13:02Z",
    "last": "2026-11-16T08:20:36Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "US Flight Cancellations Top 17,000 in Worst Tech-Related Outage - Other Media news - Tasnim News Agency",
+     "src": "تسنیم",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0N2enZhNkhCbXpMSGU5RmpaZExHUFpTREZBTVpHRjhraDNKWllmZ2k1bjlqNk96QV9GTlJ0TDV1QXYwLUpnRzBsd3AxOUdtMmpGMVczMWFBSTRuVzdSLWliR1FiR1NOSWhlRENiVU1CRlVHdF9fMzRKeTRkSW1uZmx3XzhzOHk1ckQ5TW05NF9fWWd0U3JfNDRxRnJDOE9sSjB1TTZCcnpnTTJwUG53WF9wWmtuRG8?oc=5",
+     "t_id": "Pembatalan Penerbangan di AS Mencapai 17.000 Orang dalam Gangguan Terburuk Terkait Teknologi - Berita Media Lainnya - Kantor Berita Tasnim"
+    },
     {
      "t": "US Flight Cancellations Top 17,000 After Nationwide Air Traffic Outage",
      "src": "BusinessToday Malaysia",
@@ -68,68 +74,19 @@
      "t_id": "Pembatalan Penerbangan di AS Mencapai 17.000 Setelah Pemadaman Lalu Lintas Udara Nasional"
     },
     {
+     "t": "US sees worst tech-related outage in 35 years as flight cancellations top 17,000",
+     "src": "The Business Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTVqdHluMThnS2ROdHRsRjNTelNpcEFyQ09GOTREdEc1c1N5dXR4SjdMZGxnZG81YUtjUW95b05zbTVEOXZvUUNqcFd0VFUyekZvSmt3dHZoeExFQVRFLWlPS2E4UXAybnFFNXE0Q1RpcXRpdHhnRXJXX3hzVDFmc0pXdWVwUlpsRHI4anN1QzB2TVItMFhPbWd6WjVsRFFGeG9UZWxOYkJZTXhTR2luZTE2SkpSdEh3QnVjbQ?oc=5",
+     "t_id": "AS mengalami pemadaman terkait teknologi terburuk dalam 35 tahun karena pembatalan penerbangan mencapai 17.000"
+    },
+    {
      "t": "Over 17,000 flights cancelled as US air traffic hit by worst outage in 35 years | World News",
      "src": "Hindustan Times",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2c2RlM4dTNraVc0YmxKNzR2UWpxQjFtNzU2LUIyaHVUcWxsUUg0WkEtT1VXWVRWSnNGS2xIcEtnNUhKb3RCNi1BekEzZlpoa1liMU03dHk4bGdUclhsb0JBWVhzMWRLN0dvTlFSaU9CRTBTMmt3ZUVZcTRIbUw3bmRyak50Y2NPamFTMjc5Ql91QVNHQkpCTGZ2S3lpV3NsNEtEM2tmSkxyamNLN1JObm9oLTh2aWxXM3cxN2JHRks4Ry1tb1VnT2wtbFBZLTVOVjNDbjlKaS00RE02Tkdv0gHfAUFVX3lxTE1nZzZGUzh1M2tpVzRibEo3NHZRanFCMW03NTYtQjJodVRxbGxRSDRaQS1PVVdZVFZKc0ZLbEhwS2c1SEpvdEI2LUF6QTNmWmhrWWIxTTd0eThsZ1RyWGxvQkFZWHMxZEs3R29OUVJpT0JFMFMya3dlRVlxNEhtTDduZHJqTnRjY09qYVMyNzlCX3VBU0dCSkJMZnZLeWlXc2w0S0Qza2ZKTHJqY0s3Uk5ub2gtOHZpbFczdzE3YkdGSzhHLW1vVWdPbC1sUFktNU5WM0NuOUppLTRETTZOR28?oc=5",
      "t_id": "Lebih dari 17,000 penerbangan dibatalkan karena lalu lintas udara AS dilanda pemadaman terburuk dalam 35 tahun | Berita Dunia"
-    },
-    {
-     "t": "US Flight Cancellations Top 17,000 in Worst Tech-Related Outage",
-     "src": "Livemint",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNi1FZ2M0YWxLRFpyQVZqeWdObW9lSlU4VmlFWjU2Y0hIdmVMeXZkWDY5a2dMQm40aWRfQzdWOHUtbnVMY2p2QVhJeUZkak80QjROc09qdFBMVHBwODhxWWFmNmtOcWVub1RQR2VfX2NzOTgtYkZrbmFCZ2prQ3ZYNk5zb093NURrT1dSc19PZGJmWmNQblNwRlA5N3JELVZFUWtIcW1QZW9yb1ZHVjNjY1hpdER6QzZBWjBlQjdCWkVxZ2PSAcMBQVVfeXFMUDYtRWdjNGFsS0RackFWanlnTm1vZUpVOFZpRVo1NmNISHZlTHl2ZFg2OWtnTEJuNGlkX0M3Vjh1LW51TGNqdkFYSXlGZGpPNEI0TnNPanRQTFRwcDg4cVlhZjZrTnFlbm9UUEdlX19jczk4LWJGa25hQmdqa0N2WDZOc29PdzVEa09XUnNfT2RiZlpjUG5TcEZQOTdyRC1WRVFrSHFtUGVvcm9WR1YzY2NYaXREekM2QVowZUI3QlpFcWdj?oc=5",
-     "t_id": "Pembatalan Penerbangan di AS menduduki peringkat 17.000 teratas dalam Gangguan Terburuk Terkait Teknologi"
-    },
-    {
-     "t": "FAA Outage Cancellations Top 15,000 as JetBlue Cuts More Than a Quarter of Its Sunday Flights",
-     "src": "Men's Journal",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0N3aEdqSEQ0ZG9hd0NCYXJlQmdBeWNRVWVOQnlVM3I4RmU1RnRyck50SDdWbzVxM0tCY2pBQVpVN1ZqekpodFNkNE1aSmlIaG5jWHV6a1E2V1ZYVFR0bUY3SUgxVG5tS3Z2QlVTWkZXaDBvTW1Zc3pYellDUjJuckhaZ09IdjVh?oc=5",
-     "t_id": "Pembatalan Pemadaman FAA Mencapai 15.000 karena JetBlue Memotong Lebih dari Seperempat Penerbangan Hari Minggunya"
     }
    ],
-   "title_id": "Pembatalan Penerbangan di AS Mencapai 17.000 Orang dalam Gangguan Terburuk Terkait Teknologi - Berita Media Lainnya - Kantor Berita Tasnim"
-  },
-  {
-   "id": "kesehatan-202611150642-094c",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
-   "sources": 6,
-   "recent6h": 1,
-   "score": 6.5,
-   "level": "besar",
-   "first": "2026-11-15T05:02:00Z",
-   "last": "2026-11-16T04:18:26Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "DR Congo Ebola outbreak spreads to remote areas as violence hampers response",
-     "src": "China Daily",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12eW9HYVRSMi1jRE9OU0c2b1R1QzB6emlxOEZ1ZU92UDlXZXVUM2R1MDN1V2YzUjRUVjgxZmZYV1V4cm9DaG1lVTB3U1ZGVUNxdmFWbjV5MTc?oc=5",
-     "t_id": "Wabah Ebola di Kongo menyebar ke daerah-daerah terpencil karena kekerasan menghambat upaya tanggap darurat"
-    },
-    {
-     "t": "Ebola outbreak remains out of control in Congo 6 months into response",
-     "src": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzJqSWxEdFVlLW5aemZVZGlfSklmNUJKWERlOHY2dm13V3N1Qkk4aGpJbXN3NGlrQnE2NkhWNXFDczhZd01KaEQwNVBYU3hBYVJ1Z2I4OGVub2hSVmpMQkN1TkpmNW93MXZFX0V6V2ZNMjJIZlV2MmFnMlpZOFJObERJbGRrLXdGVURhSUlPT21oc2VsUnhGZFNBQ3JiWG9XVGxrZHpIZDg2UlIw0gGsAUFVX3lxTE5XMmpJbER0VWUtblp6ZlVkaV9KSWY1QkpYRGU4djZ2bXdXc3VCSThoakltc3c0aWtCcTY2SFY1cUNzOFl3TUpoRDA1UFhTeEFhUnVnYjg4ZW5vaFJWakxCQ3VOSmY1b3cxdkVfRXpXZk0yMkhmVXYyYWcyWlk4Uk5sRElsZGstd0ZVRGFJSU9PbWhzZWxSeEZkU0FDcmJYb1dUbGtkekhkODZSUjA?oc=5",
-     "t_id": "Wabah Ebola masih tidak terkendali di Kongo setelah 6 bulan respons"
-    },
-    {
-     "t": "Ebola outbreak kills over 5,400 in DR Congo as conflict hampers response",
-     "src": "Tribune Online",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGN2LV9UaVN1VlphSzhQbmh3SHA2R1dJcWZjYi12Znh4a2p3UFlqZXo3RXNITWJBRkI0TWlxMWhtUllTem0tSkdpUVB6MFd2a0k3RkFlUFNuTjZGSkpJenJwbktWMDRaeG9hSmlmNnpqSUhWd2VFZk1SdDVuclJGY2t1NG5FSzlDYzJJWmtIQWtiU2ZuaC0xazNKd2ZzUFlDMkHSAacBQVVfeXFMTTNNb1ZOMFNDOVpXb3dDbnpZclhyaFdmdjBsYzJyWTJ3VlF3dkl1c19CWjY2My00RjhaLXJmTkNkWDJyRWJoa0pRTjc4MTVOOHBHVWVENUNfbFhWN3M1WjVSbURIUWF4eHpCUkVqTmw0MHdRRVlNY05GN1U5MEpxaHBrdFFnb0s3emFqd3hUblYzRFl1RVNDZ0lfcXJVY0dSZllySWtmbDA?oc=5",
-     "t_id": "Wabah Ebola menewaskan lebih dari 5.400 orang di Kongo karena konflik menghambat upaya tanggap darurat"
-    },
-    {
-     "t": "WHO warns Ebola outbreak is far from over as DR Congo records up to 500 new cases every week",
-     "src": "The Eastleigh Voice",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDgyWnJtMDlBdVpqTnVhQktRRTMtVnBDNDNKTUZVb3pON2FMTlg4UC01aFV2TkJXWmZucjBoanF3c2tadElwY3RMcWVzX3V6MTNDRHBnNi1VMGJqRkljNFpqRVA1VzZoeGRwYTBJemozb0xZMmpxc0IycnRJdjUwRzVBRHdtQXMyWkdDWjd0eEVjbmlUUmtMeFpLSzZVSXhYeEFCR1dHczFKdmFzbGlwaWU2RW55N0FPYnlGNEFRT3l2Vk1PRTVUSDE1TVlWUEtW?oc=5",
-     "t_id": "WHO memperingatkan wabah Ebola masih jauh dari selesai karena Kongo mencatat 500 kasus baru setiap minggunya"
-    }
-   ],
-   "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
+   "title_id": "Pembatalan Penerbangan di AS menduduki peringkat 17.000 teratas dalam Gangguan Terburuk Terkait Teknologi"
   },
   {
    "id": "politik-202611160500-0aa3",
@@ -167,6 +124,49 @@
     }
    ],
    "title_id": "Akankah pemilu cepat di Spanyol pada bulan November akan membawa partai sayap kanan ke dalam pemerintahan?"
+  },
+  {
+   "id": "kesehatan-202611150642-094c",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
+   "sources": 6,
+   "recent6h": 0,
+   "score": 6.0,
+   "level": "besar",
+   "first": "2026-11-15T05:02:00Z",
+   "last": "2026-11-16T04:18:26Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "DR Congo Ebola outbreak spreads to remote areas as violence hampers response",
+     "src": "China Daily",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12eW9HYVRSMi1jRE9OU0c2b1R1QzB6emlxOEZ1ZU92UDlXZXVUM2R1MDN1V2YzUjRUVjgxZmZYV1V4cm9DaG1lVTB3U1ZGVUNxdmFWbjV5MTc?oc=5",
+     "t_id": "Wabah Ebola di Kongo menyebar ke daerah-daerah terpencil karena kekerasan menghambat upaya tanggap darurat"
+    },
+    {
+     "t": "Ebola outbreak remains out of control in Congo 6 months into response",
+     "src": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzJqSWxEdFVlLW5aemZVZGlfSklmNUJKWERlOHY2dm13V3N1Qkk4aGpJbXN3NGlrQnE2NkhWNXFDczhZd01KaEQwNVBYU3hBYVJ1Z2I4OGVub2hSVmpMQkN1TkpmNW93MXZFX0V6V2ZNMjJIZlV2MmFnMlpZOFJObERJbGRrLXdGVURhSUlPT21oc2VsUnhGZFNBQ3JiWG9XVGxrZHpIZDg2UlIw0gGsAUFVX3lxTE5XMmpJbER0VWUtblp6ZlVkaV9KSWY1QkpYRGU4djZ2bXdXc3VCSThoakltc3c0aWtCcTY2SFY1cUNzOFl3TUpoRDA1UFhTeEFhUnVnYjg4ZW5vaFJWakxCQ3VOSmY1b3cxdkVfRXpXZk0yMkhmVXYyYWcyWlk4Uk5sRElsZGstd0ZVRGFJSU9PbWhzZWxSeEZkU0FDcmJYb1dUbGtkekhkODZSUjA?oc=5",
+     "t_id": "Wabah Ebola masih tidak terkendali di Kongo setelah 6 bulan respons"
+    },
+    {
+     "t": "Ebola outbreak kills over 5,400 in DR Congo as conflict hampers response",
+     "src": "Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGN2LV9UaVN1VlphSzhQbmh3SHA2R1dJcWZjYi12Znh4a2p3UFlqZXo3RXNITWJBRkI0TWlxMWhtUllTem0tSkdpUVB6MFd2a0k3RkFlUFNuTjZGSkpJenJwbktWMDRaeG9hSmlmNnpqSUhWd2VFZk1SdDVuclJGY2t1NG5FSzlDYzJJWmtIQWtiU2ZuaC0xazNKd2ZzUFlDMkHSAacBQVVfeXFMTTNNb1ZOMFNDOVpXb3dDbnpZclhyaFdmdjBsYzJyWTJ3VlF3dkl1c19CWjY2My00RjhaLXJmTkNkWDJyRWJoa0pRTjc4MTVOOHBHVWVENUNfbFhWN3M1WjVSbURIUWF4eHpCUkVqTmw0MHdRRVlNY05GN1U5MEpxaHBrdFFnb0s3emFqd3hUblYzRFl1RVNDZ0lfcXJVY0dSZllySWtmbDA?oc=5",
+     "t_id": "Wabah Ebola menewaskan lebih dari 5.400 orang di Kongo karena konflik menghambat upaya tanggap darurat"
+    },
+    {
+     "t": "WHO warns Ebola outbreak is far from over as DR Congo records up to 500 new cases every week",
+     "src": "The Eastleigh Voice",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDgyWnJtMDlBdVpqTnVhQktRRTMtVnBDNDNKTUZVb3pON2FMTlg4UC01aFV2TkJXWmZucjBoanF3c2tadElwY3RMcWVzX3V6MTNDRHBnNi1VMGJqRkljNFpqRVA1VzZoeGRwYTBJemozb0xZMmpxc0IycnRJdjUwRzVBRHdtQXMyWkdDWjd0eEVjbmlUUmtMeFpLSzZVSXhYeEFCR1dHczFKdmFzbGlwaWU2RW55N0FPYnlGNEFRT3l2Vk1PRTVUSDE1TVlWUEtW?oc=5",
+     "t_id": "WHO memperingatkan wabah Ebola masih jauh dari selesai karena Kongo mencatat 500 kasus baru setiap minggunya"
+    }
+   ],
+   "title_id": "CDC Afrika mengatakan wabah Ebola di Kongo ‘masih belum terkendali’"
   },
   {
    "id": "siber-202611151541-c469",
@@ -249,6 +249,37 @@
    "title_id": "Iran menargetkan pangkalan militer AS di Bahrain dengan serangan pesawat tak berawak"
   },
   {
+   "id": "perang-202611151802-a602",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
+   "src": "The Moscow Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGFyRTd1TlRuZXFxcU53N2ltQjM4QVAyYmFHeHlVZmh2OEZpSmlWeUhOWjFQRkQwSkJhNGhKRVFzVXlPVEQtTVJqNXdpM2o3MzNIcGlqVmJqTDRscmxIMFZlWE5YS3duVzdQOXozUGx4aUU3YXNYVldHelZqMl9oby0tZHZaYkZSNlM3a2FUTFM4VE5VWmQ4UkdUcmJWUFBvTnhRNW5KdWJCNjJoM0lVbg?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-15T18:02:19Z",
+   "last": "2026-11-16T09:16:10Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Ukraine Hits Russia’s Akhtubinsk Test Airfield, Triggering Guided-Missile Parts Blast",
+     "src": "The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzNOeW9HeU5oYkFmMlljd1ozZGJMaE9vbUViMUlzREp3UFgwbDZQZlpUVldhWUtCcDMzT2ZMaHE1ZkhTQ1lCdlBUWTl1NmMzN2RRS09heTFqQXhEYzhRN1FVWGpOSG1iZllCdGo3aGRkWDVPQ3IxSFV3X1BkXzJBcmZfQVVLUXd6WHNSa3J3aFNQeEtCRThieG9IYmlqQXJLOHZtbll1ejk?oc=5",
+     "t_id": "Ukraina Menghantam Lapangan Terbang Akhtubinsk Rusia, Memicu Ledakan Suku Cadang Rudal Terpandu"
+    },
+    {
+     "t": "Ukraine war latest: Russia launches mass attack on Odesa Oblast as Ukraine strikes airfield, drone launch site in Russia",
+     "src": "The Kyiv Independent",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzQxUEZEQjZIdEJYemtTUzVoOHBIOWdXMUMwV2UxRi02UlM2N2xiZEdsdGJqVlc4VTNxUVlVTjM0N0VOcnBzNF8tbXhwdFFQLVVqdGpMVnNKZjdlbXdJUFFZOWJCaTNyckl1aEx4QkJ0cm14X2lEQll0bDhHX293by1IQzRHTGwyWi1ZOGhxOThiU0MweTc2WV9JR2ZyR2xZR3JiWUpsMFJVZWd5R051THBnRWxQaWlWS2I5MWhJaUxQSWNHbEtJbF9DbnliUS0xd01obnQyckJnNWFMT1JjTA?oc=5",
+     "t_id": "Perang Ukraina terbaru: Rusia melancarkan serangan massal ke Oblast Odessa saat Ukraina menyerang lapangan terbang, lokasi peluncuran drone di Rusia"
+    }
+   ],
+   "title_id": "Ukraina Menghantam Jembatan Krimea di Tengah Rekor Serangan Drone Semalam"
+  },
+  {
    "id": "indonesia-202611160735-660c",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -295,25 +326,55 @@
    ]
   },
   {
-   "id": "indonesia-202611151147-31f0",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Banjir Aceh Tamiang Meluas: 3.028 Warga Mengungsi, 41 Desa Terdamapak",
-   "src": "info aceh timur",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWElBYXdLazNzbThVWHlDT0JGWkVyd1l4ZGRpUjU1S1ZkVk54RFJQbVJZb3JVR1llV1J3aWF0X1BkOWdVaFRrZTZzQ3A4VDdub0sxS2phX0VBVEp5VThHdHR1cXhzRVJhY1lxekFQYmkwUVBWc1BuYmhJRVM3SW1OQ1ZVSWdMY1VZbnUwc21OVDVZdjREaXotbWJR0gGfAUFVX3lxTE1MOF9oLURQZDBiQkZiSE5OMXVJUzhLNGFrcEhXX09DVFY2VTAyNmhGeHpPM3hjdXpTdjA5dFIxeHVnM1RRcVhON01Ba0x1OGZVMXJxMlJJWTV2bkUzOFRtWUJFQWE5dnJDdzFEMUExQl9QTXJWcWxVMWVVNWVSSjdLaERNRGtvQ25RcnlTSWZONDZEbkFLUVVrSEFOblJxbw?oc=5",
+   "id": "siber-202611151541-c469",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "What caused the global Microsoft outage? Why Outlook went down – and how the issue had been hiding for months",
+   "src": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTQ4OGo4Q0xxQmhhNDBONEVXb2xKMGpfYmhTbUF5RFNjb0tCRjg3QkZfLUFGMXBGZWlRRTNscDFRcWdsVUtHanNKbEhGRFhfMWx5TE1mR09mRzAwQ3FkQkJrcERfcV9OVDNoeGFFRGtYVEE5UExRcmtnN1B0UFVYX3hFTENrLXpwSnRqZkZyOWRRVGRReFE4Zmx2NmlNazB3NXk0?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-15T11:47:40Z",
-   "last": "2026-11-16T08:47:06Z",
+   "first": "2026-11-15T15:41:13Z",
+   "last": "2026-11-16T10:33:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Microsoft outage: What actually went wrong, an expert reveals",
+     "src": "InDaily Queensland",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1N5ZDNOa1V1UDl5WlA5c3J3UlF2eFYtOHIyLThKSEh3ODVkNFJpXzVMOUFtLWI2UzdaRU9FRzdfOVA5VTZwbVN2MU53TWdlOGxvUU0xakJKd3dhTjBMMnJkNHpYdXZEZThlRjRKQXJiT21ROFdiZTBQcmozYzVsY1FMN1liQlRMQjQ1Y1FWdF9Zd0YxMkctQ0NBQ2Z1OE1mc19ZOFpsZy1uWWJsVzNiVjl4TXR3RHUzTGY3N05DMmJINUVs?oc=5",
+     "t_id": "Pemadaman Microsoft: Apa yang sebenarnya salah, ungkap seorang ahli"
+    }
+   ],
+   "title_id": "Apa yang menyebabkan pemadaman Microsoft secara global? Mengapa Outlook tidak berfungsi – dan bagaimana masalah tersebut tersembunyi selama berbulan-bulan"
+  },
+  {
+   "id": "indonesia-202611151505-5935",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Frexit Guncang Paris! Massa Desak Macron Mundur dan Prancis Keluar dari Uni Eropa",
+   "src": "Tribun Video",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZjhXdU9lcUNVbDVaRFVjRVlHbkRYLW0wLWNRdGNjcGViYmdUdmFhZ0JSMTgyM2txLVQtbzZDZHBQdUx1eGJMMjc2eW5tRU9fUWl6ZlRwZl83VWc0VU1ISDlOZVdmRENhVjBoWk84WklaeUVxREZwbFVPS2l3MEc3UWozenVwUmJTRU90c29Oa2pWR0xwUmlCeDdTNU9JcGU2Rlp4SmJ3ZTE1S0lORWd3RERSUnJQR2tzQ19SU2hGVGxRXzdZ?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-15T15:05:00Z",
+   "last": "2026-11-16T10:25:49Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "LIVE: Banjir Kiriman Rendam Aceh Singkil hingga Sungai Lae Soraya Meluap, Warga Lhok Raya Mengungsi",
-     "src": "Tribun Video",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdE5aelNfb050STBBQ1dBTTcySEtpUHB5a3BmY0JJRGRoUkpGaXYxdDhYM056X3M5OG92dXNtbW54YlhPSWktaHpZSTQ1djA5TDZ1QUNwUnFrOXRxVHN3Nk95ck4zbV9UN0lNRmVMRmVRZFI3Mm9rUEgtZlF5M3ZveUVsSVVUTnJuV05RU3F6VU9oVHhoUUxPT0lQRnh0VVoxWVIyazNEV1BBbnF5eGZLaEJlM2F6T2JOYlRic3lHclJ6NlJjeXFEYkRUV1ItUUlLNmUxdw?oc=5"
+     "t": "Demo Besar di Prancis: Lebih dari 200 Orang Ditangkap, Bentrokan Pecah di Paris - galeri foto",
+     "src": "tvOneNews",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWgzaDk2R0s5VUlUZHlsdDJsLWdOTjRTSVltSkc4NzN4VnFvR1pvTkUyVWJrUmFMLTcwSUdUNWFEaVJ2NTZCQVdCMjE2bENKdGVCNDloWjRQNnhqREJtWVVUc09sdHppUTM5TnBuWXZkbHdoOVctLW53cVJEOU91WXR2N0Vyd1BPTTU2b0ViQUczLTdtcUhuM1I0bWZyQm0yUHlZMTJFd3djVVNZNDd1UmNLTHZ2S0Y2SGdPVVROc1VaWTBHOF81eHg0NjJpSWhfYmhHRndESklkMXNG?oc=5"
+    },
+    {
+     "t": "Demo Besar di Prancis: Lebih dari 200 Orang Ditangkap, Bentrokan Pecah di Paris",
+     "src": "tvOneNews",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS18wRHhwWnZGMnZFNzJxLTJqZVdQU3NiYkhmV3V3MkR4M0w1SFM0NEg5QWgwZ1VFVkFFSVFUTXVhbE11cmRrWHZ0MG10Nk9vMHdlQTF4UGowOUV3R2I5bmkybXlkQXRBMVVFbnd3NUU5Ti1vNDBNR2xnZFNLamsxLXBRa2ZWZEVEWGhtcEhFM3hpcERzZlpGUmo3LWJicVpwV0V6QnV1V3hjMHJzSTlKTUVPU3kzelZJcGhvUGNTX2MtR3dJY3FCZTJVTdIB0AFBVV95cUxOUWNfSW9fQ3JfWUFPRjAxbkNzWFB4azR6MzNENUtwRnl1RnREMUR2REs0LUVYOVM2OUZmdnBKYVZyblNkQ18wVGZJazMwMTQyLXZkWTYzY3J1Y2dSUWZUN2FoR2pUTVQwZFQ0VXljYUtKcDBXRDdaaU43Wl81NXlIZEJXRE9TeTFtRklSeTBMc2dUc0owa2lfZTRhUXF1bXE1LTFCV3NKRHNpcWlPa3RzMkFaeHVSc2VCX3VKMVlvSTQyNzROb3lzSHBRbThJSlc4?oc=5"
     }
    ]
   },
