@@ -1,7 +1,91 @@
 {
- "updatedAt": "2026-11-16T22:05:48Z",
+ "updatedAt": "2026-11-16T22:20:33Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "siber-202611161838-ae67",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Major U.S. banks report widespread service outages",
+   "src": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
+   "sources": 5,
+   "recent6h": 5,
+   "score": 7.5,
+   "level": "sedang",
+   "first": "2026-11-16T18:38:00Z",
+   "last": "2026-11-16T21:52:42Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
+     "t_id": "Amerika mengalami hambatan teknologi karena pemadaman listrik yang melumpuhkan email, penerbangan darat, dan mengganggu bank-bank besar"
+    },
+    {
+     "t": "Are Major Bank Outages at Chase, Bank of America Connected to FAA & Outlook Failures?",
+     "src": "Independent Voter News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSjhXU3JybTcwUE5rZXhCT1VOT2FtcVJudGlGTnpHNTlHTklucEVKc3JhTnZaUkJkdVJuSGtNeHBxc0VYcGM0bXR2UEpXaGFISHpkQ2NXdkVmaG5fUXI0d01iNjJxdFBPNHpHMlpEd0ZSUXpFM1ZfV2RqeW5GTnh0RTJlN2E5MUFIME5BUXRpcmxxdDk3YjlvbHZEeDJFdw?oc=5",
+     "t_id": "Apakah Pemadaman Bank Besar di Chase, Bank of America Terkait dengan Kegagalan FAA & Outlook?"
+    },
+    {
+     "t": "Chase Bank Blames Outages On ‘Software Bug’",
+     "src": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUNHRWlIcjNZR3l0eERtcnliME9IUEUta28wN2VSTlRsM05HUnRlRjJjM3JLS2RJaUl6VVVJcEtJT0NQNW55REpHdjM0WFNyNFczMXhDdFZ6eVRIeGt1eFBvYV9aaTIzSEZBLU4tS3NWTnNrZFE5dnpyanEzU2FFRE5kQW5fU0FjSFh2UlIzZkdCa2hJbTdmTHVOS2ZmVHF5X0E0YVlNc2I2YTFCSU9aZVJRYU9ZdngtLXR0QU9RTzBYOTIzSXVBOEtvb05uNThw?oc=5"
+    },
+    {
+     "t": "Are Chase, Wells Fargo Down? Latest Update on Bank Outages",
+     "src": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQlVXT1ZYLWVMTHZFSXk0Q2thT1JQMW42dWlkVjVaTkN1U3JtTmUtLXIxOXloNF93NE5MaHR6WFQtOFZfZVF5azhHMjJKdEpUQmpWcEFNdHl1V3R6UVRKS2w5R2lKMXFDN2RNMzU1ZkNmcndiVjJKakw0bGUwbjFseU9YQWhtMVVLT0daMmd4WmJ3STBP?oc=5",
+     "t_id": "Apakah Chase, Wells Fargo Turun? Update Terkini tentang Pemadaman Bank"
+    }
+   ]
+  },
+  {
+   "id": "kesehatan-202611160759-948e",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Africa CDC chief warns DRC's Ebola outbreak remains out of control after six months",
+   "src": "Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREN5U0swcTVvb0dlVmJzZnlPaGk0UEp6WURvTjZ6T2JHZkJ2eXBVcXQtWGlhNDlGbk82X1NUVW1OMUdJMHBJMGlSR3NBSlloNHRWdmJvU0RNb0NzSm9xODJYLWJDV1cxd2h2Sm9HSVdsb2tTTHJ3WkVPaHRhM2hqS19EYTN4Vi1EWWtld2N2QXJZdw?oc=5",
+   "sources": 7,
+   "recent6h": 1,
+   "score": 7.5,
+   "level": "besar",
+   "first": "2026-11-16T07:59:16Z",
+   "last": "2026-11-16T18:53:45Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Disease control chief urges release of Ebola funds as Congo outbreak remains uncontrolled",
+     "src": "London Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTBSbm03b3FzelYwaWpLS3VTamMwdVJhMkp6QXZ4OFByYTV1Y2ZYN0JFR2NvWlR4Wkh6VnVGLTV5VUg1UU0ySmNxOVdabnVPV1h0Ymt3dVhaNU42a09lTHlVQTJ4TFNiWUI2emhXQU4tQmJLaVVCUWlBZTBkTU1ROGZVT3NsdE0ySHM5QmVxNkpVZzVMOFZPWC1oRTViLXJ5NkhPOXpFYlRvZUswb0lad2lvWmo5U2l4UzVn?oc=5",
+     "t_id": "Kepala Pengendalian Penyakit mendesak pencairan dana Ebola karena wabah di Kongo masih belum terkendali"
+    },
+    {
+     "t": "Congo Ebola Outbreak Still Uncontained After Six Months",
+     "src": "Nature World News",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMnVHeU9obkxZTVBsMXh0UGt1R1RIV19oeU9GdkZZc1dwN211bTZOQjFoTjJ6c18tX3BOdGVzRGs3cFhYQ2hVay1YZi13ald2UWhEb291aE5abkR0ZFJqaE4tRGh6Vm9ENXBrNlQ2cEROckJGVXFRaWZNY2x2Nnh4X2UwaTZiQ1IzSndmVlhtZDl2R29sbmxNX3NxS3g1S1hQWm9CdGx1RS1wcGFRampqTGFUYWNPbWV0R3YxS0hSR2g?oc=5",
+     "t_id": "Wabah Ebola di Kongo Masih Belum Dapat Dibendung Setelah Enam Bulan"
+    },
+    {
+     "t": "Ebola Outbreak in Democratic Republic of Congo Raises Alarms",
+     "src": "India News Network",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOektZMmpEa1FaenNhUnpMN2JBMkt2UGM4aXh5RTNfcUFVZ3l6NFZINS1NR0luQ0VpT0xyLXJFbFdCM2d3bmxMeUJXeW9mVDVwekp3MF9acDRQb2FBQU0yWklURWtXSUJRUXFvSklYelpiU1p4aFk2T21sVmc0eDJYWnhjUThtTk5uYm5wWTlkcGlTM08yMXVHaHBCVFlLTVA2?oc=5",
+     "t_id": "Wabah Ebola di Republik Demokratik Kongo menimbulkan kekhawatiran"
+    },
+    {
+     "t": "Ebola Outbreak Spreads to 5 Countries, 5,500 Dead",
+     "src": "Baller Alert",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2NzTnpWTVAtZkZaXzR0aXVxY1RsaUU1LXpZcS11MGJpSzlxdGU5X0Z4bW5iYW5TaVhmTVpDdndsdHh2NlFDZmJpREYwRHRfWTVMTmtGNzNmTTRkNFJXb0NIaVd4TWZBWm1ldEV4WnFpczliNk5jR3ZRRkRqZkR4ZUlfX3BmZTNkT3JqblVRNA?oc=5",
+     "t_id": "Wabah Ebola Menyebar ke 5 Negara, 5.500 Orang Meninggal"
+    }
+   ],
+   "title_id": "Ketua CDC Afrika memperingatkan wabah Ebola di Kongo masih tidak terkendali setelah enam bulan"
+  },
   {
    "id": "politik-202611160500-0aa3",
    "cat": "politik",
@@ -80,6 +164,31 @@
     }
    ],
    "title_id": "Trump Mengklaim Pertahanan Udara AS Mencegat 99,99% Serangan Rudal dan Drone Iran: Siapa yang Dituduhkan oleh 17 Media"
+  },
+  {
+   "id": "siber-202611152321-a1e9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1k3NUhZNy1SeFNkMVB3THZEMGtZMnRObVVEUTZoQzNhX0VqRkRyQUo1Tnd5RjZfdzBsNVd6d3U4ZUtuRUxEZWxzZC1Da3RZa0doQ21RdmszOE5XM1NJZDdUQV83VnExcE5nZk93ZS1WYkYtNjNqVG9HZENmM2FxSjJ2MXd3Sm84X1E5UTZZUVVfYm1KTHlkZ25xOGFUR2Y3enB4a09faGlHWWZY?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-15T23:21:00Z",
+   "last": "2026-11-16T19:35:08Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Americans fear the worst amid Pentagon doomsday prepping, Black October, email outage, airport chaos",
+     "src": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRWg3RWFHYkVmR1J0SEltSWIxX2xnMnZLS3F4dHlyVWhSaElzb21veUxtT3VGQVJWaVN5cTEyUE95ek1RLWJJMzlMX1pRM1g4b0VrR193VFdUaWprZkllSXgyMWRiWmlncnpiQ295VGF4aGliRnBPOF9lcGZSVUN0VlFqYVgxR01RcUZzR1gwcnJzcW9vNWNfbWNaUzVHZWNTQzdxbjA2NmttdThxOTRETVlEcjBIMm1oYVU0S2xhQkhUR0ZaQzlhUU1EbHQ4VFVaVXcyOWpCdXVWaVhBSU1ETnpDNHVTVVYtTWlZ?oc=5",
+     "t_id": "Masyarakat Amerika mengkhawatirkan kemungkinan terburuk di tengah persiapan Pentagon menghadapi kiamat, Black October, pemadaman email, dan kekacauan di bandara"
+    }
+   ],
+   "title_id": "Kekacauan dan Kegembiraan Tak Terduga dari Pemadaman Email Global selama 19 Jam"
   },
   {
    "id": "indonesia-202611160735-660c",
@@ -228,9 +337,7 @@
   }
  ],
  "errors": [
-  "kerusuhan: HTTP Error 429: Too Many Requests",
   "transportasi: HTTP Error 429: Too Many Requests",
-  "siber: HTTP Error 429: Too Many Requests",
-  "kesehatan: HTTP Error 429: Too Many Requests"
+  "bencana: HTTP Error 429: Too Many Requests"
  ]
 }
