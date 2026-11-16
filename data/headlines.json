@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-16T03:10:41Z",
+ "updatedAt": "2026-11-16T03:25:21Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price range on Nov 15, 2026 at 11pm EST Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdnlyd29LNEhvS1ZnN2dncmttQzNrTUxjS2p5WkI5TG5NZkc3OUhyQVhsaVJwemRmUkNlZ1p5MTc4WjZnNmdESUJyWkVoWkE5UzR2elZyMTVRbGNackMxMEg5Wmx4X3V2Q0RveFRXQ1pYV1p6anhUWWstRzZtRUF6aW1tVG5UNXRneWg4ZUtqaTgzZEE4cXR6dE0waTduZm9RU2VaVkhnaV9feUhkbUJzT1VsU0pNLXc?oc=5",
+   "time": "2026-11-16T03:12:30Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -9,6 +17,14 @@
    "src": "cwibc.co.id",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UZEM2VmJpbzVGTzlNZnhDT1c4a2NMREt2SG5jR2FkWHRmanE0Z0xYUkpUbkt0Sm56cU5kdlJnYnpiaVdUUlNnVFZYdTZBdXVwQjZBUmlDSQ?oc=5",
    "time": "2026-11-16T03:04:54Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "ANALIS MARKET (16/11/2026): IHSG Diperkirakan Bergerak Sideways",
+   "src": "Pasardana",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOay1xVW9jY0JQV3BYei1FYndOVW9zamlMTHlza2Q4bGFMcDdqbWdFajJhaEdWTVVORTh4cVdmOFMzcWtIc3RwY1lLZHRNUGFEXzVSMzJvVGJ2bEo1SEt3b1FnQjRWdGZ4OFVKQ2lBQkFBOUlpUmdpSXZvUXRkVzB0U3ZxSkFYMHJDMG0za0RkTUxfN1ZvdTYzOXVrcEJYdw?oc=5",
+   "time": "2026-11-16T02:42:00Z"
   },
   {
    "topic": "emas",
@@ -59,14 +75,6 @@
    "time": "2026-11-16T02:11:00Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price range on Nov 15, 2026 at 10pm EST Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVlVKUGppY25GUmJxamtuSklrQk1rVUFNeWhiREJQa1FGdTAxeFZXTWxVMWNib1JnOXppVWQ0UnJTb2pGU2RTXy16YXpFdldVb2JmNlh1VXNYYWRKZlRTN2pQYmo2QWtHTDhFX19aQ0JYYlZabWxHajd2cTNCekY4OEVfWEhycFBIX1N2UmlIVEVEVXJhQU82RTA0UWYyVXlZRTF2cGJYQ01UczZpSEtfRVNYcGNtMEU?oc=5",
-   "time": "2026-11-16T02:10:16Z"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Prediksi IHSG Pekan Ini 16–20 November 2026 Menanti Keputusan RDG BI",
@@ -83,11 +91,11 @@
    "time": "2026-11-16T01:59:00Z"
   },
   {
-   "topic": "emas",
+   "topic": "bank-sentral",
    "lang": "en",
    "t": "CCTV Script 16/11/26",
    "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vMXd3YXpSN285ZXVtYWNiV3plZ3BZZ0F3TFdRaC1TTGpiUGxybmRsRkRJczRaS09wLTRYZE5KYXFkem9WbGVaMnU0QlhmcjVzVkxURXNnVDlDWnFPLTBOTmI5N0hNQdIBa0FVX3lxTFBZc3FkZlJGM0plYnRHQkh3YUdyYy1ULTM0S1lhWEFoQXZ5VFZHalpTbnpSQzRMbUtfV1RQOVJXaHlyWHFFS3N2SWNKS05yZ1ZqZzNTdlNORno3S2owQ2hDOGNKRHBBM0hvSXZn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZc3FkZlJGM0plYnRHQkh3YUdyYy1ULTM0S1lhWEFoQXZ5VFZHalpTbnpSQzRMbUtfV1RQOVJXaHlyWHFFS3N2SWNKS05yZ1ZqZzNTdlNORno3S2owQ2hDOGNKRHBBM0hvSXZn0gFrQVVfeXFMUFlzcWRmUkYzSmVidEdCSHdhR3JjLVQtMzRLWWFYQWhBdnlUVkdqWlNuelJDNExtS19XVFA5UldoeXJYcUVLc3ZJY0pLTnJnVmpnM1N2U05GejdLajBDaEM4Y0pEcEEzSG9Jdmc?oc=5",
    "time": "2026-11-16T01:50:00Z"
   },
   {
@@ -145,14 +153,6 @@
    "src": "SWA.co.id",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dHdyYTMzMzBMcG9sc0luMVZrTElpYzFsWFpyRGotU1NrNlZ6Y09fYUZkN21hLTRObzlzS2ZTYl9WQjQtVTJzWGJySmV4d2hjNElXX3FmQWpRZzBWcV9mNWprbm9DTVE?oc=5",
    "time": "2026-11-16T00:45:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "ANALIS MARKET (16/11/2026): IHSG Berpeluang Melanjutkan Penguatan",
-   "src": "Pasardana",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHEtOU5lbVNheUhCMTVueUoxbjlhR05CdW13YUZKNkt3LVdZWjBBSndpWE82MzNKd3N4dEt4cXptaURlM1ZLTW1peXU4WHBsYXJObEJHS1dtTkVtRldtVHQyRGpuaEVkRU9va3QxSnFzUkRNNkpFU2NMT3E0U3RieDRaVzFaTjNaRWhVMjJyVDNPVGN5YXZlbjJfUldKeG1h?oc=5",
-   "time": "2026-11-16T00:40:00Z"
   },
   {
    "topic": "emas",
@@ -286,15 +286,6 @@
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlB1SEVVNFVLT3JzZ2p0Z1h2UU5SWi1ZSkRheVNtZHVqWUcySFl3VXFDdV84WnBNUlJWOFMzMm1yYTE5TGJGbXl0aWJOMU9saVJybHJGa2xGdHFYTkExY1R5ZGw1NlpQU3N2WFVyZ2sxaHhjeWd4cl9yQzc5T0U0WjMzMWNJWlBTU0h3dzJ5d2s0cTRGUVptMmFId1JVRUhPX3hxaA?oc=5",
    "time": "2026-11-15T21:05:00Z",
    "t_id": "Tekanan Trump terhadap Hormuz telah mencekik Iran – yang kini juga dikecam"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Australian shares to open flat as Wall St slips on Nvidia uncertainty",
-   "src": "Capital Brief",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXhKOUNwUnNicEZ3Ykp1WXV0bHlWTGlTbEtqQTU1QkNIS0lDQ0FTU3dPU1F2d3N4NlRIZlFta0JRTjA3dXFpMktkOVo4eUhEb1hSMXMzZWg3REphRlctOHBLX3JoNjZxbWI0ZmpFLVMyZVhFbXZacnB0QjFtQ0p3dmc0RkRxNUlyUFMwVlBCeXhIdmVLTm1LcDlqejFlWXhZVjFRMUpNZDJGQm5uXzhNNHpldTNwR1lRY2hWTEFPZ204bFNINnRoM2tMLWpKZWtSWlhyNkxSemlVaGtsTkE?oc=5",
-   "time": "2026-11-15T21:04:00Z",
-   "t_id": "Saham Australia dibuka datar karena Wall St tergelincir karena ketidakpastian Nvidia"
   },
   {
    "topic": "saham-as",
@@ -509,6 +500,15 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0E5Z0ZIZDR2Nm1zM2xobkpzZUdJVlFhSTVUd0dJSURzbmxzMUlmdHplcEY4T2xPdlZLekR2RlpZVXlPSW5zel94WG9aQTBpU2JOWkR6Qzdsa1RWU3hqYnlHWGtKYXJZM3AzUjJ1c2ZnUkstZVJWNGU1R1NROXJVN3NFaVVLVXNUM3hmQ2VfbE9wVUJa?oc=5",
    "time": "2026-11-15T12:44:04Z",
    "t_id": "IPO Anthropic senilai $64 miliar terjadi di tengah aksi jual AI"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin price crash explained: 8 reasons BTC plunged from $81K to $62K",
+   "src": "Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoMVlEcHpRYl80a2c1MUY0OHJrd3NsWk1tbngyaTJvWVRLdkNKSjNVRnh5bFRWanItcHlUSVRQaEJ5bFBkbkV5ZG1iRUxQd0ZHMVVMRGhSUDJxbWZnU3c?oc=5",
+   "time": "2026-11-15T12:29:58Z",
+   "t_id": "Penjelasan jatuhnya harga Bitcoin: 8 alasan BTC anjlok dari $81K menjadi $62K"
   }
  ],
  "errors": []
