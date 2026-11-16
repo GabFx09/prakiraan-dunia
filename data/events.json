@@ -1,47 +1,7 @@
 {
- "updatedAt": "2026-11-16T22:49:56Z",
+ "updatedAt": "2026-11-16T23:04:37Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
-  {
-   "id": "siber-202611161838-ae67",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Major U.S. banks report widespread service outages",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
-   "sources": 6,
-   "recent6h": 6,
-   "score": 9.0,
-   "level": "besar",
-   "first": "2026-11-16T18:38:00Z",
-   "last": "2026-11-16T22:27:40Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Chase says a software bug, not a cyberattack, caused the outage that spread to customers of other big US banks",
-     "src": "MLQ.ai",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVm9HZ3AwcExfUVNsc01Na0Vnb293TUFiUmx3MzhSN2c5TlNxR3MweGk0Z3pqdnpjbURnUVVQeF9oQldjZkN2eHRCbm9OeDFXZXZuRUhkRUNpaTEyaFdOZDAySGk3aC01SWw5UnBibVV4dkJmTlRPdVc4ZkswV182dHFSYmtfclllS3Y0OXRSa3BNU0RfYmFzTnF0YlZVS3BsT1h5dlN5QnBrR01QeFFybGdjQmZyV1FCOXNGUy1OV1ZWVEl0LVRmTg?oc=5"
-    },
-    {
-     "t": "Chase, Bank of America, and other major banks suffer online outages",
-     "src": "Yahoo Finance UK",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXNZdlBlMHp2NUtXaWRDWTZWeXhQSWVqd1lsN0FjbTZSY21QWGZfbW5EZERkN1FZa0FjTG1KZXBNMGVHMEU0X3czaXQwUWxnM3Z4aWJLekhPNmYwUF9RMTRkWEYwbUZfbHg4SEJ3OUpObFhubDFJODcybDRVVWgzWG13d3dhUQ?oc=5"
-    },
-    {
-     "t": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
-     "t_id": "Amerika mengalami hambatan teknologi karena pemadaman listrik yang melumpuhkan email, penerbangan darat, dan mengganggu bank-bank besar"
-    },
-    {
-     "t": "Are Major Bank Outages at Chase, Bank of America Connected to FAA & Outlook Failures?",
-     "src": "Independent Voter News",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSjhXU3JybTcwUE5rZXhCT1VOT2FtcVJudGlGTnpHNTlHTklucEVKc3JhTnZaUkJkdVJuSGtNeHBxc0VYcGM0bXR2UEpXaGFISHpkQ2NXdkVmaG5fUXI0d01iNjJxdFBPNHpHMlpEd0ZSUXpFM1ZfV2RqeW5GTnh0RTJlN2E5MUFIME5BUXRpcmxxdDk3YjlvbHZEeDJFdw?oc=5",
-     "t_id": "Apakah Pemadaman Bank Besar di Chase, Bank of America Terkait dengan Kegagalan FAA & Outlook?"
-    }
-   ]
-  },
   {
    "id": "kesehatan-202611160759-948e",
    "cat": "kesehatan",
@@ -84,6 +44,49 @@
     }
    ],
    "title_id": "Ketua CDC Afrika memperingatkan wabah Ebola di Kongo masih tidak terkendali setelah enam bulan"
+  },
+  {
+   "id": "transportasi-202611160429-a343",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "US Flight Cancellations Top 17,000 in Worst Tech-Related Outage",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGVSb2RteVJqbWpLUU5sZnJXQXZQakNoT1dtYnRNbzNZOU9IWnBKWC1lb0lnQ2NfMnpmTl9HMDB1aWZld1pOTVBFdDBXeWpOVVRaN2Z1TUVmaWNSVFYtLThvOUVidERZZmRoRnJhZ2pnUzBrRjNLTGhmUk51TkdYMU1KQVRIMjl4V3VfS19LVEZ5V2k1bkx6SkhGUFRJWnVmeFFac3RxT3hvNkl5Q0w2bUdxVnE?oc=5",
+   "sources": 6,
+   "recent6h": 0,
+   "score": 6.0,
+   "level": "besar",
+   "first": "2026-11-16T04:29:00Z",
+   "last": "2026-11-16T08:20:36Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "US Flight Cancellations Top 17,000 in Worst Tech-Related Outage",
+     "src": "تسنیم",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0N2enZhNkhCbXpMSGU5RmpaZExHUFpTREZBTVpHRjhraDNKWllmZ2k1bjlqNk96QV9GTlJ0TDV1QXYwLUpnRzBsd3AxOUdtMmpGMVczMWFBSTRuVzdSLWliR1FiR1NOSWhlRENiVU1CRlVHdF9fMzRKeTRkSW1uZmx3XzhzOHk1ckQ5TW05NF9fWWd0U3JfNDRxRnJDOE9sSjB1TTZCcnpnTTJwUG53WF9wWmtuRG_SAbwBQVVfeXFMTll4MWJnSElwSHRqVERjc09NRThhVTRSdkc3NlRLcTRSTC0tdkZnZFlUWGRReVlrT2FjQXJEeEhiZjBDdzRoc0ZUOW9ub2ViWTltbHRzbW9PMTVXUm1IVkRCd1hsVWs3NTV0c1VoYnBsNFBYM0xvWWhGaEx3aTlwdko3Wkh0VHd3MXZjT18yOVF0OGt0Z2FkMzA0elI2MFpKcmFzUFBDOWg0eHlhWGt1UTAzcWMwZ0FTR3U0X3k?oc=5",
+     "t_id": "Pembatalan Penerbangan di AS menduduki peringkat 17.000 teratas dalam Gangguan Terburuk Terkait Teknologi"
+    },
+    {
+     "t": "US Flight Cancellations Top 17,000 After Nationwide Air Traffic Outage",
+     "src": "BusinessToday Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWElCWGh5MGt4RDQ3a1d6M2VnQ0wySzkxV3hORlAzUjNrOXhXVm1OYWVscWpaX2lxYmJvWDhQZ09ZSjFBd3JHUWpoX194UldlSWdhYkJkaFphQ2tpRlo3a1JybExXYnlYZWZacnNBX1I3LV9rVXRSRVkwMy1DZlhCUEZfRldpOHNqNGxrbE5waFVTSTVjdExQTmVGNmlVWGtWdEQ0TDAxSF9VVEMxYkFmUW1ReGY?oc=5",
+     "t_id": "Pembatalan Penerbangan di AS Mencapai 17.000 Setelah Pemadaman Lalu Lintas Udara Nasional"
+    },
+    {
+     "t": "US sees worst tech-related outage in 35 years as flight cancellations top 17,000",
+     "src": "The Business Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTVqdHluMThnS2ROdHRsRjNTelNpcEFyQ09GOTREdEc1c1N5dXR4SjdMZGxnZG81YUtjUW95b05zbTVEOXZvUUNqcFd0VFUyekZvSmt3dHZoeExFQVRFLWlPS2E4UXAybnFFNXE0Q1RpcXRpdHhnRXJXX3hzVDFmc0pXdWVwUlpsRHI4anN1QzB2TVItMFhPbWd6WjVsRFFGeG9UZWxOYkJZTXhTR2luZTE2SkpSdEh3QnVjbQ?oc=5",
+     "t_id": "AS mengalami pemadaman terkait teknologi terburuk dalam 35 tahun karena pembatalan penerbangan mencapai 17.000"
+    },
+    {
+     "t": "Over 17,000 flights cancelled as US air traffic hit by worst outage in 35 years | World News",
+     "src": "Hindustan Times",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2c2RlM4dTNraVc0YmxKNzR2UWpxQjFtNzU2LUIyaHVUcWxsUUg0WkEtT1VXWVRWSnNGS2xIcEtnNUhKb3RCNi1BekEzZlpoa1liMU03dHk4bGdUclhsb0JBWVhzMWRLN0dvTlFSaU9CRTBTMmt3ZUVZcTRIbUw3bmRyak50Y2NPamFTMjc5Ql91QVNHQkpCTGZ2S3lpV3NsNEtEM2tmSkxyamNLN1JObm9oLTh2aWxXM3cxN2JHRks4Ry1tb1VnT2wtbFBZLTVOVjNDbjlKaS00RE02Tkdv0gHfAUFVX3lxTE1nZzZGUzh1M2tpVzRibEo3NHZRanFCMW03NTYtQjJodVRxbGxRSDRaQS1PVVdZVFZKc0ZLbEhwS2c1SEpvdEI2LUF6QTNmWmhrWWIxTTd0eThsZ1RyWGxvQkFZWHMxZEs3R29OUVJpT0JFMFMya3dlRVlxNEhtTDduZHJqTnRjY09qYVMyNzlCX3VBU0dCSkJMZnZLeWlXc2w0S0Qza2ZKTHJqY0s3Uk5ub2gtOHZpbFczdzE3YkdGSzhHLW1vVWdPbC1sUFktNU5WM0NuOUppLTRETTZOR28?oc=5",
+     "t_id": "Lebih dari 17,000 penerbangan dibatalkan karena lalu lintas udara AS dilanda pemadaman terburuk dalam 35 tahun | Berita Dunia"
+    }
+   ],
+   "title_id": "Pembatalan Penerbangan di AS menduduki peringkat 17.000 teratas dalam Gangguan Terburuk Terkait Teknologi"
   },
   {
    "id": "politik-202611160500-0aa3",
@@ -166,50 +169,62 @@
    "title_id": "Trump Mengklaim Pertahanan Udara AS Mencegat 99,99% Serangan Rudal dan Drone Iran: Siapa yang Dituduhkan oleh 17 Media"
   },
   {
-   "id": "siber-202611152321-a1e9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "transportasi-202611160640-7a5b",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1k3NUhZNy1SeFNkMVB3THZEMGtZMnRObVVEUTZoQzNhX0VqRkRyQUo1Tnd5RjZfdzBsNVd6d3U4ZUtuRUxEZWxzZC1Da3RZa0doQ21RdmszOE5XM1NJZDdUQV83VnExcE5nZk93ZS1WYkYtNjNqVG9HZENmM2FxSjJ2MXd3Sm84X1E5UTZZUVVfYm1KTHlkZ25xOGFUR2Y3enB4a09faGlHWWZY?oc=5",
+   "title": "Flying Monday? Here's what to know after nationwide FAA ground stop",
+   "src": "KDNL",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjBtUFRJX2lMZ2c0REJISDJOTzJEbmFZclh2S1o4OFJhYzd3VHRpeUNWSHZFVHk1YmtEd0RNdHhESVBnVFUtSWd4S2t3eXZDbjc1YWhBTFctcXBORENlc1hIYTE5SFdIQmhaV3AtZHVXY2pkN1ZUVWpOeWVPOW5TTzVCWUlZNkoySDFIRUU2MG1scTlpMUdjQmdyMWtZc09fZXplUWk2aUp4TWRjcUg5azZYUndrYnVHXzhIdTF4WlI3LVFZbWxQbEZRdmJuSHZ0UVBWbWs4ekhfVWNnR0xZVkZTdjBsT1AzRnpMR3JRSEZYUm90VTBIbGM0clpNMlJac0hBeFpjR0p3YkwtTDZ3MEhsVzRETVBVOUl5akJvbkxXSW8?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-16T06:40:23Z",
+   "last": "2026-11-16T13:21:45Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flying Monday? Here's what to know after nationwide FAA ground stop",
+     "src": "WXLV",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPZUsyajVEcml6SDFEcDVRb21Zd0tiQ281Z2tBUjVFMWk0WXdpd1lQekxCX2J6VVI0QVl0dnlzX1RyVWdKc3g1ME5lZ0Nfenk5WDh5d3VGTmt6X09RRjNqYlYyb3JIY0dwekVwR2dweHRjb296aFhOMElpQVJKTHN2Qm5fOTNDQkx1Rmc2dEotd2lwRmlwNW9zNGJWUjNSdTd6WGQ2dERwR3I0Q3VQZnNXUkthdkw2Y2VnclJjb1k0djIxLTNYeHFkZWRGU2pocFVFaU9jT21KRzZFc2g5dzJhYzZOWGFLZHFsdUtHel9sOW1tSGtTa0RXWGVybzFMSVlSTjN4bzkyUy05aFdZUXlnUVRiWnYxUW03bXc0OUhJY0QtdGRCZmUtMUJ6QnpZdw?oc=5",
+     "t_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
+    },
+    {
+     "t": "FAA Ground Stop November 13: Refunds, Rebooking and Airline Rights",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRXJPRzM0bFBvR0tXX05KLS00cTk0M2RpS1o0SGZ6OW1PVGhWa0NOVlRQVFhmMzRPbXpyXzh6S29XMS1QeHJiamlTYmFSLWFDRnppNjh2cnV6Z0x6aDNhazJ2YU41QjNEVXJVOGNVUC05d2sxT0luNktVem5zMTBCVmc5bkN0VDdwZGVwUkFrQWMyYlBCS0ZEWV94SEkwRWRjckk3M0k4NUQ0TGFMSERVY0o1cHd0MHJlYTMtR0V2THB0X3U4bWQtNTdKNjFpQUc4TDRkR0FGanZzNEVEdmFFNWhjV3pNXzJxX29NdGJNQTNGcHl2bWJsNmVmRHN2ZnM?oc=5",
+     "t_id": "FAA Ground Stop 13 November: Pengembalian Dana, Pemesanan Ulang, dan Hak Maskapai"
+    },
+    {
+     "t": "FAA Nationwide Ground Stop: Router Failure Triggers 12,462 Cancellations",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaDE5UC1qeVJpOHQ4TnRnUmFxQ3hNYVhEcFgtV1dLV0ZNXzlmbVhrWlJEdFhXcU9ySkNaSDNkMVFCQlBPWlhXZ2NyUFdtVldMUWEwR1BQU2tac0dSN0NwdUFDNENGdm9JbTNwSXhDTU1YRFBTRFpWRUlaMnF0bjM1TUExdXg4bEQzdzBFMHV4bUFaNTRxWGZMUE1vRE1NTndNdmFZZWtwQ0s5b2EyZHhhVGxFaTg4bkdzNE1vN2ZCT1RpVjYxRU5acHV4VDQwYm5JTkNvOG5RRkxuY0o1M3RSQTZGN29kdFJGczl0aFFBNA?oc=5",
+     "t_id": "Ground Stop Nasional FAA: Kegagalan Router Memicu 12.462 Pembatalan"
+    }
+   ],
+   "title_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
+  },
+  {
+   "id": "transportasi-202611160413-d4aa",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Air Traffic Control Ground Stop Sets Up Funding Fight Between Trump Administration and Congressional Democrats",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUUhTZHRuNGlPQ2licHBfUEozOFR5dE5zT1lJUzI0YTVENGpBRllseEpRdGE3SGVHSi1DSHpyOG9jWXdJR1pCQ014YTJtMTVBY0FGd0xoSzQ5cXZ6NGVBbkNpSzFsRTY4TjZ1RTRWb3ZJTTQ?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-15T23:21:00Z",
-   "last": "2026-11-16T22:06:38Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "first": "2026-11-16T04:13:41Z",
+   "last": "2026-11-16T17:15:03Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Americans fear the worst amid Pentagon doomsday prepping, Black October, email outage, airport chaos",
-     "src": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRWg3RWFHYkVmR1J0SEltSWIxX2xnMnZLS3F4dHlyVWhSaElzb21veUxtT3VGQVJWaVN5cTEyUE95ek1RLWJJMzlMX1pRM1g4b0VrR193VFdUaWprZkllSXgyMWRiWmlncnpiQ295VGF4aGliRnBPOF9lcGZSVUN0VlFqYVgxR01RcUZzR1gwcnJzcW9vNWNfbWNaUzVHZWNTQzdxbjA2NmttdThxOTRETVlEcjBIMm1oYVU0S2xhQkhUR0ZaQzlhUU1EbHQ4VFVaVXcyOWpCdXVWaVhBSU1ETnpDNHVTVVYtTWlZ?oc=5",
-     "t_id": "Masyarakat Amerika mengkhawatirkan kemungkinan terburuk di tengah persiapan Pentagon menghadapi kiamat, Black October, pemadaman email, dan kekacauan di bandara"
-    }
-   ],
-   "title_id": "Kekacauan dan Kegembiraan Tak Terduga dari Pemadaman Email Global selama 19 Jam"
-  },
-  {
-   "id": "indonesia-202611160735-660c",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo di Pemkab Jombang, Buruh PT SGS Tuntut Penghapusan Jam Kerja 12 Jam dan Kenaikan UMK",
-   "src": "rmoljatim.id",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkFrRkhZdEhSYTVpVFRCcHhPUkd0RllPMWZwVWE5eEtSdVBrVUx2ak9fTlBMV3ZPblhUczJkekhYLVJwbExfcEh1eTh1WXJucGVMNVRwT3RfWWt1UGFxSVdfR01FdnN0aEh5ckNLX0h2YUZnUDAyYTFMMTVxNEtucmdRT3VLS3lmWS1Xekw1b09fM3AyZjBROVJ1cFA2RWx3anMxT19aWXQ4VmVYdFhLdE1Hbw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T07:35:40Z",
-   "last": "2026-11-16T14:48:35Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Demo Buruh di Jombang, Tuntut UMK 2027 Naik Minimal 10 Persen",
-     "src": "tvOneNews",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0x1YWtmbjBrSklzR0NXQjZLWlR3S2kzX1Z1MGNtX21CWXMyYUNMSWt4QnFQQUZqT0xFSW1JMzNJQk1nSEEzMl94WXpmMGdpUlBIUjhPbHZ0YXUyb25rODJOSWhXTWVFZ2xEaldrUFVKNXlodThwTnlJX0hLcWI1VlVTd0ZHM2hYbV90V3g1MkZUMXUxeWZyXzZKWnFPMk5jVnotQ2F2VjNFQdIBrwFBVV95cUxPSW5fRWI2WV9LeVc4QjE1SGZTbEs0VE1RUEZXeUhjdTM2NW83VElLWXpSVlk0RTdRUlBvNlNEMER4aGY0anR6Sld1WHFleEQxX1VFOV9VVHI1TmpHXzRZR2RUaDBjdXBScE1FN2tKTGtZWi1VeGJXQ2FkMEtYYzRsNGFDUW92aEh1ZS1TOG1RbmFFSk9jaWpqS2U5Qnp2V2VyaWxxZmloWUVOOUkyaS0w?oc=5"
+     "t": "‘I’m an Air Traffic Controller’: What the US Ground Stop Means",
+     "src": "JournalArta",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWMxdEM5cWFhd0h2Rnk4Zm1KX0hHQ1dGbmpWTUNfRXU4ZnByVmxkQjAzZk5GRTRfUUxpMjgxQTdvWHZnb1hqZVdoMW5QWUVqai1LV1hRZ3cxNUMzS1poV0tzQUZaX1loVldTWmxEUjY1dzhDQ19BemVmeXBlUmNiaHdEX0JabUZzVllzV2h0WDhkdWxhOU1z?oc=5"
     }
    ]
   },
@@ -237,107 +252,12 @@
     }
    ],
    "title_id": "Ukraina melancarkan serangan drone terbesar terhadap Rusia sejak perang dimulai"
-  },
-  {
-   "id": "indonesia-202611152305-a66f",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Besar-Besaran Tolak Proyek Data Center, Ribuan Turun ke Jalan",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVRzR3lvX21tRVdpaTV1VUlFSm1IenFzVEtJbkdKWkY1LW9ubmZ0R1JlcEUzaFRLa0E0ZTBGSHNVX3hHaVpEMGM1ajJkNTlHVU1CUnRTSld0X1B6LWF3eUFyTVRjSHNJZ1hVUDg2VmdmdTVpazJzZDV4cVpUbHptbV9IMEg0cTctQ3pQSkIxUGtWN2F2TXJreEdpcXZoZ1VtOXhQTmh6SXpCRmhTOE1QSlFvWi1RMmYtY04wQlpKT0l1MkU?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-15T23:05:00Z",
-   "last": "2026-11-16T11:15:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Potret 350.000 Warga Turun ke Jalan Tolak 'Pembungkaman' Media Massa - Demo Republik Ceko | Ceko Berita",
-     "src": "Head Topics",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWIxUVA4RHJ1blQyTEZud05CM01GRzR0UHFucTVNa1ZNU3Q4RTVDQXdOblFWRFYtTlg2UUpjSWpTT1kyU2ZROEtGbGo1b2hBUUdnYlZTMERiamFsUHFmbHVsbkpJYWpVcjBxZ0dlOVIzdmdKZjBDSHdfU3RsM0tuYk5nb2E2OXJucTNMMG91alZENTFnS00weTNR?oc=5"
-    },
-    {
-     "t": "350.000 Warga Demo Besar-besaran, Pemerintah Dituding Bungkam Media",
-     "src": "CNBC Indonesia",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFEyekNHUm0zd0N5b1l3NDhFUk1mSVQ1SG5aaG5kb2p3VjdPQm44MFZVRmRmMlJDS0k0THI2aXV0OWJINXV5ZjBYbEJEdWxOVFVqY25ISldoeGQzOHpYbmFvRndCa2RwMTlLY1lyeDV5TmRGUE4tcjNmaXRzVFA0UndjLVJtNnRybGFWbi1nT1VmUDNGR2pPSmg4VnczQ1FydWtqY0JRZ2huR1pfQzh3Umc3UjdtUjBVaERiMFhYOEF0QdIBxwFBVV95cUxPQm1GeDJ2aWRHY1BtMW52QWJ1SWdFaGxxUjd3M1NsWDcxZ0xKOUd4MWpPX2lOZlVlMDlUTUIxZ0RrWGtEbW5jVTNNaWRqSk9xdVdSV1hjbDRrZEV6eTR4b2VaVVMwMVNTVmVUYUZfb0tYTFk1ZUtrZE1lMWtjbjFLTG9KR1pHeFZaTVB0WjNYd202YWhWQk5YQnhHMnhwek1yRDZxcVV6Z29NamNFVUE1ZWxkWTFoQ294T0VvcmtTQ0IxcEQ5QWlF?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611160936-5047",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Ribuan Warga Portugal di 32 Kota Gelar Demo Akbar Krisis Perumahan",
-   "src": "IDN Times",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVy03WWhabVNSVUxmblhZbUVSQkhKRXFqdE5GWW1abmt2QnltVmFlUmYzak1RRnRsakdyUHZEYW56OHBuZThiYThicURuN1hLbVNDNHVnQlNOa280RmY0cW5ZZi10bDNoQ0M2aXA0Q25EYWc2NWhOdnpyQ1FuNUNiQm9JUS1uZHZSeWVQdDBVWjFUWldDRGpNRlNWZnAycDBFUnVJUy1WRHJDZ1NaX05qQV9PYVd3YmxNczBKY2dYOWbSAcYBQVVfeXFMTTlIemhpVklDT0JreWlkS2ozaFhtdnBVUjJWWE4zeTVhanFFTWVQOEFkMXozQkFXX1dDN3ZPVzBYaVBoRXFwYmlLSGVtVm80Y2p1TG1iNGhkejl3dVozSlY5dnRUY05MX3FBdEoybklaSjdXaWdBTVRhWjVhSXRMaHhpVEF3SF9lUjAwbFFBYnoyX0xPXy1VOGVBTUVXeng3c0QzN0J3Z1ZBRHBVbk4tM1FJS0ViTVNnT1gyb1VtNGxISGQ5TWd3?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T09:36:00Z",
-   "last": "2026-11-16T11:06:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Warga Portugal Gelar Demo Besar-Besaran, Protes Harga Rumah dan Sewa Melonjak",
-     "src": "Koran Jakarta",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVFwVmMwcTFEc1h6aW5sR0lsZmx4NlAtT3AtZlVKRERKN29Xd3ZOakdlbW5vOWd6enJyMnJZRl9QWW1DT2J5Zk1rWHVYX251RURLMEFkNDMxcFZTMnNCQnJyVXpfZFZwN1lIMFowc1Z3V2hNSExzcGxiQ0czc2pMQUhZZEtOaVctTFhiTld3R091b1EwNUxLU185cWhhMUZCUHVoNmgxSThXakFJVWc4WnQzQdIBuAFBVV95cUxQVjdGcTg3X2VRX25rWk15dzZ3WlFMNXdNLWNoSnZNMUtJZW13YWJuMURKWkhsQ3VpUmpfbTZ6V09NZ1lCQ0wyQjRhbWo1MjJtV1M3dzlhTVdsX05zcE5VS1ZFMXNlUVpjY0ZmYmRrZ3lOSXlrczFLVnZiVUJRQU9kTHNyRXBQTFhQQi1mTlV0UWs3R1Q5Y3g5YVB5N0tfeFM1OUJWaTExOEM1NFl3RDlxdDFUT2FVc1Nq?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611160910-1a67",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo di DPRD Kabupaten Gorontalo, Komunitas Sound Desak Aleg Zulkifli Nangili Minta Maaf",
-   "src": "Kontras.id",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2VSQm90TzhiWDA0UW9VTHRYaS1fQy1HUmpuamY0eEM4dmQwT2dhQmNnVzlBNmVBeEc5SDBuU3JhMGRYRkg4amJvclJzQW1MT0drbmt4czZHMkpDaFZyX29INDgwOFM3ZHlvQnN0T1hWd0ttZXFTMGhkbGdoYVhRdmhzMlBJaFZjc0VwT3B5R2MyWUl1VGhhZ0JtSzRKUUllRGhURXBabVJGX3J3aUpjcDF6dlkxRE5Yb2c?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T09:10:46Z",
-   "last": "2026-11-16T09:55:38Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Pernyataan Oknum Aleg ZN, Picu Komunitas Sound Demo DPRD",
-     "src": "Rakyat Gorontalo",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVBkUnRiWTMwUGxkRnJ3c281S1JOeDhhaUxYZU5uZHUwMk9lazlNVFNlb3F1NDlBTDM3UmhPSnJEbkhsWlhGZHUxYXdBZzJjdjQ2VVZJbnZCYU9UOUhfZDdGWXRRVGJBNERGdm94VEtVeW1pZE9XcnFjd210SkdHWEVONEhpX2hKSDMzcGR4Y3loal94VkZtMzlObw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611160645-ce98",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Tiba-Tiba Menteri Tito Pelototi Wilayah RI Ini, Rawan Demo Besar",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON25wVGxXU0tGNnFqdEZzNVZ3dGY0a2VHbndjTDFDZTNNT2xDb3FPT2RkRGpfU0ZEM2JPMzhPMG9aS0VJQm14Ym8tLVhVeldXRWRYN0VfNkNEN21JdkZENE9NdVVpamZyZHRkcmVpczdiZWQ2Y3RkN0tnQ0NVcVVqOXh4N2s3dUltaVMwZVIzeUstUDQ0am9BdUZlX29WTmxsR2R5d0VCVFp2dU5ibDlqT1JUMmQ1LTQ2VEVOUkczUdIBxAFBVV95cUxPaHk5M2NaT0hCbXdRQWQweDBWSXlhTFlSN1NsY3BlRmFLbVBPSWc5MWwwclE1N1hOaUFBZVZ3aDlSZkZsMTdwUXNaUW9IRE9ibV9wVkczSTZYMVRxdjhoV1J2ZDB6VEVWSk1aXy1YSTJBRWNEWEEzUFBxV25VS1plTTdXY3FLUG1KNnJiTVJpMElSRzRSX2VJZGxuMnE0WVM4UlZ2bUhzVjdRVVVPY0RSTVdkdVpUMFlrMGtSUzAxU01UQ3dn?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T06:45:00Z",
-   "last": "2026-11-16T06:48:46Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Mendagri Tito Soroti Wilayah Rawan Demo Jelang Penetapan Upah Minimum",
-     "src": "Zonautara.com",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzFiMkpOMklTU1Z6UEVRaUR6LWlQZTF6MDNsYkVodExVUmtEa29Ba015ZlhvenRBczlpamhYTWk1TlZQZElPa3FIbEpkTlkyRnJqZHhLSEtERVlFamhFcEY5aWpNM1dVdW92Mmo1cDREb2ZrN1FTRldLUC1PYV9udkZmUXdhQXVOZ0pNd3h2ZFV3blduNFZIWFlYX01iSVZITGlxdXBB?oc=5"
-    }
-   ]
   }
  ],
  "errors": [
   "kerusuhan: HTTP Error 429: Too Many Requests",
-  "transportasi: HTTP Error 429: Too Many Requests"
+  "siber: HTTP Error 429: Too Many Requests",
+  "energi: HTTP Error 429: Too Many Requests",
+  "indonesia: HTTP Error 429: Too Many Requests"
  ]
 }
