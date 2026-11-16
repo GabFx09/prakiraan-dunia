@@ -1,7 +1,46 @@
 {
- "updatedAt": "2026-11-16T05:23:51Z",
+ "updatedAt": "2026-11-16T05:37:44Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "siber-202611150559-3f00",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Microsoft outage shows that big tech can’t be treated as too big to fail",
+   "src": "The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXZDUzYyMy05RHpGay1vQ2xxU3phZ0pZeUJlbktWTjZySVN5Mzd3VjNGdHhHT1VRemVlOXZIRjV0YlpGczlxdElqeHNTZ2F0STZSTlpsbkR0SG5qQmVMQ2Z3QUNJOFF6NWZ5ZTFva1BBczV6LWJ1RWdqVW44SzdZcVc0U1lfQ0RqNXYzN0xrclEtZHlueEdPVThjQ25zRkxYNUlCLXRKN3FUQQ?oc=5",
+   "sources": 7,
+   "recent6h": 2,
+   "score": 8.0,
+   "level": "besar",
+   "first": "2026-11-15T05:59:13Z",
+   "last": "2026-11-16T01:27:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Microsoft outage exposes cracks in Australia's defence armour",
+     "src": "Big News Network.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkxLTXAyZEVtbERZaGJDTXBxakRZb192cTdPTUstUEtXS1o1VzVJOWwxbmNsN2pDWEtkcm5oNUJJSjBadktvWVdnY3BHdUMyWEl0TFZJc1UtYVZQbmtlT2tMNW5ERWlhSEVoT1FpWm85bUJKa210OXJKUjlVeVlKLWFOeFhjV3NPZl9BZjZiaGszcXkwM3ZQRGtFRkJRTUhHZXNpalFUQ18?oc=5"
+    },
+    {
+     "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
+     "src": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5"
+    },
+    {
+     "t": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+     "src": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG1uUGNQYlAxRzRfVTBBblV4UzBEd1hFYVdZOUg1N0tRUm1JUXY3d0VLZzJGb0dXdE5kZFRlc2FDbk15NktNNEQ1X0hiNURrdkxpVTctSmRRYThWVGtEVGRtUUFXRm1CbEZvMXpkd20zeTdibGtRQ2tSd0JuYnJXQTRZc2tzOEVlQm5PUVpCZy1SMU5yaWRibXlrSzdDSFBZMjhqd3RNbWpJMEdwLXhjTE1xUktEazFXVlJN?oc=5"
+    },
+    {
+     "t": "Microsoft Outlook Down Again? Users Report Fresh Problems a Day After Microsoft Declared Global Outage Over",
+     "src": "International Business Times Australia",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUptMHItcUlxZ0JDdWZMS193alFqajk0bXYtc1o3Sm9VUmtHXy16REVua1JMd3pRa0ZXUkxocmZnZTVneHJsQk9sTC1LNmI0Q1htNnhYWU1VVFZNTzdacFJiWE0tcGNubGtoRjJWM25SRzFtQ3p3YnM2RWF6VFc3NGdqbkpPZXBwRGFFLVVJcno?oc=5",
+     "t_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
+    }
+   ]
+  },
   {
    "id": "perang-202611150532-3b31",
    "cat": "perang",
@@ -10,9 +49,9 @@
    "title": "Iran targets US military base in Bahrain with drone attack",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
-   "sources": 9,
+   "sources": 6,
    "recent6h": 1,
-   "score": 9.5,
+   "score": 6.5,
    "level": "besar",
    "first": "2026-11-15T05:32:08Z",
    "last": "2026-11-16T02:55:23Z",
@@ -43,46 +82,6 @@
     }
    ],
    "title_id": "Iran menargetkan pangkalan militer AS di Bahrain dengan serangan pesawat tak berawak"
-  },
-  {
-   "id": "siber-202611150559-496a",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft outage exposes cracks in Australia's defence armour",
-   "src": "Big News Network.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkxLTXAyZEVtbERZaGJDTXBxakRZb192cTdPTUstUEtXS1o1VzVJOWwxbmNsN2pDWEtkcm5oNUJJSjBadktvWVdnY3BHdUMyWEl0TFZJc1UtYVZQbmtlT2tMNW5ERWlhSEVoT1FpWm85bUJKa210OXJKUjlVeVlKLWFOeFhjV3NPZl9BZjZiaGszcXkwM3ZQRGtFRkJRTUhHZXNpalFUQ18?oc=5",
-   "sources": 6,
-   "recent6h": 1,
-   "score": 6.5,
-   "level": "besar",
-   "first": "2026-11-15T05:59:13Z",
-   "last": "2026-11-16T01:00:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
-     "src": "Security Affairs",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJd9IBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5"
-    },
-    {
-     "t": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
-     "src": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG1uUGNQYlAxRzRfVTBBblV4UzBEd1hFYVdZOUg1N0tRUm1JUXY3d0VLZzJGb0dXdE5kZFRlc2FDbk15NktNNEQ1X0hiNURrdkxpVTctSmRRYThWVGtEVGRtUUFXRm1CbEZvMXpkd20zeTdibGtRQ2tSd0JuYnJXQTRZc2tzOEVlQm5PUVpCZy1SMU5yaWRibXlrSzdDSFBZMjhqd3RNbWpJMEdwLXhjTE1xUktEazFXVlJN?oc=5"
-    },
-    {
-     "t": "Microsoft Outlook Down Again? Users Report Fresh Problems a Day After Microsoft Declared Global Outage Over",
-     "src": "International Business Times Australia",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUptMHItcUlxZ0JDdWZMS193alFqajk0bXYtc1o3Sm9VUmtHXy16REVua1JMd3pRa0ZXUkxocmZnZTVneHJsQk9sTC1LNmI0Q1htNnhYWU1VVFZNTzdacFJiWE0tcGNubGtoRjJWM25SRzFtQ3p3YnM2RWF6VFc3NGdqbkpPZXBwRGFFLVVJcno?oc=5",
-     "t_id": "Microsoft Outlook Down Lagi? Pengguna Melaporkan Masalah Baru Sehari Setelah Microsoft Menyatakan Pemadaman Global Berakhir"
-    },
-    {
-     "t": "5 Immediate Lessons From the Global Microsoft Outage",
-     "src": "GovTech",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0tZTGM2WXJ2bER0amxyZ19hRGZjcmJFUUlwWktpM3JnNVlWaS10Q0RBSGoxLXR1Uk5UNzZUcjcyOWVwbEFVTkJmSEN3Q3ZJelRRWWZCekJZRHNxU3VDR3ZqQTg4NFQyUjFjMFIydVZULVVPNEFJcTlsUkdZNVVOSk1mREQyT3BLellyX0o2T2djR1ZSOEVMOG13TEF0RHMzRTZESXAxMXlXYl83?oc=5",
-     "t_id": "5 Pelajaran Langsung dari Pemadaman Microsoft Secara Global"
-    }
-   ]
   },
   {
    "id": "transportasi-202611142127-05bd",
@@ -151,39 +150,6 @@
      "t": "Will Spain’s snap election in November bring a far-right party into government?",
      "src": "Mezha.net",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM08welBsci03VEJzampzM0Y5d1ZmMGU4a3lIeGFYYkNNZjRhZzNIUmtubS1FMDNEMHUyV0c4V0FiLTNsNWxoZnZCZmtWRVpWcVhEM3VfMV9Mb1VLVUVPOVFvcHV1TlJBbnhObzZuc3d6M3VmSGxlMXYwSFVHd3Vxdjhn?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611150321-fcbf",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "350.000 Warga Demo Besar-besaran, Pemerintah Dituding Bungkam Media",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFEyekNHUm0zd0N5b1l3NDhFUk1mSVQ1SG5aaG5kb2p3VjdPQm44MFZVRmRmMlJDS0k0THI2aXV0OWJINXV5ZjBYbEJEdWxOVFVqY25ISldoeGQzOHpYbmFvRndCa2RwMTlLY1lyeDV5TmRGUE4tcjNmaXRzVFA0UndjLVJtNnRybGFWbi1nT1VmUDNGR2pPSmg4VnczQ1FydWtqY0JRZ2huR1pfQzh3Umc3UjdtUjBVaERiMFhYOEF0QdIBxwFBVV95cUxPQm1GeDJ2aWRHY1BtMW52QWJ1SWdFaGxxUjd3M1NsWDcxZ0xKOUd4MWpPX2lOZlVlMDlUTUIxZ0RrWGtEbW5jVTNNaWRqSk9xdVdSV1hjbDRrZEV6eTR4b2VaVVMwMVNTVmVUYUZfb0tYTFk1ZUtrZE1lMWtjbjFLTG9KR1pHeFZaTVB0WjNYd202YWhWQk5YQnhHMnhwek1yRDZxcVV6Z29NamNFVUE1ZWxkWTFoQ294T0VvcmtTQ0IxcEQ5QWlF?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-15T00:23:31Z",
-   "last": "2026-11-16T03:36:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Potret 350.000 Warga Turun ke Jalan Tolak 'Pembungkaman' Media Massa - Demo Republik Ceko | Ceko Berita",
-     "src": "Head Topics",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWIxUVA4RHJ1blQyTEZud05CM01GRzR0UHFucTVNa1ZNU3Q4RTVDQXdOblFWRFYtTlg2UUpjSWpTT1kyU2ZROEtGbGo1b2hBUUdnYlZTMERiamFsUHFmbHVsbkpJYWpVcjBxZ0dlOVIzdmdKZjBDSHdfU3RsM0tuYk5nb2E2OXJucTNMMG91alZENTFnS00weTNR?oc=5"
-    },
-    {
-     "t": "Aksi Demo Besar-besaran Kembali Terjadi di Prancis, 106.000 Orang Turun ke Jalan",
-     "src": "Koran Jakarta",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnBUVnZxOW5FTFN3OWFRSV9LRVNKYlF3V1d6LWlYTElvbGRSMERZU21XNmZnRVFMOHFEU2szT0ppSDRPME5UMHhZSWc2SVQtOVZwSWZOUzFxNDdqVm9RNUpxWE0xOHRJeHZmeGFjMEhpSlN3Q1U1YjFoTnctb3Jtb2RYb3JuR012UXdad1M5VjRXR0ZtZWh2X0tzS042cllvemhDRk5WZ3ZLbGF3Y21LbFlDVWJRd9IBuwFBVV95cUxPeUFyVVR3T052aDhkSkRhUmtLaXdVUHdFc3poZUZiTXBuM1k4OE9NWjZnSVVWcjZrWUd4alZQclpXdk5lUXV4elRfY2IzZkNkNExyQXBfRXFGMG9INHI0YmtwSnl4bEhyU3lhVExpNmFtdXlEdTJXSmpLSDBRampqMXR5MWNWeDdWa3YtMWM3NjF1LUh3d2pNTFU5RlBMZ3VuSHM3LTR4Tm9qQTdkVTVXRlREME9jandaaGRR?oc=5"
-    },
-    {
-     "t": "Gelombang Demo Rompi Kuning di Prancis Memanas: 106 Ribu Orang Turun ke Jalan",
-     "src": "Suara.com",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZWhUVUMtRV9NTlRkOFV0clREUkptSlk3WFIxZnUwOGlvSElxNEJRbkZ1OC1IZW1OUjRWajFCaWtrcHVFdy0tVG41X2syUVk3MzhyN1dEMUpsWngxVlFrblNCejg1WEkwQ3k3dzlpMEtkcllBN0R4N25NZ0VscktkN0UwTUhndUlqaEFYNlVlT2pNaHZUVmdONXR6N04tcEJtb3lmR0x3cUdYcDhROTJGRFVhM1J0RVJ5MEdST2p30gG-AUFVX3lxTE5BdzVYeXNmTFR6aHQydFpZejdFS1llSFBFZk1BSmlCUUlpODc1VDVQUGdQclJVQWI5Y3ZHTWhxdHIycVR6TXM0Wm5MUmZXMEpRQWh4anRjUGFuNEt0UDdPZnYtSEMwZkEtTzBteF9UUXhvUmhNanViSzg2SWljMnZEZWowT2tQUHlXcDg3Nmp0TUFZOS1NY0pPbXczcEhCQ3Z2UV85UW50dmhURGd4aUpreTVid0F0RVpIWUMzMEE?oc=5"
     }
    ]
   },
@@ -262,6 +228,39 @@
    "title_id": "Video | Pemberontak Houthi Yaman Membebaskan 600 Tahanan Perang yang Ditangkap dalam Eskalasi Pertempuran Terbaru"
   },
   {
+   "id": "indonesia-202611150321-fcbf",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "350.000 Warga Demo Besar-besaran, Pemerintah Dituding Bungkam Media",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFEyekNHUm0zd0N5b1l3NDhFUk1mSVQ1SG5aaG5kb2p3VjdPQm44MFZVRmRmMlJDS0k0THI2aXV0OWJINXV5ZjBYbEJEdWxOVFVqY25ISldoeGQzOHpYbmFvRndCa2RwMTlLY1lyeDV5TmRGUE4tcjNmaXRzVFA0UndjLVJtNnRybGFWbi1nT1VmUDNGR2pPSmg4VnczQ1FydWtqY0JRZ2huR1pfQzh3Umc3UjdtUjBVaERiMFhYOEF0QdIBxwFBVV95cUxPQm1GeDJ2aWRHY1BtMW52QWJ1SWdFaGxxUjd3M1NsWDcxZ0xKOUd4MWpPX2lOZlVlMDlUTUIxZ0RrWGtEbW5jVTNNaWRqSk9xdVdSV1hjbDRrZEV6eTR4b2VaVVMwMVNTVmVUYUZfb0tYTFk1ZUtrZE1lMWtjbjFLTG9KR1pHeFZaTVB0WjNYd202YWhWQk5YQnhHMnhwek1yRDZxcVV6Z29NamNFVUE1ZWxkWTFoQ294T0VvcmtTQ0IxcEQ5QWlF?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-15T00:23:31Z",
+   "last": "2026-11-16T03:36:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Potret 350.000 Warga Turun ke Jalan Tolak 'Pembungkaman' Media Massa - Demo Republik Ceko | Ceko Berita",
+     "src": "Head Topics",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWIxUVA4RHJ1blQyTEZud05CM01GRzR0UHFucTVNa1ZNU3Q4RTVDQXdOblFWRFYtTlg2UUpjSWpTT1kyU2ZROEtGbGo1b2hBUUdnYlZTMERiamFsUHFmbHVsbkpJYWpVcjBxZ0dlOVIzdmdKZjBDSHdfU3RsM0tuYk5nb2E2OXJucTNMMG91alZENTFnS00weTNR?oc=5"
+    },
+    {
+     "t": "Aksi Demo Besar-besaran Kembali Terjadi di Prancis, 106.000 Orang Turun ke Jalan",
+     "src": "Koran Jakarta",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnBUVnZxOW5FTFN3OWFRSV9LRVNKYlF3V1d6LWlYTElvbGRSMERZU21XNmZnRVFMOHFEU2szT0ppSDRPME5UMHhZSWc2SVQtOVZwSWZOUzFxNDdqVm9RNUpxWE0xOHRJeHZmeGFjMEhpSlN3Q1U1YjFoTnctb3Jtb2RYb3JuR012UXdad1M5VjRXR0ZtZWh2X0tzS042cllvemhDRk5WZ3ZLbGF3Y21LbFlDVWJRd9IBuwFBVV95cUxPeUFyVVR3T052aDhkSkRhUmtLaXdVUHdFc3poZUZiTXBuM1k4OE9NWjZnSVVWcjZrWUd4alZQclpXdk5lUXV4elRfY2IzZkNkNExyQXBfRXFGMG9INHI0YmtwSnl4bEhyU3lhVExpNmFtdXlEdTJXSmpLSDBRampqMXR5MWNWeDdWa3YtMWM3NjF1LUh3d2pNTFU5RlBMZ3VuSHM3LTR4Tm9qQTdkVTVXRlREME9jandaaGRR?oc=5"
+    },
+    {
+     "t": "Gelombang Demo Rompi Kuning di Prancis Memanas: 106 Ribu Orang Turun ke Jalan",
+     "src": "Head Topics",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT2ZFOU9EQmNuY3loMEdrNGd5Nl9OUlVvb1JXVWZ3ZWRHTVFFTzA5cTFGbEloM0JMZzllUmRJRm9BSEcyaFh5OGVRNUZIcU9CaW43X1NVclYxT2tfNEdNdW1YRndJMTVRelZ2MXI3TjlyYWZRWFhQbklOdUNrOHBON0h2NkhmTVljR0ZjVDRkcFRHLXpiYlU4SG15bw?oc=5"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611150906-0f77",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -315,52 +314,6 @@
      "src": "Men's Journal",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0N3aEdqSEQ0ZG9hd0NCYXJlQmdBeWNRVWVOQnlVM3I4RmU1RnRyck50SDdWbzVxM0tCY2pBQVpVN1ZqekpodFNkNE1aSmlIaG5jWHV6a1E2V1ZYVFR0bUY3SUgxVG5tS3Z2QlVTWkZXaDBvTW1Zc3pYellDUjJuckhaZ09IdjVh?oc=5",
      "t_id": "Pembatalan Pemadaman FAA Mencapai 15.000 karena JetBlue Memotong Lebih dari Seperempat Penerbangan Hari Minggunya"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611152321-a1e9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1k3NUhZNy1SeFNkMVB3THZEMGtZMnRObVVEUTZoQzNhX0VqRkRyQUo1Tnd5RjZfdzBsNVd6d3U4ZUtuRUxEZWxzZC1Da3RZa0doQ21RdmszOE5XM1NJZDdUQV83VnExcE5nZk93ZS1WYkYtNjNqVG9HZENmM2FxSjJ2MXd3Sm84X1E5UTZZUVVfYm1KTHlkZ25xOGFUR2Y3enB4a09faGlHWWZY?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-15T23:21:00Z",
-   "last": "2026-11-16T03:45:55Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Americans fear the worst amid Pentagon doomsday prepping, Black October, email outage, airport chaos",
-     "src": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRWg3RWFHYkVmR1J0SEltSWIxX2xnMnZLS3F4dHlyVWhSaElzb21veUxtT3VGQVJWaVN5cTEyUE95ek1RLWJJMzlMX1pRM1g4b0VrR193VFdUaWprZkllSXgyMWRiWmlncnpiQ295VGF4aGliRnBPOF9lcGZSVUN0VlFqYVgxR01RcUZzR1gwcnJzcW9vNWNfbWNaUzVHZWNTQzdxbjA2NmttdThxOTRETVlEcjBIMm1oYVU0S2xhQkhUR0ZaQzlhUU1EbHQ4VFVaVXcyOWpCdXVWaVhBSU1ETnpDNHVTVVYtTWlZ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611151002-f76b",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdlRxel9hZWtiTmd6OWV3OHRCZjhpUS1Obm1adXlGcWVnaDlRMi1mcmpuT2xlNUNxbXhJVnMxdXdFMmxnLUZIdFNkZk5uOU5NamEtSGxsMUktaGFlWXZ1Mk9BdmZveDZHcnk3LWVwdDNHeF9XcnUwZGFrelJCTlIwYjFYU1c5TGdTbmJmQ0RVXzNHdWM?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-15T10:02:06Z",
-   "last": "2026-11-15T21:15:45Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Outlook Outage, FAA Stop: 4+ Hours Down, 0 Link Shown",
-     "src": "shattered.io",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJ0NmY4Vi10RGw2X01LdGVvMUkwYjYzYW4yMWdNS01CamFfX2d0ZVRwbEduVUJwdDZmZGJHNHBTaTEybkhKTlV4TFBPZVp6MnlCQzh0TWxXUXRhUUdRTVNITmRuVExIZmVJaHhWcGhScVBJbDVjYUpGN05peDhuRVV3Z1hhTEFHYnc?oc=5"
     }
    ]
   },
