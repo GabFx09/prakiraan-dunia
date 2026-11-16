@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T17:35:39Z",
+ "updatedAt": "2026-11-16T17:50:18Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -183,8 +183,8 @@
    "src": "WZTV",
    "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNcEF2RFRuUFVjMFVLSTBOTGhIQm5fSjh1aEs3TzFHbmRHVEF3cTlWYzhoUndNQThFcVY5ai04emdWRndwWGZDRjY4SnprMmJRdjFJbHZCSDhocjVPRmtWSXNMXy1sYkE1Nm5rTWtGemN3UTFKWUlrc2F2XzQzSURuMEJVcHItUk9uZ29qdFl5ZV96WWZhd0RaeUZSTjdlQ3dPMV9JT250bzFRT3ZvaDB5d3JmZjNTZ0V5QVZZV1E0N0dOYjlaTnp1T1psWU43LVFmRklBZGpBal9kZmY1RU0tS2wtT25ILXdEWF9NRUs1QlFnMWZxTFdCcVllR2R5SHpUdjFTcm5aVG0wX1RpcHFxYy03andlczVvNnYwNlcxU2tieXlrVGVCaUIyNndjblhBcjk2dS1ORWZfcnlFTUltSDR2am9VZ1VQQjZN?oc=5",
    "sources": 5,
-   "recent6h": 1,
-   "score": 5.5,
+   "recent6h": 0,
+   "score": 5.0,
    "level": "sedang",
    "first": "2026-11-15T14:57:15Z",
    "last": "2026-11-16T11:48:42Z",
@@ -218,43 +218,6 @@
    "title_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
   },
   {
-   "id": "siber-202611160638-7586",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Why the Microsoft 365 outage is different and why it takes so long to restore email services",
-   "src": "Cobb Courier",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdUVnX09XWHJZWWMyZC04SmduT0FzTlJZNnZxY3hiT3k1WlNLVjV5LVhaQkVodVkwYndVMDhheFhmYTIyU2FQRkZzODY3TktfWl9WRm8xSTJTdkxjLTVRdGJJM1hOYURFaTlHV0xWVkIxR0YwVEFwTExBMGVRNVc0ckRUbGpiR0RJYmpPV1B0MV9uc3Yxak5ZRFh4WHRsTFpUdUYtaXUtWTBIa0lsZUp4ZTVuanJoSVVrX1JmWUctTGhjV0txMVgwTEtlTQ?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-16T06:38:06Z",
-   "last": "2026-11-16T15:36:29Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft Finally Explains Why Major Outlook, Microsoft 365 Outage Happened",
-     "src": "Gadgets 360",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcldSdXlaX2lqOHdyWTBsek1lYk5DcTJMdWxkY053c0hCMkMtaDNpUWpKUk9CS0o1OXM2YjlWamtBdjVzQkNzQkdYdE1IQVQyMHlsN3FZR1d2UmdEeXpmN2Z5Qkh0ZkZwMXNVWlIxMjZ1RTNxc3YtTDBYS3RqNE5vd2JCb2g3RjBRVGloZE1qaHBkUdIBlwFBVV95cUxNODBMWEJMeURUUnc1Z1lqWFZzS1VxTlBteDZyNkEwSjBHNWhnQi16QWJqRTBOZW55M3lUU3VVMnBIc28yUXphakU1T0xHTDNaeUp1TklEdjVlUVRyU0FHYnFxeWlCSjR4MXVYdnlfSEw4cnJiRWxUN0RHWTJEalFSVXNmZ1dycFhvRzZXQkZMUFJXMWNMWWVR?oc=5",
-     "t_id": "Microsoft Akhirnya Menjelaskan Mengapa Terjadi Gangguan Besar pada Outlook dan Microsoft 365"
-    },
-    {
-     "t": "Over 80% of servers were down at peak of global outage, says Microsoft; cites July bug",
-     "src": "The Economic Times",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR09sLUJrNTNMcmhFVjFfUDUxbFNHMU5uUElGZXZDVms0aUlaNHp1ZWtuMnlCTmhaSjFNc3FIV0xiVjlJMnVvWWNxbmwzeU11YVV0bVNDcDlGT0tYdURYYi1DUW5PSWZKaVBNNlN3bVFWMUJobVM1UFcyTXczc2s4b2pzbld4QWc5Rm1JTE04aE5wU0w1VFhRTXFmaXZTaW42LWNtak5HRjlBVkRGVEpBZzdiRFNiMHE0ekJCcnhrOElsV3ZabVNMaFBGZEh5SmdzN19zNFJWbGlCRmR0bVBYWXg0bWl2VktT0gHuAUFVX3lxTE1Qd0hMU3ZaSGR6eW1lRlBHSFpQNXAxVzg1SjJSejZWZDJvN1R6RnRzTDhwbHduZ09mRFQyd245UDJaQ2tNYkl6QXJ3YjM3bWVPdjdlMkpqNWp2S0ViLVJaUlh0ck5XUmxwN2VTUU1HRERkTHIwZzZpTkduY2c5TzNHVmIyOVgzNUVrcFEtbEZTLXJRa3lXak1CQnRZSDJNbkVnN1ZJUTJNUTZ6V282SW45VTBLd1Z6VEhPNWVkQ1hVTEFUTm4xOUtld3JkX1hyZWY4R2ZGMElRQ240WHZsQzViZ2FjdlU1Zi1qSVRoeGc?oc=5",
-     "t_id": "Lebih dari 80% server mati pada puncak pemadaman global, kata Microsoft; mengutip bug Juli"
-    },
-    {
-     "t": "Microsoft says network change exposed bug behind global Microsoft 365 outage, issues apology",
-     "src": "Gulf Business",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTFcybU42MjJmZHpwN0ltQ0lhby1ucS1BczdjTXdqemZ3c1pHbnl0emhPVnpMNkRuSTZjZC10d0kzRWNzUU05OFU0SmNqS3pHcTU1SElaRXlISHpoSDRRZldRYVZZdGJJMUV1YWNxUzBvanVlUHRwRV9RLTZBdHNRMFdxZEZreUtZTG9Vd21NS2lLSVNOVWtBMlRLRHQyb19ULVBLcy1fY1VUYXNRNk05dENTQXo1Z2NqOEJWZ1RubWMzVVR4MVdadHFB?oc=5",
-     "t_id": "Microsoft mengatakan perubahan jaringan mengungkap bug di balik pemadaman global Microsoft 365, dan mengeluarkan permintaan maaf"
-    }
-   ],
-   "title_id": "Mengapa pemadaman Microsoft 365 berbeda dan mengapa memerlukan waktu lama untuk memulihkan layanan email"
-  },
-  {
    "id": "siber-202611152238-be98",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -284,6 +247,37 @@
     }
    ],
    "title_id": "Pemadaman Microsoft 365 menyebabkan keracunan gas klorin pada 15 tamu hotel"
+  },
+  {
+   "id": "siber-202611160638-7586",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Why the Microsoft 365 outage is different and why it takes so long to restore email services",
+   "src": "Cobb Courier",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdUVnX09XWHJZWWMyZC04SmduT0FzTlJZNnZxY3hiT3k1WlNLVjV5LVhaQkVodVkwYndVMDhheFhmYTIyU2FQRkZzODY3TktfWl9WRm8xSTJTdkxjLTVRdGJJM1hOYURFaTlHV0xWVkIxR0YwVEFwTExBMGVRNVc0ckRUbGpiR0RJYmpPV1B0MV9uc3Yxak5ZRFh4WHRsTFpUdUYtaXUtWTBIa0lsZUp4ZTVuanJoSVVrX1JmWUctTGhjV0txMVgwTEtlTQ?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-16T06:38:06Z",
+   "last": "2026-11-16T15:36:29Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Over 80% of servers were down at peak of global outage, says Microsoft; cites July bug",
+     "src": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR09sLUJrNTNMcmhFVjFfUDUxbFNHMU5uUElGZXZDVms0aUlaNHp1ZWtuMnlCTmhaSjFNc3FIV0xiVjlJMnVvWWNxbmwzeU11YVV0bVNDcDlGT0tYdURYYi1DUW5PSWZKaVBNNlN3bVFWMUJobVM1UFcyTXczc2s4b2pzbld4QWc5Rm1JTE04aE5wU0w1VFhRTXFmaXZTaW42LWNtak5HRjlBVkRGVEpBZzdiRFNiMHE0ekJCcnhrOElsV3ZabVNMaFBGZEh5SmdzN19zNFJWbGlCRmR0bVBYWXg0bWl2VktT0gHuAUFVX3lxTE1Qd0hMU3ZaSGR6eW1lRlBHSFpQNXAxVzg1SjJSejZWZDJvN1R6RnRzTDhwbHduZ09mRFQyd245UDJaQ2tNYkl6QXJ3YjM3bWVPdjdlMkpqNWp2S0ViLVJaUlh0ck5XUmxwN2VTUU1HRERkTHIwZzZpTkduY2c5TzNHVmIyOVgzNUVrcFEtbEZTLXJRa3lXak1CQnRZSDJNbkVnN1ZJUTJNUTZ6V282SW45VTBLd1Z6VEhPNWVkQ1hVTEFUTm4xOUtld3JkX1hyZWY4R2ZGMElRQ240WHZsQzViZ2FjdlU1Zi1qSVRoeGc?oc=5",
+     "t_id": "Lebih dari 80% server mati pada puncak pemadaman global, kata Microsoft; mengutip bug Juli"
+    },
+    {
+     "t": "Microsoft says network change exposed bug behind global Microsoft 365 outage, issues apology",
+     "src": "Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTFcybU42MjJmZHpwN0ltQ0lhby1ucS1BczdjTXdqemZ3c1pHbnl0emhPVnpMNkRuSTZjZC10d0kzRWNzUU05OFU0SmNqS3pHcTU1SElaRXlISHpoSDRRZldRYVZZdGJJMUV1YWNxUzBvanVlUHRwRV9RLTZBdHNRMFdxZEZreUtZTG9Vd21NS2lLSVNOVWtBMlRLRHQyb19ULVBLcy1fY1VUYXNRNk05dENTQXo1Z2NqOEJWZ1RubWMzVVR4MVdadHFB?oc=5",
+     "t_id": "Microsoft mengatakan perubahan jaringan mengungkap bug di balik pemadaman global Microsoft 365, dan mengeluarkan permintaan maaf"
+    }
+   ],
+   "title_id": "Mengapa pemadaman Microsoft 365 berbeda dan mengapa memerlukan waktu lama untuk memulihkan layanan email"
   },
   {
    "id": "siber-202611151541-c469",
@@ -344,9 +338,9 @@
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Iran launches drone attacks against US military base in Bahrain",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5",
+   "title": "Trump: US forces neutralized 99.99% of Iran's missile and drone attacks",
+   "src": "Apa.az",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVVDRV9oZ0J5YUp5RzJlVnZzZWRXQmdQdUpIOHdaemNLZ1NnTUV5cnRNeUlmaF9OVVFmR3pZZnN0ODhnZ19EaE0zSHhoVlZab0JneHpVVXZDNWhvZW5jbWRxRDBiRGdnQXZnajlNQVFCc3hmTFBER0I1Y3RRNFI1bmtjbG9STXRYTC1vckRKdWtiblNGUnM4NVlheTN6cEItakE?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
@@ -356,13 +350,13 @@
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Trump: US forces neutralized 99.99% of Iran's missile and drone attacks",
-     "src": "Apa.az",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVVDRV9oZ0J5YUp5RzJlVnZzZWRXQmdQdUpIOHdaemNLZ1NnTUV5cnRNeUlmaF9OVVFmR3pZZnN0ODhnZ19EaE0zSHhoVlZab0JneHpVVXZDNWhvZW5jbWRxRDBiRGdnQXZnajlNQVFCc3hmTFBER0I1Y3RRNFI1bmtjbG9STXRYTC1vckRKdWtiblNGUnM4NVlheTN6cEItakE?oc=5",
-     "t_id": "Trump: Pasukan AS menetralisir 99,99% serangan rudal dan drone Iran"
+     "t": "Dubai airport resumes flights after Iran drone strike; missile kills one in Abu Dhabi",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3BIRk81TTBBSkZhUDdFM18wWXpJTlBaYzBEUkw4NGlRX1lHekpVSVlXSTIzcGw3UlNkR3cxeFdMNXpxa0NZMm1tc2JaOEtpVDhwY1hOY1V3WG14UENMRm9WdjliZWVSWVRmRENabGl1VmRUUGlqTGJUX1BocVAwZmxoYmFjRWFVQUdHcy0yLUFzaU85QTltZzBxZk5RUkRUQzg4SXlid2pjUWI1Tm5N?oc=5",
+     "t_id": "Bandara Dubai melanjutkan penerbangan setelah serangan drone Iran; rudal membunuh satu orang di Abu Dhabi"
     }
    ],
-   "title_id": "Iran melancarkan serangan drone terhadap pangkalan militer AS di Bahrain"
+   "title_id": "Trump: Pasukan AS menetralisir 99,99% serangan rudal dan drone Iran"
   },
   {
    "id": "indonesia-202611152305-a66f",
