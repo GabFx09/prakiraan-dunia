@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T22:20:33Z",
+ "updatedAt": "2026-11-16T22:35:14Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,24 @@
    "title": "Major U.S. banks report widespread service outages",
    "src": "CBS News",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
-   "sources": 5,
-   "recent6h": 5,
-   "score": 7.5,
-   "level": "sedang",
+   "sources": 7,
+   "recent6h": 7,
+   "score": 10.5,
+   "level": "besar",
    "first": "2026-11-16T18:38:00Z",
-   "last": "2026-11-16T21:52:42Z",
+   "last": "2026-11-16T22:27:40Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "Chase says a software bug, not a cyberattack, caused the outage that spread to customers of other big US banks",
+     "src": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVm9HZ3AwcExfUVNsc01Na0Vnb293TUFiUmx3MzhSN2c5TlNxR3MweGk0Z3pqdnpjbURnUVVQeF9oQldjZkN2eHRCbm9OeDFXZXZuRUhkRUNpaTEyaFdOZDAySGk3aC01SWw5UnBibVV4dkJmTlRPdVc4ZkswV182dHFSYmtfclllS3Y0OXRSa3BNU0RfYmFzTnF0YlZVS3BsT1h5dlN5QnBrR01QeFFybGdjQmZyV1FCOXNGUy1OV1ZWVEl0LVRmTg?oc=5"
+    },
+    {
+     "t": "Chase, Bank of America, and other major banks suffer online outages",
+     "src": "Yahoo Finance UK",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXNZdlBlMHp2NUtXaWRDWTZWeXhQSWVqd1lsN0FjbTZSY21QWGZfbW5EZERkN1FZa0FjTG1KZXBNMGVHMEU0X3czaXQwUWxnM3Z4aWJLekhPNmYwUF9RMTRkWEYwbUZfbHg4SEJ3OUpObFhubDFJODcybDRVVWgzWG13d3dhUQ?oc=5"
+    },
     {
      "t": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
      "src": "Fox News",
@@ -29,104 +39,51 @@
      "src": "Independent Voter News",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSjhXU3JybTcwUE5rZXhCT1VOT2FtcVJudGlGTnpHNTlHTklucEVKc3JhTnZaUkJkdVJuSGtNeHBxc0VYcGM0bXR2UEpXaGFISHpkQ2NXdkVmaG5fUXI0d01iNjJxdFBPNHpHMlpEd0ZSUXpFM1ZfV2RqeW5GTnh0RTJlN2E5MUFIME5BUXRpcmxxdDk3YjlvbHZEeDJFdw?oc=5",
      "t_id": "Apakah Pemadaman Bank Besar di Chase, Bank of America Terkait dengan Kegagalan FAA & Outlook?"
-    },
-    {
-     "t": "Chase Bank Blames Outages On ‘Software Bug’",
-     "src": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUNHRWlIcjNZR3l0eERtcnliME9IUEUta28wN2VSTlRsM05HUnRlRjJjM3JLS2RJaUl6VVVJcEtJT0NQNW55REpHdjM0WFNyNFczMXhDdFZ6eVRIeGt1eFBvYV9aaTIzSEZBLU4tS3NWTnNrZFE5dnpyanEzU2FFRE5kQW5fU0FjSFh2UlIzZkdCa2hJbTdmTHVOS2ZmVHF5X0E0YVlNc2I2YTFCSU9aZVJRYU9ZdngtLXR0QU9RTzBYOTIzSXVBOEtvb05uNThw?oc=5"
-    },
-    {
-     "t": "Are Chase, Wells Fargo Down? Latest Update on Bank Outages",
-     "src": "Newsweek",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQlVXT1ZYLWVMTHZFSXk0Q2thT1JQMW42dWlkVjVaTkN1U3JtTmUtLXIxOXloNF93NE5MaHR6WFQtOFZfZVF5azhHMjJKdEpUQmpWcEFNdHl1V3R6UVRKS2w5R2lKMXFDN2RNMzU1ZkNmcndiVjJKakw0bGUwbjFseU9YQWhtMVVLT0daMmd4WmJ3STBP?oc=5",
-     "t_id": "Apakah Chase, Wells Fargo Turun? Update Terkini tentang Pemadaman Bank"
     }
    ]
   },
   {
-   "id": "kesehatan-202611160759-948e",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "transportasi-202611160429-a343",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Africa CDC chief warns DRC's Ebola outbreak remains out of control after six months",
-   "src": "Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREN5U0swcTVvb0dlVmJzZnlPaGk0UEp6WURvTjZ6T2JHZkJ2eXBVcXQtWGlhNDlGbk82X1NUVW1OMUdJMHBJMGlSR3NBSlloNHRWdmJvU0RNb0NzSm9xODJYLWJDV1cxd2h2Sm9HSVdsb2tTTHJ3WkVPaHRhM2hqS19EYTN4Vi1EWWtld2N2QXJZdw?oc=5",
-   "sources": 7,
-   "recent6h": 1,
-   "score": 7.5,
-   "level": "besar",
-   "first": "2026-11-16T07:59:16Z",
-   "last": "2026-11-16T18:53:45Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Disease control chief urges release of Ebola funds as Congo outbreak remains uncontrolled",
-     "src": "London Daily News",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTBSbm03b3FzelYwaWpLS3VTamMwdVJhMkp6QXZ4OFByYTV1Y2ZYN0JFR2NvWlR4Wkh6VnVGLTV5VUg1UU0ySmNxOVdabnVPV1h0Ymt3dVhaNU42a09lTHlVQTJ4TFNiWUI2emhXQU4tQmJLaVVCUWlBZTBkTU1ROGZVT3NsdE0ySHM5QmVxNkpVZzVMOFZPWC1oRTViLXJ5NkhPOXpFYlRvZUswb0lad2lvWmo5U2l4UzVn?oc=5",
-     "t_id": "Kepala Pengendalian Penyakit mendesak pencairan dana Ebola karena wabah di Kongo masih belum terkendali"
-    },
-    {
-     "t": "Congo Ebola Outbreak Still Uncontained After Six Months",
-     "src": "Nature World News",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMnVHeU9obkxZTVBsMXh0UGt1R1RIV19oeU9GdkZZc1dwN211bTZOQjFoTjJ6c18tX3BOdGVzRGs3cFhYQ2hVay1YZi13ald2UWhEb291aE5abkR0ZFJqaE4tRGh6Vm9ENXBrNlQ2cEROckJGVXFRaWZNY2x2Nnh4X2UwaTZiQ1IzSndmVlhtZDl2R29sbmxNX3NxS3g1S1hQWm9CdGx1RS1wcGFRampqTGFUYWNPbWV0R3YxS0hSR2g?oc=5",
-     "t_id": "Wabah Ebola di Kongo Masih Belum Dapat Dibendung Setelah Enam Bulan"
-    },
-    {
-     "t": "Ebola Outbreak in Democratic Republic of Congo Raises Alarms",
-     "src": "India News Network",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOektZMmpEa1FaenNhUnpMN2JBMkt2UGM4aXh5RTNfcUFVZ3l6NFZINS1NR0luQ0VpT0xyLXJFbFdCM2d3bmxMeUJXeW9mVDVwekp3MF9acDRQb2FBQU0yWklURWtXSUJRUXFvSklYelpiU1p4aFk2T21sVmc0eDJYWnhjUThtTk5uYm5wWTlkcGlTM08yMXVHaHBCVFlLTVA2?oc=5",
-     "t_id": "Wabah Ebola di Republik Demokratik Kongo menimbulkan kekhawatiran"
-    },
-    {
-     "t": "Ebola Outbreak Spreads to 5 Countries, 5,500 Dead",
-     "src": "Baller Alert",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2NzTnpWTVAtZkZaXzR0aXVxY1RsaUU1LXpZcS11MGJpSzlxdGU5X0Z4bW5iYW5TaVhmTVpDdndsdHh2NlFDZmJpREYwRHRfWTVMTmtGNzNmTTRkNFJXb0NIaVd4TWZBWm1ldEV4WnFpczliNk5jR3ZRRkRqZkR4ZUlfX3BmZTNkT3JqblVRNA?oc=5",
-     "t_id": "Wabah Ebola Menyebar ke 5 Negara, 5.500 Orang Meninggal"
-    }
-   ],
-   "title_id": "Ketua CDC Afrika memperingatkan wabah Ebola di Kongo masih tidak terkendali setelah enam bulan"
-  },
-  {
-   "id": "politik-202611160500-0aa3",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Will Spain’s snap election in November bring a far-right party into government?",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0xzb3YxVWdRaUUwUjlhRkhrTWNsTmJ0T3ZuV04zWW9xZGVjQURBYXpxZERfZmU5Mm1jdWY2d3NGSzZRM3VXd1hVN3RXVXNKYm9JaXdXaGxNNkh0WVI4Y0Q5elc3WmNROGVJdC0zcXAzUWRwWk9Jb09yYXd4ZDJLWkdCRTN5UjFOamRFWHUyX3pRQmtHRzQwSmhOM1U2T3RQNmtmcWRQTWRQV2hSRV8tMXNCcmZmT1MzRTd0NURJVWc?oc=5",
+   "title": "US Flight Cancellations Top 17,000 in Worst Tech-Related Outage",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGVSb2RteVJqbWpLUU5sZnJXQXZQakNoT1dtYnRNbzNZOU9IWnBKWC1lb0lnQ2NfMnpmTl9HMDB1aWZld1pOTVBFdDBXeWpOVVRaN2Z1TUVmaWNSVFYtLThvOUVidERZZmRoRnJhZ2pnUzBrRjNLTGhmUk51TkdYMU1KQVRIMjl4V3VfS19LVEZ5V2k1bkx6SkhGUFRJWnVmeFFac3RxT3hvNkl5Q0w2bUdxVnE?oc=5",
    "sources": 6,
    "recent6h": 0,
    "score": 6.0,
    "level": "besar",
-   "first": "2026-11-16T05:00:00Z",
-   "last": "2026-11-16T10:32:52Z",
-   "assets": "Mata uang & obligasi negara terkait",
+   "first": "2026-11-16T04:29:00Z",
+   "last": "2026-11-16T08:20:36Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Spain approves one of housing decrees that triggered snap election",
-     "src": "Prop News Time",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFpqcG4xNXJYaUdoM0IxSVlvV1BDU091T1V0bFZEcjVTdmJhQUNWdWhLb3dTZUdBb1ktYTVFMGxwcjBZTVgwcUt0Ni1kS3hyc1I3VDlsZk5iY2pUcnNUR19hNXdIVUZ4c3A3SVZrM1o2MzhHRjFCeXNqVFRiUlY1YjRxZUc5aVB2enFROTFDQ25FWVFWMlhIRFk0eFZ5U0NoNG1iN0tyWFhCOGN2elNWbXA1NXVMcmJuUWc?oc=5",
-     "t_id": "Spanyol menyetujui salah satu keputusan perumahan yang memicu pemilu cepat"
+     "t": "US Flight Cancellations Top 17,000 in Worst Tech-Related Outage",
+     "src": "تسنیم",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0N2enZhNkhCbXpMSGU5RmpaZExHUFpTREZBTVpHRjhraDNKWllmZ2k1bjlqNk96QV9GTlJ0TDV1QXYwLUpnRzBsd3AxOUdtMmpGMVczMWFBSTRuVzdSLWliR1FiR1NOSWhlRENiVU1CRlVHdF9fMzRKeTRkSW1uZmx3XzhzOHk1ckQ5TW05NF9fWWd0U3JfNDRxRnJDOE9sSjB1TTZCcnpnTTJwUG53WF9wWmtuRG_SAbwBQVVfeXFMTll4MWJnSElwSHRqVERjc09NRThhVTRSdkc3NlRLcTRSTC0tdkZnZFlUWGRReVlrT2FjQXJEeEhiZjBDdzRoc0ZUOW9ub2ViWTltbHRzbW9PMTVXUm1IVkRCd1hsVWs3NTV0c1VoYnBsNFBYM0xvWWhGaEx3aTlwdko3Wkh0VHd3MXZjT18yOVF0OGt0Z2FkMzA0elI2MFpKcmFzUFBDOWg0eHlhWGt1UTAzcWMwZ0FTR3U0X3k?oc=5",
+     "t_id": "Pembatalan Penerbangan di AS menduduki peringkat 17.000 teratas dalam Gangguan Terburuk Terkait Teknologi"
     },
     {
-     "t": "Spain snap election 29 November: risk of far‑right government",
-     "src": "NewsHub.co.uk",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWJ2RG1FUzdLNmNpQUYyUmQ1emp6YlhQLWttdzU2d3hTdUxhUkpva0NNM2NPWDVqcXY4OC1zQm50azhVeE50ZllxbEN4Z3ZxUGdYMTBQTTRjY2huQUprcU9hNmVsSWlXN2RhUGdzSHVlTGNxV1h6X0M4X1JyVzVLX2xaYXJlZHRESElMSk5ObGRibG9oWnNPag?oc=5",
-     "t_id": "Pemilu sela Spanyol pada 29 November: risiko pemerintahan sayap kanan"
+     "t": "US Flight Cancellations Top 17,000 After Nationwide Air Traffic Outage",
+     "src": "BusinessToday Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWElCWGh5MGt4RDQ3a1d6M2VnQ0wySzkxV3hORlAzUjNrOXhXVm1OYWVscWpaX2lxYmJvWDhQZ09ZSjFBd3JHUWpoX194UldlSWdhYkJkaFphQ2tpRlo3a1JybExXYnlYZWZacnNBX1I3LV9rVXRSRVkwMy1DZlhCUEZfRldpOHNqNGxrbE5waFVTSTVjdExQTmVGNmlVWGtWdEQ0TDAxSF9VVEMxYkFmUW1ReGY?oc=5",
+     "t_id": "Pembatalan Penerbangan di AS Mencapai 17.000 Setelah Pemadaman Lalu Lintas Udara Nasional"
     },
     {
-     "t": "Will a snap election bring the far-right into government?",
-     "src": "Perspectify",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmcyY0tTcXlWZXlwZXdSX3ZaT1Q0djZ1b3BaY0ZScjRheHRUd2FmYXg5dWd6V2YtMmtjX2NlbWZWY1FJem5zOUktbEZmXzZlbG5EdVlsLUhzdC1ST3hZUEFQWGh0NERDV2lmampfaktqVHliNF9FeGxSYlNGakxiSTZTUnB2ZHRRTDBib2dqTVZvLW5Za3BuWEMxNFhlUl9OQ05WU0FUUkYtZFNraEotcGhXdDdSWV9lQncwU2VnMDRoTUJHcHVQWUJXR3o3QlVkSVpNWllEZ3ZfcUZHMXVuclFoQ2JYTkcwdGNESndoRUw5eklWZmhwWmFHdlA3cFJNNUtoRUpGREk?oc=5"
+     "t": "US sees worst tech-related outage in 35 years as flight cancellations top 17,000",
+     "src": "The Business Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTVqdHluMThnS2ROdHRsRjNTelNpcEFyQ09GOTREdEc1c1N5dXR4SjdMZGxnZG81YUtjUW95b05zbTVEOXZvUUNqcFd0VFUyekZvSmt3dHZoeExFQVRFLWlPS2E4UXAybnFFNXE0Q1RpcXRpdHhnRXJXX3hzVDFmc0pXdWVwUlpsRHI4anN1QzB2TVItMFhPbWd6WjVsRFFGeG9UZWxOYkJZTXhTR2luZTE2SkpSdEh3QnVjbQ?oc=5",
+     "t_id": "AS mengalami pemadaman terkait teknologi terburuk dalam 35 tahun karena pembatalan penerbangan mencapai 17.000"
     },
     {
-     "t": "Spain to hold snap election on November 29 — The Guardian",
-     "src": "UA.NEWS",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmZZMjdVanFvaDFJZjY2TnQ0Tm9waUdVMmtPaDlaRjNZcVg5YTJBNHFZMW93OGU0Nl9zRWpBZGlwLVY2STlDNzNVLUp3MU1hVnRUazY3NFU5R2wxOFFKT19xcE92aTlwcGlnN1Y4UUlONzNoWlVXc2NkQnJ0OHprQkpGY2lXT3NfWDdIWFI4WXNrN1pmalFiUQ?oc=5",
-     "t_id": "Spanyol akan mengadakan pemilihan cepat pada 29 November — The Guardian"
+     "t": "Over 17,000 flights cancelled as US air traffic hit by worst outage in 35 years | World News",
+     "src": "Hindustan Times",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2c2RlM4dTNraVc0YmxKNzR2UWpxQjFtNzU2LUIyaHVUcWxsUUg0WkEtT1VXWVRWSnNGS2xIcEtnNUhKb3RCNi1BekEzZlpoa1liMU03dHk4bGdUclhsb0JBWVhzMWRLN0dvTlFSaU9CRTBTMmt3ZUVZcTRIbUw3bmRyak50Y2NPamFTMjc5Ql91QVNHQkpCTGZ2S3lpV3NsNEtEM2tmSkxyamNLN1JObm9oLTh2aWxXM3cxN2JHRks4Ry1tb1VnT2wtbFBZLTVOVjNDbjlKaS00RE02Tkdv0gHfAUFVX3lxTE1nZzZGUzh1M2tpVzRibEo3NHZRanFCMW03NTYtQjJodVRxbGxRSDRaQS1PVVdZVFZKc0ZLbEhwS2c1SEpvdEI2LUF6QTNmWmhrWWIxTTd0eThsZ1RyWGxvQkFZWHMxZEs3R29OUVJpT0JFMFMya3dlRVlxNEhtTDduZHJqTnRjY09qYVMyNzlCX3VBU0dCSkJMZnZLeWlXc2w0S0Qza2ZKTHJqY0s3Uk5ub2gtOHZpbFczdzE3YkdGSzhHLW1vVWdPbC1sUFktNU5WM0NuOUppLTRETTZOR28?oc=5",
+     "t_id": "Lebih dari 17,000 penerbangan dibatalkan karena lalu lintas udara AS dilanda pemadaman terburuk dalam 35 tahun | Berita Dunia"
     }
    ],
-   "title_id": "Akankah pemilu cepat di Spanyol pada bulan November akan membawa partai sayap kanan ke dalam pemerintahan?"
+   "title_id": "Pembatalan Penerbangan di AS menduduki peringkat 17.000 teratas dalam Gangguan Terburuk Terkait Teknologi"
   },
   {
    "id": "perang-202611160255-8065",
@@ -166,6 +123,92 @@
    "title_id": "Trump Mengklaim Pertahanan Udara AS Mencegat 99,99% Serangan Rudal dan Drone Iran: Siapa yang Dituduhkan oleh 17 Media"
   },
   {
+   "id": "politik-202611160500-0aa3",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Will Spain’s snap election in November bring a far-right party into government?",
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0xzb3YxVWdRaUUwUjlhRkhrTWNsTmJ0T3ZuV04zWW9xZGVjQURBYXpxZERfZmU5Mm1jdWY2d3NGSzZRM3VXd1hVN3RXVXNKYm9JaXdXaGxNNkh0WVI4Y0Q5elc3WmNROGVJdC0zcXAzUWRwWk9Jb09yYXd4ZDJLWkdCRTN5UjFOamRFWHUyX3pRQmtHRzQwSmhOM1U2T3RQNmtmcWRQTWRQV2hSRV8tMXNCcmZmT1MzRTd0NURJVWc?oc=5",
+   "sources": 5,
+   "recent6h": 0,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-16T05:00:00Z",
+   "last": "2026-11-16T10:31:50Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain approves one of housing decrees that triggered snap election",
+     "src": "Prop News Time",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFpqcG4xNXJYaUdoM0IxSVlvV1BDU091T1V0bFZEcjVTdmJhQUNWdWhLb3dTZUdBb1ktYTVFMGxwcjBZTVgwcUt0Ni1kS3hyc1I3VDlsZk5iY2pUcnNUR19hNXdIVUZ4c3A3SVZrM1o2MzhHRjFCeXNqVFRiUlY1YjRxZUc5aVB2enFROTFDQ25FWVFWMlhIRFk0eFZ5U0NoNG1iN0tyWFhCOGN2elNWbXA1NXVMcmJuUWc?oc=5",
+     "t_id": "Spanyol menyetujui salah satu keputusan perumahan yang memicu pemilu cepat"
+    },
+    {
+     "t": "Spain snap election 29 November: risk of far‑right government",
+     "src": "NewsHub.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWJ2RG1FUzdLNmNpQUYyUmQ1emp6YlhQLWttdzU2d3hTdUxhUkpva0NNM2NPWDVqcXY4OC1zQm50azhVeE50ZllxbEN4Z3ZxUGdYMTBQTTRjY2huQUprcU9hNmVsSWlXN2RhUGdzSHVlTGNxV1h6X0M4X1JyVzVLX2xaYXJlZHRESElMSk5ObGRibG9oWnNPag?oc=5",
+     "t_id": "Pemilu sela Spanyol pada 29 November: risiko pemerintahan sayap kanan"
+    },
+    {
+     "t": "Spain to hold snap election on November 29 — The Guardian",
+     "src": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmZZMjdVanFvaDFJZjY2TnQ0Tm9waUdVMmtPaDlaRjNZcVg5YTJBNHFZMW93OGU0Nl9zRWpBZGlwLVY2STlDNzNVLUp3MU1hVnRUazY3NFU5R2wxOFFKT19xcE92aTlwcGlnN1Y4UUlONzNoWlVXc2NkQnJ0OHprQkpGY2lXT3NfWDdIWFI4WXNrN1pmalFiUQ?oc=5",
+     "t_id": "Spanyol akan mengadakan pemilihan cepat pada 29 November — The Guardian"
+    },
+    {
+     "t": "Will Spain’s snap election in November bring a far-right party into government?",
+     "src": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM08welBsci03VEJzampzM0Y5d1ZmMGU4a3lIeGFYYkNNZjRhZzNIUmtubS1FMDNEMHUyV0c4V0FiLTNsNWxoZnZCZmtWRVpWcVhEM3VfMV9Mb1VLVUVPOVFvcHV1TlJBbnhObzZuc3d6M3VmSGxlMXYwSFVHd3Vxdjhn?oc=5",
+     "t_id": "Akankah pemilu cepat di Spanyol pada bulan November akan membawa partai sayap kanan ke dalam pemerintahan?"
+    }
+   ],
+   "title_id": "Akankah pemilu cepat di Spanyol pada bulan November akan membawa partai sayap kanan ke dalam pemerintahan?"
+  },
+  {
+   "id": "transportasi-202611160126-7a5b",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Flying Monday? Here's what to know after nationwide FAA ground stop",
+   "src": "KDNL",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjBtUFRJX2lMZ2c0REJISDJOTzJEbmFZclh2S1o4OFJhYzd3VHRpeUNWSHZFVHk1YmtEd0RNdHhESVBnVFUtSWd4S2t3eXZDbjc1YWhBTFctcXBORENlc1hIYTE5SFdIQmhaV3AtZHVXY2pkN1ZUVWpOeWVPOW5TTzVCWUlZNkoySDFIRUU2MG1scTlpMUdjQmdyMWtZc09fZXplUWk2aUp4TWRjcUg5azZYUndrYnVHXzhIdTF4WlI3LVFZbWxQbEZRdmJuSHZ0UVBWbWs4ekhfVWNnR0xZVkZTdjBsT1AzRnpMR3JRSEZYUm90VTBIbGM0clpNMlJac0hBeFpjR0p3YkwtTDZ3MEhsVzRETVBVOUl5akJvbkxXSW8?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-16T01:26:10Z",
+   "last": "2026-11-16T13:21:45Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flying Monday? Here's what to know after nationwide FAA ground stop",
+     "src": "WXLV",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPZUsyajVEcml6SDFEcDVRb21Zd0tiQ281Z2tBUjVFMWk0WXdpd1lQekxCX2J6VVI0QVl0dnlzX1RyVWdKc3g1ME5lZ0Nfenk5WDh5d3VGTmt6X09RRjNqYlYyb3JIY0dwekVwR2dweHRjb296aFhOMElpQVJKTHN2Qm5fOTNDQkx1Rmc2dEotd2lwRmlwNW9zNGJWUjNSdTd6WGQ2dERwR3I0Q3VQZnNXUkthdkw2Y2VnclJjb1k0djIxLTNYeHFkZWRGU2pocFVFaU9jT21KRzZFc2g5dzJhYzZOWGFLZHFsdUtHel9sOW1tSGtTa0RXWGVybzFMSVlSTjN4bzkyUy05aFdZUXlnUVRiWnYxUW03bXc0OUhJY0QtdGRCZmUtMUJ6QnpZdw?oc=5",
+     "t_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
+    },
+    {
+     "t": "FAA Ground Stop November 13: Refunds, Rebooking and Airline Rights",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRXJPRzM0bFBvR0tXX05KLS00cTk0M2RpS1o0SGZ6OW1PVGhWa0NOVlRQVFhmMzRPbXpyXzh6S29XMS1QeHJiamlTYmFSLWFDRnppNjh2cnV6Z0x6aDNhazJ2YU41QjNEVXJVOGNVUC05d2sxT0luNktVem5zMTBCVmc5bkN0VDdwZGVwUkFrQWMyYlBCS0ZEWV94SEkwRWRjckk3M0k4NUQ0TGFMSERVY0o1cHd0MHJlYTMtR0V2THB0X3U4bWQtNTdKNjFpQUc4TDRkR0FGanZzNEVEdmFFNWhjV3pNXzJxX29NdGJNQTNGcHl2bWJsNmVmRHN2ZnM?oc=5",
+     "t_id": "FAA Ground Stop 13 November: Pengembalian Dana, Pemesanan Ulang, dan Hak Maskapai"
+    },
+    {
+     "t": "FAA Nationwide Ground Stop: Router Failure Triggers 12,462 Cancellations",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaDE5UC1qeVJpOHQ4TnRnUmFxQ3hNYVhEcFgtV1dLV0ZNXzlmbVhrWlJEdFhXcU9ySkNaSDNkMVFCQlBPWlhXZ2NyUFdtVldMUWEwR1BQU2tac0dSN0NwdUFDNENGdm9JbTNwSXhDTU1YRFBTRFpWRUlaMnF0bjM1TUExdXg4bEQzdzBFMHV4bUFaNTRxWGZMUE1vRE1NTndNdmFZZWtwQ0s5b2EyZHhhVGxFaTg4bkdzNE1vN2ZCT1RpVjYxRU5acHV4VDQwYm5JTkNvOG5RRkxuY0o1M3RSQTZGN29kdFJGczl0aFFBNA?oc=5",
+     "t_id": "Ground Stop Nasional FAA: Kegagalan Router Memicu 12.462 Pembatalan"
+    },
+    {
+     "t": "FAA Lifts Nationwide Ground Stop After Telecommunications Outage, Sean Duffy Says “It Is Safe To Fly”",
+     "src": "NewsCord",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHBvTWIxQVZ1ZlVvYmRtYnhCVXNKNW9BYkYwWkJFLVJQbGR1MThpbWRFNmF3NFJWRW5qZWNPdVgweV9mQWwyXzE1NGUzSDNHVEM3Znkyb2xUQXg5YmVVcmFzTHZIRGFKUVZ4WktQeHJLcWtHWUpzNjBKbm44Y2hsdlZjZkxCeUFCbTNfRFNLN3dGR3JscUZ4OWFfLUVfa1NfNGoyRHlrWFJVZVRVY1F4Um5Tano1TTJkMzlqOW5tWkkyV1ZjVXNPXy01SkVraUdyZ2hOZnhaUWhGajVvbmhzQlM4MkQ4UTFCUEE?oc=5",
+     "t_id": "FAA Mencabut Ground Stop Secara Nasional Setelah Gangguan Telekomunikasi, Sean Duffy Mengatakan “Aman Untuk Terbang”"
+    }
+   ],
+   "title_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
+  },
+  {
    "id": "siber-202611152321-a1e9",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -189,6 +232,29 @@
     }
    ],
    "title_id": "Kekacauan dan Kegembiraan Tak Terduga dari Pemadaman Email Global selama 19 Jam"
+  },
+  {
+   "id": "transportasi-202611160413-d4aa",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Air Traffic Control Ground Stop Sets Up Funding Fight Between Trump Administration and Congressional Democrats",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUUhTZHRuNGlPQ2licHBfUEozOFR5dE5zT1lJUzI0YTVENGpBRllseEpRdGE3SGVHSi1DSHpyOG9jWXdJR1pCQ014YTJtMTVBY0FGd0xoSzQ5cXZ6NGVBbkNpSzFsRTY4TjZ1RTRWb3ZJTTQ?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-16T04:13:41Z",
+   "last": "2026-11-16T17:15:03Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "‘I’m an Air Traffic Controller’: What the US Ground Stop Means",
+     "src": "JournalArta",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWMxdEM5cWFhd0h2Rnk4Zm1KX0hHQ1dGbmpWTUNfRXU4ZnByVmxkQjAzZk5GRTRfUUxpMjgxQTdvWHZnb1hqZVdoMW5QWUVqai1LV1hRZ3cxNUMzS1poV0tzQUZaX1loVldTWmxEUjY1dzhDQ19BemVmeXBlUmNiaHdEX0JabUZzVllzV2h0WDhkdWxhOU1z?oc=5"
+    }
+   ]
   },
   {
    "id": "indonesia-202611160735-660c",
@@ -337,7 +403,7 @@
   }
  ],
  "errors": [
-  "transportasi: HTTP Error 429: Too Many Requests",
-  "bencana: HTTP Error 429: Too Many Requests"
+  "kerusuhan: HTTP Error 429: Too Many Requests",
+  "kesehatan: HTTP Error 429: Too Many Requests"
  ]
 }
