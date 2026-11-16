@@ -502,6 +502,17 @@
    "ihsg": 5320.981,
    "usdidr": 18250.0,
    "ust10": 5.154
+  },
+  {
+   "t": "2026-11-16T13:05:00Z",
+   "risk": 80,
+   "btc": 64064.38,
+   "gold": 3871.7,
+   "brent": 94.83,
+   "spx": 7561.67,
+   "ihsg": 5320.981,
+   "usdidr": 18250.0,
+   "ust10": 5.154
   }
  ],
  "horizons": [
@@ -948,6 +959,22 @@
  },
  "news": [
   {
+   "t": "Tentara Iran menyebut tanker minyak ketiga terbakar di Selat Hormuz timur; klaim belum diverifikasi independen.",
+   "src": "WANA News Agency",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemp6M2owNFNydUtTOWRiaHkwT005NV9rTGxzWFpxd0tDUlhtQUhjNGY0ejd0Wi1rdzd4MkNpcFNLMnZScHhKWTdHel9EeTUtbWVhU3B3YnVweGpoOFBRZWE1UGwxSUZTeUlQUWd3MUdDT29mQkxaT3BpTHNKRmczLWRTMDUwazlmR1liTm9VdUtGbEdy?oc=5",
+   "time": "2026-11-16T11:51:45Z",
+   "impact": "naik",
+   "assets": "Minyak, emas, rupiah"
+  },
+  {
+   "t": "Harga emas menyentuh level terendah dalam setahun terakhir di tengah penguatan dolar dan taruhan kenaikan bunga Fed.",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPT3hOZU5BcnBOZlhpenpQMllzc0xzTWRyWFIzXzEtLVVlX0dIMmxTWVJ0NVp5MWN4bWctUGJ0VUxSVFpJZkdfY2pfR1FGRjhiY0dPTjJaLXM0S2xhU0l1MUVKYkRXcHB3VDVlMXFQbzcwc3hyUV9IZkdNcWFqRl9Vby15OHM2emJDM2JSWWRkd2NTUlFZbmlWNWdZc0MydDdVbDBBNEF5NVM1MlJSTW90VURuZEVQZDV4RVZRSDVyT3hiSUtvOEVjcWhfeHRTWC1aZVoySWdKQ0VpUVhWcFBwNlNSWTl3RWtfUG1vNHhLTTJGTnFqanh0MVdHYkxEQzR3ZFE?oc=5",
+   "time": "2026-11-16T12:35:41Z",
+   "impact": "turun",
+   "assets": "Emas"
+  },
+  {
    "t": "Iran menyebut dua tanker lagi terkena ranjau laut dan terbakar di Selat Hormuz",
    "src": "Arab News",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTR5QkNGNFZWT3Vvd2EwcUxmRHhSQ2VrSjNsZVQ0WjJwejBWUmJUYUpnT0M4eUx4NHprUDUtZFAyUXVCWmZZdVQzMnFDejRMZzQyUWM1LTZyeUVtT0NZQUs3Zlp3d2diY0JiYXFHQldpRXFlck41cWZmNFMxX01yejlEV0Fad2NPaERKM2t0OVcxUDY4azRRY3cydkE1TU5xOThJQnI3Zw?oc=5",
@@ -1026,22 +1053,6 @@
    "time": "2026-11-14T16:42:10Z",
    "impact": "turun",
    "assets": "Bitcoin, aset kripto"
-  },
-  {
-   "t": "Satu lagi tanker terkena ranjau laut dan terbakar di Selat Hormuz timur, menurut Iran",
-   "src": "The Independent",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVlmUEQ3N3EzTUpDQkl4bGFsNHZJTVJMZk1EV2FzRzlKcjVTVlAwdllLOWFwb3lJOHVIeHFuYmlIQ3haanJNVlpmYlRkdmdKOEVBRWFMRzlQZnpxVktOSDViVDlLQWVMWmhJT3N1ZFZJVUFkVXBPT29zdE0zMDRlVnFBUjItekVTVUk2UGtmX3NaU0xENC1maUtZbUtqUUdIOEx6QVpGVQ?oc=5",
-   "time": "2026-11-14T11:28:00Z",
-   "impact": "naik",
-   "assets": "Minyak, rupiah, emas"
-  },
-  {
-   "t": "BI meluncurkan bank kliring renminbi; dampaknya bagi rupiah dibahas",
-   "src": "republika.co.id",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNjSGVHMnpFaVFwX0UxNUVTRF9Ia2N1ZTNNSm02Zm93dkdOVmZuOXFtZnJwbmxlZXhuMTJ3OFRzdE8ySEM1MjgzWXJQYXhPRGtGeTZNMDJvTm96SzVaY21pSkcxTEVFZFJPRFdnWDljbDJvSjZqRWZmcktub05HRG1DNE1XWDRJdFhHRDJzZDQwd1Mwa3FnMjlSWTEzUnhBY0Y1Rl9kSE9KVVVPNlE?oc=5",
-   "time": "2026-11-14T09:29:57Z",
-   "impact": "netral",
-   "assets": "Rupiah, yuan"
   }
  ],
  "readings": [
@@ -1066,24 +1077,24 @@
   },
   {
    "c": "neg",
-   "d": "Turun 3,8% dari penutupan",
+   "d": "Turun 1,1% dari penutupan",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$92,25"
+   "v": "$94,83"
   },
   {
    "c": "neg",
-   "d": "Turun 0,7%, dekat terendah setahun",
+   "d": "Turun 0,4%, dekat terendah setahun",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.860"
+   "v": "$3.872"
   },
   {
    "c": "neg",
-   "d": "Tertekan, di bawah $65 ribu",
+   "d": "Turun 1,9%, di bawah $65 ribu",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$64.296"
+   "v": "$64.064"
   },
   {
    "c": "neg",
@@ -1117,7 +1128,7 @@
  "regimeTitle": "Stagflasi, risiko tinggi",
  "risk": 80,
  "riskNote": "Risiko tinggi: Hormuz belum aman, imbal hasil AS di atas 5%, dan rupiah di rekor terlemah sekitar 18.250.",
- "updatedAt": "2026-11-16T10:05:00Z",
+ "updatedAt": "2026-11-16T13:05:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1435,10 +1446,10 @@
  "brief": {
   "date": "2026-11-16",
   "points": [
-   "Risiko tetap tinggi di 80/100: Iran mengklaim tanker terkena ranjau di Selat Hormuz; dua tanker dikonfirmasi terkena, klaim tenggelamnya supertanker belum terverifikasi.",
-   "Rupiah ditutup sekitar 18.245–18.250 per dolar AS (terlemah sepanjang masa); IHSG turun 0,44% ke 5.321 jelang RDG Bank Indonesia 17–18 November.",
-   "Brent turun sekitar 3,8% ke $92,25 menurut data pasar, tetapi laporan media menyebut serangan baru masih menjaga kekhawatiran pasokan; emas turun ke $3.860, Bitcoin sekitar $64.300.",
-   "Pasar memperkirakan Fed menaikkan bunga Desember; imbal hasil obligasi AS 10 tahun 5,15%. Saham AI menunggu laporan Nvidia.",
+   "Risiko tetap tinggi di 80/100: Iran mengklaim tanker ketiga terbakar di Selat Hormuz; klaim tenggelamnya supertanker belum terverifikasi.",
+   "Rupiah sekitar 18.250 per dolar AS (terlemah sepanjang masa); IHSG turun 0,44% ke 5.321 dengan asing net sell, jelang RDG Bank Indonesia 17–18 November.",
+   "Brent sekitar $94,83 (-1,1%); emas $3.872 dekat terendah setahun; Bitcoin $64.064 turun ke bawah $65 ribu.",
+   "Pasar menilai Fed berpeluang menaikkan bunga; imbal hasil obligasi AS 10 tahun 5,15%. Saham AI menunggu laporan Nvidia dan IPO Anthropic.",
    "Pantau: keputusan BI-Rate (18 Nov), perkembangan Hormuz, dan rapat OPEC+ 29 November."
   ]
  },
@@ -1594,7 +1605,7 @@
    "impact": "Dampak pasar kecil karena gangguan sudah pulih; saham maskapai AS sempat tertekan.",
    "assets": "Saham maskapai, minyak",
    "sev": "rendah",
-   "status": "mereda",
+   "status": "selesai",
    "cat": "transportasi",
    "time": "2026-11-13T19:59:08Z",
    "src": "CBS News",
