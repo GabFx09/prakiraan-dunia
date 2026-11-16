@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T09:46:47Z",
+ "updatedAt": "2026-11-16T09:58:37Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,20 +53,14 @@
    "title": "What we know about the US ground stop and what to do if your flight is affected",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "sources": 8,
-   "recent6h": 2,
-   "score": 9.0,
+   "sources": 7,
+   "recent6h": 1,
+   "score": 7.5,
    "level": "besar",
    "first": "2026-11-14T21:27:00Z",
-   "last": "2026-11-16T08:06:00Z",
+   "last": "2026-11-16T06:40:23Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
-    {
-     "t": "'Walkie-talkie and paper just doesn’t cut it anymore': FAA ground stop exposes outdated airline tech",
-     "src": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtJdnFuZTJMX0VJaEpRd2ZVLXdXSVlQR0g3LWFTdk51RnRvSFphM3kxTzJzYk80bUVTM3NKQkQ2aUlNMFEtUU9OWEFBQ0VhSFdwS1hkSmVYZkNqeEhqZmxtN1Z4UmRUY1pidDFaS1RvaGxBWGdKaXY3QzV1TmNmdU1pZVE?oc=5",
-     "t_id": "'Walkie-talkie dan kertas sudah tidak berguna lagi': Ground stop FAA memperlihatkan teknologi penerbangan yang sudah ketinggalan zaman"
-    },
     {
      "t": "FAA Nationwide Ground Stop: Router Failure Triggers 12,462 Cancellations",
      "src": "Travel Tourister",
@@ -84,6 +78,12 @@
      "src": "Katie Couric Media",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR09xMDh3X1VIa3Rpd3FhczRFMUZmVFlxZ2tLUElkRHkybXFFYmYtU1BaMHRvODBDU25acGdtNWtyQXJ2UmxFU2pwM3J5R0pxUGNJUGhDMmtrcWZPcDJLdk1QUTZVcjlWc3F4UWNTTzJycHVWU0RyQjBLdUVYN2xENkVSYXpteXUxUnc?oc=5",
      "t_id": "Akhir Pekan Kekacauan: Mengapa FAA Melakukan Penerbangan Darat ke Seluruh Negeri?"
+    },
+    {
+     "t": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEkxWS1FQmNqZHQ0UjluR3FaUVFMS0VxSlQzQURPUEhnUFZnTlhIMlREbXc3TllNNGVFa3dMdWJNUk1xbFR5UnhGdW5iMVZncms4T1dqQ29UR0ZRYXh3dFVORkp1S3IzMUV1LXNtb0FoSGxUT1FkajdxU05jbF9DNDExc2MwYVZTa2RoSW9SaDlBcGJkMXpRankzbkNtcVF0WjgzNtIBqgFBVV95cUxPa0RnWlk5cllod2l3VWxWZEI2Zzk0OU1TcTRYdHBXbU5ObVkzRDhvcjFRLWo1T3IzOU5ZYTZ5bDlEQ0hjZU5rOV9SZTVrWW9Fa0NlclduT2FpVHVWd0h3NzZWU05xUUF1SUM0UzdNQ1Vic2ZOdWdZQ2lpaTlfSEV1NDhZWFZWcXlYc2pTcnRBZTBJdGdxdWhTNjRpbHJnS1pMLXZyQXM4N3AxQQ?oc=5",
+     "t_id": "Garis waktu pemberhentian FAA: Kekacauan akhir pekan menghentikan pesawat dan menunda pertandingan"
     }
    ],
    "title_id": "Apa yang kami ketahui tentang ground stop di AS dan apa yang harus dilakukan jika penerbangan Anda terpengaruh"
@@ -219,10 +219,10 @@
    "title": "Iran targets US military base in Bahrain with drone attack",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
-   "sources": 6,
+   "sources": 5,
    "recent6h": 0,
-   "score": 6.0,
-   "level": "besar",
+   "score": 5.0,
+   "level": "sedang",
    "first": "2026-11-15T05:32:08Z",
    "last": "2026-11-16T02:55:23Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
@@ -246,10 +246,10 @@
      "t_id": "Iran melancarkan serangan drone dan rudal ke pangkalan AS di Bahrain, namun berhasil digagalkan."
     },
     {
-     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
-     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+     "t": "Bahrain Intercepts Iranian Drone Attacks as Tehran Says It Hit U.S. Base",
+     "src": "Haaretz",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcFJkeHBOQkhkd2hwNzVNanB0WTZRZUVPNzEzOXVFTGhqeHJRT3lZZEFiSmZYemx2U01TUy1aN2UtcmlmMjRfcERCTlZXUHk5V2JHY0RGMGlVdWZQNkJyTUxEdlJmeU9pQ0dfanQ0anBpa3B6UllEXzV4Y1lDTldRN25OZklXNlM2WmJZMGFlU2Q1OVlJby1pY0tRQkpySXE2eXVLSjFvbHMyN2pvaTR6Z1FNdmZ3SlZ5dzNkamhsWFJxOUZBVUlyc3dRVWtZdmVJSjNtOS16TWpRalpUd3FJX1pBUHczZExBZTFodFRwUHJ3OWljWU90clJvWjAzUDZm?oc=5",
+     "t_id": "Bahrain Mencegah Serangan Drone Iran Saat Teheran Mengatakan Itu Menghantam Pangkalan AS"
     }
    ],
    "title_id": "Iran menargetkan pangkalan militer AS di Bahrain dengan serangan pesawat tak berawak"
@@ -276,31 +276,6 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzFiMkpOMklTU1Z6UEVRaUR6LWlQZTF6MDNsYkVodExVUmtEa29Ba015ZlhvenRBczlpamhYTWk1TlZQZElPa3FIbEpkTlkyRnJqZHhLSEtERVlFamhFcEY5aWpNM1dVdW92Mmo1cDREb2ZrN1FTRldLUC1PYV9udkZmUXdhQXVOZ0pNd3h2ZFV3blduNFZIWFlYX01iSVZITGlxdXBB?oc=5"
     }
    ]
-  },
-  {
-   "id": "perang-202611150950-a602",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
-   "src": "The Moscow Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGFyRTd1TlRuZXFxcU53N2ltQjM4QVAyYmFHeHlVZmh2OEZpSmlWeUhOWjFQRkQwSkJhNGhKRVFzVXlPVEQtTVJqNXdpM2o3MzNIcGlqVmJqTDRscmxIMFZlWE5YS3duVzdQOXozUGx4aUU3YXNYVldHelZqMl9oby0tZHZaYkZSNlM3a2FUTFM4VE5VWmQ4UkdUcmJWUFBvTnhRNW5KdWJCNjJoM0lVbg?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-15T09:50:47Z",
-   "last": "2026-11-16T09:16:10Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "BTA :: Six Injured in Odesa Region in Overnight Drone Attack",
-     "src": "БТА",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZHVObXRNMUJzNmgzeHVUWDdwOG9NdUJRUHpTa2NSU3EzWi1Cb2ViWmN6NkRQWUI5bnc3YkFfcmtldHlnYVZjdFhZWlNtU3BTaFRDUTZfeFBuLUJoRFhTcTNLNW1ONU9pUGsySm5FMUZjR1F0UDdzb3UyZlJSRVRIWG5LZnhWOGo0aFlMQlU2RjF4dw?oc=5",
-     "t_id": "BTA :: Enam Orang Terluka di Wilayah Odessa dalam Serangan Drone Semalam"
-    }
-   ],
-   "title_id": "Ukraina Menghantam Jembatan Krimea di Tengah Rekor Serangan Drone Semalam"
   },
   {
    "id": "indonesia-202611150321-fcbf",
