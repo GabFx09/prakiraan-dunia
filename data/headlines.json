@@ -1,7 +1,47 @@
 {
- "updatedAt": "2026-11-16T09:09:32Z",
+ "updatedAt": "2026-11-16T09:31:54Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Berakhir di Zona Merah, Tekanan Jual Masih Membayangi Pasar Saham",
+   "src": "TopBusiness.id",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDhSblMwLVp4M1BxUldwNFJFM01tU1kzbUhyYnFGcmI3YUNYcGdYai1lRzVDOTRPODJlUGVVQ252enNKQVZ5ZHlJalo0WlUybW5wS19qcGJZbTdKM2M1b2NuUl83Uld4MmVWa0NCRjVGcXhZZWx0aEx3MGV4WEVGTUk5VEFwN3RJOUpHeTNLR0JBVkdJODBvUUNEaXF6Zk1jdDB4ai1Qd2tqa082?oc=5",
+   "time": "2026-11-16T09:25:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Rupiah Melemah ke Rp18.268 Jelang RDG Bank Indonesia",
+   "src": "Demokratis.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93djVPUHE4WVN6U0t4T1E2amQzdkY0M3RSSXo4SkFnYzgwVlhiRFJvR3pJb0FEc1k5NGNOUVB2Nl9BTHZQT1YydUtaZ2dPTzBZb3RVLWJrOXU2S2FoNnByY295Nkx4cktJU3c?oc=5",
+   "time": "2026-11-16T09:24:30Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Exclusive Interview with Former Federal Reserve Vice Chairman Kohn: The Higher Hidden Cost of the Fed Holding Interest Rates Unraised",
+   "src": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iejhPcUpibG9XQmtmem9FLW1FekdUWVp0NkdFaTRHMmgxazJWQ01zdlYwMi05dE4wclJvRS1rSzRibzRxWTJyTGdXeWlwWHJtYlNn?oc=5",
+   "time": "2026-11-16T09:11:44Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Yield SUN Bertahan Tinggi, Pasar Tunggu Sinyal BI",
+   "src": "Maybank Trade ID",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemdZSkpnUDN4OHlLNEcyWDFXWF90Zld0WEU1NkIwcGhTWkttbXNsZXp3VHNaLWl3dUx4dVVIQVlTZmxnTG9nYVdiNkFmcmV4QXFyWTZ5N1JRd2d2b3dRMHdmcHlvYmhnOGNUUXQ5NUNLcXFvTWN4QnNFQlhSNmVFWWF4cHFhSTU3SGllY1VPZGU?oc=5",
+   "time": "2026-11-16T09:08:00Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Plunges Below $65,000 – What’s Triggering the Massive Sell-off Across the Crypto Market?",
+   "src": "Coinpedia",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYnRmMnRzbHNjX1JlX0dWVVQ3WXJCZWI5WGtCeFRIbFRFeFBONnR4X2hTZHdrajdlVFhURkVqX3RaampCRUpNUngxam04eUNmVlJOWE1WSGEwLXFLWUhLM09hWkFZeFFDTGJWZFlXdm1Bd21vQWpPZGtleHlOd3duWWFvOWNUWjV2M2ptamhmdlNvOENFaUlTS1ktOU9Ja3BMc3h6N0F2WDgzbmctZUdMZHc1SENGOGFJclFoZVltM0Zsd0IzV2dmelVUWlkyc0XSAdQBQVVfeXFMTnpqX045QkFWdHhNVm9oelcxamc1ajNjN1VmYmNibUxBVWFBV0Z2RlRoSkVJNWNPMGstN05BVUpHZ0Zrb0liUFVoR2NrOEM5YWdwNzl5WFFxRWQ2M0ROWWprYVdkU25jQUk0WjJGaS1nWVdGQW1VZ0FBNFlaa0N0SGdGS3lUUTdQdVNYMnBOdE1WaUV6Y1gzbk5CS0tQS0dPNDZlWGFPV0ZCREFQQk1mZU9aVmVXR0JZQk12RkN6a256MVAta1Y4N2dxTHdMQkxvWjUyOEE?oc=5",
+   "time": "2026-11-16T09:03:23Z"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -11,12 +51,29 @@
    "time": "2026-11-16T09:02:43Z"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil Prices Rise as Fresh Attacks Renew Middle East Supply Concerns",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDJZaXFhY1pnSUd1OEp5V2NtbWc2Z2ZvUW41OU1pOGdBWVRPbllCZWhHMExvNWlsSjR3cmFsNFpjV0d1WkRGTEdUcEZNMUNfZ19lS1oxQTlDanlUMXZxZzV4NVhNd29tZWJ6bUI2a0E2SnhPSmJZRVViNUgtREpsZmVUOWN3TFFoU1BTRURIOUZCOGlkNkc0TU41TlNMeTB6b09XSk9MSE92YXBtOFh4WXd5ajFRR3Nna3YxdmxPdEg?oc=5",
+   "time": "2026-11-16T08:57:27Z",
+   "t_id": "Harga Minyak Naik karena Serangan Baru Memperbarui Kekhawatiran Pasokan Timur Tengah"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Price Nosedives Again: Latest Institutional Warning Points to Potential Drop to $3,600",
    "src": "36Kr",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWENqYVpoLWxfZU1RbWdacG0ycFRFNUhqTktZaHlCM0d3MzRqSF9ybkdrUXlOVzEwVm92OEFBRHRJQ2szcXVOOXRQekZxYnF2aWxj?oc=5",
-   "time": "2026-11-16T08:52:09Z"
+   "time": "2026-11-16T08:51:44Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold and Silver Crash: Nearly $400 Billion Wiped Out as Prices Hit One-Year Lows",
+   "src": "Coinpedia",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzlhT3E2ZFJRV0FkWkh6TW9vZHQwV0M3YnJuUDhfdGV1WDJweVU3c2N1NmFLb2l5ci1iWnlpTzNPZWFoYXJ0NGlONDE1MU11czdDT3YzdzhnWjZpbFRqTVNvRGhIbjZpU3pTTzRxV2FqRzJlWFNtenlER0hHLWVtLXJVb0lGVlNobEFQakF2MFgzSXlKY0MtblNHMlBocHpESl9DdENkUTFRWVFMSGV3Q21BTFdYaFnSAbwBQVVfeXFMTzl4My1yeEt2dUVKRDFFSGRTTkE4Q2ROaWdaWURmWHRJR3FRN3VTN0NfOVFaVmNvM3hFMXdBVjBFY1RaS2lNZVB4M0p5Y2FqUWhqUDhSdWpBdkZGMnFXWmk0TURVR0tnRkFQLXF0NVU1WkUyYmlRUjd1REJjbDJkZ3JIOGkzZTZEZTJMNlMwOGtzVVZ4TmpXWEE4OEY2b2ZqXzVmTWtHc2VFY1AxZlN2cjEyRWRZNFJ0Q1NYdTU?oc=5",
+   "time": "2026-11-16T08:50:52Z"
   },
   {
    "topic": "ai-teknologi",
@@ -44,14 +101,6 @@
    "time": "2026-11-16T08:19:48Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "LIVE – Bitcoin Price at a Turning Point: Nvidia Earnings, Anthropic IPO, and Trump-Xi-Putin Diplomacy Shake Markets",
-   "src": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOM1JnbnFnTE9LYW1saXZUZEZSNEdyaEJIQ1owcV8yWGJSeFUybWhncXNMdmgyR05keUJaQkdEWjgzVkMwVlVFMzVTZXlVR3FnZktUVExsSlJEeG5qU2hYSU1BVHo1MkpNTE5EVWxqVmxSdVExS1ZJRGNLRTZyTHpkZ2t3ajhvRW90bE80b21SNlJ0NlVic0xMYktNbTI4ay1TQ3BSRGRpU2RmX1dWLUkzQkN4SFZXR1Jienlicjhfc0twZDJmSVlYNnJBS1huczdRbVNLSEM4UnJKTVZlWHN2TU9JeUNsZUxET3NkYmFnOVBNVUhWS3VWZUFKZmF0R3d2?oc=5",
-   "time": "2026-11-16T08:17:35Z"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Pemprov Maluku & Bank Indonesia Gelar Pangan Murah, 960 Kg Cabai Rawit Dikirim dari NTT untuk Tekan Inflasi Ambon",
@@ -60,7 +109,7 @@
    "time": "2026-11-16T08:03:20Z"
   },
   {
-   "topic": "bank-sentral",
+   "topic": "emas",
    "lang": "en",
    "t": "Gold set to snap blistering run of three-year gains as Fed rate increase looms",
    "src": "South China Morning Post",
@@ -69,13 +118,12 @@
    "t_id": "Emas akan menghentikan kenaikan tiga tahunnya seiring dengan semakin dekatnya kenaikan suku bunga The Fed"
   },
   {
-   "topic": "geopolitik",
+   "topic": "kripto",
    "lang": "en",
-   "t": "Oil Prices Rise as Fresh Attacks Renew Middle East Supply Concerns",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYkgtRXJENHJmV1FIbVU1NThOZWpMeUtGQzRwX0F2SlA0cDVwdy1LUG5WVDdFdHZkVFh4US1iOUtHcERJQ1UzNVRCNmdJdG5mRjVnRHhaQktjSnBzWEpNZmMzZVhDMXNjdk5tYk5paGdTTHNQRDE1a1dod0dIVDJXUmlqRUMxeGh0VnloVG8zRVllaFNBNXV5eEE1UTZHRlpqMjAyT0MwMXdCbVBScEduVlpwd2pXQQ?oc=5",
-   "time": "2026-11-16T07:58:00Z",
-   "t_id": "Harga Minyak Naik karena Serangan Baru Memperbarui Kekhawatiran Pasokan Timur Tengah"
+   "t": "Zcash Stays Ahead Of Bitcoin In 2026, But Traders Are Split On Whether Outperformance Can Last",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWnhBVTlHRDI5c3k2VGxKQ2lsR3l2UjZ5WmJNUGdFVmhTcVhvMUZNNEFBdUxzeXctT0pKR3Jab3JGcS0zSGxCcWIzVHUxY0ZfeVU4ZHlYeWFzNGk3cXQ5TE9HcGp2Tk1nVk9sc0VSTGZRS3NWSlFaU3FIYURmVWI1UWVjOUEzd3d5VDlld2ZrLVRoUlNuQ0xtLUlfV0kwM0ptNlNRVC1Id09kTjZiMXE0OEpVSGxEdEFhcEg2bzdDUTNaVWxfa1E5VzVNSHFYRzdFWUh1VnJQUzVFcU9wRGNzMWI4aG9icEw2Q0E?oc=5",
+   "time": "2026-11-16T07:57:00Z"
   },
   {
    "topic": "indonesia",
@@ -131,14 +179,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Utang Luar Negeri Indonesia Naik Jadi US$458,9 Miliar",
-   "src": "Demokratis.co.id",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TbzlCaVVkQ2tOSE1icDVvSUxWMnRPb3F0cUZ5WVA1dE5lck01U3BXM0tyaFcybWxaaDRMT2xPN3BTM09ac21qQXlCU3VUWkpRNHBsYThTVXJUSm8tbmVINDYzeS16blEycUZrV3VlNA?oc=5",
-   "time": "2026-11-16T06:50:35Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Rupiah Cetak Rekor Terlemah, Tembus Rp18.200 per Dolar AS; BI Sebut Ekspektasi Kenaikan Bunga The Fed Jadi Pemicu",
    "src": "Kabar Nusantara",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1haSk1oTi1FTldEZHFIMWZiNzh4UmtrQnh4OVdoSEM5SkhpN0lUaU40LUtUV0pkMVZtaTJGV29wbDNWYUNHQk02ZUlsU2lURjRZclhfSmZDV2RuY0hIaHczTXdRZW9EV1hmTjhFLXVfdWRITDljVHZ3WFB4SldxQ0MxdkFyU1k?oc=5",
@@ -161,15 +201,6 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3d2bEdHRlVXdGc1WVhHRU1sVFNUQnJTSFNnZVpfMjlaOE5hVXljUHk3Y3R1emZuRm1UQXpOTmdjejlISDBVT3NfTDBES1V1OVFYZUNWYjlKZ2pIbngyX05vbnEyZ3ZsRndnQmJiQ2xraGdOeS1CRGgwMmhJdHZsWTB4YmhIRmNyOWpUZ1loMUJlNEdackpTZG5Pd01fTldpUlF2RFJVNGk?oc=5",
    "time": "2026-11-16T06:41:08Z",
    "t_id": "Iran mengatakan 2 kapal tanker minyak menabrak ranjau, terbakar di Selat Hormuz"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Price Forecast: XAU/USD Slips Below $3,851 Ahead of Warsh Speech",
-   "src": "FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdUJ3Y3pEcW5mQVQtNUh5VWRzWkVEdzNueC1uNXRqZVpDTkgyY3lFdndXcl9ONVB5V2NJZTdtNkk2bmdRcWlqNFpEYUVoSUU5b0wyUjZyUzQ0OUIzay0tcmtpZkJIZTNSczBvbEVUS0duM3p2RlYtRGFPeXBfclNrTGVWXzB0a1JHRUZuc0ZZNFprUEQyQ184bmktM3I2cWxlVDBnV2MxcGQtVkwxeFE?oc=5",
-   "time": "2026-11-16T06:38:54Z",
-   "t_id": "Perkiraan Harga Emas: XAU/USD Tergelincir Di Bawah $3.851 Jelang Pidato Warsh"
   },
   {
    "topic": "bank-sentral",
@@ -252,14 +283,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Imbas Anjloknya Saham-Saham Tambang, IHSG Sesi I (16/11) Drop ke 5.297",
-   "src": "Emitennews.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFUwNzZfSWlMdko0T1ZsQXdhU2Nhd09mOFktTTBDeHlvdUNNcWd3YmdidG02YUdrUjdDRnFiWXNwUy1YaVRJbWRuUHhERzB5aEpkQ29MX3BGSGZsN3o2OTlIelMtVUNBeHNodWhyYWNTc0phSHpWX1dBZllBd1BIVGpYd0Z5WHhFSkpkc2FVNFF6NEFTRjBNMg?oc=5",
-   "time": "2026-11-16T05:15:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "IHSG Sesi I Melemah -0,87 Persen di Level 5.297",
    "src": "Pasardana",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWUwR1lwY0NYaHhOdDFCLWsyd1pWY0FOVnNYNFlTa3UwT2J5SzhBdy1fZVpZdWd3aXZ0VGIxMkJnVkNtRGdhY0RoOExlQVdCVzV4a3VrTUtFRFhmOGdtTG94cU5lb1RRRmZaNU1wcmxmTC1acUJNamFvTXpkR1NtR08tRWdOcGZhRWJZ?oc=5",
@@ -322,14 +345,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Bank Kliring Renminbi Beri Penguatan Struktural bagi Rupiah",
-   "src": "Bisnis.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOG1MVTNyVGY0d2M5OGhuY3padFFkbWZZaUdjc0lUUmtlTmQ0ZG1FSWtaSEJmSUMxdWFoQUFlanBldUpCNF9WZkI3M0xYYWpSaVZMZHlhX3V6aHo3MDRkMUdDbVp3ZWNXb0JQZGJaWE1vdXZ6Wjg0ajlQZW54Xy10a2k4MW1QY1p3NjdFRUpHdFJYNmhsYkgxN3dWMG5vd0RVTGpDeWpRV1VYajBOSWxvU1dyOA?oc=5",
-   "time": "2026-11-16T03:51:15Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Breaking! IHSG Turun 1%, Ini Penyebabnya",
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVZxNUtKRTBxM0xiMnZGU1psREwxeHVsMEVzSDJhSXdobURjTnZyUEw0LWpSMm5BSF8xaTdPc0t6UzU5NDJxY0k0TFd3NnJnQmstOTBndFpLc2l2c3dEMWxvWmFZcHNmeUNLSTRGbDd3WV9YX2dhTmY2VFVteFQxbnpTSDNWR21QQjZHWDEta1IxaG5QN2luWmdtLWd0dXlo0gGmAUFVX3lxTE9KUHNHX0M5Z2kzdUxXZ2k2TXROYnBieUo2M0dNTy1zbndrUkJvNlVDcWtKWVRYWklfdDQwU1VzRkt0aHVlSVRiMS1RWU5tdG14b3ZsMlNJMW5iOHByVng5M3lReFd6aUdEdWJpVjROUTFJNmZTRGExbl9rajlPRE95ZkJxWTg5VnktNHdlSXl1WXBaWFVrYnBWdkVOSklKS0p6dWlSc1E?oc=5",
@@ -359,6 +374,14 @@
    "src": "kumparan",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSVh5R3lDdjR5Q1NnbzBVRjRKMFVwbnBPS1FyZTVGNG5Gb01ReHh0dWwzdVMtZnZmajFrcmswTmJkdGQ2YndNRXk4R0EybGJQNGhUSHpYYkFCNVpQYWhISkZTcGFUTnl1WEVqcDBjV1M3dDEyVjlVVnY1UlZONU4zbi1Bdy0ya1JvUnRQellmNzB1WnNDY2llMzUwUmtwSlVTQ09jSnluN1NwdGVh0gG0AUFVX3lxTE5uN2EtTHQ5QlBJd2pBV0JCRXhCYjZSRUxkUW5IaWxPSFVvb1lpZ0k1TEU5YVY5UlR4blpxY05sQVpjNHhOWkxSbElFVUxSeTEtd0pFcUFlS0tUVl9hUDZwS3dyZmp6bm9lQ1F3cHg4S2xvT2lkbWE1SGpWc1UzOUVxTTFTRVJjU05INjRhMnFJRExLbS1LaldHS3hIUEREYmtDdzUtMHZrNV92RWZXU0twbThtZg?oc=5",
    "time": "2026-11-16T03:30:00Z"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "China’s Zero-tariff Window Puts Nigeria’s Export Capacity to Test as Trade Hits $17.4bn",
+   "src": "THISDAYLIVE",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXB4WVF6TktBTXAtTUtOZVB4ZVZFcUVaR1NuVXlSV3VhaGI0Vy1kNTNpNDlRVDN6ZERLTzhkaEhYdjAyMXhkMi0wSnlxbEMtczRjWjRVWk5rVXdOLU5hdFBlU2FXTUF4dkdTMGlSMnpFazV0NXRzaHZMNWJod21hWnFmak9Ua0lmSnU1dmZfcXZPLW9sbHVydmZDSjl0QmNTb05QY1lrSDd6RmI3T3gwZnB1Szl3LWZibFhOWmdXYW1WZw?oc=5",
+   "time": "2026-11-16T03:21:02Z"
   },
   {
    "topic": "indonesia",
@@ -461,6 +484,15 @@
    "time": "2026-11-16T00:01:41Z"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3EzbUZLMzVNX1JTTVVjTVYwOVhoR0JQMXlRWjh3WjA3OGlfRkhvek43Qk90UW1jeWVDOWZMa2djT0JlSnhoRUh3SXBtbWpRQ1Q5SkNJbnVhZHR5X2NsWTFLT0w4TG4tOEdXQlBVdG91RGp1aWFtNkxJN3NZYktEN1dRWWU3LWQ3MTJ3SjNKejBkc1Zsb3JTV3Myd2t5SnZEeHRaZQ?oc=5",
+   "time": "2026-11-15T23:14:03Z",
+   "t_id": "Yen Merosot karena Taruhan Kenaikan Suku Bunga Fed Meningkatkan Dolar"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Dilema Bunga BI",
@@ -476,42 +508,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSzN5SzlKUEpsS0pueEloNzJ1U0dIRnlGVTBMeGl4dkxYS3lDWjdMZUkyM2N3RGRzbzY0ZHRmSGJidnY0eWRHMzVKZ2syWDVDTEdwbzZUaXVZUnBHeXdTbFE1eDBUelE0NmRpbFJLZUt3T3NIMlJxbjY4aHliV1ZnMTNpaDY0Si1MWE1iTTRKNFF6eGk2NThUU284bTNkOXhDVzBQOC02b3FkcHpCZG5xeUduWGxFWXhQaWhnbVZucHdIZEN2ZWlCSm5uVHVvSXdRVVE?oc=5",
    "time": "2026-11-15T22:12:00Z",
    "t_id": "Federal Reserve 'memiliki beberapa pekerjaan yang harus dilakukan untuk mengatasi inflasi,' kata kepala Fed Kansas City"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
-   "src": "New York Post",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlB1SEVVNFVLT3JzZ2p0Z1h2UU5SWi1ZSkRheVNtZHVqWUcySFl3VXFDdV84WnBNUlJWOFMzMm1yYTE5TGJGbXl0aWJOMU9saVJybHJGa2xGdHFYTkExY1R5ZGw1NlpQU3N2WFVyZ2sxaHhjeWd4cl9yQzc5T0U0WjMzMWNJWlBTU0h3dzJ5d2s0cTRGUVptMmFId1JVRUhPX3hxaA?oc=5",
-   "time": "2026-11-15T21:05:00Z",
-   "t_id": "Tekanan Trump terhadap Hormuz telah mencekik Iran – yang kini juga dikecam"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Prediction: This Will Be Micron's Stock Price by Late 2027 (Hint: Wall Street Expects 106% Upside)",
-   "src": "The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjFuRWlHczk3YnFyaEhaRVU2bEw3dnpQMUhCZllBNjlQQzk1RENNM0dNeFU3WTdsYXVYX3pqYWI5RVo1YWdadmtDbkRCZmxWdVc2VlNVcW1ndm1NTE1XQVZPQmoyQlQtYWJSYjA3Q1Fnc2lMQlN6M2pEU0FQdmNIbjdzd0l4WGJXeU1STF9B?oc=5",
-   "time": "2026-11-15T20:30:00Z",
-   "t_id": "Prediksi: Ini Akan Menjadi Harga Saham Micron pada Akhir 2027 (Petunjuk: Wall Street Mengharapkan Kenaikan 106%)"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEV2d0pEVGhUanZROXNyZXgtMm5aUTE4NXJXQ2tuY2pBLWJSaDlLQ2s3MC1ScjZWdFhEZkF4WmotOEQ2Y0J4M3Ytb2tSYkVwVmVvTDVUX0VFb0F0LTVaeGx1MVY2Y2ZtS0E2Z2ZZOGdPNVFIVC05czF3NUhqTW1tWXM2YWdVX2YyYjd4ZGpOTlZ3Sl9EMHZKRjBEa1JFQTc4ZVhzb01EMmpWbEJGdEtycEo1Yw?oc=5",
-   "time": "2026-11-15T20:00:00Z",
-   "t_id": "Pedagang Obligasi yang Kasar Menantikan Pidato Fed, Risalah untuk Langkah Selanjutnya"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Prediction: Weekend Panic Sends BTC To $62,000 As Margin Calls Bite",
-   "src": "Coinpedia",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUcydDROVF9Ua0plUVdKbXJMR19KYlNzMTJBNTYxcEl3UWI4VTc1emZwTXU0aHpCOU5GX1pWNnVLbVRLNFRHMlJTeXBERk9xSmdsanNKbEE5OGxvbmRZOVNfUElOZUQzRUtVU1FURDViUVRySVMzaWtYR200eVNoVDR4eEdTeWZ2MDB6WUoySm50b2E0WGg0TEpCTGZwTVFZa0FEbklnNVVmd9IBrwFBVV95cUxPaUZsNGJwMEs2dVJYTlFOYVJRTDFpRXcyUVJ5b3llNnhER3NRZHg0MVJtYldKSlRoU0NlbXJiVFR1cnZvUVpWZTBKR2xRQlhLcm1vZEJ2UzRJUGpienRYUmJzdHJGaHZHTkJRN3BmaDNyY2hQYnNfMTRFaWJPUklSNGZIbWJVOEZrVjlZdjY4N3dMV1RIRTJCRlQzb0gzVDVRaGxKRFdJb0M0OVk2ZGh3?oc=5",
-   "time": "2026-11-15T19:18:38Z",
-   "t_id": "Prediksi Harga Bitcoin: Kepanikan Akhir Pekan Mengirim BTC Menjadi $62,000 Saat Margin Call Menggigit"
   }
  ],
  "errors": []
