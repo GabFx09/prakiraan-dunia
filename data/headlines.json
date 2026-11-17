@@ -1,7 +1,16 @@
 {
- "updatedAt": "2026-11-17T16:39:37Z",
+ "updatedAt": "2026-11-17T16:54:21Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Price Today on November 17, 2026",
+   "src": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWk0OVdnMHFRZjhadE84LWwyM016LWo1MDFVUHhxajdOMEc2cm53ck9hT2NWZFU3NDhGcHZ5Z2ZEdG1IZ0dRMmVXaFNXQXBlMXhOell0bnlQYXNqSnJrVXV2c01uS3Qwd3Vac1A5dXEyejhOcWNkVUEweU1QVUJvQVRFaDZYX0RWNU1uZlJlWGNodW50OFJUWUNMVXdxWFNaTXRn?oc=5",
+   "time": "2026-11-17T16:34:00Z",
+   "t_id": "Harga Emas Hari Ini 17 November 2026"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -39,6 +48,15 @@
    "t_id": "Angkatan Laut Iran mengatakan kapal tanker minyak ke-3 terbakar setelah menabrak ranjau di Selat Hormuz"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Tracking ship traffic through the Strait of Hormuz. Updated regularly.",
+   "src": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdJWTU0VkQwQ1ZGMTlhS2ZoY0ExeXo4X25UX1k2NnFwdXgybTFtNEtoNlVMSHRlUFExVVZIX1FFelBMMk9jZkEzWmprZEktcTByZUJVcWsxVVE1WG92QjZ3dkhjX25DNFlqS3ZTRXFLSUVjRWpGNHhtdmtlMVdJWEFFZXJoM1RYU2JLS2F5emRFX0w2cVlmRWFZOGlzUQ?oc=5",
+   "time": "2026-11-17T15:14:05Z",
+   "t_id": "Melacak lalu lintas kapal melalui Selat Hormuz. Diperbarui secara berkala."
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold and Silver Rally as Nvidia, Deutsche Bank Scandals Hit Equities",
@@ -59,11 +77,11 @@
   {
    "topic": "ai-teknologi",
    "lang": "en",
-   "t": "Nvidia and other AI stocks hold steadier following their latest sell-off | National News | 2news.com",
-   "src": "KTVN",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNTMzVGtVT2plYjZoTnNpWk5RRkVBbmlIRHBHVEY5UUFHY1ZGYVQ3eW5jS254MWZoNmdwVE5aUFBGVExBZzZ1Vm5uQ2dES19hek4tdzlxWU5IZlZrTXFGaEdFbEgzRFhkUkZ0TlZIMW1wby10bVBnd0hFSWhqZGFMOFpVd3R0aHVQdUpxQ0dFQVpHR1dHbmZFWnNXM3VWQnI0aFprQmRvMUVnbkJNaWV6eVVla2NEb0RBdnJDVHBXWGZldWZodWpyMTNfVTR2V3hIeENDbnh1UzVfLTJvWElCMGR3WTlCUTFVTnpNNw?oc=5",
+   "t": "Nvidia and other AI stocks hold steadier following their latest sell-off",
+   "src": "Cherokee Tribune",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNM1lmNk5SSnZTck5YUU5UZHdHT295aExxYnNhNW9aOEt1MzVfaDV1ZDlzZmNXN2FrMERjWG1wNGtaUklzdlZFVnNENkZKQ0F3ZWI5SG5SRXEtOC05RDBacGUtOTFZQXlwZmFSQUFJel9iSFBINnY1dXd1M0l0NFNSTTg1ZXZfSXpLUzVvVmtpazlNSTI3RC1IT2dsdjEzYlBoWlFqcHR4OVV3UllNQzFNbHdaZ25sU29kTS1RZm5vWTMzeUFaWnNsZkxSTFNUeVR6bTdJZkt1UlRYT2JMbXpqVGxXTTJDUm1NVXFGdWZtZG9hTkRBcG1GN3d1dVNXeVRPQmducUx3U09pbWdlbVdIRkhB?oc=5",
    "time": "2026-11-17T15:00:21Z",
-   "t_id": "Nvidia dan saham AI lainnya tetap stabil setelah aksi jual terbaru mereka | Berita Nasional | 2news.com"
+   "t_id": "Nvidia dan saham AI lainnya tetap stabil setelah aksi jual terbaru mereka"
   },
   {
    "topic": "indonesia",
@@ -76,11 +94,11 @@
   {
    "topic": "ai-teknologi",
    "lang": "en",
-   "t": "Nvidia and other AI stocks hold steady following their latest sell-off",
-   "src": "Union-Bulletin",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaUpKaV90RlFIUFgzaVNVYnNIV19wREc0LXdzZkFmVFJsWVFCX0xzWnd2Z2xLYlpwdFQ0bmV6TG5jMW1nZWlqcHFtRTRVMVpGTHltYUJZTzNGb0hvMUpkR1A2aFBrbDFHYkV6NDNNbmdaMFEyM1ZTUXplZjBjNnJBdFloZnROekhJOEdoeDZDaHEwSy1SeWY0Ni1jY0E1b2FEeUNyMWdwRHVNRzl5Q0JkS2JMVGZoa01rZy1wV1RkSHpUTkhvMm5FWjBKYjRNbDU4eDR0ajl4YVlkbDF6WURrQ2N5cUlsa3NiZEU5cDdLX2ptUHp0?oc=5",
+   "t": "Nvidia and other AI stocks hold steady following their latest sell-off | National News | 2news.com",
+   "src": "KTVN",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMVZTSGhQR0J1MGVrZExCaTRhb0VyUEhiSWR6WHgyZUpOMF9ZM0dKMEJBSnB2LXYyTGcxb2NHeEkwM3NpZko0TzJwX3VhU3U5dl9nLVdrbmZXMzdmckdFYlQ3QTBuQzRranRjeFZlSU4zT0gxdi1BNmVFRWVzS180RGVaTjh5QjJ0NEQ4RFIxOFZXcWhCXzRVSktSSkVhVllTREtHZ3c1ZDJzVVBCN1NkdGNxTnkzVG1nRDFaZ2l5aUZBWXoyT1JGdTFtM0NVX0RBSGZWWUMyOHdqblhvRVhRZkg1c3Y0WEQybnc?oc=5",
    "time": "2026-11-17T14:40:18Z",
-   "t_id": "Nvidia dan saham AI lainnya tetap stabil setelah aksi jual terbarunya"
+   "t_id": "Nvidia dan saham AI lainnya tetap stabil setelah aksi jual terbaru mereka | Berita Nasional | 2news.com"
   },
   {
    "topic": "indonesia",
@@ -134,15 +152,6 @@
    "t_id": "Prospek harga Bitcoin karena data pekerjaan ADP AS meningkat menjadi 23,750"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Tracking ship traffic through the Strait of Hormuz. Updated regularly.",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdJWTU0VkQwQ1ZGMTlhS2ZoY0ExeXo4X25UX1k2NnFwdXgybTFtNEtoNlVMSHRlUFExVVZIX1FFelBMMk9jZkEzWmprZEktcTByZUJVcWsxVVE1WG92QjZ3dkhjX25DNFlqS3ZTRXFLSUVjRWpGNHhtdmtlMVdJWEFFZXJoM1RYU2JLS2F5emRFX0w2cVlmRWFZOGlzUQ?oc=5",
-   "time": "2026-11-17T13:44:05Z",
-   "t_id": "Melacak lalu lintas kapal melalui Selat Hormuz. Diperbarui secara berkala."
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "Anthropic IPO and Bitcoin Price Analysis : BTC Miner Selling, Liquidity Shifts, and What Coinbase, Robinhood CEOs Expect Next",
@@ -177,15 +186,6 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXNLbU1TNG8wbkdSLXhsV3I1N0ZBUjdzdGc0M2l5RW5qRzFodjRjX0MxX0kxQlVVUVl2YW9UYldCYVZUUHpSRzI2OGN2Rm1TdGV5YnE1RXJFZWpfZ1VveEVMblduTm8xY1dOUXB1VnZ6RWM4S3hTb3VablduVnNJODRBWktHcmhPUFh4Vk92cmxPU0NxNWx6ZHEzOU9laTBFSGJiWHRkRUQ1MkpDZEFEdXBnYm4tUlFZS1E?oc=5",
    "time": "2026-11-17T13:30:22Z",
    "t_id": "Harga emas turun menjadi $3,848/oz setelah penjualan ritel bulan Oktober naik 0,2%, inti naik 0,6%"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Price Today on November 17, 2026",
-   "src": "USA Today",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm1INVR1ekhhdFl5NUVKVzAtbmtRSHkwSTkzQm1vWkNabEZEYUFUcUZfa0NyQkZBaGZQclJrcjFJck5od2xTaTl2X21Xcmp0SFhSX1c1d05GeV95bExvTUVROEstYTQwUk1aakN1QzJ6LVRlLVRkUHBwMUJxWEhfVEd2WHprQ0FPVGg4ZXZ0Y2FYeHd6Nk12T19RdHZTWHppUm81eXlzZUE1UUE?oc=5",
-   "time": "2026-11-17T13:20:07Z",
-   "t_id": "Harga Emas Hari Ini 17 November 2026"
   },
   {
    "topic": "geopolitik",
@@ -283,6 +283,15 @@
    "src": "ANTARA News Jambi",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3FwMDJERWVKaGNIbjJGc19FcXlfQ3VaSEFBdTBHR0FIWXBTYUREV210aTdCQTBMTjZBNDlqMEhHbnlIU01LS0VJcGsxLXY0NGpHby1NcXozN1YxU1dNSDF2Y00tS0gtT004ZDhZT2VQeHN5OGtUMk9pZ3huWkd4MXExTl9jQWdzd05sbG8tckVEX3NIUEtHNXh3?oc=5",
    "time": "2026-11-17T11:03:08Z"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Canada and China Move to Reduce Trade Barriers and Boost Business Ties",
+   "src": "Hungarian Conservative",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnF4dEk0eFdBeEVKZFczYXpsOGxxeG54cXF0dEpoMlBmZTQ4WmstYmlvZDlvMFd0WkMtRGZoSkdlb1doU1RXQTJDM1JsYXdRMjRFbFZKVTdxb0xyUUFBRTZOMFk4TVdBbjAtWHlmc0wtekJESk82YUl1LVZLa3dFUndJbGRzY212Y0d1LWRBektuOHlvQk5VSUludE11NFl3NV9KcGZiLVI?oc=5",
+   "time": "2026-11-17T10:26:59Z",
+   "t_id": "Kanada dan Tiongkok Bergerak untuk Mengurangi Hambatan Perdagangan dan Meningkatkan Hubungan Bisnis"
   },
   {
    "topic": "indonesia",
@@ -453,15 +462,6 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
    "time": "2026-11-17T04:08:00Z",
    "t_id": "Kanada dan Tiongkok memperpanjang perjanjian perdagangan saat Xi bertemu Carney menjelang KTT APEC"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "China rolls back tariffs on Canadian pork, seafood in new trade deal with Ottawa",
-   "src": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamh2b0ZVcHhiSC1lT0pvdjUxWV9hYTg2NlN5dmplbVBUSUNnQW5IM2MwNXZROVlNQTVMVTFObEpvTmdJWS1aMVpZakxDYXFEWE5IN0pWQ0ZBVHdXRDA4SDl0SHBoa2ZpZXkxd256RFhsREJhNTZtbDRnTVcweVNOYkZZbUY?oc=5",
-   "time": "2026-11-17T03:37:26Z",
-   "t_id": "Tiongkok menghapuskan tarif terhadap daging babi dan makanan laut Kanada dalam perjanjian perdagangan baru dengan Ottawa"
   },
   {
    "topic": "geopolitik",
