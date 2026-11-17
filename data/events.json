@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T21:47:08Z",
+ "updatedAt": "2026-11-17T21:48:22Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -140,7 +140,7 @@
    "recent6h": 3,
    "score": 4.5,
    "level": "sedang",
-   "first": "2026-11-17T19:43:02Z",
+   "first": "2026-11-17T08:49:30Z",
    "last": "2026-11-17T19:54:10Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
@@ -275,31 +275,6 @@
    ]
   },
   {
-   "id": "kesehatan-202611170859-0bbf",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "WHO Director-General's opening remarks at the third IHR Emergency Committee meeting on Bundibugyo virus disease epidemic in the Democratic Republic of the Congo – 17 November 2026",
-   "src": "World Health Organization (WHO)",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3dxQ1RzXzNpbVlTcFpTNmVZdjBibl9qa2dhR1ZUUWJWejdvVV9TWXdoNWxQeTdkUWJEQkZiTTQ4YXBoMlc2TW0xWGJoelFhMU9JWi1KWTNGYXg2anhkV0RxV05kUnU3U2xQbzdLU0d5Ym1xclBGNEowMUlaem5iYnllMHE1eTRWb3J3YTVfWkJUeVk3QW9EeXAtMV9sQUQ2azVJMnVtQVU4SFM3Y3dDWFduT0ktU0tTa2FFZVlIcUFMZzdjeTdXdnhBWVlvX1lGc3lHaWt2a2JwUFBtME10TXJYY0xpVFhhU01mZ25oUGg1OHNiOGZRb3VDS0hHSUdScDRscWgwLXpEdHhfeER4SzJBX2hyOGVhVXVrczdFcUdJWVJ2RDJRbjJMWWZ6YVhhLVZ3ZDFRQlc5ZHotaDBjOUh2S0lFdw?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T08:59:37Z",
-   "last": "2026-11-17T20:08:49Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Epidemic and emerging disease alerts in the Pacific as of 17 November 2026",
-     "src": "ReliefWeb",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2N3cnBDUFZMV2U0VGFlbkJuR1hoSm5lZHFQa0hYVG5QTXB3Ukc2UVZURmY1SEpaUUtMSWFKcXNIR01vM1I2VzRLQUtEaHJMTThoM09qMFdYbkNEcUxBcVRfSUZVM01VY3FwbDlQclRCT2dyZVJmWTJxYWoxeTdJRXVLRm42T2xBRXZtV1UzOHJZc185YnhZaA?oc=5",
-     "t_id": "Peringatan epidemi dan penyakit baru di Pasifik per 17 November 2026"
-    }
-   ],
-   "title_id": "Pidato pembukaan Direktur Jenderal WHO pada pertemuan ketiga Komite Darurat IHR mengenai epidemi penyakit virus Bundibugyo di Republik Demokratik Kongo – 17 November 2026"
-  },
-  {
    "id": "transportasi-202611162203-ac47",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -397,6 +372,31 @@
     }
    ],
    "title_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
+  },
+  {
+   "id": "kesehatan-202611170417-dcc3",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Ebola outbreak defies control as war and hunger fuel crisis six months in",
+   "src": "The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalZtYm1XOGNEZmhtekIyaUZIYUlCMEJJUllBRmtwR18yaFJWeVZpRmFDU09kOU1SSnFubDVrYXB3blpXMzk4Wlo4WUJjTzBBc1hkQlk4U1VxSDVQZnB3cXhuNThON2NEZDVlMXlEQ3o5SXdrSU9kbnFHMXNXSmh5Zlp3UzdRcm5rRW1JVHd1bEo0ZHlwVmd1R0tjckF2RUNB?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-17T04:17:45Z",
+   "last": "2026-11-17T06:13:35Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "6 months of the Ebola outbreak in the Congo: War, hunger, disease and profit",
+     "src": "World Socialist Web Site",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzQWZCS1FYVjU3ZnNJQzZkd2d3bWoyVUIwOV9MMTgwVWtfaHFST1p5WFQzZWhfMDU2b093Y1pvZW9nejZvRmRPeW0wTnJMOEY0SzVLU2hBQWFfQUFzT09VMFVleGJOUVVr?oc=5",
+     "t_id": "6 bulan wabah Ebola di Kongo: Perang, kelaparan, penyakit, dan keuntungan"
+    }
+   ],
+   "title_id": "Wabah Ebola tidak dapat dikendalikan karena perang dan kelaparan memicu krisis dalam enam bulan terakhir"
   },
   {
    "id": "transportasi-202611162318-6b15",
