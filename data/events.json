@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T18:22:36Z",
+ "updatedAt": "2026-11-17T18:37:23Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,20 +10,14 @@
    "title": "Missiles! At the Crimea Bridge",
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYk5mZjN1bHBFTDcwenlYbjdrdVQySEIzeVNhTm44WkRIaHFMSC05aW5qV2U3LUQ1Wm5HYTgteUp6QTVqQ3RuUjc1NFo1TjdKQjFBT1J5a3JPN1ZMdHJTMnlLaFpjVHlkSUUwMldVVkx4VEtPdnhDVkxiV0RObGNqRE5qeUhadWpMU29xQldnbnFmNGs1b2p1WTdROUNtTWwxcWU5SFdyVXVZalByQmt1QUZUX3NwN3Y5bFdOeQ?oc=5",
-   "sources": 9,
-   "recent6h": 2,
-   "score": 10.0,
+   "sources": 8,
+   "recent6h": 1,
+   "score": 8.5,
    "level": "besar",
    "first": "2026-11-16T22:20:30Z",
    "last": "2026-11-17T14:34:44Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
-     "src": "Rocky Mount Telegram",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMjVUOXJkS2JOREJIN2s3cTBBYTNNT0gyVjQwRFBaUktXeDQxVUM3ODFvNXpnUWlyRlVPRWhEM2NRNzBYNWJ3LTl2YXlmLXdsUnY2SXE1ZDFOSkgxU21WQ2J5dG9Qa2Q4UHNJQmtHb0R5OUhmYjZscjctVTh6SHR5U2FUNWhhUnA4Y0xVUEZDWkl3eVFzSHlFZGZFei1hdWh6aTMwRC1vSEhlMkhaelhkQW5yZ1hTUDhxdGUwLVp1UHVtMmV5bWloZ0VENmdKNEdnUHFTU0xaRHpKSURldDNQN1lPMWpiMzh0NVJkR0xMR0UxajV0SHpNUHhGcEIzcWltbnE1dFF0LUF5Mm5oMExCN09ZSjZOUQ?oc=5",
-     "t_id": "Ukraina menyerang jembatan utama Rusia dengan drone dan rudal saat serangan udara meningkat"
-    },
     {
      "t": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
      "src": "NPR",
@@ -41,6 +35,12 @@
      "src": "The New Voice of Ukraine",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTZMa3FMWE8xNlZmbGI4TXZTUFZaT0pqUVdFOTVDcUtPSER0MzBaaFRzRWk1Sk1ybExPZHMtUWdpdDVYdEM4a2JxVXlIZ1VlaGJPemg4ZFU1ZFhlQXpBSXFubkh5dUZjVjNQemJ5SnhXcm53NVBfMVk1T1pPNkpwVEtYeXFHcy1xZC1EVDJvcTQzWXE4VDFCQUhTbUxwVTljMVRF0gGfAUFVX3lxTE4zRUR0alJrOEZJTjlYNDVwQXVWdWtfTDd6d2IxeWZKV0hSZlRMd2JyMHotMUNZN2V4Vkd3SUswS2J5b1F6Yk1yS2xEc3BnWU5JdW0teFpnOHJteWNVdm0ta0oyalh1LW9fWGJoTS15WEt0UjhCQmpzdEtXVmxzeWhCLWo4VGVpRk9kUV9xUFE1VnFuTGhnRjh6NUZIdlBQcw?oc=5",
      "t_id": "Klitschko membagikan video Jembatan Pivnichnyi di Kyiv yang rusak akibat serangan rudal balistik Rusia"
+    },
+    {
+     "t": "Russian Missile Strikes Hit Two Major Kyiv Bridges",
+     "src": "Arise News",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wYXZqLUM2UVRsRDg1OTlVT081UDc1ODVQUjRhM2JlQXBpckZWdG1vajBSWXhFanVVeENuR3pLZTJaNnplb0xkcUFVb3QzZ2lKanlwR243c2hBc2xBQmpTazBCQzBHVXR4UUtQUEh3TEk5bFhBN2s2NDJnaVA?oc=5",
+     "t_id": "Serangan Rudal Rusia Menghantam Dua Jembatan Besar Kyiv"
     }
    ],
    "title_id": "Rudal! Di Jembatan Krimea"
@@ -116,7 +116,8 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWtVYkg1bGdZU21MUE5IWl9HMlpSQTJqV3lZZDRLWXdtZnkwYWxXaHAwUFFpWnZfcnh2VE9kY3pqc0wtVkJpMzJIa0ZqMFFsMWhkSG9nbzhhUUV2QlRKdjl1YmlPQU50c1lvRkJieTFCc0dfUWFQYUh6a1d2ODMxcm9RMnlYekVnTEFfN0pzTjZ5YnJPOVNnSzVEUExxX2xwUzFvQTBaMm5YRUE2?oc=5",
      "t_id": "Serangan drone dan rudal Ukraina dilaporkan di Jembatan Krimea – Video"
     }
-   ]
+   ],
+   "title_id": "Ukraina Menghancurkan Rentang Jalan Jembatan Kerch dalam Serangan Drone dan Rudal Besar"
   },
   {
    "id": "politik-202611170547-3f58",
@@ -150,6 +151,31 @@
    "title_id": "Spanyol memberikan suara terlebih dahulu: Apa arti pemilu cepat bagi Eropa dan Amerika Serikat"
   },
   {
+   "id": "politik-202611171811-cac8",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Sweden sets Christmas deadline to form government or call snap election",
+   "src": "Operativ Məlumat Mərkəzi",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemE4Q2R2X21lZ21WUzkySWJ1TVBJM21fbzdTN0J2VERGcVg0SnZjWlc2a3NVcVBOQW1ERzZucUxDOHJIbVRBUWlpaHB6M0VjQUJ2R2ZGdXlOV2pPV2lSM0pZUXFLc1pTUzI3OUxrQVA0VGZRdE1JaldFekUzVFo0QldSZzd4Njg2UzkwU0J5c1NvdTgwaUh1cEU4NV9hZC13UTY1Q1h3SFU2NGM?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-17T18:11:47Z",
+   "last": "2026-11-17T18:15:36Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Sweden sets Christmas deadline for government formation, or call snap election",
+     "src": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEpDZHNfR0hMQ3lCZlhvaERkNDFDX1pYbnJ3RlR2QTVEb1d5X1M4TkxOS3pVaEluTFpIT3JaWC02VS12dEFRZGFGZDV2aEFyUVJxSldoMllqUXJ0eXRmdU1SaEJwalItTm9KM0ZpOGhnOHRxcnNTQUxyaGluTFlVMzlPb3ZwVWI4amZweUhSalR6U1lBNFE2cVBsaEtyRzhIUkYzempoUzRNUS1vSTcycmdrWQ?oc=5",
+     "t_id": "Swedia menetapkan batas waktu Natal untuk pembentukan pemerintahan, atau mengadakan pemilu sela"
+    }
+   ],
+   "title_id": "Swedia menetapkan batas waktu Natal untuk membentuk pemerintahan atau mengadakan pemilu sela"
+  },
+  {
    "id": "siber-202611171550-a0f9",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -168,9 +194,11 @@
     {
      "t": "Major outage hits NSA's secret communications network",
      "src": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRldrYTh2NzJrQU9DeVJPQVAtT1VRMG92LTBheVpXZnVSZ0pibjdTeGNSNmU0UlBFaWZ5eFlEY19OT21MZ0xtczV2NHkzOUxwTUZLZjVqZVhOaGcxWjFQZ0JOMHpCaGFWRTQzM3ZYYmpXb1BrWWpWVzRvcXNHZmkzMXBVVEsxaS1tZjFocFAzVGxHRTdnVEtVV2pXMmliVzVQbkHSAbQBQVVfeXFMTVM1ckFHb3VqVjh5SEFLSl8wZnozR01BWWN4QmpfX2otTTYzQUFvMmx2RlhyTGMwRnBvUzIzcFRFNGxEbFkxekZrVWVPWUJJVzRVTVJzbEdzZ2Y2ZnVOdWVVRXd3S2hpQVBkR19XWEY1ZFdtclZSc2I3UDQ2alRmS3FlczFpMUx0Tm95bGlzLWlDNjZ1M3BfRnNFWHNvRFNhMTEzZTZ1UTlFMFU4Y01ZZ1prZERk?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRldrYTh2NzJrQU9DeVJPQVAtT1VRMG92LTBheVpXZnVSZ0pibjdTeGNSNmU0UlBFaWZ5eFlEY19OT21MZ0xtczV2NHkzOUxwTUZLZjVqZVhOaGcxWjFQZ0JOMHpCaGFWRTQzM3ZYYmpXb1BrWWpWVzRvcXNHZmkzMXBVVEsxaS1tZjFocFAzVGxHRTdnVEtVV2pXMmliVzVQbkHSAbQBQVVfeXFMTVM1ckFHb3VqVjh5SEFLSl8wZnozR01BWWN4QmpfX2otTTYzQUFvMmx2RlhyTGMwRnBvUzIzcFRFNGxEbFkxekZrVWVPWUJJVzRVTVJzbEdzZ2Y2ZnVOdWVVRXd3S2hpQVBkR19XWEY1ZFdtclZSc2I3UDQ2alRmS3FlczFpMUx0Tm95bGlzLWlDNjZ1M3BfRnNFWHNvRFNhMTEzZTZ1UTlFMFU4Y01ZZ1prZERk?oc=5",
+     "t_id": "Pemadaman besar-besaran melanda jaringan komunikasi rahasia NSA"
     }
-   ]
+   ],
+   "title_id": "Jaringan Komunikasi Rahasia NSA Mati Di Tengah Pemadaman Nasional"
   },
   {
    "id": "indonesia-202611170348-3581",
@@ -219,9 +247,11 @@
     {
      "t": "Iran Claims Fresh Drone Attack On US Military Installation In Bahrain, Residents Receive Emergency Alerts As Explosions Echo Across Capital",
      "src": "The Sunday Guardian",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOS0EtUUN2ZjJWN2Y0bnctTEkxRzlhT3FLWW56Ri1tQk1mOS05R0hBMmkya0RuUkNtdFhYZGh0ckhDd21jZmJGYUdyY05mdlozYUJ2MEYxV3Jnb3lsZGVfaGRqeUxQX0YzbTZVRXEyWXNpNU9KdzdseU5UNHpNSkR3MVhhcVNTSWdWcHNtVEEtb0NoWGUzM08zR3NnUkJreGpNQlNVMWo4YmNFenE4TE5xRUN1NjVleGNueklQZ3ctY2hhTXpXNTlIc1FydlM3aDJTUFVoX1RRemc5cnB5N290Zk1RbmplVkx0QkNQNU0wcE9MM2wzM2tSemJSSFJkM0RYVy1tY3NDWEF4NjdjVGpQLdIBlgJBVV95cUxQWTdpeXV1MkUzTGR6SUFmNm5CaXVNWkpSX3M1c2ZyV25Id0NHaGx5Sld0MThoYXlNVklIV1FxaXl4ekdKWHJxLUh0OFM2TmNYY3NNUjdOU1pqVFZqZEJfZVVTcGN0bmxLVWY0SUludmp5LU0teWlZVHlfZGNKVzNHOTF4QU5MeWFKUlpwV2hBZDJhbExrckZzNWNELTE2anlzWHA1T0d2OWpYTUJ6bHBDN0NUS2U4SXcxdHBDSjloVElPMThnN0RTcldKUkdHQV9iYnBpS3VmWWNPdXJCeXJKQnZfc3c1LWw5bVlPVXI3M2VYd0pCaUYzc3hKN0FlYWhiaWc2NWJ1ZVhjUnlkWjhUbmNNci13QQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOS0EtUUN2ZjJWN2Y0bnctTEkxRzlhT3FLWW56Ri1tQk1mOS05R0hBMmkya0RuUkNtdFhYZGh0ckhDd21jZmJGYUdyY05mdlozYUJ2MEYxV3Jnb3lsZGVfaGRqeUxQX0YzbTZVRXEyWXNpNU9KdzdseU5UNHpNSkR3MVhhcVNTSWdWcHNtVEEtb0NoWGUzM08zR3NnUkJreGpNQlNVMWo4YmNFenE4TE5xRUN1NjVleGNueklQZ3ctY2hhTXpXNTlIc1FydlM3aDJTUFVoX1RRemc5cnB5N290Zk1RbmplVkx0QkNQNU0wcE9MM2wzM2tSemJSSFJkM0RYVy1tY3NDWEF4NjdjVGpQLdIBlgJBVV95cUxQWTdpeXV1MkUzTGR6SUFmNm5CaXVNWkpSX3M1c2ZyV25Id0NHaGx5Sld0MThoYXlNVklIV1FxaXl4ekdKWHJxLUh0OFM2TmNYY3NNUjdOU1pqVFZqZEJfZVVTcGN0bmxLVWY0SUludmp5LU0teWlZVHlfZGNKVzNHOTF4QU5MeWFKUlpwV2hBZDJhbExrckZzNWNELTE2anlzWHA1T0d2OWpYTUJ6bHBDN0NUS2U4SXcxdHBDSjloVElPMThnN0RTcldKUkdHQV9iYnBpS3VmWWNPdXJCeXJKQnZfc3c1LWw5bVlPVXI3M2VYd0pCaUYzc3hKN0FlYWhiaWc2NWJ1ZVhjUnlkWjhUbmNNci13QQ?oc=5",
+     "t_id": "Iran Mengklaim Serangan Drone Baru Terhadap Instalasi Militer AS di Bahrain, Warga Menerima Peringatan Darurat Saat Ledakan Bergema di Seluruh Ibu Kota"
     }
-   ]
+   ],
+   "title_id": "Iran mengatakan AS menyerang Pulau Qeshm setelah serangan pesawat tak berawak di pangkalan Amerika di Bahrain"
   },
   {
    "id": "transportasi-202611162203-ac47",
