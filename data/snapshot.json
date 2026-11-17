@@ -623,6 +623,17 @@
       "ihsg": 5304.755,
       "usdidr": 18158.0,
       "ust10": 5.101
+    },
+    {
+      "t": "2026-11-17T21:59:00Z",
+      "risk": 82,
+      "btc": 64282.17,
+      "gold": 3857.5,
+      "brent": 92.91,
+      "spx": 7340.53,
+      "ihsg": 5304.755,
+      "usdidr": 18240.0,
+      "ust10": 5.103
     }
   ],
   "horizons": [
@@ -1069,6 +1080,22 @@
   },
   "news": [
     {
+      "t": "Dow sempat turun hampir 860 poin saat aksi jual saham AI meluas jelang laporan Nvidia",
+      "src": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWxuNVljeVdmZFRJbXl1eS1meXhwNWNUbHRldmIxRW4wVGN0UE5fb0YzdWNnbUFodzc3TXB0LUlxeXEwdHFaQ0VlX3VBd2hoMkZsVU9mSTktb3RDbEpFMWJsUjJWaXE0ai1fcFY5T1N4RWIxVHVIVk94X0I4QXQwTGpsQ2xOSFVHaElqTzFQNWhSNzktVzZN?oc=5",
+      "time": "2026-11-17T21:26:41Z",
+      "impact": "turun",
+      "assets": "Saham AS, Bitcoin, IHSG"
+    },
+    {
+      "t": "Media melaporkan militer AS menyerang situs rudal Iran di dekat Selat Hormuz",
+      "src": "gCaptain",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXNBODNiLUlBTzNEN0lUdlk1Z2N4dExRRFVEY3BsejBYUHdDd3NYYlptZXk3OWNXZEJLbFZVYWM0U1FrdTEwNm9PMTBlWXFWSnJyYS1pTkx5Tm9ZcWxZb1R2dXg2LUNlOWxxR3NxMk5JOEhldzV2S1NXbXh2bmY1MVpjWGJXeE9wdWdhYmdR?oc=5",
+      "time": "2026-11-17T20:14:20Z",
+      "impact": "naik",
+      "assets": "Minyak, emas, rupiah"
+    },
+    {
       "t": "Wall Street melemah jelang laporan Nvidia, yang pertama sejak skandal",
       "src": "France 24",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSUc5bXhVWmV4VG5OQVcxRGpqb21URnBFQllQdUZoMm5ISXc1ZGpBREltNXNUc1ZyczUxeUZheUxtQ3ZyNWE1LUtqQ01IZkYyblJEbFpTVXJfcmxnMjU4YTBxbkxCV0RONmRDWHBYaEdvbTBvU0pZNWVfNUZPRUl6aVNZT2tMdmVNT3gwQmJqSTBPbHdsX3UyUndfNVNVbkZSNE91UlI5NWRNTEtWUnFj?oc=5",
@@ -1147,22 +1174,6 @@
       "time": "2026-11-16T17:08:00Z",
       "impact": "turun",
       "assets": "S&P 500, Nasdaq, saham AI"
-    },
-    {
-      "t": "BI menunjuk Bank of China sebagai bank kliring renminbi untuk memperkuat transaksi rupiah-yuan",
-      "src": "detikFinance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3pEOXpudzEybUd5WjlKS2cxTmwyak5EVDhwVWE3MEtxLVlocTFvRi03eXU3Y042TFp2Yjc1YXd4RE12d0o4TXpSX203QkpzeHJtSzhzV2NxdkVtb3g2Vkd5WjFTLXh2T0xsVlhmYTFORFFpUExPdElyYm16YVVVWkZ2MWZCcnF5NlJhOUEydDdnQk1zOTlBWmtfTTlJT3RYdmxUZXV5MG94bTIwN1FlQk90ZW4?oc=5",
-      "time": "2026-11-16T17:00:00Z",
-      "impact": "netral",
-      "assets": "Rupiah, yuan"
-    },
-    {
-      "t": "Iran menyebut tanker keenam di Selat Hormuz diserang dalam 24 jam; tegangan kawasan meningkat",
-      "src": "The Independent",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTktFOGNOclFySkg5NGdKSXhuWUpLVE5EYmZIYkVzNXp4andTUHBGUGY5aGEtQ2ZfaVRBeDNCUzV6OWdkWXloZ2s0c0pWd2ViRW5WczBHOXhGWnBFWXhPLTZ3UzRvM2dSMXVUZ0E3MzRlcmRZTmJZeGlSVDJiYUU3R1AzTmg4RFR3ajFHVFM4V3EwRGtwcjVuRnJMcDZZSW9sdEMwRE9B?oc=5",
-      "time": "2026-11-16T14:50:00Z",
-      "impact": "naik",
-      "assets": "Minyak, emas, rupiah"
     }
   ],
   "readings": [
@@ -1187,31 +1198,31 @@
     },
     {
       "c": "neg",
-      "d": "Naik 1,0%, risiko Hormuz berlanjut",
+      "d": "Naik 0,5%, risiko Hormuz berlanjut",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$93,40"
+      "v": "$92,91"
     },
     {
       "c": "pos",
-      "d": "Naik 0,2% hari ini",
+      "d": "Naik 0,1% hari ini",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.860"
+      "v": "$3.858"
     },
     {
       "c": "neg",
-      "d": "Turun 1,9% hari ini",
+      "d": "Turun 0,9% hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$63.645"
+      "v": "$64.282"
     },
     {
       "c": "neg",
-      "d": "Turun 1,2% jelang laporan Nvidia",
+      "d": "Turun 1,0% jelang laporan Nvidia",
       "h": "spx",
       "k": "S&P 500",
-      "v": "7.329"
+      "v": "7.341"
     },
     {
       "c": "neg",
@@ -1222,10 +1233,10 @@
     },
     {
       "c": "neg",
-      "d": "Naik 0,1% hari ini",
+      "d": "Naik 0,6%, rupiah melemah",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.158"
+      "v": "18.240"
     },
     {
       "c": "neu",
@@ -1234,11 +1245,11 @@
       "v": "5,75%"
     }
   ],
-  "regimeText": "Minyak tetap tinggi akibat klaim serangan ranjau di Selat Hormuz, sementara pejabat Fed menyebut perlunya beberapa kenaikan bunga lagi. Saham AI tertekan jelang laporan Nvidia dan rupiah bertahan dekat level terlemahnya.",
+  "regimeText": "Minyak tetap tinggi akibat ketegangan di Selat Hormuz, sementara pejabat Fed menyebut perlunya beberapa kenaikan bunga lagi. Saham AI tertekan jelang laporan Nvidia dan rupiah melemah ke sekitar 18.240 per dolar AS.",
   "regimeTitle": "Stagflasi, risiko tinggi",
-  "risk": 81,
-  "riskNote": "Risiko tinggi: Hormuz belum aman, saham AS tertekan jelang laporan Nvidia, imbal hasil AS di atas 5%, dan rupiah dekat rekor terlemah.",
-  "updatedAt": "2026-11-17T19:05:00Z",
+  "risk": 82,
+  "riskNote": "Risiko tinggi: Hormuz belum aman, saham AS jatuh jelang laporan Nvidia, imbal hasil AS di atas 5%, dan rupiah makin lemah.",
+  "updatedAt": "2026-11-17T21:59:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1528,8 +1539,8 @@
   "riskParts": [
     {
       "k": "Geopolitik",
-      "v": 90,
-      "note": "Klaim tanker terkena ranjau di Hormuz berlanjut"
+      "v": 91,
+      "note": "AS dilaporkan serang situs rudal Iran"
     },
     {
       "k": "Inflasi & suku bunga",
@@ -1538,8 +1549,8 @@
     },
     {
       "k": "Valuasi saham",
-      "v": 73,
-      "note": "S&P 500 turun 1,2%, jelang laporan Nvidia"
+      "v": 76,
+      "note": "Dow anjlok ~860 poin jelang Nvidia"
     },
     {
       "k": "Likuiditas & dolar",
@@ -1548,19 +1559,19 @@
     },
     {
       "k": "Indonesia",
-      "v": 77,
-      "note": "Rupiah di atas 18.000, dana asing keluar"
+      "v": 78,
+      "note": "Rupiah 18.240, jelang keputusan BI"
     }
   ],
   "alerts": [],
   "brief": {
     "date": "2026-11-18",
     "points": [
-      "Risiko tetap tinggi di 81/100: klaim Iran soal tanker terkena ranjau di Selat Hormuz masih belum diverifikasi independen; Brent sekitar $93,4.",
-      "Wall Street turun lagi (S&P 500 -1,2%) jelang laporan keuangan Nvidia yang dijadwalkan Selasa sore waktu AS (dini hari 18 Nov WIB); saham AI bergejolak. Bitcoin sekitar $63.600, emas sekitar $3.860.",
-      "Rupiah sekitar 18.158 per dolar AS, IHSG 5.305, imbal hasil UST 10 tahun 5,10%. Pejabat Fed Musalem menyebut beberapa kenaikan bunga mungkin diperlukan hingga musim semi 2027.",
-      "RDG BI berakhir Rabu 18 November: mayoritas ekonom memperkirakan BI-Rate tetap 5,75%.",
-      "Pantau: laporan Nvidia, keputusan BI-Rate, kabar Hormuz, dan rapat OPEC+ 29 November."
+      "Risiko naik tipis ke 82/100: Wall Street jatuh lagi jelang laporan Nvidia (Dow sempat turun sekitar 860 poin, S&P 500 -1,0%), sementara Hormuz belum aman.",
+      "Media melaporkan militer AS menyerang situs rudal Iran di dekat Selat Hormuz; klaim Iran soal tanker terkena ranjau belum diverifikasi independen. Brent sekitar $92,9.",
+      "Rupiah melemah ke sekitar 18.240 per dolar AS, IHSG 5.305, imbal hasil UST 10 tahun 5,10%. Bitcoin di bawah $64.300, emas sekitar $3.858.",
+      "RDG BI berakhir Rabu 18 November: mayoritas ekonom memperkirakan BI-Rate tetap 5,75%, sebagian melihat peluang naik.",
+      "Pantau: laporan Nvidia (dini hari 18 Nov WIB), keputusan BI-Rate, kabar Hormuz, dan rapat OPEC+ 29 November."
     ]
   },
   "calendar": [
@@ -1659,7 +1670,7 @@
   "events": [
     {
       "t": "Iran klaim supertanker 2 juta barel tenggelam di Hormuz; dua tanker dikonfirmasi terkena",
-      "what": "Angkatan laut Iran menyebut beberapa tanker terbakar akibat ranjau laut di Selat Hormuz, dan satu supertanker bermuatan sekitar 2 juta barel dilaporkan tenggelam. Sebagian besar laporan bersumber dari klaim Iran dan belum diverifikasi independen. Militer Iran juga menyebut tanker ketiga terbakar setelah menabrak ranjau.",
+      "what": "Angkatan laut Iran menyebut beberapa tanker terbakar akibat ranjau laut di Selat Hormuz, dan satu supertanker bermuatan sekitar 2 juta barel dilaporkan tenggelam. Sebagian besar laporan bersumber dari klaim Iran dan belum diverifikasi independen. Militer Iran juga menyebut tanker ketiga terbakar setelah menabrak ranjau. Media (gCaptain) kini melaporkan militer AS menyerang situs rudal Iran dekat Hormuz; belum ada konfirmasi independen atas klaim ranjau Iran.",
       "impact": "Risiko pasokan minyak naik; harga minyak, emas dan dolar cenderung terdorong naik, sedangkan rupiah rentan tertekan.",
       "assets": "Minyak, emas, rupiah",
       "sev": "tinggi",
