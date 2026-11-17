@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T10:49:25Z",
+ "updatedAt": "2026-11-17T11:04:13Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -259,14 +259,20 @@
    "title": "Is 90-day blackout beginning Nov. 17? Why unfounded rumor is spreading",
    "src": "Snopes.com",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DVHFGenpOSDNyQlZWckxTSk5EMkw1MzdNMC0yWE0xVXFWemFsNHhDSnd4UG5MUUpDWFp0WVExMWk1SF8wMlduSW5JUjJZVFBJS0FSVW9CY0YwUHNrSWh4WG9INE03TjVmd0g0a1NCa2dGb042?oc=5",
-   "sources": 2,
+   "sources": 3,
    "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
+   "score": 3.0,
+   "level": "sedang",
    "first": "2026-11-16T14:09:32Z",
    "last": "2026-11-17T01:03:03Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "No evidence that a US blackout is expected Nov. 17",
+     "src": "WBAL-TV",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QNzZEeFJIWk9oNDRvcm9hVFctR05meVJsc1BQU2pqajFWZVpjdWpfOHJVVUc5OEVxOGJHZVdjcTIwbkJ6V1lqdFFhRE9kS2cteGZKbjU3SEUxUjV1ZFpVMFV4OTRINWZnUlI1WS1LbTczalNBczBPUGF6WjFYUQ?oc=5",
+     "t_id": "Tidak ada bukti bahwa pemadaman listrik di Amerika diperkirakan akan terjadi pada 17 November"
+    },
     {
      "t": "Is there going to be a 90-day blackout? Is the power going out Nov. 17?",
      "src": "Bergen Record",
@@ -275,31 +281,6 @@
     }
    ],
    "title_id": "Apakah pemadaman listrik selama 90 hari dimulai pada 17 November? Mengapa rumor yang tidak berdasar menyebar"
-  },
-  {
-   "id": "siber-202611161906-e38d",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Customers report outages at Chase, Bank of America and Wells Fargo",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vcTZMYnFPSjNFNmFZM2ZqNHEtc2EzVVdneTc3dWcwUkt4ekVweFl5OWlMbnd4NGhxUUpmT05NazI3NU5QT0R4UW9UQy1tMTdUWE9qNzVTTFhVLUdnZFE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T19:06:02Z",
-   "last": "2026-11-16T23:15:21Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Chase Bank Blames Outages On ‘Software Bug’",
-     "src": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUNHRWlIcjNZR3l0eERtcnliME9IUEUta28wN2VSTlRsM05HUnRlRjJjM3JLS2RJaUl6VVVJcEtJT0NQNW55REpHdjM0WFNyNFczMXhDdFZ6eVRIeGt1eFBvYV9aaTIzSEZBLU4tS3NWTnNrZFE5dnpyanEzU2FFRE5kQW5fU0FjSFh2UlIzZkdCa2hJbTdmTHVOS2ZmVHF5X0E0YVlNc2I2YTFCSU9aZVJRYU9ZdngtLXR0QU9RTzBYOTIzSXVBOEtvb05uNThw?oc=5",
-     "t_id": "Chase Bank Menyalahkan Pemadaman Pada 'Bug Perangkat Lunak'"
-    }
-   ],
-   "title_id": "Pelanggan melaporkan pemadaman di Chase, Bank of America dan Wells Fargo"
   },
   {
    "id": "siber-202611161959-7b2e",
