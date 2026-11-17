@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T12:46:27Z",
+ "updatedAt": "2026-11-17T12:58:41Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -12,12 +12,30 @@
    "t_id": "Kapal Tanker Minyak Kedua yang Melanggar Terbakar di Timur Selat Hormuz"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Fed's Musalem: US likely needs several rate hikes by spring to control inflation",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmh3bk9iaG5YQ2V2dzZUMkQ1aGQ2LWNfdHFCWkVaOUtyWFdHS3lFTzZJTDhsQnItcnN4N2NibjRLNXZIbHVvSllBY0Jyc201azJtbUNnWkRndWlPN05sZUVaWkJBZFlTTGJzYWFFLWRqN2R6X25jRllRT1hHekZ2aFRweE5rbHM3Z3p1SHoxR2UwR1VnMWVnbWZ3ZmRHSTkyR2lhU3p1NzNFZFBjMEtRQ25iZnpwVEhBZTd3bw?oc=5",
+   "time": "2026-11-17T12:33:45Z",
+   "t_id": "Musalem, Fed: AS kemungkinan memerlukan beberapa kenaikan suku bunga pada musim semi untuk mengendalikan inflasi"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI Diperkirakan Naikkan Suku Bunga Acuan Menjadi 6 Persen",
    "src": "Demokratis.co.id",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6ZjFRaUF3YVZEc2ZtZldJLUNydS00M2ZPcmhDS3Ywdm1zUlhvZlBFZE9WVFQzN1k3QnRQWEZuMS1QcXJ2X1lNeEo2cVhtZGltZDd5N3h3TFlUcVNiY042QW1PNA?oc=5",
    "time": "2026-11-17T12:17:36Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Crypto Daily",
+   "src": "CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2ZZT28yXy1nTXBER2FibVM4Wks4YjZWSkVhdFFTaFlrVlk2c2g4aGNUcnd5Q21wUkZBRFNQNll5b2VCY192OVFhX1BsLWo2RVV2c2gxWjVtOVdpUERMS1ZRMkQ2X3JnTVViTURHODV5ZDRRQ0hWSFY3RW1vTXBVUExvMk4zZDM5R3lNeFJjWlMzMkJZRDJFakUxZGFWb2V3cS0zZmljQnhGVHZsWFhoTUwxZWktSWJQTEJsWW9BS0U?oc=5",
+   "time": "2026-11-17T12:16:53Z",
+   "t_id": "Kripto Harian"
   },
   {
    "topic": "emas",
@@ -65,6 +83,15 @@
   {
    "topic": "ai-teknologi",
    "lang": "en",
+   "t": "Nasdaq Futures Muted as Chip Selloff Pauses Ahead of Nvidia Earnings",
+   "src": "Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYk9xTXc1bXBtaVZBaDZfVWdMbFlIYzN1bkxmVjhBSzZJcU1WMW9Jalh1b05Zb0dfN3JEM3h4Ni1qSFptdFdXSHpOV1RJNGZSdVNaeXBqM2RmaGN1WDdscnplQnZwY3RKdS0wclNZZzNMZGpRYnNVQ1Zua0l6eElQLXU2NGRFRlJlbV9PWFJWR1RSSXV5bjhBbFBIVGwxNjdnTGNDR1NHY0pzbTdtdk1hTW13?oc=5",
+   "time": "2026-11-17T11:36:25Z",
+   "t_id": "Nasdaq Futures Diredam karena Penjualan Chip Berhenti Jelang Pendapatan Nvidia"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
    "t": "Tech Stocks Extend Selloff as Nvidia Results Near: Markets Wrap",
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5",
@@ -78,15 +105,6 @@
    "src": "ANTARA News Jambi",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3FwMDJERWVKaGNIbjJGc19FcXlfQ3VaSEFBdTBHR0FIWXBTYUREV210aTdCQTBMTjZBNDlqMEhHbnlIU01LS0VJcGsxLXY0NGpHby1NcXozN1YxU1dNSDF2Y00tS0gtT004ZDhZT2VQeHN5OGtUMk9pZ3huWkd4MXExTl9jQWdzd05sbG8tckVEX3NIUEtHNXh3?oc=5",
    "time": "2026-11-17T11:03:08Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Tracking ship traffic through the Strait of Hormuz. Updated regularly.",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdJWTU0VkQwQ1ZGMTlhS2ZoY0ExeXo4X25UX1k2NnFwdXgybTFtNEtoNlVMSHRlUFExVVZIX1FFelBMMk9jZkEzWmprZEktcTByZUJVcWsxVVE1WG92QjZ3dkhjX25DNFlqS3ZTRXFLSUVjRWpGNHhtdmtlMVdJWEFFZXJoM1RYU2JLS2F5emRFX0w2cVlmRWFZOGlzUQ?oc=5",
-   "time": "2026-11-17T10:44:05Z",
-   "t_id": "Melacak lalu lintas kapal melalui Selat Hormuz. Diperbarui secara berkala."
   },
   {
    "topic": "kripto",
@@ -206,6 +224,15 @@
    "time": "2026-11-17T09:22:43Z"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Tracking ship traffic through the Strait of Hormuz. Updated regularly.",
+   "src": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdJWTU0VkQwQ1ZGMTlhS2ZoY0ExeXo4X25UX1k2NnFwdXgybTFtNEtoNlVMSHRlUFExVVZIX1FFelBMMk9jZkEzWmprZEktcTByZUJVcWsxVVE1WG92QjZ3dkhjX25DNFlqS3ZTRXFLSUVjRWpGNHhtdmtlMVdJWEFFZXJoM1RYU2JLS2F5emRFX0w2cVlmRWFZOGlzUQ?oc=5",
+   "time": "2026-11-17T09:14:05Z",
+   "t_id": "Melacak lalu lintas kapal melalui Selat Hormuz. Diperbarui secara berkala."
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Rupiah Terus Melemah: Pasar Terbelah Soal BI Rate, Naik atau Turun?",
@@ -249,13 +276,13 @@
    "time": "2026-11-17T07:45:22Z"
   },
   {
-   "topic": "ai-teknologi",
+   "topic": "bank-sentral",
    "lang": "en",
-   "t": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies",
-   "src": "JHNewsAndGuide.com",
-   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWkJFTkhnRk5NSjZxSXJ1RUxSRmduaWNzdDVyNDlQeTNTX1dXWWptMW4zd3d5Qm5NV2RUdmw3c3pJQzI5WXJTblNGX3lxWmFSSko4NnZFSlduY3pYRlpZVzhtemRJQ3Njb3E0UW5kSi1xTVFrWnJGeDItR0FRWjJqVEJuVGdnSVJkeGQ1bXhFbGlMYmI2aE9wWEZnQjVHRVRFVmZvdHdLMVlURWdCVE5hb2dkSTBIZVZhMGpGeGRBWW1VVThqcFd5YVZnbUgwdVBBdUU4aGp1YjU2OWpZWV9mLW1uQjhQdHFkQ0diQ2pCMTBqdnhobWZBNVF1VlQxRjlhYmNKblR3czlDbEs1dDdwTWhNVUhqMnI4bzNGTlROZnhXNmdkaG5nR0FSNVI?oc=5",
-   "time": "2026-11-17T07:00:00Z",
-   "t_id": "Saham-saham anjlok di Wall Street karena Nvidia kembali memimpin aksi jual di perusahaan-perusahaan teknologi"
+   "t": "Inflation Is Sending US Bond Yields Higher Again. Here’s Why We’re Not Worried",
+   "src": "Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFpadnR4a3lSYlpoZ3lSTnowS0phdkpBd2p1MS1tUGV5UnpmWlhwdjNVUVdjdFhtV2RTR09ldW5NazF2bUx6bkRoOEF3VWU3bHBiY2JvNXhqMkVNRW1wbTlfOVU2NXZPcmRQd0E5ZmtlTldUZllwUmdwODlwQjdia05yZ1pjMWc1WEtKNDQzaFFlOC1MazQwQVVjRTRJU01jcnNaSVFTUlJlX2tZMGtPbno4aTJrd21UajktLQ?oc=5",
+   "time": "2026-11-17T07:07:37Z",
+   "t_id": "Inflasi Membuat Imbal Hasil Obligasi AS Kembali Naik. Inilah Alasan Kami Tidak Khawatir"
   },
   {
    "topic": "saham-as",
@@ -356,15 +383,6 @@
    "t_id": "Taruhan Cathie Wood senilai $2,2 Miliar pada Elon Musk Akan Segera Menjadi Salah Satu Saham Raksasa"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "Trump's tariffs cast shadow over APEC talks",
-   "src": "The Jakarta Post",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzdlRDAweG1YSGM5RGZ6RU84c2dnVWViWXhDaWFDTXRhTmVrV29sdEN4OXRoTV9jbjlITGhMY2s2Sm45VENRWFpJNWlTdHRnZG1SbU50aFlfMmw4ckplZnBNbjlubEctSnl5V2ZuTkRUVk1WM0lCTU1RV1RhR1R3NmNQaDlJcFF0VVRISFlQU1NXNEU2MGs3YS1TSlpUeFU5NGFtR2xJMno0MGxDcjJWanltOFdpM1A3NjBRcTJLWHR3RFNEWEJfUkd1cVlvYUpaU0dxenkzMjE?oc=5",
-   "time": "2026-11-17T02:58:03Z",
-   "t_id": "Tarif Trump membayangi perundingan APEC"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Tertekan Saham Tambang, Depresiasi Rupiah -9,1% YtD Tambah Beban Bunga ULN Rp27,78 Triliun",
@@ -373,12 +391,30 @@
    "time": "2026-11-17T02:41:25Z"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies",
+   "src": "Sonoma Index-Tribune",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVDFYbmVnck1RWnN5N1NwcExiWThENE1IVTRQRHJJX1MwQlNtXzdWMGJUTGkxWFBfWVdxTFNLTTNqTVFnZnVIcnBXTHdqR2NZTXNzQzQ3RmhPLWVLS1V0eEVJcjhMM2hWUllrd1I5aFJWZGVtRUJ2NGg2MlZOTEdhRg?oc=5",
+   "time": "2026-11-17T02:14:57Z",
+   "t_id": "Saham-saham anjlok di Wall Street karena Nvidia kembali memimpin aksi jual di perusahaan-perusahaan teknologi"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Aksi Jual Tekan IHSG",
    "src": "Emitennews.com",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeW5fSkFlZE9ZakNpQ19UUkJxcTBlMk1LRHhISzAwcXdhMFlvY1J2Ylk2OHIxZ05xN1ZFbzZTeXgwQ1dVbVlLQU1NbHhjaHdqVzY1Z2pRM094TWRN?oc=5",
    "time": "2026-11-17T02:01:00Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Tracker: The Federal Reserve’s Balance Sheet Assets",
+   "src": "The American Action Forum",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+   "time": "2026-11-17T01:28:32Z",
+   "t_id": "Pelacak: Aset Neraca Federal Reserve"
   },
   {
    "topic": "kripto",
@@ -451,6 +487,24 @@
    "t_id": "Dua Kapal Tanker Menabrak Dekat Selat Hormuz, Satu Penyandang Cacat"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Federal Reserve raises interest rates for the 1st time since 2023",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
+   "time": "2026-11-16T22:45:50Z",
+   "t_id": "Federal Reserve menaikkan suku bunga untuk pertama kalinya sejak 2023"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Will the Fed raise interest rates this year? Divided economists weigh in",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+   "time": "2026-11-16T22:06:22Z",
+   "t_id": "Akankah The Fed menaikkan suku bunga tahun ini? Para ekonom yang terpecah mempertimbangkan hal ini"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "U.S. Stocks Extend Slide on Nvidia, China Fears",
@@ -467,63 +521,7 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XNnJ2aVJmdnhfSDlwVHd6dU9kalV4cWo4dEN3NlViemFRTnNUeXZCMk1PSWh5NVhWSlVHWjVoMGJSWFp0eDB1eDlkbHdIbVp5VzdGdHdycUFDQmNLSllhNlRIcHY5bXJKRHJkNmxfX0o3WVdD?oc=5",
    "time": "2026-11-16T21:57:57Z",
    "t_id": "Saham merosot untuk mengawali minggu penting bagi Wall Street"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia Leads the Way as AI Stocks Plunge",
-   "src": "Newser",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDZfSXZTdjZuWTBxVWFFRWtUSG1QNnNpWXo5NVpMb3A4WFROODVBcjcycWdraktaNHgtRmd2S0NtSVZSVU5DdnFBYlNudDhIZG5PMW05d1ZDaVN3Q3dwXzRlUy1ZbWlWQXllYlk1eWowR3RxYk5sZ2dUeE5hczlSZg?oc=5",
-   "time": "2026-11-16T21:49:00Z",
-   "t_id": "Nvidia Memimpin Saat Saham AI Turun"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms",
-   "src": "Los Angeles Times",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDFmeWs4Mm9sak00SUdyanU5R3pJZmREWUFPa0lhRGpMellwbG90YlgwNm5VbmZfZ2daNGZSN1hyZ0k3c0N2REQ2YXRWbHBJSDUtb3c0bG1tM0djR0NlQlVob0p1VkdGaTZRUnl2ZXF2X2kxN29seVN2M2NhcjQxR0lRWEdqa3NEZG5PM1BEdUlSaXhqZXVfeTFaaWgtSnRYOTVsQmNyOWM2dS1TR1o3SDV1TGdWQzJZai1ucjlvVTRTejVXV1NsZF95LUJhREY5?oc=5",
-   "time": "2026-11-16T21:42:00Z",
-   "t_id": "Saham-saham anjlok di Wall St. karena Nvidia kembali memimpin aksi jual di perusahaan-perusahaan teknologi"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
-   "src": "Bitcoin Magazine",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CU1pVMFZxVC1QR3VTRm5McUhwcVNNajhYRWtOYmNPclB0WFBYMGtXYzlxTXFGc19Kd1VYNnNuSUxUUXlybmd3QU1pRWtubHIyS1lJZFNxLVMyckJfb2ZNdnlpd2JDQnJqTkhCTkxMdXlhZGdXQXdtaU92UVRDZw?oc=5",
-   "time": "2026-11-16T21:20:36Z",
-   "t_id": "Harga Bitcoin Bertahan Mendekati $65,000 karena Gejolak Nvidia Menyeret Nasdaq Turun 2.5%"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Prediction 2027: Every Major Forecast Compared",
-   "src": "24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmx2cG1ObVBUTjRpSWF5RXRlaTRqN2lrZkdLS3NzRW9QUzBJMEN6S1VXVXMwYlRXeHg1Tkg3QnpoamJVX2o2dVdMbWkwNUhQQUpZZEJtVTBEcXh5QVZNV01wejdBZEozN19fZk9kZ20xbFU5cEhGdFVWTDlTNDNpcTFUUEdOX3FkaXlVNWZVS3YxMzItdWxINkNKMFRUQl9MWTNKZENvdDIwMFM3VXFkV192bTNoTXFGUXc?oc=5",
-   "time": "2026-11-16T20:13:00Z",
-   "t_id": "Prediksi Harga Bitcoin 2027: Setiap Perkiraan Besar Dibandingkan"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Did Bitcoin Prices Bottom at $62,000? Strategy Has Bought the Decline.",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yS0RmaHF4aWFYdWEwa1Z4TmZ0dzdqM1NPR21vdTZvc3dZNlVDalJHdHROUjJEcm03V0YtdHhEdC01T0tpS0RDLWZNRFpLNWlnZVJPeXlXY3k0Tk1NNW1hUEtrOE9DaWp6OU44VGpQclQtQW9pTF9jazVRNVV2UDA?oc=5",
-   "time": "2026-11-16T18:56:00Z",
-   "t_id": "Apakah Harga Bitcoin Terbawah di $62,000? Strategi Telah Membawa Kemunduran."
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart & Price History",
-   "src": "Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HSGlGRjBhSUlQdXZtSXRJWmhTcWlLMmt2WEM2WFk0LV9Bd3BzOGNZQzJmQXJycTBZcmpSNWZiWHMzMDdzY3cyQzlKYXNYSk0tUF9MVzdB?oc=5",
-   "time": "2026-11-16T17:59:48Z",
-   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik & Riwayat Harga"
   }
  ],
- "errors": [
-  "Federal Reserve interest rate: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
