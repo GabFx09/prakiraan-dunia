@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T23:29:16Z",
+ "updatedAt": "2026-11-17T23:43:57Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -14,7 +14,7 @@
    "recent6h": 7,
    "score": 10.5,
    "level": "besar",
-   "first": "2026-11-17T08:49:30Z",
+   "first": "2026-11-17T03:02:40Z",
    "last": "2026-11-17T23:06:31Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
@@ -38,6 +38,47 @@
      "src": "The Jerusalem Post",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyT25CZk1PeDgta1Z4cDFheUpWUGJaN3IwS3VVVGF3Z0R1Vml2bWV4eEhuQXhMYVBiNnpuVjJuUExfNzRYSWRGYlFKeUgyRTlyZUZxamluYjYxTFFCRVBzVG4xeDhhWk5PSkE?oc=5",
      "t_id": "AS menyerang situs peluncuran rudal IRGC Iran di Pulau Qeshm"
+    }
+   ]
+  },
+  {
+   "id": "transportasi-202611162348-da2e",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Flight status tracker: How to check online after FAA grounds all flights",
+   "src": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDBuWnRiRGdCdmt4X0h6azFIM0pnWkJWanNFd1BxX21vNWxiU2lPdjZZRDZNM0x6SUxjMEhkOEdJRDNDT2xJbWdOa0kzOUZOWnJNYTdoTHRiOV9aMnVJZFg0YlhDQl9XdXAtclhtbEw2bUlrS2tsSWIxVXVrSEF4N3J3cVBiY0hycjRkZHY5OA?oc=5",
+   "sources": 8,
+   "recent6h": 2,
+   "score": 9.0,
+   "level": "besar",
+   "first": "2026-11-16T23:48:26Z",
+   "last": "2026-11-17T22:30:04Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA ground stop explained, and how rare nationwide ones are",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
+     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
+    },
+    {
+     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5"
+    },
+    {
+     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
+     "src": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
+     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
+    },
+    {
+     "t": "United Passengers Stuck Up to Eight Hours on Chicago O'Hare Tarmac During Nationwide FAA Ground Stop",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ea0hkV09FbVdURnN1dlVpbXlDUXZoT0NRLU80d0NScTVtT3RlQ2lHUkprTmRhZ1ZVeHlfSUs3amYyMEdYMXIxX2J1cVAtWGpPV1MwSVd3elNock9GWmJuUGtWeWRoaXVlSF9XT0Y4aTRBX00?oc=5",
+     "t_id": "Penumpang United Terjebak Hingga Delapan Jam di Chicago O'Hare Tarmac Selama Ground Stop FAA Nasional"
     }
    ]
   },
@@ -81,48 +122,6 @@
     }
    ],
    "title_id": "Jaringan komunikasi rahasia AS kembali aktif setelah sistem padam"
-  },
-  {
-   "id": "transportasi-202611162348-0739",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "FAA ground stop explained, and how rare nationwide ones are",
-   "src": "qz.com",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
-   "sources": 7,
-   "recent6h": 1,
-   "score": 7.5,
-   "level": "besar",
-   "first": "2026-11-16T23:48:26Z",
-   "last": "2026-11-17T20:37:17Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5"
-    },
-    {
-     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
-     "src": "Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
-     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
-    },
-    {
-     "t": "United Passengers Stuck Up to Eight Hours on Chicago O'Hare Tarmac During Nationwide FAA Ground Stop",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ea0hkV09FbVdURnN1dlVpbXlDUXZoT0NRLU80d0NScTVtT3RlQ2lHUkprTmRhZ1ZVeHlfSUs3amYyMEdYMXIxX2J1cVAtWGpPV1MwSVd3elNock9GWmJuUGtWeWRoaXVlSF9XT0Y4aTRBX00?oc=5",
-     "t_id": "Penumpang United Terjebak Hingga Delapan Jam di Chicago O'Hare Tarmac Selama Ground Stop FAA Nasional"
-    },
-    {
-     "t": "US Flight Disruptions November 17: United Outage Recovery, FAA Chaos & Thanksgiving",
-     "src": "Travel Tourister",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjl2NmpHNzZYU1JYRzFPck83WjR4akZHRjZMb0d3UTBvTEt3ZkN1dU80Tll3dUdzcmlwZG16bDFyb1FPSDRfWVI1bEtpSDU3RFRPSVltRW9UOG01cXdicUIwMTQyNlZQdmxNLTNETGVpb29zNDh0cTYxa2NfVy1UQ21vQWN2Yk9HNlBCdmxKRTA2UGZsOHdNX0RIWmpXQ25kWmNaSFhfcTREOEtYZ0xOM0ZNczJ0dlRrUXd2Mm0xakhodzNWd2tST3Joc2dhWktDTWpTOHE4d1F1b29OVjY1M2puaw?oc=5",
-     "t_id": "Gangguan Penerbangan AS 17 November: Pemulihan Gangguan Bersatu, Kekacauan FAA & Ucapan Syukur"
-    }
-   ],
-   "title_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
   },
   {
    "id": "indonesia-202611170348-3581",
@@ -206,6 +205,34 @@
    "title_id": "Rudal! Di Jembatan Krimea"
   },
   {
+   "id": "kesehatan-202611171452-0a8e",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Guilford County Animal Services pauses healthy cat intake after virus outbreak",
+   "src": "wfmynews2.com",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR3JYLTh5S1JMNkZRSEZYYU5DQTAxMVJoUjMzY0hnTmNUS0k1MmMwWTZESl9EX0FGNlgyRE9JWnpZMWRUNWkzQTZFaXBPSWdOVUp1MWthVXlvZlJFb2gzS2c2U1VpN040OFdxNlNKTGhieVBfb19Gd2szMURfMjU1MUpEdV9iblF0U0V3OWpyNjBiMHpKNEFOM3lSc0RWdTVtT2ZJY0JqNGt1bzFOenE4TXJJdWNjOC1BQ3NSWHF4Mk1WdDR0aG1Zbl90SV9GMEtEbTVhNDREYnpSekI5YkJ2TmpYTjhMSFhlUUNuQUYweVI?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-17T14:52:59Z",
+   "last": "2026-11-17T22:42:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Amid U.S. measles outbreak, LA County touts high vaccination rates in fighting virus – Pasadena Star News",
+     "src": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5TNW9icDJMZWRGSEVPeURvU1J4cDl3ZDVrSDZhYmFiaU9maHJYNUxpZ0s0QWhKcVlVbjdB?oc=5"
+    },
+    {
+     "t": "Jefferson County Emergency Director Addresses Measles Outbreak After Two Deaths",
+     "src": "exploreJefferson",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRUt0a0ItYlVOSFQ4eVctdVFkU0pNQW5BVEwzZHVxUlIwYjJhWWF3OEtNZ3RYNEFNT3Z4dmZrV29PT3FqOW9iek5hTWNuYzFESFdNV0pCQUM1T2szbF9maEw1QkVvUjdfWEVUSmlkMFFzZFYwNEhqUms4Vk5UVmRmczZHLTVweWpvVGxJT3hBZ0lmQXVKRXk5MXFvZ1VUX2EwTHhOWHQzX3VFZUNYSk4tTkRzQTlzTFRXVzRFMHEybktRUC1TekoxMVpZZ1NyZ2xjOTNCajd4cjI?oc=5"
+    }
+   ]
+  },
+  {
    "id": "perang-202611171943-dfea",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -214,8 +241,8 @@
    "src": "fish4news.co.uk",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnBscUZtZ3NRUW9jX1NrTk5fX1hpMHBXRTNkbnFZbm4xVTBPX2tsVzE2dTc0UXNmVUEtWnVRUktad0VjYlBFQjZJOGpKV25VUzlUUzVDbkdRaUEyUnF2X3R2Q2ZkLWcteTdOcVlKTjk4RmIzc2prd0t0cENfci11REFSc2I?oc=5",
    "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
+   "recent6h": 0,
+   "score": 4.0,
    "level": "sedang",
    "first": "2026-11-17T03:02:40Z",
    "last": "2026-11-17T17:35:20Z",
@@ -328,29 +355,6 @@
    ]
   },
   {
-   "id": "kesehatan-202611171452-0a8e",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Amid U.S. measles outbreak, LA County touts high vaccination rates in fighting virus – Pasadena Star News",
-   "src": "Howl.Link",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5TNW9icDJMZWRGSEVPeURvU1J4cDl3ZDVrSDZhYmFiaU9maHJYNUxpZ0s0QWhKcVlVbjdB?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T14:52:59Z",
-   "last": "2026-11-17T22:07:28Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Jefferson County Emergency Director Addresses Measles Outbreak After Two Deaths",
-     "src": "exploreJefferson",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRUt0a0ItYlVOSFQ4eVctdVFkU0pNQW5BVEwzZHVxUlIwYjJhWWF3OEtNZ3RYNEFNT3Z4dmZrV29PT3FqOW9iek5hTWNuYzFESFdNV0pCQUM1T2szbF9maEw1QkVvUjdfWEVUSmlkMFFzZFYwNEhqUms4Vk5UVmRmczZHLTVweWpvVGxJT3hBZ0lmQXVKRXk5MXFvZ1VUX2EwTHhOWHQzX3VFZUNYSk4tTkRzQTlzTFRXVzRFMHEybktRUC1TekoxMVpZZ1NyZ2xjOTNCajd4cjI?oc=5"
-    }
-   ]
-  },
-  {
    "id": "kesehatan-202611170230-58e0",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -399,6 +403,31 @@
     }
    ],
    "title_id": "Bisakah jaringan listrik AS diretas? Bisakah serangan dunia maya menyebabkan pemadaman listrik?"
+  },
+  {
+   "id": "siber-202611170103-3455",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Debunking social media posts that claim a 90-day blackout will start Nov. 17",
+   "src": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmFNTmJiTzY2SFNiZlM5dE14ekFoc0ZrZFQ3T043M3BCOURXOXFza2g0ZVZwZFZxaHF3NDJNR2VIb1BXUHc0TGZtbDl5SlpUeDJPLUtJMEZuaHpFTGJsd1JLQW1NaV9TOHlqcktNTHoxVmhEQmh0R2NsMjVJbFV0RnVzcnMzSzNZWUx5SVloS2xkSFBmOXhUcXdnQmZuTU5rM3MyUjVwMWZGanB3bGQ5Sw?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-17T01:03:31Z",
+   "last": "2026-11-17T18:17:07Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Is 90-day blackout beginning Nov. 17? Why unfounded rumor is spreading",
+     "src": "Snopes",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DVHFGenpOSDNyQlZWckxTSk5EMkw1MzdNMC0yWE0xVXFWemFsNHhDSnd4UG5MUUpDWFp0WVExMWk1SF8wMlduSW5JUjJZVFBJS0FSVW9CY0YwUHNrSWh4WG9INE03TjVmd0g0a1NCa2dGb042?oc=5",
+     "t_id": "Apakah pemadaman listrik selama 90 hari dimulai pada 17 November? Mengapa rumor yang tidak berdasar menyebar"
+    }
+   ],
+   "title_id": "Membongkar postingan media sosial yang mengklaim pemadaman listrik selama 90 hari akan dimulai pada 17 November"
   }
  ],
  "errors": []
