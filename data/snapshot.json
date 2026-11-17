@@ -612,6 +612,17 @@
       "ihsg": 5304.755,
       "usdidr": 18158.0,
       "ust10": 5.119
+    },
+    {
+      "t": "2026-11-17T19:05:00Z",
+      "risk": 81,
+      "btc": 63644.94,
+      "gold": 3859.6,
+      "brent": 93.4,
+      "spx": 7328.72,
+      "ihsg": 5304.755,
+      "usdidr": 18158.0,
+      "ust10": 5.101
     }
   ],
   "horizons": [
@@ -1169,38 +1180,38 @@
     },
     {
       "c": "neg",
-      "d": "Turun 0,04% hari ini",
+      "d": "Turun 0,4% hari ini",
       "h": "ust10",
       "k": "Obligasi AS 10 thn",
-      "v": "5,12%"
+      "v": "5,10%"
     },
     {
       "c": "neg",
-      "d": "Naik 0,7%, kapal ketiga dilaporkan terbakar",
+      "d": "Naik 1,0%, risiko Hormuz berlanjut",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$93,06"
+      "v": "$93,40"
     },
     {
       "c": "pos",
-      "d": "Naik 1,0% hari ini",
+      "d": "Naik 0,2% hari ini",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.891"
+      "v": "$3.860"
     },
     {
       "c": "neg",
-      "d": "Turun 2,3% hari ini",
+      "d": "Turun 1,9% hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$63.357"
+      "v": "$63.645"
     },
     {
       "c": "neg",
-      "d": "Turun 1,6% jelang laporan Nvidia",
+      "d": "Turun 1,2% jelang laporan Nvidia",
       "h": "spx",
       "k": "S&P 500",
-      "v": "7.297"
+      "v": "7.329"
     },
     {
       "c": "neg",
@@ -1223,11 +1234,11 @@
       "v": "5,75%"
     }
   ],
-  "regimeText": "Minyak tetap tinggi akibat klaim serangan ranjau di Selat Hormuz, sementara pejabat Fed menyebut perlunya beberapa kenaikan bunga lagi. Saham AI tertekan jelang laporan Nvidia dan rupiah rentan karena arus keluar dana asing.",
+  "regimeText": "Minyak tetap tinggi akibat klaim serangan ranjau di Selat Hormuz, sementara pejabat Fed menyebut perlunya beberapa kenaikan bunga lagi. Saham AI tertekan jelang laporan Nvidia dan rupiah bertahan dekat level terlemahnya.",
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 81,
-  "riskNote": "Risiko tinggi: Hormuz belum aman (kapal ketiga dilaporkan terbakar), saham AS tertekan, imbal hasil AS di atas 5%, dan rupiah dekat rekor terlemah.",
-  "updatedAt": "2026-11-17T16:05:00Z",
+  "riskNote": "Risiko tinggi: Hormuz belum aman, saham AS tertekan jelang laporan Nvidia, imbal hasil AS di atas 5%, dan rupiah dekat rekor terlemah.",
+  "updatedAt": "2026-11-17T19:05:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1518,7 +1529,7 @@
     {
       "k": "Geopolitik",
       "v": 90,
-      "note": "Kapal ketiga dilaporkan terbakar di Hormuz"
+      "note": "Klaim tanker terkena ranjau di Hormuz berlanjut"
     },
     {
       "k": "Inflasi & suku bunga",
@@ -1528,7 +1539,7 @@
     {
       "k": "Valuasi saham",
       "v": 73,
-      "note": "S&P 500 turun 1,6%, jelang laporan Nvidia"
+      "note": "S&P 500 turun 1,2%, jelang laporan Nvidia"
     },
     {
       "k": "Likuiditas & dolar",
@@ -1543,13 +1554,13 @@
   ],
   "alerts": [],
   "brief": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "points": [
-      "Risiko naik tipis ke 81/100: militer Iran mengklaim kapal tanker ketiga terbakar setelah menabrak ranjau di Selat Hormuz (belum diverifikasi independen); Brent sekitar $93.",
-      "Wall Street turun lagi (S&P 500 -1,6%) jelang laporan Nvidia; Bitcoin sekitar $63.400, emas naik ke sekitar $3.891.",
-      "Rupiah sekitar 18.158 per dolar AS, IHSG 5.305, imbal hasil UST 10 tahun 5,12%. Pejabat Fed Musalem menyebut perlu beberapa kenaikan bunga hingga musim semi 2027.",
+      "Risiko tetap tinggi di 81/100: klaim Iran soal tanker terkena ranjau di Selat Hormuz masih belum diverifikasi independen; Brent sekitar $93,4.",
+      "Wall Street turun lagi (S&P 500 -1,2%) jelang laporan keuangan Nvidia yang dijadwalkan Selasa sore waktu AS (dini hari 18 Nov WIB); saham AI bergejolak. Bitcoin sekitar $63.600, emas sekitar $3.860.",
+      "Rupiah sekitar 18.158 per dolar AS, IHSG 5.305, imbal hasil UST 10 tahun 5,10%. Pejabat Fed Musalem menyebut beberapa kenaikan bunga mungkin diperlukan hingga musim semi 2027.",
       "RDG BI berakhir Rabu 18 November: mayoritas ekonom memperkirakan BI-Rate tetap 5,75%.",
-      "Pantau: laporan Nvidia (18 Nov dini hari WIB), keputusan BI-Rate, kabar Hormuz, dan rapat OPEC+ 29 November."
+      "Pantau: laporan Nvidia, keputusan BI-Rate, kabar Hormuz, dan rapat OPEC+ 29 November."
     ]
   },
   "calendar": [
