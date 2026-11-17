@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T20:05:33Z",
+ "updatedAt": "2026-11-17T20:20:15Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -46,6 +46,42 @@
    "title_id": "Rudal! Di Jembatan Krimea"
   },
   {
+   "id": "siber-202611171550-a0f9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "NSA's highly classified communications network disrupted by widespread outage",
+   "src": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDI?oc=5",
+   "sources": 4,
+   "recent6h": 4,
+   "score": 6.0,
+   "level": "sedang",
+   "first": "2026-11-17T15:50:25Z",
+   "last": "2026-11-17T16:57:50Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "In Yet Another Outage, the NSA Is Down",
+     "src": "The New Republic",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVlTRUk2ZkpKeGZjQ3NnTTdpNjJ0NXBIQlRTR2lFRFpndkctRFNwbm5JaDFHUnhjblljajBMRVFTd203WC1EbUk1R3M3dkN4MkhrQlZNdzJiNHJoMFlhYVB1SHRpRnZRajFDMUJJMlpNWGNEOEhVeXUwaXFXM1lxdHRmQ25VOG13blJuZDk0MA?oc=5"
+    },
+    {
+     "t": "NSA's Top-Secret Communications Network Down Amid Nationwide Outages",
+     "src": "TMZ",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUSm14UUtNUDNJZVp0cGtKV0FsTkg3N3VEeFdOTTJ3SlVTek84MjJNWWRZMkppTHR4YmFHRlpLMlQ4UlBlckdIZm8yUUFFMGFzaExLYVdZb3prazVoNFVwV3dMR1o3UEdXclJwVG5rYzZTeGNCWVNSLTFBdElJblZn?oc=5",
+     "t_id": "Jaringan Komunikasi Rahasia NSA Mati Di Tengah Pemadaman Nasional"
+    },
+    {
+     "t": "Major outage hits NSA's secret communications network",
+     "src": "Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRldrYTh2NzJrQU9DeVJPQVAtT1VRMG92LTBheVpXZnVSZ0pibjdTeGNSNmU0UlBFaWZ5eFlEY19OT21MZ0xtczV2NHkzOUxwTUZLZjVqZVhOaGcxWjFQZ0JOMHpCaGFWRTQzM3ZYYmpXb1BrWWpWVzRvcXNHZmkzMXBVVEsxaS1tZjFocFAzVGxHRTdnVEtVV2pXMmliVzVQbkHSAbQBQVVfeXFMTVM1ckFHb3VqVjh5SEFLSl8wZnozR01BWWN4QmpfX2otTTYzQUFvMmx2RlhyTGMwRnBvUzIzcFRFNGxEbFkxekZrVWVPWUJJVzRVTVJzbEdzZ2Y2ZnVOdWVVRXd3S2hpQVBkR19XWEY1ZFdtclZSc2I3UDQ2alRmS3FlczFpMUx0Tm95bGlzLWlDNjZ1M3BfRnNFWHNvRFNhMTEzZTZ1UTlFMFU4Y01ZZ1prZERk?oc=5",
+     "t_id": "Pemadaman besar-besaran melanda jaringan komunikasi rahasia NSA"
+    }
+   ],
+   "title_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
+  },
+  {
    "id": "transportasi-202611162224-b597",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -89,37 +125,6 @@
    "title_id": "Gangguan Penerbangan AS 17 November: Pemulihan Gangguan Bersatu, Kekacauan FAA & Ucapan Syukur"
   },
   {
-   "id": "siber-202611171550-a0f9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "NSA's highly classified communications network disrupted by widespread outage",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDLSAa4BQVVfeXFMT0lwZjRuaUlFN0hObHBJdTYwRjQ2NnpDaGhLdTd0bUJMMzZoUVZ5NjljcGJRZ053dHhpdUlBS3VpcnpCSGZYNC04akllRndxOWlvYk1JSHZGMF9US3JPekN2dGl4YXRYdy1wLVcxaHJXQ3NwOExJS29iMGpxaUVaM2JDNGxiSmdKNi1hSlU4bkx2Z3F6Sk9tTGdFdUhFeDF5TUs0ZktpMUM5WUN6VHdB?oc=5",
-   "sources": 3,
-   "recent6h": 3,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-17T15:50:25Z",
-   "last": "2026-11-17T16:57:50Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "NSA's Top-Secret Communications Network Down Amid Nationwide Outages",
-     "src": "TMZ",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUSm14UUtNUDNJZVp0cGtKV0FsTkg3N3VEeFdOTTJ3SlVTek84MjJNWWRZMkppTHR4YmFHRlpLMlQ4UlBlckdIZm8yUUFFMGFzaExLYVdZb3prazVoNFVwV3dMR1o3UEdXclJwVG5rYzZTeGNCWVNSLTFBdElJblZn?oc=5",
-     "t_id": "Jaringan Komunikasi Rahasia NSA Mati Di Tengah Pemadaman Nasional"
-    },
-    {
-     "t": "Major outage hits NSA's secret communications network",
-     "src": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRldrYTh2NzJrQU9DeVJPQVAtT1VRMG92LTBheVpXZnVSZ0pibjdTeGNSNmU0UlBFaWZ5eFlEY19OT21MZ0xtczV2NHkzOUxwTUZLZjVqZVhOaGcxWjFQZ0JOMHpCaGFWRTQzM3ZYYmpXb1BrWWpWVzRvcXNHZmkzMXBVVEsxaS1tZjFocFAzVGxHRTdnVEtVV2pXMmliVzVQbkHSAbQBQVVfeXFMTVM1ckFHb3VqVjh5SEFLSl8wZnozR01BWWN4QmpfX2otTTYzQUFvMmx2RlhyTGMwRnBvUzIzcFRFNGxEbFkxekZrVWVPWUJJVzRVTVJzbEdzZ2Y2ZnVOdWVVRXd3S2hpQVBkR19XWEY1ZFdtclZSc2I3UDQ2alRmS3FlczFpMUx0Tm95bGlzLWlDNjZ1M3BfRnNFWHNvRFNhMTEzZTZ1UTlFMFU4Y01ZZ1prZERk?oc=5",
-     "t_id": "Pemadaman besar-besaran melanda jaringan komunikasi rahasia NSA"
-    }
-   ],
-   "title_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
-  },
-  {
    "id": "perang-202611170849-12a3",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -149,6 +154,36 @@
     }
    ],
    "title_id": "Jet tempur AS menyerang situs rudal Iran di Pulau Qeshm setelah serangan di Bahrain"
+  },
+  {
+   "id": "siber-202611170343-23e8",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Tech blackout? Outages hit banks, airlines and government agencies",
+   "src": "NewsNation",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazhKY0FTLUU5aGctWVdVWWFxSTA2U2ZMelRuMnlVZEtyVG42bmpoUXhXR0NQMHJWX0ZIZmxnTlZfZzA2UjJsOVlKVGpmcnE0QXJuUmZMTUJPS21CMWJsZEc5UXAxOXJWcVJidEdkVTYxWF9pNXEwRHlSUlZUdWllSTh6VTJJSk1nTU8yNzFEeDQ2dE9pR0VTR0RIXzhOX3R1aWxj0gGoAUFVX3lxTE5xUWE1X05WVm05VUUwUFI2TjV5T0ozU29BV3FEQUdwQUFXMjV3cXZneHdCS19ubzNyaWFGcENMZTFrLURLUWNkRS1jV2JFRUZyeVdfcnBvYXpsaVRCUGhjUEE1SnE5NUZoMGtwNTdVMGpBU3BXM0dRN09qR3djQmxpRVg2ZWpFVEFUZk1ENjJRRlFBVFJwX2hMZTZLOU1qQVJ0YW92TTFQeQ?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-17T03:43:23Z",
+   "last": "2026-11-17T17:27:12Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
+     "src": "Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
+     "t_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
+    },
+    {
+     "t": "Bank outages in US after flights and Microsoft disruptions: Is it a coordinated cyberattack?",
+     "src": "Firstpost",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkdRN2Z3cWQ0QmlpdFEzUk9TVm01U2Y5U1c4U2trWTF1Y3ZwSkZLVlZkaHZuNlkwYWI3azhBOGYyc1Nhc2oyeVQtMEVSWno0dUlWa1JYeFg3dlg5SkhzazhOazhPdWJGd3hZaFdHWUdIQkY4U1Y4WTJ1M0pYVkhKUVBvTTE0bnhVVEloTnJfbmdwdWo1SFFnS3JianVYN3lTbW9ka1pZNjRQcFlqN3hScjd1anhacmJKaDB4bDJOel9ydUZuQk94VkR5QklSQ3k1eGMwMHRR0gHbAUFVX3lxTFA1QkY4S2hpNk9DdGZ0VUY3c3BGUUJ3YUNSWmJyM0VNLTFRbkROeXlCbzg0WUFHNHNueGY0NGdPVlJwamdtbkJOb1FfMzFIWnNwZE1wTDF2b1NOWGpCaVloT1pHc0hoU05rUzV0eEJuMlczaUFVUTNLNmVIczBDSW9jUEl2aTJQWWJITHJfUHZRTzJJR3dZMTJUd3hqODNUY29sVmVRMUw1eWlGai1DelJDMnVJd19Dcl9NRWg4eXNwaUE1c3FEZWtkQWZHM0NoNTRZOXhpV01pb1ZNQQ?oc=5",
+     "t_id": "Pemadaman bank di AS setelah penerbangan dan gangguan Microsoft: Apakah ini serangan siber yang terkoordinasi?"
+    }
+   ]
   },
   {
    "id": "perang-202611170302-24e4",
@@ -291,6 +326,29 @@
    ]
   },
   {
+   "id": "kesehatan-202611170859-0bbf",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "WHO Director-General's opening remarks at the third IHR Emergency Committee meeting on Bundibugyo virus disease epidemic in the Democratic Republic of the Congo – 17 November 2026",
+   "src": "World Health Organization (WHO)",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3dxQ1RzXzNpbVlTcFpTNmVZdjBibl9qa2dhR1ZUUWJWejdvVV9TWXdoNWxQeTdkUWJEQkZiTTQ4YXBoMlc2TW0xWGJoelFhMU9JWi1KWTNGYXg2anhkV0RxV05kUnU3U2xQbzdLU0d5Ym1xclBGNEowMUlaem5iYnllMHE1eTRWb3J3YTVfWkJUeVk3QW9EeXAtMV9sQUQ2azVJMnVtQVU4SFM3Y3dDWFduT0ktU0tTa2FFZVlIcUFMZzdjeTdXdnhBWVlvX1lGc3lHaWt2a2JwUFBtME10TXJYY0xpVFhhU01mZ25oUGg1OHNiOGZRb3VDS0hHSUdScDRscWgwLXpEdHhfeER4SzJBX2hyOGVhVXVrczdFcUdJWVJ2RDJRbjJMWWZ6YVhhLVZ3ZDFRQlc5ZHotaDBjOUh2S0lFdw?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-17T08:59:37Z",
+   "last": "2026-11-17T20:08:49Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Epidemic and emerging disease alerts in the Pacific as of 17 November 2026",
+     "src": "ReliefWeb",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2N3cnBDUFZMV2U0VGFlbkJuR1hoSm5lZHFQa0hYVG5QTXB3Ukc2UVZURmY1SEpaUUtMSWFKcXNIR01vM1I2VzRLQUtEaHJMTThoM09qMFdYbkNEcUxBcVRfSUZVM01VY3FwbDlQclRCT2dyZVJmWTJxYWoxeTdJRXVLRm42T2xBRXZtV1UzOHJZc185YnhZaA?oc=5"
+    }
+   ]
+  },
+  {
    "id": "transportasi-202611162203-ac47",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -339,56 +397,6 @@
     }
    ],
    "title_id": "Membongkar postingan media sosial yang mengklaim pemadaman listrik selama 90 hari akan dimulai pada 17 November"
-  },
-  {
-   "id": "siber-202611170343-23e8",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
-   "src": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T03:43:23Z",
-   "last": "2026-11-17T16:21:13Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Bank outages in US after flights and Microsoft disruptions: Is it a coordinated cyberattack?",
-     "src": "Firstpost",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkdRN2Z3cWQ0QmlpdFEzUk9TVm01U2Y5U1c4U2trWTF1Y3ZwSkZLVlZkaHZuNlkwYWI3azhBOGYyc1Nhc2oyeVQtMEVSWno0dUlWa1JYeFg3dlg5SkhzazhOazhPdWJGd3hZaFdHWUdIQkY4U1Y4WTJ1M0pYVkhKUVBvTTE0bnhVVEloTnJfbmdwdWo1SFFnS3JianVYN3lTbW9ka1pZNjRQcFlqN3hScjd1anhacmJKaDB4bDJOel9ydUZuQk94VkR5QklSQ3k1eGMwMHRR0gHbAUFVX3lxTFA1QkY4S2hpNk9DdGZ0VUY3c3BGUUJ3YUNSWmJyM0VNLTFRbkROeXlCbzg0WUFHNHNueGY0NGdPVlJwamdtbkJOb1FfMzFIWnNwZE1wTDF2b1NOWGpCaVloT1pHc0hoU05rUzV0eEJuMlczaUFVUTNLNmVIczBDSW9jUEl2aTJQWWJITHJfUHZRTzJJR3dZMTJUd3hqODNUY29sVmVRMUw1eWlGai1DelJDMnVJd19Dcl9NRWg4eXNwaUE1c3FEZWtkQWZHM0NoNTRZOXhpV01pb1ZNQQ?oc=5",
-     "t_id": "Pemadaman bank di AS setelah penerbangan dan gangguan Microsoft: Apakah ini serangan siber yang terkoordinasi?"
-    }
-   ],
-   "title_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
-  },
-  {
-   "id": "kesehatan-202611170230-58e0",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnVFWmxYR3UxLWQxSjM3TmhQaEVyWWR2UVNoQXVkNm5xZnNTQ2FPb190dTROUk1KbW1FZ3RwOXV2NjE2Z19jYUs0dmJGaFNYX1F6ZkpqOFJqd21mNW1wb1FzTjVuc2ljTkVJc1BKUXJqVzZTbGxmaGtNczRHU3BBeDJuRXhPbGJPT0JvTnlCbFQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T02:30:43Z",
-   "last": "2026-11-17T10:01:54Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "What we know about the spread of Ebola amid growing outbreak in DRC",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTZTMTlEMjQyUkJWcjI5NzMxOVRURnljT01fc055bjY1R0x0YnQ5d0dHMUMzeVU4NlRhdEpwRHZZLWM5OWk3T2NISmhPWWZGVDVXU25hdV9RWGU4T3RqNFVEMC11MHoyQUJMMUlVME4xc3RGY0JUdHhXTkZabWh0TUFCaVk4eTlEWU5IWNIBkgFBVV95cUxQdkZfU0c4MkpOSHhfbmdHa3g3dkkwSEF3WERlR002ck4yaG1qWDlTLVhIVl9LangxZHlJNWdhTUxMQzdpY1dCYXZRWUNTOFZWcXQxcUQ3Wm1jWkI5V3dHa1FobV9pRXFwREtlUWp1VmNraUE1bzZLa21hTkhpS0l1azhWMHF6a0F0QmlUWkgtQzQxQQ?oc=5",
-     "t_id": "Apa yang kita ketahui tentang penyebaran Ebola di tengah meningkatnya wabah di Kongo"
-    }
-   ],
-   "title_id": "Wabah Ebola di Kongo: Bagaimana Ketakutan dan Ketidakpercayaan Mendorong Penyebaran Masyarakat"
   },
   {
    "id": "siber-202611162338-dd93",
