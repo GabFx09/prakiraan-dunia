@@ -1,7 +1,50 @@
 {
- "updatedAt": "2026-11-17T00:32:28Z",
+ "updatedAt": "2026-11-17T00:47:07Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "kesehatan-202611160759-948e",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Africa CDC chief warns DRC's Ebola outbreak remains out of control after six months",
+   "src": "Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREN5U0swcTVvb0dlVmJzZnlPaGk0UEp6WURvTjZ6T2JHZkJ2eXBVcXQtWGlhNDlGbk82X1NUVW1OMUdJMHBJMGlSR3NBSlloNHRWdmJvU0RNb0NzSm9xODJYLWJDV1cxd2h2Sm9HSVdsb2tTTHJ3WkVPaHRhM2hqS19EYTN4Vi1EWWtld2N2QXJZdw?oc=5",
+   "sources": 7,
+   "recent6h": 1,
+   "score": 7.5,
+   "level": "besar",
+   "first": "2026-11-16T07:59:16Z",
+   "last": "2026-11-16T18:53:45Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Disease control chief urges release of Ebola funds as Congo outbreak remains uncontrolled",
+     "src": "London Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTBSbm03b3FzelYwaWpLS3VTamMwdVJhMkp6QXZ4OFByYTV1Y2ZYN0JFR2NvWlR4Wkh6VnVGLTV5VUg1UU0ySmNxOVdabnVPV1h0Ymt3dVhaNU42a09lTHlVQTJ4TFNiWUI2emhXQU4tQmJLaVVCUWlBZTBkTU1ROGZVT3NsdE0ySHM5QmVxNkpVZzVMOFZPWC1oRTViLXJ5NkhPOXpFYlRvZUswb0lad2lvWmo5U2l4UzVn?oc=5",
+     "t_id": "Kepala Pengendalian Penyakit mendesak pencairan dana Ebola karena wabah di Kongo masih belum terkendali"
+    },
+    {
+     "t": "Congo Ebola Outbreak Still Uncontained After Six Months",
+     "src": "Nature World News",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMnVHeU9obkxZTVBsMXh0UGt1R1RIV19oeU9GdkZZc1dwN211bTZOQjFoTjJ6c18tX3BOdGVzRGs3cFhYQ2hVay1YZi13ald2UWhEb291aE5abkR0ZFJqaE4tRGh6Vm9ENXBrNlQ2cEROckJGVXFRaWZNY2x2Nnh4X2UwaTZiQ1IzSndmVlhtZDl2R29sbmxNX3NxS3g1S1hQWm9CdGx1RS1wcGFRampqTGFUYWNPbWV0R3YxS0hSR2g?oc=5",
+     "t_id": "Wabah Ebola di Kongo Masih Belum Dapat Dibendung Setelah Enam Bulan"
+    },
+    {
+     "t": "Ebola Outbreak in Democratic Republic of Congo Raises Alarms",
+     "src": "India News Network",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOektZMmpEa1FaenNhUnpMN2JBMkt2UGM4aXh5RTNfcUFVZ3l6NFZINS1NR0luQ0VpT0xyLXJFbFdCM2d3bmxMeUJXeW9mVDVwekp3MF9acDRQb2FBQU0yWklURWtXSUJRUXFvSklYelpiU1p4aFk2T21sVmc0eDJYWnhjUThtTk5uYm5wWTlkcGlTM08yMXVHaHBCVFlLTVA2?oc=5",
+     "t_id": "Wabah Ebola di Republik Demokratik Kongo menimbulkan kekhawatiran"
+    },
+    {
+     "t": "Ebola Outbreak Spreads to 5 Countries, 5,500 Dead",
+     "src": "Baller Alert",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2NzTnpWTVAtZkZaXzR0aXVxY1RsaUU1LXpZcS11MGJpSzlxdGU5X0Z4bW5iYW5TaVhmTVpDdndsdHh2NlFDZmJpREYwRHRfWTVMTmtGNzNmTTRkNFJXb0NIaVd4TWZBWm1ldEV4WnFpczliNk5jR3ZRRkRqZkR4ZUlfX3BmZTNkT3JqblVRNA?oc=5",
+     "t_id": "Wabah Ebola Menyebar ke 5 Negara, 5.500 Orang Meninggal"
+    }
+   ],
+   "title_id": "Ketua CDC Afrika memperingatkan wabah Ebola di Kongo masih tidak terkendali setelah enam bulan"
+  },
   {
    "id": "politik-202611160500-0aa3",
    "cat": "politik",
@@ -146,6 +189,43 @@
    ]
   },
   {
+   "id": "perang-202611160255-8065",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Trump Claims U.S. Air Defenses Intercepted 99.99% of Iran’s Missile and Drone Attacks: who 17 outlets blamed",
+   "src": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlcwMzhGOHV1eDBzcHRiVGlNQXRxeXNHdmluT29lVkhYRTNDS2c3Um5INWg5TVlsSnVTbVZMNTN2Z3pMZDhqQXNvTEwtYWJTVE5PbW1hM0JrR19sM2FLeHRLaGZIdFZWNU03c0tJanFWc0JVNl9Yc1JmU3JNUEJ6LUU4YmVBUkpZalNiQk5vdlNCTVNHWjhOTXlTbmhxTFFCMXg4cGtKYU9DTkw2c1N1OGw1bjhUNXU2enpaUmJqSnNiby12ZjVwMndKQldJR0syWVlNeHUxcExJMXM5RzExcVBnR2kxYWdtQXc?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-16T02:55:23Z",
+   "last": "2026-11-16T17:31:36Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Iranian Drone and Missile Strike Targets U.S. Military Facility in Bahrain",
+     "src": "The Taiwan Times",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWJYUjB5UkZ0T2RaUVY4Rno0SjY1MWxtVDBmbjJMSnZIY0NraDN2a053b28zMFk5SEpMUDh4NXlqbktKVmc1ME4wTDFFQjhHdHNWVlNpSnNvNnNralUwYjJaWWF0U0k2bWRZRmlBN21LTzNGY2ZUZXdqX0FIakZkdk4zalJHZnFyZndNUzlyQkdqNzJDb1duOF9lQmFLYWtLcGZpZWxtSk4xY09P?oc=5",
+     "t_id": "Serangan Drone dan Rudal Iran Menargetkan Fasilitas Militer AS di Bahrain"
+    },
+    {
+     "t": "Trump: US forces neutralized 99.99% of Iran's missile and drone attacks",
+     "src": "Apa.az",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVVDRV9oZ0J5YUp5RzJlVnZzZWRXQmdQdUpIOHdaemNLZ1NnTUV5cnRNeUlmaF9OVVFmR3pZZnN0ODhnZ19EaE0zSHhoVlZab0JneHpVVXZDNWhvZW5jbWRxRDBiRGdnQXZnajlNQVFCc3hmTFBER0I1Y3RRNFI1bmtjbG9STXRYTC1vckRKdWtiblNGUnM4NVlheTN6cEItakE?oc=5",
+     "t_id": "Trump: Pasukan AS menetralisir 99,99% serangan rudal dan drone Iran"
+    },
+    {
+     "t": "Dubai airport resumes flights after Iran drone strike; missile kills one in Abu Dhabi",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3BIRk81TTBBSkZhUDdFM18wWXpJTlBaYzBEUkw4NGlRX1lHekpVSVlXSTIzcGw3UlNkR3cxeFdMNXpxa0NZMm1tc2JaOEtpVDhwY1hOY1V3WG14UENMRm9WdjliZWVSWVRmRENabGl1VmRUUGlqTGJUX1BocVAwZmxoYmFjRWFVQUdHcy0yLUFzaU85QTltZzBxZk5RUkRUQzg4SXlid2pjUWI1Tm5N?oc=5",
+     "t_id": "Bandara Dubai melanjutkan penerbangan setelah serangan drone Iran; rudal membunuh satu orang di Abu Dhabi"
+    }
+   ],
+   "title_id": "Trump Mengklaim Pertahanan Udara AS Mencegat 99,99% Serangan Rudal dan Drone Iran: Siapa yang Dituduhkan oleh 17 Media"
+  },
+  {
    "id": "siber-202611162228-06c5",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -193,41 +273,27 @@
    ]
   },
   {
-   "id": "transportasi-202611160640-7a5b",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "perang-202611162220-a088",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Flying Monday? Here's what to know after nationwide FAA ground stop",
-   "src": "KDNL",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjBtUFRJX2lMZ2c0REJISDJOTzJEbmFZclh2S1o4OFJhYzd3VHRpeUNWSHZFVHk1YmtEd0RNdHhESVBnVFUtSWd4S2t3eXZDbjc1YWhBTFctcXBORENlc1hIYTE5SFdIQmhaV3AtZHVXY2pkN1ZUVWpOeWVPOW5TTzVCWUlZNkoySDFIRUU2MG1scTlpMUdjQmdyMWtZc09fZXplUWk2aUp4TWRjcUg5azZYUndrYnVHXzhIdTF4WlI3LVFZbWxQbEZRdmJuSHZ0UVBWbWs4ekhfVWNnR0xZVkZTdjBsT1AzRnpMR3JRSEZYUm90VTBIbGM0clpNMlJac0hBeFpjR0p3YkwtTDZ3MEhsVzRETVBVOUl5akJvbkxXSW8?oc=5",
-   "sources": 3,
-   "recent6h": 0,
+   "title": "Tit-For-Tat Strikes: Russia Hits Kyiv Bridges in Massive Missile Attack After Ukraine Strikes Crimea",
+   "src": "Times Now",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSWRRVTRFV1JoSTk2blZnS0xHc2dwZWRDWU52alBmdXJvLUpBSkh5MkgxWFVZbzFGc01KdEx0Sk5oZnpNNlc4LUUtMGlwcF9QQUJEeW5YWUhhWTBsNkFzRmhGZGliZ1paemtvaDhYSFlNSE53eUZHMUFLZmtkeUNVdnczLUJHaElxTFItR3RLNEFRNmxuVUdvcHF5U0U0Mk5qY1BoZXk1OTFzRE1xTkVzSzRvSmJkM1Y0RDVtRkZHeWs1RUFPWUZWN3VCY3VPU21ZOWR6TG4zYnVteVJN0gHiAUFVX3lxTE9DSkpFd3AzSlktLUhtYVRkNnZIRnFXUWVfZ1FLS1NoX0t0TEpoSVVhYUN1cnhjcGlEV0pNeXZHLXJ4OHlscHRlb3dfUmhiZklpVlQ5WG1FVndjYTZzMVQ4MjM1VU0zU0xhcWMwNEJWLWZfZEQtNmJOb1IzMnJqM3EzOWVTMTIxckFNbE1fbUY4T2dzMTJXcFJHa0lLWjFsLXY1eGV4WDNwM0FjQXQwVTJYeXF4dk1rMF9CajRUaC0wdGI5Tm1EdVUzYnljMVpaS1Y5ZVNxLVktRXRoWF9Sd1ZMT1E?oc=5",
+   "sources": 2,
+   "recent6h": 2,
    "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-16T06:40:23Z",
-   "last": "2026-11-16T13:21:45Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "level": "kecil",
+   "first": "2026-11-16T22:20:30Z",
+   "last": "2026-11-16T23:20:32Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Flying Monday? Here's what to know after nationwide FAA ground stop",
-     "src": "WXLV",
-     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPZUsyajVEcml6SDFEcDVRb21Zd0tiQ281Z2tBUjVFMWk0WXdpd1lQekxCX2J6VVI0QVl0dnlzX1RyVWdKc3g1ME5lZ0Nfenk5WDh5d3VGTmt6X09RRjNqYlYyb3JIY0dwekVwR2dweHRjb296aFhOMElpQVJKTHN2Qm5fOTNDQkx1Rmc2dEotd2lwRmlwNW9zNGJWUjNSdTd6WGQ2dERwR3I0Q3VQZnNXUkthdkw2Y2VnclJjb1k0djIxLTNYeHFkZWRGU2pocFVFaU9jT21KRzZFc2g5dzJhYzZOWGFLZHFsdUtHel9sOW1tSGtTa0RXWGVybzFMSVlSTjN4bzkyUy05aFdZUXlnUVRiWnYxUW03bXc0OUhJY0QtdGRCZmUtMUJ6QnpZdw?oc=5",
-     "t_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
-    },
-    {
-     "t": "FAA Ground Stop November 13: Refunds, Rebooking and Airline Rights",
-     "src": "Travel Tourister",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRXJPRzM0bFBvR0tXX05KLS00cTk0M2RpS1o0SGZ6OW1PVGhWa0NOVlRQVFhmMzRPbXpyXzh6S29XMS1QeHJiamlTYmFSLWFDRnppNjh2cnV6Z0x6aDNhazJ2YU41QjNEVXJVOGNVUC05d2sxT0luNktVem5zMTBCVmc5bkN0VDdwZGVwUkFrQWMyYlBCS0ZEWV94SEkwRWRjckk3M0k4NUQ0TGFMSERVY0o1cHd0MHJlYTMtR0V2THB0X3U4bWQtNTdKNjFpQUc4TDRkR0FGanZzNEVEdmFFNWhjV3pNXzJxX29NdGJNQTNGcHl2bWJsNmVmRHN2ZnM?oc=5",
-     "t_id": "FAA Ground Stop 13 November: Pengembalian Dana, Pemesanan Ulang, dan Hak Maskapai"
-    },
-    {
-     "t": "FAA Nationwide Ground Stop: Router Failure Triggers 12,462 Cancellations",
-     "src": "Travel Tourister",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaDE5UC1qeVJpOHQ4TnRnUmFxQ3hNYVhEcFgtV1dLV0ZNXzlmbVhrWlJEdFhXcU9ySkNaSDNkMVFCQlBPWlhXZ2NyUFdtVldMUWEwR1BQU2tac0dSN0NwdUFDNENGdm9JbTNwSXhDTU1YRFBTRFpWRUlaMnF0bjM1TUExdXg4bEQzdzBFMHV4bUFaNTRxWGZMUE1vRE1NTndNdmFZZWtwQ0s5b2EyZHhhVGxFaTg4bkdzNE1vN2ZCT1RpVjYxRU5acHV4VDQwYm5JTkNvOG5RRkxuY0o1M3RSQTZGN29kdFJGczl0aFFBNA?oc=5",
-     "t_id": "Ground Stop Nasional FAA: Kegagalan Router Memicu 12.462 Pembatalan"
+     "t": "Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
+     "src": "The Kyiv Independent",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19iSlJyallMZlZCWmp3NlFWRWlYa3FIcVVZM2hPMzU2MVI0TnVlZ0hSZFI2N2RZLUQySGdpTmJlaG13X1FpZjU3enhtT2p6RkNuVjN1SllNRzZSYXBYcU9SbkwwOVdPLTRnamFubWVYX19JU2pCVXZLRkd1TVFSSnNRbEY1Q3ZFbnJEUlZSemp0a3RGc2o4UUhTb2dhRVk0ZWd1MF85VHk0d2IwZW93dThfQTA?oc=5"
     }
-   ],
-   "title_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
+   ]
   },
   {
    "id": "transportasi-202611160413-d4aa",
@@ -274,6 +340,62 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0x1YWtmbjBrSklzR0NXQjZLWlR3S2kzX1Z1MGNtX21CWXMyYUNMSWt4QnFQQUZqT0xFSW1JMzNJQk1nSEEzMl94WXpmMGdpUlBIUjhPbHZ0YXUyb25rODJOSWhXTWVFZ2xEaldrUFVKNXlodThwTnlJX0hLcWI1VlVTd0ZHM2hYbV90V3g1MkZUMXUxeWZyXzZKWnFPMk5jVnotQ2F2VjNFQdIBrwFBVV95cUxPSW5fRWI2WV9LeVc4QjE1SGZTbEs0VE1RUEZXeUhjdTM2NW83VElLWXpSVlk0RTdRUlBvNlNEMER4aGY0anR6Sld1WHFleEQxX1VFOV9VVHI1TmpHXzRZR2RUaDBjdXBScE1FN2tKTGtZWi1VeGJXQ2FkMEtYYzRsNGFDUW92aEh1ZS1TOG1RbmFFSk9jaWpqS2U5Qnp2V2VyaWxxZmloWUVOOUkyaS0w?oc=5"
     }
    ]
+  },
+  {
+   "id": "perang-202611160916-c921",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukraine launches biggest drone attack on Russia since war began",
+   "src": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0xfMlFhd1lZcGlEb3k1TGJyUlJGdGJHZDZjbU0xeWRRZDVJeE4wVGJHVUNzTnZ5aFJVZEE2bW8tNjZuODZXS1RnMlFQTkQtQVZtQzF2NmhjNWlzZ1BpVGc1dFZ2QU1oMC0wekZFQnhtWlBJX1VTVXlFTlNtM1JrbDFJaFBKRGVaUnRHZG5UbHNwcDdlX2lWN3ozckVYNVNkc2xmYy1B?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-16T09:16:00Z",
+   "last": "2026-11-16T13:44:43Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
+     "src": "The Moscow Times",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGFyRTd1TlRuZXFxcU53N2ltQjM4QVAyYmFHeHlVZmh2OEZpSmlWeUhOWjFQRkQwSkJhNGhKRVFzVXlPVEQtTVJqNXdpM2o3MzNIcGlqVmJqTDRscmxIMFZlWE5YS3duVzdQOXozUGx4aUU3YXNYVldHelZqMl9oby0tZHZaYkZSNlM3a2FUTFM4VE5VWmQ4UkdUcmJWUFBvTnhRNW5KdWJCNjJoM0lVbg?oc=5",
+     "t_id": "Ukraina Menghantam Jembatan Krimea di Tengah Rekor Serangan Drone Semalam"
+    }
+   ],
+   "title_id": "Ukraina melancarkan serangan drone terbesar terhadap Rusia sejak perang dimulai"
+  },
+  {
+   "id": "transportasi-202611162239-3226",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Flying Monday? Here's what to know after nationwide FAA ground stop",
+   "src": "KTVL",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxORnVGUVMtUlBjR244N2xOYVRXdllGVHU4NUNJUnF2bFNIWFpDZ21KLVlQNmxvX25QUmczVlJWcFRBUlhiTGc3dlRyUVI1Z04tbHEySXAxTF85cmFWSmp2bEFMdEJoNXcxSEZLMnlyOW96UlhDWFVsU2tKUTBGclE4emJuVWhVbTRzcVFSYmJ2Ui1nSWdxai1qbzlCaHFxeWVBSlBMQVpNd25nVU9xcW9leWZFdjNnaDdHNTF1c0JibWplWHVDcU94M250ZDZHU0xYcXJBbkRTOVRuSEZMMXB2UTlWYjlJSi1ZWkRVdUtIZ3FILUpRZk5FaEtfcUtUNTBPdkpLM1ZmekhMbTlVZWdIeU14RWpIRFdHeF82VFZ2LWMxSnJ4VjVkZUVrN2Zmb1pHcE5mMDRLTlowLTY1aTFCMDd1M2Y5NzRIaVE?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-16T06:40:23Z",
+   "last": "2026-11-16T13:10:23Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA Ground Stop November 13: Refunds, Rebooking and Airline Rights",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRXJPRzM0bFBvR0tXX05KLS00cTk0M2RpS1o0SGZ6OW1PVGhWa0NOVlRQVFhmMzRPbXpyXzh6S29XMS1QeHJiamlTYmFSLWFDRnppNjh2cnV6Z0x6aDNhazJ2YU41QjNEVXJVOGNVUC05d2sxT0luNktVem5zMTBCVmc5bkN0VDdwZGVwUkFrQWMyYlBCS0ZEWV94SEkwRWRjckk3M0k4NUQ0TGFMSERVY0o1cHd0MHJlYTMtR0V2THB0X3U4bWQtNTdKNjFpQUc4TDRkR0FGanZzNEVEdmFFNWhjV3pNXzJxX29NdGJNQTNGcHl2bWJsNmVmRHN2ZnM?oc=5",
+     "t_id": "FAA Ground Stop 13 November: Pengembalian Dana, Pemesanan Ulang, dan Hak Maskapai"
+    },
+    {
+     "t": "FAA Nationwide Ground Stop: Router Failure Triggers 12,462 Cancellations",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaDE5UC1qeVJpOHQ4TnRnUmFxQ3hNYVhEcFgtV1dLV0ZNXzlmbVhrWlJEdFhXcU9ySkNaSDNkMVFCQlBPWlhXZ2NyUFdtVldMUWEwR1BQU2tac0dSN0NwdUFDNENGdm9JbTNwSXhDTU1YRFBTRFpWRUlaMnF0bjM1TUExdXg4bEQzdzBFMHV4bUFaNTRxWGZMUE1vRE1NTndNdmFZZWtwQ0s5b2EyZHhhVGxFaTg4bkdzNE1vN2ZCT1RpVjYxRU5acHV4VDQwYm5JTkNvOG5RRkxuY0o1M3RSQTZGN29kdFJGczl0aFFBNA?oc=5",
+     "t_id": "Ground Stop Nasional FAA: Kegagalan Router Memicu 12.462 Pembatalan"
+    }
+   ],
+   "title_id": "Terbang Senin? Inilah yang perlu diketahui setelah pemberhentian FAA secara nasional"
   },
   {
    "id": "indonesia-202611160336-a66f",
@@ -369,9 +491,6 @@
   }
  ],
  "errors": [
-  "perang: HTTP Error 429: Too Many Requests",
-  "korporat: HTTP Error 429: Too Many Requests",
-  "bencana: HTTP Error 429: Too Many Requests",
-  "kesehatan: HTTP Error 429: Too Many Requests"
+  "kerusuhan: HTTP Error 429: Too Many Requests"
  ]
 }
