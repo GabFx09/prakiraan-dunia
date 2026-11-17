@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T21:48:22Z",
+ "updatedAt": "2026-11-17T21:58:25Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzlLcDdqRnN3R1BCUzdfblFWaTZKdEc5ckZldXJ0MGVTdmlLNmdCdWZuWTZqVFdyOUJMN29oSE9VcF9lY2x6cDlWN21lSk1FSnEtZjFGcHRjXy10N0ZWVU9yWC16SkNaZkFXc210em5ockpfZDlKQ0xKQXotaGRZOThOT1lsYk5wY2swMnBQSERBTE5OcElWN1pTdnBJUFF0RWZMSEpIRTd1bUxhcjUtQWxia9IBuAFBVV95cUxNUkI4OHV1OUZJWW1TSFVBc251dG5CTWg4QXNWQmNKNmlqd3gxd2RHVDJrQ1RramtrLUFpZDh3UHFTVmZvWHU4UkxUR2dfeXNVSVFDOUs0YXBkN1BOZFpKRWVobjFGNnlfbzQ1VHNad284QXZiYWYxSmV4ZktLVXNRUjVDbEFSSUZucDg0SFdCVVBRd2ZSaXdqSV9nTkIxTE0yVVEwaG16RlJ3Q2tFYzdObWlvQjNNNkh6?oc=5",
    "sources": 8,
-   "recent6h": 8,
-   "score": 12.0,
+   "recent6h": 7,
+   "score": 11.5,
    "level": "besar",
    "first": "2026-11-17T15:50:25Z",
    "last": "2026-11-17T20:18:25Z",
@@ -50,14 +50,20 @@
    "title": "FAA ground stop explained, and how rare nationwide ones are",
    "src": "qz.com",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
-   "sources": 7,
+   "sources": 8,
    "recent6h": 1,
-   "score": 7.5,
+   "score": 8.5,
    "level": "besar",
    "first": "2026-11-16T22:24:16Z",
    "last": "2026-11-17T20:37:17Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
+     "src": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
+     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
+    },
     {
      "t": "United Passengers Stuck Up to Eight Hours on Chicago O'Hare Tarmac During Nationwide FAA Ground Stop",
      "src": "Avi-Go",
@@ -75,12 +81,6 @@
      "src": "Travel Tourister",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSXBfSzVzRjZNM2lIdVJvUHhkR3NTTFFIRDdLY3RPNWljZm9LaldIcnA5ZmpNWHFSSUFKSnItUFM1YUJ0OENIaWhWbG0zUEVLcWgteDMyM2dFQl84ZUFVNnE5SloycHVJbWlQZzBUYUVfWXZyaU8tT0ZRYjl2YjVJclIwekNvX1duMUNaVmlnWFlOU0ZqanpFSzRxVFZtbk40Y3pMSzdnc1dSNFpVaFNTaFZ3bXNUVXVsUWtldk41czhNbWJGZnYxb1dsX0N2UmdNbjZOd0dSTXlXSmt6aEN5SDN1R0pIWDN3S0RKc3RuelROU05l?oc=5",
      "t_id": "Pemadaman United Airlines Terselesaikan: 645 Penundaan dan 25 Pembatalan pada 16 November"
-    },
-    {
-     "t": "FAA Clears Its $875 Million AI System After Ground Stop Grounds 10,000 Flights",
-     "src": "Travelers Today",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWNRUjlHTnI2eGZyR0FuM3QzV2I2VndNSkxRZ0FpRjhhWnBJYl9uS2VJcHphdVJ6RXBZZ3dyWEdUS3lud2I2NUtaRGtjYVpHTFZ2eThjXy1Nb0VMTUl2U2tlWHBlbHNkRHA4Rlh5TEN2ZXRNbkRyVXRqWC1Sc2dEdUF0XzM2dUZHOVBnTmR3cExsaUVPN2JwSEpEV0F0QVREd0xydHkxbmVSdlh6aWZnczZBRlczS2NNN1UzRW10azVGQkVCckZPMXNRS1ZyODho?oc=5",
-     "t_id": "FAA Menyelesaikan Sistem AI senilai $875 Juta Setelah Ground Stop Menghentikan 10.000 Penerbangan"
     }
    ],
    "title_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
@@ -133,17 +133,23 @@
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "US strikes Iranian IRGC missile launch site on Qeshm Island",
-   "src": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyT25CZk1PeDgta1Z4cDFheUpWUGJaN3IwS3VVVGF3Z0R1Vml2bWV4eEhuQXhMYVBiNnpuVjJuUExfNzRYSWRGYlFKeUgyRTlyZUZxamluYjYxTFFCRVBzVG4xeDhhWk5PSkE?oc=5",
-   "sources": 3,
-   "recent6h": 3,
-   "score": 4.5,
+   "title": "U.S. Strikes Iranian Missile Site After Drone Attack in Bahrain",
+   "src": "San Angelo LIVE!",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcVhiMlh3YXhrZ3NCaXpmR1pid2dwYTVyRFpXUTV1Vm9mR25BTGF0UElaZDBuNW9VVUcxdGtNSUJ0UU9QUU1SdWx4RVRhRHVaRnZPNjZlbjV6eTZ5VW1GNDlTWlhVcGN1VE56dmFKaWxqdVVZOWFkSFkzTFBmVFNUZThtWF9lblBjN0lOV2ZIWTF6bzMydEx2Wk9Tc252emQxVHVHdHNxRlhVakFGemc?oc=5",
+   "sources": 4,
+   "recent6h": 4,
+   "score": 6.0,
    "level": "sedang",
    "first": "2026-11-17T08:49:30Z",
-   "last": "2026-11-17T19:54:10Z",
+   "last": "2026-11-17T21:49:24Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "US strikes Iranian IRGC missile launch site on Qeshm Island",
+     "src": "The Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyT25CZk1PeDgta1Z4cDFheUpWUGJaN3IwS3VVVGF3Z0R1Vml2bWV4eEhuQXhMYVBiNnpuVjJuUExfNzRYSWRGYlFKeUgyRTlyZUZxamluYjYxTFFCRVBzVG4xeDhhWk5PSkE?oc=5",
+     "t_id": "AS menyerang situs peluncuran rudal IRGC Iran di Pulau Qeshm"
+    },
     {
      "t": "US fighter jets strike Iranian missile site on Qeshm Island after attack in Bahrain",
      "src": "Ynetnews",
@@ -156,8 +162,7 @@
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3V4dUNCbEhBbHczSjVUdHNtTHl0eWZXaU9zeGU4MW5tZ3ZHSzNEMGdsSmlJUmZtemI0NXc0bFFRUExpRmlQWXFrNW5XTWw3VFE0emxYd3RrUk9zTkJrajBVbHBWVExCMGRuTHh6dC1YMVczcUZGV0gtWFJnWTF6WTYtTXJjeTMxWkgtM19Xdnd5SVR0VUxmZWF6a2xORW1OUE9WeW9QVjJhU0d3UWdGOUYyOXpKcGpJd0FSYzZvTUpFcFJERFhhSmVEZUd6OHRoQ1BybU44OEJtcHh6M2tv?oc=5",
      "t_id": "Pejabat militer AS mengatakan jet tempur menghantam lokasi peluncuran rudal Iran di Pulau Qeshm hari ini"
     }
-   ],
-   "title_id": "AS menyerang situs peluncuran rudal IRGC Iran di Pulau Qeshm"
+   ]
   },
   {
    "id": "perang-202611170302-24e4",
@@ -323,80 +328,6 @@
     }
    ],
    "title_id": "Bisakah jaringan listrik AS diretas? Bisakah serangan dunia maya menyebabkan pemadaman listrik?"
-  },
-  {
-   "id": "perang-202611171943-dfea",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "US strikes Qeshm Island after Iran drone attack on American base in Bahrain",
-   "src": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDUnVoMFQ3TkFacGRPa3k5aWhaZ0h2aTg0ZGdtdFUwWENhUjZiMFk0RDYwMGdJNHdPOTBkNVlDWFBueXpMcmJNM0pLczV1VEVRS1E?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T08:49:30Z",
-   "last": "2026-11-17T17:29:02Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Iran Claims Fresh Drone Attack On US Military Installation In Bahrain, Residents Receive Emergency Alerts As Explosions Echo Across Capital",
-     "src": "The Sunday Guardian",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOS0EtUUN2ZjJWN2Y0bnctTEkxRzlhT3FLWW56Ri1tQk1mOS05R0hBMmkya0RuUkNtdFhYZGh0ckhDd21jZmJGYUdyY05mdlozYUJ2MEYxV3Jnb3lsZGVfaGRqeUxQX0YzbTZVRXEyWXNpNU9KdzdseU5UNHpNSkR3MVhhcVNTSWdWcHNtVEEtb0NoWGUzM08zR3NnUkJreGpNQlNVMWo4YmNFenE4TE5xRUN1NjVleGNueklQZ3ctY2hhTXpXNTlIc1FydlM3aDJTUFVoX1RRemc5cnB5N290Zk1RbmplVkx0QkNQNU0wcE9MM2wzM2tSemJSSFJkM0RYVy1tY3NDWEF4NjdjVGpQLdIBlgJBVV95cUxQWTdpeXV1MkUzTGR6SUFmNm5CaXVNWkpSX3M1c2ZyV25Id0NHaGx5Sld0MThoYXlNVklIV1FxaXl4ekdKWHJxLUh0OFM2TmNYY3NNUjdOU1pqVFZqZEJfZVVTcGN0bmxLVWY0SUludmp5LU0teWlZVHlfZGNKVzNHOTF4QU5MeWFKUlpwV2hBZDJhbExrckZzNWNELTE2anlzWHA1T0d2OWpYTUJ6bHBDN0NUS2U4SXcxdHBDSjloVElPMThnN0RTcldKUkdHQV9iYnBpS3VmWWNPdXJCeXJKQnZfc3c1LWw5bVlPVXI3M2VYd0pCaUYzc3hKN0FlYWhiaWc2NWJ1ZVhjUnlkWjhUbmNNci13QQ?oc=5",
-     "t_id": "Iran Mengklaim Serangan Drone Baru Terhadap Instalasi Militer AS di Bahrain, Warga Menerima Peringatan Darurat Saat Ledakan Bergema di Seluruh Ibu Kota"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611170343-23e8",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
-   "src": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T03:43:23Z",
-   "last": "2026-11-17T16:21:13Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Bank outages in US after flights and Microsoft disruptions: Is it a coordinated cyberattack?",
-     "src": "Firstpost",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkdRN2Z3cWQ0QmlpdFEzUk9TVm01U2Y5U1c4U2trWTF1Y3ZwSkZLVlZkaHZuNlkwYWI3azhBOGYyc1Nhc2oyeVQtMEVSWno0dUlWa1JYeFg3dlg5SkhzazhOazhPdWJGd3hZaFdHWUdIQkY4U1Y4WTJ1M0pYVkhKUVBvTTE0bnhVVEloTnJfbmdwdWo1SFFnS3JianVYN3lTbW9ka1pZNjRQcFlqN3hScjd1anhacmJKaDB4bDJOel9ydUZuQk94VkR5QklSQ3k1eGMwMHRR0gHbAUFVX3lxTFA1QkY4S2hpNk9DdGZ0VUY3c3BGUUJ3YUNSWmJyM0VNLTFRbkROeXlCbzg0WUFHNHNueGY0NGdPVlJwamdtbkJOb1FfMzFIWnNwZE1wTDF2b1NOWGpCaVloT1pHc0hoU05rUzV0eEJuMlczaUFVUTNLNmVIczBDSW9jUEl2aTJQWWJITHJfUHZRTzJJR3dZMTJUd3hqODNUY29sVmVRMUw1eWlGai1DelJDMnVJd19Dcl9NRWg4eXNwaUE1c3FEZWtkQWZHM0NoNTRZOXhpV01pb1ZNQQ?oc=5",
-     "t_id": "Pemadaman bank di AS setelah penerbangan dan gangguan Microsoft: Apakah ini serangan siber yang terkoordinasi?"
-    }
-   ],
-   "title_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
-  },
-  {
-   "id": "kesehatan-202611170417-dcc3",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Ebola outbreak defies control as war and hunger fuel crisis six months in",
-   "src": "The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalZtYm1XOGNEZmhtekIyaUZIYUlCMEJJUllBRmtwR18yaFJWeVZpRmFDU09kOU1SSnFubDVrYXB3blpXMzk4Wlo4WUJjTzBBc1hkQlk4U1VxSDVQZnB3cXhuNThON2NEZDVlMXlEQ3o5SXdrSU9kbnFHMXNXSmh5Zlp3UzdRcm5rRW1JVHd1bEo0ZHlwVmd1R0tjckF2RUNB?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T04:17:45Z",
-   "last": "2026-11-17T06:13:35Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "6 months of the Ebola outbreak in the Congo: War, hunger, disease and profit",
-     "src": "World Socialist Web Site",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzQWZCS1FYVjU3ZnNJQzZkd2d3bWoyVUIwOV9MMTgwVWtfaHFST1p5WFQzZWhfMDU2b093Y1pvZW9nejZvRmRPeW0wTnJMOEY0SzVLU2hBQWFfQUFzT09VMFVleGJOUVVr?oc=5",
-     "t_id": "6 bulan wabah Ebola di Kongo: Perang, kelaparan, penyakit, dan keuntungan"
-    }
-   ],
-   "title_id": "Wabah Ebola tidak dapat dikendalikan karena perang dan kelaparan memicu krisis dalam enam bulan terakhir"
   },
   {
    "id": "transportasi-202611162318-6b15",
