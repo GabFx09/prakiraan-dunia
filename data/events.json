@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T11:18:45Z",
+ "updatedAt": "2026-11-17T11:33:24Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "The New Voice of Ukraine",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTZMa3FMWE8xNlZmbGI4TXZTUFZaT0pqUVdFOTVDcUtPSER0MzBaaFRzRWk1Sk1ybExPZHMtUWdpdDVYdEM4a2JxVXlIZ1VlaGJPemg4ZFU1ZFhlQXpBSXFubkh5dUZjVjNQemJ5SnhXcm53NVBfMVk1T1pPNkpwVEtYeXFHcy1xZC1EVDJvcTQzWXE4VDFCQUhTbUxwVTljMVRF0gGfAUFVX3lxTE4zRUR0alJrOEZJTjlYNDVwQXVWdWtfTDd6d2IxeWZKV0hSZlRMd2JyMHotMUNZN2V4Vkd3SUswS2J5b1F6Yk1yS2xEc3BnWU5JdW0teFpnOHJteWNVdm0ta0oyalh1LW9fWGJoTS15WEt0UjhCQmpzdEtXVmxzeWhCLWo4VGVpRk9kUV9xUFE1VnFuTGhnRjh6NUZIdlBQcw?oc=5",
    "sources": 6,
-   "recent6h": 5,
-   "score": 8.5,
+   "recent6h": 4,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-16T22:20:30Z",
    "last": "2026-11-17T08:33:01Z",
@@ -54,13 +54,19 @@
    "src": "Travel Tourister",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjl2NmpHNzZYU1JYRzFPck83WjR4akZHRjZMb0d3UTBvTEt3ZkN1dU80Tll3dUdzcmlwZG16bDFyb1FPSDRfWVI1bEtpSDU3RFRPSVltRW9UOG01cXdicUIwMTQyNlZQdmxNLTNETGVpb29zNDh0cTYxa2NfVy1UQ21vQWN2Yk9HNlBCdmxKRTA2UGZsOHdNX0RIWmpXQ25kWmNaSFhfcTREOEtYZ0xOM0ZNczJ0dlRrUXd2Mm0xakhodzNWd2tST3Joc2dhWktDTWpTOHE4d1F1b29OVjY1M2puaw?oc=5",
    "sources": 7,
-   "recent6h": 1,
-   "score": 7.5,
+   "recent6h": 2,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-16T11:50:28Z",
    "last": "2026-11-17T08:25:18Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "United Airlines Outage Resolved: 645 Delays and 25 Cancellations on November 16",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSXBfSzVzRjZNM2lIdVJvUHhkR3NTTFFIRDdLY3RPNWljZm9LaldIcnA5ZmpNWHFSSUFKSnItUFM1YUJ0OENIaWhWbG0zUEVLcWgteDMyM2dFQl84ZUFVNnE5SloycHVJbWlQZzBUYUVfWXZyaU8tT0ZRYjl2YjVJclIwekNvX1duMUNaVmlnWFlOU0ZqanpFSzRxVFZtbk40Y3pMSzdnc1dSNFpVaFNTaFZ3bXNUVXVsUWtldk41czhNbWJGZnYxb1dsX0N2UmdNbjZOd0dSTXlXSmt6aEN5SDN1R0pIWDN3S0RKc3RuelROU05l?oc=5",
+     "t_id": "Pemadaman United Airlines Terselesaikan: 645 Penundaan dan 25 Pembatalan pada 16 November"
+    },
     {
      "t": "FAA Clears Its $875 Million AI System After Ground Stop Grounds 10,000 Flights",
      "src": "Travelers Today",
@@ -78,12 +84,6 @@
      "src": "Odessa American",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMUtpdnNOcE8xd2FIdml5S1JuRUV6M2oxMTBoRFYwb29hbGZ3Y1NjZXlCU2c4ODBpdDZ0S2hIdWF5Wkd5Y0VzU3BfcVB0M3B1V2xkY3paLWE2OFRreXFvUnItaHNtNEdBY1ZrTWNxcXQwdWU1c2haazNMSW1sWV9wMkxOVENvVGJrZkV3VklxVlNYRTNGcFluQ0lBSVJfSEkxNGYzbkRYbDB6ZWgwMzYycE1ybHdzaElMeWZILUlSVWFiQjA2c2I2MGhKYW5XbkZU?oc=5",
      "t_id": "United Airlines mengatakan mereka mengalami pemadaman sistem yang meluas hanya beberapa hari setelah ground stop di seluruh negeri"
-    },
-    {
-     "t": "United Airlines Hit by ‘Widespread System Outage’ Days After the FAA Ground Stop",
-     "src": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUI5MGh4dlNHczNMakNlbkFoMWZ0UFhRMXNuUXpKM3Z2WmdLLXFXRlhleHBxalJsSDg5S2FPM1dXeGRVWXg4cVF2NlBEa3AxZzMzWm5xbUFVbFViWlg1UkttdUl4NkNLTUZWbUVkQ21YaEtQeUdBdjdOaFZrMW5CM0xSMzlqM1NWNGgxblptblJ3S3Z5WGc?oc=5",
-     "t_id": "United Airlines Terkena 'Pemadaman Sistem yang Meluas' Beberapa Hari Setelah Ground Stop FAA"
     }
    ],
    "title_id": "Gangguan Penerbangan AS 17 November: Pemulihan Gangguan Bersatu, Kekacauan FAA & Ucapan Syukur"
@@ -219,6 +219,34 @@
    "title_id": "Koalisi sayap kanan Spanyol bersiap untuk meraih mayoritas menjelang pemilu sela"
   },
   {
+   "id": "indonesia-202611170348-3581",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Ratusan ribu warga Prancis siap turun ke jalan demo biaya hidup",
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMtIBsAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMg?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-17T03:48:00Z",
+   "last": "2026-11-17T04:20:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Ratusan Ribu Warga Prancis Bersiap Demo Besar-besaran pada 17 November, Protes Kenaikan Biaya Hidup",
+     "src": "pantau.com",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdm92QjVrc0Z2eTloUTY2djF6WFpYbG1EWXlVeGVIcGlld3hmTkF5RUxxcHU0U0dFbkxHb1M4b0k2MlhpZkl1Z1QtNHRscjlQOGxIODRocmp5MVlNT05sejlpRUFxRnBmT1B6N1hHaHZmT18tVWlnS0lPOE5SMnczR2w5XzdwOUR0dmdnb1otSGRTNzBLR00zYVhVTm1CbXR5LVAzSFZra1pneVI2ZFl5TzgtYjZjaUFOOVNBNEtoRVFTV1I4R3BqXzVIQWp4MExEUkpKQTZB?oc=5"
+    },
+    {
+     "t": "360.000 Orang Diperkirakan Ikut Demo Protes Biaya Hidup di Prancis",
+     "src": "NTVNews.id",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWFBbmhUamlQQTdwdHNDU0tNc1ZtbDdrQTloU3BlOVZaZWQwdVFFeTFOOENMNzUwbzQzbmNCTEtOclg1Wm5JNHhxS1N0amItMGoxaDNoajE0Qm8yN2tBRjBxRHBrRWQ0UmxxTUtoUWp4aFllZUhMOHV0WGppOHhacFc2Qnd0SERYQ0oza3lRRHNSRng3aVEtbWRvNjlJU21aYjYwMQ?oc=5"
+    }
+   ]
+  },
+  {
    "id": "siber-202611161409-e809",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -250,6 +278,31 @@
    "title_id": "Apakah pemadaman listrik selama 90 hari dimulai pada 17 November? Mengapa rumor yang tidak berdasar menyebar"
   },
   {
+   "id": "siber-202611161959-7b2e",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Widespread service outages at major U.S. banks appear to be over",
+   "src": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-16T19:06:00Z",
+   "last": "2026-11-17T11:24:27Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
+     "t_id": "Amerika mengalami hambatan teknologi karena pemadaman listrik yang melumpuhkan email, penerbangan darat, dan mengganggu bank-bank besar"
+    }
+   ],
+   "title_id": "Gangguan layanan yang meluas di bank-bank besar AS tampaknya telah berakhir"
+  },
+  {
    "id": "siber-202611161906-e38d",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -273,34 +326,7 @@
     }
    ],
    "title_id": "Pelanggan melaporkan pemadaman di Chase, Bank of America dan Wells Fargo"
-  },
-  {
-   "id": "siber-202611161959-7b2e",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Widespread service outages at major U.S. banks appear to be over",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T19:06:00Z",
-   "last": "2026-11-16T19:59:32Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
-     "t_id": "Amerika mengalami hambatan teknologi karena pemadaman listrik yang melumpuhkan email, penerbangan darat, dan mengganggu bank-bank besar"
-    }
-   ],
-   "title_id": "Gangguan layanan yang meluas di bank-bank besar AS tampaknya telah berakhir"
   }
  ],
- "errors": [
-  "indonesia: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
