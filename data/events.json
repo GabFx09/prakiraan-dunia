@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T13:30:46Z",
+ "updatedAt": "2026-11-17T13:45:26Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,13 +11,19 @@
    "src": "Houston Public Media",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT2VMT3FSd3JZS0hHa0YtM2dseGw4Z3lITUlPNExwY09yY2wzamliLW9tbmY2clc5TFhVMC10TmM5eHFyejBNOGV5WTJNRjdVWmpMZlRWdkhUMUEzZm5vUFVLUm96c3B3TU9wd2xCakhlOS1jNFhEcldXZEw0YllNS181TjBuRjBmYkxmVzZhRThicHRBd2sxTmJkSWVBUkRJZ3JHSWNtZDEtNVc5bnJoRVYtcnJKZ2pXWkRST010YVdRY2JPT190Ty1EN1ZrR2MtREZyQkNfMFNhaXRIcTBtNzJvXy13UQ?oc=5",
    "sources": 8,
-   "recent6h": 5,
-   "score": 10.5,
+   "recent6h": 6,
+   "score": 11.0,
    "level": "besar",
    "first": "2026-11-16T22:20:30Z",
    "last": "2026-11-17T10:50:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Russian forces launch large-scale drone attack on western Ukraine",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2REbWFRUnZpVFdoQWRZYVVPNk1oTFBUQ0o3ZUVacExPRU5taHRrZHlEeGFvaWlKNGhNTzBzY2ZMWGc3R0lFMXBpbXh6VTA4RXdhV0NLOTdYTjhCektMVFRFUDFNaDR4SklqVVlDalJxcTJEZFJFQlpOWGF0ckVRVXdCOHZRWmVWbWlmS1lfcXRzTzJmZVpGdnRQQ0lKak55cWfSAZ4BQVVfeXFMT2pyWmFaN1BoRm5SOXJmR1VlTHM0VzFtQTZMOEM1eTExc0pIQ2JRTm03eFVhNFJLR3JtM054emFhR0VPNVVVMndzdl9FOUJGQVh2YlBTWEhWYnpqRVk2ZWdRcVk4dUZ5ZGkyMU1XOS1fMlVFOC1iSEFYanU3VmFyaFRwN0JVWDJya1BxWUlaWUJkbjliTC1lVzR0S01iUnc?oc=5",
+     "t_id": "Pasukan Rusia melancarkan serangan drone skala besar ke Ukraina bagian barat"
+    },
     {
      "t": "Kyiv bridges attacked in Russian missile strikes overnight; Russia says it downed over 2,000 drones",
      "src": "i24NEWS",
@@ -35,12 +41,6 @@
      "src": "The New Voice of Ukraine",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHdYUWRPSnJ4c0pPeHVqYWpuZWktVXdoYnJaTTAzYkJXNFpqdWxPYnp5SUhwZExSbW1wOEh5TEs0LU5sX2JfR09sdlpQSXRqRzVCdmVTM2xSS2w4UUhSUFI3NjczT1VIX0h6SDRXcjF4NUR4Xy1zeHlLc3hIUTNZNGF1aW56TEdYUTNLMGthVFc5cGowYnVkZDRWYVd4djgyTUsxc3BoQjFia054VTA2LUJSU0lJQmNQb3VISV9hOHlQelpZWmRMdHpob9IBxwFBVV95cUxQM2ZnbGRTX3lFdWNwY1Q3YThiOU45Z1hNZTJyUHFiWEx6ZWcxV2FUU3g2VDFnVFpxQjZlQmlvM0REa1h6aWFHUElPWU45TnQwc0ExWmhKTGpJVVVYU0JITFA0TnI4SkNSUnR2dzdRamlrV1JkTUdja19HUGtWZnN0UmVyVlFPeWRFWXMxd2k5UTdTY0ZHLTAxV01rTlVHbUs3X0Z4dFhWX21xem83bFVSd1lxYlA4THZoazBjamwtTHdlcVVPSGZj?oc=5",
      "t_id": "Serangan rudal dan drone Rusia mematikan air dan pemanas di Kyiv"
-    },
-    {
-     "t": "Russian Missile Strikes Hit Two Major Kyiv Bridges",
-     "src": "Arise News",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wYXZqLUM2UVRsRDg1OTlVT081UDc1ODVQUjRhM2JlQXBpckZWdG1vajBSWXhFanVVeENuR3pLZTJaNnplb0xkcUFVb3QzZ2lKanlwR243c2hBc2xBQmpTazBCQzBHVXR4UUtQUEh3TEk5bFhBN2s2NDJnaVA?oc=5",
-     "t_id": "Serangan Rudal Rusia Menghantam Dua Jembatan Besar Kyiv"
     }
    ],
    "title_id": "Ukraina menyerang jembatan utama Rusia dengan drone dan rudal saat serangan udara meningkat"
@@ -53,10 +53,10 @@
    "title": "US Flight Disruptions November 17: United Outage Recovery, FAA Chaos & Thanksgiving",
    "src": "Travel Tourister",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjl2NmpHNzZYU1JYRzFPck83WjR4akZHRjZMb0d3UTBvTEt3ZkN1dU80Tll3dUdzcmlwZG16bDFyb1FPSDRfWVI1bEtpSDU3RFRPSVltRW9UOG01cXdicUIwMTQyNlZQdmxNLTNETGVpb29zNDh0cTYxa2NfVy1UQ21vQWN2Yk9HNlBCdmxKRTA2UGZsOHdNX0RIWmpXQ25kWmNaSFhfcTREOEtYZ0xOM0ZNczJ0dlRrUXd2Mm0xakhodzNWd2tST3Joc2dhWktDTWpTOHE4d1F1b29OVjY1M2puaw?oc=5",
-   "sources": 6,
+   "sources": 5,
    "recent6h": 1,
-   "score": 6.5,
-   "level": "besar",
+   "score": 5.5,
+   "level": "sedang",
    "first": "2026-11-16T13:10:23Z",
    "last": "2026-11-17T08:25:18Z",
    "assets": "Saham maskapai & pariwisata, minyak",
@@ -157,37 +157,6 @@
    "title_id": "Apakah Amerika akan mengalami pemadaman listrik nasional selama 90 hari? Yang benar adalah…"
   },
   {
-   "id": "perang-202611161344-c921",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Ukraine launches biggest drone attack on Russia since war began",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0xfMlFhd1lZcGlEb3k1TGJyUlJGdGJHZDZjbU0xeWRRZDVJeE4wVGJHVUNzTnZ5aFJVZEE2bW8tNjZuODZXS1RnMlFQTkQtQVZtQzF2NmhjNWlzZ1BpVGc1dFZ2QU1oMC0wekZFQnhtWlBJX1VTVXlFTlNtM1JrbDFJaFBKRGVaUnRHZG5UbHNwcDdlX2lWN3ozckVYNVNkc2xmYy1B?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-16T13:44:43Z",
-   "last": "2026-11-17T09:30:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Russian forces launch large-scale drone attack on western Ukraine",
-     "src": "The New Voice of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2REbWFRUnZpVFdoQWRZYVVPNk1oTFBUQ0o3ZUVacExPRU5taHRrZHlEeGFvaWlKNGhNTzBzY2ZMWGc3R0lFMXBpbXh6VTA4RXdhV0NLOTdYTjhCektMVFRFUDFNaDR4SklqVVlDalJxcTJEZFJFQlpOWGF0ckVRVXdCOHZRWmVWbWlmS1lfcXRzTzJmZVpGdnRQQ0lKak55cWfSAZ4BQVVfeXFMT2pyWmFaN1BoRm5SOXJmR1VlTHM0VzFtQTZMOEM1eTExc0pIQ2JRTm03eFVhNFJLR3JtM054emFhR0VPNVVVMndzdl9FOUJGQVh2YlBTWEhWYnpqRVk2ZWdRcVk4dUZ5ZGkyMU1XOS1fMlVFOC1iSEFYanU3VmFyaFRwN0JVWDJya1BxWUlaWUJkbjliTC1lVzR0S01iUnc?oc=5",
-     "t_id": "Pasukan Rusia melancarkan serangan drone skala besar ke Ukraina bagian barat"
-    },
-    {
-     "t": "Ukraine outshoots Russia in cross-border drone war for 1st time, March data suggests",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdvZHNQTkx1QWcyXzJicW9TMXA1aXJ0d2FGblJ5RTVCNUdDSmlicTNMVWk5MTR1dkxfZmdnbFQtN0N5UlVoTllwaXoxZ25OVHJGS0oxcGoxQkpMM0EwbE9TU25QY2pGdktkY1BZT0VDaEg5STdqeU9KVFN2UTBlNS16MEpNZGNFdVFrWURnZlZRYnUyemRkQ1lQZlJqQlpYZWFSZXdDY9IBrAFBVV95cUxOeDNvQUhTNGpnbFQzR1ZONi1kcGJ5VDJGV0tEVWpHUFFDSDJHcUwwejRHSG5JUnMxOGw2X3VEWFdqUUhpLVEyeENvR3VvNkdfbUJVcFpiM0puT19PbmNkSEVaalUwUGpkT0VpRUJIdkY3NWdDVU1kZGJVaXpTOFB6UTdvWXZFLTNqa3JPcy1KeDRZZTBoMXgtR204Q2phSlBESm94SFRXZ2xJbG9I?oc=5",
-     "t_id": "Ukraina mengalahkan Rusia dalam perang drone lintas batas untuk pertama kalinya, menurut data bulan Maret"
-    }
-   ],
-   "title_id": "Ukraina melancarkan serangan drone terbesar terhadap Rusia sejak perang dimulai"
-  },
-  {
    "id": "indonesia-202611170348-3581",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -245,6 +214,31 @@
     }
    ],
    "title_id": "6 bulan wabah Ebola di Kongo: Perang, kelaparan, penyakit, dan keuntungan"
+  },
+  {
+   "id": "siber-202611161959-7b2e",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Widespread service outages at major U.S. banks appear to be over",
+   "src": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-16T19:06:00Z",
+   "last": "2026-11-17T13:33:30Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
+     "t_id": "Amerika mengalami hambatan teknologi karena pemadaman listrik yang melumpuhkan email, penerbangan darat, dan mengganggu bank-bank besar"
+    }
+   ],
+   "title_id": "Gangguan layanan yang meluas di bank-bank besar AS tampaknya telah berakhir"
   },
   {
    "id": "transportasi-202611162203-ac47",
@@ -319,56 +313,6 @@
     }
    ],
    "title_id": "Jet yang dilarang terbang, pemadaman Microsoft, kekacauan AI: Bisakah semuanya dirusak?"
-  },
-  {
-   "id": "siber-202611161906-e38d",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Customers report outages at Chase, Bank of America and Wells Fargo",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vcTZMYnFPSjNFNmFZM2ZqNHEtc2EzVVdneTc3dWcwUkt4ekVweFl5OWlMbnd4NGhxUUpmT05NazI3NU5QT0R4UW9UQy1tMTdUWE9qNzVTTFhVLUdnZFE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T19:06:02Z",
-   "last": "2026-11-16T23:15:21Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Chase Bank Blames Outages On ‘Software Bug’",
-     "src": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUNHRWlIcjNZR3l0eERtcnliME9IUEUta28wN2VSTlRsM05HUnRlRjJjM3JLS2RJaUl6VVVJcEtJT0NQNW55REpHdjM0WFNyNFczMXhDdFZ6eVRIeGt1eFBvYV9aaTIzSEZBLU4tS3NWTnNrZFE5dnpyanEzU2FFRE5kQW5fU0FjSFh2UlIzZkdCa2hJbTdmTHVOS2ZmVHF5X0E0YVlNc2I2YTFCSU9aZVJRYU9ZdngtLXR0QU9RTzBYOTIzSXVBOEtvb05uNThw?oc=5",
-     "t_id": "Chase Bank Menyalahkan Pemadaman Pada 'Bug Perangkat Lunak'"
-    }
-   ],
-   "title_id": "Pelanggan melaporkan pemadaman di Chase, Bank of America dan Wells Fargo"
-  },
-  {
-   "id": "siber-202611161959-7b2e",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Widespread service outages at major U.S. banks appear to be over",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T19:06:00Z",
-   "last": "2026-11-16T19:59:32Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
-     "t_id": "Amerika mengalami hambatan teknologi karena pemadaman listrik yang melumpuhkan email, penerbangan darat, dan mengganggu bank-bank besar"
-    }
-   ],
-   "title_id": "Gangguan layanan yang meluas di bank-bank besar AS tampaknya telah berakhir"
   }
  ],
  "errors": []
