@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T18:07:55Z",
+ "updatedAt": "2026-11-17T18:22:36Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -324,31 +324,6 @@
    "title_id": "Wabah Ebola tidak dapat dikendalikan karena perang dan kelaparan memicu krisis dalam enam bulan terakhir"
   },
   {
-   "id": "siber-202611170021-e809",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Is 90-day blackout beginning Nov. 17? Why unfounded rumor is spreading",
-   "src": "Snopes",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DVHFGenpOSDNyQlZWckxTSk5EMkw1MzdNMC0yWE0xVXFWemFsNHhDSnd4UG5MUUpDWFp0WVExMWk1SF8wMlduSW5JUjJZVFBJS0FSVW9CY0YwUHNrSWh4WG9INE03TjVmd0g0a1NCa2dGb042?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T00:21:00Z",
-   "last": "2026-11-17T01:03:31Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "No evidence that a US blackout is expected Nov. 17",
-     "src": "WBAL-TV",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QNzZEeFJIWk9oNDRvcm9hVFctR05meVJsc1BQU2pqajFWZVpjdWpfOHJVVUc5OEVxOGJHZVdjcTIwbkJ6V1lqdFFhRE9kS2cteGZKbjU3SEUxUjV1ZFpVMFV4OTRINWZnUlI1WS1LbTczalNBczBPUGF6WjFYUQ?oc=5",
-     "t_id": "Tidak ada bukti bahwa pemadaman listrik di Amerika diperkirakan akan terjadi pada 17 November"
-    }
-   ],
-   "title_id": "Apakah pemadaman listrik selama 90 hari dimulai pada 17 November? Mengapa rumor yang tidak berdasar menyebar"
-  },
-  {
    "id": "transportasi-202611162318-6b15",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -399,7 +374,5 @@
    "title_id": "Gangguan layanan yang meluas di bank-bank besar AS tampaknya telah berakhir"
   }
  ],
- "errors": [
-  "keuangan: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
