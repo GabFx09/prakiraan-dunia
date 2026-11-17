@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T14:44:01Z",
+ "updatedAt": "2026-11-17T14:58:43Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,9 +53,9 @@
    "title": "US Flight Disruptions November 17: United Outage Recovery, FAA Chaos & Thanksgiving",
    "src": "Travel Tourister",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjl2NmpHNzZYU1JYRzFPck83WjR4akZHRjZMb0d3UTBvTEt3ZkN1dU80Tll3dUdzcmlwZG16bDFyb1FPSDRfWVI1bEtpSDU3RFRPSVltRW9UOG01cXdicUIwMTQyNlZQdmxNLTNETGVpb29zNDh0cTYxa2NfVy1UQ21vQWN2Yk9HNlBCdmxKRTA2UGZsOHdNX0RIWmpXQ25kWmNaSFhfcTREOEtYZ0xOM0ZNczJ0dlRrUXd2Mm0xakhodzNWd2tST3Joc2dhWktDTWpTOHE4d1F1b29OVjY1M2puaw?oc=5",
-   "sources": 7,
+   "sources": 6,
    "recent6h": 0,
-   "score": 7.0,
+   "score": 6.0,
    "level": "besar",
    "first": "2026-11-16T13:10:23Z",
    "last": "2026-11-17T08:25:18Z",
@@ -157,44 +157,13 @@
    "title_id": "Pasukan Rusia melancarkan serangan drone skala besar ke Ukraina bagian barat"
   },
   {
-   "id": "perang-202611170302-24e4",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russia halts all Crimean Bridge traffic after second air strike in two days",
-   "src": "AeroTime",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbG5IMWtCdmJJSndIbFR3ZGdjdWNndERYZmk0S3hrekI5c1ZPaUZJVW1hSkJkbWhoZ2oxdDdLX3JkczRFNHFsMGtrZ25nSDJ1SFVzQTZnUlUwcTJIRFdTMzlFYVhHMmtGNWhsak9nelpXWTZRaHI0amFib1Y3bHFQUnFXYlFJVGU1SjVOUjVCMHBzcEFv0gGaAUFVX3lxTE9BVm1mZzl0RFVySkpwcjRfdW1YaGQ0cVZULUl2UGYzX3pIWkdDNGh6T3Jpd09fM1ZENVpGUXZwWDNNN3JvOWstSnFUZ3FMc3lvREFkRnMtMWpQSHBPUktOa1V3NHM0emN0Njlwd2RMV0dVZno3S0NZQVdsU2dJMHQzLXRGQkpBMUwxUXVzSVRRQTg2RHhPWW1jOEE?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-17T03:02:40Z",
-   "last": "2026-11-17T08:40:05Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Crimean Bridge Arch Collapses Into Sea After Fresh Ukrainian Missile Strike",
-     "src": "Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaVFxZjhIc1RNSEhxaXZtTWR5bkQzVmxjQXdlUmFtMUx0QngtX3JTNHVtalBXUkFNZ2tJODh0dzhRR3UtejBhTHNkSQ?oc=5",
-     "t_id": "Lengkungan Jembatan Krimea Runtuh Ke Laut Setelah Serangan Rudal Ukraina Baru"
-    },
-    {
-     "t": "Ukrainian drone and missile attack reported on Crimean Bridge – Video",
-     "src": "cedarnews.net",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWtVYkg1bGdZU21MUE5IWl9HMlpSQTJqV3lZZDRLWXdtZnkwYWxXaHAwUFFpWnZfcnh2VE9kY3pqc0wtVkJpMzJIa0ZqMFFsMWhkSG9nbzhhUUV2QlRKdjl1YmlPQU50c1lvRkJieTFCc0dfUWFQYUh6a1d2ODMxcm9RMnlYekVnTEFfN0pzTjZ5YnJPOVNnSzVEUExxX2xwUzFvQTBaMm5YRUE2?oc=5",
-     "t_id": "Serangan drone dan rudal Ukraina dilaporkan di Jembatan Krimea – Video"
-    }
-   ],
-   "title_id": "Rusia menghentikan semua lalu lintas Jembatan Krimea setelah serangan udara kedua dalam dua hari"
-  },
-  {
    "id": "indonesia-202611170348-3581",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
    "title": "Ratusan ribu warga Prancis siap turun ke jalan demo biaya hidup",
    "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTRmVjNlQ1NNLU42VjVxaF8xWG5vSnF3ZGkxbjNRRlpFbXJmREJUaWFKSUVvT05oYlZOS1BMTmVSb0hzS2FnU2p1bENoZ0FxdEt2Z0pCVmtCNGtHbHVYbmU0MmlUeHRUeDd1OWlpNEJDbHNNbHltMUt3LWNmY01BWVFYWnkxRUFVRnJ0Qk1xNzdtcDBhLVd3ckd2MDJtMXgwX2hUbVNVYzJCNldMTWc3RHg1SdIBswFBVV95cUxPcTRmVjNlQ1NNLU42VjVxaF8xWG5vSnF3ZGkxbjNRRlpFbXJmREJUaWFKSUVvT05oYlZOS1BMTmVSb0hzS2FnU2p1bENoZ0FxdEt2Z0pCVmtCNGtHbHVYbmU0MmlUeHRUeDd1OWlpNEJDbHNNbHltMUt3LWNmY01BWVFYWnkxRUFVRnJ0Qk1xNzdtcDBhLVd3ckd2MDJtMXgwX2hUbVNVYzJCNldMTWc3RHg1SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMtIBsAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMg?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
@@ -216,35 +185,29 @@
    ]
   },
   {
-   "id": "kesehatan-202611161254-ef0d",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "siber-202611161959-7b2e",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "6 months of the Ebola outbreak in the Congo: War, hunger, disease and profit",
-   "src": "World Socialist Web Site",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzQWZCS1FYVjU3ZnNJQzZkd2d3bWoyVUIwOV9MMTgwVWtfaHFST1p5WFQzZWhfMDU2b093Y1pvZW9nejZvRmRPeW0wTnJMOEY0SzVLU2hBQWFfQUFzT09VMFVleGJOUVVr?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-16T12:54:10Z",
-   "last": "2026-11-17T04:17:45Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "title": "Widespread service outages at major U.S. banks appear to be over",
+   "src": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-16T19:06:00Z",
+   "last": "2026-11-17T14:44:16Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Disease control chief urges release of Ebola funds as Congo outbreak remains uncontrolled",
-     "src": "London Daily News",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTBSbm03b3FzelYwaWpLS3VTamMwdVJhMkp6QXZ4OFByYTV1Y2ZYN0JFR2NvWlR4Wkh6VnVGLTV5VUg1UU0ySmNxOVdabnVPV1h0Ymt3dVhaNU42a09lTHlVQTJ4TFNiWUI2emhXQU4tQmJLaVVCUWlBZTBkTU1ROGZVT3NsdE0ySHM5QmVxNkpVZzVMOFZPWC1oRTViLXJ5NkhPOXpFYlRvZUswb0lad2lvWmo5U2l4UzVn?oc=5",
-     "t_id": "Kepala Pengendalian Penyakit mendesak pencairan dana Ebola karena wabah di Kongo masih belum terkendali"
-    },
-    {
-     "t": "Congo Ebola Outbreak Still Uncontained After Six Months",
-     "src": "Nature World News",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMnVHeU9obkxZTVBsMXh0UGt1R1RIV19oeU9GdkZZc1dwN211bTZOQjFoTjJ6c18tX3BOdGVzRGs3cFhYQ2hVay1YZi13ald2UWhEb291aE5abkR0ZFJqaE4tRGh6Vm9ENXBrNlQ2cEROckJGVXFRaWZNY2x2Nnh4X2UwaTZiQ1IzSndmVlhtZDl2R29sbmxNX3NxS3g1S1hQWm9CdGx1RS1wcGFRampqTGFUYWNPbWV0R3YxS0hSR2g?oc=5",
-     "t_id": "Wabah Ebola di Kongo Masih Belum Dapat Dibendung Setelah Enam Bulan"
+     "t": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
+     "t_id": "Amerika mengalami hambatan teknologi karena pemadaman listrik yang melumpuhkan email, penerbangan darat, dan mengganggu bank-bank besar"
     }
    ],
-   "title_id": "6 bulan wabah Ebola di Kongo: Perang, kelaparan, penyakit, dan keuntungan"
+   "title_id": "Gangguan layanan yang meluas di bank-bank besar AS tampaknya telah berakhir"
   },
   {
    "id": "transportasi-202611162203-ac47",
@@ -297,57 +260,105 @@
    "title_id": "Wabah Ebola di Kongo: Bagaimana Ketakutan dan Ketidakpercayaan Mendorong Penyebaran Masyarakat"
   },
   {
-   "id": "siber-202611162356-128e",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "politik-202611170547-fa66",
+   "cat": "politik",
+   "label": "Guncangan politik",
    "lang": "en",
-   "title": "How worried should you be over Microsoft, FAA and Chase outages?",
-   "src": "The Independent",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1piVFFicUx2OFdWa1N6aVJpUF9VY1hRalRWY3hmOUIwRjhfUkhPdmtIYkpnZmhTUzR5aEJrUU51MG1hY1NybVBWbTVJellaQ2ZKWVZQcjhSc005a2dZdGt3dHpxeWZMQnhnZTFlYWFyTnhOeFF4c2FFLW1rNzNvQ0x3MVZzNXloQzY2QTRsTmxzbjZRMUxBbUcxQQ?oc=5",
+   "title": "Spanish hard right coalition poised for majority as snap election nears",
+   "src": "EUalive",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeU1HMUZ2cjN2TWtlV29KRUZUVlJnNmtsREE1RW1oV240UTkwWjU2WGktcUpPRE9pMW1Kbzl1VjVOTkZsX2gydS1QNmV6dTFkOUJXSXp3aExIQjZ3Qk1tQTYwTGpybnhpNmpzY0RmVEV1RVpTNzhsVVQ1ZlhDcVJlRmk5WElSVjgtRWROWllyN2dwQ3dwQUFv?oc=5",
    "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
+   "recent6h": 1,
+   "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-16T23:56:00Z",
-   "last": "2026-11-17T01:18:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "first": "2026-11-17T05:47:08Z",
+   "last": "2026-11-17T09:43:52Z",
+   "assets": "Mata uang & obligasi negara terkait",
    "more": [
     {
-     "t": "Why Chase, Microsoft and United are facing crippling outages — and why it’s all likely to get worse",
-     "src": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWVYQ3Bsa3JJQmI3cDBSbUlVeDdabnItdGZacVNpc2hnb1V2T3dWUmlDb3FkU04yaDVPQ1lOZm55VkZNRllfQ1E3NXE5aDVDMnM3bGhHWTNGeTZRam1QNzJxSFhaQzFMVmF4Y3hKVUVfd0tUaUxMWnhwVU9GeU16eERLSl9aRkdqamYxVjBqcUtpTkhEd2ROY0JfTUFRUjNIUnY2VVBwV1BmQnFrMjlQeUJQNmloakNaMG5RaVkxRQ?oc=5",
-     "t_id": "Mengapa Chase, Microsoft, dan United menghadapi pemadaman listrik yang melumpuhkan — dan mengapa pemadaman listrik bisa menjadi lebih buruk"
+     "t": "Spain’s far right eyes power as Sánchez gambles on snap election",
+     "src": "Philenews",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4azJNWmpROFVzcGpzbnRBVWlkZjg3S3JXNWxzZElORklhSWZEcmR6Q2dpRmtSTXVibmVMQnlSQks2RnZ3MUoxS19HLWhOV0pHM2NuYzMyN2VfZDhYaG1KR00wdGcyRXdDYVFsRkxoX3VvVWdCRG9iQzM0UGQ?oc=5",
+     "t_id": "Kelompok sayap kanan Spanyol mengincar kekuatan saat Sánchez bertaruh pada pemilu sela"
     }
    ],
-   "title_id": "Seberapa khawatirkah Anda terhadap pemadaman Microsoft, FAA, dan Chase?"
+   "title_id": "Koalisi sayap kanan Spanyol bersiap untuk meraih mayoritas menjelang pemilu sela"
   },
   {
-   "id": "siber-202611161959-7b2e",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "perang-202611170302-24e4",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Widespread service outages at major U.S. banks appear to be over",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
+   "title": "Crimean Bridge Arch Collapses Into Sea After Fresh Ukrainian Missile Strike",
+   "src": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaVFxZjhIc1RNSEhxaXZtTWR5bkQzVmxjQXdlUmFtMUx0QngtX3JTNHVtalBXUkFNZ2tJODh0dzhRR3UtejBhTHNkSQ?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-16T19:06:00Z",
-   "last": "2026-11-16T19:59:32Z",
+   "first": "2026-11-17T03:02:40Z",
+   "last": "2026-11-17T07:57:04Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Ukrainian drone and missile attack reported on Crimean Bridge – Video",
+     "src": "cedarnews.net",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWtVYkg1bGdZU21MUE5IWl9HMlpSQTJqV3lZZDRLWXdtZnkwYWxXaHAwUFFpWnZfcnh2VE9kY3pqc0wtVkJpMzJIa0ZqMFFsMWhkSG9nbzhhUUV2QlRKdjl1YmlPQU50c1lvRkJieTFCc0dfUWFQYUh6a1d2ODMxcm9RMnlYekVnTEFfN0pzTjZ5YnJPOVNnSzVEUExxX2xwUzFvQTBaMm5YRUE2?oc=5",
+     "t_id": "Serangan drone dan rudal Ukraina dilaporkan di Jembatan Krimea – Video"
+    }
+   ],
+   "title_id": "Lengkungan Jembatan Krimea Runtuh Ke Laut Setelah Serangan Rudal Ukraina Baru"
+  },
+  {
+   "id": "kesehatan-202611161254-ef0d",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "6 months of the Ebola outbreak in the Congo: War, hunger, disease and profit",
+   "src": "World Socialist Web Site",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzQWZCS1FYVjU3ZnNJQzZkd2d3bWoyVUIwOV9MMTgwVWtfaHFST1p5WFQzZWhfMDU2b093Y1pvZW9nejZvRmRPeW0wTnJMOEY0SzVLU2hBQWFfQUFzT09VMFVleGJOUVVr?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-16T12:54:10Z",
+   "last": "2026-11-17T04:17:45Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Disease control chief urges release of Ebola funds as Congo outbreak remains uncontrolled",
+     "src": "London Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTBSbm03b3FzelYwaWpLS3VTamMwdVJhMkp6QXZ4OFByYTV1Y2ZYN0JFR2NvWlR4Wkh6VnVGLTV5VUg1UU0ySmNxOVdabnVPV1h0Ymt3dVhaNU42a09lTHlVQTJ4TFNiWUI2emhXQU4tQmJLaVVCUWlBZTBkTU1ROGZVT3NsdE0ySHM5QmVxNkpVZzVMOFZPWC1oRTViLXJ5NkhPOXpFYlRvZUswb0lad2lvWmo5U2l4UzVn?oc=5",
+     "t_id": "Kepala Pengendalian Penyakit mendesak pencairan dana Ebola karena wabah di Kongo masih belum terkendali"
+    }
+   ],
+   "title_id": "6 bulan wabah Ebola di Kongo: Perang, kelaparan, penyakit, dan keuntungan"
+  },
+  {
+   "id": "siber-202611161906-e38d",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Customers report outages at Chase, Bank of America and Wells Fargo",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vcTZMYnFPSjNFNmFZM2ZqNHEtc2EzVVdneTc3dWcwUkt4ekVweFl5OWlMbnd4NGhxUUpmT05NazI3NU5QT0R4UW9UQy1tMTdUWE9qNzVTTFhVLUdnZFE?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-16T19:06:02Z",
+   "last": "2026-11-16T23:15:21Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
-     "t_id": "Amerika mengalami hambatan teknologi karena pemadaman listrik yang melumpuhkan email, penerbangan darat, dan mengganggu bank-bank besar"
+     "t": "Chase Bank Blames Outages On ‘Software Bug’",
+     "src": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUNHRWlIcjNZR3l0eERtcnliME9IUEUta28wN2VSTlRsM05HUnRlRjJjM3JLS2RJaUl6VVVJcEtJT0NQNW55REpHdjM0WFNyNFczMXhDdFZ6eVRIeGt1eFBvYV9aaTIzSEZBLU4tS3NWTnNrZFE5dnpyanEzU2FFRE5kQW5fU0FjSFh2UlIzZkdCa2hJbTdmTHVOS2ZmVHF5X0E0YVlNc2I2YTFCSU9aZVJRYU9ZdngtLXR0QU9RTzBYOTIzSXVBOEtvb05uNThw?oc=5",
+     "t_id": "Chase Bank Menyalahkan Pemadaman Pada 'Bug Perangkat Lunak'"
     }
    ],
-   "title_id": "Gangguan layanan yang meluas di bank-bank besar AS tampaknya telah berakhir"
+   "title_id": "Pelanggan melaporkan pemadaman di Chase, Bank of America dan Wells Fargo"
   }
  ],
- "errors": [
-  "politik: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
