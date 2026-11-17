@@ -579,6 +579,17 @@
    "ihsg": 5299.769,
    "usdidr": 18248.0,
    "ust10": 5.121
+  },
+  {
+   "t": "2026-11-17T09:58:21Z",
+   "risk": 80,
+   "btc": 64335.6,
+   "gold": 3867.0,
+   "brent": 92.78,
+   "spx": 7416.59,
+   "ihsg": 5304.755,
+   "usdidr": 18240.0,
+   "ust10": 5.121
   }
  ],
  "horizons": [
@@ -1136,52 +1147,52 @@
   },
   {
    "c": "neg",
-   "d": "Turun 0,6%, tetap di atas 5%",
+   "d": "Turun 0,6% hari ini",
    "h": "ust10",
    "k": "Obligasi AS 10 thn",
    "v": "5,12%"
   },
   {
    "c": "neg",
-   "d": "Turun 0,6% di tengah isu Hormuz",
+   "d": "Naik 0,4%, isu Hormuz berlanjut",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$91,92"
+   "v": "$92,78"
   },
   {
    "c": "neg",
-   "d": "Naik 0,6% dari terendah setahun",
+   "d": "Naik 0,4% hari ini",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.877"
+   "v": "$3.867"
   },
   {
    "c": "neg",
-   "d": "Turun 1,3%, tertekan saham AI",
+   "d": "Turun 0,8% hari ini",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$64.476"
+   "v": "$64.336"
   },
   {
    "c": "neg",
-   "d": "Turun 1,9%, saham AI tertekan",
+   "d": "Turun 1,9% hari ini",
    "h": "spx",
    "k": "S&P 500",
    "v": "7.417"
   },
   {
    "c": "neg",
-   "d": "Turun 0,4% jelang RDG BI",
+   "d": "Turun 0,3% hari ini",
    "h": "ihsg",
    "k": "IHSG",
-   "v": "5.300"
+   "v": "5.305"
   },
   {
    "c": "neg",
-   "d": "Rupiah melemah 0,6%, dekat rekor",
+   "d": "Naik 0,6% hari ini",
    "h": "usdidr",
    "k": "USD/IDR",
-   "v": "18.248"
+   "v": "18.240"
   },
   {
    "c": "neu",
@@ -1194,7 +1205,7 @@
  "regimeTitle": "Stagflasi, risiko tinggi",
  "risk": 80,
  "riskNote": "Risiko tinggi: Hormuz belum aman, imbal hasil AS di atas 5%, dan rupiah dekat rekor terlemah sekitar 18.250.",
- "updatedAt": "2026-11-17T07:00:00Z",
+ "updatedAt": "2026-11-17T09:58:21Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1512,11 +1523,11 @@
  "brief": {
   "date": "2026-11-17",
   "points": [
-   "Risiko tetap tinggi di 80/100: Iran mengklaim tanker terkena ranjau di Selat Hormuz, namun belum terverifikasi independen; Brent sekitar $91,9.",
-   "Wall Street anjlok (S&P 500 7.417, -1,9%) jelang laporan Nvidia hari ini waktu AS; saham teknologi Asia diperkirakan melemah.",
-   "Rupiah sekitar 18.248 per dolar AS, dekat rekor terlemah; IHSG sekitar 5.300. UST 10 tahun 5,12%, emas $3.877, Bitcoin sekitar $64.500.",
-   "RDG BI selesai Rabu 18 November: mayoritas ekonom memperkirakan BI-Rate tetap 5,75%, tetapi sebagian melihat kenaikan; pasar juga memperkirakan Fed menaikkan bunga di Desember.",
-   "Pantau: laporan Nvidia (18 Nov dini hari WIB), BI-Rate (18 Nov), kabar Hormuz, dan rapat OPEC+ 29 November."
+   "Risiko tetap tinggi di 80/100: klaim Iran soal tanker terkena ranjau di Selat Hormuz belum terverifikasi independen; Brent sekitar $92,8.",
+   "Perang Rusia–Ukraina memanas: serangan rudal ke jembatan Kyiv dan serangan udara ke Jembatan Krimea; dampak langsung ke pasar masih terbatas.",
+   "Rupiah sekitar 18.240 per dolar AS, dekat rekor terlemah; IHSG sekitar 5.305. UST 10 tahun 5,12%, emas $3.867, Bitcoin sekitar $64.300.",
+   "RDG BI berakhir Rabu 18 November: pasar terbelah antara BI-Rate tetap 5,75% atau naik ke 6%; Fed juga diperkirakan menaikkan bunga di Desember.",
+   "Pantau: laporan Nvidia (18 Nov dini hari WIB), keputusan BI-Rate, kabar Hormuz, dan rapat OPEC+ 29 November."
   ]
  },
  "calendar": [
@@ -1646,12 +1657,24 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGdlaU81eVpoNjFGUkxoUllOSXNyWDJzRzFGWEE2NVZIQ090NHpLYXlsV3V0WFh0azFlNV9NLWl5Z0dPaks1RFVhS3BFbEJIaW9HUElBczdwYU9wNkgwczZ0c2h1NUdXa05kY08xbEYzSGRBTzNNbnJvY1ZlTFUzREFzYTE1WUZ0RG9nX3lKX21xZGhvQ0xUQ1BoNnpLRjBPUnZleVVUcw?oc=5"
   },
   {
+   "t": "Rusia serang jembatan Kyiv; Jembatan Krimea ditutup setelah serangan udara kedua",
+   "what": "Rudal Rusia menghantam jembatan di Kyiv dan Rusia mengklaim menjatuhkan lebih dari 2.000 drone, sementara lalu lintas Jembatan Krimea dihentikan setelah serangan udara kedua dalam dua hari. Dilaporkan banyak media.",
+   "impact": "Eskalasi perang menambah risiko geopolitik; minyak, emas dan gandum cenderung sensitif, dampak langsung ke rupiah relatif kecil.",
+   "assets": "Minyak, emas, gandum",
+   "sev": "sedang",
+   "status": "berlangsung",
+   "cat": "perang",
+   "time": "2026-11-16T22:20:30Z",
+   "src": "i24NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcGZ5MzZ4OWxSUXgzQVR6VjBWZVNrQnpRb3hGS0thVWdLQS1qTlMtZXg1aDZyY0FpV0VSU2haRDkwQXhud3c0eTFGQllXZ3NvWVBBWXBkSHFMelVMQ1lKVTdNcWw4Yy05dXVNbHpoaFNJYUxveTVBUjdkbVZuV19VMW5UYTJVa0R5SkhVekJCUUhJVm1UanRpSGRrNXFYMnkyZFYxY3dNUjJhLTV5R29ZTFhsTXU0LVVkZzVZWk94OGhETXpUNldqeklDaExPNGpRY2JacTZnVklsQnhUVG00V0lMNmRjR2VpeFFZRHV5S3FlVjRvTENJYm1Xbw?oc=5"
+  },
+  {
    "t": "Sejumlah bank besar AS alami gangguan layanan luas",
    "what": "Beberapa bank besar di AS, termasuk transaksi Chase, dilaporkan terganggu layanannya; penyebab belum dijelaskan resmi dan belum ada indikasi serangan siber yang dikonfirmasi.",
    "impact": "Dampak pasar kecil jika gangguan cepat pulih; perlu dipantau bila berlanjut.",
    "assets": "Saham bank AS, dolar",
    "sev": "rendah",
-   "status": "berlangsung",
+   "status": "mereda",
    "cat": "siber",
    "time": "2026-11-16T18:38:00Z",
    "src": "CBS News",
