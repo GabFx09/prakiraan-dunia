@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T19:21:20Z",
+ "updatedAt": "2026-11-17T19:36:00Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -89,6 +89,37 @@
    "title_id": "Gangguan Penerbangan AS 17 November: Pemulihan Gangguan Bersatu, Kekacauan FAA & Ucapan Syukur"
   },
   {
+   "id": "siber-202611171550-a0f9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "NSA's highly classified communications network disrupted by widespread outage",
+   "src": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDLSAa4BQVVfeXFMT0lwZjRuaUlFN0hObHBJdTYwRjQ2NnpDaGhLdTd0bUJMMzZoUVZ5NjljcGJRZ053dHhpdUlBS3VpcnpCSGZYNC04akllRndxOWlvYk1JSHZGMF9US3JPekN2dGl4YXRYdy1wLVcxaHJXQ3NwOExJS29iMGpxaUVaM2JDNGxiSmdKNi1hSlU4bkx2Z3F6Sk9tTGdFdUhFeDF5TUs0ZktpMUM5WUN6VHdB?oc=5",
+   "sources": 3,
+   "recent6h": 3,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-17T15:50:25Z",
+   "last": "2026-11-17T16:57:50Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "NSA's Top-Secret Communications Network Down Amid Nationwide Outages",
+     "src": "TMZ",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUSm14UUtNUDNJZVp0cGtKV0FsTkg3N3VEeFdOTTJ3SlVTek84MjJNWWRZMkppTHR4YmFHRlpLMlQ4UlBlckdIZm8yUUFFMGFzaExLYVdZb3prazVoNFVwV3dMR1o3UEdXclJwVG5rYzZTeGNCWVNSLTFBdElJblZn?oc=5",
+     "t_id": "Jaringan Komunikasi Rahasia NSA Mati Di Tengah Pemadaman Nasional"
+    },
+    {
+     "t": "Major outage hits NSA's secret communications network",
+     "src": "Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRldrYTh2NzJrQU9DeVJPQVAtT1VRMG92LTBheVpXZnVSZ0pibjdTeGNSNmU0UlBFaWZ5eFlEY19OT21MZ0xtczV2NHkzOUxwTUZLZjVqZVhOaGcxWjFQZ0JOMHpCaGFWRTQzM3ZYYmpXb1BrWWpWVzRvcXNHZmkzMXBVVEsxaS1tZjFocFAzVGxHRTdnVEtVV2pXMmliVzVQbkHSAbQBQVVfeXFMTVM1ckFHb3VqVjh5SEFLSl8wZnozR01BWWN4QmpfX2otTTYzQUFvMmx2RlhyTGMwRnBvUzIzcFRFNGxEbFkxekZrVWVPWUJJVzRVTVJzbEdzZ2Y2ZnVOdWVVRXd3S2hpQVBkR19XWEY1ZFdtclZSc2I3UDQ2alRmS3FlczFpMUx0Tm95bGlzLWlDNjZ1M3BfRnNFWHNvRFNhMTEzZTZ1UTlFMFU4Y01ZZ1prZERk?oc=5",
+     "t_id": "Pemadaman besar-besaran melanda jaringan komunikasi rahasia NSA"
+    }
+   ],
+   "title_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
+  },
+  {
    "id": "perang-202611170302-24e4",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -118,87 +149,6 @@
     }
    ],
    "title_id": "Ukraina Menghancurkan Rentang Jalan Jembatan Kerch dalam Serangan Drone dan Rudal Besar"
-  },
-  {
-   "id": "politik-202611170547-3f58",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Spain votes first: What its snap election could mean for Europe and the United States",
-   "src": "Atlantic Council",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTFYOGNIb1k0Z3BYUGJJRTZmb2JxdlJ5VmJQV2ZiVFU1TkJDeXBpRnR6TkxNd3lnckNwNWhsbDNNbHQ5UEtEekhVYV9BbkoxTk5MQ3RlRmlET1g4VjFrUGhkNkY2WWFQXzVkeE04elp6THRjVjFwbERWRHpYY0VtVG1YekpnMU8tc3h0VGNrc0J1YWc5XzVPc0dEMXpZdENxSkNPT1ZaV0J4cWRBeEs1Ujd2YTNrcG8wbXdORVpSUE5sTExMLU84?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-17T05:47:08Z",
-   "last": "2026-11-17T15:04:28Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Spanish hard right coalition poised for majority as snap election nears",
-     "src": "EUalive",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeU1HMUZ2cjN2TWtlV29KRUZUVlJnNmtsREE1RW1oV240UTkwWjU2WGktcUpPRE9pMW1Kbzl1VjVOTkZsX2gydS1QNmV6dTFkOUJXSXp3aExIQjZ3Qk1tQTYwTGpybnhpNmpzY0RmVEV1RVpTNzhsVVQ1ZlhDcVJlRmk5WElSVjgtRWROWllyN2dwQ3dwQUFv?oc=5",
-     "t_id": "Koalisi sayap kanan Spanyol bersiap untuk meraih mayoritas menjelang pemilu sela"
-    },
-    {
-     "t": "Spain’s far right eyes power as Sánchez gambles on snap election",
-     "src": "Philenews",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4azJNWmpROFVzcGpzbnRBVWlkZjg3S3JXNWxzZElORklhSWZEcmR6Q2dpRmtSTXVibmVMQnlSQks2RnZ3MUoxS19HLWhOV0pHM2NuYzMyN2VfZDhYaG1KR00wdGcyRXdDYVFsRkxoX3VvVWdCRG9iQzM0UGQ?oc=5",
-     "t_id": "Kelompok sayap kanan Spanyol mengincar kekuatan saat Sánchez bertaruh pada pemilu sela"
-    }
-   ],
-   "title_id": "Spanyol memberikan suara terlebih dahulu: Apa arti pemilu cepat bagi Eropa dan Amerika Serikat"
-  },
-  {
-   "id": "politik-202611171811-cac8",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Sweden sets Christmas deadline to form government or call snap election",
-   "src": "Operativ Məlumat Mərkəzi",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemE4Q2R2X21lZ21WUzkySWJ1TVBJM21fbzdTN0J2VERGcVg0SnZjWlc2a3NVcVBOQW1ERzZucUxDOHJIbVRBUWlpaHB6M0VjQUJ2R2ZGdXlOV2pPV2lSM0pZUXFLc1pTUzI3OUxrQVA0VGZRdE1JaldFekUzVFo0QldSZzd4Njg2UzkwU0J5c1NvdTgwaUh1cEU4NV9hZC13UTY1Q1h3SFU2NGM?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-17T18:11:47Z",
-   "last": "2026-11-17T18:15:36Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Sweden sets Christmas deadline for government formation, or call snap election",
-     "src": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEpDZHNfR0hMQ3lCZlhvaERkNDFDX1pYbnJ3RlR2QTVEb1d5X1M4TkxOS3pVaEluTFpIT3JaWC02VS12dEFRZGFGZDV2aEFyUVJxSldoMllqUXJ0eXRmdU1SaEJwalItTm9KM0ZpOGhnOHRxcnNTQUxyaGluTFlVMzlPb3ZwVWI4amZweUhSalR6U1lBNFE2cVBsaEtyRzhIUkYzempoUzRNUS1vSTcycmdrWQ?oc=5",
-     "t_id": "Swedia menetapkan batas waktu Natal untuk pembentukan pemerintahan, atau mengadakan pemilu sela"
-    }
-   ],
-   "title_id": "Swedia menetapkan batas waktu Natal untuk membentuk pemerintahan atau mengadakan pemilu sela"
-  },
-  {
-   "id": "siber-202611171550-a0f9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "NSA's Top-Secret Communications Network Down Amid Nationwide Outages",
-   "src": "TMZ",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUSm14UUtNUDNJZVp0cGtKV0FsTkg3N3VEeFdOTTJ3SlVTek84MjJNWWRZMkppTHR4YmFHRlpLMlQ4UlBlckdIZm8yUUFFMGFzaExLYVdZb3prazVoNFVwV3dMR1o3UEdXclJwVG5rYzZTeGNCWVNSLTFBdElJblZn?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-17T15:50:25Z",
-   "last": "2026-11-17T16:07:13Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Major outage hits NSA's secret communications network",
-     "src": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRldrYTh2NzJrQU9DeVJPQVAtT1VRMG92LTBheVpXZnVSZ0pibjdTeGNSNmU0UlBFaWZ5eFlEY19OT21MZ0xtczV2NHkzOUxwTUZLZjVqZVhOaGcxWjFQZ0JOMHpCaGFWRTQzM3ZYYmpXb1BrWWpWVzRvcXNHZmkzMXBVVEsxaS1tZjFocFAzVGxHRTdnVEtVV2pXMmliVzVQbkHSAbQBQVVfeXFMTVM1ckFHb3VqVjh5SEFLSl8wZnozR01BWWN4QmpfX2otTTYzQUFvMmx2RlhyTGMwRnBvUzIzcFRFNGxEbFkxekZrVWVPWUJJVzRVTVJzbEdzZ2Y2ZnVOdWVVRXd3S2hpQVBkR19XWEY1ZFdtclZSc2I3UDQ2alRmS3FlczFpMUx0Tm95bGlzLWlDNjZ1M3BfRnNFWHNvRFNhMTEzZTZ1UTlFMFU4Y01ZZ1prZERk?oc=5",
-     "t_id": "Pemadaman besar-besaran melanda jaringan komunikasi rahasia NSA"
-    }
-   ],
-   "title_id": "Jaringan Komunikasi Rahasia NSA Mati Di Tengah Pemadaman Nasional"
   },
   {
    "id": "indonesia-202611170348-3581",
@@ -404,5 +354,7 @@
    "title_id": "Bisakah semuanya rusak? Jet yang dilarang terbang, masalah bank, pemadaman Microsoft, kekacauan AI membuat beberapa orang bertanya-tanya"
   }
  ],
- "errors": []
+ "errors": [
+  "politik: HTTP Error 429: Too Many Requests"
+ ]
 }
