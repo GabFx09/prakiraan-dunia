@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T15:42:46Z",
+ "updatedAt": "2026-11-17T15:55:45Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYk5mZjN1bHBFTDcwenlYbjdrdVQySEIzeVNhTm44WkRIaHFMSC05aW5qV2U3LUQ1Wm5HYTgteUp6QTVqQ3RuUjc1NFo1TjdKQjFBT1J5a3JPN1ZMdHJTMnlLaFpjVHlkSUUwMldVVkx4VEtPdnhDVkxiV0RObGNqRE5qeUhadWpMU29xQldnbnFmNGs1b2p1WTdROUNtTWwxcWU5SFdyVXVZalByQmt1QUZUX3NwN3Y5bFdOeQ?oc=5",
    "sources": 10,
-   "recent6h": 3,
-   "score": 11.5,
+   "recent6h": 2,
+   "score": 11.0,
    "level": "besar",
    "first": "2026-11-16T22:20:30Z",
    "last": "2026-11-17T14:34:44Z",
@@ -89,36 +89,6 @@
    "title_id": "Gangguan Penerbangan AS 17 November: Pemulihan Gangguan Bersatu, Kekacauan FAA & Ucapan Syukur"
   },
   {
-   "id": "politik-202611170547-3f58",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Spain votes first: What its snap election could mean for Europe and the United States",
-   "src": "Atlantic Council",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTFYOGNIb1k0Z3BYUGJJRTZmb2JxdlJ5VmJQV2ZiVFU1TkJDeXBpRnR6TkxNd3lnckNwNWhsbDNNbHQ5UEtEekhVYV9BbkoxTk5MQ3RlRmlET1g4VjFrUGhkNkY2WWFQXzVkeE04elp6THRjVjFwbERWRHpYY0VtVG1YekpnMU8tc3h0VGNrc0J1YWc5XzVPc0dEMXpZdENxSkNPT1ZaV0J4cWRBeEs1Ujd2YTNrcG8wbXdORVpSUE5sTExMLU84?oc=5",
-   "sources": 3,
-   "recent6h": 2,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-17T05:47:08Z",
-   "last": "2026-11-17T15:04:28Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Spanish hard right coalition poised for majority as snap election nears",
-     "src": "EUalive",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeU1HMUZ2cjN2TWtlV29KRUZUVlJnNmtsREE1RW1oV240UTkwWjU2WGktcUpPRE9pMW1Kbzl1VjVOTkZsX2gydS1QNmV6dTFkOUJXSXp3aExIQjZ3Qk1tQTYwTGpybnhpNmpzY0RmVEV1RVpTNzhsVVQ1ZlhDcVJlRmk5WElSVjgtRWROWllyN2dwQ3dwQUFv?oc=5",
-     "t_id": "Koalisi sayap kanan Spanyol bersiap untuk meraih mayoritas menjelang pemilu sela"
-    },
-    {
-     "t": "Spain’s far right eyes power as Sánchez gambles on snap election",
-     "src": "Philenews",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4azJNWmpROFVzcGpzbnRBVWlkZjg3S3JXNWxzZElORklhSWZEcmR6Q2dpRmtSTXVibmVMQnlSQks2RnZ3MUoxS19HLWhOV0pHM2NuYzMyN2VfZDhYaG1KR00wdGcyRXdDYVFsRkxoX3VvVWdCRG9iQzM0UGQ?oc=5",
-     "t_id": "Kelompok sayap kanan Spanyol mengincar kekuatan saat Sánchez bertaruh pada pemilu sela"
-    }
-   ]
-  },
-  {
    "id": "siber-202611161409-fa57",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -156,13 +126,43 @@
    "title_id": "Apakah Amerika akan mengalami pemadaman listrik nasional selama 90 hari? Yang benar adalah…"
   },
   {
+   "id": "politik-202611170547-3f58",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Spain votes first: What its snap election could mean for Europe and the United States",
+   "src": "Atlantic Council",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTFYOGNIb1k0Z3BYUGJJRTZmb2JxdlJ5VmJQV2ZiVFU1TkJDeXBpRnR6TkxNd3lnckNwNWhsbDNNbHQ5UEtEekhVYV9BbkoxTk5MQ3RlRmlET1g4VjFrUGhkNkY2WWFQXzVkeE04elp6THRjVjFwbERWRHpYY0VtVG1YekpnMU8tc3h0VGNrc0J1YWc5XzVPc0dEMXpZdENxSkNPT1ZaV0J4cWRBeEs1Ujd2YTNrcG8wbXdORVpSUE5sTExMLU84?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-17T05:47:08Z",
+   "last": "2026-11-17T15:04:28Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spanish hard right coalition poised for majority as snap election nears",
+     "src": "EUalive",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeU1HMUZ2cjN2TWtlV29KRUZUVlJnNmtsREE1RW1oV240UTkwWjU2WGktcUpPRE9pMW1Kbzl1VjVOTkZsX2gydS1QNmV6dTFkOUJXSXp3aExIQjZ3Qk1tQTYwTGpybnhpNmpzY0RmVEV1RVpTNzhsVVQ1ZlhDcVJlRmk5WElSVjgtRWROWllyN2dwQ3dwQUFv?oc=5",
+     "t_id": "Koalisi sayap kanan Spanyol bersiap untuk meraih mayoritas menjelang pemilu sela"
+    },
+    {
+     "t": "Spain’s far right eyes power as Sánchez gambles on snap election",
+     "src": "Philenews",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4azJNWmpROFVzcGpzbnRBVWlkZjg3S3JXNWxzZElORklhSWZEcmR6Q2dpRmtSTXVibmVMQnlSQks2RnZ3MUoxS19HLWhOV0pHM2NuYzMyN2VfZDhYaG1KR00wdGcyRXdDYVFsRkxoX3VvVWdCRG9iQzM0UGQ?oc=5",
+     "t_id": "Kelompok sayap kanan Spanyol mengincar kekuatan saat Sánchez bertaruh pada pemilu sela"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611170348-3581",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
    "title": "Ratusan ribu warga Prancis siap turun ke jalan demo biaya hidup",
    "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTRmVjNlQ1NNLU42VjVxaF8xWG5vSnF3ZGkxbjNRRlpFbXJmREJUaWFKSUVvT05oYlZOS1BMTmVSb0hzS2FnU2p1bENoZ0FxdEt2Z0pCVmtCNGtHbHVYbmU0MmlUeHRUeDd1OWlpNEJDbHNNbHltMUt3LWNmY01BWVFYWnkxRUFVRnJ0Qk1xNzdtcDBhLVd3ckd2MDJtMXgwX2hUbVNVYzJCNldMTWc3RHg1SdIBswFBVV95cUxPcTRmVjNlQ1NNLU42VjVxaF8xWG5vSnF3ZGkxbjNRRlpFbXJmREJUaWFKSUVvT05oYlZOS1BMTmVSb0hzS2FnU2p1bENoZ0FxdEt2Z0pCVmtCNGtHbHVYbmU0MmlUeHRUeDd1OWlpNEJDbHNNbHltMUt3LWNmY01BWVFYWnkxRUFVRnJ0Qk1xNzdtcDBhLVd3ckd2MDJtMXgwX2hUbVNVYzJCNldMTWc3RHg1SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMtIBsAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMg?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
@@ -257,31 +257,6 @@
     }
    ],
    "title_id": "6 bulan wabah Ebola di Kongo: Perang, kelaparan, penyakit, dan keuntungan"
-  },
-  {
-   "id": "siber-202611161906-e38d",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Customers report outages at Chase, Bank of America and Wells Fargo",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMHI4dk5Pczd4bWZJOWQxR1ZMOGktcF85R2Y0eFQ1ek5wZV9tcXpydENvVmZtRkx0ajR0NXVqSWdtQVhlLXRSdkdiLTE5N3MyTHVLblRac2JuNVk?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-16T19:06:02Z",
-   "last": "2026-11-17T00:18:01Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Chase Bank Blames Outages On ‘Software Bug’",
-     "src": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUNHRWlIcjNZR3l0eERtcnliME9IUEUta28wN2VSTlRsM05HUnRlRjJjM3JLS2RJaUl6VVVJcEtJT0NQNW55REpHdjM0WFNyNFczMXhDdFZ6eVRIeGt1eFBvYV9aaTIzSEZBLU4tS3NWTnNrZFE5dnpyanEzU2FFRE5kQW5fU0FjSFh2UlIzZkdCa2hJbTdmTHVOS2ZmVHF5X0E0YVlNc2I2YTFCSU9aZVJRYU9ZdngtLXR0QU9RTzBYOTIzSXVBOEtvb05uNThw?oc=5",
-     "t_id": "Chase Bank Menyalahkan Pemadaman Pada 'Bug Perangkat Lunak'"
-    }
-   ],
-   "title_id": "Pelanggan melaporkan pemadaman di Chase, Bank of America dan Wells Fargo"
   },
   {
    "id": "transportasi-202611162318-6b15",
