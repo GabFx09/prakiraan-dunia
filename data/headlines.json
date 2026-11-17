@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T06:25:08Z",
+ "updatedAt": "2026-11-17T06:39:47Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -119,10 +119,18 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+   "t": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QemdsV2FWUHQ2dVJCOXJBN21EUUIyazhEMjFaLVNickZFalVGS0JXNkpnWGZTeUdmd09CSjdUWnR2M0l3Y1FMTEI3ZlgydTRpY1NhUVdTSFNlYW9URWQwb1ZncTNIRm1BZVJRRk5qQVHSAXZBVV95cUxNeExueUJISjdkcldnanBSTUFFUU9MMXY2MzNjZkc1TzFjWGw3dmJnYnRKWUpCT19DRm56UUFLOVRueFoxVXFOWXgzVVJQUm0wUzJGZnFzWWtwZURDbFdPZEFURUlrSENDV1FmWXF2MUhBXzNUQnh3?oc=5",
    "time": "2026-11-17T04:34:00Z"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture",
+   "src": "Prime Minister of Canada",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWotUjB3Q0JQQ1U4S3ptdlJqdzVQVTJ0N1lTMGd0MnpwOHRQaVI2SUFuR19jZjBTUnVrdjUwcnphemhqQzA5TmRUdko5VWlxOUdrTEs3dmVZc0kxcTRFOFVEY3hxS21vOW1RWVhDNEdhdHFfT25nVkZWQWVKbHExZE1FR3FjeGpFOHlvc0tCVmJ6ZGk1bTEwTmVBcTJWODlMU2RiNW5VcFpzRU5SQVIzTTRlVDFDenRDSzVDNQ?oc=5",
+   "time": "2026-11-17T04:22:54Z"
   },
   {
    "topic": "china",
@@ -141,20 +149,20 @@
    "time": "2026-11-17T04:06:34Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Jaga Rupiah, Fauzi Amro Dorong BI Perkuat Kebijakan Moneter dan Intervensi Pasar",
-   "src": "DPR RI",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnpoYkI1RHEwaG1ZUlB5WUtFR1hsZHpTN0F1aHZBOVlZeWo5T0FSN0VJbkxjMEtmTzVQMVZMR01aSjdZQzlyZktpUWctVHoybGF0Vm8wck5fUnNGY0pkNlhjeHdINld1dVR6eUtQMWNCQ1hLMlo5STNUZHowbU94UXVCNElVQ1pPbWJDMFpmaVIxR2Z4aWhZM2tnanZVTHd1SS1sSU96LXJ5R1V6bGtpMEFmbjBSRlQwanFUUjdFRTd0eGh0cWc?oc=5",
-   "time": "2026-11-17T04:03:30Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Global Gold Price Hits More Than One-Year Low, Vietnam's SJC Gold Still Pegged at 137.2 Million Dong per Tael",
    "src": "BigGo Finance",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FaUhOaUNvdzFhYVhoRXZMa0paTjZzNWpXZEdzbzM3SVB1eThlVnJVaEJXaUNkM1A1VGJWZllGdFBqZ3Y5V0NSbmNDV2pMb0tacDRvODJfRHRGU1dVMzIyaFh5UnZKUjFhcE1oRlV4bXpQNEVuSkE?oc=5",
    "time": "2026-11-17T03:55:00Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "The President of the Federal Reserve Bank of Cleveland advocates for gradual interest rate hikes, warning that rising inflation expectations could force the central bank to intensify its tightening measures.",
+   "src": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjFxOGI0b1FSdUhLWHJYQ1drVTRBNVcweEVEN3IzZGtuUTBvNVlobUh6aWhGYTNSY01WLXJ4bFZUTzM3R2xjZFZpbjNYRUtKaktYdlJEcGRkUHdOUTU3TXlkQ3k1cUhDU3FyVFNNaFhNa0oxT092cTZBcEhfd1RXNExkTlY0Z255eFA1ZFA3b0FzaEwxejhOZE9kTXhTVnlzZUxSaU5vSEMxN204?oc=5",
+   "time": "2026-11-17T03:51:22Z"
   },
   {
    "topic": "china",
@@ -171,14 +179,6 @@
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWFGd3ktYlF2emZzeXI2bTVaemZMNW1WRl9meXBBVHJIWkgxVGh6Vml3RGkxS0lJeWtaNXhfQmQzN21IZnJVZ0FEcUZZb0dkenJOdk9tZjRoNkNUalJQdXpXaVhhZkp4MVF2Mkx5RE5LVlI4TmI2ZWpPM3ozTURQMVQ1ZjhocjZWUTh4YS16N1ItMmR5NmFJZm9ZZkZIOV9TdkdtdzhVRExMc0xkZGhRMnpDNNIBuAFBVV95cUxQNm5ZRWY1TnA3YjlNWkpRemlWX184cFFZdlBwMzROcFVpY2VFaVZIaTAzMERONmF5U1ZRT1hDeHNTWk94dk1qWXk5ZzM0c2dPdjhFRWxKc3pfTlUwcWtzZ3UzcnE0dktxSjBrX0JJSDdMV1h2cXJSc1hEYURDNDNBRVZ1dmtJNGpUVzlGQ0h3RlAya3hVSFVoanhZLWxZRS16eDYydW9uNXVWbWFnSHREZWJyMXlUazdP?oc=5",
    "time": "2026-11-17T03:35:11Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Cek Kurs Dolar AS-Rupiah di Bank Mandiri, BCA, BRI, dan BNI pada Selasa (17/11)",
-   "src": "kontan.co.id",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzVqUHk1U0YtYVc4VXNUQW9FMTJmU1NWeTh1enNKUzRxWGNybWcxNGxOYVF2Nkh2TkxpY19CSng4aVRNZ2VlekVwaGw1OHdpMU9qOVlYUkpmeExhWWhLNTVnaFQzbkdScGRkampCem1BaUFoN1h3WXpHSHlnT2RfN3RCNUxPS1pzQzNLSGdhc24zVHBURVNiMmR4dzhKOTFmNGJ5MG5lR0tXQThmbXfSAaYBQVVfeXFMT1RUS19xejVpekdTbFNNMVFaVUVrV2U3cFNtd0NjMEtSMmFmTDl1Rk45ekVZLWVxZU9veDM5V1JtQl9DdnpUcTZaUEY5RmhPWTRFWEpnaWNUeDAzZ0h6c1ZzdlUzVUUzbUxaNGNaQk16SUxKTWlSbnJiVjQtcDhhdUl1MTNGVkR1ejVJOUtuOEFwV1p1TEZLMUpCMC00bjdWMF9Ga1VOQQ?oc=5",
-   "time": "2026-11-17T03:10:33Z"
   },
   {
    "topic": "china",
@@ -215,26 +215,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Rupiah Tertekan Jelang Keputusan Suku Bunga Bank Indonesia",
-   "src": "bsinews.id",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmbkxTYmQydGdSX2xEVGc2UFJYOGJyRmpCVlJ5eGp5NnUyUGd0SEtaQzc5QUFZamRYMkxwMmJNOHJNcGVzeGlLbHVzeEdwSENDa3lVUXF2NzFTeFRDNDRKckFDVGRGWjNYd0E?oc=5",
-   "time": "2026-11-17T02:21:36Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Aksi Jual Tekan IHSG",
    "src": "Emitennews.com",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeW5fSkFlZE9ZakNpQ19UUkJxcTBlMk1LRHhISzAwcXdhMFlvY1J2Ylk2OHIxZ05xN1ZFbzZTeXgwQ1dVbVlLQU1NbHhjaHdqVzY1Z2pRM094TWRN?oc=5",
    "time": "2026-11-17T02:01:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Rate Diramal Bertahan di 5,75%, Tapi Suara Pasar Terbelah - Market",
-   "src": "Bloomberg Technoz",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGZGVDNxd0ttMW1GRTFTeGZEZHUwTERJWEhBR3YxZ0RaNW5TZ01FUE05Ym5sM2pUa2Z2S2JHMHlqMm1WbDFQTXFHcFRWc3BuN1hVZDBFZ2g3R1BXTnFiaVEtNXZJU3BmejFfbmd3cFNaZElpQmtHamk2c0FEelBYYS1xS1A1QUhYSC04ZmRLSzJxUXlXd08ybHhHeGRCUkJfM241MGpjN21wd0xxM0ZF?oc=5",
-   "time": "2026-11-17T01:56:58Z"
   },
   {
    "topic": "kripto",
@@ -256,18 +240,19 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "BI Resmikan Bank of China sebagai Bank Kliring Rupiah Renminbi",
-   "src": "cwibc.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xVFQwWHhWWmp1Ynhiamx0SjlRQVFMUFd4Qld3Q3dmLUF5a3RvVFlUTUJIdC1uUS1iUmdKbUQ4SVRscWpaRXhIWFI3eUZ2V1JTWVhBcG9CUTNiR3lnVnBFTg?oc=5",
-   "time": "2026-11-17T01:45:01Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "IHSG Turun, Big Caps Perbankan Tahan Indeks; Saham Apa yang Menarik?",
    "src": "Maybank Trade ID",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb3JYQXU2ekpRMmVZZ3ZHSWoyVHg4TEkyQmpEc1prZWNTTjNQcWFweERMX09kdnB2MFpoRVVTMlV3U2FCdDJrbV9weVdhUy1WR3pob0I0Wm54RnFyczJjMmcyR2ppRUVkRVc4Nk0tdnNwQlJZRE03bzM2THRNQkdRTHV3TGxVcEVWX3RqbTAwc0lvejlQaXlLVUgweWFPaFVVLUh6UHZqWnM?oc=5",
    "time": "2026-11-17T01:32:00Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Tracker: The Federal Reserve’s Balance Sheet Assets",
+   "src": "The American Action Forum",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+   "time": "2026-11-17T01:28:32Z",
+   "t_id": "Pelacak: Aset Neraca Federal Reserve"
   },
   {
    "topic": "indonesia",
@@ -286,12 +271,13 @@
    "time": "2026-11-17T00:54:56Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Ekonomi Indonesia Tetap Tumbuh 5,47 Persen, Pemerintah dan BI Jaga Stabilitas Rupiah",
-   "src": "beritanasionalupdate.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaEN2eUpQQU94YzBTOHo1WUJCV2ZkZ09ONFA0NUVHZ01zQU9kRHRVT2syVXZTOTBLSTNONnQ0RDJCS29paWVvOWpua3hpV3BWalF5aDY1a3hBZnNQR1RCcVNhY21TN3lJYjBDSFNobUYySEkybDlSckNmcC1jaThDNEFoN2lHVFo3S0VjTXRhUFhzMkRGTE9PSS01YUZXUXc4dHNNQk1WUEYtMWxMY2FrVnNRNzFfS0VLT2FEc1BKOUdiZC1LMlVaa3FHb3ltSDEw?oc=5",
-   "time": "2026-11-17T00:21:45Z"
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Fed’s Hammack Reiterates Preference for Small, Incremental Hikes",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3MwUUp3QjVuS0NGTWhLN0hYZldpQkJHUUZKRDZSRlhvdXJ1d2VXTVk1UkVzZ2swX1N1OWdQM1g1cC10cnMwaTRCRzEtVWNfWHBLdjdYY19wUEpZZERkQl9zVzNsbjVuZ25zQUFsaXFBMnBVX1I1X1pPU01SdEpPZzA1clBJZkx5TjYwV29QUmxHRmxfYW8wdWFLazlLbXVBRk9nUm01aVppdHRtS2RjRHlJeW0?oc=5",
+   "time": "2026-11-17T00:13:00Z",
+   "t_id": "Hammack dari Fed Menegaskan Kembali Preferensi untuk Kenaikan Kecil dan Bertahap"
   },
   {
    "topic": "geopolitik",
@@ -319,6 +305,24 @@
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUZZM1lPQ2FMbExhWVBJZUJlb2Znc29JUHpTSHZXcVAyTXBfeERqMWIxU2FZOXZZbE9OZDdyLXpsRnJhRXJISEtXY2Q3RzRQS21MdV9yak5WYXVEdUNzZUc4VTM5bnBVdnJVS0t3R3IzenRZZVltWHUxMmI2dWFrdEpTOGtnQ3NxV29xNVNfemFKTmt5MTRDMUpsTzlWcWlvWWh2UmRJRlFrV3ZfUnF6ZDZfd3NDU1BMZDlLYk5XeW1XWUV5RUx0RTU4V1ZnODhrYThNRXR5WmE5dVgz?oc=5",
    "time": "2026-11-16T23:45:09Z",
    "t_id": "Perdana Menteri Tiongkok Li Qiang pada hari Senin memuji pencapaian Tiongkok dan Asia Tenggara yang “benar-benar luar biasa” dalam menghadapi pembatasan perdagangan global, dan menyatakan komitmen Beijing terhadap perdagangan bebas pada pertemuan puncak menjelang pertemuan Presiden AS Donald Trump."
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Carlson Financial CEO says Fed rate cuts should not change your plan",
+   "src": "WIBW",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWdMTXRtUHhEM2dSX0ZneVYxWGlPbklLODBzTkgyMVlRZzh5SGp6VEJrSXR3VVZfWkJjYlBiV0JGRDZ1Y044MWFzSDJrSHFqQk1CQWR6SjktYXBUWmlKTHNfRklUeE50Vmw5T3RnVk5iOHdhbTQxNVAzalo3bVZzNVgyTmxKbzJ5UGhZSzk1T0J3OFI3V3ZJbEZ3V1gxWTJnbXJZ0gG3AUFVX3lxTE1xTndnVDdHZEpYUHp0dHZVNXlWdWIwVlo4cEJiODZhbV9pLUhnM25qclUxamw0MzZQa2sweEV4VEJDamY5Z1hVRUJiOHJxVEVweEV2cEdSRGpwcWtWNUpJd2JXdUJOT1ozZ1UwNHliUDlhQjVHVFJSS0Nkd09pSDJ6T0VnT0tTTE1EM2NJUXJIWDcyQmo3TFduaDBnbnAtTVE4enNRWlZ2dHNfaUhlSnlPaUE2dl9GZw?oc=5",
+   "time": "2026-11-16T23:39:00Z",
+   "t_id": "CEO Carlson Financial mengatakan penurunan suku bunga The Fed seharusnya tidak mengubah rencana Anda"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "COMMENTARY: Warsh's honeymoon period is over",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWxhSndRSHRSdEJXcm1fQ1gtc0wwRGZJM1lobnREeE5zMVM1UC1TXzA3ajI4bXVsVVlNZE1EWng0Y0ppTElHd3Jfd1cwQy1WYk5ZaDM2TVhTWHIxTlVzN2U4a0VIZ1FDTG1UTWJXZTh4RHlNLV9MLXdCQTM0NWl6amhfdHA5bFFDVEpLYXNnb1ktaWxPRGlhamNXbjR1OG5YLUN2N2pjbVNqQQ?oc=5",
+   "time": "2026-11-16T23:30:27Z",
+   "t_id": "KOMENTAR: Masa bulan madu Warsh telah berakhir"
   },
   {
    "topic": "saham-as",
@@ -356,14 +360,6 @@
    "t_id": "Saham merosot untuk mengawali minggu penting bagi Wall Street"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Populer: BI Luncurkan RMB Clearing Bank; Rupiah Anjlok ke Rp 18.271 - kumparan.com",
-   "src": "kumparan",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaG81RVNLWU5tQldtcHhzSnY2UHRQa0ZVV25kemtQSV9oZ3RRWko3bHgwR1pNNWRTd01ZdlhGQmpCNWtHNWV1eXBZNGZEZ1E5RHNFY1h4M1I4bEhMeWJqSmFucnFEd0c3eEhjcEVtZU5qYnZURFZjd1BjWkdvTnFvUENhcV94V2dyQ1VRV183SXZabTU1ZjNUd1NzbWpFcGI0UHFUc2d3WVd6MHpWSi1OZXg5SdIBuwFBVV95cUxNNnExSDR4dzlDWDJHM3F0TV90VVhzNkNXMzZlMUt4RVNOMkE1dGVmUTNyR3BFeW8tcFViSWI5blVRdkVOcEVORFQ2bnVPOUc0TFRzYXh0WW1SalZ3VUNJLUF6M1Vldl9RS2FTTDViVDBEemlCZ0hfcmFiVDJhWkc5VlhfSmNrZ3p4QnRWMzlCdGRGeTQ4YkxxeWl2YXdlRWl1Sm5mV0g5MkY3M083ZURsUEUxWHZ6MkZ4MVAw?oc=5",
-   "time": "2026-11-16T21:46:01Z"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
@@ -371,6 +367,32 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CU1pVMFZxVC1QR3VTRm5McUhwcVNNajhYRWtOYmNPclB0WFBYMGtXYzlxTXFGc19Kd1VYNnNuSUxUUXlybmd3QU1pRWtubHIyS1lJZFNxLVMyckJfb2ZNdnlpd2JDQnJqTkhCTkxMdXlhZGdXQXdtaU92UVRDZw?oc=5",
    "time": "2026-11-16T21:20:36Z",
    "t_id": "Harga Bitcoin Bertahan Mendekati $65,000 karena Gejolak Nvidia Menyeret Nasdaq Turun 2.5%"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Post-election economic reports make Fed interest rate hike certain",
+   "src": "Denver Gazette",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTh4bjNyUDJvQkRLSUNmVjlpOHZrYTEzcWZrRkZscUE3RVdSRFNKYUZNYXJYajI4YkMyaVVLeUtRN2pUZ08yVkRjNEZsd3FOQVZ2aGhscmJUMWNycG53N2JvOVBmdFNJMHJTU01hRy1PRzlfVjNxRk80RWlON2hTeHJUYmljTDAwa2R6cFhTY3NIZF9ocHUxazJuUkg4UjlRYzJETS1GM0c2cXV6?oc=5",
+   "time": "2026-11-16T20:21:20Z",
+   "t_id": "Laporan ekonomi pasca pemilu memastikan kenaikan suku bunga Fed"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Treasury Yields Fall, German Bunds’ Tick Higher",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+   "time": "2026-11-16T20:16:00Z",
+   "t_id": "Imbal Hasil Treasury Turun, Bunds Jerman Meningkat"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNczF1RXhsRmNwczFILVk5SGZNMVhVeERCSHJkOS1OdDFNcndMcHk0ZTUxVVc0QXNUd0lCZEVqYmxfOGV5eGpsMEhnMGpRWUhLVEJqdWQ1MExqZUxMcjQ1S1h1LWx5QzBDVzkyY3BYQVk1Y2VkSnIyOWxMOV9tcTdYOU1lSUxCMHVfNFJkTm5vbDFpLUItZnFWMlhfamdvdHZoak9RRG9Xakl6RFBIb29JSkRWRENVM1dlWU1v?oc=5",
+   "time": "2026-11-16T20:15:45Z"
   },
   {
    "topic": "kripto",
@@ -389,15 +411,6 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yS0RmaHF4aWFYdWEwa1Z4TmZ0dzdqM1NPR21vdTZvc3dZNlVDalJHdHROUjJEcm03V0YtdHhEdC01T0tpS0RDLWZNRFpLNWlnZVJPeXlXY3k0Tk1NNW1hUEtrOE9DaWp6OU44VGpQclQtQW9pTF9jazVRNVV2UDA?oc=5",
    "time": "2026-11-16T18:56:00Z",
    "t_id": "Apakah Harga Bitcoin Terbawah di $62,000? Strategi Telah Membawa Kemunduran."
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Bibliometric Study of Century-Long Trade War Research Reveals Heavy US-China Focus",
-   "src": "Bioengineer.org",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTNOTW0xSk9LV2ZZLWo1TVM5VklhMEJCVHJkRDUxSGl5Mk1BR1hSWGdJREVuRlNWVXBDXzJBczRZQ09ybU05NE1GLW1MY1REVzlMeUxkWmhTQU5OOUtWMVJFMDRzTGxESm9pbXU2aEFWZ3RXUkwtV19rS0p6Y2xTbjAyY05wNXBTenJVNDM0OV9sQm1tTTYtSXdmbXFhRG92akt4VThoYnJrR1U?oc=5",
-   "time": "2026-11-16T18:21:26Z",
-   "t_id": "Studi Bibliometrik Penelitian Perang Dagang Selama Satu Abad Mengungkapkan Fokus Besar AS-Tiongkok"
   },
   {
    "topic": "kripto",
@@ -472,15 +485,6 @@
    "t_id": "Bitcoin seharusnya memperoleh keuntungan karena AI tersendat, tetapi malah jatuh. Inilah alasannya."
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold price falls to lowest level in a year in key signal over interest rates",
-   "src": "The Independent",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDNxRENuV2JMeTFUUGpFX01ldXNzTEZDUkE0cGhaTy05TGhJeGJZYUhQdTFJQTZXMWRDYm54XzBoMnVxVkF4UEtaVzcwb1N6SmxSc2xuN2ZieVRJNlUxaXozbThqa2JHM04xNWdKWTBBQ3RuZjdDd0RPVGRZbDJwT2FPcWthZnV5aWptd0ItOGJQUQ?oc=5",
-   "time": "2026-11-16T11:53:00Z",
-   "t_id": "Harga emas turun ke level terendah dalam setahun sebagai sinyal penting mengenai suku bunga"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz",
@@ -498,17 +502,16 @@
    "time": "2026-11-16T07:43:26Z"
   },
   {
-   "topic": "china",
+   "topic": "bank-sentral",
    "lang": "en",
-   "t": "Can China and the US Settle the Tariff Fight at Their First Trade Council Meeting?",
-   "src": "Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmlLZ2h2SDh3VTMxcGF1MjZaYlNUZlFfdXM4OE5JaHBSdE42U1VqLTkyajR5SXFCTktTSThBLTlDS2p0SFJQMkd5RmpEa0tjZUhfeEJzUW10LTNGeUpVY083ZURmWDJfMVpxOGg3cTFPRFdBcGVZOFg1OUFZUE16RzZicVQtdF92VVVQRXd4TFRtaDFYUDRIWHhSQTA1RGdiNGxqTV9pRnVfZnZWZ3V2MllLZzRmaFpxejRHZg?oc=5",
-   "time": "2026-11-15T16:45:42Z",
-   "t_id": "Bisakah Tiongkok dan AS Menyelesaikan Pertarungan Tarif pada Pertemuan Dewan Perdagangan Pertama Mereka?"
+   "t": "How will Fed rate hikes impact markets?",
+   "src": "UBS",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLVdJOWhtSmxHR0hiU0RHSDhZbkQ2ZlVrZ3NSdnpXdndocnp1V2o1dmp3TWhVWTZTYXlIdE1wXzdoNmJNQkFYS05TRkQwd2x5eVRxclc1Si1wQjNSU01vOGVzT0xqbXNyTnNoR0piUlRSM192MWxFc1V2aWFXS3JHR2EyUnc5dVRYWWM0enNB?oc=5",
+   "time": "2026-11-16T05:42:35Z"
   }
  ],
  "errors": [
-  "Federal Reserve interest rate: HTTP Error 429: Too Many Requests",
-  "AI stocks Nvidia selloff OR rally: HTTP Error 429: Too Many Requests"
+  "AI stocks Nvidia selloff OR rally: HTTP Error 429: Too Many Requests",
+  "rupiah Bank Indonesia: HTTP Error 429: Too Many Requests"
  ]
 }
