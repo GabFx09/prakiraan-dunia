@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T22:47:00Z",
+ "updatedAt": "2026-11-17T23:01:46Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzlLcDdqRnN3R1BCUzdfblFWaTZKdEc5ckZldXJ0MGVTdmlLNmdCdWZuWTZqVFdyOUJMN29oSE9VcF9lY2x6cDlWN21lSk1FSnEtZjFGcHRjXy10N0ZWVU9yWC16SkNaZkFXc210em5ockpfZDlKQ0xKQXotaGRZOThOT1lsYk5wY2swMnBQSERBTE5OcElWN1pTdnBJUFF0RWZMSEpIRTd1bUxhcjUtQWxia9IBuAFBVV95cUxNUkI4OHV1OUZJWW1TSFVBc251dG5CTWg4QXNWQmNKNmlqd3gxd2RHVDJrQ1RramtrLUFpZDh3UHFTVmZvWHU4UkxUR2dfeXNVSVFDOUs0YXBkN1BOZFpKRWVobjFGNnlfbzQ1VHNad284QXZiYWYxSmV4ZktLVXNRUjVDbEFSSUZucDg0SFdCVVBRd2ZSaXdqSV9nTkIxTE0yVVEwaG16RlJ3Q2tFYzdObWlvQjNNNkh6?oc=5",
    "sources": 8,
-   "recent6h": 5,
-   "score": 10.5,
+   "recent6h": 4,
+   "score": 10.0,
    "level": "besar",
    "first": "2026-11-17T15:50:25Z",
    "last": "2026-11-17T20:18:25Z",
@@ -41,6 +41,48 @@
      "t_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
     }
    ]
+  },
+  {
+   "id": "transportasi-202611162224-6aa2",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "FAA ground stop explained, and how rare nationwide ones are",
+   "src": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
+   "sources": 7,
+   "recent6h": 2,
+   "score": 8.0,
+   "level": "besar",
+   "first": "2026-11-16T22:24:16Z",
+   "last": "2026-11-17T20:37:17Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5"
+    },
+    {
+     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
+     "src": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
+     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
+    },
+    {
+     "t": "United Passengers Stuck Up to Eight Hours on Chicago O'Hare Tarmac During Nationwide FAA Ground Stop",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ea0hkV09FbVdURnN1dlVpbXlDUXZoT0NRLU80d0NScTVtT3RlQ2lHUkprTmRhZ1ZVeHlfSUs3amYyMEdYMXIxX2J1cVAtWGpPV1MwSVd3elNock9GWmJuUGtWeWRoaXVlSF9XT0Y4aTRBX00?oc=5",
+     "t_id": "Penumpang United Terjebak Hingga Delapan Jam di Chicago O'Hare Tarmac Selama Ground Stop FAA Nasional"
+    },
+    {
+     "t": "US Flight Disruptions November 17: United Outage Recovery, FAA Chaos & Thanksgiving",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjl2NmpHNzZYU1JYRzFPck83WjR4akZHRjZMb0d3UTBvTEt3ZkN1dU80Tll3dUdzcmlwZG16bDFyb1FPSDRfWVI1bEtpSDU3RFRPSVltRW9UOG01cXdicUIwMTQyNlZQdmxNLTNETGVpb29zNDh0cTYxa2NfVy1UQ21vQWN2Yk9HNlBCdmxKRTA2UGZsOHdNX0RIWmpXQ25kWmNaSFhfcTREOEtYZ0xOM0ZNczJ0dlRrUXd2Mm0xakhodzNWd2tST3Joc2dhWktDTWpTOHE4d1F1b29OVjY1M2puaw?oc=5",
+     "t_id": "Gangguan Penerbangan AS 17 November: Pemulihan Gangguan Bersatu, Kekacauan FAA & Ucapan Syukur"
+    }
+   ],
+   "title_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
   },
   {
    "id": "perang-202611171943-dfea",
@@ -84,49 +126,6 @@
    ]
   },
   {
-   "id": "transportasi-202611162224-6aa2",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "FAA ground stop explained, and how rare nationwide ones are",
-   "src": "qz.com",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
-   "sources": 7,
-   "recent6h": 1,
-   "score": 7.5,
-   "level": "besar",
-   "first": "2026-11-16T22:24:16Z",
-   "last": "2026-11-17T20:37:17Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
-     "src": "Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
-     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
-    },
-    {
-     "t": "United Passengers Stuck Up to Eight Hours on Chicago O'Hare Tarmac During Nationwide FAA Ground Stop",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ea0hkV09FbVdURnN1dlVpbXlDUXZoT0NRLU80d0NScTVtT3RlQ2lHUkprTmRhZ1ZVeHlfSUs3amYyMEdYMXIxX2J1cVAtWGpPV1MwSVd3elNock9GWmJuUGtWeWRoaXVlSF9XT0Y4aTRBX00?oc=5",
-     "t_id": "Penumpang United Terjebak Hingga Delapan Jam di Chicago O'Hare Tarmac Selama Ground Stop FAA Nasional"
-    },
-    {
-     "t": "US Flight Disruptions November 17: United Outage Recovery, FAA Chaos & Thanksgiving",
-     "src": "Travel Tourister",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjl2NmpHNzZYU1JYRzFPck83WjR4akZHRjZMb0d3UTBvTEt3ZkN1dU80Tll3dUdzcmlwZG16bDFyb1FPSDRfWVI1bEtpSDU3RFRPSVltRW9UOG01cXdicUIwMTQyNlZQdmxNLTNETGVpb29zNDh0cTYxa2NfVy1UQ21vQWN2Yk9HNlBCdmxKRTA2UGZsOHdNX0RIWmpXQ25kWmNaSFhfcTREOEtYZ0xOM0ZNczJ0dlRrUXd2Mm0xakhodzNWd2tST3Joc2dhWktDTWpTOHE4d1F1b29OVjY1M2puaw?oc=5",
-     "t_id": "Gangguan Penerbangan AS 17 November: Pemulihan Gangguan Bersatu, Kekacauan FAA & Ucapan Syukur"
-    },
-    {
-     "t": "United Airlines Outage Resolved: 645 Delays and 25 Cancellations on November 16",
-     "src": "Travel Tourister",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSXBfSzVzRjZNM2lIdVJvUHhkR3NTTFFIRDdLY3RPNWljZm9LaldIcnA5ZmpNWHFSSUFKSnItUFM1YUJ0OENIaWhWbG0zUEVLcWgteDMyM2dFQl84ZUFVNnE5SloycHVJbWlQZzBUYUVfWXZyaU8tT0ZRYjl2YjVJclIwekNvX1duMUNaVmlnWFlOU0ZqanpFSzRxVFZtbk40Y3pMSzdnc1dSNFpVaFNTaFZ3bXNUVXVsUWtldk41czhNbWJGZnYxb1dsX0N2UmdNbjZOd0dSTXlXSmt6aEN5SDN1R0pIWDN3S0RKc3RuelROU05l?oc=5",
-     "t_id": "Pemadaman United Airlines Terselesaikan: 645 Penundaan dan 25 Pembatalan pada 16 November"
-    }
-   ],
-   "title_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
-  },
-  {
    "id": "perang-202611162220-fa05",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -134,10 +133,10 @@
    "title": "Missiles! At the Crimea Bridge",
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYk5mZjN1bHBFTDcwenlYbjdrdVQySEIzeVNhTm44WkRIaHFMSC05aW5qV2U3LUQ1Wm5HYTgteUp6QTVqQ3RuUjc1NFo1TjdKQjFBT1J5a3JPN1ZMdHJTMnlLaFpjVHlkSUUwMldVVkx4VEtPdnhDVkxiV0RObGNqRE5qeUhadWpMU29xQldnbnFmNGs1b2p1WTdROUNtTWwxcWU5SFdyVXVZalByQmt1QUZUX3NwN3Y5bFdOeQ?oc=5",
-   "sources": 6,
+   "sources": 5,
    "recent6h": 0,
-   "score": 6.0,
-   "level": "besar",
+   "score": 5.0,
+   "level": "sedang",
    "first": "2026-11-16T22:20:30Z",
    "last": "2026-11-17T14:34:44Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
@@ -168,6 +167,39 @@
     }
    ],
    "title_id": "Rudal! Di Jembatan Krimea"
+  },
+  {
+   "id": "indonesia-202611170348-3581",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Ratusan ribu warga Prancis siap turun ke jalan demo biaya hidup",
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTRmVjNlQ1NNLU42VjVxaF8xWG5vSnF3ZGkxbjNRRlpFbXJmREJUaWFKSUVvT05oYlZOS1BMTmVSb0hzS2FnU2p1bENoZ0FxdEt2Z0pCVmtCNGtHbHVYbmU0MmlUeHRUeDd1OWlpNEJDbHNNbHltMUt3LWNmY01BWVFYWnkxRUFVRnJ0Qk1xNzdtcDBhLVd3ckd2MDJtMXgwX2hUbVNVYzJCNldMTWc3RHg1SdIBswFBVV95cUxPcTRmVjNlQ1NNLU42VjVxaF8xWG5vSnF3ZGkxbjNRRlpFbXJmREJUaWFKSUVvT05oYlZOS1BMTmVSb0hzS2FnU2p1bENoZ0FxdEt2Z0pCVmtCNGtHbHVYbmU0MmlUeHRUeDd1OWlpNEJDbHNNbHltMUt3LWNmY01BWVFYWnkxRUFVRnJ0Qk1xNzdtcDBhLVd3ckd2MDJtMXgwX2hUbVNVYzJCNldMTWc3RHg1SQ?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-17T03:36:45Z",
+   "last": "2026-11-17T22:44:22Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "15.000 Orang Ditahan Polisi Prancis Selama Unjuk Rasa Biaya Hidup dan Sekolah",
+     "src": "Media Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3Q0QmRaUFQyXzdqU1hHTEhjSEtEazhSU0FESUZXUVo5enhNMWZjUkhWYUNKcS1jeVlpQXJZQV9SWmJjaHZHa1BGTVVMWXVnWFBZdkJzWnRZR0VyWVZaTFgwTWxVbjFlWXFxaTBVc24zUjM4anVFRjR3YkxyTC1zYXp2aXIyeTY4RmFtSXhzMmhTQjFYSkM5TjR0dDMyckhRdUxhVk1Dd2luWVdDZ2d6U1NPbXZ4dElrTE5PS0U5MHR0UQ?oc=5"
+    },
+    {
+     "t": "Ratusan Ribu Warga Prancis Bersiap Demo Besar-besaran pada 17 November, Protes Kenaikan Biaya Hidup",
+     "src": "pantau.com",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdm92QjVrc0Z2eTloUTY2djF6WFpYbG1EWXlVeGVIcGlld3hmTkF5RUxxcHU0U0dFbkxHb1M4b0k2MlhpZkl1Z1QtNHRscjlQOGxIODRocmp5MVlNT05sejlpRUFxRnBmT1B6N1hHaHZmT18tVWlnS0lPOE5SMnczR2w5XzdwOUR0dmdnb1otSGRTNzBLR00zYVhVTm1CbXR5LVAzSFZra1pneVI2ZFl5TzgtYjZjaUFOOVNBNEtoRVFTV1I4R3BqXzVIQWp4MExEUkpKQTZB?oc=5"
+    },
+    {
+     "t": "360.000 Orang Diperkirakan Ikut Demo Protes Biaya Hidup di Prancis",
+     "src": "NTVNews.id",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWFBbmhUamlQQTdwdHNDU0tNc1ZtbDdrQTloU3BlOVZaZWQwdVFFeTFOOENMNzUwbzQzbmNCTEtOclg1Wm5JNHhxS1N0amItMGoxaDNoajE0Qm8yN2tBRjBxRHBrRWQ0UmxxTUtoUWp4aFllZUhMOHV0WGppOHhacFc2Qnd0SERYQ0oza3lRRHNSRng3aVEtbWRvNjlJU21aYjYwMQ?oc=5"
+    }
+   ]
   },
   {
    "id": "kesehatan-202611171452-0a8e",
@@ -247,7 +279,7 @@
     {
      "t": "Sweden sets Christmas deadline for government formation, or call snap election",
      "src": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEFwa1gxRUMzejdWSGozd2tJUjJUTllUQl9MRE5sTkFTMjZPM0xjYzRTWnFmVDFPY0RwOW91VDZqYW85cE43YVZTZm91T0dyQU52enF1ZWd6QnFFb004ajhENkRhcjFFa1ZrUXRVU3ZiS2NKcmowMzh3bWI1VWY4eE5MYXl4TWtpLVZDdUctUFZHV3BEeFlsX2hJc3Bwa3lzYkZmc3JWVHppaVVENGFEM2s1ODhKYzBL?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEpDZHNfR0hMQ3lCZlhvaERkNDFDX1pYbnJ3RlR2QTVEb1d5X1M4TkxOS3pVaEluTFpIT3JaWC02VS12dEFRZGFGZDV2aEFyUVJxSldoMllqUXJ0eXRmdU1SaEJwalItTm9KM0ZpOGhnOHRxcnNTQUxyaGluTFlVMzlPb3ZwVWI4amZweUhSalR6U1lBNFE2cVBsaEtyRzhIUkYzempoUzRNUS1vSTcycmdrWQ?oc=5",
      "t_id": "Swedia menetapkan batas waktu Natal untuk pembentukan pemerintahan, atau mengadakan pemilu sela"
     }
    ],
@@ -283,34 +315,6 @@
     }
    ],
    "title_id": "Spanyol memberikan suara terlebih dahulu: Apa arti pemilu cepat bagi Eropa dan Amerika Serikat"
-  },
-  {
-   "id": "indonesia-202611170348-3581",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Ratusan ribu warga Prancis siap turun ke jalan demo biaya hidup",
-   "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMtIBsAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMg?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-17T03:36:45Z",
-   "last": "2026-11-17T04:20:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ratusan Ribu Warga Prancis Bersiap Demo Besar-besaran pada 17 November, Protes Kenaikan Biaya Hidup",
-     "src": "pantau.com",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdm92QjVrc0Z2eTloUTY2djF6WFpYbG1EWXlVeGVIcGlld3hmTkF5RUxxcHU0U0dFbkxHb1M4b0k2MlhpZkl1Z1QtNHRscjlQOGxIODRocmp5MVlNT05sejlpRUFxRnBmT1B6N1hHaHZmT18tVWlnS0lPOE5SMnczR2w5XzdwOUR0dmdnb1otSGRTNzBLR00zYVhVTm1CbXR5LVAzSFZra1pneVI2ZFl5TzgtYjZjaUFOOVNBNEtoRVFTV1I4R3BqXzVIQWp4MExEUkpKQTZB?oc=5"
-    },
-    {
-     "t": "360.000 Orang Diperkirakan Ikut Demo Protes Biaya Hidup di Prancis",
-     "src": "NTVNews.id",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWFBbmhUamlQQTdwdHNDU0tNc1ZtbDdrQTloU3BlOVZaZWQwdVFFeTFOOENMNzUwbzQzbmNCTEtOclg1Wm5JNHhxS1N0amItMGoxaDNoajE0Qm8yN2tBRjBxRHBrRWQ0UmxxTUtoUWp4aFllZUhMOHV0WGppOHhacFc2Qnd0SERYQ0oza3lRRHNSRng3aVEtbWRvNjlJU21aYjYwMQ?oc=5"
-    }
-   ]
   },
   {
    "id": "kesehatan-202611170230-58e0",
@@ -413,5 +417,7 @@
    "title_id": "Bisakah semuanya rusak? Jet yang dilarang terbang, masalah bank, pemadaman Microsoft, kekacauan AI membuat beberapa orang bertanya-tanya"
   }
  ],
- "errors": []
+ "errors": [
+  "kerusuhan: HTTP Error 429: Too Many Requests"
+ ]
 }
