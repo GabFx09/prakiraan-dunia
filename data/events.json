@@ -1,7 +1,48 @@
 {
- "updatedAt": "2026-11-17T20:20:15Z",
+ "updatedAt": "2026-11-17T20:34:58Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "siber-202611171550-a0f9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Classified US communication network back up after outage hit system",
+   "src": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY2pLM2tRU2VEaElMS1hhbXNvLUNjR1RDdks2NnlhT2FVWU9ObTlfZ3JsbDc0bE5fN3hYVHNEQUx6UmN6Z0psZVJCakZldUtvemFwX0l1QURxVzJtRHZPRWRQT284eDdoZkNOTllTYVlWaHhMblN2MG1SNlZUSHFLZVFMYmV1eHhyWWJ1VDNqR1BLbkNKblN0WnZVOThHNkRjazQzSW9TRm5aMjc1Sk1QdDJJeTdCWkNTX09qNWlKRFFHUVJuSTloV1Nn?oc=5",
+   "sources": 5,
+   "recent6h": 5,
+   "score": 7.5,
+   "level": "sedang",
+   "first": "2026-11-17T15:50:25Z",
+   "last": "2026-11-17T19:50:33Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "NSA's highly classified communications network disrupted by widespread outage",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDLSAa4BQVVfeXFMT0lwZjRuaUlFN0hObHBJdTYwRjQ2NnpDaGhLdTd0bUJMMzZoUVZ5NjljcGJRZ053dHhpdUlBS3VpcnpCSGZYNC04akllRndxOWlvYk1JSHZGMF9US3JPekN2dGl4YXRYdy1wLVcxaHJXQ3NwOExJS29iMGpxaUVaM2JDNGxiSmdKNi1hSlU4bkx2Z3F6Sk9tTGdFdUhFeDF5TUs0ZktpMUM5WUN6VHdB?oc=5",
+     "t_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
+    },
+    {
+     "t": "In Yet Another Outage, the NSA Is Down",
+     "src": "The New Republic",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVlTRUk2ZkpKeGZjQ3NnTTdpNjJ0NXBIQlRTR2lFRFpndkctRFNwbm5JaDFHUnhjblljajBMRVFTd203WC1EbUk1R3M3dkN4MkhrQlZNdzJiNHJoMFlhYVB1SHRpRnZRajFDMUJJMlpNWGNEOEhVeXUwaXFXM1lxdHRmQ25VOG13blJuZDk0MA?oc=5"
+    },
+    {
+     "t": "NSA's Top-Secret Communications Network Down Amid Nationwide Outages",
+     "src": "TMZ",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUSm14UUtNUDNJZVp0cGtKV0FsTkg3N3VEeFdOTTJ3SlVTek84MjJNWWRZMkppTHR4YmFHRlpLMlQ4UlBlckdIZm8yUUFFMGFzaExLYVdZb3prazVoNFVwV3dMR1o3UEdXclJwVG5rYzZTeGNCWVNSLTFBdElJblZn?oc=5",
+     "t_id": "Jaringan Komunikasi Rahasia NSA Mati Di Tengah Pemadaman Nasional"
+    },
+    {
+     "t": "Major outage hits NSA's secret communications network",
+     "src": "Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRldrYTh2NzJrQU9DeVJPQVAtT1VRMG92LTBheVpXZnVSZ0pibjdTeGNSNmU0UlBFaWZ5eFlEY19OT21MZ0xtczV2NHkzOUxwTUZLZjVqZVhOaGcxWjFQZ0JOMHpCaGFWRTQzM3ZYYmpXb1BrWWpWVzRvcXNHZmkzMXBVVEsxaS1tZjFocFAzVGxHRTdnVEtVV2pXMmliVzVQbkHSAbQBQVVfeXFMTVM1ckFHb3VqVjh5SEFLSl8wZnozR01BWWN4QmpfX2otTTYzQUFvMmx2RlhyTGMwRnBvUzIzcFRFNGxEbFkxekZrVWVPWUJJVzRVTVJzbEdzZ2Y2ZnVOdWVVRXd3S2hpQVBkR19XWEY1ZFdtclZSc2I3UDQ2alRmS3FlczFpMUx0Tm95bGlzLWlDNjZ1M3BfRnNFWHNvRFNhMTEzZTZ1UTlFMFU4Y01ZZ1prZERk?oc=5",
+     "t_id": "Pemadaman besar-besaran melanda jaringan komunikasi rahasia NSA"
+    }
+   ]
+  },
   {
    "id": "perang-202611162220-fa05",
    "cat": "perang",
@@ -10,9 +51,9 @@
    "title": "Missiles! At the Crimea Bridge",
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYk5mZjN1bHBFTDcwenlYbjdrdVQySEIzeVNhTm44WkRIaHFMSC05aW5qV2U3LUQ1Wm5HYTgteUp6QTVqQ3RuUjc1NFo1TjdKQjFBT1J5a3JPN1ZMdHJTMnlLaFpjVHlkSUUwMldVVkx4VEtPdnhDVkxiV0RObGNqRE5qeUhadWpMU29xQldnbnFmNGs1b2p1WTdROUNtTWwxcWU5SFdyVXVZalByQmt1QUZUX3NwN3Y5bFdOeQ?oc=5",
-   "sources": 8,
-   "recent6h": 1,
-   "score": 8.5,
+   "sources": 7,
+   "recent6h": 0,
+   "score": 7.0,
    "level": "besar",
    "first": "2026-11-16T22:20:30Z",
    "last": "2026-11-17T14:34:44Z",
@@ -20,8 +61,8 @@
    "more": [
     {
      "t": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
-     "src": "NPR",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1bXBjSS1oSzlXdnQtZ3k2OGU1QlR0cU5qMlRqbFRmcWxZeV9YZU84eEVUeDloVWU0a2diUVMySEw0ZG1rWGpKU09MdHZWZkNUeTZJVnlmYUw0NkhEMllxM09GLURQWFpaMjMwTURB?oc=5",
+     "src": "Houston Public Media",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT2VMT3FSd3JZS0hHa0YtM2dseGw4Z3lITUlPNExwY09yY2wzamliLW9tbmY2clc5TFhVMC10TmM5eHFyejBNOGV5WTJNRjdVWmpMZlRWdkhUMUEzZm5vUFVLUm96c3B3TU9wd2xCakhlOS1jNFhEcldXZEw0YllNS181TjBuRjBmYkxmVzZhRThicHRBd2sxTmJkSWVBUkRJZ3JHSWNtZDEtNVc5bnJoRVYtcnJKZ2pXWkRST010YVdRY2JPT190Ty1EN1ZrR2MtREZyQkNfMFNhaXRIcTBtNzJvXy13UQ?oc=5",
      "t_id": "Ukraina menyerang jembatan utama Rusia dengan drone dan rudal saat serangan udara meningkat"
     },
     {
@@ -46,57 +87,27 @@
    "title_id": "Rudal! Di Jembatan Krimea"
   },
   {
-   "id": "siber-202611171550-a0f9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "NSA's highly classified communications network disrupted by widespread outage",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDI?oc=5",
-   "sources": 4,
-   "recent6h": 4,
-   "score": 6.0,
-   "level": "sedang",
-   "first": "2026-11-17T15:50:25Z",
-   "last": "2026-11-17T16:57:50Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "In Yet Another Outage, the NSA Is Down",
-     "src": "The New Republic",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVlTRUk2ZkpKeGZjQ3NnTTdpNjJ0NXBIQlRTR2lFRFpndkctRFNwbm5JaDFHUnhjblljajBMRVFTd203WC1EbUk1R3M3dkN4MkhrQlZNdzJiNHJoMFlhYVB1SHRpRnZRajFDMUJJMlpNWGNEOEhVeXUwaXFXM1lxdHRmQ25VOG13blJuZDk0MA?oc=5"
-    },
-    {
-     "t": "NSA's Top-Secret Communications Network Down Amid Nationwide Outages",
-     "src": "TMZ",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUSm14UUtNUDNJZVp0cGtKV0FsTkg3N3VEeFdOTTJ3SlVTek84MjJNWWRZMkppTHR4YmFHRlpLMlQ4UlBlckdIZm8yUUFFMGFzaExLYVdZb3prazVoNFVwV3dMR1o3UEdXclJwVG5rYzZTeGNCWVNSLTFBdElJblZn?oc=5",
-     "t_id": "Jaringan Komunikasi Rahasia NSA Mati Di Tengah Pemadaman Nasional"
-    },
-    {
-     "t": "Major outage hits NSA's secret communications network",
-     "src": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRldrYTh2NzJrQU9DeVJPQVAtT1VRMG92LTBheVpXZnVSZ0pibjdTeGNSNmU0UlBFaWZ5eFlEY19OT21MZ0xtczV2NHkzOUxwTUZLZjVqZVhOaGcxWjFQZ0JOMHpCaGFWRTQzM3ZYYmpXb1BrWWpWVzRvcXNHZmkzMXBVVEsxaS1tZjFocFAzVGxHRTdnVEtVV2pXMmliVzVQbkHSAbQBQVVfeXFMTVM1ckFHb3VqVjh5SEFLSl8wZnozR01BWWN4QmpfX2otTTYzQUFvMmx2RlhyTGMwRnBvUzIzcFRFNGxEbFkxekZrVWVPWUJJVzRVTVJzbEdzZ2Y2ZnVOdWVVRXd3S2hpQVBkR19XWEY1ZFdtclZSc2I3UDQ2alRmS3FlczFpMUx0Tm95bGlzLWlDNjZ1M3BfRnNFWHNvRFNhMTEzZTZ1UTlFMFU4Y01ZZ1prZERk?oc=5",
-     "t_id": "Pemadaman besar-besaran melanda jaringan komunikasi rahasia NSA"
-    }
-   ],
-   "title_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
-  },
-  {
-   "id": "transportasi-202611162224-b597",
+   "id": "transportasi-202611162224-6aa2",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "US Flight Disruptions November 17: United Outage Recovery, FAA Chaos & Thanksgiving",
-   "src": "Travel Tourister",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjl2NmpHNzZYU1JYRzFPck83WjR4akZHRjZMb0d3UTBvTEt3ZkN1dU80Tll3dUdzcmlwZG16bDFyb1FPSDRfWVI1bEtpSDU3RFRPSVltRW9UOG01cXdicUIwMTQyNlZQdmxNLTNETGVpb29zNDh0cTYxa2NfVy1UQ21vQWN2Yk9HNlBCdmxKRTA2UGZsOHdNX0RIWmpXQ25kWmNaSFhfcTREOEtYZ0xOM0ZNczJ0dlRrUXd2Mm0xakhodzNWd2tST3Joc2dhWktDTWpTOHE4d1F1b29OVjY1M2puaw?oc=5",
-   "sources": 6,
+   "title": "United Passengers Stuck Up to Eight Hours on Chicago O'Hare Tarmac During Nationwide FAA Ground Stop",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ea0hkV09FbVdURnN1dlVpbXlDUXZoT0NRLU80d0NScTVtT3RlQ2lHUkprTmRhZ1ZVeHlfSUs3amYyMEdYMXIxX2J1cVAtWGpPV1MwSVd3elNock9GWmJuUGtWeWRoaXVlSF9XT0Y4aTRBX00?oc=5",
+   "sources": 7,
    "recent6h": 0,
-   "score": 6.0,
+   "score": 7.0,
    "level": "besar",
    "first": "2026-11-16T22:24:16Z",
-   "last": "2026-11-17T08:25:18Z",
+   "last": "2026-11-17T10:57:26Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "US Flight Disruptions November 17: United Outage Recovery, FAA Chaos & Thanksgiving",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjl2NmpHNzZYU1JYRzFPck83WjR4akZHRjZMb0d3UTBvTEt3ZkN1dU80Tll3dUdzcmlwZG16bDFyb1FPSDRfWVI1bEtpSDU3RFRPSVltRW9UOG01cXdicUIwMTQyNlZQdmxNLTNETGVpb29zNDh0cTYxa2NfVy1UQ21vQWN2Yk9HNlBCdmxKRTA2UGZsOHdNX0RIWmpXQ25kWmNaSFhfcTREOEtYZ0xOM0ZNczJ0dlRrUXd2Mm0xakhodzNWd2tST3Joc2dhWktDTWpTOHE4d1F1b29OVjY1M2puaw?oc=5",
+     "t_id": "Gangguan Penerbangan AS 17 November: Pemulihan Gangguan Bersatu, Kekacauan FAA & Ucapan Syukur"
+    },
     {
      "t": "United Airlines confirms widespread 'system outage' just days after nationwide ground stop",
      "src": "wtwcfox",
@@ -114,15 +125,8 @@
      "src": "Travelers Today",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWNRUjlHTnI2eGZyR0FuM3QzV2I2VndNSkxRZ0FpRjhhWnBJYl9uS2VJcHphdVJ6RXBZZ3dyWEdUS3lud2I2NUtaRGtjYVpHTFZ2eThjXy1Nb0VMTUl2U2tlWHBlbHNkRHA4Rlh5TEN2ZXRNbkRyVXRqWC1Sc2dEdUF0XzM2dUZHOVBnTmR3cExsaUVPN2JwSEpEV0F0QVREd0xydHkxbmVSdlh6aWZnczZBRlczS2NNN1UzRW10azVGQkVCckZPMXNRS1ZyODho?oc=5",
      "t_id": "FAA Menyelesaikan Sistem AI senilai $875 Juta Setelah Ground Stop Menghentikan 10.000 Penerbangan"
-    },
-    {
-     "t": "United Airlines Outage Follows FAA Ground Stop in US",
-     "src": "FTN news",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3IyajhSR3BpTl9ZU1pHRHZoV21PU3BuNWlScURYcVY3WWJxRDRhWDQzQXN3R2tuZWo2bkgxYmlwXy1FdWhfdlludEUzX0t5S0d3UEhzbW1NUDNPVU1VanpkQUk3LVZmLVppOE1QMG9pMEt3ZERSMHE0WUZxaWhBX1NIWVlsbDNBaUtoYzJlU3hIc2xk?oc=5",
-     "t_id": "Pemadaman United Airlines Menyusul Ground Stop FAA di AS"
     }
-   ],
-   "title_id": "Gangguan Penerbangan AS 17 November: Pemulihan Gangguan Bersatu, Kekacauan FAA & Ucapan Syukur"
+   ]
   },
   {
    "id": "perang-202611170849-12a3",
@@ -154,36 +158,6 @@
     }
    ],
    "title_id": "Jet tempur AS menyerang situs rudal Iran di Pulau Qeshm setelah serangan di Bahrain"
-  },
-  {
-   "id": "siber-202611170343-23e8",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Tech blackout? Outages hit banks, airlines and government agencies",
-   "src": "NewsNation",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazhKY0FTLUU5aGctWVdVWWFxSTA2U2ZMelRuMnlVZEtyVG42bmpoUXhXR0NQMHJWX0ZIZmxnTlZfZzA2UjJsOVlKVGpmcnE0QXJuUmZMTUJPS21CMWJsZEc5UXAxOXJWcVJidEdkVTYxWF9pNXEwRHlSUlZUdWllSTh6VTJJSk1nTU8yNzFEeDQ2dE9pR0VTR0RIXzhOX3R1aWxj0gGoAUFVX3lxTE5xUWE1X05WVm05VUUwUFI2TjV5T0ozU29BV3FEQUdwQUFXMjV3cXZneHdCS19ubzNyaWFGcENMZTFrLURLUWNkRS1jV2JFRUZyeVdfcnBvYXpsaVRCUGhjUEE1SnE5NUZoMGtwNTdVMGpBU3BXM0dRN09qR3djQmxpRVg2ZWpFVEFUZk1ENjJRRlFBVFJwX2hMZTZLOU1qQVJ0YW92TTFQeQ?oc=5",
-   "sources": 3,
-   "recent6h": 2,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-17T03:43:23Z",
-   "last": "2026-11-17T17:27:12Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
-     "src": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
-     "t_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
-    },
-    {
-     "t": "Bank outages in US after flights and Microsoft disruptions: Is it a coordinated cyberattack?",
-     "src": "Firstpost",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkdRN2Z3cWQ0QmlpdFEzUk9TVm01U2Y5U1c4U2trWTF1Y3ZwSkZLVlZkaHZuNlkwYWI3azhBOGYyc1Nhc2oyeVQtMEVSWno0dUlWa1JYeFg3dlg5SkhzazhOazhPdWJGd3hZaFdHWUdIQkY4U1Y4WTJ1M0pYVkhKUVBvTTE0bnhVVEloTnJfbmdwdWo1SFFnS3JianVYN3lTbW9ka1pZNjRQcFlqN3hScjd1anhacmJKaDB4bDJOel9ydUZuQk94VkR5QklSQ3k1eGMwMHRR0gHbAUFVX3lxTFA1QkY4S2hpNk9DdGZ0VUY3c3BGUUJ3YUNSWmJyM0VNLTFRbkROeXlCbzg0WUFHNHNueGY0NGdPVlJwamdtbkJOb1FfMzFIWnNwZE1wTDF2b1NOWGpCaVloT1pHc0hoU05rUzV0eEJuMlczaUFVUTNLNmVIczBDSW9jUEl2aTJQWWJITHJfUHZRTzJJR3dZMTJUd3hqODNUY29sVmVRMUw1eWlGai1DelJDMnVJd19Dcl9NRWg4eXNwaUE1c3FEZWtkQWZHM0NoNTRZOXhpV01pb1ZNQQ?oc=5",
-     "t_id": "Pemadaman bank di AS setelah penerbangan dan gangguan Microsoft: Apakah ini serangan siber yang terkoordinasi?"
-    }
-   ]
   },
   {
    "id": "perang-202611170302-24e4",
@@ -248,31 +222,6 @@
    "title_id": "Spanyol memberikan suara terlebih dahulu: Apa arti pemilu cepat bagi Eropa dan Amerika Serikat"
   },
   {
-   "id": "siber-202611171433-2205",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Can U.S. power grid be hacked? Could a cyber attack cause a blackout?",
-   "src": "Delawareonline.com",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNnhWbHlqWFpSVWkzX0QtWC05dHZPLWN0MzQ5MFp2dDVlMnVxam8wa3hWTHJGV2QwVnVuYUU4RVNiREZWUE1yN1RCYmdZX1doRGY1cDd0NjFra1daUmFmUEstZG9uT0xoVkRmMTIwYjV0NnNrSHd4enpObm5KRWZVQnNHdGhXMXR3N3E0NzZ1Z0RhMXNwSlZLZGQ3S2ItVEVnUk4yaHlDcF80YWhUUVBIT3Y3d2FGWkVjdS1aUmdPcDVKdnpzYURLZmhQLUFxS21PZC1DNEI1UjZSSi1CUEpFcjkwZllvQ2QtS0RoVV9JTVFUYUU?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-17T14:33:40Z",
-   "last": "2026-11-17T18:27:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Can hackers take down the U.S. power grid? 10 key facts",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DREZpNEpWVGIxdVBueS1GN3hfUDhVZ01zYlBvZ2pxSFNzS2c1U20ybXJSc0JJWXZpQjdtcVRQZUx4UWcxZWxXMmVJNll4TWgyU3ZrdmE2OVZ3SnlBQTd3?oc=5",
-     "t_id": "Bisakah peretas mematikan jaringan listrik Amerika? 10 fakta kunci"
-    }
-   ],
-   "title_id": "Bisakah jaringan listrik AS diretas? Bisakah serangan dunia maya menyebabkan pemadaman listrik?"
-  },
-  {
    "id": "politik-202611171811-cac8",
    "cat": "politik",
    "label": "Guncangan politik",
@@ -304,7 +253,7 @@
    "lang": "id",
    "title": "Ratusan ribu warga Prancis siap turun ke jalan demo biaya hidup",
    "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMtIBsAFBVV95cUxOMlBLMEo3Mk1WV3JQUi0zOFJDVERDZFhmMUpOZmdBQ3pIQWR2SzF0MnBqZjJnWWxLbjRneExkbFhHdVdBZlZWUEtxNXVZVldnLXFKTlhmanROUzloUThZQkFpQkhWWlZhb05aOHVVOXJHNVhTeWtuSUx2YUlkd0Q1TG1fOVI5M09PRzdZSFZrcEZfZ0ZOXzZxb0hjb1hpR1drWTdZdUk1OWIzUHVmSHFYMg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTRmVjNlQ1NNLU42VjVxaF8xWG5vSnF3ZGkxbjNRRlpFbXJmREJUaWFKSUVvT05oYlZOS1BMTmVSb0hzS2FnU2p1bENoZ0FxdEt2Z0pCVmtCNGtHbHVYbmU0MmlUeHRUeDd1OWlpNEJDbHNNbHltMUt3LWNmY01BWVFYWnkxRUFVRnJ0Qk1xNzdtcDBhLVd3ckd2MDJtMXgwX2hUbVNVYzJCNldMTWc3RHg1SdIBswFBVV95cUxPcTRmVjNlQ1NNLU42VjVxaF8xWG5vSnF3ZGkxbjNRRlpFbXJmREJUaWFKSUVvT05oYlZOS1BMTmVSb0hzS2FnU2p1bENoZ0FxdEt2Z0pCVmtCNGtHbHVYbmU0MmlUeHRUeDd1OWlpNEJDbHNNbHltMUt3LWNmY01BWVFYWnkxRUFVRnJ0Qk1xNzdtcDBhLVd3ckd2MDJtMXgwX2hUbVNVYzJCNldMTWc3RHg1SQ?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
@@ -374,6 +323,31 @@
    "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
   },
   {
+   "id": "siber-202611171433-2205",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Can U.S. power grid be hacked? Could a cyber attack cause a blackout?",
+   "src": "Delawareonline.com",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNnhWbHlqWFpSVWkzX0QtWC05dHZPLWN0MzQ5MFp2dDVlMnVxam8wa3hWTHJGV2QwVnVuYUU4RVNiREZWUE1yN1RCYmdZX1doRGY1cDd0NjFra1daUmFmUEstZG9uT0xoVkRmMTIwYjV0NnNrSHd4enpObm5KRWZVQnNHdGhXMXR3N3E0NzZ1Z0RhMXNwSlZLZGQ3S2ItVEVnUk4yaHlDcF80YWhUUVBIT3Y3d2FGWkVjdS1aUmdPcDVKdnpzYURLZmhQLUFxS21PZC1DNEI1UjZSSi1CUEpFcjkwZllvQ2QtS0RoVV9JTVFUYUU?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-17T14:33:40Z",
+   "last": "2026-11-17T18:27:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Can hackers take down the U.S. power grid? 10 key facts",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DREZpNEpWVGIxdVBueS1GN3hfUDhVZ01zYlBvZ2pxSFNzS2c1U20ybXJSc0JJWXZpQjdtcVRQZUx4UWcxZWxXMmVJNll4TWgyU3ZrdmE2OVZ3SnlBQTd3?oc=5",
+     "t_id": "Bisakah peretas mematikan jaringan listrik Amerika? 10 fakta kunci"
+    }
+   ],
+   "title_id": "Bisakah jaringan listrik AS diretas? Bisakah serangan dunia maya menyebabkan pemadaman listrik?"
+  },
+  {
    "id": "siber-202611170103-3455",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -399,29 +373,29 @@
    "title_id": "Membongkar postingan media sosial yang mengklaim pemadaman listrik selama 90 hari akan dimulai pada 17 November"
   },
   {
-   "id": "siber-202611162338-dd93",
+   "id": "siber-202611170343-23e8",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "1.5-hour-long system outage forces United Airlines to delay departing flights",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
+   "title": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
+   "src": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
    "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
+   "recent6h": 1,
+   "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-16T23:38:33Z",
-   "last": "2026-11-17T09:19:00Z",
+   "first": "2026-11-17T03:43:23Z",
+   "last": "2026-11-17T16:21:13Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "United Airlines says it has resolved a ‘widespread system outage’",
-     "src": "NBC News",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1cwM1owOU9ZcllpZ3NJQ3Ffc3pERy1ZTG1ObEp3bmJWQnJ1UGF0cERIb1NqcGc3Zi1fQ3FOckdnbkZDQkxpaElOcWJ5bWZxVEI5Rk1rRDdtRnpnVWlDNUxQT0lpd2FjejJtcm1ocFVQNVF6RHZpS1VfWmZ5MF9GSE1NMA?oc=5",
-     "t_id": "United Airlines mengatakan telah menyelesaikan 'pemadaman sistem yang meluas'"
+     "t": "Bank outages in US after flights and Microsoft disruptions: Is it a coordinated cyberattack?",
+     "src": "Firstpost",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkdRN2Z3cWQ0QmlpdFEzUk9TVm01U2Y5U1c4U2trWTF1Y3ZwSkZLVlZkaHZuNlkwYWI3azhBOGYyc1Nhc2oyeVQtMEVSWno0dUlWa1JYeFg3dlg5SkhzazhOazhPdWJGd3hZaFdHWUdIQkY4U1Y4WTJ1M0pYVkhKUVBvTTE0bnhVVEloTnJfbmdwdWo1SFFnS3JianVYN3lTbW9ka1pZNjRQcFlqN3hScjd1anhacmJKaDB4bDJOel9ydUZuQk94VkR5QklSQ3k1eGMwMHRR0gHbAUFVX3lxTFA1QkY4S2hpNk9DdGZ0VUY3c3BGUUJ3YUNSWmJyM0VNLTFRbkROeXlCbzg0WUFHNHNueGY0NGdPVlJwamdtbkJOb1FfMzFIWnNwZE1wTDF2b1NOWGpCaVloT1pHc0hoU05rUzV0eEJuMlczaUFVUTNLNmVIczBDSW9jUEl2aTJQWWJITHJfUHZRTzJJR3dZMTJUd3hqODNUY29sVmVRMUw1eWlGai1DelJDMnVJd19Dcl9NRWg4eXNwaUE1c3FEZWtkQWZHM0NoNTRZOXhpV01pb1ZNQQ?oc=5",
+     "t_id": "Pemadaman bank di AS setelah penerbangan dan gangguan Microsoft: Apakah ini serangan siber yang terkoordinasi?"
     }
    ],
-   "title_id": "Pemadaman sistem selama 1,5 jam memaksa United Airlines menunda keberangkatan penerbangan"
+   "title_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
   },
   {
    "id": "kesehatan-202611161853-ef0d",
