@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T23:34:09Z",
+ "updatedAt": "2026-11-18T23:48:52Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "3 oil tankers disabled by mine blasts in Strait of Hormuz: Iranian army",
+   "src": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmJkTW5ZSjZpYUlLRFJ1ZGZNdGJwUXB2VDhhOEduXzJrc3oxWkpuaENiVkNCR0dTZndKZHV5T0t0cUYtdTBwWTVxVXVuSURtR2pWb0RZczhSOVg5Q09GdFlKR05nc2NrenNvbHRiRUFIdll3RjJqV2NqTXdRVlE2NGZUck1FOXdHSzZNVkRuOEdUQWNNT1hxNXp1ZXpOR3dHNW9tc2NHampCT2lqWlF5dUhZWEhyUQ?oc=5",
+   "time": "2026-11-18T23:36:15Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -164,12 +172,12 @@
    "time": "2026-11-18T20:41:00Z"
   },
   {
-   "topic": "saham-as",
+   "topic": "bank-sentral",
    "lang": "en",
-   "t": "Wall Street zigzags as Nvidia and other AI stocks keep swinging",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
-   "time": "2026-11-18T20:11:00Z"
+   "t": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
+   "time": "2026-11-18T20:35:00Z"
   },
   {
    "topic": "bank-sentral",
@@ -229,14 +237,6 @@
    "time": "2026-11-18T19:15:02Z"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Saw Need to Keep Raising Rates Despite Holding Steady in October",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
-   "time": "2026-11-18T19:09:22Z"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Nvidia's $130 Billion Forecast Sparks Fresh AI Stock Rally",
@@ -252,6 +252,22 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
    "time": "2026-11-18T18:19:27Z",
    "t_id": "Harga Emas Hari Ini | Harga Emas Per Ons | Grafik Spot 24 Jam"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "AI stocks hold steadier after Nvidia says it still sees strong growth ahead",
+   "src": "WJTV",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVVoWUhqcEYtZ0JNS0NDTjJLQ19CMUVhc2I4d2lXTUY4Y2tELUEwS3dvbXd0U3lOb3JQQy1oTVJtQmhzaU4zSHBoZS1GT19oT25DZ2p0NlItVF8xY3MyeGxvdThObjVrQk5wTmVuQUlobGd4SFZlOXMyYnZFV3J0MjFXX1ROUkxIeWo1ZU14NklBR3UyLVduWXZSdUlQdUJPMnAtcNIBqgFBVV95cUxPd3NCM1FrVU9MSW94ZkZENXVGLWVLNEZhUlJxQl9oRFo4NWNINkNtOTVBSFV2RjJpTGVHVUpQX3BtbEZhUjdFZG1EeVlyX0g2TkFObVY5RVZwNXlPYVowdFMtV3dZdTJxUkZiX0xwQl85UFlrSlhhWl9MRGxmcE5Zcm1OUkFlUTBJbTZESG12RXhHd0MwSndIdnpITmpNNWNZRHpXVjVFeWlxZw?oc=5",
+   "time": "2026-11-18T18:05:26Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "CNAF Sebut BI Rate Ditahan 5,75% Bukan Jadi Pertimbangan Utama Menerbitkan Obligasi",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xUGVVSlZUcEo1aTFDOXhXWExabWxTTTJtQmlOWDlNR1dqeFFZRG9Pc1NWVEpIMzg1X01URk51b1hkbkJqbHBEU0o3Wmxpd05zbm1FYTJfaV84YlZQeERGZE9UcjdsQQ?oc=5",
+   "time": "2026-11-18T17:50:09Z"
   },
   {
    "topic": "emas",
@@ -286,12 +302,13 @@
    "time": "2026-11-18T17:10:00Z"
   },
   {
-   "topic": "geopolitik",
+   "topic": "emas",
    "lang": "en",
-   "t": "Iran Ratchets Up Threats Against US, Amplifying Global Oil, Natural Gas Vulnerabilities",
-   "src": "Natural Gas Intelligence",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSDNxeFNWTmVaWEZ6eEp0QlB4M3hUcVhnQnNlRmNTcTk5ZnZCcElXa0FVVm9kM1FBdkdLY0hiYWMwOHVMQmpqaENaNVBFSEFtekU5YU9RNDJkNEFKQUxNOUxnWUxQQjVGTEJXa2EyeVBJX0F3dy1MRXNXOUJ2b0RkR0FyZlJCcjNYNkdqSkxKRXVBZHRPUG02TE9tZEFTeXVyeGNBbnRTS3I3M1o4bS1pXzRCUzdQQ3JuanlB?oc=5",
-   "time": "2026-11-18T16:37:00Z"
+   "t": "Gold and Silver 'Can't Find a Floor' as Waller Calls for Fed Rate Hike",
+   "src": "BullionVault",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG1PTzRTaDdGTFl0dDhWSVRRRTBjZmQtTWNZTGlCNnM0Q0YzM014dTkycjVOVWZiOS1nRWZQSUlmNkc1YUdBNUZoalEtSW9zMS1MX1Zod3lRRnltWjY0NVNCY3U5Vllld0g5cldYdkRCUVNaZlVLNnpQdnFVTFBzb2VIVV9fVVlNeG1YWnRhSlNubm9tTHhZ?oc=5",
+   "time": "2026-11-18T16:00:16Z",
+   "t_id": "Emas dan Perak 'Tidak Dapat Menemukan Dasarnya' saat Waller Menyerukan Kenaikan Suku Bunga Fed"
   },
   {
    "topic": "saham-as",
@@ -482,22 +499,6 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTlVb05fM1ZCSVozekI3ZDZNMkhfM3RKVDJoY0hfWnBONjBzUXVwTEJOaXFjaWlBOVcwSmFLbTZac1hmU2FHUkV5Q053eWhSUUczSFFJenByOW1iU0VNQ0w3TFZKdlVBTjB2TGQwd1ZSa1VMNF9CMFFwTjFlazBWZHBXTUliMER2dnlYdVJKTDR5bDB3bDZVRXpSd1lXeGY4?oc=5",
    "time": "2026-11-18T10:12:02Z",
    "t_id": "Apakah Pasar Saham Benar-Benar Berada dalam Gelembung AI? Para Penghancur Wall Street Mengabaikan Fakta Penting."
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Bank Indonesia Hikes Interest Rate to 6% in November 2026 to Curb Rupiah Depreciation",
-   "src": "Databoks",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenFlX0plcmJYcTlXWXFwenBsRHFKY2tweERZNkUxLUhXRU1UVWxjcTVTRHo1OXE2TnUwUVFoWUVjb2NJNWZxanF0YVJMeEtTdnBlOW5MVUJfaVNnSXlWMUpMUVJmbEVPaHNFc1lMTWZfbG9la2VJSmFreEh1UTh0aWdlZnluSDhRa3BGYWxlZ05peTJSZzN5M2ZySUM2bGZibHFyby1xOVhVY1lXZk1IRkl5eTJXVm9FeDRHaUtjc0xUSzJwREI5eTBkUHB0czJTME9RakxvaXlpTk5VbzRuemh2ai1zZnp5?oc=5",
-   "time": "2026-11-18T10:11:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG ambles 1,07% usai BI Rate naik, rupiah menguat tipis",
-   "src": "IDNFinancials",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0w2a2RUdVg4THlOTmVmakNNVjZwc0pvbV9ZN1gxNDdpWElrRjVQeDhvR3poZG92eGtvWnQ4cVJfNWhybUd4WjZwby1jNVNIbHhxN3RtWUdIT2NfbXF5STVDd3NhR0lDMlViTFM1ZW1HSklXeFVBSUxxaFJ3Z1Fwai1raGJ6OHRaWEo0aGtULWt4V3VfYmROdEx0MDVldXJs?oc=5",
-   "time": "2026-11-18T10:10:00Z"
   }
  ],
  "errors": []
