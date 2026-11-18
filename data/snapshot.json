@@ -667,6 +667,17 @@
       "ihsg": 5337.07,
       "usdidr": 18255.0,
       "ust10": 5.103
+    },
+    {
+      "t": "2026-11-18T10:05:00Z",
+      "risk": 80,
+      "btc": 64603.35,
+      "gold": 3783.1,
+      "brent": 89.28,
+      "spx": 7340.53,
+      "ihsg": 5247.879,
+      "usdidr": 18225.0,
+      "ust10": 5.103
     }
   ],
   "horizons": [
@@ -723,8 +734,8 @@
       "targets": [
         {
           "key": "ihsg",
-          "low": 4793.0,
-          "high": 5889.0
+          "low": 4784.0,
+          "high": 5882.0
         },
         {
           "key": "usdidr",
@@ -815,8 +826,8 @@
         },
         {
           "key": "ihsg",
-          "low": 4445.5,
-          "high": 6350.0
+          "low": 4436.0,
+          "high": 6343.0
         },
         {
           "key": "spx",
@@ -1113,6 +1124,22 @@
   },
   "news": [
     {
+      "t": "Bank Indonesia menaikkan BI-Rate 25 bps ke 6,00%, di atas ekspektasi pasar, untuk menjaga rupiah dan inflasi",
+      "src": "KONTAN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcklSTERhZ09JZnJaRnJzZUpNVk5fSTB3Vld2Z1NOU2RwUWFaM1JYbHNBckZjcHNrQmhlMndFd3NFcVNFT1lPTDUzYk5ncVEzaFJTZnAtQXdGazJVbHRpSFc2YmhaTmVRXzFIZHlQdGtzaDlYcE41M21ZeUh6R2h5V0JGd1NvQ2gtbGFta2J5UjdHR01idVJNRHUyTFJPbzlNU2c?oc=5",
+      "time": "2026-11-18T07:55:00Z",
+      "impact": "netral",
+      "assets": "Rupiah, SBN, IHSG, deposito"
+    },
+    {
+      "t": "IHSG ditutup melemah 1,07% ke 5.247 setelah BI menaikkan suku bunga",
+      "src": "pasardana.id",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPblZoQUFleG9SbXhVNlhyUnNFM3lzaEl5N1NzLXotY1JXMzBaWXZ4TGppeFhldTBsZkNucG90SU5QTllVU3lvcnVJNm9yWGktYnZhOE9YRF9vX3NUNU45OUFhaWstamsxWkpkbzBoVGlnbWZrYmtsYkJhbTlmREs0aE9kUWdyU3h6RTVxVTFkZ1NrRmc?oc=5",
+      "time": "2026-11-18T09:35:00Z",
+      "impact": "turun",
+      "assets": "IHSG, saham perbankan"
+    },
+    {
       "t": "Emas jatuh ke level terendah lebih dari setahun karena dolar kuat dan prospek suku bunga AS",
       "src": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
@@ -1135,14 +1162,6 @@
       "time": "2026-11-18T01:59:29Z",
       "impact": "naik",
       "assets": "Dolar, rupiah, emas"
-    },
-    {
-      "t": "Rupiah terpuruk, ekonom terbelah soal BI-Rate: ditahan 5,75% atau naik",
-      "src": "Kompas.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEhwQzFEQVFNb3lhNUZSWXpFZHFfR2tCMkZGYWQyRmpNZGlYNXpkbVJXS18wQnYtMm1mMnVlQ1NoOVlYU0d6cnhUQUQ3RVRQc3Q3MVB6TWZURnVZSTIxb1EwSnY3TVdMTzFCNTNJWEdfTnhiZklUMWZrTnd2d2xWZzZ5X1lOd1AzQW9BY3hJZ0oza05QMFlGVkR4MW94TTZpTl8wYUEtMm5mS1JVR0JqS0dyS2E1MzlNRUQ5MGRTRDVIVjYzM3hBTA?oc=5",
-      "time": "2026-11-18T00:20:00Z",
-      "impact": "netral",
-      "assets": "Rupiah, SBN, IHSG"
     },
     {
       "t": "Nvidia laporkan pendapatan kuartal III $115,8 miliar di atas perkiraan; saham chip lain ikut naik",
@@ -1199,14 +1218,6 @@
       "time": "2026-11-17T12:34:54Z",
       "impact": "naik",
       "assets": "Minyak, emas, rupiah"
-    },
-    {
-      "t": "Pejabat Fed Musalem: AS kemungkinan butuh beberapa kenaikan suku bunga hingga musim semi 2027",
-      "src": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmh3bk9iaG5YQ2V2dzZUMkQ1aGQ2LWNfdHFCWkVaOUtyWFdHS3lFTzZJTDhsQnItcnN4N2NibjRLNXZIbHVvSllBY0Jyc201azJtbUNnWkRndWlPN05sZUVaWkJBZFlTTGJzYWFFLWRqN2R6X25jRllRT1hHekZ2aFRweE5rbHM3Z3p1SHoxR2UwR1VnMWVnbWZ3ZmRHSTkyR2lhU3p1NzNFZFBjMEtRQ25iZnpwVEhBZTd3bw?oc=5",
-      "time": "2026-11-17T12:33:45Z",
-      "impact": "turun",
-      "assets": "Obligasi AS, saham, rupiah"
     }
   ],
   "readings": [
@@ -1224,31 +1235,31 @@
     },
     {
       "c": "neg",
-      "d": "Turun 0,3 % hari ini",
+      "d": "Turun 0,4 % hari ini",
       "h": "ust10",
       "k": "Obligasi AS 10 thn",
       "v": "5,10%"
     },
     {
-      "c": "neg",
-      "d": "Turun 1,1 % hari ini",
+      "c": "neu",
+      "d": "Turun 4,1 % hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$92,10"
+      "v": "$89,28"
     },
     {
       "c": "neg",
-      "d": "Anjlok 2,2 %, terendah >1 tahun",
+      "d": "Turun 2,1 %, dekat terendah 14 bln",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.779"
+      "v": "$3.783"
     },
     {
       "c": "neg",
-      "d": "Turun 0,4 % hari ini",
+      "d": "Turun 0,5 % hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$64.599"
+      "v": "$64.603"
     },
     {
       "c": "neg",
@@ -1258,31 +1269,31 @@
       "v": "7.341"
     },
     {
-      "c": "neu",
-      "d": "Naik 0,6 % hari ini",
+      "c": "neg",
+      "d": "Turun 1,1 % hari ini",
       "h": "ihsg",
       "k": "IHSG",
-      "v": "5.337"
+      "v": "5.248"
     },
     {
       "c": "neg",
-      "d": "Naik 0,8 % hari ini",
+      "d": "Naik 0,6 % hari ini",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.255"
+      "v": "18.225"
     },
     {
       "c": "neu",
-      "d": "Ditahan (60%) atau naik (40%)",
+      "d": "Naik 25 bps, di atas ekspektasi",
       "k": "BI-Rate",
-      "v": "5,75%"
+      "v": "6,00%"
     }
   ],
-  "regimeText": "Minyak tetap tinggi akibat ketegangan di Selat Hormuz, sementara pejabat Fed menyebut perlunya beberapa kenaikan bunga lagi. Hasil Nvidia yang kuat sedikit meredam tekanan pada saham AI, namun rupiah masih rentan jelang keputusan BI.",
+  "regimeText": "Minyak tetap tinggi akibat ketegangan di Selat Hormuz dan pejabat Fed masih membuka kenaikan bunga lagi. Bank Indonesia menaikkan BI-Rate ke 6,00% untuk menahan rupiah, yang mendukung mata uang tetapi menekan saham.",
   "regimeTitle": "Stagflasi, risiko tinggi",
-  "risk": 81,
-  "riskNote": "Risiko bertahan tinggi: Teluk/Hormuz memanas, dolar kuat menekan emas, dan keputusan BI hari ini menentukan arah rupiah.",
-  "updatedAt": "2026-11-18T06:58:38Z",
+  "risk": 80,
+  "riskNote": "Risiko tinggi bertahan: Hormuz memanas dan dolar kuat, sedikit diredam langkah BI menaikkan bunga.",
+  "updatedAt": "2026-11-18T10:05:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1572,13 +1583,13 @@
   "riskParts": [
     {
       "k": "Geopolitik",
-      "v": 91,
+      "v": 90,
       "note": "AS serang Qeshm, Iran balas ke Kuwait"
     },
     {
       "k": "Inflasi & suku bunga",
-      "v": 80,
-      "note": "Musalem: beberapa kenaikan bunga diperlukan"
+      "v": 81,
+      "note": "BI naik 25 bps; Fed masih condong naik"
     },
     {
       "k": "Valuasi saham",
@@ -1592,29 +1603,31 @@
     },
     {
       "k": "Indonesia",
-      "v": 78,
-      "note": "Rupiah ~18.255, menanti keputusan BI"
+      "v": 76,
+      "note": "BI naik ke 6%, rupiah masih ~18.225"
     }
   ],
-  "alerts": [],
+  "alerts": [
+    {
+      "id": "2026111807-bi-rate-naik-6",
+      "time": "2026-11-18T07:00:00Z",
+      "level": "penting",
+      "title": "BI kejutkan pasar: BI-Rate naik 25 bps ke 6,00%",
+      "body": "Bank Indonesia menaikkan BI-Rate dari 5,75% ke 6,00%, di atas ekspektasi, demi menjaga rupiah. IHSG ditutup -1,07%; rupiah, SBN, deposito dan saham perbankan terdampak.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcklSTERhZ09JZnJaRnJzZUpNVk5fSTB3Vld2Z1NOU2RwUWFaM1JYbHNBckZjcHNrQmhlMndFd3NFcVNFT1lPTDUzYk5ncVEzaFJTZnAtQXdGazJVbHRpSFc2YmhaTmVRXzFIZHlQdGtzaDlYcE41M21ZeUh6R2h5V0JGd1NvQ2gtbGFta2J5UjdHR01idVJNRHUyTFJPbzlNU2c?oc=5"
+    }
+  ],
   "brief": {
     "date": "2026-11-18",
     "points": [
-      "Risiko tetap tinggi 81/100: AS dilaporkan menyerang situs rudal Iran di Pulau Qeshm, dan Iran membalas dengan klaim serangan ke sasaran AS di Kuwait; Selat Hormuz belum aman.",
-      "Emas anjlok sekitar 2% ke kisaran $3.779 (terendah lebih dari setahun) karena dolar kuat dan prospek kenaikan bunga Fed; imbal hasil UST 10 tahun 5,10%.",
-      "Rupiah melemah ke sekitar 18.255 per dolar AS, IHSG 5.337 (+0,6%), Brent $92,10, Bitcoin sekitar $64.600.",
-      "Keputusan BI-Rate (RDG 17–18 November) belum terverifikasi saat analisis ini ditulis; BI-Rate saat ini 5,75% dan sebagian ekonom memperkirakan tetap, sebagian menduga naik.",
-      "Pantau: hasil RDG BI, perkembangan Hormuz/Teluk, saham AI pasca laporan Nvidia, dan rapat OPEC+ 29 November."
+      "Bank Indonesia mengejutkan pasar: BI-Rate naik 25 bps ke 6,00% (ekspektasi: ditahan 5,75%) demi menahan rupiah dan inflasi. Kabar ini dilaporkan banyak media nasional.",
+      "IHSG ditutup turun 1,07% ke 5.248; rupiah masih di sekitar 18.225 per dolar AS. Kenaikan bunga mendukung rupiah, tetapi menekan saham dan kredit.",
+      "Teluk/Hormuz tetap panas (AS serang situs rudal Qeshm, klaim ranjau dan tanker terkena), namun Brent turun ke $89,28 (-4%) setelah stok minyak AS naik.",
+      "Emas bertahan dekat terendah 14 bulan ($3.783) karena dolar kuat dan taruhan kenaikan bunga Fed; UST 10 tahun 5,10%. Saham AS turun 1,0%, futures rebound berkat hasil Nvidia.",
+      "Pantau: notulen rapat Fed, perkembangan Hormuz, efek MSCI 30 November, dan rapat OPEC+ 29 November."
     ]
   },
   "calendar": [
-    {
-      "d": "2026-11-18",
-      "t": "Keputusan BI-Rate (RDG 17–18 November)",
-      "c": "ID",
-      "imp": "tinggi",
-      "url": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2730825.aspx"
-    },
     {
       "d": "2026-11-25",
       "time": "20:30",
@@ -1694,6 +1707,18 @@
   ],
   "events": [
     {
+      "t": "Bank Indonesia kejutkan pasar, BI-Rate naik 25 bps ke 6,00%",
+      "what": "Dalam RDG 17–18 November, BI menaikkan BI-Rate dari 5,75% ke 6,00%, lebih tinggi dari ekspektasi mayoritas, setelah rupiah jatuh ke rekor terendah. Banyak media nasional melaporkannya.",
+      "impact": "Mendukung rupiah dan menekan inflasi impor, tetapi menambah beban saham, kredit dan KPR; imbal deposito/SBN cenderung naik.",
+      "assets": "Rupiah, IHSG, SBN, deposito",
+      "sev": "tinggi",
+      "status": "berlangsung",
+      "cat": "keuangan",
+      "time": "2026-11-18T07:00:00Z",
+      "src": "CNBC Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNE10VmlLZHp6NE5xVVVBZWJtR0dSbWMyTWZFUnM0MlNNdm14d0RnYnh4SUJnajNUWXFpbUotYm1yalBGM0NTaFU5RFZ4a2xMRlZ1MHRVLWpHS0wtaW9reks5eTZDSWpkeUlpQkQ4UFdodGRkNEZyeF83Qi1YUUdZb2JhYWc2bTBqb2tmYXh3U3AyWVF4MVlwTUZxdFZyak5PcjBGVEpvaEFxTVBpcFk2MUNQVEN6VnNh0gG-AUFVX3lxTE55c3dSNDI1bVNEc1B2OUZCSzg5cFVRZWxNS19jckdlemEwcFZSVmNoa2pkM1A4aVFLLXBlSDQyeVdSZkZpMFhIZmtmTE94Y3FaV3ZId0NfZlNqenBFZTJGMWVsRDRxSnFlcWxROERCX2hSWjJDYUpocG83V29KNmtKOWNEZ2taczFVa0lBeDA4eFdnZ1RmdTJuZUc5bEFFb1lXUTNvU1hUa0RReWhTTU9tV1F0VUFrOFZWdmtoNVE?oc=5"
+    },
+    {
       "t": "Jet tempur AS serang situs rudal IRGC di Pulau Qeshm setelah serangan ke Bahrain",
       "what": "Sejumlah media melaporkan jet tempur AS menyerang situs rudal Garda Revolusi Iran di Qeshm, dekat Selat Hormuz, setelah serangan di Bahrain; Kuwait melaporkan serangan drone. Klaim kedua pihak belum terverifikasi independen.",
       "impact": "Risiko pasokan minyak naik; minyak, emas dan dolar cenderung terdorong naik, rupiah rentan tertekan.",
@@ -1747,7 +1772,7 @@
       "impact": "Dampak pasar kecil jika gangguan cepat pulih; perlu dipantau bila berlanjut.",
       "assets": "Saham bank AS, dolar",
       "sev": "rendah",
-      "status": "mereda",
+      "status": "selesai",
       "cat": "siber",
       "time": "2026-11-16T18:38:00Z",
       "src": "CBS News",
@@ -1824,18 +1849,6 @@
       "time": "2026-11-14T03:17:37Z",
       "src": "Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1ctcXFtZWZ5OUVTZ19iTlA5SWJEZThlTlRWVEdaWFlhazgtdmViUmNOMHg2bU14RFRZdkU5amN3VlhZWU5oRXZGRG5NV1ZfUWVzQjhuaXVaZTdrSGg0cmNVM3oxZXRlQzU0MjMzTmpRb2FmQU1WZ3FtU0UyYjE2NGNBZG0wY1NmODFWZjNpd2ZUYThJY3BYeEo4TUYtYlBx?oc=5"
-    },
-    {
-      "t": "Demo di Yogyakarta: polisi jelaskan isu truk pembawa massa",
-      "what": "Aksi unjuk rasa berlanjut; polisi DIY menyebut orang di truk yang ramai dibicarakan adalah anggota reserse.",
-      "impact": "Ketidakpastian politik dapat menekan IHSG dan rupiah bila demo membesar.",
-      "assets": "IHSG, rupiah, SBN",
-      "sev": "sedang",
-      "status": "berlangsung",
-      "cat": "indonesia",
-      "time": "2026-11-13T14:21:45Z",
-      "src": "Holopis",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV2amtTS0hPUnhOYTJYN3ljUnZyRHJkZWlnbzRzc3R6YW1yZzZ5Q1Q2OUlPanN1Y1BhVlE2WHBEUi1fZVE2a0NUbDFrZjcyUUpQcG44YXhPSDhtdFh5ZngyeGNzZjNsdlFwTktRLWNpZW5XYnlGWnh6V1R6UWpReWhsNElDcDEwUE5QQmxELUhsQ29EZFp3UkloVlRGVVhzRS0w?oc=5"
     }
   ]
 }
