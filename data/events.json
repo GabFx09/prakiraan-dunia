@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T01:55:46Z",
+ "updatedAt": "2026-11-18T02:10:27Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -50,17 +50,23 @@
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
-   "src": "ABC7 Chicago",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
-   "sources": 8,
-   "recent6h": 1,
-   "score": 8.5,
+   "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzlLcDdqRnN3R1BCUzdfblFWaTZKdEc5ckZldXJ0MGVTdmlLNmdCdWZuWTZqVFdyOUJMN29oSE9VcF9lY2x6cDlWN21lSk1FSnEtZjFGcHRjXy10N0ZWVU9yWC16SkNaZkFXc210em5ockpfZDlKQ0xKQXotaGRZOThOT1lsYk5wY2swMnBQSERBTE5OcElWN1pTdnBJUFF0RWZMSEpIRTd1bUxhcjUtQWxia9IBuAFBVV95cUxNUkI4OHV1OUZJWW1TSFVBc251dG5CTWg4QXNWQmNKNmlqd3gxd2RHVDJrQ1RramtrLUFpZDh3UHFTVmZvWHU4UkxUR2dfeXNVSVFDOUs0YXBkN1BOZFpKRWVobjFGNnlfbzQ1VHNad284QXZiYWYxSmV4ZktLVXNRUjVDbEFSSUZucDg0SFdCVVBRd2ZSaXdqSV9nTkIxTE0yVVEwaG16RlJ3Q2tFYzdObWlvQjNNNkh6?oc=5",
+   "sources": 9,
+   "recent6h": 2,
+   "score": 10.0,
    "level": "besar",
    "first": "2026-11-17T15:50:25Z",
    "last": "2026-11-17T23:02:15Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
+     "src": "ABC7 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
+     "t_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
+    },
     {
      "t": "Classified US communication network back up after outage hit system",
      "src": "New York Post",
@@ -78,15 +84,8 @@
      "src": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2VpdVNyenpTWkdETDVBMmgtZ0hzZmRyUFZWZkRzOUMtNEp6MVlmd1p2emRoMS11TTZYTUp6QmhYRzcwZ3dOQTd1ZU5zRTByRk9fckZsZ3Vrd2hkQlVsU0hnVi11Wk9nVXF5b3UtUG9NcHdORWNtOHJ5ZHA5RFg0SVZKT09BWTQ2T3FGc3hDRHdhTnc?oc=5",
      "t_id": "NSA Down: Juru Bicara Mengatasi Gangguan Saat Serangan Siber Diabaikan"
-    },
-    {
-     "t": "NSA's highly classified communications network disrupted by widespread outage",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDLSAa4BQVVfeXFMT0lwZjRuaUlFN0hObHBJdTYwRjQ2NnpDaGhLdTd0bUJMMzZoUVZ5NjljcGJRZ053dHhpdUlBS3VpcnpCSGZYNC04akllRndxOWlvYk1JSHZGMF9US3JPekN2dGl4YXRYdy1wLVcxaHJXQ3NwOExJS29iMGpxaUVaM2JDNGxiSmdKNi1hSlU4bkx2Z3F6Sk9tTGdFdUhFeDF5TUs0ZktpMUM5WUN6VHdB?oc=5",
-     "t_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
     }
-   ],
-   "title_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
+   ]
   },
   {
    "id": "perang-202611170849-3a79",
@@ -170,49 +169,6 @@
    ]
   },
   {
-   "id": "transportasi-202611170425-da2e",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Flight status tracker: How to check online after FAA grounds all flights",
-   "src": "Mashable",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDBuWnRiRGdCdmt4X0h6azFIM0pnWkJWanNFd1BxX21vNWxiU2lPdjZZRDZNM0x6SUxjMEhkOEdJRDNDT2xJbWdOa0kzOUZOWnJNYTdoTHRiOV9aMnVJZFg0YlhDQl9XdXAtclhtbEw2bUlrS2tsSWIxVXVrSEF4N3J3cVBiY0hycjRkZHY5OA?oc=5",
-   "sources": 5,
-   "recent6h": 2,
-   "score": 6.0,
-   "level": "sedang",
-   "first": "2026-11-17T04:25:12Z",
-   "last": "2026-11-17T22:30:04Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "FAA ground stop explained, and how rare nationwide ones are",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
-     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
-    },
-    {
-     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5",
-     "t_id": "13 Senator AS Meminta FAA untuk Menjeda Penggantian Router Setelah Ground Stop Nasional"
-    },
-    {
-     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
-     "src": "Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
-     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
-    },
-    {
-     "t": "FAA Clears Its $875 Million AI System After Ground Stop Grounds 10,000 Flights",
-     "src": "Travelers Today",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWNRUjlHTnI2eGZyR0FuM3QzV2I2VndNSkxRZ0FpRjhhWnBJYl9uS2VJcHphdVJ6RXBZZ3dyWEdUS3lud2I2NUtaRGtjYVpHTFZ2eThjXy1Nb0VMTUl2U2tlWHBlbHNkRHA4Rlh5TEN2ZXRNbkRyVXRqWC1Sc2dEdUF0XzM2dUZHOVBnTmR3cExsaUVPN2JwSEpEV0F0QVREd0xydHkxbmVSdlh6aWZnczZBRlczS2NNN1UzRW10azVGQkVCckZPMXNRS1ZyODho?oc=5",
-     "t_id": "FAA Menyelesaikan Sistem AI senilai $875 Juta Setelah Ground Stop Menghentikan 10.000 Penerbangan"
-    }
-   ],
-   "title_id": "Pelacak status penerbangan: Cara memeriksa online setelah FAA menghentikan semua penerbangan"
-  },
-  {
    "id": "perang-202611170809-fa05",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -256,6 +212,49 @@
    "title_id": "Rudal! Di Jembatan Krimea"
   },
   {
+   "id": "transportasi-202611170425-4213",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
+   "sources": 4,
+   "recent6h": 2,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-17T04:25:12Z",
+   "last": "2026-11-18T00:18:16Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA ground stop explained, and how rare nationwide ones are",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
+     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
+    },
+    {
+     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5",
+     "t_id": "13 Senator AS Meminta FAA untuk Menjeda Penggantian Router Setelah Ground Stop Nasional"
+    },
+    {
+     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
+     "src": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
+     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
+    },
+    {
+     "t": "FAA Clears Its $875 Million AI System After Ground Stop Grounds 10,000 Flights",
+     "src": "Travelers Today",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWNRUjlHTnI2eGZyR0FuM3QzV2I2VndNSkxRZ0FpRjhhWnBJYl9uS2VJcHphdVJ6RXBZZ3dyWEdUS3lud2I2NUtaRGtjYVpHTFZ2eThjXy1Nb0VMTUl2U2tlWHBlbHNkRHA4Rlh5TEN2ZXRNbkRyVXRqWC1Sc2dEdUF0XzM2dUZHOVBnTmR3cExsaUVPN2JwSEpEV0F0QVREd0xydHkxbmVSdlh6aWZnczZBRlczS2NNN1UzRW10azVGQkVCckZPMXNRS1ZyODho?oc=5",
+     "t_id": "FAA Menyelesaikan Sistem AI senilai $875 Juta Setelah Ground Stop Menghentikan 10.000 Penerbangan"
+    }
+   ],
+   "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
+  },
+  {
    "id": "kesehatan-202611171452-0a8e",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -285,36 +284,6 @@
     }
    ],
    "title_id": "Layanan Hewan Kabupaten Guilford menghentikan asupan kucing sehat setelah wabah virus"
-  },
-  {
-   "id": "siber-202611170343-5af5",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-17T03:43:23Z",
-   "last": "2026-11-17T20:35:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
-     "src": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
-     "t_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
-    },
-    {
-     "t": "Bank outages in US after flights and Microsoft disruptions: Is it a coordinated cyberattack?",
-     "src": "Firstpost",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkdRN2Z3cWQ0QmlpdFEzUk9TVm01U2Y5U1c4U2trWTF1Y3ZwSkZLVlZkaHZuNlkwYWI3azhBOGYyc1Nhc2oyeVQtMEVSWno0dUlWa1JYeFg3dlg5SkhzazhOazhPdWJGd3hZaFdHWUdIQkY4U1Y4WTJ1M0pYVkhKUVBvTTE0bnhVVEloTnJfbmdwdWo1SFFnS3JianVYN3lTbW9ka1pZNjRQcFlqN3hScjd1anhacmJKaDB4bDJOel9ydUZuQk94VkR5QklSQ3k1eGMwMHRR0gHbAUFVX3lxTFA1QkY4S2hpNk9DdGZ0VUY3c3BGUUJ3YUNSWmJyM0VNLTFRbkROeXlCbzg0WUFHNHNueGY0NGdPVlJwamdtbkJOb1FfMzFIWnNwZE1wTDF2b1NOWGpCaVloT1pHc0hoU05rUzV0eEJuMlczaUFVUTNLNmVIczBDSW9jUEl2aTJQWWJITHJfUHZRTzJJR3dZMTJUd3hqODNUY29sVmVRMUw1eWlGai1DelJDMnVJd19Dcl9NRWg4eXNwaUE1c3FEZWtkQWZHM0NoNTRZOXhpV01pb1ZNQQ?oc=5",
-     "t_id": "Pemadaman bank di AS setelah penerbangan dan gangguan Microsoft: Apakah ini serangan siber yang terkoordinasi?"
-    }
-   ]
   },
   {
    "id": "perang-202611170302-8927",
@@ -470,31 +439,6 @@
     }
    ],
    "title_id": "Wabah Ebola di Kongo: Bagaimana Ketakutan dan Ketidakpercayaan Mendorong Penyebaran Masyarakat"
-  },
-  {
-   "id": "siber-202611171818-dc8e",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Apple reports outages after internal update, is working to get systems back online",
-   "src": "NBC10 Philadelphia",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVTYyWHlIRGpSMWJkdHNQOW93dS1wS1NSYllybmFpTGNORkhyek5Hc1VwUEZTRXg0UUFRRGFqNXJNUlI2dFJGTndEWTdDVjEyQWNQRXZ6V2ZwWU9PQTBkLVJ0T3RLS3FsSG9Wbjd5SUNRaWZRNDFqZ0liR1EtY292dFBCczhEaWpyeUFMcTlPQ2xhSlRLakRhQy00ZmZHbFBmdTRzTnJoakdkQ2JEVHBWbTF5UTVZSHNqQXNpbklJemJnZmNjTVBLaVZaZUdPQTk4cWlrWUdpQlluMTYyWklMUmlLc9IB6wFBVV95cUxQN0htZ2ZCa2ZmM0pxRVhMSW9XaXdRS19rZG5zUVdTWVhFbTlrU3BLUVc0Zm5aWUNnRHBRMlBXdW95Y2Z2ZnFVaVU3NmIwY2VfakZnSlFTUW1GbnBPYWJpRVdyb3RfT2dNeTRJSTRDUDM1SUJic1laSmxyUWx1VUU5VURHWHJFNUNWQVB2VTh3aWo5OGs0Q0xVOTZCU3d5OVE4QmxTSFJwajgxd0RLT0ZYRktIS3JwOWNHeHlJb1NBYTRkUUdETkI5clhsc0NxYjJVM3VtWDZ2T3laM2t1dUVpa1JZNkZtMGdUUlMw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T18:18:00Z",
-   "last": "2026-11-17T18:29:52Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "'Many systems back up and running': Apple rules out cyberattack after outage",
-     "src": "The Times of India",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWVQbDloZU9HQlRfNmg3S19FdG54N3Rma2E5TnZiUXZOSDhPMXh2dXFRSU5pdVlvTVFtUXFqZUZNcmxucVBERVdncWNYbFBCM1ROSWlUVWtGbFl0R01vTGV3cTZIN2tGU282U2c5UFFha2VzYkgyc2NXVlB5cm45R3RUa3hNSnpKOUNBR00yTHFrVzB1ak9XbmVwdkJ5OXB2OXhOc2MzWmJFRG1IWncwbVBGUGZJeDVYcmxZNHVXSlZGUDRhdDNKTllfbUlwajBfYXdZNllYSkNHdWJrbE1VVDV2Y9IB6AFBVV95cUxQRE9uTndKZ1pPTWhlMmo0S1dOV09wRUpLQlgwdVBUZzFlanNPbDBvZnlzWUFPWV9oNU04cHBXNXl1UkRtTmJBNk5kdkNHUlJERGh5dHlseHBrT2RnaEQ0RTdpa1AtSGVxN2NCUW5kUDZfVzlSSGRYQmpmZngzSHRjUU1PT2g2NGpqU0tjOHh1b0IxN0t2bW9Eb21HcWZSRGpyYktzNHJJOUttem9aZF9WWVdfVXZKd1RuVnpOb0dMWWVpdUF5N2NzTzZMbVpYa2d1RUJpSWZIbEQ0b20wZXhKVVpVYTlMYnZm?oc=5",
-     "t_id": "'Banyak sistem kembali aktif dan berjalan': Apple mengesampingkan serangan siber setelah pemadaman listrik"
-    }
-   ],
-   "title_id": "Apple melaporkan pemadaman setelah pembaruan internal, berupaya membuat sistem kembali online"
   },
   {
    "id": "politik-202611171811-cac8",
