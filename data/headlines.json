@@ -1,7 +1,16 @@
 {
- "updatedAt": "2026-11-18T17:27:24Z",
+ "updatedAt": "2026-11-18T17:42:03Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "The Fed's next moves come into focus",
+   "src": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KbmF6LXJjeHdMZ1c5SHl1d0FreWlmM1NHX1NKbkhFR0EzV3NnSXlZaVgyNXNmbGdBeERPQ2xPaUNRN2lhX3VLOTJfaF9XTmpFS3BQcDlfaU9vMExQeEYxbmJ3U1hlYTZOUkNaUw?oc=5",
+   "time": "2026-11-18T17:30:40Z",
+   "t_id": "Langkah The Fed selanjutnya menjadi fokus"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -26,15 +35,6 @@
    "src": "Pasardana",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckh0ZE9JaTJRY2RlODRUSUI0bUhtNU82Q1dJVF9meUp4a0pwb2VnSWpQcC1Udl82Q0RVeFM3YW5HZVdfYldLUzB0YllGOWVPcDJaUGkwYmJfdWJXZzdzeXRmTVhPejNYNUlVaHNYQkxqelVPeUZVOV82cGd3R013U3htclVtdkJGUGVmQ0JqNDVZUFBjMktueHc5Nm93WDUtcklUYXhnUHV5UjRlTWh4X3ZrcHpqOUk4TFE?oc=5",
    "time": "2026-11-18T17:10:00Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "The Fed's next moves come into focus",
-   "src": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KbmF6LXJjeHdMZ1c5SHl1d0FreWlmM1NHX1NKbkhFR0EzV3NnSXlZaVgyNXNmbGdBeERPQ2xPaUNRN2lhX3VLOTJfaF9XTmpFS3BQcDlfaU9vMExQeEYxbmJ3U1hlYTZOUkNaUw?oc=5",
-   "time": "2026-11-18T17:03:45Z",
-   "t_id": "Langkah The Fed selanjutnya menjadi fokus"
   },
   {
    "topic": "ai-teknologi",
@@ -82,6 +82,15 @@
    "t_id": "Risalah rapat The Fed akan memberikan wawasan mengenai jalur—dan besaran—kenaikan suku bunga di masa depan"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC to EUR: Bitcoin Price in Euro",
+   "src": "CoinGecko",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKNENfeURjTUIxS2NjeGlYd1ZYVmg0SGJ1Znp5M3dmQ2xfMmpTaXBIRF9VYkI0S1YxZFNwTXRmblNXemNhdkxxaFFTdWhXUjdaV0F5azM2b3JlQQ?oc=5",
+   "time": "2026-11-18T16:03:20Z",
+   "t_id": "BTC ke EUR: Harga Bitcoin dalam Euro"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold and Silver 'Can't Find a Floor' as Waller Calls for Fed Rate Hike",
@@ -107,6 +116,15 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjVNbzZvMTM0RTlBVFFYVEEtVm1remozZm51OG11LXNIVzVoZVlQdXhjQ2dKRVQ0V0NueFdscWN2aElTQjdtVUJMc1EzdXhoRGVybFhpOXNaVU1VOElIbzRDZlVkZkhUU1J1Uk1qc2lRSmhJZmNGNThpNk5EQVg2aGI3V2VoYVJnbUl1b0tHdXlIVTZLSTctbnJGU0oyTzZic3BKb3o0d3lCczA3TlE?oc=5",
    "time": "2026-11-18T15:21:45Z",
    "t_id": "Perkiraan Harga Emas dengan Dukungan $3.875 Menghadapi Tekanan Menjelang Perdagangan Akhir Pekan"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+   "time": "2026-11-18T15:19:59Z",
+   "t_id": "Perkiraan Suku Bunga Hipotek Untuk Tahun 2026: Para Ahli Memprediksi Apakah Suku Bunga Akan Turun"
   },
   {
    "topic": "geopolitik",
@@ -200,15 +218,6 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838",
-   "src": "Crypto Briefing",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dl9KNnJ3VXg0N3hFNkdNN0xFMkZXRVYzSmFyNU1oOVFMNXFWYVA5M0RhNzhnZTVrdzFaMHZ5b09zMzYyQWotNWpFaGxUVXBWLVNMcmVnNXlWeEVYaGtaTGZGcnJyakR3d3dCSDRFTFkzZmNUSnAw?oc=5",
-   "time": "2026-11-18T13:18:22Z",
-   "t_id": "Citi memangkas target harga Bitcoin menjadi $99,532, Ethereum menjadi $2,838"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
    "t": "BTC price range on Nov 18, 2026 at 9am EST Prediction Market",
    "src": "Robinhood",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZW5ENS1Oa3pyRW0yR0p4ZDBaT2dLN0ZLQ2lva1ZrRHR1eTNJd3NvNmV1aS1IaU5wWFZZcHQzNEh0T0VCYnNQb2otMWN4cUd3T2lFUUFabkZETlY0aU02VGtpT29VQm9kSHRzVjJCdFFRTHRoSml1SW5qQ3MtZzY0UC1SVURLZ3JEbG5UQlQwOV9RRVF3enk4cXh2YmpMSjREYzB4dUVwU1hacHViRGZhYzB0Y1lsQQ?oc=5",
@@ -223,6 +232,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
    "time": "2026-11-18T12:58:23Z",
    "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin's (BTC) 12% slide through the 200-week average has a bullish past",
+   "src": "CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlNxOHJWbE9MR084TDUtUHB3UDJ5WE14eERlVUl0RnFSLVJXRWI1M3g2UHlaV3FsMzU0Snc1ak9KMmRWb1RLYUttUFpsV1d5eVR5Uzg0SFY5WmZZSUlyNnJVV1FlMURMNnpJa2F4cVpNcDRfSHlyb1o0YzR3WFY5YkdVRjFYOFpRZlV5WlVoZWFtSHhxQ19kcEc0cGd1Tm82SlBpOURHeW1RVUhPSFNZdWhlUjhKUUYybzFfQ29vYWo?oc=5",
+   "time": "2026-11-18T12:46:21Z",
+   "t_id": "Penurunan 12% Bitcoin (BTC) melewati rata-rata 200 minggu memiliki masa lalu yang bullish"
   },
   {
    "topic": "bank-sentral",
@@ -326,15 +344,6 @@
    "src": "Kompas.id",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHZaN29zY3UzZS1tSVFDQl9oVW4yZ05CTzl3c2RKd2J2MlNVNWk4WHY4cjhKMkFqUXJQUzM4NHBZLV9LTkJ6VmFFWmlKVDBPcmtIQ29jbkUyMlFaYTR5MkVHQm9RNVRRellfMk9acW1VNE04dTVadnYzb3hYQ2h2bjlGQ2VkNy13Vl9BWHVsVmJBUlNuelV1Q0xnaXJWWGc?oc=5",
    "time": "2026-11-18T10:59:01Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin-to-gold ratio flashes bullish signal as BTC price outperforms the precious metal",
-   "src": "CoinDesk",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1JRUnBpbkVvbnQ2WTcxbHI3dloxazRwd0FYT25wWkF1Z0ZFNmNpbU9nTlJ4NjlaTGcySE1SeVk4ZTBoTmc4VmltTU9hQ0ZjLU4zVThMaW1jdW96bHdYWGh4ZVZSZkFEWUVqVlV4WVYwYXJDOERaMmc0dFMtS3pXOUU5VVkyVVB2V2VnMEw4OEVLbkxIWHAwdG9YdHYwTTB3cDhxMGVyeUkweVM0a09NaTBJeVh0ZGZTODdvYy1MY0c5QQ?oc=5",
-   "time": "2026-11-18T10:58:36Z",
-   "t_id": "Rasio Bitcoin terhadap emas menunjukkan sinyal bullish karena harga BTC mengungguli logam mulia"
   },
   {
    "topic": "indonesia",
@@ -512,15 +521,6 @@
    "src": "https://janalokajournal.id/",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVUlY4bXE5aUZ5UmpPeDJ2czBWNElmcXFyTFFzZm9kbWppeXRzOUswSWFrWTZ5VW12cDZHTFVhSE1xZUdsZklyMGt5NEhMZXNZcHVIODZTem5vd3lGcVVKcVVfUGFPNmJX?oc=5",
    "time": "2026-11-18T07:30:49Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "src": "Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRzlQcHpvRkJiZkxPbkt1dnV1Q25PbW50UDBnT0NzY2o1REt4WmcybV96RnItRXVkbE96MENvT21fRnlkY0xlS3Q0NUcySTlJYkNzRGVucmRUZENJbmdFM3F6aElkaktzUDhGbnhWRHVKS0VjR1h2WnhNOVhoQmVNX205aHVXNng4UWxvb2tVWEFRR0ZlT28tdWl0eG5GUEYyX1V0X3dUVHdsZ1JxZjllYUR3WnRRY0U?oc=5",
-   "time": "2026-11-18T06:37:13Z",
-   "t_id": "Pasar Saham: Akankah S&P 500 Dibuka Naik atau Turun Hari Ini?"
   }
  ],
  "errors": []
