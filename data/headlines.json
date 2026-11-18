@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T18:57:58Z",
+ "updatedAt": "2026-11-18T19:10:14Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price on Nov 18, 2026 at 3pm EST Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVNYbFdoMTVzVklHdjk0UURycUZGSm42WTdXWGFxRW0xclp5VlVwMVM2eEV4V3VMWmFOLTFWdXJvQ0VmZzNJT1pVemYxNW1yNzN1NzRGTk1md1IzdDAwRDZwSDktNFZVMGx0MUJNc3ZWVWl6NTFGWVc1clN0OGJhMXhSUUNjSE1vTW5QanpTUjh1RkpXUmNTczJyeGYxcjI0S2lCYTNMZVdLNHBpRFE?oc=5",
+   "time": "2026-11-18T19:06:20Z"
+  },
   {
    "topic": "bank-sentral",
    "lang": "en",
@@ -17,14 +25,6 @@
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDJGNGRIU0Q3NE5tbW9qVUpjd2NCUTRuZTdERXEwY2Q5bEQtZ1NNVjFLQmwwdnVMRERPSnN4cm1TcXBLRWxDcWtxS0tZdXdBanJVNVhhRVBOVWtKYlplWXFwcHFkUmJTRWtVQjBUaGRZUGpiWU1acVdESEZvck9TSzBiNHVhdk5rNlZDMEpKYk5zS1dxSVpDdGxZWjEyOEJKTTdldVo2Q3Z6dHpPOVF0cWJGSW4?oc=5",
    "time": "2026-11-18T18:16:35Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price range on Nov 18, 2026 at 2pm EST Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUF5Nk82eUZHZVo1SFhvYzdab2JxYnNPYThrLVprYzZCV3RDT0Ffa1ZQNVNIaHhzVEcwREdicWVpQ01GTFoxc2p5dFRqOEFxbEt5VGNuU0hrSmNoSUVCazI2TGFtd3pXODNzR2g0azZjN0xiU0F5XzZ5X3VrLTAzOURtaTFWWkFLZ3lEbUZXZDVLeVRGdnY4QWJ4ZnA0SnJ5ODh1WXJvamRVeEI1T21JTWFfeERUdw?oc=5",
-   "time": "2026-11-18T18:08:04Z"
   },
   {
    "topic": "emas",
@@ -172,15 +172,6 @@
    "t_id": "Perkiraan Harga Emas dengan Dukungan $3.875 Menghadapi Tekanan Menjelang Perdagangan Akhir Pekan"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Hormuz Strait Will be Open but With Transit fees, Iran Envoy to Moscow Quoted",
-   "src": "EnergyNow",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3lPU1RKempxaTBiT2F2b2QxLU9ROThwLS1nYXNDMG9DbmIzdXV0YVN3dWZzQjlMSjJlX3J3cUxaVXh6REhCS0pwUXpEVXFpYUg0dWpfUmw4dE9kX1hiWVNuWDlnUEJzWlVER0JneEZqcUVXaHQ4b0t5Y2xfWExHSWhDWThrZUJnc3l4TUlCZDM3M0F3ekRNblhLRmdEX25WQjZXRUpvVkhVdw?oc=5",
-   "time": "2026-11-18T15:16:31Z",
-   "t_id": "Selat Hormuz Akan Dibuka tetapi Dengan Biaya Transit, Utusan Iran untuk Moskow Dikutip"
-  },
-  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Fed’s Waller says interest-rate hikes may be needed to ‘shock’ inflation out of the system",
@@ -313,6 +304,15 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1peHFiRmdpemFZX2tIVHhsYUtQLUZabUpqVUhZRGRzenFBUk51V2t5ZGtXckNwVEtDdWd6M1NJZ2JjeVBUZEtGY2VWeEZiQVEteG1jY3NBR0hqYmMxN2lyNy1SM0pFRWl4U1E?oc=5",
    "time": "2026-11-18T12:00:06Z",
    "t_id": "Saham AI menguat seiring prospek Nvidia menenangkan kekhawatiran permintaan"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mY1gzbld3VGk4Tnc1VUw4NmY0UVc5aXZ6dVVDNWxIVldiWWR0TjBDWGZhLThpTVNGRC1lcmRRSkZqNXFqeDJ0aG1KQXdELTJPVmdyQlJ3c0NSZHc0UGJUV25HT0MtSXI3am9HZElMaE10Yy1P0gF6QVVfeXFMTzVQd2FkT3N5ekNUenZsNl9Bbk9BWEdHempvQ0hURC1UOVQwc3R2c1ptUmxhc1VHcHpRQ3pIS1dGQ0VkeF9uQjF6OGQ5LVlBMVhVUzlTcHJvZDY1Q3VEaDg3WFY3YUZkWWJkZ0VmekZzeFZ4MDdJbHVWRmc?oc=5",
+   "time": "2026-11-18T12:00:01Z",
+   "t_id": "Ketua IEA melihat tidak ada 'jalur yang kredibel' untuk kembali ke keadaan normal sebelum perang di Selat Hormuz"
   },
   {
    "topic": "indonesia",
