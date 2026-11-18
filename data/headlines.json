@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T03:38:12Z",
+ "updatedAt": "2026-11-18T03:52:45Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -221,6 +221,15 @@
    "time": "2026-11-17T23:46:19Z"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Tanker crew member missing after Strait of Hormuz attack",
+   "src": "The New Region",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLNEpXSV91UTEtOHg3di1SU19YSlo0WUFkVTRMZ3FNQkZKcFk5YmxRdjNWYzlpbHlfZ2FmTTg1TEVXcUZqR29IS01fcw?oc=5",
+   "time": "2026-11-17T23:37:30Z",
+   "t_id": "Anggota awak kapal tanker hilang setelah serangan Selat Hormuz"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Wall Street shakes again as Nvidia and other jittery AI stocks swing lower",
@@ -310,11 +319,11 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "Crypto Losses Pile Up as Traders Prime for Anthropic IPO",
+   "t": "As Retail Traders Prep for Anthropic IPO, Crypto Losses Pile Up",
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVM1bll1SG1zMDVKa0ZTMzhLY29XYmxwaWFnc0h0aVZ4QXNjREtBd0RDa1BXNENFb21PVkZvUllvalFPNmFHS3BQSm5ZU0JQVGxqamNPLTBuc1E5WWYzVksyOVNCS0hEblpzVVNPdllzU29UUmZZMlBpazNqMk5OLTNHdnF3SkEyaGZBX01DZFBxSHhuYm9ZOHliYVQ3MDRJLVBFZ2pBUUNVa3pRUjh2V2poSQ?oc=5",
    "time": "2026-11-17T21:16:17Z",
-   "t_id": "Kerugian Crypto Menumpuk sebagai Pedagang Utama untuk IPO Antropis"
+   "t_id": "Saat Pedagang Ritel Bersiap untuk IPO Antropis, Kerugian Crypto Menumpuk"
   },
   {
    "topic": "saham-as",
@@ -351,6 +360,15 @@
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPclBWZU84YkZreGhyX3dTRHJCdDNnd3c3VWMwWDk1SFBjNzhkU1BVRDBTVkU1N28tSDNWa1FSdms2TzhSZjVKVHh5bXNZai1ZaGN0NHA5NmpkdXhFckRQN0RGekUzTEFiWnlUalNIMl9nQmJ3c1Q2N1RmYlFhczFGTmthNm03VmRvNXFhTEo3NnYxYWI1RXAwX2VCUGNubFctU05ZSGlXVUVxTDB2bHVMbHdMbnFhUHRseV96b0RPODJLUmNYS0pNbHFBUGFKRmtOc2gwWEU0MXQ?oc=5",
    "time": "2026-11-17T20:45:34Z",
    "t_id": "Negara dengan perekonomian terbesar di Afrika dan Kanada beralih ke Tiongkok seperti halnya AS. mendorong mereka, namun Beijing menarik Ottawa dari cengkeraman Trump dengan keringanan tarif sebesar C$400 juta"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0c5VUVjU2N0a1MyREZJUHFkRExDRUtvNTlFLTFTUGRmb2VIdTA0eERyQm00VGo1RHY3ak0yR01WZXpCWVJBaVVvZVoyVkJkWlk3NVpucXhSeEhWTmUxU055WXUwSXBic3lqN2Q0ZjczTHBiTUpZYmpsbzJzWmFZbTdkNWQzcURaVklyN2JFUkxtRFF5dlc3TFJyS0RaaHkxWHduMjdCN1BIcFBzaW5vS0JOcmNBUVBONmZUc3lB0gHDAUFVX3lxTE44RE1sYUpxRFNTQUhuSk9rZm1iczZBeTY3RFBkbkJoQ0phSlp3RmhVcXZGSklsN0RHV2RPWGt1S1dFUWh6eC13cHVBMkJZc19TY3RGdmhBZ21FZEJ1WWJrZmp3bjFyZEZsa1RzRjM4ay1DMEEwbHJRU3BvOUk1MVBDU2c5bWd6d3BpNU9SamJuZW9kR21KcnNyUHR0STdfaUtCUlRXRjlTeTN2QmVrOFdZcXhXNXhOdGhyeWNJN2NoV3JVYw?oc=5",
+   "time": "2026-11-17T20:28:07Z",
+   "t_id": "Pengukur rasa takut di Wall Street melonjak lagi dan kali ini bukan hanya kegelisahan mengenai AI"
   },
   {
    "topic": "ai-teknologi",
@@ -494,24 +512,6 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlE5MkU2R0ZHZmVES3lZRXd0anBhR25DRkJOcTM5UU1INjc2VXVuMTFZSG9ONE9HTUdCTGpiVnE2bTdxNmQ5a0JuZWZwVlNFM3dKc0JiZ3U4OElZRWtkLTFOU20tMGZDNVRWMFk5YjdsTzlZdkxNRGV5dl9QWjF3YW5SMV9RdVJUUGNqcmpuSzhNT25wYllhWVcwSXIzYU5acEZkRmlMbUdiQl91NXpnbG95M2NiVmdCYjVuUlFJdw?oc=5",
    "time": "2026-11-17T13:14:00Z",
    "t_id": "Musalem dari Fed Mengatakan Beberapa Kenaikan Suku Bunga Mungkin Diperlukan Sebelum Musim Semi 2027"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlFDb3RMdVlJbXpWWTd3XzVMRzZnOWFYRzR1VHBwXzRHZWlIdS0tYjA5RjVfY0dHRFF2VVIzN1VkdjZhWVdxb0pWT2pvOEd4dVI1ZDdOTy1RYWdObXBocm01cXVPUGpHVXJqcmRuSGRheFgyNUhOMmFGUUk5cEttSzNVb9IBiAFBVV95cUxPVVE1NVl1aGppdU5rbFBEQ053ZmRxSXYyZ2lwX1kwZFpFanRDb1QzcWlQZ1ptM3VJRGRGUkdaQzVFWTFFWVIxWmZIQWM1WEswLUhNRm83RllQemFOdzNyXzV5ampaLWFpRlhsZWFNdjdCNlp0N3BZNzZzcTJQd2FJZVNOQ0tUSUsw?oc=5",
-   "time": "2026-11-17T13:10:47Z",
-   "t_id": "Investor menantikan pendapatan Nvidia dan IPO Anthropic untuk menyegarkan kembali reli teknologi"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed's Musalem: US likely needs several rate hikes by spring to control inflation",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmh3bk9iaG5YQ2V2dzZUMkQ1aGQ2LWNfdHFCWkVaOUtyWFdHS3lFTzZJTDhsQnItcnN4N2NibjRLNXZIbHVvSllBY0Jyc201azJtbUNnWkRndWlPN05sZUVaWkJBZFlTTGJzYWFFLWRqN2R6X25jRllRT1hHekZ2aFRweE5rbHM3Z3p1SHoxR2UwR1VnMWVnbWZ3ZmRHSTkyR2lhU3p1NzNFZFBjMEtRQ25iZnpwVEhBZTd3bw?oc=5",
-   "time": "2026-11-17T12:33:45Z",
-   "t_id": "Musalem, Fed: AS kemungkinan memerlukan beberapa kenaikan suku bunga pada musim semi untuk mengendalikan inflasi"
   }
  ],
  "errors": []
