@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T21:07:55Z",
+ "updatedAt": "2026-11-18T21:22:37Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 22,
+   "sources": 23,
    "recent6h": 3,
-   "score": 23.5,
+   "score": 24.5,
    "level": "besar",
    "first": "2026-11-17T17:29:02Z",
    "last": "2026-11-18T18:09:48Z",
@@ -195,6 +195,30 @@
     }
    ],
    "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
+  },
+  {
+   "id": "transportasi-202611180934-6ea6",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "U.S. Transportation Secretary Sean Duffy blames contractor after FAA ground stop",
+   "src": "CP24",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZkZzVm01X1l3bEJEM2ZPQkVUbHpjdUJuN2h2Smg2Ukl6em5vSlNvcjFpdVY1YzRJZDRTSk1tNVdPOXBQWGhfeF9hX0NNNnplbkZyNk1DOG5yak1UWGlBNzV5UmY1RFdJcktmZW9zUjZDZEV1RHIybzl1TGtZSlBvVnRaZGxVVEdNdF8wdTFVZG9TOWxzdEtqZlg4UE1INUJTR0k1TGhTY1FHMEpfM1RJd1ZNZkdfVkZvaGpVenJxaw?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-18T09:34:19Z",
+   "last": "2026-11-18T20:00:55Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA signed off on repairs before nationwide ground stop: report",
+     "src": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5",
+     "t_id": "FAA menandatangani perbaikan sebelum penghentian secara nasional: lapor"
+    }
+   ]
   },
   {
    "id": "transportasi-202611172307-dbaa",

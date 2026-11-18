@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T21:07:32Z",
+ "updatedAt": "2026-11-18T21:22:12Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "A fifth straight loss for the S&P 500 drags Wall Street to its longest losing streak since June",
+   "src": "Union-Bulletin",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYm9oN1JMbmpnS0kwTXIyTGl4SUU4ZWVoa1FpTmh2b25iOGxMdGliNEd3MVIxazhQWEZJeGlpclQxVlZiZElVaUExaDN3VGJRbDRNYjJWWXozc1NhaFlGNjhRVmlJekVPbkFIWlVQb3FyWXJBSkU2cTRvZVoyeVlQalVnbl9qOC00ZGZRRHJiaGFRTDVuenRmakVoaVVjYzJOSG9ob2tCZS10bEFxZGotM1Uxc2dVM0Z1cGViTTFLLVhrcFlFT2VBZG0xbUUzRllDckVSZFNQZG5acWVnUWZ5Z3BlNmVvMjRFUnNmVHFRZUs1d0VC?oc=5",
+   "time": "2026-11-18T21:05:38Z"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -27,20 +35,20 @@
    "time": "2026-11-18T20:39:14Z"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "FOMC minutes show ‘close call’ over possible rate hike",
+   "src": "ABA Banking Journal",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTm54NW9DRWM1eTV2Y3B4UFQtS1I3RXE1SS1RWm1MR2xwYXBNdDdteUVJdzZIV0ZCM1VMSGZwclhPTC11S2RldDB2Z2ZFYkpHRTh2YUdVT2xZQnY4VUxYUTloMFBua2J5VFNNYlBkWEw1UG9ZLURrcmxIaFF0NWFrTzJrR2xUQlR6b1Exck8zaFlWcy1ZWDVv?oc=5",
+   "time": "2026-11-18T20:33:34Z"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "BTC price range on Nov 18, 2026 at 4pm EST Crypto Prediction Market",
    "src": "Robinhood",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzZNbWEwRkJOVGVBLXQ3am5KT25ZZW9lSkZDblo4bUdTTDFQVEg0UzVZYndYNko5QjQzVjRRNWJDb1cwSG50bXVkRFpKN29wOHdsbEc5SlEtV3lWNHdJeG5oUGJJdFVXQlVTa2xRei1kWDBnaTRSSU5hWFpsdGVkYzBDOHJqZWFONzhtTzVnUks0cWdqMEt6Q0VZT1A4cDBTUXFVSGxMWDVhaGhxNFhqS2ZqbkYxUQ?oc=5",
    "time": "2026-11-18T20:28:40Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall Street zigzags as Nvidia and other AI stocks keep swinging",
-   "src": "RiverBender.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEN5MjZuOEEtZ3FXU1lkTFNPWWE1d2NoWmRmY09fMS1WV0ZDSzhKN3hOcjNsT3pncmpuSnRNUVFFT2R2ZEUtSExsd0huYmtsVDR0S1J0MmF1Yk9GUzZSOUVia3hFQWZuaXZtSndZX193b2VuNktZSXRWVFlodUw3YVg4eHp3dXZRaFBZdGFhalNBMWRTa01XVjdHcTQ2XzVfb29SbG1GRnZMZw?oc=5",
-   "time": "2026-11-18T20:15:00Z"
   },
   {
    "topic": "bank-sentral",
@@ -83,14 +91,6 @@
    "time": "2026-11-18T19:40:52Z"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-   "src": "San Bernardino Sun",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBON3NqRlpVallrbjJzMUhvenVOY2Z4SkhIWUlwS1BkOTZPTHl5Y2FaQU9kdUZuQVZfWmhYYmN5bkpnQkJoeDRQeWpVUmtFZUw1cWN3alNUQlplNGJDbjNETXlCNkZOMHVXdklJZ092czB1djQ?oc=5",
-   "time": "2026-11-18T19:37:47Z"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows",
@@ -124,6 +124,14 @@
    "time": "2026-11-18T19:15:02Z"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount | National News | 2news.com",
+   "src": "KTVN",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa0RtQWp4TGFDLXU4WFllX2dKUkY0S2lMbWl6anRJNTVjVGZDV2VHNm1xQWFDWV83VmVHazRwTGJ0dHFKcjlIVmc2Q2x1ZXZmNTNIVkZET3k5eERjc2ZLWFFVMkZRNTBnSlgxQlplTXloQ2Q1Zjdvd0F1WjRDSTdzVEp5NU5iTjh2aHVhUjVnaHVYZTY1Y1FiSFg1RnVYZklsaXVTRF9ZS05FLXBWVktrUkRkRjlIZWhBZnpQaGJscTZZV0RmVmhWeG9kdUdIalY5Z0g0M2tFdFBzaExjQ0g5OHhFOE8wbzBNVUlqZTJ0a1JrX1lkb3c?oc=5",
+   "time": "2026-11-18T19:09:34Z"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Nvidia's $130 Billion Forecast Sparks Fresh AI Stock Rally",
@@ -143,18 +151,19 @@
   {
    "topic": "emas",
    "lang": "en",
-   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
-   "src": "StoneX",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
-   "time": "2026-11-18T18:13:47Z"
+   "t": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "src": "Kitco",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+   "time": "2026-11-18T18:19:27Z",
+   "t_id": "Harga Emas Hari Ini | Harga Emas Per Ons | Grafik Spot 24 Jam"
   },
   {
    "topic": "emas",
    "lang": "en",
-   "t": "Gold price follows the dollar in the short-term, but real yields over the long haul – Heraeus",
-   "src": "Kitco",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnVBVHhjV2JQWDVXRHB1RE53eU5tU1hOeV85c3pxUWtRNGQxdEtQWXRod0EwcWM5MkhVdU5Td3VZaTJtUEl4ZEpZSDcxek54cWFjelBiaFFsa0lBTWo3WnhFS0dyVTRmSGNkamNnZldrbTN3UmsxRkFPQ1YwNy1wbkc2bnFpNlgtQ0pabkhCUklEdktJd1I1VjVsVEFWSVRGY0xfb1lISTU3U1JBSU1rQzczaDJBLVFt?oc=5",
-   "time": "2026-11-18T18:10:14Z"
+   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
+   "src": "StoneX",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
+   "time": "2026-11-18T18:13:47Z"
   },
   {
    "topic": "kripto",
@@ -217,6 +226,15 @@
   {
    "topic": "geopolitik",
    "lang": "en",
+   "t": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
+   "time": "2026-11-18T14:56:00Z",
+   "t_id": "Iran Menyerang Kuwait dan Bahrain, Semakin Meningkatkan Perebutan Selat"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
    "t": "US official says Hormuz insurance hits $64m: Is the strait really open?",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmpVN2ZGYmNzRGg5cGRmTUE2aDVLUXZXQ2ExNjZoWGtfWDhLTl9QMjZoZFpkTkxvN3RLdU5rWXUwYmlkUmxqV096aW1GRVFqXzFfTVozaDBHdzgwS1QydFl4cUdNemUySElEMElIcnJpQVhablUzT1VRNTh4WmR6TDc4NVowS3dfU1hVYVZ0ZXZFSkVEYWRIbzNnNXZaYm45eHRzQ1VMNWVFeXBGSFF30gG0AUFVX3lxTE9TdlU5dElzN05Ia2hsV1JIaUY0dGJoQVJxSHNDdWFTYUFNSmxCMWFjOEdnSVBUZXlTS3hVcWlVc0ZPYmVTUjBUb2JZN0J0Z1ppZF9tRFN1UUlRbGE1X1AwNUhpWkozZUN3THpBaWJYc1c1YjJnbng3bWVlYkZFNkY3RkttTGFsVXdrYTgwMGpXWE9jTHBRLWpTSUJuQ1N0cDMzQVczaUV4SGRpaXBzekRWNS1lUw?oc=5",
@@ -275,14 +293,6 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2VZNFg2WkNHMlctMmtDODJ4bzlRS2JtZl9mdkFRSXA1UTBwQzAxaVphZUEtRkpDU21KZVlSRG1ZdVcteW1TeEZ2c0NYd3VFQ0VueEhjS25JMXVnMTItU2tKSmdJRHBWWENlaXFLSlhYaGJxSVRjdXBTR2F6bndQNW51YXNGdDM4VWIzaWpfcGpHcndpdGY1cm1OejgwLW8tQ0ZkVFVqU09TZFdP?oc=5",
    "time": "2026-11-18T13:52:13Z",
    "t_id": "Wall Street terguncang karena Nvidia dan saham AI lainnya terus berayun tajam"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Xi, Putin condemn sanctions as Trump arrives in China",
-   "src": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajVqTEcxNDY1R0tuSHhRdUpFRHpxYlpLaTFnNVVCckpEanpKd3JYcjF5YTlHclppS3ljOU12Q3RYcVV4eWl3WElPcERIQXJNcTlCUHFWX09fcEdHSUhNc2JSVDVfWUJmbnhzdE0wR0w3QjduXzM0MWFiaFJldUhZSHFkSWpUWFBRUFNMcE0wYkp0NE1kOWVfVXo3Ymd2VGI50gGmAUFVX3lxTE5OcEVobWtENURqNUthcmg0RFNkNTVLRFlRY2phTTg0S2duM3NXdC1vS2VuTWRFR0JnWUVJWU4wTDVzNk43TS1RTVJkb3p1MXBmT1JrWWxkZTFpUkRpSWliV3dHMV94ZG83QUROUWh6cGppMU9vM2ZHQ29IUXZzTTFrb0FVUWY0Z3VEdGloTXp2UjBkNGkyWG5tdlBSN0hVYWE5YzBkY0E?oc=5",
-   "time": "2026-11-18T13:10:00Z"
   },
   {
    "topic": "geopolitik",
@@ -464,15 +474,6 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
-   "time": "2026-11-18T10:04:50Z",
-   "t_id": "Iran Menyerang Kuwait dan Bahrain, Semakin Meningkatkan Perebutan Selat"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
    "t": "Dramatic moment oil tanker erupts into huge inferno in Strait of Hormuz",
    "src": "The Independent",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXBQc3o4TUdSenJ3dUJobXVPM0ZqaG0wUVVwSTdJMDhDV05YdndOU19mZUpQc2dKNnJxRlo0SEIzV0o2OEpiN21PSDFlcXZzQmo4Y1oxSXZEWC1mRjZkcXRrbVgyeGdJWm9RVWg3dEdVOVowZ0FBRjBldS15bjJCcUJoR1dKS2JiZFE1Znc3TDlUbkxfT2Y5M1hxbU1HNTBCcWhaWmJCSDQtY21mUVA0Nw?oc=5",
@@ -488,20 +489,20 @@
    "time": "2026-11-18T09:35:00Z"
   },
   {
+   "topic": "china",
+   "lang": "en",
+   "t": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnNOaGl5M2hkclpyeEhyU3FobThUWkRqeTNNd2pBeEpWNjl3cXFOZW1mQWQ3ZnB0d0tXZUQyYzdfRjJfZUhzdHdVV3lyNDQxTmNPTklncVNMbHM0MFVnQ0Y1d0I1ZmJjUkEzc08zOFNTWkR0c3BSZjBCbTA2c1ZEWEdZbnlwT1U4Z2ZXMXI2WHpJdVI3V0pvYllJazlvbmk5OV9YZkxB0gGrAUFVX3lxTE91czVRci10REsyQ3o3Tmg1Rk11RUxKWG5DdmhxU0taN1NCamNVbGhLTndHMmU1X0xQRzlzSGFETHpKd2J0Q1JjSFpSZkdxMS1WSjBsbi1vQjhCSWRTMG16SVBwWTdabXhfdXV1YUxTYWFLUklsdmRuVTdxV1NiUG91ZEFvVkFQei1ZNUIxUFZoak5tNjNSMy1lVC1TeVB0UzRFcmlxWk5oelcwOA?oc=5",
+   "time": "2026-11-18T08:26:51Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Rupiah Indonesia Menguat setelah Bank Indonesia Memberikan Kenaikan Suku Bunga 25 Basis Poin yang Mengejutkan",
    "src": "www.fxstreet-id.com",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQemdGR2RIaDNyLUQ5VERFeXYzWHp4OGNtWnBkengyUWd4alVBVnE2dWRlb3k5ZHVmSXYzSEFReG1rcWRnWXFhVkNLM3pSXzBYX0huZ2REbG9kUkkweHppekhHTllaQVZxclQzQnNrZlZJQ0ZjNHlhTXUxbkZ2ZEFUQ3gxM2M0Y2ViYXJFZG81dkxVTGd5RmNFajBCM3lpQ0xGQmZoOXdEQnZqY0RuX0V1TEtpWURTZEFROWRhS0dBYWdZYWpDczMwd2dCV0FkQXhCaExpcEZuWXVid0p4ZlZqR0hteFFMSDUwWU4w?oc=5",
    "time": "2026-11-18T08:19:44Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Naikkan Suku Bunga Acuan Jadi 6% di Tengah Pelemahan Kurs Rupiah",
-   "src": "KONTAN",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcklSTERhZ09JZnJaRnJzZUpNVk5fSTB3Vld2Z1NOU2RwUWFaM1JYbHNBckZjcHNrQmhlMndFd3NFcVNFT1lPTDUzYk5ncVEzaFJTZnAtQXdGazJVbHRpSFc2YmhaTmVRXzFIZHlQdGtzaDlYcE41M21ZeUh6R2h5V0JGd1NvQ2gtbGFta2J5UjdHR01idVJNRHUyTFJPbzlNU2c?oc=5",
-   "time": "2026-11-18T07:55:07Z"
   }
  ],
  "errors": []
