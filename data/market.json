@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T05:50:00Z",
+ "updatedAt": "2026-11-18T06:04:36Z",
  "source": "Yahoo Finance (data dapat tertunda hingga 15 menit)",
  "quotes": {
   "spx": {
@@ -1047,10 +1047,10 @@
    "ok": true
   },
   "gold": {
-   "price": 3791.8,
+   "price": 3790.7,
    "prev": 3864.2,
-   "chg": -1.87,
-   "time": "2026-11-18T05:39:55Z",
+   "chg": -1.9,
+   "time": "2026-11-18T05:54:24Z",
    "series": [
     [
      "2026-05-18",
@@ -1566,7 +1566,7 @@
     ],
     [
      "2026-11-18",
-     3791.8
+     3790.7
     ]
    ],
    "currency": "USD",
@@ -1575,10 +1575,10 @@
    "ok": true
   },
   "brent": {
-   "price": 92.6,
+   "price": 92.5,
    "prev": 93.14,
-   "chg": -0.58,
-   "time": "2026-11-18T05:38:45Z",
+   "chg": -0.69,
+   "time": "2026-11-18T05:54:25Z",
    "series": [
     [
      "2026-05-18",
@@ -2094,7 +2094,7 @@
     ],
     [
      "2026-11-18",
-     92.6
+     92.5
     ]
    ],
    "currency": "USD",
@@ -2103,10 +2103,10 @@
    "ok": true
   },
   "usdidr": {
-   "price": 18250.0,
+   "price": 18253.0,
    "prev": 18113.9004,
-   "chg": 0.75,
-   "time": "2026-11-18T05:39:12Z",
+   "chg": 0.77,
+   "time": "2026-11-18T06:03:47Z",
    "series": [
     [
      "2026-05-17",
@@ -3127,10 +3127,10 @@
    "ok": true
   },
   "btc": {
-   "price": 64570.89,
+   "price": 64575.45,
    "prev": 64855.8438,
-   "chg": -0.44,
-   "time": "2026-11-18T05:49:56Z",
+   "chg": -0.43,
+   "time": "2026-11-18T06:04:26Z",
    "series": [
     [
      "2026-07-11",
@@ -3650,7 +3650,7 @@
     ],
     [
      "2026-11-18",
-     64570.8906
+     64575.4492
     ]
    ],
    "currency": "USD",
@@ -8869,5 +8869,19 @@
    "ok": true
   }
  },
- "errors": []
+ "errors": [],
+ "local": {
+  "antam": {
+   "price": 2514000,
+   "prev": 2515000,
+   "chg": -0.04,
+   "date": "18 November 2026",
+   "prevDate": "17 November 2026",
+   "ok": true,
+   "name": "Emas Antam 1 gram (harga beli)",
+   "src": "emasantam.id",
+   "url": "https://emasantam.id/harga-emas-antam-harian/",
+   "fetchedAt": "2026-11-18T06:04:38Z"
+  }
+ }
 }
