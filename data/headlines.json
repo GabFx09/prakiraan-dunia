@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T02:54:09Z",
+ "updatedAt": "2026-11-18T03:08:49Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Rupiah Tertekan, Pelaku Pasar Menanti Keputusan BI-Rate",
+   "src": "Iconomics",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGVESXRCM09CcWcxUUFpU1lQdmVqMVZ0WE55cVU4Y19BTUprM3UyTzRTdmt1dnBCSjUyN0ZBMTlkTVFINll4Y2IwYTNvUHEwbENKRzdCZ00wR3EwOFM5WlR2S2lRYThTYXlPblpLdVpVMVIxNTd4d1o1VmxaRWZxS2xzWmVJcTJKWU10ZUJrT0ctUkk4UFc4WE12RnczT0Jf?oc=5",
+   "time": "2026-11-18T02:44:43Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -25,6 +33,14 @@
    "src": "TVRI News",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNai1yQXZ0SXZwNFh0NU85TzI1ckVtUGtDLU1KbHRDZWlWT3hHMC1PczVwY0oyUFhwa000S3AzLTNROEdra2JDem56U2JXMVVOd21Cb01PT2VNZFFsak5VZFc5ZlhJckxFcHAtNjRTOXR0bmJGNy1WT1VMdzZuUkFiZlRnSlZLdjZRek5iT3lEYVJlbWJ4?oc=5",
    "time": "2026-11-18T02:33:04Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Dibuka Menguat pada Rabu",
+   "src": "TopBusiness.id",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55bVRQa3VIazFXN3dHWjhVNXY2ZW1NdVJuUXFCZkx1bE5xc0pDalNDVnMya2x3bDUxNllqekJIbWhtX25XX1ZRRVVEa3hMWWlueU9GX0tRMVQ5anY4OW9zeUFqcHVyT256WjBLdGltR3VoaHlpOFow?oc=5",
+   "time": "2026-11-18T02:29:00Z"
   },
   {
    "topic": "geopolitik",
@@ -81,14 +97,6 @@
    "src": "Maybank Trade ID",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGFuTUhaZmt4MFMtUi1wQVBnMFhBcVA3REVZMndSSzJUWS1IRldzTnUtSUowRFNFX1EwQWpKUVdIOXVoTEtJclJKYlVWOUNvcklQNGJyNnpTRlhrWXByMld6RVJ4S0pqQzJiVkljWi1kY0dqQ3F2anJxYS02bEFSWVdaQTFpVU1zcHVadDlJaXlscW41ZGhrTHl3?oc=5",
    "time": "2026-11-18T01:30:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Hari Ini, IHSG Berpeluang Menguat",
-   "src": "TopBusiness.id",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fakNhTlV2eElvb0dVdTBVMDVmYVgyZy1xYUp3MUJxT09jcmJrcWZaRG14NWh4ejRpUWkzZUNjSFB2eGJNaWxRRXlTaGZaY0piWHUyYXB5dG45blFrc015VHBGNTFZSzNQZ0dILWVYXzlpX2JqMEt6cC12NkFCUQ?oc=5",
-   "time": "2026-11-18T01:18:00Z"
   },
   {
    "topic": "indonesia",
@@ -191,15 +199,6 @@
    "time": "2026-11-17T23:46:19Z"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Tanker crew member missing after Strait of Hormuz attack",
-   "src": "The New Region",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLNEpXSV91UTEtOHg3di1SU19YSlo0WUFkVTRMZ3FNQkZKcFk5YmxRdjNWYzlpbHlfZ2FmTTg1TEVXcUZqR29IS01fcw?oc=5",
-   "time": "2026-11-17T23:37:30Z",
-   "t_id": "Anggota awak kapal tanker hilang setelah serangan Selat Hormuz"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Wall Street shakes again as Nvidia and other jittery AI stocks swing lower",
@@ -225,6 +224,15 @@
    "time": "2026-11-17T23:25:26Z"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "time": "2026-11-17T23:05:09Z",
+   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
+  },
+  {
    "topic": "china",
    "lang": "en",
    "t": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting",
@@ -232,15 +240,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
    "time": "2026-11-17T23:01:15Z",
    "t_id": "Senator Partai Demokrat AS memperkenalkan rancangan undang-undang untuk mengakhiri status perdagangan Tiongkok menjelang pertemuan Trump-Xi"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Oil Prices Fly Blind as the Hormuz Enigma Deepens: Bousso",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQekw1WFJNUFRkc2k0UVUyRWEzSXJLV25ldkdCcC1hTDM4Y3N5amZGV3NXUWN1VHZUMVVMS3ktejJTbkJBQmoyMHFkeER4Y0E3b2VFYzlLY1lPaW5NZzY4U3BQUjNMR1duQVJoNTVpMXhJQnBuUGx6by1EWnYzOXNpY1FYSG16VXlISFh3NXlGcWs?oc=5",
-   "time": "2026-11-17T22:34:58Z",
-   "t_id": "Harga Minyak Menjadi Buta Saat Enigma Hormuz Mendalam: Bousso"
   },
   {
    "topic": "emas",
@@ -303,6 +302,15 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFV0eGlEeXR4SzNadzhLQk1ZSnJpemtfMURXSElIb200S05JN20xRDAwaWRqS2d4OV9VQlN0czNZZ2hwSDdxVmtjdXFXdFlIWEpEdVpFSmdHd2M0YkhveG1DYXktYnlYLTB4dmpNdC01R2tRdG0wV04zSjRZeE9GdGM4d2hGWUVnOFJBUjJxTW5xVXNhNmxQd0RYc3lKS2dkRWJxWEZPZkNNdTctaFHSAcIBQVVfeXFMT0tZTWlacjFkUGVaZ3NNSWYyTGk0bnc1UTZHdmU5Qjc2a3hoTktrUHhXaDV1eXVlNGN6OHdtWGdIb1l5SXI5RHNnRFh5MElqamVGM3BLUEg0ZWZDODc5OUZNSllNRlhyVmxiZTBmNXpqNXprM2M3ekVGSXZoaFRYRUFXci1MQ0hzZThzbWFiZllkd2w4Ni1kY05lOFZ2aWVSak0zNHlHUVhuSjJibXFDUTVaNGJXQWJ4VU1POFpqZllNMXc?oc=5",
    "time": "2026-11-17T21:14:00Z",
    "t_id": "Kehancuran lainnya terjadi di Wall Street saat Nvidia dan saham AI lainnya yang gelisah berayun lebih rendah"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil Set for Hefty Weekly Losses as Tankers Exit Strait of Hormuz",
+   "src": "EnergyNow",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNy1OMWRUbm0xTll4TURfdUllU1JzTFp1WnFUMGRDNkN6RXR3U19DQWV3M3F6S1RtX0NTdjFkWWFOcXgzc09zTlIzZ3Y3NGU2bVJ0WWYxMnhfMmJtTVVaTTBEQ0U2R2VWOVdqZXVDNnIwcWRCVzN1Rm1EaWZpdWtOOTF1akdlbWRBZGJPbmpxRVFyeXBvdlVOODl3?oc=5",
+   "time": "2026-11-17T21:06:04Z",
+   "t_id": "Minyak Menuju Kerugian Mingguan yang Besar Saat Kapal Tanker Keluar dari Selat Hormuz"
   },
   {
    "topic": "emas",
@@ -393,6 +401,14 @@
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg?oc=5",
    "time": "2026-11-17T19:17:00Z",
    "t_id": "Ketika skandal Nvidia mengancam akan memicu kembali ketegangan perdagangan pada perundingan Trump-Xi, Beijing masih memegang kendali atas hal tersebut"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Inferno engulfs gas tanker in strait of Hormuz after reported strike – video",
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVRwOWl0WjdlRTZSeXhaOFVDaGtUakw3WEpjUzdJX0JnWVZ3RTBsclVSWWFWODZlQW8wYVV6Y0dTR01wZEw2c0lzeFZYOEVQMUtxOTJ5TlVnZExXSk9oU1ZXM0diWlJtdTVtOHl5MUFqS1NmTXhyd19WaFhzREU5LXAydzBvbUFWMFotUkpDWngxVTN0SGNJNzR0VzZMbHE3Vmt0dURYVDZ3dGlsYmhBc0l2UU53MlhnS0NLUmhKU1UtZFNp?oc=5",
+   "time": "2026-11-17T18:20:00Z"
   },
   {
    "topic": "emas",
@@ -501,24 +517,6 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlE5MkU2R0ZHZmVES3lZRXd0anBhR25DRkJOcTM5UU1INjc2VXVuMTFZSG9ONE9HTUdCTGpiVnE2bTdxNmQ5a0JuZWZwVlNFM3dKc0JiZ3U4OElZRWtkLTFOU20tMGZDNVRWMFk5YjdsTzlZdkxNRGV5dl9QWjF3YW5SMV9RdVJUUGNqcmpuSzhNT25wYllhWVcwSXIzYU5acEZkRmlMbUdiQl91NXpnbG95M2NiVmdCYjVuUlFJdw?oc=5",
    "time": "2026-11-17T13:14:00Z",
    "t_id": "Musalem dari Fed Mengatakan Beberapa Kenaikan Suku Bunga Mungkin Diperlukan Sebelum Musim Semi 2027"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlFDb3RMdVlJbXpWWTd3XzVMRzZnOWFYRzR1VHBwXzRHZWlIdS0tYjA5RjVfY0dHRFF2VVIzN1VkdjZhWVdxb0pWT2pvOEd4dVI1ZDdOTy1RYWdObXBocm01cXVPUGpHVXJqcmRuSGRheFgyNUhOMmFGUUk5cEttSzNVb9IBiAFBVV95cUxPVVE1NVl1aGppdU5rbFBEQ053ZmRxSXYyZ2lwX1kwZFpFanRDb1QzcWlQZ1ptM3VJRGRGUkdaQzVFWTFFWVIxWmZIQWM1WEswLUhNRm83RllQemFOdzNyXzV5ampaLWFpRlhsZWFNdjdCNlp0N3BZNzZzcTJQd2FJZVNOQ0tUSUsw?oc=5",
-   "time": "2026-11-17T13:10:47Z",
-   "t_id": "Investor menantikan pendapatan Nvidia dan IPO Anthropic untuk menyegarkan kembali reli teknologi"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed's Musalem: US likely needs several rate hikes by spring to control inflation",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmh3bk9iaG5YQ2V2dzZUMkQ1aGQ2LWNfdHFCWkVaOUtyWFdHS3lFTzZJTDhsQnItcnN4N2NibjRLNXZIbHVvSllBY0Jyc201azJtbUNnWkRndWlPN05sZUVaWkJBZFlTTGJzYWFFLWRqN2R6X25jRllRT1hHekZ2aFRweE5rbHM3Z3p1SHoxR2UwR1VnMWVnbWZ3ZmRHSTkyR2lhU3p1NzNFZFBjMEtRQ25iZnpwVEhBZTd3bw?oc=5",
-   "time": "2026-11-17T12:33:45Z",
-   "t_id": "Musalem, Fed: AS kemungkinan memerlukan beberapa kenaikan suku bunga pada musim semi untuk mengendalikan inflasi"
   }
  ],
  "errors": []
