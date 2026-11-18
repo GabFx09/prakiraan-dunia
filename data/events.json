@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T19:54:38Z",
+ "updatedAt": "2026-11-18T20:09:21Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,8 +53,8 @@
    "src": "VIVA.co.id",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc0hDN2QwV09YbHdGbkEzaDZ3RkxIdEZFcmxMOXB4WjY1Ql85ZXE3Tm94a0JlTjQtTGZrcDNSV1FiaHFILV9WWGZmdjBWX1dvN1JMTV9xR0thOEpWYm5DSzVRMWpybm9QY2JGcGlIaTkxVERPbWRvWEdNNHU4eFpGSU9TUjlhcmFlSmpvWkhKSkU1RC1tUmczblA4bEQ0MzQ4NnlXYlYycEg5bVVOdWd6blRidURCOFE3YzVPUERha0R1VmRxaS1EQkpiSUJRRE5yWGtXRNIB2gFBVV95cUxPQS1wRngtM1lMUkFYUVNEUnZlZ0lMeG0tVGQ2Smk2X3JMVDZoNU55MjdjZ05RVVk1Tmw2Y3FLSUxuUUI1dUhwQkpaNHFXWnNHdEZLNktGNm1BaFRhaXNyV19aeHg3cHoxaW96cUdMLVgzUy1TOXBJRThNY2NKMU5sb21LWVdCYXdNM0JTQzVkdDk2RVotQ1N0NTRIckFJUG03LU0wWEEwVlZyRG9qbFctYmtDZmxxSDZVeUpkclZtaWs2TGdrMUZnb25WNWdzTlkzTzhXaW05V3JRQQ?oc=5",
    "sources": 5,
-   "recent6h": 3,
-   "score": 6.5,
+   "recent6h": 2,
+   "score": 6.0,
    "level": "sedang",
    "first": "2026-11-18T04:36:47Z",
    "last": "2026-11-18T17:10:00Z",
@@ -79,6 +79,35 @@
      "t": "JPW Desak Polda DIY Transparan soal Pemeriksaan 11 Polisi di Demo Yogyakarta, Sanksi Jika Langgar",
      "src": "TribunTrends.com",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc0dfSEN5Y3cwaTM5X2xYakpVX3NSRUc2UWg3SERWTDF5U0JqX2dQdVBob2pIRTRRenVPZEVpRXh3U0pmMmo1SjlHSUVXMkt5ZWVkcHpQeEp6S2Y2SDVaUGdPMWpoUWN2RkdtOWVpWmJDcXBRSXBiNlhtdElrLWFBejVqTnlWQWFTQ0R5U0tRWlZHRVlEYldybERyeklUb0FxUkQ0eTY3TVFTeFRpdDBWb2FPTFY4d1VQWHYwNDZaM1AxMWtsVmZMYjl1ay1tY1FnekMwSw?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "kesehatan-202611172044-58e0",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Ebola outbreak in DR Congo remains global health emergency, WHO says",
+   "src": "Latest news from Azerbaijan",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hnUHFjOHRTYlUyejZsN3l2Tm9SeElZWlhpZ1BnSUQ0MjM2b2Fkc1lBcFNGRmhOaWJscVpLZjJuaWxGcWIzQTh5dVdDXy1JVktQckNVMXNpXzRZRVNpSkU2Wm1HQU1sZmRWTnJrN3E5eUxNM081RFNKUXN5YVc5Nmx5U0VfUF8xeFZDdWJOSjktZw?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-17T20:32:27Z",
+   "last": "2026-11-18T17:34:06Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
+     "src": "Bioengineer.org",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
+     "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
+    },
+    {
+     "t": "Human travel drove Ebola spread in DR Congo, outbreak reconstruction suggests",
+     "src": "CIDRAP",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcW5ZRzJjeS1zWVFocm1zQkVuby1SZzh0c1M4Nnd2bXNfMzVybW0xTWtVZkluVUVJLU4yY0l2SW9jR1dXZEdHZzU0SE5DVTlaV3pFYkNrcWZoMmRfYVhvSDRqRk9Gd2FhUU9wcUF1LVhCZEhxaFhmY2RQWVRWZkVheG5lbVhvcmhacnhWUUYtUVY1NjUyd3VjQzIyWkxkY3RyZWV0X1RkN3ctQQ?oc=5"
     }
    ]
   },
@@ -138,34 +167,6 @@
      "t": "15.000 Orang Ditahan Polisi Prancis Selama Unjuk Rasa Biaya Hidup dan Sekolah",
      "src": "Media Indonesia",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3Q0QmRaUFQyXzdqU1hHTEhjSEtEazhSU0FESUZXUVo5enhNMWZjUkhWYUNKcS1jeVlpQXJZQV9SWmJjaHZHa1BGTVVMWXVnWFBZdkJzWnRZR0VyWVZaTFgwTWxVbjFlWXFxaTBVc24zUjM4anVFRjR3YkxyTC1zYXp2aXIyeTY4RmFtSXhzMmhTQjFYSkM5TjR0dDMyckhRdUxhVk1Dd2luWVdDZ2d6U1NPbXZ4dElrTE5PS0U5MHR0UQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611171959-4ea6",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "LIST | A wave of outages hits US companies and government systems in a matter of days",
-   "src": "National News Desk",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUd1cHI5ZTlVdjlJMkhnQmZGTzYwYS1Lc3dQTmwzeHQwTzlzR0RoTl9jdjBxazJNWEIwc0tVOXhzY0VuOVV1YnItSkp0VkljQnYzOHR4M1N2MXBkMTUzSU8xcGRuenBuS3kxdjRRSEZyYnlTU1h3aDVvTlhhWngyR01FVGFGZU1ieGhxeGlaWUdELXJVMjJTaHpZc0tMelR2alBxd2o4MEd2QnQxcDV3SkVuVVpQRW5fQlVnOG1WazdWZkJ5VUFIWGtSQ0ZSd0I2Mk56dlFLeE9mazczRlp1TGtjemp6VkV2?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-17T19:59:18Z",
-   "last": "2026-11-18T01:37:33Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Trump Says Nationwide Outages Are “Fine” as More Systems Go Down",
-     "src": "Truthout",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlB1RnJVMFpoUi1BTzNfdlFWYkt4SEoyVl85QmhJSXY5b1JxUkxxVlQtZE14X1FyS0xLaWNpYnhhLXZ0Y2tPRWhYZkVOYjB3VkE1U3J6MUFFZVhZMl90d0JQOC14cUUxNjRPQ0xkaTdQVHJHTGFOendoa1IxZ1JiSEdfRWQ5WnJYRTV4a3p5Um1SS0p4YnBDVQ?oc=5"
-    },
-    {
-     "t": "As string of tech outages raises alarms, Trump says everything is 'fine'",
-     "src": "RNZ",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZGI3aEJrc0NOcFJSbjZUNkJiNlZtOUZmakVySVI0bmY5MjZ5OGtuRzhIODVUeFRxRHZUZ0EyWHUtcElCZjdqZjlpeGwzTGJNbjg0ZldXd1JmaEFmaDFidVBQaEdqZGk3UC1RbHN4M1IyNzhzUnNFd0s1UkFsbHB1SjNQdnpPejNGYS1RWEtSZEFGVlR3R2FXajdIbjNNRVlrV21Eb0JGbUV0QXpUdXVV?oc=5"
     }
    ]
   },
@@ -234,33 +235,34 @@
     {
      "t": "The U.S. loses its measles elimination status as outbreak rages on.",
      "src": "Northeastern Global News",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vTVY4N3gta3duVDk1NGdYSC01amlUaUNUei1iVFNIT0JDTzZkVW5MRnduSXhlZThOT1lxRV9CRm9SN3gxUkxFX2g1cWl3ZkdUMEZKeXZ0aU14X2REa3l6ZmpQTnVKRms0YnhlM2UtZGxwU294S0VKbV9RQUV6UQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc2dfOEIwamZpZVNETnl3eFpiMl8zTE9rdVNrTUFHYWZsNFE4M21SaW5wM0d4YVJZYklVZ1RnNzhEeVI1Q0ltZkJpVW8zMXpxaTBFZVNMOFFGNl9semNjc3o4eUpXalEwWTJSakRSSzFVZkxMSVZlU0FxWkVsX05zbC1uaw?oc=5"
     }
    ]
   },
   {
-   "id": "kesehatan-202611172044-58e0",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "siber-202611172035-5af5",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
-   "src": "Bioengineer.org",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
+   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-17T20:32:27Z",
-   "last": "2026-11-18T14:12:45Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "first": "2026-11-17T20:35:00Z",
+   "last": "2026-11-18T14:40:41Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Human travel drove Ebola spread in DR Congo, outbreak reconstruction suggests",
-     "src": "CIDRAP",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcW5ZRzJjeS1zWVFocm1zQkVuby1SZzh0c1M4Nnd2bXNfMzVybW0xTWtVZkluVUVJLU4yY0l2SW9jR1dXZEdHZzU0SE5DVTlaV3pFYkNrcWZoMmRfYVhvSDRqRk9Gd2FhUU9wcUF1LVhCZEhxaFhmY2RQWVRWZkVheG5lbVhvcmhacnhWUUYtUVY1NjUyd3VjQzIyWkxkY3RyZWV0X1RkN3ctQQ?oc=5"
+     "t": "Tech blackout? Outages hit banks, airlines and government agencies",
+     "src": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazhKY0FTLUU5aGctWVdVWWFxSTA2U2ZMelRuMnlVZEtyVG42bmpoUXhXR0NQMHJWX0ZIZmxnTlZfZzA2UjJsOVlKVGpmcnE0QXJuUmZMTUJPS21CMWJsZEc5UXAxOXJWcVJidEdkVTYxWF9pNXEwRHlSUlZUdWllSTh6VTJJSk1nTU8yNzFEeDQ2dE9pR0VTR0RIXzhOX3R1aWxj0gGoAUFVX3lxTE5xUWE1X05WVm05VUUwUFI2TjV5T0ozU29BV3FEQUdwQUFXMjV3cXZneHdCS19ubzNyaWFGcENMZTFrLURLUWNkRS1jV2JFRUZyeVdfcnBvYXpsaVRCUGhjUEE1SnE5NUZoMGtwNTdVMGpBU3BXM0dRN09qR3djQmxpRVg2ZWpFVEFUZk1ENjJRRlFBVFJwX2hMZTZLOU1qQVJ0YW92TTFQeQ?oc=5",
+     "t_id": "Pemadaman teknologi? Pemadaman listrik melanda bank, maskapai penerbangan, dan lembaga pemerintah"
     }
    ],
-   "title_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
+   "title_id": "Pemadaman listrik yang meluas menimpa bank, perjalanan udara, NSA dan Apple, sehingga mengganggu segalanya"
   },
   {
    "id": "indonesia-202611180643-34b7",
@@ -286,6 +288,29 @@
    ]
   },
   {
+   "id": "indonesia-202611180634-87d3",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Kapolda DIY Minta Masyarakat Laporkan Anggotanya Yang Melakukan Pelanggaran saat Amankan Aksi Demo",
+   "src": "Radar Jogja",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWlhjSWt6OERqN3Q2WTRJWnJTcjBIRDl2Ykhyc3lVNXBGdF93QnFLZV83Q2ZkVHp0aUJaUmNURXV2ZGt6NktPRzZrUHJLWG9wYVBvVUJvbmtIV0k3a2pqb3FLemlsZXFUUFZUVmMwVVI1NUNiT3ppaEJZVW1vTmpVVHdOMUFpOEpyTEZSS2tNc2V1ejVqY0hiT0pmQ3kycjBSaWJWMjhFOWxLZHJXNzRhc0w0dlFiSHN6M090VTRMblMta1ZjY01xdllhNzduRHdFZzBpMlpVbmprWkl5OGlaUWtNemVZRTdr0gHuAUFVX3lxTE9NRW80aTcweTM0NFJiX29OMnBMSmhLaVVVNlB5Q3lVODhBMnFwUDVaYzVCNG1oUDZ6b3NDcF9DT3dFSzNhRWR4aHJFSFQzZXoyTDljN3VJRGdRWVZ0YjFmWGNQazliZ05kcTJRVWVwNGl1QkV5a09MdzdEM3poMVRDYmJBYVhvby1zZEJOdjZuMFpwSWVEY1RIMGpaR2owcFRldDJKcVNHcThDS1ZYdnhSN3NFejc1Mkt6MWJJWURpUVNQcFFfX2ZPMUpzYWVIbTVsc0RlaEk3azhDLUZweHFLSHpEdDloTTBDcURJNEE?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T06:34:00Z",
+   "last": "2026-11-18T11:19:17Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Puluhan Miliar untuk Amankan Aksi Demo",
+     "src": "Gresnews.com",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUEtUUZ2MTQwM2FheVBVcV9lZGN2ejF0Y2J4MVZYS0RoOWloaVRoaWgzTkhFX3VydTBUZkVvanRlLVBhU0RUTGwxS0I0SE5BcDVIVUo0SHRFbjVFbzl2WU9mek1pNG5DVEZadzZUdFJjOEVPN2tyNFFnVjBYcHE1TG12b3lIdw?oc=5"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611180614-7d16",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -305,6 +330,53 @@
      "t": "Jurnalis Malaysia Diancam Usai Liput Demo Karhutla, Oknum Pelaku Ketahui Nama Ayahnya - Kilat",
      "src": "Kilat",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcklmdUZaS3Raa3RzTnNUMFQ0V3Exa0VfUkZwVElHMUpLaDF0LWZKb3F1eE1QUDg2by10VHk4TDlZS1BZRHVybHU0dWNiUmxyNnNONVlCZzRKM25YNjRkWVhSOENwbk9pcU5YTDM4TDNTb3pPeTRNTkJwbWloWHNMaWxWeDJWeUdVQm8tNTFPNTlac2tmSklwbzZSZWNkbWlSUndTLW5HT3p4bWF3ejlRejZFY0dWYlVTZWtWQmVybzc0WUN3RHfSAcsBQVVfeXFMTzZIbWNKUDJZalVkbXRiRnZXTUwydW1fTW1Fd2pkMG0ybzlUU25QZElIYWp2N2x1a2ZPN3dHVFBXeERVYUtFZWZaR0YzVnFudExjNThVbWpYYVFBMzlpYzFHVmJMY2FwdGlHclU5X25fLVcyRHVXR0cwOElJQmhKZlcza21NWG0tZHVTRjJNai1zZk9vOXJtVHpOX0lPb0pmRVN3cTB5WmVBYXRyeHl2SWF6R0w0VDZpa3NLdVJZSmo5SDNPdVV0aW5yTWs?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "kesehatan-202611172242-87e6",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Amid U.S. measles outbreak, LA County touts high vaccination rates in fighting virus",
+   "src": "Pasadena Star News",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFpXSUtYdFZQSEUtaWpaQzN0WG9uS1pYSkFmdTBuWWxEelBiZVFaYlU3ZUJZYU54RzViNHdIZ3J3ZzUzYVNrX3JUbUpKdDFqS0hGU2ZVMlFIcHZScTFsZ1plTnFYZDBldC1hWmZqRWtFdTlpOFdqUDQ1Ny1VWDBrYkt0ZVViMGp2NHpZYkJnUzJZY1NyVUFHcHV5MVdLZEI1UTZkOVhKV0JuSmdna2E1Y0hSRjRBbjQzeGVnRy1xQy1GRC1sd2c?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-17T22:42:00Z",
+   "last": "2026-11-18T01:45:30Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Guilford County Animal Services pauses healthy cat intake after virus outbreak",
+     "src": "wfmynews2.com",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR3JYLTh5S1JMNkZRSEZYYU5DQTAxMVJoUjMzY0hnTmNUS0k1MmMwWTZESl9EX0FGNlgyRE9JWnpZMWRUNWkzQTZFaXBPSWdOVUp1MWthVXlvZlJFb2gzS2c2U1VpN040OFdxNlNKTGhieVBfb19Gd2szMURfMjU1MUpEdV9iblF0U0V3OWpyNjBiMHpKNEFOM3lSc0RWdTVtT2ZJY0JqNGt1bzFOenE4TXJJdWNjOC1BQ3NSWHF4Mk1WdDR0aG1Zbl90SV9GMEtEbTVhNDREYnpSekI5YkJ2TmpYTjhMSFhlUUNuQUYweVI?oc=5",
+     "t_id": "Layanan Hewan Kabupaten Guilford menghentikan asupan kucing sehat setelah wabah virus"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611171959-4ea6",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "LIST | A wave of outages hits US companies and government systems in a matter of days",
+   "src": "National News Desk",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUd1cHI5ZTlVdjlJMkhnQmZGTzYwYS1Lc3dQTmwzeHQwTzlzR0RoTl9jdjBxazJNWEIwc0tVOXhzY0VuOVV1YnItSkp0VkljQnYzOHR4M1N2MXBkMTUzSU8xcGRuenBuS3kxdjRRSEZyYnlTU1h3aDVvTlhhWngyR01FVGFGZU1ieGhxeGlaWUdELXJVMjJTaHpZc0tMelR2alBxd2o4MEd2QnQxcDV3SkVuVVpQRW5fQlVnOG1WazdWZkJ5VUFIWGtSQ0ZSd0I2Mk56dlFLeE9mazczRlp1TGtjemp6VkV2?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-17T19:59:18Z",
+   "last": "2026-11-18T01:37:33Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Trump Says Nationwide Outages Are “Fine” as More Systems Go Down",
+     "src": "Truthout",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlB1RnJVMFpoUi1BTzNfdlFWYkt4SEoyVl85QmhJSXY5b1JxUkxxVlQtZE14X1FyS0xLaWNpYnhhLXZ0Y2tPRWhYZkVOYjB3VkE1U3J6MUFFZVhZMl90d0JQOC14cUUxNjRPQ0xkaTdQVHJHTGFOendoa1IxZ1JiSEdfRWQ5WnJYRTV4a3p5Um1SS0p4YnBDVQ?oc=5"
     }
    ]
   },
