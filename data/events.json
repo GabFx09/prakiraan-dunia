@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T05:06:23Z",
+ "updatedAt": "2026-11-18T05:21:03Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "CNN",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Vb0RmWXNaMXVnWXAxb0ZrSUlJWU8wOU9TMXJ4NFljc3FiVzBhWm1CcHRMMWRvN1haNkk3OXU3TWsycUtyQnA4MEVqSkpYNk1JWVJ2U2w0LWg1cjVaLXFuV0NnQm9GenJyUDRONGF3c3VYMG9qM0dz?oc=5",
    "sources": 13,
-   "recent6h": 5,
-   "score": 15.5,
+   "recent6h": 4,
+   "score": 15.0,
    "level": "besar",
    "first": "2026-11-17T19:43:02Z",
    "last": "2026-11-18T04:36:27Z",
@@ -255,8 +255,8 @@
    "src": "Pikiran-Rakyat.com",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTNOYk9fRUcyemg1RWFFZHFuRk5DcEFHRmVOWGF6T3U0d0lDV2FkUkZ3M0VOaWxZTzdFSXZUVDR2S1YzTFRLOEF1VS05S3hmXzVseEFkajlZNUJqRlQyRGxmQnJsd3h5VnlQTzIzTk1nYTNoaGdteFdzV1JmYXdKbGx3aW9XUWE1MUpMdWg0SlJRQ2d0U0xYb3lJTjY5b1hwZWlmT0ZmbzM0VG85RlhaUnE3b1RaYVU5TUcxV3JzSUZHTVJfYmNR?oc=5",
    "sources": 3,
-   "recent6h": 2,
-   "score": 4.0,
+   "recent6h": 1,
+   "score": 3.5,
    "level": "sedang",
    "first": "2026-11-17T03:36:45Z",
    "last": "2026-11-18T05:00:00Z",
@@ -273,6 +273,36 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3Q0QmRaUFQyXzdqU1hHTEhjSEtEazhSU0FESUZXUVo5enhNMWZjUkhWYUNKcS1jeVlpQXJZQV9SWmJjaHZHa1BGTVVMWXVnWFBZdkJzWnRZR0VyWVZaTFgwTWxVbjFlWXFxaTBVc24zUjM4anVFRjR3YkxyTC1zYXp2aXIyeTY4RmFtSXhzMmhTQjFYSkM5TjR0dDMyckhRdUxhVk1Dd2luWVdDZ2d6U1NPbXZ4dElrTE5PS0U5MHR0UQ?oc=5"
     }
    ]
+  },
+  {
+   "id": "transportasi-202611171449-ac47",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "London Heathrow flights cancelled amid US air traffic shutdown chaos",
+   "src": "London Evening Standard",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-17T14:49:54Z",
+   "last": "2026-11-18T01:50:28Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Why Did the FAA Ground Every Flight? Tony Katz on America’s Outdated Air Traffic Control",
+     "src": "WIBC 93.1 FM",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3RhWTVDYVE4WERvc1FWWTZjaURodXoybDNaZVFJR202R282dENmM05HUnM0N2NHTGNZTXh6cWYtdkEtVndJTnlRMEZISEdjdWs5amVjbG9RT21Mb0JRWWh3UUhwb1A2aWx2cDZOdHZwcFFGcWhrdzlrckdrTW16ZHF4QUljdw?oc=5"
+    },
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+    }
+   ],
+   "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
   },
   {
    "id": "politik-202611170547-3f58",
@@ -324,55 +354,7 @@
     {
      "t": "Mahasiswa UGM Ditetapkan Tersangka Demo Ricuh 10 November",
      "src": "Suara.com",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTDNjeEs5S2xpLVpDYjB6Qy15X3JTRnRmSkM0N19yQmc3N3hSbVJGMmFZLXVwcU11bmlYNHZNS1ltWkd2TTlYNWVzSGh3eU5YVUNCUzN1b3F5dmtOWnRQUTFNZWdZMU1YWXJ4QkFTNGJJRUhBYWxlTlJRMUdYMHJFMjNNWm40by1QQ3JmX2p4WDRHdnJHTkRKMEh0V1FOUXF0VGxKVdIBpAFBVV95cUxNTDNjeEs5S2xpLVpDYjB6Qy15X3JTRnRmSkM0N19yQmc3N3hSbVJGMmFZLXVwcU11bmlYNHZNS1ltWkd2TTlYNWVzSGh3eU5YVUNCUzN1b3F5dmtOWnRQUTFNZWdZMU1YWXJ4QkFTNGJJRUhBYWxlTlJRMUdYMHJFMjNNWm40by1QQ3JmX2p4WDRHdnJHTkRKMEh0V1FOUXF0VGxKVQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "transportasi-202611171449-d519",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Why Did the FAA Ground Every Flight? Tony Katz on America’s Outdated Air Traffic Control",
-   "src": "WIBC 93.1 FM",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3RhWTVDYVE4WERvc1FWWTZjaURodXoybDNaZVFJR202R282dENmM05HUnM0N2NHTGNZTXh6cWYtdkEtVndJTnlRMEZISEdjdWs5amVjbG9RT21Mb0JRWWh3UUhwb1A2aWx2cDZOdHZwcFFGcWhrdzlrckdrTW16ZHF4QUljdw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T14:49:54Z",
-   "last": "2026-11-17T21:02:19Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611171621-5af5",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T16:21:13Z",
-   "last": "2026-11-17T20:35:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
-     "src": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
-     "t_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlqVlRZdGhQQlhHRWN0WUtzV09QUTdxcFE0dEMwTWE1dmZFNTgtVkxjdEM0VXh0eEQyZXBtN3JDNTNWR19ycnpFLS1KV3RQRlVfdk90b2gyUUhkM0ZfMWJnSHJ4UzRIc3VaUnZHRUYtcE9hTW1GMlNVY0pRRHUwSThCYmhnUjZZX0FGTS13bFpHQlBWRXhPeHVhTmZ3bnYwOW5XVtIBpAFBVV95cUxNTDNjeEs5S2xpLVpDYjB6Qy15X3JTRnRmSkM0N19yQmc3N3hSbVJGMmFZLXVwcU11bmlYNHZNS1ltWkd2TTlYNWVzSGh3eU5YVUNCUzN1b3F5dmtOWnRQUTFNZWdZMU1YWXJ4QkFTNGJJRUhBYWxlTlJRMUdYMHJFMjNNWm40by1QQ3JmX2p4WDRHdnJHTkRKMEh0V1FOUXF0VGxKVQ?oc=5"
     }
    ]
   },
