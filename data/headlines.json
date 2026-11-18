@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T20:52:55Z",
+ "updatedAt": "2026-11-18T21:07:32Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Crashes Below $65K as MARA Holdings Sells BTC and Investors Prepare to Allocate Capital to Anthropic IPO",
+   "src": "Crowdfund Insider",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTnZDRWN3OXJudjZEd0EzTmxuSjh0dVRVSDFQRlNmUDZZS3VCQk9xSjBrTzI4OWVFcGJ0UUN3dUM4YjkwdUlfUnRnWHFfTGhRWm9BNURxdDRaQmhLaUd2UWlDbUZKLTAyRzlwNGdRRWFLVHoycUF6aDF0ZWEyS2E4UzgxWVUzU1BFYXpueXdkb2VvSkZsTzV5ZDZpR2ZlTFVlb2UwQ0p0NEJfQW5rS3VQS2JBV1BtTk5lMDdwZlFmNGtXN3k3SkZBcm1wdGRkd2tXWUl4NHRybWxhRkJCZHlneFpURVd2NzY2NTN3M3VvblBYVGtsc3Vna093?oc=5",
+   "time": "2026-11-18T20:59:22Z"
+  },
   {
    "topic": "ai-teknologi",
    "lang": "en",
@@ -98,14 +106,6 @@
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
    "time": "2026-11-18T19:18:51Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkJIZFgtNWJWZklTaWZPRktNWDBIbVlLVTdSOHZIMm5ibzg1U0dWYXZ4VDF6ZHY1UzRveDhZSmczWEF0aDB0a1pzbVhfanNzZXlILXdSVTVQSjJSV1pPdFFUd092Zmd6S2RfQWhZTUVQbzBUVGF0SmhrMW9QZWNPaHdlWVZNbDUxNGRqa0k3QVJRcHZLeGdTM2djdTBOdkU?oc=5",
-   "time": "2026-11-18T19:16:02Z"
   },
   {
    "topic": "bank-sentral",
@@ -206,15 +206,6 @@
    "time": "2026-11-18T16:37:00Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC to EUR: Bitcoin Price in Euro",
-   "src": "CoinGecko",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKNENfeURjTUIxS2NjeGlYd1ZYVmg0SGJ1Znp5M3dmQ2xfMmpTaXBIRF9VYkI0S1YxZFNwTXRmblNXemNhdkxxaFFTdWhXUjdaV0F5azM2b3JlQQ?oc=5",
-   "time": "2026-11-18T16:03:20Z",
-   "t_id": "BTC ke EUR: Harga Bitcoin dalam Euro"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold and Silver 'Can't Find a Floor' as Waller Calls for Fed Rate Hike",
@@ -284,6 +275,14 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2VZNFg2WkNHMlctMmtDODJ4bzlRS2JtZl9mdkFRSXA1UTBwQzAxaVphZUEtRkpDU21KZVlSRG1ZdVcteW1TeEZ2c0NYd3VFQ0VueEhjS25JMXVnMTItU2tKSmdJRHBWWENlaXFLSlhYaGJxSVRjdXBTR2F6bndQNW51YXNGdDM4VWIzaWpfcGpHcndpdGY1cm1OejgwLW8tQ0ZkVFVqU09TZFdP?oc=5",
    "time": "2026-11-18T13:52:13Z",
    "t_id": "Wall Street terguncang karena Nvidia dan saham AI lainnya terus berayun tajam"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Xi, Putin condemn sanctions as Trump arrives in China",
+   "src": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajVqTEcxNDY1R0tuSHhRdUpFRHpxYlpLaTFnNVVCckpEanpKd3JYcjF5YTlHclppS3ljOU12Q3RYcVV4eWl3WElPcERIQXJNcTlCUHFWX09fcEdHSUhNc2JSVDVfWUJmbnhzdE0wR0w3QjduXzM0MWFiaFJldUhZSHFkSWpUWFBRUFNMcE0wYkp0NE1kOWVfVXo3Ymd2VGI50gGmAUFVX3lxTE5OcEVobWtENURqNUthcmg0RFNkNTVLRFlRY2phTTg0S2duM3NXdC1vS2VuTWRFR0JnWUVJWU4wTDVzNk43TS1RTVJkb3p1MXBmT1JrWWxkZTFpUkRpSWliV3dHMV94ZG83QUROUWh6cGppMU9vM2ZHQ29IUXZzTTFrb0FVUWY0Z3VEdGloTXp2UjBkNGkyWG5tdlBSN0hVYWE5YzBkY0E?oc=5",
+   "time": "2026-11-18T13:10:00Z"
   },
   {
    "topic": "geopolitik",
@@ -363,6 +362,14 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BeUI5Y19hOG1KTjJTbVpVRFVMOHJESmpkT2tYNUJVQnJRZmw1NGhFeFBqM3F0UjRRZGo3dnoyeFZHV0JQQlJCS1NHUGZtNktYSzVwY1NsT3JlckpEYUtuZVlkTnV2eEU?oc=5",
    "time": "2026-11-18T11:45:00Z",
    "t_id": "Harga Bitcoin saat ini untuk 18 November 2026"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "The Economist’s 2027 Warning: What It Means for Bitcoin?",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXhpRVB4bWpQc2RzYU80LVhPYjBGM2d1NmdpZ3dTZFpHVGRVc3pwM1lraTZqQUlSZWZDWnl3LXYyM2t6Mml6TEo0eEZ6Wlp3Vzg3NDFkeGlNdC1ZNWt1LVQwVHV6U2xCOVJZZ1lMUWxfRmt3NnZ3Uk5TbkU2dDk5clo2dVlublg5WWlqRFVoYW1vcmlrdzdMTXY2dnAxS0VRRi1V?oc=5",
+   "time": "2026-11-18T11:42:18Z"
   },
   {
    "topic": "indonesia",
@@ -495,14 +502,6 @@
    "src": "KONTAN",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcklSTERhZ09JZnJaRnJzZUpNVk5fSTB3Vld2Z1NOU2RwUWFaM1JYbHNBckZjcHNrQmhlMndFd3NFcVNFT1lPTDUzYk5ncVEzaFJTZnAtQXdGazJVbHRpSFc2YmhaTmVRXzFIZHlQdGtzaDlYcE41M21ZeUh6R2h5V0JGd1NvQ2gtbGFta2J5UjdHR01idVJNRHUyTFJPbzlNU2c?oc=5",
    "time": "2026-11-18T07:55:07Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Mengurai Dampak BI Rate Naik 6% Terhadap Rupiah dan Kredit Masyarakat",
-   "src": "https://janalokajournal.id/",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54dENHUFMwUmJ6Ul9mS2tNYjBzc2lReXBad3ViVHFqbDVvV2RjQW81ZDRHWmJxbFAwcjdYWUdpVll3Uy13TTNnY0g3RU5xZzgyeDJqZk9McGRSMVlveDdiTHBOZDlldlprdW82aW9OZkl1cFU?oc=5",
-   "time": "2026-11-18T07:48:30Z"
   }
  ],
  "errors": []
