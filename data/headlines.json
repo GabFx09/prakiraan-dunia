@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T12:08:20Z",
+ "updatedAt": "2026-11-18T12:09:57Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -84,14 +84,6 @@
    "time": "2026-11-18T11:16:33Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Thai gold prices drop THB1,100 as bullion falls to THB60,750",
-   "src": "Nation Thailand",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WY3FLUTM4RmFxZkNmWGFRb0V2Vy1ZU0YwdjNZMFJ0Um02a1lKN1o1Qk92MFZqSi1zSWRYdWdUSkFfaFBVaU1QQ0kwU2tfWUJIaF9pempLN0ZwTjU5ZThMajZERlljdG1iUUVvMldoOTAxYm56alE?oc=5",
-   "time": "2026-11-18T11:13:00Z"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "AI stocks rally as Nvidia outlook calms demand fears",
@@ -132,6 +124,15 @@
    "time": "2026-11-18T10:54:10Z"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC to EUR: Bitcoin Price in Euro",
+   "src": "CoinGecko",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKNENfeURjTUIxS2NjeGlYd1ZYVmg0SGJ1Znp5M3dmQ2xfMmpTaXBIRF9VYkI0S1YxZFNwTXRmblNXemNhdkxxaFFTdWhXUjdaV0F5azM2b3JlQQ?oc=5",
+   "time": "2026-11-18T10:31:20Z",
+   "t_id": "BTC ke EUR: Harga Bitcoin dalam Euro"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals",
@@ -167,18 +168,27 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Bank Indonesia Hikes Interest Rate to 6% in November 2026 to Curb Rupiah Depreciation",
-   "src": "Databoks",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenFlX0plcmJYcTlXWXFwenBsRHFKY2tweERZNkUxLUhXRU1UVWxjcTVTRHo1OXE2TnUwUVFoWUVjb2NJNWZxanF0YVJMeEtTdnBlOW5MVUJfaVNnSXlWMUpMUVJmbEVPaHNFc1lMTWZfbG9la2VJSmFreEh1UTh0aWdlZnluSDhRa3BGYWxlZ05peTJSZzN5M2ZySUM2bGZibHFyby1xOVhVY1lXZk1IRkl5eTJXVm9FeDRHaUtjc0xUSzJwREI5eTBkUHB0czJTME9RakxvaXlpTk5VbzRuemh2ai1zZnp5?oc=5",
-   "time": "2026-11-18T10:11:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "IHSG ambles 1,07% usai BI Rate naik, rupiah menguat tipis",
    "src": "IDNFinancials",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0w2a2RUdVg4THlOTmVmakNNVjZwc0pvbV9ZN1gxNDdpWElrRjVQeDhvR3poZG92eGtvWnQ4cVJfNWhybUd4WjZwby1jNVNIbHhxN3RtWUdIT2NfbXF5STVDd3NhR0lDMlViTFM1ZW1HSklXeFVBSUxxaFJ3Z1Fwai1raGJ6OHRaWEo0aGtULWt4V3VfYmROdEx0MDVldXJs?oc=5",
    "time": "2026-11-18T10:10:00Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold (XAUUSD) & Silver Price Forecast: Gold Breaks to a 14-Month Low Ahead of Fed Minutes, Can $3,781 Hold?",
+   "src": "FXEmpire",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLTBzZTE5bzFzOWtyaHpoaW8tMTRuQU51bHp1S2U4dFptTl9jeUdzZHZ4S1VLM1JDTHN6YktxZFFBLVBVdmVUUTlLdl8xV3d6X1J4aWNBMVJ0UURhVndpZTc4d2g1dWtPNnJxUVJCc2ZxUjJ4THliQzJLVDZyekNHc3k2ZmNkNDRWdV82TW83X3FwdzFKNmR6X3ZScXJFTFBDMU5tSGZhd0VUOHlLbzdoQ1haai0zdHhaUEZvQkgyb0lkMWpwS0cwUlE3WjdPZjdoYm9EeG9xRDBpeEtQUHlyeGk5NA?oc=5",
+   "time": "2026-11-18T09:50:34Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold analysis shows we may be in an interesting potential bottom zone",
+   "src": "investingLive",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObU1Xb3Y5aEU4YWs0ZEFWa1VhYUNCTi1iN2ptb2p5LWlDN2ZDc3lPWmRJR091MVhlT2ZqbzRzYV95V3ZjUWNYc21lSm1XWFVURWdLZEJPQU5EVnkyMnZyMzZJMW5TNExfQWtWX0FFRUltZzdTdEE1STlfc1FONm53OUl2LTRQNmFudWZmUDVtWGNZMkI0R2JPQkxxaWFxVG9zV2NPalEzeFNpejFt?oc=5",
+   "time": "2026-11-18T09:43:49Z",
+   "t_id": "Analisis emas menunjukkan kita mungkin berada di zona bawah potensial yang menarik"
   },
   {
    "topic": "geopolitik",
@@ -268,6 +278,14 @@
    "time": "2026-11-18T09:07:27Z"
   },
   {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Ditutup Melemah 1,07% ke Level 5.247,8",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQm9CU3c0VXdNLTJOUVI2ZkFRcDBCZTJ5d1JvMEpNLUJaVTQzNUI2c25SdmhuNVZ2OGdIRkN5b2MzZmVmdU9SWm5sQ1JjRjFWSzdreEZWbTFGTWJ0NFRoY2lGRVVKNXliUG83TS1UN3IxdlVlOFUzQ2FQQkd1ai12N240YUhjVW9lZkp2Y012VjNXUGRRR0E0MFhxVDJzMEFCcGVv0gGoAUFVX3lxTE9FLVQ2MzRNR2VtV2txNmRSaWVaNnR2UFp3ZjJxbnZEY2trUWladEtQcW5KNndMN1FBZU93NG5yMG01a0t3dkhGLV9OY3Q1bW1JNlVMWDdWMDlkaEJFb2ctdXRVUmxZLVpYc3VSM1dXc3Z0UVp2SDJDQjNPZUk1VHhfam1EODBXcGMwYmhfaHA1WnlqUlVFR2RybHJKMS1kVUJEUE9RcmVITQ?oc=5",
+   "time": "2026-11-18T09:05:27Z"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "To what extent do mines in the Strait of Hormuz pose a threat to shipping?",
@@ -320,15 +338,6 @@
    "time": "2026-11-18T08:19:44Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold and Silver Price Forecast: Selloff Deepens Before Fed Minutes",
-   "src": "FXEmpire",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0JzQS1PcGpZM1FoSE5Nal9IanVkQ0V6LXdDUl9xSXZQanBMNFVaT3FoY0xaUHFnYTRGTEZjSmwxSzYwcTBzY01fenhUb0Z6R1BMVWhOV2hMWjIzYWtmODBzcnlheXFIZ1hDdnVxM2ZlZjc2SlAxZ1FTSGV1SGhEekVza0l1bnZoSkRaWi0yd3ZoV3ZBRzZDcXM4MVlyaGVuNnU1Mm9rWEx3Y0djUGVKcHhqX0Vhck0?oc=5",
-   "time": "2026-11-18T08:17:41Z",
-   "t_id": "Perkiraan Harga Emas dan Perak: Aksi Jual Meningkat Sebelum Risalah Fed"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "Bitcoin Price Forecast: BTC stalls as ETF outflows mount ahead of Fed Minutes",
@@ -365,6 +374,14 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "Jaga Rupiah, Bank Indonesia Naikkan Suku Bunga Jadi 6 Persen",
+   "src": "republika.co.id",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2tuNXlQQmdRSkJzYk5wQW9pOFI1WjNOUHk2R0kwZi1zRHVqRjAzSzQ3M3NheDhGZURibFRtT2lkTUJPWU8yU1ViLXpwX1NIQUYzTWZOZGpERnVEd2gxN1VIdFdtRFZsVTVOR2VSQzhSdGNyRFJBNS05WURXQ2prbm1hQ1p1d3FVMkF4bWVMblpSR3ZxWS1CQzhfRERlU1M1ekVvandnVHhDM3Uy?oc=5",
+   "time": "2026-11-18T07:37:57Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "Jaga Rupiah dan Inflasi, BI Naikkan Suku Bunga Acuan Jadi 6%",
    "src": "DDTCNews",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM01XQXVBS25idmc1VzVfX1dZOHpKeURiVXc1cXZNelNabGxhWGtQYy0tRThmZm1lTWRELThHbkp5UllYVTVLc3JGRFhJcVR5X00zTnhyNVlGb204RTNPSzVQVEo5NVNqREV6VF9oQkMzZDBMQ3BzcF9ja0ZPX0dYX1NaTnhkRnV5Q2p3OTJXTXlMeWJ0aHZUOXhJVHRqSjF1Q2R5Wnk1X2FEQQ?oc=5",
@@ -377,6 +394,14 @@
    "src": "https://janalokajournal.id/",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVUlY4bXE5aUZ5UmpPeDJ2czBWNElmcXFyTFFzZm9kbWppeXRzOUswSWFrWTZ5VW12cDZHTFVhSE1xZUdsZklyMGt5NEhMZXNZcHVIODZTem5vd3lGcVVKcVVfUGFPNmJX?oc=5",
    "time": "2026-11-18T07:30:49Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Rate Naik Jadi 6%, Bos BI: Demi Jaga Rupiah dan Inflasi!",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNE10VmlLZHp6NE5xVVVBZWJtR0dSbWMyTWZFUnM0MlNNdm14d0RnYnh4SUJnajNUWXFpbUotYm1yalBGM0NTaFU5RFZ4a2xMRlZ1MHRVLWpHS0wtaW9reks5eTZDSWpkeUlpQkQ4UFdodGRkNEZyeF83Qi1YUUdZb2JhYWc2bTBqb2tmYXh3U3AyWVF4MVlwTUZxdFZyak5PcjBGVEpvaEFxTVBpcFk2MUNQVEN6VnNh0gG-AUFVX3lxTE55c3dSNDI1bVNEc1B2OUZCSzg5cFVRZWxNS19jckdlemEwcFZSVmNoa2pkM1A4aVFLLXBlSDQyeVdSZkZpMFhIZmtmTE94Y3FaV3ZId0NfZlNqenBFZTJGMWVsRDRxSnFlcWxROERCX2hSWjJDYUpocG83V29KNmtKOWNEZ2taczFVa0lBeDA4eFdnZ1RmdTJuZUc5bEFFb1lXUTNvU1hUa0RReWhTTU9tV1F0VUFrOFZWdmtoNVE?oc=5",
+   "time": "2026-11-18T07:27:03Z"
   },
   {
    "topic": "saham-as",
@@ -441,15 +466,6 @@
    "t_id": "Emas turun 2% ke level terendah dalam satu tahun karena sinyal Fed yang hawkish meningkatkan dolar"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "US senator introduces bill to revoke China's trade privileges ahead of summit",
-   "src": "Chosunbiz",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVhVd1RxekpfNTctQk1aZV9DQXdwNlR0Z1ppZXJEeXNDd213NEM1bUxVZlMwY0R1M2ZaRXNfWWpKMXhCdFZnUEtROUNiQ2NMQjNNZm8yc3RxbjFwMlMzeDNZVTVpSGtvZTlCWWJMdkFFdmhydEtsMmh4LVF1bUhGZVcxa1RmQmxj0gGcAUFVX3lxTE5rUFJyUF9ud245ckVEQnRZazJDdDFYVmsyelVsTWdvblh0WFJZMm1HVUdxTzNZSTlMRGpQUlFUeVRtYTE4dXhKT1dBQVJJRVVfUlB6SGJiNWwtbERNeGZxRnFqYjZRY0dVMXJncDYzQzBnUDNQaU1pcGV0OVRHUjZLN0E2OE5nWV9IY3pRR3pnM2NCeFZZWWF3dk10eQ?oc=5",
-   "time": "2026-11-18T02:05:00Z",
-   "t_id": "Senator AS memperkenalkan rancangan undang-undang yang mencabut hak istimewa perdagangan Tiongkok menjelang KTT"
-  },
-  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "The Fed Just Raised Rates Again - And Another Change May Be Coming",
@@ -477,14 +493,6 @@
    "t_id": "Tiongkok dan Kanada Memperdalam Hubungan Dagang di APEC"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Asing Diam-Diam Borong 10 Saham Ini Saat IHSG Masih Loyo",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalFhRGRLVENoTXRGaVU3ZFU1TkdBVjJaQTdLMmdtNnQ3LURkSjc3MkF1NlNqc0FmVXB1Y0Vqa3NpR1AzZFV2Nkc4aUVnOE5kUVhhci02VmtacWdzanJrRmMyYmFWTHh6ZnMtQ1B0RmV5bkhDTWNJVkNIT0tieXFLWE9Ca3pQTElkcG9wN0tJNy1kQjFZN0c4a3VKeDlWa25sVXllUEdiVEl6SXlHUnNnOWxRZEJJMGhqUWfSAb8BQVVfeXFMUHozMUZibkpfcll3NjY1M082LV9HV3ZsTWZ6bWw0c2ZsWmxWSl9wNE55TEtSa1RjaFVnbXh2b2FNS0VBR3BzNHA4dkdmc2poTkJ1UHY4Rm1IbktRTjFmaVllWnJoTkFaa2h2Ry1hSk13bmlYNnNvR0NSVnp6YnZDanBVQnNldlBZazAwVjh1cmg3aC1sUUFKUTRQaktpQkpBU0c0cE04cW5lNVNYc2tBLWx1QldyQnp6OVUtOUxRbkk?oc=5",
-   "time": "2026-11-18T00:20:20Z"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Tracking ship traffic through the Strait of Hormuz. Updated regularly.",
@@ -501,15 +509,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
    "time": "2026-11-17T23:01:15Z",
    "t_id": "Senator Partai Demokrat AS memperkenalkan rancangan undang-undang untuk mengakhiri status perdagangan Tiongkok menjelang pertemuan Trump-Xi"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "time": "2026-11-17T22:18:03Z",
-   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
   }
  ],
  "errors": []
