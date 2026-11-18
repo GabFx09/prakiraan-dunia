@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T13:52:36Z",
+ "updatedAt": "2026-11-18T14:07:18Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -27,15 +27,6 @@
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcEI5VS1mZF8zWEtfdWl2dlJfaHBuUVhWOW15QVFwUFBxcTVBeHk3TlUxdVYyVVZYT3l2dGQ0WkNBT0xfWVNxODhMYlQwZXdNdEc4X2pPRXpMLV9JZjlQN29PS2xuclZiZ3NFeGMtbnpGcVJzd2F3UGg1Nk5aS3pUb2FDNHZoZDZpaWtlSUlmTUx2Q0ttRkN5bTEzYU54VVVvSjFUSTVsSTB0Wk5hc1lyUnV0ek5LdWl0UjhF0gHAAUFVX3lxTE13Z0dNWE9KLUo5VXduNF9MWWNMOG13YWhjTW9PVjZCSUIxSk5mRFd5VUZMdjl3cVlteWhCVGRJTGJwTDBXSmN2Si00RXllZmlia29xdDNsSGRfWlFOR2sxUFp4MGFTVU1tNjQ3VFp2YjhZVHQ4bkZsMVVDaFAxX2RzV1lDXzR2N3RYNEV5ZDBtQ0tDVTQ1cHJhQzZOZkdGcGNGendmNVAxSHpPNXJqdnhVVXl2UVUtTVRlQ3ZiSDZ1Wg?oc=5",
    "time": "2026-11-18T13:35:22Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjVDZnN0eU4wT3hZNUEycDIwbnA1OVNad3dreDZaMmFYZXppSU5WSlhGcGRqRndpaElmbnVwS3pubmV2TWhzUEVEX1ZuY1dpbnl3YnRKckhfUXhhZDNMNzB6X0R4bGh5NWc3THlLbFR6bnF2eTFMRHU0RXc3TFBEMGxRRjR6LXJQaXM1STBod0VfY0s2SXc4VVcyNjR4eVhxM193cDBDdzdmMGdiQWM4?oc=5",
-   "time": "2026-11-18T13:30:23Z",
-   "t_id": "Bitcoin Menghapus Reli yang Tidak Ada karena Leverage dan Likuiditas Memudar"
   },
   {
    "topic": "kripto",
@@ -81,6 +72,15 @@
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWXlIT0Z6Y0U2RW5CRUx1d0lnZlMtMkwyQms4VlFSZ1k3OTVRdlQwRzIxaUw1YTM0bm94YlZYV3FIV1lsTng3eEhJSzJzSEpvQlRHSUdGNnZDQ2IteTRUSG9vc3NkbWh6WUdCa2UwNGMtMXJVRmZZWUdJbURaQUZ5WlZodHU5V0lsR2JKSjBrQkRURkExanFHSXprLUc1RmluLWMzX09ZYWU5WWRsZWhpZ25aLWJBX3dDa1gzMjIyQlJVM0xhX1IwREpqbkFUbTE1UnI3LTZZcGdKUE1ZYlEwTG51aU84d1Jyd24zckVKQXh6NjBrLWJoN2owdUN6cTNHd2JQZnFmaw?oc=5",
    "time": "2026-11-18T12:15:13Z",
    "t_id": "Harga emas hari ini, Rabu, 18 November 2026: Harga emas dibuka kembali pada posisi terendah setahun lebih, turun lebih jauh"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price on Nov 18, 2026 at 8am EST Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkhJbWdiSHJHWDdFNFR1OHF0VExmVHliNWtuNmctdTZGZHlmMVRQYXNiamhLS3FXNlFfWDB5YmNPT25adldjZ3RteWgtcU5IdDlxT0pGNmQ2NjlrM055Y2ZhRG96SDJEbVdpNGdVcnloSDhqYnNWQlJMRmYzSnZqYXItVjlmUzYzOXh1Y2hsYm9ZbmNrUHVKTHhQWThHV05Rb2dLelhIMHNvd1pCQ0E?oc=5",
+   "time": "2026-11-18T12:03:11Z",
+   "t_id": "Harga BTC pada 18 November 2026 pukul 8 pagi EST Prediction Market"
   },
   {
    "topic": "indonesia",
@@ -248,6 +248,14 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "Bank Indonesia Hikes Interest Rate to 6% in November 2026 to Curb Rupiah Depreciation",
+   "src": "Databoks",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenFlX0plcmJYcTlXWXFwenBsRHFKY2tweERZNkUxLUhXRU1UVWxjcTVTRHo1OXE2TnUwUVFoWUVjb2NJNWZxanF0YVJMeEtTdnBlOW5MVUJfaVNnSXlWMUpMUVJmbEVPaHNFc1lMTWZfbG9la2VJSmFreEh1UTh0aWdlZnluSDhRa3BGYWxlZ05peTJSZzN5M2ZySUM2bGZibHFyby1xOVhVY1lXZk1IRkl5eTJXVm9FeDRHaUtjc0xUSzJwREI5eTBkUHB0czJTME9RakxvaXlpTk5VbzRuemh2ai1zZnp5?oc=5",
+   "time": "2026-11-18T10:11:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "IHSG ambles 1,07% usai BI Rate naik, rupiah menguat tipis",
    "src": "IDNFinancials",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0w2a2RUdVg4THlOTmVmakNNVjZwc0pvbV9ZN1gxNDdpWElrRjVQeDhvR3poZG92eGtvWnQ4cVJfNWhybUd4WjZwby1jNVNIbHhxN3RtWUdIT2NfbXF5STVDd3NhR0lDMlViTFM1ZW1HSklXeFVBSUxxaFJ3Z1Fwai1raGJ6OHRaWEo0aGtULWt4V3VfYmROdEx0MDVldXJs?oc=5",
@@ -261,6 +269,15 @@
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLTBzZTE5bzFzOWtyaHpoaW8tMTRuQU51bHp1S2U4dFptTl9jeUdzZHZ4S1VLM1JDTHN6YktxZFFBLVBVdmVUUTlLdl8xV3d6X1J4aWNBMVJ0UURhVndpZTc4d2g1dWtPNnJxUVJCc2ZxUjJ4THliQzJLVDZyekNHc3k2ZmNkNDRWdV82TW83X3FwdzFKNmR6X3ZScXJFTFBDMU5tSGZhd0VUOHlLbzdoQ1haai0zdHhaUEZvQkgyb0lkMWpwS0cwUlE3WjdPZjdoYm9EeG9xRDBpeEtQUHlyeGk5NA?oc=5",
    "time": "2026-11-18T10:09:06Z",
    "t_id": "Perkiraan Harga Emas (XAUUSD) & Perak: Emas Menembus Level Terendah 14-Bulan Jelang Risalah Fed, Bisakah $3.781 Bertahan?"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "World markets are mixed as AI stocks recover after Wall Street losses",
+   "src": "WRAL",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2VZNFg2WkNHMlctMmtDODJ4bzlRS2JtZl9mdkFRSXA1UTBwQzAxaVphZUEtRkpDU21KZVlSRG1ZdVcteW1TeEZ2c0NYd3VFQ0VueEhjS25JMXVnMTItU2tKSmdJRHBWWENlaXFLSlhYaGJxSVRjdXBTR2F6bndQNW51YXNGdDM4VWIzaWpfcGpHcndpdGY1cm1OejgwLW8tQ0ZkVFVqU09TZFdP?oc=5",
+   "time": "2026-11-18T09:45:00Z",
+   "t_id": "Pasar dunia beragam karena saham AI pulih setelah kerugian di Wall Street"
   },
   {
    "topic": "geopolitik",
@@ -296,14 +313,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWRxMkcxS09UclppUFZ1OGVrLU5PcjJLXzlVOG1yUy0zcjhQZ1FkejBUdHFxY2dLaXpiS256TjRtZU1sdlRZODNvS1kwWGJUZlB2Y1VpQUxrXzVIbXgwUk40Q3dBWFNTeFh2Z1hISEtJcGJzbmRReVF2UXFNeC1vOGZ4QThpVTEtVXhTelp1QVlXNy03MUswbFR3cWpIZ1RkQmNTdjNLcVNVWF9CRWdsMmRNVW1VZ3NmUkN4ZGIwUUE0SXJGRnBfZ29FeGlIclpHYVE?oc=5",
    "time": "2026-11-18T09:29:42Z",
    "t_id": "Saham Asia beragam karena optimisme Nvidia mengimbangi kemerosotan Wall Street, para menteri The Fed menjadi fokus"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Perkuat Rupiah, BI Rate Naik 25 Bps Jadi 6%",
-   "src": "TopBusiness.id",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVVYRVFOOE95QVdld1FEZ2tZWlZFTnRvWlFmdW5uSU0yTlNCcGxvQkYyYXZLaW5rXzZLdXNpQzJZU0hHRGVOSzR6SHluYjBKYjFJOGJhalNnN1RfY1Z1ZUR4UU43azFMWVlpc2J1cmF0LXFXWjdLMTFPLWJ6TnBBSEpPbGNSeEk?oc=5",
-   "time": "2026-11-18T09:24:00Z"
   },
   {
    "topic": "ai-teknologi",
@@ -512,15 +521,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5",
    "time": "2026-11-17T22:32:40Z",
    "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "time": "2026-11-17T22:18:03Z",
-   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
   }
  ],
  "errors": []
