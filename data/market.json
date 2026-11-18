@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T12:53:55Z",
+ "updatedAt": "2026-11-18T12:58:19Z",
  "source": "Yahoo Finance (data dapat tertunda hingga 15 menit)",
  "quotes": {
   "spx": {
@@ -1047,10 +1047,10 @@
    "ok": true
   },
   "gold": {
-   "price": 3754.6,
+   "price": 3751.4,
    "prev": 3864.2,
-   "chg": -2.84,
-   "time": "2026-11-18T12:43:52Z",
+   "chg": -2.92,
+   "time": "2026-11-18T12:48:17Z",
    "series": [
     [
      "2026-05-18",
@@ -1566,7 +1566,7 @@
     ],
     [
      "2026-11-18",
-     3754.6001
+     3751.3999
     ]
    ],
    "currency": "USD",
@@ -1575,10 +1575,10 @@
    "ok": true
   },
   "brent": {
-   "price": 90.25,
+   "price": 90.37,
    "prev": 93.14,
-   "chg": -3.1,
-   "time": "2026-11-18T12:42:49Z",
+   "chg": -2.97,
+   "time": "2026-11-18T12:46:58Z",
    "series": [
     [
      "2026-05-18",
@@ -2094,7 +2094,7 @@
     ],
     [
      "2026-11-18",
-     90.25
+     90.37
     ]
    ],
    "currency": "USD",
@@ -3127,10 +3127,10 @@
    "ok": true
   },
   "btc": {
-   "price": 64067.35,
+   "price": 64015.33,
    "prev": 64893.9453,
-   "chg": -1.27,
-   "time": "2026-11-18T12:53:51Z",
+   "chg": -1.35,
+   "time": "2026-11-18T12:58:14Z",
    "series": [
     [
      "2026-07-12",
@@ -3650,7 +3650,7 @@
     ],
     [
      "2026-11-18",
-     64067.3516
+     64015.3281
     ]
    ],
    "currency": "USD",
@@ -8881,7 +8881,7 @@
    "name": "Emas Antam 1 gram (harga beli)",
    "src": "emasantam.id",
    "url": "https://emasantam.id/harga-emas-antam-harian/",
-   "fetchedAt": "2026-11-18T12:53:57Z"
+   "fetchedAt": "2026-11-18T12:58:21Z"
   }
  }
 }
