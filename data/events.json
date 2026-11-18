@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T20:24:00Z",
+ "updatedAt": "2026-11-18T20:34:39Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 23,
+   "sources": 22,
    "recent6h": 3,
-   "score": 24.5,
+   "score": 23.5,
    "level": "besar",
    "first": "2026-11-17T17:29:02Z",
    "last": "2026-11-18T18:09:48Z",
@@ -83,67 +83,30 @@
    ]
   },
   {
-   "id": "transportasi-202611171711-b894",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "siber-202611172153-353b",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "U.S. Transportation Secretary Sean Duffy blames contractor after FAA ground stop",
-   "src": "CTV News",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlJyQ2wzazBGeWpZbGdCRlNaZFE1Y3pwWnRkSmMySHlWcWpVekJOSWJINjhwNEh5ZnVudzVCN3ZlZUx3d0trS0c0SGhSamRhWVc3ZTNXMlRmOGtEMlg1djhXTDNUQW5EMUtXTU1obDFxM21LakszRFY3dmZkVkt6V1pTdWtMSlVHRWhJR0xvaFZUQ05hTlM5UE02WDJJcFY4MEVjVXBoeTZidVdHdjlVYkI1LWhxQ00?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-17T17:11:09Z",
-   "last": "2026-11-18T19:59:50Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "FAA signed off on repairs before nationwide ground stop: report",
-     "src": "Seeking Alpha",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5",
-     "t_id": "FAA menandatangani perbaikan sebelum penghentian secara nasional: lapor"
-    },
-    {
-     "t": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
-     "t_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
-    },
-    {
-     "t": "FAA ground stop explained, and how rare nationwide ones are",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
-     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
-    }
-   ]
-  },
-  {
-   "id": "kesehatan-202611172044-58e0",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Ebola outbreak in DR Congo remains global health emergency, WHO says",
-   "src": "Latest news from Azerbaijan",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hnUHFjOHRTYlUyejZsN3l2Tm9SeElZWlhpZ1BnSUQ0MjM2b2Fkc1lBcFNGRmhOaWJscVpLZjJuaWxGcWIzQTh5dVdDXy1JVktQckNVMXNpXzRZRVNpSkU2Wm1HQU1sZmRWTnJrN3E5eUxNM081RFNKUXN5YVc5Nmx5U0VfUF8xeFZDdWJOSjktZw?oc=5",
+   "title": "Tech breakdowns, broken down: Air traffic control, banks and security systems outages explained | CBC News",
+   "src": "CBC",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmlMX3ROUXc4Nk9INzFZaFdiSW1XREp5N3FFWFd1aEN4MGZRYkhMTXRKVlBGM3lVX19mVkRXX2lra0lHb1VvenJtSkxNVjhLdmVEdFZkbmdyOW5fX3Vpa1dzTVdQdURERFZaRldNWGNWcEJFaGVjTE96VFQyclhRa2F2NjBSMXUyQ2FIOTJ3Rjg3WEE?oc=5",
    "sources": 3,
    "recent6h": 1,
    "score": 3.5,
    "level": "sedang",
-   "first": "2026-11-17T20:32:27Z",
-   "last": "2026-11-18T17:34:06Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "first": "2026-11-17T21:53:25Z",
+   "last": "2026-11-18T19:32:09Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
-     "src": "Bioengineer.org",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
-     "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
+     "t": "LIST | A wave of outages hits US companies and government systems in a matter of days",
+     "src": "National News Desk",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUd1cHI5ZTlVdjlJMkhnQmZGTzYwYS1Lc3dQTmwzeHQwTzlzR0RoTl9jdjBxazJNWEIwc0tVOXhzY0VuOVV1YnItSkp0VkljQnYzOHR4M1N2MXBkMTUzSU8xcGRuenBuS3kxdjRRSEZyYnlTU1h3aDVvTlhhWngyR01FVGFGZU1ieGhxeGlaWUdELXJVMjJTaHpZc0tMelR2alBxd2o4MEd2QnQxcDV3SkVuVVpQRW5fQlVnOG1WazdWZkJ5VUFIWGtSQ0ZSd0I2Mk56dlFLeE9mazczRlp1TGtjemp6VkV2?oc=5"
     },
     {
-     "t": "Human travel drove Ebola spread in DR Congo, outbreak reconstruction suggests",
-     "src": "CIDRAP",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcW5ZRzJjeS1zWVFocm1zQkVuby1SZzh0c1M4Nnd2bXNfMzVybW0xTWtVZkluVUVJLU4yY0l2SW9jR1dXZEdHZzU0SE5DVTlaV3pFYkNrcWZoMmRfYVhvSDRqRk9Gd2FhUU9wcUF1LVhCZEhxaFhmY2RQWVRWZkVheG5lbVhvcmhacnhWUUYtUVY1NjUyd3VjQzIyWkxkY3RyZWV0X1RkN3ctQQ?oc=5"
+     "t": "Trump Says Nationwide Outages Are “Fine” as More Systems Go Down",
+     "src": "Truthout",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlB1RnJVMFpoUi1BTzNfdlFWYkt4SEoyVl85QmhJSXY5b1JxUkxxVlQtZE14X1FyS0xLaWNpYnhhLXZ0Y2tPRWhYZkVOYjB3VkE1U3J6MUFFZVhZMl90d0JQOC14cUUxNjRPQ0xkaTdQVHJHTGFOendoa1IxZ1JiSEdfRWQ5WnJYRTV4a3p5Um1SS0p4YnBDVQ?oc=5"
     }
    ]
   },
@@ -174,6 +137,37 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
     }
    ]
+  },
+  {
+   "id": "transportasi-202611171711-b894",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "FAA signed off on repairs before nationwide ground stop: report",
+   "src": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-17T17:11:09Z",
+   "last": "2026-11-18T09:34:19Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
+     "t_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
+    },
+    {
+     "t": "FAA ground stop explained, and how rare nationwide ones are",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
+     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
+    }
+   ],
+   "title_id": "FAA menandatangani perbaikan sebelum penghentian secara nasional: lapor"
   },
   {
    "id": "indonesia-202611172244-a4d7",
@@ -223,6 +217,30 @@
      "t": "FAA Halts All US Departures for Over Four Hours as Faulty Router Installation Cascades Across Network",
      "src": "Avi-Go",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQ2VvQUtwU0dDbVhRcmpZMnFSczJ0VmJEMkQxV3A4SW05aEhDcHp3eGZLcTZTNXJHQm1rOWFGM1dBVER3WU5TZDBZYWJwQXZSS3Yxek1DOGVQRXdTMlVpbGx1NEpUN0Z6Y2JFM2ZmS3JTSzg?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "kesehatan-202611172044-58e0",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Ebola outbreak in DR Congo remains global health emergency, WHO says",
+   "src": "Latest news from Azerbaijan",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hnUHFjOHRTYlUyejZsN3l2Tm9SeElZWlhpZ1BnSUQ0MjM2b2Fkc1lBcFNGRmhOaWJscVpLZjJuaWxGcWIzQTh5dVdDXy1JVktQckNVMXNpXzRZRVNpSkU2Wm1HQU1sZmRWTnJrN3E5eUxNM081RFNKUXN5YVc5Nmx5U0VfUF8xeFZDdWJOSjktZw?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-17T20:32:27Z",
+   "last": "2026-11-18T17:34:06Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
+     "src": "Bioengineer.org",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
+     "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
     }
    ]
   },
@@ -293,29 +311,6 @@
      "src": "wfmynews2.com",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR3JYLTh5S1JMNkZRSEZYYU5DQTAxMVJoUjMzY0hnTmNUS0k1MmMwWTZESl9EX0FGNlgyRE9JWnpZMWRUNWkzQTZFaXBPSWdOVUp1MWthVXlvZlJFb2gzS2c2U1VpN040OFdxNlNKTGhieVBfb19Gd2szMURfMjU1MUpEdV9iblF0U0V3OWpyNjBiMHpKNEFOM3lSc0RWdTVtT2ZJY0JqNGt1bzFOenE4TXJJdWNjOC1BQ3NSWHF4Mk1WdDR0aG1Zbl90SV9GMEtEbTVhNDREYnpSekI5YkJ2TmpYTjhMSFhlUUNuQUYweVI?oc=5",
      "t_id": "Layanan Hewan Kabupaten Guilford menghentikan asupan kucing sehat setelah wabah virus"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611171959-4ea6",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "LIST | A wave of outages hits US companies and government systems in a matter of days",
-   "src": "National News Desk",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUd1cHI5ZTlVdjlJMkhnQmZGTzYwYS1Lc3dQTmwzeHQwTzlzR0RoTl9jdjBxazJNWEIwc0tVOXhzY0VuOVV1YnItSkp0VkljQnYzOHR4M1N2MXBkMTUzSU8xcGRuenBuS3kxdjRRSEZyYnlTU1h3aDVvTlhhWngyR01FVGFGZU1ieGhxeGlaWUdELXJVMjJTaHpZc0tMelR2alBxd2o4MEd2QnQxcDV3SkVuVVpQRW5fQlVnOG1WazdWZkJ5VUFIWGtSQ0ZSd0I2Mk56dlFLeE9mazczRlp1TGtjemp6VkV2?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T19:59:18Z",
-   "last": "2026-11-18T01:37:33Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Trump Says Nationwide Outages Are “Fine” as More Systems Go Down",
-     "src": "Truthout",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlB1RnJVMFpoUi1BTzNfdlFWYkt4SEoyVl85QmhJSXY5b1JxUkxxVlQtZE14X1FyS0xLaWNpYnhhLXZ0Y2tPRWhYZkVOYjB3VkE1U3J6MUFFZVhZMl90d0JQOC14cUUxNjRPQ0xkaTdQVHJHTGFOendoa1IxZ1JiSEdfRWQ5WnJYRTV4a3p5Um1SS0p4YnBDVQ?oc=5"
     }
    ]
   }
