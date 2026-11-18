@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T16:34:10Z",
+ "updatedAt": "2026-11-18T16:48:58Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
+   "time": "2026-11-18T16:35:19Z"
+  },
   {
    "topic": "bank-sentral",
    "lang": "en",
@@ -19,15 +27,6 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnp0Q0Ewb2RJLVdrQ3ducVFvam9tbmJHNE1FbU0wcXBGeVdDajlJTWNIVFFrSXRkM0EyYXRaeW4tdnVydTE0VmlCZng4dk0tZHllUHZzWTZMb3Nzd2hHdFYxRFJhVGhoUzdpcjZYRGJJRFhJb0Q5YlVjal9PQl92NElXRW81YmdFYWJQenRjWQ?oc=5",
    "time": "2026-11-18T16:05:00Z",
    "t_id": "Risalah rapat The Fed akan memberikan wawasan mengenai jalur—dan besaran—kenaikan suku bunga di masa depan"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Dollar higher as hawkish Waller backs aggressive Fed action",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRS1EYUhITWsxV1EyUmc5V21qQzNLaVoyTmN2Mm9ieGRFVTEzQ05XdzB1TVdxdFF4YS0zdUVnTFN2SE8xVlRlRUplUnVDUGZQRFIxSnJTNFFZbXgtWF92MTRTc1dpS0w4ejVtMUNia3NmREJBTDZNajZxRVp2eTZSbUdEbERxdTZDRklQWGlWM1lHN1dSVmNXVmlDZw?oc=5",
-   "time": "2026-11-18T16:00:16Z",
-   "t_id": "Dolar menguat karena Waller yang hawkish mendukung tindakan agresif Fed"
   },
   {
    "topic": "emas",
@@ -336,6 +335,15 @@
    "t_id": "BTC ke EUR: Harga Bitcoin dalam Euro"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
+   "time": "2026-11-18T10:26:01Z",
+   "t_id": "Emas Jatuh Di Bawah $3.800 karena Ekspektasi Kenaikan Suku Bunga Federal Reserve Menekan Logam Mulia"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI-Rate Naik 25 bps menjadi 6,00 Persen",
@@ -469,15 +477,6 @@
    "src": "www.fxstreet-id.com",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmFLOUpFbDZqYlJweVVqcE1hdDhTanNGNDh5cWhUR0xSR2ttcS01eUp1S09DLVdfS2d5akJPdFRFeTNvNmQxay1GTXhpUXJIanhBUHdPWUEyNE1rUGx6LUJuVlRXWURLeUxIakJEY3l4WTIwV29FamVZVUo2NmR6OVI4Wi03T0FkWjhzUUpuSjhoSk5XY3oxQXZBTUlHZ2huY2lyLVByZnZUWTdHTVE?oc=5",
    "time": "2026-11-18T07:42:26Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0otMXozQUNrekhJLWlpdzg1WW8tcVJZVkhPVkNrTWNRNmY0MDBPLVZnWXNraWJ0X3drck5ST0RHMThaazY5Vmk2ZWVCZVY1UlltQjVOTU5MeEh1N2F4ck5TaVRQYk0yNjlYeERUNU1fQ2dOOEd6bjUzME44dGdiNkpUSEl5Tm5uT3JYZW5nMTdVZEZQVllVaVFScHRxM1BibUk2SXZiZWZoUjFnZEFjbWpoTFNHMk5kRElfWi1CQVhFTTFlT0E?oc=5",
-   "time": "2026-11-18T07:41:00Z",
-   "t_id": "ADNOC L&S UEA mengatakan satu anggota awak hilang setelah serangan terhadap kapalnya di Hormuz"
   },
   {
    "topic": "indonesia",
