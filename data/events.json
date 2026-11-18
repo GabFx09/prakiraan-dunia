@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T17:57:06Z",
+ "updatedAt": "2026-11-18T18:11:44Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 26,
-   "recent6h": 4,
-   "score": 28.0,
+   "sources": 25,
+   "recent6h": 2,
+   "score": 26.0,
    "level": "besar",
    "first": "2026-11-17T17:29:02Z",
    "last": "2026-11-18T17:02:24Z",
@@ -37,10 +37,10 @@
      "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
     },
     {
-     "t": "Kuwait drone attack: Iran hits back as war opens 2 fronts",
-     "src": "DNE Africa",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQd05QVVhrZjJPbzZJNzZSLVExQlpWdi1kNnM1Z2lrb2h0cEowYW1Uc3d5TmY3bkR4THY3LVVBQ21VdkdwRlhBb2t3YUt6dnhnNFBJOFBlMmJTTHpiSmlYWUtuN1RTNnJRY2hyTGo4LUEtSG9nODloMktTYw?oc=5",
-     "t_id": "Serangan drone Kuwait: Iran membalas saat perang membuka 2 front"
+     "t": "US carries out ‘self-defense’ strikes on IRGC missile launch site",
+     "src": "Saudi Gazette",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYi1vMmEzWWpHMGZweVRWTy1VaEZ6VFJrNGhKT3hBUWd0S29EV0RoWUVYOFNKd1Vvdlo1WmVKQXJsbFFvbjNYNV9yQWM0OUJnVEViRXBqWEFBeG9ia0FtUFlJNUx1VlpiaHRKbWNsbUdwQWRJTFZDVWFOeXU2WFdkSVFmemFTR3phczBtVGt0T19KUnFYVU8zb19EZVZMb0RqWmJIOThqVng3QjJLN3lBMlBB?oc=5",
+     "t_id": "AS melakukan serangan ‘bela diri’ di lokasi peluncuran rudal IRGC"
     }
    ],
    "title_id": "Iran mengatakan tentara menargetkan situs drone dan rudal AS di Kuwait ketika serangan Teluk meningkat"
@@ -173,6 +173,35 @@
    "title_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
   },
   {
+   "id": "siber-202611171843-f984",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-17T18:29:52Z",
+   "last": "2026-11-17T20:35:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "NSA Network, Apple Services Hit By Outages As Equinor Reports Cyberattack",
+     "src": "Forbes Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjZZOEZZaERvbWZ6U1FqTFJJLUdSUzkxX0FWLUwyb0F0RUJiaTZyMTFvdTNRd3hCeUd0X3pYM0JmYkVrY2pFNnhvN0YtQ0ZPS2xGcnNpcGExc0lrVjdIUGt6b3E4V1Z3RmF4QnNjU1Z2eHRpdGxhb19NLVUzMkxSeXdBdV9VOS1aWXR6M29NSmp4eWtweXpnMUh6Mk9qTkxWeGpnbWZLZXU5ZTAxYjQzYk00M2ROUVJCWVlOVjNmTXp6cWJTYkJPQzZ3?oc=5"
+    },
+    {
+     "t": "Apple outages appear to be resolved after internal update takes popular services offline",
+     "src": "NBC10 Philadelphia",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVTYyWHlIRGpSMWJkdHNQOW93dS1wS1NSYllybmFpTGNORkhyek5Hc1VwUEZTRXg0UUFRRGFqNXJNUlI2dFJGTndEWTdDVjEyQWNQRXZ6V2ZwWU9PQTBkLVJ0T3RLS3FsSG9Wbjd5SUNRaWZRNDFqZ0liR1EtY292dFBCczhEaWpyeUFMcTlPQ2xhSlRLakRhQy00ZmZHbFBmdTRzTnJoakdkQ2JEVHBWbTF5UTVZSHNqQXNpbklJemJnZmNjTVBLaVZaZUdPQTk4cWlrWUdpQlluMTYyWklMUmlLc9IB6wFBVV95cUxQN0htZ2ZCa2ZmM0pxRVhMSW9XaXdRS19rZG5zUVdTWVhFbTlrU3BLUVc0Zm5aWUNnRHBRMlBXdW95Y2Z2ZnFVaVU3NmIwY2VfakZnSlFTUW1GbnBPYWJpRVdyb3RfT2dNeTRJSTRDUDM1SUJic1laSmxyUWx1VUU5VURHWHJFNUNWQVB2VTh3aWo5OGs0Q0xVOTZCU3d5OVE4QmxTSFJwajgxd0RLT0ZYRktIS3JwOWNHeHlJb1NBYTRkUUdETkI5clhsc0NxYjJVM3VtWDZ2T3laM2t1dUVpa1JZNkZtMGdUUlMw?oc=5"
+    }
+   ],
+   "title_id": "Pemadaman listrik yang meluas menimpa bank, perjalanan udara, NSA dan Apple, sehingga mengganggu segalanya"
+  },
+  {
    "id": "transportasi-202611172045-d165",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -244,31 +273,6 @@
     }
    ],
    "title_id": "Wabah Ebola di Kongo: Bagaimana Ketakutan dan Ketidakpercayaan Mendorong Penyebaran Masyarakat"
-  },
-  {
-   "id": "transportasi-202611171449-ac47",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "London Heathrow flights cancelled amid US air traffic shutdown chaos",
-   "src": "London Evening Standard",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T14:29:30Z",
-   "last": "2026-11-18T12:40:35Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
-    }
-   ],
-   "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
   },
   {
    "id": "indonesia-202611180643-34b7",
