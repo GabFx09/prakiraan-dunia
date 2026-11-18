@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T18:41:14Z",
+ "updatedAt": "2026-11-18T18:55:53Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -83,28 +83,34 @@
    ]
   },
   {
-   "id": "kesehatan-202611172044-58e0",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "siber-202611171843-f984",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Ebola outbreak in DR Congo remains global health emergency, WHO says",
-   "src": "Latest news from Azerbaijan",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hnUHFjOHRTYlUyejZsN3l2Tm9SeElZWlhpZ1BnSUQ0MjM2b2Fkc1lBcFNGRmhOaWJscVpLZjJuaWxGcWIzQTh5dVdDXy1JVktQckNVMXNpXzRZRVNpSkU2Wm1HQU1sZmRWTnJrN3E5eUxNM081RFNKUXN5YVc5Nmx5U0VfUF8xeFZDdWJOSjktZw?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-17T20:44:22Z",
-   "last": "2026-11-18T17:34:06Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-17T18:43:42Z",
+   "last": "2026-11-18T14:40:41Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
-     "src": "Bioengineer.org",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
-     "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
+     "t": "Tech blackout? Outages hit banks, airlines and government agencies",
+     "src": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazhKY0FTLUU5aGctWVdVWWFxSTA2U2ZMelRuMnlVZEtyVG42bmpoUXhXR0NQMHJWX0ZIZmxnTlZfZzA2UjJsOVlKVGpmcnE0QXJuUmZMTUJPS21CMWJsZEc5UXAxOXJWcVJidEdkVTYxWF9pNXEwRHlSUlZUdWllSTh6VTJJSk1nTU8yNzFEeDQ2dE9pR0VTR0RIXzhOX3R1aWxj0gGoAUFVX3lxTE5xUWE1X05WVm05VUUwUFI2TjV5T0ozU29BV3FEQUdwQUFXMjV3cXZneHdCS19ubzNyaWFGcENMZTFrLURLUWNkRS1jV2JFRUZyeVdfcnBvYXpsaVRCUGhjUEE1SnE5NUZoMGtwNTdVMGpBU3BXM0dRN09qR3djQmxpRVg2ZWpFVEFUZk1ENjJRRlFBVFJwX2hMZTZLOU1qQVJ0YW92TTFQeQ?oc=5",
+     "t_id": "Pemadaman teknologi? Pemadaman listrik melanda bank, maskapai penerbangan, dan lembaga pemerintah"
+    },
+    {
+     "t": "NSA Network, Apple Services Hit By Outages As Equinor Reports Cyberattack",
+     "src": "Forbes Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjZZOEZZaERvbWZ6U1FqTFJJLUdSUzkxX0FWLUwyb0F0RUJiaTZyMTFvdTNRd3hCeUd0X3pYM0JmYkVrY2pFNnhvN0YtQ0ZPS2xGcnNpcGExc0lrVjdIUGt6b3E4V1Z3RmF4QnNjU1Z2eHRpdGxhb19NLVUzMkxSeXdBdV9VOS1aWXR6M29NSmp4eWtweXpnMUh6Mk9qTkxWeGpnbWZLZXU5ZTAxYjQzYk00M2ROUVJCWVlOVjNmTXp6cWJTYkJPQzZ3?oc=5"
     }
-   ]
+   ],
+   "title_id": "Pemadaman listrik yang meluas menimpa bank, perjalanan udara, NSA dan Apple, sehingga mengganggu segalanya"
   },
   {
    "id": "transportasi-202611171711-b894",
@@ -196,35 +202,6 @@
    "title_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
   },
   {
-   "id": "siber-202611171858-f492",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Apple outages appear to be resolved after an internal update affected several services",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS01oRGJLdFFiNUtzYUdLbTJHTGlFNTJsVkRudElwQjJWMU8teDQ1bUpONW5NMlBXTUZWeUxockJMVjN0bHNmdXZhWHlBbHY1STk3Zm9zcmdVcTVKbmxfM0dLdVR4SU5idUwwZjAwczFxNkNKVVpoZnctb0M3TG5xVjJpdHBGbDhKaERscDFOTDNQbE9UU2hLeGwyNHMzSmdkSmhxWg?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-17T18:58:48Z",
-   "last": "2026-11-17T23:42:43Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-     "src": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
-     "t_id": "Pemadaman listrik yang meluas menimpa bank, perjalanan udara, NSA dan Apple, sehingga mengganggu segalanya"
-    },
-    {
-     "t": "NSA Network, Apple Services Hit By Outages As Equinor Reports Cyberattack",
-     "src": "Forbes Middle East",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjZZOEZZaERvbWZ6U1FqTFJJLUdSUzkxX0FWLUwyb0F0RUJiaTZyMTFvdTNRd3hCeUd0X3pYM0JmYkVrY2pFNnhvN0YtQ0ZPS2xGcnNpcGExc0lrVjdIUGt6b3E4V1Z3RmF4QnNjU1Z2eHRpdGxhb19NLVUzMkxSeXdBdV9VOS1aWXR6M29NSmp4eWtweXpnMUh6Mk9qTkxWeGpnbWZLZXU5ZTAxYjQzYk00M2ROUVJCWVlOVjNmTXp6cWJTYkJPQzZ3?oc=5"
-    }
-   ]
-  },
-  {
    "id": "transportasi-202611172045-d165",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -248,29 +225,29 @@
    ]
   },
   {
-   "id": "siber-202611171843-f984",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "kesehatan-202611172044-58e0",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Tech blackout? Outages hit banks, airlines and government agencies",
-   "src": "NewsNation",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazhKY0FTLUU5aGctWVdVWWFxSTA2U2ZMelRuMnlVZEtyVG42bmpoUXhXR0NQMHJWX0ZIZmxnTlZfZzA2UjJsOVlKVGpmcnE0QXJuUmZMTUJPS21CMWJsZEc5UXAxOXJWcVJidEdkVTYxWF9pNXEwRHlSUlZUdWllSTh6VTJJSk1nTU8yNzFEeDQ2dE9pR0VTR0RIXzhOX3R1aWxj0gGoAUFVX3lxTE5xUWE1X05WVm05VUUwUFI2TjV5T0ozU29BV3FEQUdwQUFXMjV3cXZneHdCS19ubzNyaWFGcENMZTFrLURLUWNkRS1jV2JFRUZyeVdfcnBvYXpsaVRCUGhjUEE1SnE5NUZoMGtwNTdVMGpBU3BXM0dRN09qR3djQmxpRVg2ZWpFVEFUZk1ENjJRRlFBVFJwX2hMZTZLOU1qQVJ0YW92TTFQeQ?oc=5",
+   "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnVFWmxYR3UxLWQxSjM3TmhQaEVyWWR2UVNoQXVkNm5xZnNTQ2FPb190dTROUk1KbW1FZ3RwOXV2NjE2Z19jYUs0dmJGaFNYX1F6ZkpqOFJqd21mNW1wb1FzTjVuc2ljTkVJc1BKUXJqVzZTbGxmaGtNczRHU3BBeDJuRXhPbGJPT0JvTnlCbFQ?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-17T18:43:42Z",
-   "last": "2026-11-18T14:40:41Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "first": "2026-11-17T20:44:22Z",
+   "last": "2026-11-18T14:12:45Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Is it AI? A cyberattack? Untangling the web of outages hitting banks, airlines, and more",
-     "src": "FOX 2 Detroit",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3ppZmE3dTEwS0lBekJGSm5WUkxCNHN5SHFQUTg3c2dIanFNMjM5VXJ5VEtJdXBlbDNJZmJwVm9TdGJNN2YzZU5FaGl6c0xVbHRnbkM3OGFtUDFUbm14NEV5aWFtRnFDTEtqYmVpLWROTmRRQjhKcWltNDd0aG9uT0xSYzYtcmNCMWpURQ?oc=5",
-     "t_id": "Apakah itu AI? Serangan siber? Mengurai jaringan pemadaman listrik yang menimpa bank, maskapai penerbangan, dan lainnya"
+     "t": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
+     "src": "Bioengineer.org",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
+     "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
     }
    ],
-   "title_id": "Pemadaman teknologi? Pemadaman listrik melanda bank, maskapai penerbangan, dan lembaga pemerintah"
+   "title_id": "Wabah Ebola di Kongo: Bagaimana Ketakutan dan Ketidakpercayaan Mendorong Penyebaran Masyarakat"
   },
   {
    "id": "indonesia-202611180643-34b7",
@@ -315,6 +292,30 @@
      "t": "Jurnalis Malaysia Diancam Usai Liput Demo Karhutla, Oknum Pelaku Ketahui Nama Ayahnya - Kilat",
      "src": "Kilat",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcklmdUZaS3Raa3RzTnNUMFQ0V3Exa0VfUkZwVElHMUpLaDF0LWZKb3F1eE1QUDg2by10VHk4TDlZS1BZRHVybHU0dWNiUmxyNnNONVlCZzRKM25YNjRkWVhSOENwbk9pcU5YTDM4TDNTb3pPeTRNTkJwbWloWHNMaWxWeDJWeUdVQm8tNTFPNTlac2tmSklwbzZSZWNkbWlSUndTLW5HT3p4bWF3ejlRejZFY0dWYlVTZWtWQmVybzc0WUN3RHfSAcsBQVVfeXFMTzZIbWNKUDJZalVkbXRiRnZXTUwydW1fTW1Fd2pkMG0ybzlUU25QZElIYWp2N2x1a2ZPN3dHVFBXeERVYUtFZWZaR0YzVnFudExjNThVbWpYYVFBMzlpYzFHVmJMY2FwdGlHclU5X25fLVcyRHVXR0cwOElJQmhKZlcza21NWG0tZHVTRjJNai1zZk9vOXJtVHpOX0lPb0pmRVN3cTB5WmVBYXRyeHl2SWF6R0w0VDZpa3NLdVJZSmo5SDNPdVV0aW5yTWs?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611171940-61b7",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Apple: iCloud outage was not due to cyberattack",
+   "src": "SecNews.gr",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93T051bEVINlZEbUhqZ2tPTGU2dnFxTHdnelcydWpQd0ptekxUTm9xWW1RT1Y4OGNpRFFHLVpFbEZURUZGRkljYXI4MzdaS2d1U2RSUUVCN2VSWU1DaVlTLXFjZkFGN3VMc2NSeWphOUFxUU9TVG0tenhNZXUySG8?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-17T19:40:57Z",
+   "last": "2026-11-18T08:17:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "How to Tell If It’s a Cyberattack or Just an Outage",
+     "src": "WIRED",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVRiZUNSNVJhVVpYYTRHdGktNWY2UWc3eV81emd3bGw5eEhNVmZ2cTdoTnlzN2oxeWZyLTIzVmZSMS1JeGRSNXZhcThfdEFOc3psQUVhelRWdWtUT2pzZ0IzTXBWRUgwaHpBQWtPZkhlU05HVmYxZEhPUGRxVFpNY1o1RUUxUQ?oc=5",
+     "t_id": "Bagaimana Mengenalinya Jika Itu Serangan Siber atau Sekadar Pemadaman Listrik"
     }
    ]
   },
