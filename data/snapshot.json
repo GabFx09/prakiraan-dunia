@@ -689,6 +689,17 @@
    "ihsg": 5247.879,
    "usdidr": 18158.0,
    "ust10": 5.103
+  },
+  {
+   "t": "2026-11-18T15:58:00Z",
+   "risk": 82,
+   "btc": 62980.9,
+   "gold": 3756.2,
+   "brent": 89.03,
+   "spx": 7304.3,
+   "ihsg": 5247.879,
+   "usdidr": 18158.0,
+   "ust10": 5.072
   }
  ],
  "horizons": [
@@ -1135,6 +1146,22 @@
  },
  "news": [
   {
+   "t": "Saham teknologi AS belum banyak terbantu hasil Nvidia; investor masih berhati-hati.",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
+   "time": "2026-11-18T15:33:00Z",
+   "impact": "turun",
+   "assets": "S&P 500, saham teknologi"
+  },
+  {
+   "t": "Gubernur Fed Waller: kenaikan bunga 0,5 poin mungkin perlu untuk \"mengguncang\" inflasi.",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+   "time": "2026-11-18T12:20:00Z",
+   "impact": "turun",
+   "assets": "Obligasi AS, emas, Bitcoin, rupiah"
+  },
+  {
    "t": "Saham AI menguat setelah proyeksi Nvidia meredam kekhawatiran permintaan; futures Nasdaq naik.",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
@@ -1213,28 +1240,12 @@
    "time": "2026-11-17T21:26:41Z",
    "impact": "turun",
    "assets": "Saham AS, Bitcoin, IHSG"
-  },
-  {
-   "t": "Media melaporkan militer AS menyerang situs rudal Iran di dekat Selat Hormuz",
-   "src": "gCaptain",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXNBODNiLUlBTzNEN0lUdlk1Z2N4dExRRFVEY3BsejBYUHdDd3NYYlptZXk3OWNXZEJLbFZVYWM0U1FrdTEwNm9PMTBlWXFWSnJyYS1pTkx5Tm9ZcWxZb1R2dXg2LUNlOWxxR3NxMk5JOEhldzV2S1NXbXh2bmY1MVpjWGJXeE9wdWdhYmdR?oc=5",
-   "time": "2026-11-17T20:14:20Z",
-   "impact": "naik",
-   "assets": "Minyak, emas, rupiah"
-  },
-  {
-   "t": "Wall Street melemah jelang laporan Nvidia, yang pertama sejak skandal",
-   "src": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSUc5bXhVWmV4VG5OQVcxRGpqb21URnBFQllQdUZoMm5ISXc1ZGpBREltNXNUc1ZyczUxeUZheUxtQ3ZyNWE1LUtqQ01IZkYyblJEbFpTVXJfcmxnMjU4YTBxbkxCV0RONmRDWHBYaEdvbTBvU0pZNWVfNUZPRUl6aVNZT2tMdmVNT3gwQmJqSTBPbHdsX3UyUndfNVNVbkZSNE91UlI5NWRNTEtWUnFj?oc=5",
-   "time": "2026-11-17T15:45:19Z",
-   "impact": "turun",
-   "assets": "Saham global, Bitcoin"
   }
  ],
  "readings": [
   {
    "c": "neg",
-   "d": "Pejabat Fed condong naik lagi",
+   "d": "Waller: kenaikan 0,5 poin mungkin perlu",
    "k": "Suku bunga Fed",
    "v": "3,75–4,00%"
   },
@@ -1245,39 +1256,39 @@
    "v": "3,7%"
   },
   {
-   "c": "neg",
-   "d": "Turun 0,3 % hari ini",
+   "c": "neu",
+   "d": "Turun 0,6 % hari ini",
    "h": "ust10",
    "k": "Obligasi AS 10 thn",
-   "v": "5,10%"
+   "v": "5,07%"
   },
   {
    "c": "neu",
-   "d": "Turun 3,1 % hari ini",
+   "d": "Turun 4,4 % hari ini",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$90,25"
+   "v": "$89,03"
   },
   {
    "c": "neg",
-   "d": "Turun 2,8 % hari ini, dekat terendah 14 bln",
+   "d": "Turun 2,8 % hari ini, terendah ~14 bln",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.755"
+   "v": "$3.756"
   },
   {
    "c": "neg",
-   "d": "Turun 1,3 % hari ini",
+   "d": "Turun 3,0 % hari ini",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$64.067"
+   "v": "$62.981"
   },
   {
    "c": "neg",
-   "d": "Turun 1,0 % hari ini",
+   "d": "Turun 0,5 % hari ini",
    "h": "spx",
    "k": "S&P 500",
-   "v": "7.341"
+   "v": "7.304"
   },
   {
    "c": "neg",
@@ -1302,9 +1313,9 @@
  ],
  "regimeText": "Minyak tetap tinggi akibat ketegangan di Selat Hormuz dan pejabat Fed masih membuka kenaikan bunga lagi. Bank Indonesia menaikkan BI-Rate ke 6,00% untuk menahan rupiah, yang mendukung mata uang tetapi menekan saham.",
  "regimeTitle": "Stagflasi, risiko tinggi",
- "risk": 81,
- "riskNote": "Risiko naik tipis: eskalasi Iran ke Kuwait dan Bahrain, meski Nvidia dan turunnya minyak sedikit meredam.",
- "updatedAt": "2026-11-18T12:58:00Z",
+ "risk": 82,
+ "riskNote": "Risiko naik tipis: perang Teluk meluas dan pejabat Fed membuka peluang kenaikan bunga 0,5 poin.",
+ "updatedAt": "2026-11-18T15:58:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1594,13 +1605,13 @@
  "riskParts": [
   {
    "k": "Geopolitik",
-   "v": 91,
+   "v": 92,
    "note": "Iran serang Kuwait & Bahrain, Hormuz tegang"
   },
   {
    "k": "Inflasi & suku bunga",
-   "v": 81,
-   "note": "BI naik 25 bps; Fed masih condong naik"
+   "v": 84,
+   "note": "Waller: hike 0,5 poin mungkin; BI 6%"
   },
   {
    "k": "Valuasi saham",
@@ -1609,13 +1620,13 @@
   },
   {
    "k": "Likuiditas & dolar",
-   "v": 73,
+   "v": 75,
    "note": "Dolar dekat tertinggi 19 bulan, emas anjlok"
   },
   {
    "k": "Indonesia",
    "v": 76,
-   "note": "BI naik ke 6%, rupiah masih ~18.225"
+   "note": "BI naik ke 6%, IHSG turun, rupiah ~18.158"
   }
  ],
  "alerts": [
@@ -1631,11 +1642,11 @@
  "brief": {
   "date": "2026-11-18",
   "points": [
-   "Iran dilaporkan menyerang situs drone dan rudal AS di Kuwait dan Bahrain; konflik Selat Hormuz meluas. Kepala IEA menilai belum ada jalan kredibel kembali ke kondisi normal sebelum perang.",
-   "BI-Rate naik 25 bps ke 6,00% (di atas ekspektasi). IHSG ditutup turun 1,07% ke 5.248; USD/IDR sekitar 18.158.",
-   "Emas turun 2.8% ke $3.755, level terendah sekitar 14 bulan, karena dolar kuat dan taruhan kenaikan bunga Fed. Brent $90,25 (turun 3.1%).",
-   "Hasil Nvidia di atas perkiraan menenangkan saham AI dan futures menguat, tetapi S&P 500 kemarin turun 1,0% dan UST 10 tahun masih 5,10%.",
-   "Pantau: notulen rapat Fed, perkembangan Hormuz/Kuwait, MSCI 30 November, dan rapat OPEC+ 29 November."
+   "Iran dilaporkan menyerang situs AS di Kuwait dan Bahrain; AS membalas ke Pulau Qeshm. Konflik Selat Hormuz meluas, IEA belum melihat jalan kembali ke normal.",
+   "Gubernur Fed Waller menyebut kenaikan bunga 0,5 poin mungkin perlu untuk \"mengguncang\" inflasi; UST 10 tahun di 5,07% dan dolar kuat menekan emas ($3.756) dan Bitcoin ($62.981).",
+   "BI-Rate naik 25 bps ke 6,00%; IHSG turun 1,07% ke 5.248, USD/IDR sekitar 18.158.",
+   "Brent turun ke $89,03 karena stok minyak AS naik, tetapi risiko Hormuz membuat harga tetap sangat bergejolak.",
+   "Pantau: notulen Fed, PCE AS 25 Nov, OPEC+ 29 Nov, dan MSCI 30 Nov."
   ]
  },
  "calendar": [
