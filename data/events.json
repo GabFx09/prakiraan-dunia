@@ -1,29 +1,66 @@
 {
- "updatedAt": "2026-11-18T01:41:07Z",
+ "updatedAt": "2026-11-18T01:55:46Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "perang-202611171943-77eb",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "US carries out ‘self-defense’ strikes on Iranian missile launch site",
+   "src": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Vb0RmWXNaMXVnWXAxb0ZrSUlJWU8wOU9TMXJ4NFljc3FiVzBhWm1CcHRMMWRvN1haNkk3OXU3TWsycUtyQnA4MEVqSkpYNk1JWVJ2U2w0LWg1cjVaLXFuV0NnQm9GenJyUDRONGF3c3VYMG9qM0dz?oc=5",
+   "sources": 12,
+   "recent6h": 9,
+   "score": 16.5,
+   "level": "besar",
+   "first": "2026-11-17T19:43:02Z",
+   "last": "2026-11-18T00:21:01Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "U.S. Fighter Jets Strike IRGC Missile Site on Qeshm Island After Drone Attack on U.S. Base in Bahrain",
+     "src": "Breitbart News",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVEY0RWZ2MTdDU2czTWFjR3pXSHRNVEpuSGJYSkNKOWNxRHdOamRUZkN1aEs1T2JrUU5feTRGTVhGRVNmeGl6MmZUb3lIUFdqbXdmaXNIdzM2alZlblZ3bERjUUVJbFY1ZWVSaFNaUGJSbnYtMkZlcmNnWXZJaFI0TzBHOHhXdHRiX0xHS0ttSHVHWjBEdHEtTnFEOHJ1b2xmS0YyVW5zMHZNSm1NTW1vaUNWQTFpLWo5U1ZBbUE0WEVZMXBUTFY3OG5GMER6b3ZaMnpJM2t4dEFlakQwUjdr?oc=5",
+     "t_id": "Jet Tempur AS Menyerang Situs Rudal IRGC di Pulau Qeshm Setelah Serangan Drone di Pangkalan AS di Bahrain"
+    },
+    {
+     "t": "US strikes Iranian missile site after Tehran targets Bahrain radar system",
+     "src": "India Today",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmZoZk9yWnBySHV1el93NGVHNU9OazhkTUNvRnRLLXlOYUxmSVVyZmdIWnB4UTE2U1YwbEdaQTR6aW9mNmpnYkZmeDAxOUxzV01WaDQtaUliUENRenVGdlBUaDVzRUpMdnJrUnJaVVc0TXJjQkgwZ3RUejM5cmt4bUZlUzZuaVhRYVIwUEIyZFdkSTV5OWJUMVBBVnFnejVlN291NVdjTVB3QUxjT0NvT2VjUdIBuAFBVV95cUxOUUUtRDJ6WGJ6MS1ZbFlxclRULWpVRTlGTUU4VW9MdkFEeFh0SVN3dWFKYjM4M1pYOTFxSjVwYXpoZDhCZUNFaTVOelRkNWVoOElJaE83WWFpX19TYnF0VlVxNVlNeVB6MkdhM0QwRDRxc0xwQk5iY2VEWmZySy1naE9LZDN0aWQ0ZFdZQWVINk83ZmlVUS1CaHFkQWxtaC1meVprX1VseGVxR083bklzZEI4LXV6dk96?oc=5",
+     "t_id": "AS menyerang situs rudal Iran setelah Teheran menargetkan sistem radar Bahrain"
+    },
+    {
+     "t": "US Strikes Iranian Missile Base as Trump Warns of Possible ‘Dirty Bomb’ Attack",
+     "src": "Vision Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeXF6dkt1a0RhdDdzdGJEckNtVDU0aDl1R3JrMmhudnhFN2FBSUVJdTQ2RGM4ZWZDcGpUM0I4eEl1YkZrY2ZjaFgtQjNIa2luXy1BY2FxMk5zcE9iS1VDTmZJakpBLTN1UlNrZWJtek5MYlZRb09LOENYcXJtVEJvbmlaSE5VSGJkOFVHVzh4a212Yk1LcVM2RmtaU0V5RVBFR0xzNWtXZFp1Znk4c1h4bW1TT0pVSjB1SzFiMg?oc=5",
+     "t_id": "AS Menyerang Pangkalan Rudal Iran saat Trump Memperingatkan Kemungkinan Serangan 'Bom Kotor'"
+    },
+    {
+     "t": "US jets strike a Revolutionary Guards missile launch site on Iran's Qeshm Island after a third drone attack on Bahrain",
+     "src": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMjRBalJpV1NPaXc5a2lhUVJWcktUdExFSXdOcTRqX18zU0xnZ3RyOEFVWkNLUVBqM1dFR2VmaFlfaUNNMHEzX2NuU0dneV9MZHJDQzhLbVB1Y25MMW4weXI1aWltSWMzMlRic2xkWUdTeV9XMHl4M0NBU3d1SW9ub1dZcWZWVmFEM21OX3poekVuLWhMdU5sTi1YbjVNREFaUFJFcGd1ekcxdVU1cmpiT1dIWExzS3poTlA4OUZHZVpFRUJtTmNsUHgydk80QlZEc01USQ?oc=5",
+     "t_id": "Jet AS menyerang lokasi peluncuran rudal Garda Revolusi di Pulau Qeshm Iran setelah serangan pesawat tak berawak ketiga di Bahrain"
+    }
+   ],
+   "title_id": "AS melakukan serangan ‘bela diri’ di lokasi peluncuran rudal Iran"
+  },
   {
    "id": "siber-202611171550-7a26",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzlLcDdqRnN3R1BCUzdfblFWaTZKdEc5ckZldXJ0MGVTdmlLNmdCdWZuWTZqVFdyOUJMN29oSE9VcF9lY2x6cDlWN21lSk1FSnEtZjFGcHRjXy10N0ZWVU9yWC16SkNaZkFXc210em5ockpfZDlKQ0xKQXotaGRZOThOT1lsYk5wY2swMnBQSERBTE5OcElWN1pTdnBJUFF0RWZMSEpIRTd1bUxhcjUtQWxia9IBuAFBVV95cUxNUkI4OHV1OUZJWW1TSFVBc251dG5CTWg4QXNWQmNKNmlqd3gxd2RHVDJrQ1RramtrLUFpZDh3UHFTVmZvWHU4UkxUR2dfeXNVSVFDOUs0YXBkN1BOZFpKRWVobjFGNnlfbzQ1VHNad284QXZiYWYxSmV4ZktLVXNRUjVDbEFSSUZucDg0SFdCVVBRd2ZSaXdqSV9nTkIxTE0yVVEwaG16RlJ3Q2tFYzdObWlvQjNNNkh6?oc=5",
-   "sources": 9,
-   "recent6h": 3,
-   "score": 10.5,
+   "title": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
+   "src": "ABC7 Chicago",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
+   "sources": 8,
+   "recent6h": 1,
+   "score": 8.5,
    "level": "besar",
    "first": "2026-11-17T15:50:25Z",
    "last": "2026-11-17T23:02:15Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
-    {
-     "t": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
-     "src": "ABC7 Chicago",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
-     "t_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
-    },
     {
      "t": "Classified US communication network back up after outage hit system",
      "src": "New York Post",
@@ -41,8 +78,58 @@
      "src": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2VpdVNyenpTWkdETDVBMmgtZ0hzZmRyUFZWZkRzOUMtNEp6MVlmd1p2emRoMS11TTZYTUp6QmhYRzcwZ3dOQTd1ZU5zRTByRk9fckZsZ3Vrd2hkQlVsU0hnVi11Wk9nVXF5b3UtUG9NcHdORWNtOHJ5ZHA5RFg0SVZKT09BWTQ2T3FGc3hDRHdhTnc?oc=5",
      "t_id": "NSA Down: Juru Bicara Mengatasi Gangguan Saat Serangan Siber Diabaikan"
+    },
+    {
+     "t": "NSA's highly classified communications network disrupted by widespread outage",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDLSAa4BQVVfeXFMT0lwZjRuaUlFN0hObHBJdTYwRjQ2NnpDaGhLdTd0bUJMMzZoUVZ5NjljcGJRZ053dHhpdUlBS3VpcnpCSGZYNC04akllRndxOWlvYk1JSHZGMF9US3JPekN2dGl4YXRYdy1wLVcxaHJXQ3NwOExJS29iMGpxaUVaM2JDNGxiSmdKNi1hSlU4bkx2Z3F6Sk9tTGdFdUhFeDF5TUs0ZktpMUM5WUN6VHdB?oc=5",
+     "t_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
     }
-   ]
+   ],
+   "title_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
+  },
+  {
+   "id": "perang-202611170849-3a79",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
+   "sources": 6,
+   "recent6h": 2,
+   "score": 7.0,
+   "level": "besar",
+   "first": "2026-11-17T08:49:30Z",
+   "last": "2026-11-18T00:59:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "US Strikes IRGC Missile Site on Iran's Qeshm Island After Drone Attack on Bahrain Base",
+     "src": "theopenpress.in",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMVM1SG1uSnA0ek10Q0piREtlSmg0eHdNUXUyY3pjSFRxdXRTZ0Vva2NrMldobGV6QzJxamxFcjVmbTRiczBramRNLXJjdDcyY1pxN2lMN0ZFcVB3Q2FMejNwb0FrYXRhOGxBUVhfTGxZSnVDUFNNSXdlaERZMHpKc3QxM0E1bU1Qb24yUHY2TXBuU1VvVlFtN2NxTjVaRmRt?oc=5",
+     "t_id": "AS Menyerang Situs Rudal IRGC di Pulau Qeshm Iran Setelah Serangan Drone di Pangkalan Bahrain"
+    },
+    {
+     "t": "US strikes Qeshm Island after Iran drone attack on American base in Bahrain",
+     "src": "Iran International",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDUnVoMFQ3TkFacGRPa3k5aWhaZ0h2aTg0ZGdtdFUwWENhUjZiMFk0RDYwMGdJNHdPOTBkNVlDWFBueXpMcmJNM0pLczV1VEVRS1E?oc=5",
+     "t_id": "AS menyerang Pulau Qeshm setelah serangan pesawat tak berawak Iran di pangkalan Amerika di Bahrain"
+    },
+    {
+     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+    },
+    {
+     "t": "Iran live updates: CENTCOM says drone attack on Bahrain defeated 'without any damage'",
+     "src": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0hhZW9id2pDWkhhN2RjWHBGdlI3eUZHWjJVeVdabEZ2bmR2NURNVzg0M25PNjVOdEV2VnpRbFViYmp0TFpramdxc05vb0RnMGRBbmRJQlhmb0pHTy10S0VVZlNpZWJpVFlMZmE0cFNlUHE5Yl9ZMC1CcjZyTGpzV2N3dkE4aTN2cTh1LU9tQ2p5RlZY?oc=5",
+     "t_id": "Pembaruan langsung Iran: CENTCOM mengatakan serangan drone di Bahrain berhasil dikalahkan 'tanpa kerusakan apa pun'"
+    }
+   ],
+   "title_id": "Kuwait melaporkan serangan pesawat tak berawak seperti serangan perdagangan Iran dan AS di Qeshm dan Bahrain"
   },
   {
    "id": "indonesia-202611170348-3581",
@@ -126,6 +213,49 @@
    "title_id": "Pelacak status penerbangan: Cara memeriksa online setelah FAA menghentikan semua penerbangan"
   },
   {
+   "id": "perang-202611170809-fa05",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Missiles! At the Crimea Bridge",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYk5mZjN1bHBFTDcwenlYbjdrdVQySEIzeVNhTm44WkRIaHFMSC05aW5qV2U3LUQ1Wm5HYTgteUp6QTVqQ3RuUjc1NFo1TjdKQjFBT1J5a3JPN1ZMdHJTMnlLaFpjVHlkSUUwMldVVkx4VEtPdnhDVkxiV0RObGNqRE5qeUhadWpMU29xQldnbnFmNGs1b2p1WTdROUNtTWwxcWU5SFdyVXVZalByQmt1QUZUX3NwN3Y5bFdOeQ?oc=5",
+   "sources": 5,
+   "recent6h": 1,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-17T08:09:00Z",
+   "last": "2026-11-17T23:39:31Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Russian Missile and Drone Attack Kills Two in Kyiv, Inflicts Fresh Damage on Power Grid.",
+     "src": "Ukraine Business News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmxmcTZ4NzVFRDF5X3JGdjJqUzJSMVZheF92VF9SRlVUYTNSdnZpMms1TzcxWFdOeUJDTFluSnA0Q3V1THVjQXZOZFg4RTU3cEg3QVdWaHBkaXRVM0dhVmNncmxjVkE4TEpNRms3RkZ3QldBOVRRanNiMVdpNkU5em4tZDVFb05fdmdQMVhyNjhXUExFM25oMGlaSXA4aTZOWk5wb19iRdIBrwFBVV95cUxQWnJYS01UUlJ3V2VJVDFrRTRWbjZQU2lIbGdtQXhWRXE3aTRwVTNDdC1yM1NxdVNic0F2SFpxeTBBSzBoZ3hSczlxUklwdjNKaXRwUkVBLVBtck1GVVpKVVdiRVY4a2FvMEdoaTNhYlhMY1VuOFpYVVZSZlNYTXYzT1E1bXlXbXhZSGZsM2llNFUwWHlGRlBLa2JINlRmU0g2QVd1Qi0wSGpjeVBsTFBB?oc=5",
+     "t_id": "Serangan Rudal dan Drone Rusia Tewaskan Dua Orang di Kyiv, Menimbulkan Kerusakan Baru pada Jaringan Listrik."
+    },
+    {
+     "t": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+     "src": "Houston Public Media",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT2VMT3FSd3JZS0hHa0YtM2dseGw4Z3lITUlPNExwY09yY2wzamliLW9tbmY2clc5TFhVMC10TmM5eHFyejBNOGV5WTJNRjdVWmpMZlRWdkhUMUEzZm5vUFVLUm96c3B3TU9wd2xCakhlOS1jNFhEcldXZEw0YllNS181TjBuRjBmYkxmVzZhRThicHRBd2sxTmJkSWVBUkRJZ3JHSWNtZDEtNVc5bnJoRVYtcnJKZ2pXWkRST010YVdRY2JPT190Ty1EN1ZrR2MtREZyQkNfMFNhaXRIcTBtNzJvXy13UQ?oc=5",
+     "t_id": "Ukraina menyerang jembatan utama Rusia dengan drone dan rudal saat serangan udara meningkat"
+    },
+    {
+     "t": "Russian Missile Strikes Hit Two Major Kyiv Bridges",
+     "src": "Arise News",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wYXZqLUM2UVRsRDg1OTlVT081UDc1ODVQUjRhM2JlQXBpckZWdG1vajBSWXhFanVVeENuR3pLZTJaNnplb0xkcUFVb3QzZ2lKanlwR243c2hBc2xBQmpTazBCQzBHVXR4UUtQUEh3TEk5bFhBN2s2NDJnaVA?oc=5",
+     "t_id": "Serangan Rudal Rusia Menghantam Dua Jembatan Besar Kyiv"
+    },
+    {
+     "t": "Russian missile and drone barrage knocks out water and heating in Kyiv",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHdYUWRPSnJ4c0pPeHVqYWpuZWktVXdoYnJaTTAzYkJXNFpqdWxPYnp5SUhwZExSbW1wOEh5TEs0LU5sX2JfR09sdlpQSXRqRzVCdmVTM2xSS2w4UUhSUFI3NjczT1VIX0h6SDRXcjF4NUR4Xy1zeHlLc3hIUTNZNGF1aW56TEdYUTNLMGthVFc5cGowYnVkZDRWYVd4djgyTUsxc3BoQjFia054VTA2LUJSU0lJQmNQb3VISV9hOHlQelpZWmRMdHpob9IBxwFBVV95cUxQM2ZnbGRTX3lFdWNwY1Q3YThiOU45Z1hNZTJyUHFiWEx6ZWcxV2FUU3g2VDFnVFpxQjZlQmlvM0REa1h6aWFHUElPWU45TnQwc0ExWmhKTGpJVVVYU0JITFA0TnI4SkNSUnR2dzdRamlrV1JkTUdja19HUGtWZnN0UmVyVlFPeWRFWXMxd2k5UTdTY0ZHLTAxV01rTlVHbUs3X0Z4dFhWX21xem83bFVSd1lxYlA4THZoazBjamwtTHdlcVVPSGZj?oc=5",
+     "t_id": "Serangan rudal dan drone Rusia mematikan air dan pemanas di Kyiv"
+    }
+   ],
+   "title_id": "Rudal! Di Jembatan Krimea"
+  },
+  {
    "id": "kesehatan-202611171452-0a8e",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -155,6 +285,98 @@
     }
    ],
    "title_id": "Layanan Hewan Kabupaten Guilford menghentikan asupan kucing sehat setelah wabah virus"
+  },
+  {
+   "id": "siber-202611170343-5af5",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-17T03:43:23Z",
+   "last": "2026-11-17T20:35:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
+     "src": "Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
+     "t_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
+    },
+    {
+     "t": "Bank outages in US after flights and Microsoft disruptions: Is it a coordinated cyberattack?",
+     "src": "Firstpost",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkdRN2Z3cWQ0QmlpdFEzUk9TVm01U2Y5U1c4U2trWTF1Y3ZwSkZLVlZkaHZuNlkwYWI3azhBOGYyc1Nhc2oyeVQtMEVSWno0dUlWa1JYeFg3dlg5SkhzazhOazhPdWJGd3hZaFdHWUdIQkY4U1Y4WTJ1M0pYVkhKUVBvTTE0bnhVVEloTnJfbmdwdWo1SFFnS3JianVYN3lTbW9ka1pZNjRQcFlqN3hScjd1anhacmJKaDB4bDJOel9ydUZuQk94VkR5QklSQ3k1eGMwMHRR0gHbAUFVX3lxTFA1QkY4S2hpNk9DdGZ0VUY3c3BGUUJ3YUNSWmJyM0VNLTFRbkROeXlCbzg0WUFHNHNueGY0NGdPVlJwamdtbkJOb1FfMzFIWnNwZE1wTDF2b1NOWGpCaVloT1pHc0hoU05rUzV0eEJuMlczaUFVUTNLNmVIczBDSW9jUEl2aTJQWWJITHJfUHZRTzJJR3dZMTJUd3hqODNUY29sVmVRMUw1eWlGai1DelJDMnVJd19Dcl9NRWg4eXNwaUE1c3FEZWtkQWZHM0NoNTRZOXhpV01pb1ZNQQ?oc=5",
+     "t_id": "Pemadaman bank di AS setelah penerbangan dan gangguan Microsoft: Apakah ini serangan siber yang terkoordinasi?"
+    }
+   ]
+  },
+  {
+   "id": "perang-202611170302-8927",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukraine Destroys Kerch Bridge Road Span in Major Drone and Missile Strike",
+   "src": "fish4news.co.uk",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnBscUZtZ3NRUW9jX1NrTk5fX1hpMHBXRTNkbnFZbm4xVTBPX2tsVzE2dTc0UXNmVUEtWnVRUktad0VjYlBFQjZJOGpKV25VUzlUUzVDbkdRaUEyUnF2X3R2Q2ZkLWcteTdOcVlKTjk4RmIzc2prd0t0cENfci11REFSc2I?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-17T03:02:40Z",
+   "last": "2026-11-17T17:35:20Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Crimean Bridge Arch Collapses Into Sea After Fresh Ukrainian Missile Strike",
+     "src": "Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaVFxZjhIc1RNSEhxaXZtTWR5bkQzVmxjQXdlUmFtMUx0QngtX3JTNHVtalBXUkFNZ2tJODh0dzhRR3UtejBhTHNkSQ?oc=5",
+     "t_id": "Lengkungan Jembatan Krimea Runtuh Ke Laut Setelah Serangan Rudal Ukraina Baru"
+    },
+    {
+     "t": "Ukrainian drone and missile attack reported on Crimean Bridge – Video",
+     "src": "cedarnews.net",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWtVYkg1bGdZU21MUE5IWl9HMlpSQTJqV3lZZDRLWXdtZnkwYWxXaHAwUFFpWnZfcnh2VE9kY3pqc0wtVkJpMzJIa0ZqMFFsMWhkSG9nbzhhUUV2QlRKdjl1YmlPQU50c1lvRkJieTFCc0dfUWFQYUh6a1d2ODMxcm9RMnlYekVnTEFfN0pzTjZ5YnJPOVNnSzVEUExxX2xwUzFvQTBaMm5YRUE2?oc=5",
+     "t_id": "Serangan drone dan rudal Ukraina dilaporkan di Jembatan Krimea – Video"
+    }
+   ],
+   "title_id": "Ukraina Menghancurkan Rentang Jalan Jembatan Kerch dalam Serangan Drone dan Rudal Besar"
+  },
+  {
+   "id": "politik-202611170547-3f58",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Spain votes first: What its snap election could mean for Europe and the United States",
+   "src": "Atlantic Council",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTFYOGNIb1k0Z3BYUGJJRTZmb2JxdlJ5VmJQV2ZiVFU1TkJDeXBpRnR6TkxNd3lnckNwNWhsbDNNbHQ5UEtEekhVYV9BbkoxTk5MQ3RlRmlET1g4VjFrUGhkNkY2WWFQXzVkeE04elp6THRjVjFwbERWRHpYY0VtVG1YekpnMU8tc3h0VGNrc0J1YWc5XzVPc0dEMXpZdENxSkNPT1ZaV0J4cWRBeEs1Ujd2YTNrcG8wbXdORVpSUE5sTExMLU84?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-17T05:47:08Z",
+   "last": "2026-11-17T15:04:28Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spanish hard right coalition poised for majority as snap election nears",
+     "src": "EUalive",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeU1HMUZ2cjN2TWtlV29KRUZUVlJnNmtsREE1RW1oV240UTkwWjU2WGktcUpPRE9pMW1Kbzl1VjVOTkZsX2gydS1QNmV6dTFkOUJXSXp3aExIQjZ3Qk1tQTYwTGpybnhpNmpzY0RmVEV1RVpTNzhsVVQ1ZlhDcVJlRmk5WElSVjgtRWROWllyN2dwQ3dwQUFv?oc=5",
+     "t_id": "Koalisi sayap kanan Spanyol bersiap untuk meraih mayoritas menjelang pemilu sela"
+    },
+    {
+     "t": "Spain’s far right eyes power as Sánchez gambles on snap election",
+     "src": "Philenews",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4azJNWmpROFVzcGpzbnRBVWlkZjg3S3JXNWxzZElORklhSWZEcmR6Q2dpRmtSTXVibmVMQnlSQks2RnZ3MUoxS19HLWhOV0pHM2NuYzMyN2VfZDhYaG1KR00wdGcyRXdDYVFsRkxoX3VvVWdCRG9iQzM0UGQ?oc=5",
+     "t_id": "Kelompok sayap kanan Spanyol mengincar kekuatan saat Sánchez bertaruh pada pemilu sela"
+    }
+   ],
+   "title_id": "Spanyol memberikan suara terlebih dahulu: Apa arti pemilu cepat bagi Eropa dan Amerika Serikat"
   },
   {
    "id": "transportasi-202611170707-6aa2",
@@ -194,6 +416,37 @@
    "title_id": "Penumpang United Terjebak Hingga Delapan Jam di Chicago O'Hare Tarmac Selama Ground Stop FAA Nasional"
   },
   {
+   "id": "perang-202611170452-a411",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Drone attack on Moscow: Russia says it downed 1,441 drones overnight",
+   "src": "Around Prague",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUXVxeW1OeDd1ZXYyRWxycUNSMUNJaXdXeUZ4cEV6NUdjNEdxQUVFbTJpTEsxYzFPS2ZGUkJxMW1yWjYteVYzenF1WFZydGJPVzlzZ0pmQ3plT0ZZLWlveERrUDVmOENMQlFITGY2dEk5QkJpV01aWFlxT2ZVd2FfRWhFTFdQZmZoN1NBZkNZZkRuSHdKcGtFX0gtSTVVb1pxU2hlbGM3MUV4cnd0MjZZTzdwY2RUZEw5UjAzUUp2UnIwZw?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-17T04:52:48Z",
+   "last": "2026-11-17T09:36:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Russian forces launch large-scale drone attack on western Ukraine",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2REbWFRUnZpVFdoQWRZYVVPNk1oTFBUQ0o3ZUVacExPRU5taHRrZHlEeGFvaWlKNGhNTzBzY2ZMWGc3R0lFMXBpbXh6VTA4RXdhV0NLOTdYTjhCektMVFRFUDFNaDR4SklqVVlDalJxcTJEZFJFQlpOWGF0ckVRVXdCOHZRWmVWbWlmS1lfcXRzTzJmZVpGdnRQQ0lKak55cWfSAZ4BQVVfeXFMT2pyWmFaN1BoRm5SOXJmR1VlTHM0VzFtQTZMOEM1eTExc0pIQ2JRTm03eFVhNFJLR3JtM054emFhR0VPNVVVMndzdl9FOUJGQVh2YlBTWEhWYnpqRVk2ZWdRcVk4dUZ5ZGkyMU1XOS1fMlVFOC1iSEFYanU3VmFyaFRwN0JVWDJya1BxWUlaWUJkbjliTC1lVzR0S01iUnc?oc=5",
+     "t_id": "Pasukan Rusia melancarkan serangan drone skala besar ke Ukraina bagian barat"
+    },
+    {
+     "t": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPai1fWEE1OVItb2RjUm50NlFNZW5BYkhLWW1hM1I2NXJDZDEtMkVkdVZBb3pQcEloTVNxemlRRElRRFprZ1h6MDlSaTdkdjBqcGgtSjFlWnFNQldOYnBJNTdvemlIa1NZZF94NGNacnFrQnh3NTJ5TVNuTDZpZDhtcHJYY3g0MGotQ0Zyd3hjZFItdWxRYWlnbXRCSTZ6YTd2cDdGeGk4MGp0WGlIZko2SllzbU0xSkpG?oc=5",
+     "t_id": "Ukraina melancarkan serangan drone terbesar terhadap Rusia sejak perang dimulai, menurut data Kementerian Pertahanan"
+    }
+   ],
+   "title_id": "Serangan drone di Moskow: Rusia mengatakan telah menjatuhkan 1.441 drone dalam semalam"
+  },
+  {
    "id": "kesehatan-202611170230-58e0",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -219,31 +472,6 @@
    "title_id": "Wabah Ebola di Kongo: Bagaimana Ketakutan dan Ketidakpercayaan Mendorong Penyebaran Masyarakat"
   },
   {
-   "id": "transportasi-202611170746-ac47",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "London Heathrow flights cancelled amid US air traffic shutdown chaos",
-   "src": "London Evening Standard",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T07:46:11Z",
-   "last": "2026-11-17T18:40:35Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
-    }
-   ],
-   "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
-  },
-  {
    "id": "siber-202611171818-dc8e",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -267,10 +495,32 @@
     }
    ],
    "title_id": "Apple melaporkan pemadaman setelah pembaruan internal, berupaya membuat sistem kembali online"
+  },
+  {
+   "id": "politik-202611171811-cac8",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Sweden sets Christmas deadline to form government or call snap election",
+   "src": "Operativ Məlumat Mərkəzi",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemE4Q2R2X21lZ21WUzkySWJ1TVBJM21fbzdTN0J2VERGcVg0SnZjWlc2a3NVcVBOQW1ERzZucUxDOHJIbVRBUWlpaHB6M0VjQUJ2R2ZGdXlOV2pPV2lSM0pZUXFLc1pTUzI3OUxrQVA0VGZRdE1JaldFekUzVFo0QldSZzd4Njg2UzkwU0J5c1NvdTgwaUh1cEU4NV9hZC13UTY1Q1h3SFU2NGM?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-17T18:11:47Z",
+   "last": "2026-11-17T18:15:36Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Sweden sets Christmas deadline for government formation, or call snap election",
+     "src": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEFwa1gxRUMzejdWSGozd2tJUjJUTllUQl9MRE5sTkFTMjZPM0xjYzRTWnFmVDFPY0RwOW91VDZqYW85cE43YVZTZm91T0dyQU52enF1ZWd6QnFFb004ajhENkRhcjFFa1ZrUXRVU3ZiS2NKcmowMzh3bWI1VWY4eE5MYXl4TWtpLVZDdUctUFZHV3BEeFlsX2hJc3Bwa3lzYkZmc3JWVHppaVVENGFEM2s1ODhKYzBL?oc=5",
+     "t_id": "Swedia menetapkan batas waktu Natal untuk pembentukan pemerintahan, atau mengadakan pemilu sela"
+    }
+   ],
+   "title_id": "Swedia menetapkan batas waktu Natal untuk membentuk pemerintahan atau mengadakan pemilu sela"
   }
  ],
- "errors": [
-  "perang: HTTP Error 429: Too Many Requests",
-  "politik: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
