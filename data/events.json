@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T08:30:29Z",
+ "updatedAt": "2026-11-18T08:45:04Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,20 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 28,
-   "recent6h": 12,
-   "score": 34.0,
+   "sources": 29,
+   "recent6h": 13,
+   "score": 35.5,
    "level": "besar",
    "first": "2026-11-17T07:21:47Z",
-   "last": "2026-11-18T07:36:06Z",
+   "last": "2026-11-18T08:13:11Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "US Strikes IRGC Missile Site on Iran's Qeshm Island After Drone Attack on Bahrain Base",
+     "src": "theopenpress.in",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMVM1SG1uSnA0ek10Q0piREtlSmg0eHdNUXUyY3pjSFRxdXRTZ0Vva2NrMldobGV6QzJxamxFcjVmbTRiczBramRNLXJjdDcyY1pxN2lMN0ZFcVB3Q2FMejNwb0FrYXRhOGxBUVhfTGxZSnVDUFNNSXdlaERZMHpKc3QxM0E1bU1Qb24yUHY2TXBuU1VvVlFtN2NxTjVaRmRt?oc=5",
+     "t_id": "AS Menyerang Situs Rudal IRGC di Pulau Qeshm Iran Setelah Serangan Drone di Pangkalan Bahrain"
+    },
     {
      "t": "Kuwait and Bahrain announce they have countered Iranian drone attacks",
      "src": "صوت الإمارات",
@@ -31,16 +37,10 @@
      "t_id": "Bahrain dan Kuwait menangkis serangan pesawat tak berawak setelah AS menyerang pulau Iran"
     },
     {
-     "t": "Iran Drone Attack Targets US Military Base in Kuwait",
-     "src": "Khaama Press",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LVDlFN3N6LVliR0Mtd1gwdUhjZVBJUzJaRkhuNmFJSnpGZjAwbGZFRFgwaUJIams5RlNlMzlwSE4zTHpEbGhQN1RwOFllSUVsSU8wLS1YazN1dVY3bnNOZ1Rlcw?oc=5",
-     "t_id": "Serangan Drone Iran Menargetkan Pangkalan Militer AS di Kuwait"
-    },
-    {
-     "t": "US strikes Iranian missile site after drone attack on Bahrain",
-     "src": "The Nation (Pakistan )",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNl83VGxrTTRyNmxZUC1GUnNOd05INmFlSjJpT0xBM0NjVll3QzlIZkZ2U3dVenJEYU8wbzJzbVR5LUpvdzNjdURJUU10ZndhQ2FYT0lQdmlPVjAtQllGNkpDQS1yWFV0Nk50eXZ1RVM5bkxPNVN5TGU2SW0tRE9aejRyVm1PWXFWVUZqcF9vVlNxRUZs?oc=5",
-     "t_id": "AS menyerang situs rudal Iran setelah serangan pesawat tak berawak di Bahrain"
+     "t": "War, latest news: Iran launches drone attack on US base in Kuwait",
+     "src": "Il Sole 24 ORE",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGRsRDJlcGR5MzRLOElRUXBCcXY5SFFTS0M5YUp0RkhmUjJtSjN2Q1liaW92dUkyWS03T0Jac3k2c2dGNy1BRmM1QXVoTjBCWDFDRjRoQjFrU0NuV01iRk1MNFpRUmJKQnQ2TG1HWTdsVXN6RG0xZ2F0YjhoOFd4SnZjcWxqOHIyX202Mlp1X0lFdw?oc=5",
+     "t_id": "Perang, berita terbaru: Iran melancarkan serangan drone ke pangkalan AS di Kuwait"
     }
    ],
    "title_id": "Iran mengatakan tentara menargetkan situs drone dan rudal AS di Kuwait ketika serangan Teluk meningkat"
@@ -50,23 +50,17 @@
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzlLcDdqRnN3R1BCUzdfblFWaTZKdEc5ckZldXJ0MGVTdmlLNmdCdWZuWTZqVFdyOUJMN29oSE9VcF9lY2x6cDlWN21lSk1FSnEtZjFGcHRjXy10N0ZWVU9yWC16SkNaZkFXc210em5ockpfZDlKQ0xKQXotaGRZOThOT1lsYk5wY2swMnBQSERBTE5OcElWN1pTdnBJUFF0RWZMSEpIRTd1bUxhcjUtQWxia9IBuAFBVV95cUxNUkI4OHV1OUZJWW1TSFVBc251dG5CTWg4QXNWQmNKNmlqd3gxd2RHVDJrQ1RramtrLUFpZDh3UHFTVmZvWHU4UkxUR2dfeXNVSVFDOUs0YXBkN1BOZFpKRWVobjFGNnlfbzQ1VHNad284QXZiYWYxSmV4ZktLVXNRUjVDbEFSSUZucDg0SFdCVVBRd2ZSaXdqSV9nTkIxTE0yVVEwaG16RlJ3Q2tFYzdObWlvQjNNNkh6?oc=5",
-   "sources": 9,
+   "title": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
+   "src": "ABC7 Chicago",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
+   "sources": 8,
    "recent6h": 0,
-   "score": 9.0,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-17T15:50:25Z",
    "last": "2026-11-17T23:02:15Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
-    {
-     "t": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
-     "src": "ABC7 Chicago",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
-     "t_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
-    },
     {
      "t": "Classified US communication network back up after outage hit system",
      "src": "New York Post",
@@ -84,9 +78,15 @@
      "src": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2VpdVNyenpTWkdETDVBMmgtZ0hzZmRyUFZWZkRzOUMtNEp6MVlmd1p2emRoMS11TTZYTUp6QmhYRzcwZ3dOQTd1ZU5zRTByRk9fckZsZ3Vrd2hkQlVsU0hnVi11Wk9nVXF5b3UtUG9NcHdORWNtOHJ5ZHA5RFg0SVZKT09BWTQ2T3FGc3hDRHdhTnc?oc=5",
      "t_id": "NSA Down: Juru Bicara Mengatasi Gangguan Saat Serangan Siber Diabaikan"
+    },
+    {
+     "t": "NSA's highly classified communications network disrupted by widespread outage",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDLSAa4BQVVfeXFMT0lwZjRuaUlFN0hObHBJdTYwRjQ2NnpDaGhLdTd0bUJMMzZoUVZ5NjljcGJRZ053dHhpdUlBS3VpcnpCSGZYNC04akllRndxOWlvYk1JSHZGMF9US3JPekN2dGl4YXRYdy1wLVcxaHJXQ3NwOExJS29iMGpxaUVaM2JDNGxiSmdKNi1hSlU4bkx2Z3F6Sk9tTGdFdUhFeDF5TUs0ZktpMUM5WUN6VHdB?oc=5",
+     "t_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
     }
    ],
-   "title_id": "NSA mengaitkan pemadaman jaringan di AS dengan aktivitas ‘pemeliharaan’ rutin"
+   "title_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
   },
   {
    "id": "transportasi-202611171449-ac47",
@@ -248,31 +248,6 @@
     }
    ],
    "title_id": "Imigrasi memecah belah Spanyol menjelang pemilu sela"
-  },
-  {
-   "id": "perang-202611170809-fa05",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Missiles! At the Crimea Bridge",
-   "src": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYk5mZjN1bHBFTDcwenlYbjdrdVQySEIzeVNhTm44WkRIaHFMSC05aW5qV2U3LUQ1Wm5HYTgteUp6QTVqQ3RuUjc1NFo1TjdKQjFBT1J5a3JPN1ZMdHJTMnlLaFpjVHlkSUUwMldVVkx4VEtPdnhDVkxiV0RObGNqRE5qeUhadWpMU29xQldnbnFmNGs1b2p1WTdROUNtTWwxcWU5SFdyVXVZalByQmt1QUZUX3NwN3Y5bFdOeQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T07:36:40Z",
-   "last": "2026-11-17T22:12:16Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukraine’s Drone and Missile Strike Damages Kerch Bridge, Disrupting Russian Supply Routes to Crimea",
-     "src": "SSBCrack",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYi1Fa0UzS1FJZjRFa25vZmx3bHktX21McVZWNlhyd1pLS1p4TWE1d2xIZDcxbHBwaWkwWFdJSUtMMmtaR25LTm90Z2dHRkhPWEZVazZ2V0tfUmxJYURzbnI0QVFsdnFNVnFURTNCSEl0dmxyYmREU0dZc3VSUWtpQUJhLXJLZHBIQ3NwUFIycVB6X0ZvOUJLX1Bjc2hvNDRpckJvcU53UlZTVDNxcjRNT05QY0FEY2VnMUg2Z2FkNjZoZw?oc=5",
-     "t_id": "Serangan Drone dan Rudal Ukraina Merusak Jembatan Kerch, Mengganggu Jalur Pasokan Rusia ke Krimea"
-    }
-   ],
-   "title_id": "Rudal! Di Jembatan Krimea"
   },
   {
    "id": "politik-202611171811-cac8",
