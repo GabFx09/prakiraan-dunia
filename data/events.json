@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T11:11:40Z",
+ "updatedAt": "2026-11-18T11:26:18Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG8?oc=5",
    "sources": 12,
-   "recent6h": 8,
-   "score": 16.0,
+   "recent6h": 7,
+   "score": 15.5,
    "level": "besar",
    "first": "2026-11-17T07:21:47Z",
    "last": "2026-11-18T10:20:33Z",
@@ -136,9 +136,9 @@
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Kesaksian mahasiswa pada demo 10 November di Yogyakarta – 'Aku dipukuli, dikeroyok, ditendang, diseret'",
+   "title": "Yogyakarta: Kesaksian mahasiswa pada demo 10 November – 'Aku dipukuli dan diseret'",
    "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvVlJOb1k1LWlxZkNLYXNtUVkweWNOZ0REV0hqYjFQVms2am9objhUYVlrT0JGaUhCVzBfd3pjQ3ZVM3JiV3ZvNnI1OHdfeG92U3dhcHQxVW9DNEJ6cWhDWThn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvVlJOb1k1LWlxZkNLYXNtUVkweWNOZ0REV0hqYjFQVms2am9objhUYVlrT0JGaUhCVzBfd3pjQ3ZVM3JiV3ZvNnI1OHdfeG92U3dhcHQxVW9DNEJ6cWhDWThn0gFnQVVfeXFMT2taUUpFdzdVVmFyQ3E4d09PaEVySkRoOTNUcExuUTRwMmFEazFwZk5peGpvZlNNckV0ZC1CT0VuSGZRODhfb0VPTkpjYW5tZ1Raem1oeFpQYXhrbzRTU0ZPQWFiSlVyNA?oc=5",
    "sources": 3,
    "recent6h": 2,
    "score": 4.0,
@@ -163,6 +163,49 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlqVlRZdGhQQlhHRWN0WUtzV09QUTdxcFE0dEMwTWE1dmZFNTgtVkxjdEM0VXh0eEQyZXBtN3JDNTNWR19ycnpFLS1KV3RQRlVfdk90b2gyUUhkM0ZfMWJnSHJ4UzRIc3VaUnZHRUYtcE9hTW1GMlNVY0pRRHUwSThCYmhnUjZZX0FGTS13bFpHQlBWRXhPeHVhTmZ3bnYwOW5XVg?oc=5"
     }
    ]
+  },
+  {
+   "id": "transportasi-202611170707-4213",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-17T07:07:22Z",
+   "last": "2026-11-18T00:18:16Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA halts installation of new routers linked to Friday's airport ground stop until root of problem found",
+     "src": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTR0ckZsWmlQeF9Oc2NNbi10NWtIdWd3OWZ4bVNmZWczc0lYVE9PR09WNG0yTWFCay1uZ3BJUXVVeUg0NDRCYjVnaU5fa0FhLVpXRF9EbTlraGR2WmFNT2RGYXB6RTdOLWxWNUVzWEcyZ0dQaGFrVFRTa1hoZVZNcUR5U2tKNkxFLVhTNWUyMGNwNmx3TkE?oc=5",
+     "t_id": "FAA menghentikan pemasangan router baru yang terhubung ke ground stop bandara hari Jumat sampai akar masalahnya ditemukan"
+    },
+    {
+     "t": "FAA ground stop explained, and how rare nationwide ones are",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
+     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
+    },
+    {
+     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5",
+     "t_id": "13 Senator AS Meminta FAA untuk Menjeda Penggantian Router Setelah Ground Stop Nasional"
+    },
+    {
+     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
+     "src": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
+     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
+    }
+   ],
+   "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
   },
   {
    "id": "transportasi-202611171449-ac47",
@@ -222,43 +265,6 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3Q0QmRaUFQyXzdqU1hHTEhjSEtEazhSU0FESUZXUVo5enhNMWZjUkhWYUNKcS1jeVlpQXJZQV9SWmJjaHZHa1BGTVVMWXVnWFBZdkJzWnRZR0VyWVZaTFgwTWxVbjFlWXFxaTBVc24zUjM4anVFRjR3YkxyTC1zYXp2aXIyeTY4RmFtSXhzMmhTQjFYSkM5TjR0dDMyckhRdUxhVk1Dd2luWVdDZ2d6U1NPbXZ4dElrTE5PS0U5MHR0UQ?oc=5"
     }
    ]
-  },
-  {
-   "id": "transportasi-202611170707-4213",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
-   "src": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-17T07:07:22Z",
-   "last": "2026-11-18T00:18:16Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "FAA ground stop explained, and how rare nationwide ones are",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
-     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
-    },
-    {
-     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5",
-     "t_id": "13 Senator AS Meminta FAA untuk Menjeda Penggantian Router Setelah Ground Stop Nasional"
-    },
-    {
-     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
-     "src": "Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
-     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
-    }
-   ],
-   "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
   },
   {
    "id": "politik-202611171504-369e",
