@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T15:35:36Z",
+ "updatedAt": "2026-11-18T15:50:25Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,19 +11,13 @@
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
    "sources": 13,
-   "recent6h": 3,
-   "score": 14.5,
+   "recent6h": 2,
+   "score": 14.0,
    "level": "besar",
    "first": "2026-11-17T07:21:47Z",
-   "last": "2026-11-18T12:10:25Z",
+   "last": "2026-11-18T12:08:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
-     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
-    },
     {
      "t": "Kuwait drone attack: Iran hits back as war opens 2 fronts",
      "src": "DNE Africa",
@@ -41,6 +35,12 @@
      "src": "صوت الإمارات",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTVfdV91SERvajVqRmgyb3d3WEtJU0xJUzdJcmRhSm1VZDBzYUF1SkFZWFcwOV9MRHc1bVRHZW4zQXk3eHZlVmVDd3hpS0Zwakl0Z0I2ejdnd1Bqd1Nad0l3ZHdlWkRIa1pfRjFOcFVHQ2dZbFctWmN0ZGpaRUlmOEVPd3NmRzRtQk9FTWIwV1Q5RXJGRGY0QnZKM3JqN3VKY2xISnBWX0pDSXJVbGU2SHB2a1NZdmlPOU1XUWJB?oc=5",
      "t_id": "Kuwait dan Bahrain mengumumkan bahwa mereka telah melawan serangan pesawat tak berawak Iran"
+    },
+    {
+     "t": "Bahrain and Kuwait repel drone attacks after US strikes Iranian island",
+     "src": "South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVTh0TWdIQVlsZEw0U1d5LTR1YnF0WEJ3WU03S3ctV3VzbFk3LXhmelcwVnRKUEp6ZmltcWhSaEFBYVo5eEx6dzU0Tml0aEpydkxJMnA5eEFvUFBySS1UcjZ6VGRKZ2pVQm05c0NrVGFFcUp5OFZWWjF1ek5QcWsyQVlxbVE1ck5Hamp4Rkx5QmRfZF90QjM1ajNsX2FPOTdyRmlGQVVjQXd5bDllQTZOWmJHclVBQW5EME1uMWJLdGo4aFBENUlCTk5R0gHKAUFVX3lxTFBzWTN0QnJPRHBlcTYxejZhbm5ROXZVSUQzZGQ4ekxSMEVDYVUzc0tuM2VOd1d2dTJPQzhwLWJzMXRwSnR0S3dJQVI2bE8wUE9nS1RpaGxuQ1lMNmJZOWNYZHAyV09wRXJXRTl5T1ZEMmFHdi1uQ1paTzVLdlU0Umg3X2p4aHV4b2s3bmVTVXVqeDc1WUFiZmtaZVRUZ2RjalJUUmNMeDdaazNod3dFZFVyRjNSdkstdnlRNEdiYkZsQnZSYktCV0FFWHc?oc=5",
+     "t_id": "Bahrain dan Kuwait menangkis serangan pesawat tak berawak setelah AS menyerang pulau Iran"
     }
    ],
    "title_id": "Iran mengatakan tentara menargetkan situs drone dan rudal AS di Kuwait ketika serangan Teluk meningkat"
@@ -53,10 +53,10 @@
    "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzlLcDdqRnN3R1BCUzdfblFWaTZKdEc5ckZldXJ0MGVTdmlLNmdCdWZuWTZqVFdyOUJMN29oSE9VcF9lY2x6cDlWN21lSk1FSnEtZjFGcHRjXy10N0ZWVU9yWC16SkNaZkFXc210em5ockpfZDlKQ0xKQXotaGRZOThOT1lsYk5wY2swMnBQSERBTE5OcElWN1pTdnBJUFF0RWZMSEpIRTd1bUxhcjUtQWxia9IBuAFBVV95cUxNUkI4OHV1OUZJWW1TSFVBc251dG5CTWg4QXNWQmNKNmlqd3gxd2RHVDJrQ1RramtrLUFpZDh3UHFTVmZvWHU4UkxUR2dfeXNVSVFDOUs0YXBkN1BOZFpKRWVobjFGNnlfbzQ1VHNad284QXZiYWYxSmV4ZktLVXNRUjVDbEFSSUZucDg0SFdCVVBRd2ZSaXdqSV9nTkIxTE0yVVEwaG16RlJ3Q2tFYzdObWlvQjNNNkh6?oc=5",
-   "sources": 9,
+   "sources": 5,
    "recent6h": 0,
-   "score": 9.0,
-   "level": "besar",
+   "score": 5.0,
+   "level": "sedang",
    "first": "2026-11-17T15:50:25Z",
    "last": "2026-11-18T01:16:19Z",
    "assets": "Saham teknologi & perusahaan terdampak",
@@ -66,12 +66,6 @@
      "src": "ABC7 Chicago",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
      "t_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
-    },
-    {
-     "t": "Classified US communication network back up after outage hit system",
-     "src": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY2pLM2tRU2VEaElMS1hhbXNvLUNjR1RDdks2NnlhT2FVWU9ObTlfZ3JsbDc0bE5fN3hYVHNEQUx6UmN6Z0psZVJCakZldUtvemFwX0l1QURxVzJtRHZPRWRQT284eDdoZkNOTllTYVlWaHhMblN2MG1SNlZUSHFLZVFMYmV1eHhyWWJ1VDNqR1BLbkNKblN0WnZVOThHNkRjazQzSW9TRm5aMjc1Sk1QdDJJeTdCWkNTX09qNWlKRFFHUVJuSTloV1Nn?oc=5",
-     "t_id": "Jaringan komunikasi rahasia AS kembali aktif setelah sistem padam"
     },
     {
      "t": "How to Tell If It’s a Cyberattack or Just an Outage",
@@ -84,9 +78,52 @@
      "src": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2VpdVNyenpTWkdETDVBMmgtZ0hzZmRyUFZWZkRzOUMtNEp6MVlmd1p2emRoMS11TTZYTUp6QmhYRzcwZ3dOQTd1ZU5zRTByRk9fckZsZ3Vrd2hkQlVsU0hnVi11Wk9nVXF5b3UtUG9NcHdORWNtOHJ5ZHA5RFg0SVZKT09BWTQ2T3FGc3hDRHdhTnc?oc=5",
      "t_id": "NSA Down: Juru Bicara Mengatasi Gangguan Saat Serangan Siber Diabaikan"
+    },
+    {
+     "t": "In Yet Another Outage, the NSA Is Down",
+     "src": "The New Republic",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVlTRUk2ZkpKeGZjQ3NnTTdpNjJ0NXBIQlRTR2lFRFpndkctRFNwbm5JaDFHUnhjblljajBMRVFTd203WC1EbUk1R3M3dkN4MkhrQlZNdzJiNHJoMFlhYVB1SHRpRnZRajFDMUJJMlpNWGNEOEhVeXUwaXFXM1lxdHRmQ25VOG13blJuZDk0MA?oc=5",
+     "t_id": "Dalam Gangguan Lainnya, NSA Jatuh"
     }
    ],
    "title_id": "NSA mengaitkan pemadaman jaringan di AS dengan aktivitas ‘pemeliharaan’ rutin"
+  },
+  {
+   "id": "transportasi-202611171449-ac47",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "London Heathrow flights cancelled amid US air traffic shutdown chaos",
+   "src": "London Evening Standard",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-17T14:29:30Z",
+   "last": "2026-11-18T12:40:35Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+    },
+    {
+     "t": "Why Did the FAA Ground Every Flight? Tony Katz on America’s Outdated Air Traffic Control",
+     "src": "WIBC 93.1 FM",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3RhWTVDYVE4WERvc1FWWTZjaURodXoybDNaZVFJR202R282dENmM05HUnM0N2NHTGNZTXh6cWYtdkEtVndJTnlRMEZISEdjdWs5amVjbG9RT21Mb0JRWWh3UUhwb1A2aWx2cDZOdHZwcFFGcWhrdzlrckdrTW16ZHF4QUljdw?oc=5",
+     "t_id": "Mengapa FAA Menghentikan Setiap Penerbangan? Tony Katz tentang Kontrol Lalu Lintas Udara Amerika yang Kedaluwarsa"
+    },
+    {
+     "t": "Investment in air traffic control 'long overdue': Union head",
+     "src": "Central Oregon Daily",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHpDa19wNGgzZUlubzc2TmdRQ3lsbHo0VnAzcnV2UjlxU1ZVbHgtcW83eTFmeHlGZy1lWExsZWh2UnNMZEFLV2s1VGlpUDhMamdHTzFPalNvLWp1Q01aWlc5MUJBckVmSE5aRHVlN2FMUEdaV0taMFhkdjdtR1plRDMyU3JmTjhjVTNodmEyUk9FRXI2UVlkVHpVNDF4WmVJUE85MGVydjdOX2NPcnhRNnVaSzdILWtCOWFwc1MtZ3hwdXBUV3NXdGRnZGJ4SjZMd01OXzFsc3BtWkoxS29HSFNlZWh0TDZyNHNUV1lYZw?oc=5",
+     "t_id": "Investasi dalam pengendalian lalu lintas udara 'sudah lama tertunda': Ketua Serikat Pekerja"
+    }
+   ],
+   "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
   },
   {
    "id": "indonesia-202611180512-34f2",
@@ -173,37 +210,6 @@
    ]
   },
   {
-   "id": "transportasi-202611171449-ac47",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-17T14:29:30Z",
-   "last": "2026-11-18T09:18:14Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Why Did the FAA Ground Every Flight? Tony Katz on America’s Outdated Air Traffic Control",
-     "src": "WIBC 93.1 FM",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3RhWTVDYVE4WERvc1FWWTZjaURodXoybDNaZVFJR202R282dENmM05HUnM0N2NHTGNZTXh6cWYtdkEtVndJTnlRMEZISEdjdWs5amVjbG9RT21Mb0JRWWh3UUhwb1A2aWx2cDZOdHZwcFFGcWhrdzlrckdrTW16ZHF4QUljdw?oc=5",
-     "t_id": "Mengapa FAA Menghentikan Setiap Penerbangan? Tony Katz tentang Kontrol Lalu Lintas Udara Amerika yang Kedaluwarsa"
-    },
-    {
-     "t": "Investment in air traffic control 'long overdue': Union head",
-     "src": "Central Oregon Daily",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHpDa19wNGgzZUlubzc2TmdRQ3lsbHo0VnAzcnV2UjlxU1ZVbHgtcW83eTFmeHlGZy1lWExsZWh2UnNMZEFLV2s1VGlpUDhMamdHTzFPalNvLWp1Q01aWlc5MUJBckVmSE5aRHVlN2FMUEdaV0taMFhkdjdtR1plRDMyU3JmTjhjVTNodmEyUk9FRXI2UVlkVHpVNDF4WmVJUE85MGVydjdOX2NPcnhRNnVaSzdILWtCOWFwc1MtZ3hwdXBUV3NXdGRnZGJ4SjZMd01OXzFsc3BtWkoxS29HSFNlZWh0TDZyNHNUV1lYZw?oc=5",
-     "t_id": "Investasi dalam pengendalian lalu lintas udara 'sudah lama tertunda': Ketua Serikat Pekerja"
-    }
-   ],
-   "title_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
-  },
-  {
    "id": "indonesia-202611172244-a4d7",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -260,13 +266,43 @@
      "t_id": "13 Senator AS Meminta FAA untuk Menjeda Penggantian Router Setelah Ground Stop Nasional"
     },
     {
-     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
-     "src": "Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
-     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
+     "t": "FAA Ground Stop Has Exposed Just How Vulnerable US Is to Sabotage",
+     "src": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1RaaXFlc1ZTTXBlckxXSGhNOTBlWnJ1VWVHNnZRUTMzMU9CYlllZEk0ekJJdWRMdEZuQkpfT3A1TkIycFZVbTBkQlE1eFF4ekpEU2QxOTE2QnB1a1J1UGh2V0xGWVV2TmxpLUdDSjdWem9jSDgwWFRVbUE3LWFQcVZlcnNpUUpadXNMWU5aeVBoQk9IbGJDTFpNWmxWREd0?oc=5"
     }
    ],
    "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
+  },
+  {
+   "id": "siber-202611171607-7a26",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Classified US communication network back up after outage hit system",
+   "src": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY2pLM2tRU2VEaElMS1hhbXNvLUNjR1RDdks2NnlhT2FVWU9ObTlfZ3JsbDc0bE5fN3hYVHNEQUx6UmN6Z0psZVJCakZldUtvemFwX0l1QURxVzJtRHZPRWRQT284eDdoZkNOTllTYVlWaHhMblN2MG1SNlZUSHFLZVFMYmV1eHhyWWJ1VDNqR1BLbkNKblN0WnZVOThHNkRjazQzSW9TRm5aMjc1Sk1QdDJJeTdCWkNTX09qNWlKRFFHUVJuSTloV1Nn?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-17T16:07:13Z",
+   "last": "2026-11-17T19:50:33Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "NSA's highly classified communications network disrupted by widespread outage",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDLSAa4BQVVfeXFMT0lwZjRuaUlFN0hObHBJdTYwRjQ2NnpDaGhLdTd0bUJMMzZoUVZ5NjljcGJRZ053dHhpdUlBS3VpcnpCSGZYNC04akllRndxOWlvYk1JSHZGMF9US3JPekN2dGl4YXRYdy1wLVcxaHJXQ3NwOExJS29iMGpxaUVaM2JDNGxiSmdKNi1hSlU4bkx2Z3F6Sk9tTGdFdUhFeDF5TUs0ZktpMUM5WUN6VHdB?oc=5",
+     "t_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
+    },
+    {
+     "t": "NSA's Top-Secret Communications Network Down Amid Nationwide Outages",
+     "src": "TMZ",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUSm14UUtNUDNJZVp0cGtKV0FsTkg3N3VEeFdOTTJ3SlVTek84MjJNWWRZMkppTHR4YmFHRlpLMlQ4UlBlckdIZm8yUUFFMGFzaExLYVdZb3prazVoNFVwV3dMR1o3UEdXclJwVG5rYzZTeGNCWVNSLTFBdElJblZn?oc=5",
+     "t_id": "Jaringan Komunikasi Rahasia NSA Mati Di Tengah Pemadaman Nasional"
+    }
+   ],
+   "title_id": "Jaringan komunikasi rahasia AS kembali aktif setelah sistem padam"
   },
   {
    "id": "kesehatan-202611172044-58e0",
@@ -359,7 +395,7 @@
     {
      "t": "Sweden sets Christmas deadline for government formation, or call snap election",
      "src": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEFwa1gxRUMzejdWSGozd2tJUjJUTllUQl9MRE5sTkFTMjZPM0xjYzRTWnFmVDFPY0RwOW91VDZqYW85cE43YVZTZm91T0dyQU52enF1ZWd6QnFFb004ajhENkRhcjFFa1ZrUXRVU3ZiS2NKcmowMzh3bWI1VWY4eE5MYXl4TWtpLVZDdUctUFZHV3BEeFlsX2hJc3Bwa3lzYkZmc3JWVHppaVVENGFEM2s1ODhKYzBL?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEpDZHNfR0hMQ3lCZlhvaERkNDFDX1pYbnJ3RlR2QTVEb1d5X1M4TkxOS3pVaEluTFpIT3JaWC02VS12dEFRZGFGZDV2aEFyUVJxSldoMllqUXJ0eXRmdU1SaEJwalItTm9KM0ZpOGhnOHRxcnNTQUxyaGluTFlVMzlPb3ZwVWI4amZweUhSalR6U1lBNFE2cVBsaEtyRzhIUkYzempoUzRNUS1vSTcycmdrWQ?oc=5",
      "t_id": "Swedia menetapkan batas waktu Natal untuk pembentukan pemerintahan, atau mengadakan pemilu sela"
     }
    ],
