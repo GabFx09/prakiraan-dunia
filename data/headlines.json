@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T07:03:26Z",
+ "updatedAt": "2026-11-18T07:17:01Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Sebut Ekonomi Dunia Masih Lemah, Tapi Inflasi Tinggi",
+   "src": "Bloomberg Technoz",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3FBZW1nalJDMEtPNnV0M0lwbDRLeHJSV2JCSlZvUEJfWWt6ejhqeFBhdG10UjFRQjluc2RTOVB6LWRCNm1KcExzZEdsRk1tSDFoTV9qRDdvZUVHZlc3VDNrcTNhZDh6UkJsOHBNZjVmTWNYYVNjNjN6WVZrS3JYXzFzTGVybFlYTTF4Ti03eUsxU0hiVFdxNnU2eE1YcW1YTUo0VmxxRU50dw?oc=5",
+   "time": "2026-11-18T07:15:05Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -18,6 +26,15 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRzlQcHpvRkJiZkxPbkt1dnV1Q25PbW50UDBnT0NzY2o1REt4WmcybV96RnItRXVkbE96MENvT21fRnlkY0xlS3Q0NUcySTlJYkNzRGVucmRUZENJbmdFM3F6aElkaktzUDhGbnhWRHVKS0VjR1h2WnhNOVhoQmVNX205aHVXNng4UWxvb2tVWEFRR0ZlT28tdWl0eG5GUEYyX1V0X3dUVHdsZ1JxZjllYUR3WnRRY0U?oc=5",
    "time": "2026-11-18T06:37:13Z",
    "t_id": "Pasar Saham: Akankah S&P 500 Dibuka Naik atau Turun Hari Ini?"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "As Trump and Xi Mingle, Their Governments Are Arming Up",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
+   "time": "2026-11-18T06:32:00Z",
+   "t_id": "Saat Trump dan Xi Berbaur, Pemerintahan Mereka Mempersenjatai Diri"
   },
   {
    "topic": "indonesia",
@@ -82,14 +99,6 @@
    "src": "Kompas.id",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTE92MmUzcF9SS0dOSDVkdDZBdF9Wc0hpMTFFY0pKTlFNdVROVFB2NW5tUE1IWWdyMG5BX2JCRnI1SjRtNlVrdmRGRmNQUS00QWV2UG8yblJVRmZnNzNjdU40WlJPQ3hkU3Fib0RpdE5XQnJZMS03UXREUlN3aGkzczZmbGpsb0hjaURCZGZIak4xd3FTb2hTSGNvdmx0WUo1ZjlyT2IyRElQUUdnYUY1VzlUVldJTTg2M2FoY09SNDAzeFRZYkE?oc=5",
    "time": "2026-11-18T05:24:49Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Federal Reserve Bank of New York President Skeptical of Big Rate Hike",
-   "src": "조선일보",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObEoyY0dPWmxUdkRpVmtwbVJMUDI1OTlOdWYyVXZnSjZxTUluMEFkS0ExZUxiTEp5YmJMNjg1d3BUM3ZueG93RHhvaTNPV1k5ZnN3NUl3U3hHNzZsWEd1VEZ3M2NJcWRaWWZxeGZSMHlUX256bFM4d2R1VnBzYWZZNHNPeXdfUmdtS3hOaVBB?oc=5",
-   "time": "2026-11-18T05:21:20Z"
   },
   {
    "topic": "indonesia",
@@ -206,6 +215,14 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "Sebelum Tukar Valas, Intip Kurs Dolar AS-Rupiah di 4 Bank Hari Ini Rabu (18/11)",
+   "src": "kontan.co.id",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmptMkhEaFB1TGIyZEZndlZWdkUwSFVvZHYtTXpmN3hBSXpDVEYwWUtJRnl2di1JX1lhc0lXclYtRTBxY1U1NExqd2JncG5RZTllQ0RtcGctZnFQVFlqc1hZbzUyTzFCeVIyQnAyUUxtalFxRUxPM3ZUb0tJTjA2WUZkQVBUN2lTdlBLUXpFQjBES3FLZThVTjNIdF9DWUlidVFKVnhZSlNMdC1wVkp3ZNIBqAFBVV95cUxOZVhtMkpYcEdZUzV1a1E5R3VHNTRjaXN1Y051QmdoOUNjcWtrbVhUd2hxam9FRGVvWjU5UmtUQkVyWnB5MGZ5VzJjS2dqZkVsQ2puc3poTzlra1VYS2NKbV9rdXdCLV9neUw1dk9rREJCay1aQlRHdDZjMzlxTFlwZHhxNk5yYkN1eVBLS0JjcVJCcEl6MzVSZF8tX1h5T0dLeENDWHAwZU0?oc=5",
+   "time": "2026-11-18T03:00:01Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "Hari Ini IHSG Menguat 0,84 Persen ke Level 5.349",
    "src": "TVRI News",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNai1yQXZ0SXZwNFh0NU85TzI1ckVtUGtDLU1KbHRDZWlWT3hHMC1PczVwY0oyUFhwa000S3AzLTNROEdra2JDem56U2JXMVVOd21Cb01PT2VNZFFsak5VZFc5ZlhJckxFcHAtNjRTOXR0bmJGNy1WT1VMdzZuUkFiZlRnSlZLdjZRek5iT3lEYVJlbWJ4?oc=5",
@@ -220,19 +237,19 @@
    "time": "2026-11-18T02:29:00Z"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Goldman Sachs Cuts Gold Price Forecast for Second Time This Month to $4,650; Bank of Korea Bucked the Trend by Raising Its Gold ETF Stake by More Than 40%",
+   "src": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vaThUeW1uN1JQMGlzZGxqRm1GSm05VkZnVzJ6LXFpcGhxQXZOcXhEQklKRHhzWFk4b3JsM2JYX0ZQNVFkTldmamxFcFRBN3ZmandYSF9nMGtVUWFFVjZrQ0dFMzFvRVRvdUhoSlN6TWZGQXlYNlE?oc=5",
+   "time": "2026-11-18T02:25:00Z"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Oil prices fall as higher US crude stocks temper supply risks",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN?oc=5",
-   "time": "2026-11-18T02:16:00Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
-   "src": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmlWeXc5bFpQUDI1bkQyQVVEMmpSRC1ZUWpkZDczNDU5RUxoNFBzOXpreXZnOTctS0s1NGRBcW5Bb2ZUVGxMSWRiZU5ydWpKYkpaM1EteFZsdHF2Q1JVN1hWOW9aQm13ZlFmVWVuWVI5S0xJVFdUaERVT0hab2tCOUpBSzhvM2ZvczNFd0hNYndoREJ2d3llcVRRdVZ2VUFqZ1VBSGVYY0d5MVREZEp1MA?oc=5",
    "time": "2026-11-18T02:16:00Z"
   },
   {
@@ -252,28 +269,12 @@
    "time": "2026-11-18T02:05:00Z"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Dollar holds near 19-month high as data supports case for US rate hikes",
-   "src": "WTVB",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkJRSW4xd2Zsa2J5NUdRdWhDSTRfdmFicEUzRXU4cVByVER6WGlfV0FGSy1xSWE3VWV1emdnTU1aM1l0RVhHaGdlbXk1c3VibUtUYzAyUlpWUmNyc0dwenZ2dXVSR29BZUpFRjd4b0liWXp5R1hGYzJsd0ZoLTM4MWxGXzJyRTdlYy00VGZOMnJjai12cTBVdEU2cXF2UzhjVV83eg?oc=5",
-   "time": "2026-11-18T01:59:29Z"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Rupiah Stabil di Rp18.275 Jelang Pengumuman BI Rate",
    "src": "TVRI News",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGZuWG9IZHc5OEt4dDA5eUcyZWF4SGczckdSWDdmcmFFVWk3UmxHRDF6Z3I5UUlkUUhnWlJWQVpaR2hjNEJBandzMFhrLXBxV0M5MWViU0Z5Qm9nY3ZNSXVraFNic21xUFZmYTZFSmZ2eGNFdklleGFLNmdTbVNnc0VLektERy03eTJ1SGtCYS1Cby03MmZSMXRR?oc=5",
    "time": "2026-11-18T01:58:10Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "The Fed Just Raised Rates Again - And Another Change May Be Coming",
-   "src": "FinanceBuzz",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92cHNRbXB5a3pVR25fNllxNm42eVZkNzVkV3pOYzBmcXNTcHF4Vjh1MTlwUHlQa3JNREVEZWZTN1B2Z3U3My1yUDJmR3NMNk11OVFTR2h3QTRFREZLTU5ZREV6c2dKZm02ZW5fQQ?oc=5",
-   "time": "2026-11-18T01:38:53Z"
   },
   {
    "topic": "indonesia",
@@ -316,14 +317,6 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdJWTU0VkQwQ1ZGMTlhS2ZoY0ExeXo4X25UX1k2NnFwdXgybTFtNEtoNlVMSHRlUFExVVZIX1FFelBMMk9jZkEzWmprZEktcTByZUJVcWsxVVE1WG92QjZ3dkhjX25DNFlqS3ZTRXFLSUVjRWpGNHhtdmtlMVdJWEFFZXJoM1RYU2JLS2F5emRFX0w2cVlmRWFZOGlzUQ?oc=5",
    "time": "2026-11-18T00:14:07Z",
    "t_id": "Melacak lalu lintas kapal melalui Selat Hormuz. Diperbarui secara berkala."
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Inflasi Tak Mendesak, tapi Rupiah Sedang Memaksa BI Bertindak - Market",
-   "src": "Bloomberg Technoz",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblZlbWxZN3Ruam5PV20ySE5UQnNYWnQ1elJ5MHNRaF9ndTE0cGQ5YjY2YXl6eE44US1IeUxkajIxUmN2dW5VNVhEZ25POFJmem5FeHYtY3lDdkFmSUlLRUo5Zk9VeGtQTWdoUFNPZ2JKNWktR01nQVQ3ZXlVcTc0LV9BVGJ2M1VkNVdHUGM4SFFTN3NoeHdXYjJ3Y0Rxeks1VFFKXzd0dW80YU9MSEgzZkFR?oc=5",
-   "time": "2026-11-17T23:46:19Z"
   },
   {
    "topic": "china",
@@ -415,11 +408,10 @@
   {
    "topic": "china",
    "lang": "en",
-   "t": "Africa's largest economy and Canada turn to China as the U.S . pushes them, but Beijing pulls Ottawa from Trump's grip with C$400 million in tariff relief",
+   "t": "Africa's largest economy and Canada turn to China as US pressure tightens, but Beijing pulls Ottawa from Trump's grip with C$400 million in tariff relief",
    "src": "Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPclBWZU84YkZreGhyX3dTRHJCdDNnd3c3VWMwWDk1SFBjNzhkU1BVRDBTVkU1N28tSDNWa1FSdms2TzhSZjVKVHh5bXNZai1ZaGN0NHA5NmpkdXhFckRQN0RGekUzTEFiWnlUalNIMl9nQmJ3c1Q2N1RmYlFhczFGTmthNm03VmRvNXFhTEo3NnYxYWI1RXAwX2VCUGNubFctU05ZSGlXVUVxTDB2bHVMbHdMbnFhUHRseV96b0RPODJLUmNYS0pNbHFBUGFKRmtOc2gwWEU0MXQ?oc=5",
-   "time": "2026-11-17T20:45:34Z",
-   "t_id": "Negara dengan perekonomian terbesar di Afrika dan Kanada beralih ke Tiongkok seperti halnya AS. mendorong mereka, namun Beijing menarik Ottawa dari cengkeraman Trump dengan keringanan tarif sebesar C$400 juta"
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRlJ6STVDaHczZnYyT3NGaWYtQlFFeFBTa0FaTXh1OEtqb3BoTFNWaUd6a2NVQTVNTzMwbmZYb2hnU05icFV4Y2JWSXBGdkZlNk10MXh3dEg3dDV4UHpGNjBkcjltN2h6WmltdzN0TkRBb1A3MTFKY2pNWkVCdGdfaUFRME9ReHJ6anB4TTFaXzkwNkFJQ1Fpc3MzMkJjeGpQSHZXTGdVc25YaXcwaTZBZG84NkhiQnkzZ3JnYnFhaGdfWGo0NjNKT1RvdGROR3B2QlJBOTVDcEM?oc=5",
+   "time": "2026-11-17T20:45:34Z"
   },
   {
    "topic": "ai-teknologi",
@@ -467,14 +459,6 @@
    "t_id": "Ketika skandal Nvidia mengancam akan memicu kembali ketegangan perdagangan pada perundingan Trump-Xi, Beijing masih memegang kendali atas hal tersebut"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Inferno engulfs gas tanker in strait of Hormuz after reported strike – video",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVRwOWl0WjdlRTZSeXhaOFVDaGtUakw3WEpjUzdJX0JnWVZ3RTBsclVSWWFWODZlQW8wYVV6Y0dTR01wZEw2c0lzeFZYOEVQMUtxOTJ5TlVnZExXSk9oU1ZXM0diWlJtdTVtOHl5MUFqS1NmTXhyd19WaFhzREU5LXAydzBvbUFWMFotUkpDWngxVTN0SGNJNzR0VzZMbHE3Vmt0dURYVDZ3dGlsYmhBc0l2UU53MlhnS0NLUmhKU1UtZFNp?oc=5",
-   "time": "2026-11-17T18:20:00Z"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "Current price of Bitcoin for November 17, 2026",
@@ -500,7 +484,26 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeDl2cl93MmszcmpfLTBqU1llZG1XY1FUdkJ5RzhzcVZFS2Vmd2lCdFhjOVA2TlRadldaSW9VRFczYUxpU3JsaDYyaFVQd0JudzJENHRvS1BBNEtvLTl3OWN4NW9fMWZNYzFzb2s3T0JUTjQ3YktETWdvWUFadHJVT3YtYnBrNnp0MTlsN1E4eTRMUEs3eXRYVTNqbmNteTM5TlpYNXBsUkhRemNWU2FYc05ZNHpYRkN6Z1V6SHFJbU9UdkE?oc=5",
    "time": "2026-11-17T17:46:00Z",
    "t_id": "Prediksi Harga Bitcoin: Skenario Apa yang Paling Mungkin Terjadi di Tahun 2028?"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold will reclaim $5,600/oz in 2028 as rate cuts bring Western investors back to precious metals – Goldman Sachs",
+   "src": "Kitco",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFNSTNMZjM2c2VOOW1qQmlURFQ2UFNPaVBlLTd0Mm11WVN1c1ptLWxqMlF6MmVTU2ctZlUtWXBHMGsxenpqUGo3RlVDY1Bsd0JIRE8xNUNKV2x4anJJT0FqaFJOZ2VLVE85eXUxZzhJU0IzcEUxc1lfblkxTFA5VXVPVElrcDVTLV9FaDJETTBKc080ZGFYWFU3ZXhGaThoblBNN0xoLTBvWGNQNHR2dDJHWTk?oc=5",
+   "time": "2026-11-17T16:22:43Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia and other AI stocks hold steadier following their latest sell-off | National News | 2news.com",
+   "src": "KTVN",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNTMzVGtVT2plYjZoTnNpWk5RRkVBbmlIRHBHVEY5UUFHY1ZGYVQ3eW5jS254MWZoNmdwVE5aUFBGVExBZzZ1Vm5uQ2dES19hek4tdzlxWU5IZlZrTXFGaEdFbEgzRFhkUkZ0TlZIMW1wby10bVBnd0hFSWhqZGFMOFpVd3R0aHVQdUpxQ0dFQVpHR1dHbmZFWnNXM3VWQnI0aFprQmRvMUVnbkJNaWV6eVVla2NEb0RBdnJDVHBXWGZldWZodWpyMTNfVTR2V3hIeENDbnh1UzVfLTJvWElCMGR3WTlCUTFVTnpNNw?oc=5",
+   "time": "2026-11-17T15:00:21Z",
+   "t_id": "Nvidia dan saham AI lainnya tetap stabil setelah aksi jual terbaru mereka | Berita Nasional | 2news.com"
   }
  ],
- "errors": []
+ "errors": [
+  "Federal Reserve interest rate: HTTP Error 429: Too Many Requests"
+ ]
 }
