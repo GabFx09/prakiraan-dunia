@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T02:39:48Z",
+ "updatedAt": "2026-11-18T02:54:25Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -96,8 +96,8 @@
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
    "sources": 7,
-   "recent6h": 4,
-   "score": 9.0,
+   "recent6h": 3,
+   "score": 8.5,
    "level": "besar",
    "first": "2026-11-17T08:49:30Z",
    "last": "2026-11-18T02:33:17Z",
@@ -115,16 +115,16 @@
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2dkWl93TVdkUnkxd0pJZGVwNm53MXhXZGlJcm9udWtNZ19LUlZSbE1DS2FmUkVjVVE4U2E1N2VUd09lZGxaZGgwbnhOTkFVTkREZjdJZmk2b1BQMnFPbWU4Nld1TTNyVy1iLUlIQ09rdHQxeklMUFZHY1FZQ3hjRU9wRQ?oc=5"
     },
     {
-     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
-     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
-    },
-    {
      "t": "US strikes Qeshm Island after Iran drone attack on American base in Bahrain",
      "src": "Iran International",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDUnVoMFQ3TkFacGRPa3k5aWhaZ0h2aTg0ZGdtdFUwWENhUjZiMFk0RDYwMGdJNHdPOTBkNVlDWFBueXpMcmJNM0pLczV1VEVRS1E?oc=5",
      "t_id": "AS menyerang Pulau Qeshm setelah serangan pesawat tak berawak Iran di pangkalan Amerika di Bahrain"
+    },
+    {
+     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
     }
    ],
    "title_id": "Kuwait melaporkan serangan pesawat tak berawak seperti serangan perdagangan Iran dan AS di Qeshm dan Bahrain"
@@ -211,19 +211,19 @@
    "title_id": "Rudal! Di Jembatan Krimea"
   },
   {
-   "id": "transportasi-202611170425-da2e",
+   "id": "transportasi-202611170425-4213",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Flight status tracker: How to check online after FAA grounds all flights",
-   "src": "Mashable",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDBuWnRiRGdCdmt4X0h6azFIM0pnWkJWanNFd1BxX21vNWxiU2lPdjZZRDZNM0x6SUxjMEhkOEdJRDNDT2xJbWdOa0kzOUZOWnJNYTdoTHRiOV9aMnVJZFg0YlhDQl9XdXAtclhtbEw2bUlrS2tsSWIxVXVrSEF4N3J3cVBiY0hycjRkZHY5OA?oc=5",
-   "sources": 5,
+   "title": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
+   "sources": 4,
    "recent6h": 1,
-   "score": 5.5,
+   "score": 4.5,
    "level": "sedang",
    "first": "2026-11-17T04:25:12Z",
-   "last": "2026-11-17T22:30:04Z",
+   "last": "2026-11-18T00:18:16Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
@@ -251,38 +251,43 @@
      "t_id": "FAA Menyelesaikan Sistem AI senilai $875 Juta Setelah Ground Stop Menghentikan 10.000 Penerbangan"
     }
    ],
-   "title_id": "Pelacak status penerbangan: Cara memeriksa online setelah FAA menghentikan semua penerbangan"
+   "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
   },
   {
-   "id": "kesehatan-202611171452-0a8e",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "perang-202611170302-cbc5",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Guilford County Animal Services pauses healthy cat intake after virus outbreak",
-   "src": "wfmynews2.com",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR3JYLTh5S1JMNkZRSEZYYU5DQTAxMVJoUjMzY0hnTmNUS0k1MmMwWTZESl9EX0FGNlgyRE9JWnpZMWRUNWkzQTZFaXBPSWdOVUp1MWthVXlvZlJFb2gzS2c2U1VpN040OFdxNlNKTGhieVBfb19Gd2szMURfMjU1MUpEdV9iblF0U0V3OWpyNjBiMHpKNEFOM3lSc0RWdTVtT2ZJY0JqNGt1bzFOenE4TXJJdWNjOC1BQ3NSWHF4Mk1WdDR0aG1Zbl90SV9GMEtEbTVhNDREYnpSekI5YkJ2TmpYTjhMSFhlUUNuQUYweVI?oc=5",
-   "sources": 3,
-   "recent6h": 2,
+   "title": "Ukraine war latest: Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
+   "src": "The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUhqQUVuOERUckRHcVpNTGFqcW9xMThWWWp6RHRSeHYxcWNPQWZ1ZWRqcUoxZVFHSDNxcTYySjhfZ1JtazlLZEV3Z0FacWVXcUJUeDFVNjZiUl96c2pHTEZvYXVCVkw1M0Vqejk1bXo3SHl1NElSRDlMVnBlSjRhblViWTF0MlU2endSdDZxM2h0Nmhyb3NhWk4zc1Jqb0lxWEduYkliQ2Qta3cxY1pJTjY5QVZWTTNTaXBQUTRyOGJHd0FlSmdTSjFDZjZJV3Vh?oc=5",
+   "sources": 4,
+   "recent6h": 0,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-17T14:52:59Z",
-   "last": "2026-11-17T22:42:00Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "first": "2026-11-17T03:02:40Z",
+   "last": "2026-11-17T19:20:42Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Amid U.S. measles outbreak, LA County touts high vaccination rates in fighting virus – Pasadena Star News",
-     "src": "Howl.Link",
-     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5TNW9icDJMZWRGSEVPeURvU1J4cDl3ZDVrSDZhYmFiaU9maHJYNUxpZ0s0QWhKcVlVbjdB?oc=5",
-     "t_id": "Di tengah wabah campak di AS, LA County memuji tingkat vaksinasi yang tinggi dalam memerangi virus – Pasadena Star News"
+     "t": "Ukraine Destroys Kerch Bridge Road Span in Major Drone and Missile Strike",
+     "src": "fish4news.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnBscUZtZ3NRUW9jX1NrTk5fX1hpMHBXRTNkbnFZbm4xVTBPX2tsVzE2dTc0UXNmVUEtWnVRUktad0VjYlBFQjZJOGpKV25VUzlUUzVDbkdRaUEyUnF2X3R2Q2ZkLWcteTdOcVlKTjk4RmIzc2prd0t0cENfci11REFSc2I?oc=5",
+     "t_id": "Ukraina Menghancurkan Rentang Jalan Jembatan Kerch dalam Serangan Drone dan Rudal Besar"
     },
     {
-     "t": "Jefferson County Emergency Director Addresses Measles Outbreak After Two Deaths",
-     "src": "exploreJefferson",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRUt0a0ItYlVOSFQ4eVctdVFkU0pNQW5BVEwzZHVxUlIwYjJhWWF3OEtNZ3RYNEFNT3Z4dmZrV29PT3FqOW9iek5hTWNuYzFESFdNV0pCQUM1T2szbF9maEw1QkVvUjdfWEVUSmlkMFFzZFYwNEhqUms4Vk5UVmRmczZHLTVweWpvVGxJT3hBZ0lmQXVKRXk5MXFvZ1VUX2EwTHhOWHQzX3VFZUNYSk4tTkRzQTlzTFRXVzRFMHEybktRUC1TekoxMVpZZ1NyZ2xjOTNCajd4cjI?oc=5",
-     "t_id": "Direktur Darurat Jefferson County Mengatasi Wabah Campak Setelah Dua Kematian"
+     "t": "Crimean Bridge Arch Collapses Into Sea After Fresh Ukrainian Missile Strike",
+     "src": "Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaVFxZjhIc1RNSEhxaXZtTWR5bkQzVmxjQXdlUmFtMUx0QngtX3JTNHVtalBXUkFNZ2tJODh0dzhRR3UtejBhTHNkSQ?oc=5",
+     "t_id": "Lengkungan Jembatan Krimea Runtuh Ke Laut Setelah Serangan Rudal Ukraina Baru"
+    },
+    {
+     "t": "Ukrainian drone and missile attack reported on Crimean Bridge – Video",
+     "src": "cedarnews.net",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWtVYkg1bGdZU21MUE5IWl9HMlpSQTJqV3lZZDRLWXdtZnkwYWxXaHAwUFFpWnZfcnh2VE9kY3pqc0wtVkJpMzJIa0ZqMFFsMWhkSG9nbzhhUUV2QlRKdjl1YmlPQU50c1lvRkJieTFCc0dfUWFQYUh6a1d2ODMxcm9RMnlYekVnTEFfN0pzTjZ5YnJPOVNnSzVEUExxX2xwUzFvQTBaMm5YRUE2?oc=5",
+     "t_id": "Serangan drone dan rudal Ukraina dilaporkan di Jembatan Krimea – Video"
     }
-   ],
-   "title_id": "Layanan Hewan Kabupaten Guilford menghentikan asupan kucing sehat setelah wabah virus"
+   ]
   },
   {
    "id": "siber-202611170343-5af5",
@@ -313,37 +318,6 @@
      "t_id": "Pemadaman bank di AS setelah penerbangan dan gangguan Microsoft: Apakah ini serangan siber yang terkoordinasi?"
     }
    ]
-  },
-  {
-   "id": "perang-202611170302-8927",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Ukraine Destroys Kerch Bridge Road Span in Major Drone and Missile Strike",
-   "src": "fish4news.co.uk",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnBscUZtZ3NRUW9jX1NrTk5fX1hpMHBXRTNkbnFZbm4xVTBPX2tsVzE2dTc0UXNmVUEtWnVRUktad0VjYlBFQjZJOGpKV25VUzlUUzVDbkdRaUEyUnF2X3R2Q2ZkLWcteTdOcVlKTjk4RmIzc2prd0t0cENfci11REFSc2I?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-17T03:02:40Z",
-   "last": "2026-11-17T17:35:20Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Crimean Bridge Arch Collapses Into Sea After Fresh Ukrainian Missile Strike",
-     "src": "Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaVFxZjhIc1RNSEhxaXZtTWR5bkQzVmxjQXdlUmFtMUx0QngtX3JTNHVtalBXUkFNZ2tJODh0dzhRR3UtejBhTHNkSQ?oc=5",
-     "t_id": "Lengkungan Jembatan Krimea Runtuh Ke Laut Setelah Serangan Rudal Ukraina Baru"
-    },
-    {
-     "t": "Ukrainian drone and missile attack reported on Crimean Bridge – Video",
-     "src": "cedarnews.net",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWtVYkg1bGdZU21MUE5IWl9HMlpSQTJqV3lZZDRLWXdtZnkwYWxXaHAwUFFpWnZfcnh2VE9kY3pqc0wtVkJpMzJIa0ZqMFFsMWhkSG9nbzhhUUV2QlRKdjl1YmlPQU50c1lvRkJieTFCc0dfUWFQYUh6a1d2ODMxcm9RMnlYekVnTEFfN0pzTjZ5YnJPOVNnSzVEUExxX2xwUzFvQTBaMm5YRUE2?oc=5",
-     "t_id": "Serangan drone dan rudal Ukraina dilaporkan di Jembatan Krimea – Video"
-    }
-   ],
-   "title_id": "Ukraina Menghancurkan Rentang Jalan Jembatan Kerch dalam Serangan Drone dan Rudal Besar"
   },
   {
    "id": "politik-202611170547-3f58",
@@ -453,8 +427,8 @@
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnVFWmxYR3UxLWQxSjM3TmhQaEVyWWR2UVNoQXVkNm5xZnNTQ2FPb190dTROUk1KbW1FZ3RwOXV2NjE2Z19jYUs0dmJGaFNYX1F6ZkpqOFJqd21mNW1wb1FzTjVuc2ljTkVJc1BKUXJqVzZTbGxmaGtNczRHU3BBeDJuRXhPbGJPT0JvTnlCbFQ?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-17T02:30:43Z",
    "last": "2026-11-17T20:44:22Z",
@@ -493,6 +467,31 @@
     }
    ],
    "title_id": "Swedia menetapkan batas waktu Natal untuk membentuk pemerintahan atau mengadakan pemilu sela"
+  },
+  {
+   "id": "transportasi-202611170341-6b15",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-17T03:41:10Z",
+   "last": "2026-11-17T05:18:04Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Grounded jets, Microsoft outage, AI chaos: Could everything be broken?",
+     "src": "1News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkVFdG5hb1BkZ1dtUXhpYmktX2IydnZIa1V3MFdCS3IteEUxNXVndzJwcnMxU21BQ0dKOGd2OVdGOVBYcEUyMVNQNFJNT214LS1NakpQSDRzMUIyS010R24wMUZIMEd2ZFBSM1NRU1l5dE91WjcwSFgwUW45Z2l3R3QtX2QzS2JOWnZNN2g5WVk0R0JmNEVRc3dIOGdiMVpyRmg4NQ?oc=5",
+     "t_id": "Jet yang dilarang terbang, pemadaman Microsoft, kekacauan AI: Bisakah semuanya dirusak?"
+    }
+   ],
+   "title_id": "Bisakah semuanya rusak? Jet yang dilarang terbang, masalah bank, pemadaman Microsoft, kekacauan AI membuat beberapa orang bertanya-tanya"
   }
  ],
  "errors": []
