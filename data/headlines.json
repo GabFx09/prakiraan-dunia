@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T21:51:30Z",
+ "updatedAt": "2026-11-18T21:58:59Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Turun 3 Hari, Simak Prediksi IHSG dan Rekomendasi Saham Untuk Kamis (19/11)",
+   "src": "KONTAN",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2JibFAzMTZSYm9mbG04MDl4U2dqVGUxUkhHLTk5MlA2UXoybXVUaW53clR0akVwT3ZWbFo1NHQzUWFMbjRCNmMtWWdma09OSUdVTHlLaGdXU2ZLWjdlOXBNb3JMVDZGUks5Q1RDbGUwLW1lNVJWVzdEQ1gzYWE4MFk5Z1JqUFdNTGZaeTJzRV9QeTRnRkIwVnlGbWNPeUoxQm5NcE1yWGI?oc=5",
+   "time": "2026-11-18T21:50:49Z"
+  },
   {
    "topic": "saham-as",
    "lang": "en",
@@ -21,10 +29,27 @@
   {
    "topic": "ai-teknologi",
    "lang": "en",
+   "t": "US Stock Futures Rally as Nvidia Results Ease AI Trade Worries",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRi1ZbVpsWDREeUZoOV8tRHkxLVZ2WnNtaFdXWENZbkVWVHRITUNZRmFFX1V1X2RCV1ctdWFBMk14emVFTEl0eDV0cERXU0ZmN3A5NnphRDZkU3FEdmpCSXpJRU5HMnFHbENrbmhoYkhsX2VIZUxrU0VlUTUycFo0a3l0UFoxaEVOS2ZxaGxwRmdRd3lJSktTZy14VUdRTVJCNlVTb3BmZW44ankzblhKWFZ6dw?oc=5",
+   "time": "2026-11-18T21:13:26Z",
+   "t_id": "Saham Berjangka AS Reli seiring Hasil Nvidia Meredakan Kekhawatiran Perdagangan AI"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
    "t": "Nvidia retreats as strong outlook fails to dispel uncertainty",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
    "time": "2026-11-18T21:12:47Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "A fifth straight loss for the S&P 500 drags Wall Street to its longest losing streak since June",
+   "src": "Beloit Daily News",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZV9kRkdpYkIyRHpBcU82cGZWM3dPNzFPaVp0STZDR3ZFTGQ2c0IyTlEwYXQ3d3lRcUlFd3FGTEtiN3QtSXRwY2F4WTdPbW0xV0NwVUx2VjBkc1BLcXBEdWZicFJsSDNKOTFVOGQwVmR1Z1hTb1o4UVFBN3VHYlY5Q05FTFRhVl9fOE1jZ1FmMDZxeEo1X2FiVkVpQ2E2Sk56eEhZVjdya2FfdzJ1bjdlTXRscl91RThibkJ0eXZyRzBzQ2V1X2psN2pSRXV2dUJqdjlfXzh6SWY4UkhHNl9oR1MyT0hQWi1wUThSUl9oUzlzaFB0WjF4dTBET25GV2Fj?oc=5",
+   "time": "2026-11-18T21:05:38Z"
   },
   {
    "topic": "emas",
@@ -53,7 +78,7 @@
   {
    "topic": "bank-sentral",
    "lang": "en",
-   "t": "Fed Saw Need to Keep Raising Rates Despite Holding Steady in October",
+   "t": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
    "time": "2026-11-18T20:11:02Z"
@@ -140,15 +165,6 @@
    "time": "2026-11-18T19:05:35Z"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "US Stock Futures Rally as Nvidia Results Ease AI Trade Worries",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRi1ZbVpsWDREeUZoOV8tRHkxLVZ2WnNtaFdXWENZbkVWVHRITUNZRmFFX1V1X2RCV1ctdWFBMk14emVFTEl0eDV0cERXU0ZmN3A5NnphRDZkU3FEdmpCSXpJRU5HMnFHbENrbmhoYkhsX2VIZUxrU0VlUTUycFo0a3l0UFoxaEVOS2ZxaGxwRmdRd3lJSktTZy14VUdRTVJCNlVTb3BmZW44ankzblhKWFZ6dw?oc=5",
-   "time": "2026-11-18T18:46:11Z",
-   "t_id": "Saham Berjangka AS Reli seiring Hasil Nvidia Meredakan Kekhawatiran Perdagangan AI"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
@@ -164,14 +180,6 @@
    "src": "StoneX",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
    "time": "2026-11-18T18:13:47Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "AI stocks hold steadier after Nvidia says it still sees strong growth ahead",
-   "src": "WJTV",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVVoWUhqcEYtZ0JNS0NDTjJLQ19CMUVhc2I4d2lXTUY4Y2tELUEwS3dvbXd0U3lOb3JQQy1oTVJtQmhzaU4zSHBoZS1GT19oT25DZ2p0NlItVF8xY3MyeGxvdThObjVrQk5wTmVuQUlobGd4SFZlOXMyYnZFV3J0MjFXX1ROUkxIeWo1ZU14NklBR3UyLVduWXZSdUlQdUJPMnAtcNIBqgFBVV95cUxPd3NCM1FrVU9MSW94ZkZENXVGLWVLNEZhUlJxQl9oRFo4NWNINkNtOTVBSFV2RjJpTGVHVUpQX3BtbEZhUjdFZG1EeVlyX0g2TkFObVY5RVZwNXlPYVowdFMtV3dZdTJxUkZiX0xwQl85UFlrSlhhWl9MRGxmcE5Zcm1OUkFlUTBJbTZESG12RXhHd0MwSndIdnpITmpNNWNZRHpXVjVFeWlxZw?oc=5",
-   "time": "2026-11-18T18:05:26Z"
   },
   {
    "topic": "kripto",
@@ -387,14 +395,6 @@
    "src": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXhpRVB4bWpQc2RzYU80LVhPYjBGM2d1NmdpZ3dTZFpHVGRVc3pwM1lraTZqQUlSZWZDWnl3LXYyM2t6Mml6TEo0eEZ6Wlp3Vzg3NDFkeGlNdC1ZNWt1LVQwVHV6U2xCOVJZZ1lMUWxfRmt3NnZ3Uk5TbkU2dDk5clo2dVlublg5WWlqRFVoYW1vcmlrdzdMTXY2dnAxS0VRRi1V?oc=5",
    "time": "2026-11-18T11:42:18Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG Terjun, Saham-Saham Ini Justru Mencatat Net Buy Asing pada Rabu (18/11)",
-   "src": "Pusat Data Kontan",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkFTRGQwdTFsVmlNekhXX3hrRFhGamUtMG1vNFRTaW01OGhha3ROZ2xyaUliSG9HUVA2OU44NUtQMno3SHE4ZENzVnV5OURZeFJwTmVTNUcybl9MTmJPVTRNWXY3WjZCM0FnTGNnOS0zWE1YejIzVnp2cm1ITkk5TkRzUkN1NHQ2QTluRVF4NzM2c0RXWFFWZ3ZKTzY2YUZvQ0VfTFJKTlBNa3Zn?oc=5",
-   "time": "2026-11-18T11:34:33Z"
   },
   {
    "topic": "indonesia",
