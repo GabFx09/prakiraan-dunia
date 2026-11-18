@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-18T13:09:30Z",
+ "updatedAt": "2026-11-18T17:04:40Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-brent-20261118-down",
+   "time": "2026-11-18T17:04:40Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "brent",
+   "title": "Minyak Brent anjlok 5,2% dalam sehari",
+   "body": "Harga terakhir 88,32. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#brent"
+  },
   {
    "id": "px-gold-20261118-down",
    "time": "2026-11-18T13:09:30Z",
@@ -175,6 +185,7 @@
   "ev-transportasi-202611132141-927a",
   "ev-transportasi-202611151313-a343",
   "news-2026111807-bi-rate-naik-6",
+  "px-brent-20261118-down",
   "px-btc-20261115-down",
   "px-gold-20261118-down"
  ]
