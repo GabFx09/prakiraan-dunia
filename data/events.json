@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T07:32:01Z",
+ "updatedAt": "2026-11-18T07:46:45Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,19 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 14,
-   "recent6h": 9,
-   "score": 18.5,
+   "sources": 15,
+   "recent6h": 10,
+   "score": 20.0,
    "level": "besar",
    "first": "2026-11-17T07:21:47Z",
-   "last": "2026-11-18T06:22:00Z",
+   "last": "2026-11-18T07:36:06Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Kuwait and Bahrain announce they have countered Iranian drone attacks",
+     "src": "صوت الإمارات",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTVfdV91SERvajVqRmgyb3d3WEtJU0xJUzdJcmRhSm1VZDBzYUF1SkFZWFcwOV9MRHc1bVRHZW4zQXk3eHZlVmVDd3hpS0Zwakl0Z0I2ejdnd1Bqd1Nad0l3ZHdlWkRIa1pfRjFOcFVHQ2dZbFctWmN0ZGpaRUlmOEVPd3NmRzRtQk9FTWIwV1Q5RXJGRGY0QnZKM3JqN3VKY2xISnBWX0pDSXJVbGU2SHB2a1NZdmlPOU1XUWJB?oc=5"
+    },
     {
      "t": "Iran Drone Attack Targets US Military Base in Kuwait",
      "src": "Khaama Press",
@@ -32,11 +37,6 @@
      "t": "US Strikes Missile Installation on Iran’s Qeshm Island After Drone Attack in Bahrain",
      "src": "UrduPoint",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1NOQVJiZG1LajhKdWxDdHJ3TzhMdXZydFkwVXp1czBYTldnOWREdnBDZ2pkQ09sUkpXMnBCUE1vTXhTUFNQMlY2RVJ5WDJHQUQ5Zy1Tc0k5SkRmLTg2RTVFeHNTRmxkbEpsM2FuRDlEUUpjcGRnb3pHZm51SDdEWWh6SjR3azJGUnVFVmowaG83Zw?oc=5"
-    },
-    {
-     "t": "Middle East Conflict: Kuwait Reports Drone Attacks, Bahrain Intercepts Iranian Strikes After US Hits Qeshm Island",
-     "src": "Dainik Jagran MP CG",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2EyUjF2NzZQMnRicWc3OFdZcGZ1Z0pCTThHajQzSDFQYjM1WXZydU04bFhfUHl1YnVfSEFtX1hGM013azFZNHBzVVprZGhjeDdVZWw0R1ltVUFQUzFnM0ZNZkpXNTVCTTNwV1I2QkNDVFBuVWtLRGt1M1FzUExnMmJYQU1DdEF4Z0J6cmNlLXBzOFNCbmlBS3M4OGc3blhiaXAxZktFbkFzSEpuX3A1OEk4VEE3NldWV3c?oc=5"
     }
    ]
   },
@@ -88,9 +88,9 @@
    "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzlLcDdqRnN3R1BCUzdfblFWaTZKdEc5ckZldXJ0MGVTdmlLNmdCdWZuWTZqVFdyOUJMN29oSE9VcF9lY2x6cDlWN21lSk1FSnEtZjFGcHRjXy10N0ZWVU9yWC16SkNaZkFXc210em5ockpfZDlKQ0xKQXotaGRZOThOT1lsYk5wY2swMnBQSERBTE5OcElWN1pTdnBJUFF0RWZMSEpIRTd1bUxhcjUtQWxia9IBuAFBVV95cUxNUkI4OHV1OUZJWW1TSFVBc251dG5CTWg4QXNWQmNKNmlqd3gxd2RHVDJrQ1RramtrLUFpZDh3UHFTVmZvWHU4UkxUR2dfeXNVSVFDOUs0YXBkN1BOZFpKRWVobjFGNnlfbzQ1VHNad284QXZiYWYxSmV4ZktLVXNRUjVDbEFSSUZucDg0SFdCVVBRd2ZSaXdqSV9nTkIxTE0yVVEwaG16RlJ3Q2tFYzdObWlvQjNNNkh6?oc=5",
-   "sources": 9,
+   "sources": 7,
    "recent6h": 0,
-   "score": 9.0,
+   "score": 7.0,
    "level": "besar",
    "first": "2026-11-17T15:50:25Z",
    "last": "2026-11-17T23:02:15Z",
@@ -103,12 +103,6 @@
      "t_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
     },
     {
-     "t": "Classified US communication network back up after outage hit system",
-     "src": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY2pLM2tRU2VEaElMS1hhbXNvLUNjR1RDdks2NnlhT2FVWU9ObTlfZ3JsbDc0bE5fN3hYVHNEQUx6UmN6Z0psZVJCakZldUtvemFwX0l1QURxVzJtRHZPRWRQT284eDdoZkNOTllTYVlWaHhMblN2MG1SNlZUSHFLZVFMYmV1eHhyWWJ1VDNqR1BLbkNKblN0WnZVOThHNkRjazQzSW9TRm5aMjc1Sk1QdDJJeTdCWkNTX09qNWlKRFFHUVJuSTloV1Nn?oc=5",
-     "t_id": "Jaringan komunikasi rahasia AS kembali aktif setelah sistem padam"
-    },
-    {
      "t": "How to Tell If It’s a Cyberattack or Just an Outage",
      "src": "WIRED",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVRiZUNSNVJhVVpYYTRHdGktNWY2UWc3eV81emd3bGw5eEhNVmZ2cTdoTnlzN2oxeWZyLTIzVmZSMS1JeGRSNXZhcThfdEFOc3psQUVhelRWdWtUT2pzZ0IzTXBWRUgwaHpBQWtPZkhlU05HVmYxZEhPUGRxVFpNY1o1RUUxUQ?oc=5",
@@ -119,50 +113,14 @@
      "src": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2VpdVNyenpTWkdETDVBMmgtZ0hzZmRyUFZWZkRzOUMtNEp6MVlmd1p2emRoMS11TTZYTUp6QmhYRzcwZ3dOQTd1ZU5zRTByRk9fckZsZ3Vrd2hkQlVsU0hnVi11Wk9nVXF5b3UtUG9NcHdORWNtOHJ5ZHA5RFg0SVZKT09BWTQ2T3FGc3hDRHdhTnc?oc=5",
      "t_id": "NSA Down: Juru Bicara Mengatasi Gangguan Saat Serangan Siber Diabaikan"
+    },
+    {
+     "t": "In Yet Another Outage, the NSA Is Down",
+     "src": "The New Republic",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVlTRUk2ZkpKeGZjQ3NnTTdpNjJ0NXBIQlRTR2lFRFpndkctRFNwbm5JaDFHUnhjblljajBMRVFTd203WC1EbUk1R3M3dkN4MkhrQlZNdzJiNHJoMFlhYVB1SHRpRnZRajFDMUJJMlpNWGNEOEhVeXUwaXFXM1lxdHRmQ25VOG13blJuZDk0MA?oc=5",
+     "t_id": "Dalam Gangguan Lainnya, NSA Jatuh"
     }
    ]
-  },
-  {
-   "id": "perang-202611170736-a92e",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russian Missile and Drone Attack Kills Two in Kyiv, Inflicts Fresh Damage on Power Grid.",
-   "src": "Ukraine Business News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmxmcTZ4NzVFRDF5X3JGdjJqUzJSMVZheF92VF9SRlVUYTNSdnZpMms1TzcxWFdOeUJDTFluSnA0Q3V1THVjQXZOZFg4RTU3cEg3QVdWaHBkaXRVM0dhVmNncmxjVkE4TEpNRms3RkZ3QldBOVRRanNiMVdpNkU5em4tZDVFb05fdmdQMVhyNjhXUExFM25oMGlaSXA4aTZOWk5wb19iRdIBrwFBVV95cUxQWnJYS01UUlJ3V2VJVDFrRTRWbjZQU2lIbGdtQXhWRXE3aTRwVTNDdC1yM1NxdVNic0F2SFpxeTBBSzBoZ3hSczlxUklwdjNKaXRwUkVBLVBtck1GVVpKVVdiRVY4a2FvMEdoaTNhYlhMY1VuOFpYVVZSZlNYTXYzT1E1bXlXbXhZSGZsM2llNFUwWHlGRlBLa2JINlRmU0g2QVd1Qi0wSGpjeVBsTFBB?oc=5",
-   "sources": 5,
-   "recent6h": 0,
-   "score": 5.0,
-   "level": "sedang",
-   "first": "2026-11-17T07:36:40Z",
-   "last": "2026-11-17T23:39:31Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Kyiv bridges attacked in Russian missile strikes overnight; Russia says it downed over 2,000 drones",
-     "src": "i24NEWS",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcGZ5MzZ4OWxSUXgzQVR6VjBWZVNrQnpRb3hGS0thVWdLQS1qTlMtZXg1aDZyY0FpV0VSU2haRDkwQXhud3c0eTFGQllXZ3NvWVBBWXBkSHFMelVMQ1lKVTdNcWw4Yy05dXVNbHpoaFNJYUxveTVBUjdkbVZuV19VMW5UYTJVa0R5SkhVekJCUUhJVm1UanRpSGRrNXFYMnkyZFYxY3dNUjJhLTV5R29ZTFhsTXU0LVVkZzVZWk94OGhETXpUNldqeklDaExPNGpRY2JacTZnVklsQnhUVG00V0lMNmRjR2VpeFFZRHV5S3FlVjRvTENJYm1Xbw?oc=5",
-     "t_id": "Jembatan Kyiv diserang oleh serangan rudal Rusia semalam; Rusia mengatakan telah menjatuhkan lebih dari 2.000 drone"
-    },
-    {
-     "t": "Russian Missile Strikes Hit Two Major Kyiv Bridges",
-     "src": "Arise News",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wYXZqLUM2UVRsRDg1OTlVT081UDc1ODVQUjRhM2JlQXBpckZWdG1vajBSWXhFanVVeENuR3pLZTJaNnplb0xkcUFVb3QzZ2lKanlwR243c2hBc2xBQmpTazBCQzBHVXR4UUtQUEh3TEk5bFhBN2s2NDJnaVA?oc=5",
-     "t_id": "Serangan Rudal Rusia Menghantam Dua Jembatan Besar Kyiv"
-    },
-    {
-     "t": "Russian missile and drone barrage knocks out water and heating in Kyiv",
-     "src": "The New Voice of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHdYUWRPSnJ4c0pPeHVqYWpuZWktVXdoYnJaTTAzYkJXNFpqdWxPYnp5SUhwZExSbW1wOEh5TEs0LU5sX2JfR09sdlpQSXRqRzVCdmVTM2xSS2w4UUhSUFI3NjczT1VIX0h6SDRXcjF4NUR4Xy1zeHlLc3hIUTNZNGF1aW56TEdYUTNLMGthVFc5cGowYnVkZDRWYVd4djgyTUsxc3BoQjFia054VTA2LUJSU0lJQmNQb3VISV9hOHlQelpZWmRMdHpob9IBxwFBVV95cUxQM2ZnbGRTX3lFdWNwY1Q3YThiOU45Z1hNZTJyUHFiWEx6ZWcxV2FUU3g2VDFnVFpxQjZlQmlvM0REa1h6aWFHUElPWU45TnQwc0ExWmhKTGpJVVVYU0JITFA0TnI4SkNSUnR2dzdRamlrV1JkTUdja19HUGtWZnN0UmVyVlFPeWRFWXMxd2k5UTdTY0ZHLTAxV01rTlVHbUs3X0Z4dFhWX21xem83bFVSd1lxYlA4THZoazBjamwtTHdlcVVPSGZj?oc=5",
-     "t_id": "Serangan rudal dan drone Rusia mematikan air dan pemanas di Kyiv"
-    },
-    {
-     "t": "November 17 Missile and Drone Strikes Impact Kyiv, Zaporizhzhia, Kharkiv, and Cherkasy",
-     "src": "112.ua",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNnI1cjR3WkhnMzNUZTE1TWw1Wjd2NjI2aHVNekN4cUVIdmw1ZmNhX0NhOUx2X3c2SzJoeXVxZERfZ2Q1SlBMcUdEcTJkNHhmSk9KZTc1aXJwM2I1UHVVcGFwOTdVRlpKT3AtMFZOMDRrOG04ZHUyWUsxckY3eUxadEFpN3ZLMzIxUmRYMFlGOGlCZnBvcFpSWFBMMlhsZHozVDJXY1FhVGlwTmFaeXp4UEJGdFd0UQ?oc=5"
-    }
-   ],
-   "title_id": "Serangan Rudal dan Drone Rusia Tewaskan Dua Orang di Kyiv, Menimbulkan Kerusakan Baru pada Jaringan Listrik."
   },
   {
    "id": "transportasi-202611170707-4213",
@@ -206,6 +164,43 @@
     }
    ],
    "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
+  },
+  {
+   "id": "perang-202611170736-a92e",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russian Missile and Drone Attack Kills Two in Kyiv, Inflicts Fresh Damage on Power Grid.",
+   "src": "Ukraine Business News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmxmcTZ4NzVFRDF5X3JGdjJqUzJSMVZheF92VF9SRlVUYTNSdnZpMms1TzcxWFdOeUJDTFluSnA0Q3V1THVjQXZOZFg4RTU3cEg3QVdWaHBkaXRVM0dhVmNncmxjVkE4TEpNRms3RkZ3QldBOVRRanNiMVdpNkU5em4tZDVFb05fdmdQMVhyNjhXUExFM25oMGlaSXA4aTZOWk5wb19iRdIBrwFBVV95cUxQWnJYS01UUlJ3V2VJVDFrRTRWbjZQU2lIbGdtQXhWRXE3aTRwVTNDdC1yM1NxdVNic0F2SFpxeTBBSzBoZ3hSczlxUklwdjNKaXRwUkVBLVBtck1GVVpKVVdiRVY4a2FvMEdoaTNhYlhMY1VuOFpYVVZSZlNYTXYzT1E1bXlXbXhZSGZsM2llNFUwWHlGRlBLa2JINlRmU0g2QVd1Qi0wSGpjeVBsTFBB?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-17T07:36:40Z",
+   "last": "2026-11-17T23:39:31Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Kyiv bridges attacked in Russian missile strikes overnight; Russia says it downed over 2,000 drones",
+     "src": "i24NEWS",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcGZ5MzZ4OWxSUXgzQVR6VjBWZVNrQnpRb3hGS0thVWdLQS1qTlMtZXg1aDZyY0FpV0VSU2haRDkwQXhud3c0eTFGQllXZ3NvWVBBWXBkSHFMelVMQ1lKVTdNcWw4Yy05dXVNbHpoaFNJYUxveTVBUjdkbVZuV19VMW5UYTJVa0R5SkhVekJCUUhJVm1UanRpSGRrNXFYMnkyZFYxY3dNUjJhLTV5R29ZTFhsTXU0LVVkZzVZWk94OGhETXpUNldqeklDaExPNGpRY2JacTZnVklsQnhUVG00V0lMNmRjR2VpeFFZRHV5S3FlVjRvTENJYm1Xbw?oc=5",
+     "t_id": "Jembatan Kyiv diserang oleh serangan rudal Rusia semalam; Rusia mengatakan telah menjatuhkan lebih dari 2.000 drone"
+    },
+    {
+     "t": "Russian Missile Strikes Hit Two Major Kyiv Bridges",
+     "src": "Arise News",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wYXZqLUM2UVRsRDg1OTlVT081UDc1ODVQUjRhM2JlQXBpckZWdG1vajBSWXhFanVVeENuR3pLZTJaNnplb0xkcUFVb3QzZ2lKanlwR243c2hBc2xBQmpTazBCQzBHVXR4UUtQUEh3TEk5bFhBN2s2NDJnaVA?oc=5",
+     "t_id": "Serangan Rudal Rusia Menghantam Dua Jembatan Besar Kyiv"
+    },
+    {
+     "t": "Russian missile and drone barrage knocks out water and heating in Kyiv",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHdYUWRPSnJ4c0pPeHVqYWpuZWktVXdoYnJaTTAzYkJXNFpqdWxPYnp5SUhwZExSbW1wOEh5TEs0LU5sX2JfR09sdlpQSXRqRzVCdmVTM2xSS2w4UUhSUFI3NjczT1VIX0h6SDRXcjF4NUR4Xy1zeHlLc3hIUTNZNGF1aW56TEdYUTNLMGthVFc5cGowYnVkZDRWYVd4djgyTUsxc3BoQjFia054VTA2LUJSU0lJQmNQb3VISV9hOHlQelpZWmRMdHpob9IBxwFBVV95cUxQM2ZnbGRTX3lFdWNwY1Q3YThiOU45Z1hNZTJyUHFiWEx6ZWcxV2FUU3g2VDFnVFpxQjZlQmlvM0REa1h6aWFHUElPWU45TnQwc0ExWmhKTGpJVVVYU0JITFA0TnI4SkNSUnR2dzdRamlrV1JkTUdja19HUGtWZnN0UmVyVlFPeWRFWXMxd2k5UTdTY0ZHLTAxV01rTlVHbUs3X0Z4dFhWX21xem83bFVSd1lxYlA4THZoazBjamwtTHdlcVVPSGZj?oc=5",
+     "t_id": "Serangan rudal dan drone Rusia mematikan air dan pemanas di Kyiv"
+    }
+   ],
+   "title_id": "Serangan Rudal dan Drone Rusia Tewaskan Dua Orang di Kyiv, Menimbulkan Kerusakan Baru pada Jaringan Listrik."
   },
   {
    "id": "transportasi-202611171449-ac47",
@@ -390,7 +385,7 @@
     {
      "t": "Sweden sets Christmas deadline for government formation, or call snap election",
      "src": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEpDZHNfR0hMQ3lCZlhvaERkNDFDX1pYbnJ3RlR2QTVEb1d5X1M4TkxOS3pVaEluTFpIT3JaWC02VS12dEFRZGFGZDV2aEFyUVJxSldoMllqUXJ0eXRmdU1SaEJwalItTm9KM0ZpOGhnOHRxcnNTQUxyaGluTFlVMzlPb3ZwVWI4amZweUhSalR6U1lBNFE2cVBsaEtyRzhIUkYzempoUzRNUS1vSTcycmdrWQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEFwa1gxRUMzejdWSGozd2tJUjJUTllUQl9MRE5sTkFTMjZPM0xjYzRTWnFmVDFPY0RwOW91VDZqYW85cE43YVZTZm91T0dyQU52enF1ZWd6QnFFb004ajhENkRhcjFFa1ZrUXRVU3ZiS2NKcmowMzh3bWI1VWY4eE5MYXl4TWtpLVZDdUctUFZHV3BEeFlsX2hJc3Bwa3lzYkZmc3JWVHppaVVENGFEM2s1ODhKYzBL?oc=5",
      "t_id": "Swedia menetapkan batas waktu Natal untuk pembentukan pemerintahan, atau mengadakan pemilu sela"
     }
    ],
