@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T13:23:35Z",
+ "updatedAt": "2026-11-18T13:38:20Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 14,
-   "recent6h": 5,
-   "score": 16.5,
+   "sources": 15,
+   "recent6h": 4,
+   "score": 17.0,
    "level": "besar",
    "first": "2026-11-17T07:21:47Z",
    "last": "2026-11-18T12:08:00Z",
@@ -37,10 +37,9 @@
      "t_id": "Iran menyerang drone AS dan situs rudal di Kuwait, mengklaim balasannya"
     },
     {
-     "t": "Kuwait and Bahrain announce they have countered Iranian drone attacks",
-     "src": "صوت الإمارات",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTVfdV91SERvajVqRmgyb3d3WEtJU0xJUzdJcmRhSm1VZDBzYUF1SkFZWFcwOV9MRHc1bVRHZW4zQXk3eHZlVmVDd3hpS0Zwakl0Z0I2ejdnd1Bqd1Nad0l3ZHdlWkRIa1pfRjFOcFVHQ2dZbFctWmN0ZGpaRUlmOEVPd3NmRzRtQk9FTWIwV1Q5RXJGRGY0QnZKM3JqN3VKY2xISnBWX0pDSXJVbGU2SHB2a1NZdmlPOU1XUWJB?oc=5",
-     "t_id": "Kuwait dan Bahrain mengumumkan bahwa mereka telah melawan serangan pesawat tak berawak Iran"
+     "t": "US hits shipping route after drone attack by Iran",
+     "src": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2JUOEllYWxWd1hqVkdvcnFMWHI0b2VfeDBfZ1BwcE5qa3RKQnc5c3NKZU1PVE9jZGJDV2FqZ2VNeDhpNzd2QjY1dVJtM2x2Um52OThTMF9wVmRuRzVQTG1WaTNDakJtc3Z3VGUzbVU3MVQ5NEJVYV9jRldRcWQ4MFpELWU3RWN4S21WRjBoSGNfLS03b3RJVGZHc1J3cGM?oc=5"
     }
    ],
    "title_id": "Iran mengatakan tentara menargetkan situs drone dan rudal AS di Kuwait ketika serangan Teluk meningkat"
@@ -183,27 +182,29 @@
    ]
   },
   {
-   "id": "indonesia-202611180643-34b7",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
-   "src": "Pewarta Nusantara",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5",
+   "id": "politik-202611171504-369e",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Immigration splits Spain ahead of snap election",
+   "src": "KMVU FOX 26 Medford",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR09kSmJMMVgtYnFGZmd5aHhxNWVoVVFHSFpzVTJBRlBHTENCS3g4eUpxaW9oTm1oUjVHek5obFVtaXY1VmdOU3NoQl9PYlVOb0x2MWZESWZYT1EtdWRIZTA2Vk1BS0xicmhlczVsMDNLNmFJV3pRclgtNFlTUC15cWNUb2l1dWRNaTV6TEdYUHhaNWsyZGVUTjhWOFNqYkdfcE5sVnRSWkZ0bE85MWFpaExiclB5ZWtnM0NnRnZRUnVLN2ZPc3F1WmgybmRBTmxXMlhOMzg2OA?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-18T06:43:39Z",
-   "last": "2026-11-18T07:20:40Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-17T15:04:28Z",
+   "last": "2026-11-18T07:27:26Z",
+   "assets": "Mata uang & obligasi negara terkait",
    "more": [
     {
-     "t": "Demo Sebanyak 98 Truk Sound Horeg, DPRD Jember Pastikan Tidak Ada Pelarangan Total",
-     "src": "Radar Malioboro",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0ZQU3BMNXVsU1JrWC1zeklNWmRySzhyeDNKb282aU9tRk9ia3dtSlhSSlNIbHdSOTgySlFWQlo2OGh1SDc0NVRONGw0MG9aSGJ0dGNvUkd3RG1RaWJxc05TU2taa0lWSHZjVXR2MUVCRFI4OGg2LXF0RVV5QkplTENfWmdMMjQ2Rm9zUzI4X2R2WWJTLXVvTlJNajhWSjhRTjFlblBDSVNZM3hOVWRnN18xM1RuclR1M0l2S2FQcFBRRjRjU1VaQU04ZU5ERmM20gHWAUFVX3lxTE5YWkRfREd6anRSRFpmZ1B1U09xZWZ4dW5tdWVFV0RMcW8tTzF4dWg2OTVXUWlUZlEyaEt1QnFZckJ0V3NPWUpjYmprUDNvdDdKTjFIUlJXX2dJQzVDaklmQmNzY2tjeEkxQVlvbTBCbFJYZXMzRTl2WEJtZ1hsTXI1dzlZY3hFX2t5TDVjVklsa3N3UXVZQ1hNdXNBYUYzYlZZbFZSaWpsQ1NnUVgtT0hTMTZMR1R3Q2VTX1dycG5VanhIV2I2a3BDaDNkbzIxQ1FubFFSSEE?oc=5"
+     "t": "Spain votes first: What its snap election could mean for Europe and the United States",
+     "src": "Atlantic Council",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTFYOGNIb1k0Z3BYUGJJRTZmb2JxdlJ5VmJQV2ZiVFU1TkJDeXBpRnR6TkxNd3lnckNwNWhsbDNNbHQ5UEtEekhVYV9BbkoxTk5MQ3RlRmlET1g4VjFrUGhkNkY2WWFQXzVkeE04elp6THRjVjFwbERWRHpYY0VtVG1YekpnMU8tc3h0VGNrc0J1YWc5XzVPc0dEMXpZdENxSkNPT1ZaV0J4cWRBeEs1Ujd2YTNrcG8wbXdORVpSUE5sTExMLU84?oc=5",
+     "t_id": "Spanyol memberikan suara terlebih dahulu: Apa arti pemilu cepat bagi Eropa dan Amerika Serikat"
     }
-   ]
+   ],
+   "title_id": "Imigrasi memecah belah Spanyol menjelang pemilu sela"
   },
   {
    "id": "indonesia-202611171136-e7c4",
@@ -227,31 +228,6 @@
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNEE5T3c3V2xzVVIyVXh6YTJTLW5mUnl6TjhzWm5kcFVCc05udjZuTnQzMkl3THR0YnNNdWtETEQ5dTVVWWdlell2LTFhMmt4cE1rUmNhYnBLTWN1V29OUEsyMF9udUVtQW41SXZSUmlZd3VXZjZoRkxzQkJSeFdPSVJBeUdsQkNnQ3hwQ0lLVGFkVzFWQ1ZCRU45QWlIMndlaEtyU1dlUDVPcjhzMG1SeEFTcVNBcnlGbi1vSVJ1WTZyM0x3N3J3cUpwRm8zNXFNdGfSAdIBQVVfeXFMT0FQNUVGdnEyeGxjcUxTcG9HcUgyNGtTSVNVWUUxa0ZsWENHYmI2U0xmME9TRzJJYWwzTVdHS2xNU1JidDN2UzZvXzd5SmZXTGZ6bXhfbHRGMjRDenYzcVdOeXNrLVhzaVRtTWFka25BMUZ5ZnFqdkR5NDlCQTFNcHRxRkFwNFU4ZG5LUThDWjZfUkRQYk9hQU9Xdi1LRFJaLWQ0WGxJSGdmQThibFFiR0VBV2lEY3hacUpuT3BfLUxsNWNENUZwSVY1WThDSkk2cXF3?oc=5"
     }
    ]
-  },
-  {
-   "id": "politik-202611171504-369e",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Immigration splits Spain ahead of snap election",
-   "src": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUxidUs1bm1lZDBfQ3ZabV9ZQTlyZ194eG82YkxnX3BjYkRUMTdQcFVoQ2owZXJQRnhwVG15clRIcFEyVDAzMkY1LTJoRFRNTy1JMjFUU1dMZlFLVFlGRW5SUjhzb2ZaVU1JRWRpOEc4bVA0WDNIaXlhT29ReGNzYlNIQUVmc3J6ejRERkdqN2NZbDBtSGplZERB?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T15:04:28Z",
-   "last": "2026-11-18T07:01:29Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Spain votes first: What its snap election could mean for Europe and the United States",
-     "src": "Atlantic Council",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTFYOGNIb1k0Z3BYUGJJRTZmb2JxdlJ5VmJQV2ZiVFU1TkJDeXBpRnR6TkxNd3lnckNwNWhsbDNNbHQ5UEtEekhVYV9BbkoxTk5MQ3RlRmlET1g4VjFrUGhkNkY2WWFQXzVkeE04elp6THRjVjFwbERWRHpYY0VtVG1YekpnMU8tc3h0VGNrc0J1YWc5XzVPc0dEMXpZdENxSkNPT1ZaV0J4cWRBeEs1Ujd2YTNrcG8wbXdORVpSUE5sTExMLU84?oc=5",
-     "t_id": "Spanyol memberikan suara terlebih dahulu: Apa arti pemilu cepat bagi Eropa dan Amerika Serikat"
-    }
-   ],
-   "title_id": "Imigrasi memecah belah Spanyol menjelang pemilu sela"
   },
   {
    "id": "siber-202611171621-5af5",
