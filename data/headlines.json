@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T10:56:43Z",
+ "updatedAt": "2026-11-18T11:11:24Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Bank Indonesia Naikkan BI Rate Jadi 6 Persen",
+   "src": "Kompas.id",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHZaN29zY3UzZS1tSVFDQl9oVW4yZ05CTzl3c2RKd2J2MlNVNWk4WHY4cjhKMkFqUXJQUzM4NHBZLV9LTkJ6VmFFWmlKVDBPcmtIQ29jbkUyMlFaYTR5MkVHQm9RNVRRellfMk9acW1VNE04dTVadnYzb3hYQ2h2bjlGQ2VkNy13Vl9BWHVsVmJBUlNuelV1Q0xnaXJWWGc?oc=5",
+   "time": "2026-11-18T10:59:01Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -25,6 +33,22 @@
    "src": "www.fxstreet-id.com",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXBxa2lwOGE5bzBlMkFXcDZnVDYzYkRkbmZ4U3RNdFRDOWNfbFdPclZVREdFaEdPQ2NSRHFMM1RGN3NUUDB0ajBiT2J1SlFPTWVvRTMyaUJ5UVBXTU9FRDZVMmFxNm5qOU9iLUs5QmlBVkJUaDVGUjdVRHR6NlJvTmhUekFURlMwdndKU012WDh1V05wRENKTHlBN0Y1QXp0RUZOYVhPa0tCc0hWVUg4UmFTeS15ZXdzTkN2clZvemU?oc=5",
    "time": "2026-11-18T10:36:32Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
+   "time": "2026-11-18T10:26:01Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Circle Internet Group vs. Strategy: Crypto's Brutal Sell-Off Is Exposing a Critical Difference Between These 2 Stocks",
+   "src": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcHppcnBPbVhiNFN3U1hzeUxLTzYweEZqclkyQWtITWNJUm5MaE1PUE50YU4xcGVlc01NcHZrNVVlSkhjWW45MlliQ201dFFTX0hhWXN2Zi1yYzMyWVlDTXZsLXV5YTdDRERtYzhPMjNYMDdxVEVNVE5NNC1nUXRZUUlSYS1TU2hpcEtTbUphMkRiZXJ1S1VIQ01LTGN5U1BINU53UldhcXd0Wk0ycFBMNFJVMHlmQkpJTkhoVDhPVWw4OE1wOVoxV2VIS1Y5R0VTMDhKZTByOUU5UFM2MXpzTVhfSVdrM0ZOVFg0YjRmZEtwNDlkb2tIVWZLWWk?oc=5",
+   "time": "2026-11-18T10:25:00Z"
   },
   {
    "topic": "indonesia",
@@ -87,12 +111,13 @@
    "time": "2026-11-18T09:35:00Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Jaga Inflasi dan Nilai Tukar Rupiah, BI Kerek Suku Bunga Acuan 25 Bps Jadi 6,00 Persen",
-   "src": "Stabilitas.id",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmtOdnFLbTBaOUlBbFM1b3hxUU1CUHd5bXc3dDBNZUs2NWdPOTljZTJMQjAzZjVpSkFDdTQ2VnpYMHBPTDREd0N6dUVBck9tS1p5cXBONXZMSzhOWnNBNkN6MlVid0ZiS2VmYlVoRC0xdWx1UTNfUEFxZ0NvUnVxQVhGdVhTcGF2NU44ZWZ2aWtLajF6aXhvbS1MVXhuVjk2ZzZHZHBMQXhOT293ZjR4Rw?oc=5",
-   "time": "2026-11-18T09:28:36Z"
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Asia stocks mixed as Nvidia optimism offsets Wall Street rout, Fed mins in focus",
+   "src": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWRxMkcxS09UclppUFZ1OGVrLU5PcjJLXzlVOG1yUy0zcjhQZ1FkejBUdHFxY2dLaXpiS256TjRtZU1sdlRZODNvS1kwWGJUZlB2Y1VpQUxrXzVIbXgwUk40Q3dBWFNTeFh2Z1hISEtJcGJzbmRReVF2UXFNeC1vOGZ4QThpVTEtVXhTelp1QVlXNy03MUswbFR3cWpIZ1RkQmNTdjNLcVNVWF9CRWdsMmRNVW1VZ3NmUkN4ZGIwUUE0SXJGRnBfZ29FeGlIclpHYVE?oc=5",
+   "time": "2026-11-18T09:29:42Z",
+   "t_id": "Saham Asia beragam karena optimisme Nvidia mengimbangi kemerosotan Wall Street, para menteri The Fed menjadi fokus"
   },
   {
    "topic": "bank-sentral",
@@ -268,15 +293,6 @@
    "t_id": "Penurunan 12% Bitcoin (BTC) melewati rata-rata 200 minggu memiliki masa lalu yang bullish"
   },
   {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Asia stocks mixed as Nvidia optimism offsets Wall Street rout, Fed mins in focus",
-   "src": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWRxMkcxS09UclppUFZ1OGVrLU5PcjJLXzlVOG1yUy0zcjhQZ1FkejBUdHFxY2dLaXpiS256TjRtZU1sdlRZODNvS1kwWGJUZlB2Y1VpQUxrXzVIbXgwUk40Q3dBWFNTeFh2Z1hISEtJcGJzbmRReVF2UXFNeC1vOGZ4QThpVTEtVXhTelp1QVlXNy03MUswbFR3cWpIZ1RkQmNTdjNLcVNVWF9CRWdsMmRNVW1VZ3NmUkN4ZGIwUUE0SXJGRnBfZ29FeGlIclpHYVE?oc=5",
-   "time": "2026-11-18T07:51:38Z",
-   "t_id": "Saham Asia beragam karena optimisme Nvidia mengimbangi kemerosotan Wall Street, para menteri The Fed menjadi fokus"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Tak Cuma Suku Bunga, BI Keluarkan Jurus Ini Amankan Rupiah & Inflasi",
@@ -312,14 +328,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Jaga Rupiah, Bank Indonesia Naikkan Suku Bunga Jadi 6 Persen",
-   "src": "republika.co.id",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2tuNXlQQmdRSkJzYk5wQW9pOFI1WjNOUHk2R0kwZi1zRHVqRjAzSzQ3M3NheDhGZURibFRtT2lkTUJPWU8yU1ViLXpwX1NIQUYzTWZOZGpERnVEd2gxN1VIdFdtRFZsVTVOR2VSQzhSdGNyRFJBNS05WURXQ2prbm1hQ1p1d3FVMkF4bWVMblpSR3ZxWS1CQzhfRERlU1M1ekVvandnVHhDM3Uy?oc=5",
-   "time": "2026-11-18T07:37:57Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Jaga Rupiah dan Inflasi, BI Naikkan Suku Bunga Acuan Jadi 6%",
    "src": "DDTCNews",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM01XQXVBS25idmc1VzVfX1dZOHpKeURiVXc1cXZNelNabGxhWGtQYy0tRThmZm1lTWRELThHbkp5UllYVTVLc3JGRFhJcVR5X00zTnhyNVlGb204RTNPSzVQVEo5NVNqREV6VF9oQkMzZDBMQ3BzcF9ja0ZPX0dYX1NaTnhkRnV5Q2p3OTJXTXlMeWJ0aHZUOXhJVHRqSjF1Q2R5Wnk1X2FEQQ?oc=5",
@@ -332,14 +340,6 @@
    "src": "https://janalokajournal.id/",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVUlY4bXE5aUZ5UmpPeDJ2czBWNElmcXFyTFFzZm9kbWppeXRzOUswSWFrWTZ5VW12cDZHTFVhSE1xZUdsZklyMGt5NEhMZXNZcHVIODZTem5vd3lGcVVKcVVfUGFPNmJX?oc=5",
    "time": "2026-11-18T07:30:49Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Rate Naik Jadi 6%, Bos BI: Demi Jaga Rupiah dan Inflasi!",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNE10VmlLZHp6NE5xVVVBZWJtR0dSbWMyTWZFUnM0MlNNdm14d0RnYnh4SUJnajNUWXFpbUotYm1yalBGM0NTaFU5RFZ4a2xMRlZ1MHRVLWpHS0wtaW9reks5eTZDSWpkeUlpQkQ4UFdodGRkNEZyeF83Qi1YUUdZb2JhYWc2bTBqb2tmYXh3U3AyWVF4MVlwTUZxdFZyak5PcjBGVEpvaEFxTVBpcFk2MUNQVEN6VnNh0gG-AUFVX3lxTE55c3dSNDI1bVNEc1B2OUZCSzg5cFVRZWxNS19jckdlemEwcFZSVmNoa2pkM1A4aVFLLXBlSDQyeVdSZkZpMFhIZmtmTE94Y3FaV3ZId0NfZlNqenBFZTJGMWVsRDRxSnFlcWxROERCX2hSWjJDYUpocG83V29KNmtKOWNEZ2taczFVa0lBeDA4eFdnZ1RmdTJuZUc5bEFFb1lXUTNvU1hUa0RReWhTTU9tV1F0VUFrOFZWdmtoNVE?oc=5",
-   "time": "2026-11-18T07:27:03Z"
   },
   {
    "topic": "saham-as",
@@ -478,9 +478,9 @@
    "topic": "saham-as",
    "lang": "en",
    "t": "Another wipeout hits Wall Street as Nvidia, other jittery AI stocks swing lower",
-   "src": "WDBJ7",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnNZUHJMdFFrOUZkOGZjVzBMQTk3azBPc3dmT0thRUpxT0s3VFZTdGJOd1NVdmZMTEVKTUtCYi1rdlA3MjB2dUNhUWhXQUdtOHFYRnBxQXlkSHNsQTU1N2NQMXdvV1h2YnFyemdROVVFUUpQdGx1VVpfNkhTTnFfZ1JWbnV3bmE4RTdQaHp4emdDTUxyU2FWV2F3cTc1U0xLRzZvSVA2NDNuOUNjRmNSZF9vTVJRbldVUEtTUzZhaWhBZ9IBwgFBVV95cUxPbnNZUHJMdFFrOUZkOGZjVzBMQTk3azBPc3dmT0thRUpxT0s3VFZTdGJOd1NVdmZMTEVKTUtCYi1rdlA3MjB2dUNhUWhXQUdtOHFYRnBxQXlkSHNsQTU1N2NQMXdvV1h2YnFyemdROVVFUUpQdGx1VVpfNkhTTnFfZ1JWbnV3bmE4RTdQaHp4emdDTUxyU2FWV2F3cTc1U0xLRzZvSVA2NDNuOUNjRmNSZF9vTVJRbldVUEtTUzZhaWhBZw?oc=5",
-   "time": "2026-11-17T21:14:00Z",
+   "src": "WEAU",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3FXQlhrRFp6c3AtOW9zbmNaeFQ2dFJQVUVBeHpQdWxJakhZWHpGZzZpWExTbXRCV1lqUmU0MXMyNmROYnJmVW9rcUw1M0NNTUZDZnl5eUVRWGJKNHJNVXplSklMV3FRMTgwenlSQnQtbzFTWEpmbmYxR1FWb01PSVI3ekVHVURjY20zN2VpU2dLcmpReEFVOTNiZ24wdWtDSjA5cTVQM2xDUGxiMU5aZ3RzcjRORmNTVHRaTkpIUWjSAcABQVVfeXFMT2dxV0JYa0RaenNwLTlvc25jWnhUNnRSUFVFQXh6UHVsSWpIWVh6Rmc2aVhMU210QldZalJlNDFzMjZkTmJyZlVva3FMNTNDTU1GQ2Z5eXlFUVhiSjRyTVV6ZUpJTFdxUTE4MHp5UkJ0LW8xU1hKZm5mMUdRVm9NT0lSN3pFR1VEY2NtMzdlaVNnS3JqUXhBVTkzYmduMHVrQ0owOXE1UDNsQ1BsYjFOWmd0c3I0TkZjU1R0Wk5KSFFo?oc=5",
+   "time": "2026-11-17T21:19:37Z",
    "t_id": "Kehancuran lainnya terjadi di Wall Street saat Nvidia dan saham AI lainnya yang gelisah berayun lebih rendah"
   },
   {
