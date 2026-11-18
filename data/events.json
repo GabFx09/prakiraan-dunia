@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T18:55:53Z",
+ "updatedAt": "2026-11-18T18:58:17Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -250,6 +250,31 @@
    "title_id": "Wabah Ebola di Kongo: Bagaimana Ketakutan dan Ketidakpercayaan Mendorong Penyebaran Masyarakat"
   },
   {
+   "id": "transportasi-202611180918-ac47",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "London Heathrow flights cancelled amid US air traffic shutdown chaos",
+   "src": "London Evening Standard",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T09:18:14Z",
+   "last": "2026-11-18T12:40:35Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+    }
+   ],
+   "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
+  },
+  {
    "id": "indonesia-202611180643-34b7",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -316,30 +341,6 @@
      "src": "WIRED",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVRiZUNSNVJhVVpYYTRHdGktNWY2UWc3eV81emd3bGw5eEhNVmZ2cTdoTnlzN2oxeWZyLTIzVmZSMS1JeGRSNXZhcThfdEFOc3psQUVhelRWdWtUT2pzZ0IzTXBWRUgwaHpBQWtPZkhlU05HVmYxZEhPUGRxVFpNY1o1RUUxUQ?oc=5",
      "t_id": "Bagaimana Mengenalinya Jika Itu Serangan Siber atau Sekadar Pemadaman Listrik"
-    }
-   ]
-  },
-  {
-   "id": "kesehatan-202611172242-87e6",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Amid U.S. measles outbreak, LA County touts high vaccination rates in fighting virus",
-   "src": "Pasadena Star News",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFpXSUtYdFZQSEUtaWpaQzN0WG9uS1pYSkFmdTBuWWxEelBiZVFaYlU3ZUJZYU54RzViNHdIZ3J3ZzUzYVNrX3JUbUpKdDFqS0hGU2ZVMlFIcHZScTFsZ1plTnFYZDBldC1hWmZqRWtFdTlpOFdqUDQ1Ny1VWDBrYkt0ZVViMGp2NHpZYkJnUzJZY1NyVUFHcHV5MVdLZEI1UTZkOVhKV0JuSmdna2E1Y0hSRjRBbjQzeGVnRy1xQy1GRC1sd2c?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T22:42:00Z",
-   "last": "2026-11-18T01:45:30Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Guilford County Animal Services pauses healthy cat intake after virus outbreak",
-     "src": "wfmynews2.com",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR3JYLTh5S1JMNkZRSEZYYU5DQTAxMVJoUjMzY0hnTmNUS0k1MmMwWTZESl9EX0FGNlgyRE9JWnpZMWRUNWkzQTZFaXBPSWdOVUp1MWthVXlvZlJFb2gzS2c2U1VpN040OFdxNlNKTGhieVBfb19Gd2szMURfMjU1MUpEdV9iblF0U0V3OWpyNjBiMHpKNEFOM3lSc0RWdTVtT2ZJY0JqNGt1bzFOenE4TXJJdWNjOC1BQ3NSWHF4Mk1WdDR0aG1Zbl90SV9GMEtEbTVhNDREYnpSekI5YkJ2TmpYTjhMSFhlUUNuQUYweVI?oc=5",
-     "t_id": "Layanan Hewan Kabupaten Guilford menghentikan asupan kucing sehat setelah wabah virus"
     }
    ]
   }
