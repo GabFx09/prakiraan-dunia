@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T14:51:36Z",
+ "updatedAt": "2026-11-18T15:06:15Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -131,6 +131,43 @@
    "title_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
   },
   {
+   "id": "transportasi-202611171449-ac47",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "London Heathrow flights cancelled amid US air traffic shutdown chaos",
+   "src": "London Evening Standard",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
+   "sources": 4,
+   "recent6h": 2,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-17T14:29:30Z",
+   "last": "2026-11-18T12:40:35Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+    },
+    {
+     "t": "Why Did the FAA Ground Every Flight? Tony Katz on America’s Outdated Air Traffic Control",
+     "src": "WIBC 93.1 FM",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3RhWTVDYVE4WERvc1FWWTZjaURodXoybDNaZVFJR202R282dENmM05HUnM0N2NHTGNZTXh6cWYtdkEtVndJTnlRMEZISEdjdWs5amVjbG9RT21Mb0JRWWh3UUhwb1A2aWx2cDZOdHZwcFFGcWhrdzlrckdrTW16ZHF4QUljdw?oc=5",
+     "t_id": "Mengapa FAA Menghentikan Setiap Penerbangan? Tony Katz tentang Kontrol Lalu Lintas Udara Amerika yang Kedaluwarsa"
+    },
+    {
+     "t": "Investment in air traffic control 'long overdue': Union head",
+     "src": "Central Oregon Daily",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHpDa19wNGgzZUlubzc2TmdRQ3lsbHo0VnAzcnV2UjlxU1ZVbHgtcW83eTFmeHlGZy1lWExsZWh2UnNMZEFLV2s1VGlpUDhMamdHTzFPalNvLWp1Q01aWlc5MUJBckVmSE5aRHVlN2FMUEdaV0taMFhkdjdtR1plRDMyU3JmTjhjVTNodmEyUk9FRXI2UVlkVHpVNDF4WmVJUE85MGVydjdOX2NPcnhRNnVaSzdILWtCOWFwc1MtZ3hwdXBUV3NXdGRnZGJ4SjZMd01OXzFsc3BtWkoxS29HSFNlZWh0TDZyNHNUV1lYZw?oc=5",
+     "t_id": "Investasi dalam pengendalian lalu lintas udara 'sudah lama tertunda': Ketua Serikat Pekerja"
+    }
+   ],
+   "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
+  },
+  {
    "id": "indonesia-202611180512-34f2",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -215,37 +252,6 @@
    ]
   },
   {
-   "id": "transportasi-202611171449-ac47",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-17T14:29:30Z",
-   "last": "2026-11-18T09:18:14Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Why Did the FAA Ground Every Flight? Tony Katz on America’s Outdated Air Traffic Control",
-     "src": "WIBC 93.1 FM",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3RhWTVDYVE4WERvc1FWWTZjaURodXoybDNaZVFJR202R282dENmM05HUnM0N2NHTGNZTXh6cWYtdkEtVndJTnlRMEZISEdjdWs5amVjbG9RT21Mb0JRWWh3UUhwb1A2aWx2cDZOdHZwcFFGcWhrdzlrckdrTW16ZHF4QUljdw?oc=5",
-     "t_id": "Mengapa FAA Menghentikan Setiap Penerbangan? Tony Katz tentang Kontrol Lalu Lintas Udara Amerika yang Kedaluwarsa"
-    },
-    {
-     "t": "Investment in air traffic control 'long overdue': Union head",
-     "src": "Central Oregon Daily",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHpDa19wNGgzZUlubzc2TmdRQ3lsbHo0VnAzcnV2UjlxU1ZVbHgtcW83eTFmeHlGZy1lWExsZWh2UnNMZEFLV2s1VGlpUDhMamdHTzFPalNvLWp1Q01aWlc5MUJBckVmSE5aRHVlN2FMUEdaV0taMFhkdjdtR1plRDMyU3JmTjhjVTNodmEyUk9FRXI2UVlkVHpVNDF4WmVJUE85MGVydjdOX2NPcnhRNnVaSzdILWtCOWFwc1MtZ3hwdXBUV3NXdGRnZGJ4SjZMd01OXzFsc3BtWkoxS29HSFNlZWh0TDZyNHNUV1lYZw?oc=5",
-     "t_id": "Investasi dalam pengendalian lalu lintas udara 'sudah lama tertunda': Ketua Serikat Pekerja"
-    }
-   ],
-   "title_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
-  },
-  {
    "id": "indonesia-202611172244-a4d7",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -309,31 +315,6 @@
     }
    ],
    "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
-  },
-  {
-   "id": "politik-202611171504-369e",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Immigration splits Spain ahead of snap election",
-   "src": "The Local Spain",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjdZUnVOYTFJcUdiRWY0OGtDLXdHbXBhemF3QlVmQVNwaldBbllnVW1qb3VNSVowWWhXdk1ZaGEwUTNYdVd2U1ctOV9LWldGNUpLQzZZNHhUY0FQWVhiNkg2NmM1MDJvYTlHNnIyYnhCVklPTFlYM1FQYXhqVDRkbUdMV29Ubkk?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T15:04:28Z",
-   "last": "2026-11-18T08:00:10Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Spain votes first: What its snap election could mean for Europe and the United States",
-     "src": "Atlantic Council",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTFYOGNIb1k0Z3BYUGJJRTZmb2JxdlJ5VmJQV2ZiVFU1TkJDeXBpRnR6TkxNd3lnckNwNWhsbDNNbHQ5UEtEekhVYV9BbkoxTk5MQ3RlRmlET1g4VjFrUGhkNkY2WWFQXzVkeE04elp6THRjVjFwbERWRHpYY0VtVG1YekpnMU8tc3h0VGNrc0J1YWc5XzVPc0dEMXpZdENxSkNPT1ZaV0J4cWRBeEs1Ujd2YTNrcG8wbXdORVpSUE5sTExMLU84?oc=5",
-     "t_id": "Spanyol memberikan suara terlebih dahulu: Apa arti pemilu cepat bagi Eropa dan Amerika Serikat"
-    }
-   ],
-   "title_id": "Imigrasi memecah belah Spanyol menjelang pemilu sela"
   },
   {
    "id": "politik-202611171811-cac8",
