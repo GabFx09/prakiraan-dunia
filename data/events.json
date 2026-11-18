@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T05:21:03Z",
+ "updatedAt": "2026-11-18T05:35:40Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -52,14 +52,19 @@
    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
-   "sources": 8,
-   "recent6h": 5,
-   "score": 10.5,
+   "sources": 9,
+   "recent6h": 6,
+   "score": 12.0,
    "level": "besar",
    "first": "2026-11-17T07:21:47Z",
-   "last": "2026-11-18T04:03:38Z",
+   "last": "2026-11-18T05:31:52Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Middle East Conflict: Kuwait Reports Drone Attacks, Bahrain Intercepts Iranian Strikes After US Hits Qeshm Island",
+     "src": "Dainik Jagran MP CG",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2EyUjF2NzZQMnRicWc3OFdZcGZ1Z0pCTThHajQzSDFQYjM1WXZydU04bFhfUHl1YnVfSEFtX1hGM013azFZNHBzVVprZGhjeDdVZWw0R1ltVUFQUzFnM0ZNZkpXNTVCTTNwV1I2QkNDVFBuVWtLRGt1M1FzUExnMmJYQU1DdEF4Z0J6cmNlLXBzOFNCbmlBS3M4OGc3blhiaXAxZktFbkFzSEpuX3A1OEk4VEE3NldWV3c?oc=5"
+    },
     {
      "t": "US Strikes IRGC Missile Site on Iran's Qeshm Island After Drone Attack on Bahrain Base",
      "src": "theopenpress.in",
@@ -75,11 +80,6 @@
      "t": "Bahrain shoots down fresh Iranian drone attacks as sirens blare",
      "src": "Gulf News",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVhqNThyNUY5bS1UaXBJMVlfU2x6TGUzWEtncXA5aHlHZ3BXRlJxV2lIV0MwTmVLeWFIaUlUczY2RG5vay1XMnppbkJKVEQ5ZDdNaVN3ODdtUEFpR1Z2eGpNT052SGFOcnJCZFN3aVpMazdhMi1WeVZiMW1NS0ZKNVpZbFJ4LTMwc2VTdlk0bUplNmctSzFtdHFYSWp1RTFvWDRtWkJHRFRmYVRPeEVHN1pfd2w4UdIBywFBVV95cUxOa3kyS2prTUdQaUVqUTVUNzdYMGVuQmxocjh1Nno0eEhFaVBSMXh6RmlaRExqVXhQVWQ4U20yVlROMTE4WkNHa1dmWTJHQ3JhVHhldkdYMjJUcFlldXJPNEZ6TkhFLWxPbDZoOUNvRjI4emloNE13c2FaVXcyWGg3ankxNkN5bDVRM3A1RnNsQ3dYMEI4STV6YjM4MXg5RE5Sb3Z3d2FhdXhuSldodlI5QVlNRGJITGxya0ZKanIzUHY4LVI0b1Q4U2xDMA?oc=5"
-    },
-    {
-     "t": "Middle East live: Kuwait, Bahrain report drone and missile attacks",
-     "src": "AOL.co.uk",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2dkWl93TVdkUnkxd0pJZGVwNm53MXhXZGlJcm9udWtNZ19LUlZSbE1DS2FmUkVjVVE4U2E1N2VUd09lZGxaZGgwbnhOTkFVTkREZjdJZmk2b1BQMnFPbWU4Nld1TTNyVy1iLUlIQ09rdHQxeklMUFZHY1FZQ3hjRU9wRQ?oc=5"
     }
    ],
    "title_id": "Kuwait melaporkan serangan pesawat tak berawak seperti serangan perdagangan Iran dan AS di Qeshm dan Bahrain"
@@ -212,41 +212,6 @@
    "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
   },
   {
-   "id": "perang-202611170757-8823",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Combined Ukrainian drone and missile strike hits major Russian bridge",
-   "src": "One America News Network",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVBHVHQtaVNPcVh6SGM1Z2F4aGpFZVZKS0FTWXNzMkxMSlZMaGtLY0EyQmpTc1BSbVJuLUY4b3FDSjBORm1pcFcwZl9aTHo5M3h1eWJ2cGx6bkdYQWJnZm8tVzZvZmdaYXp1M2F5Q0ZCQ2Y4WkNvYkktWHJZaEVCZXNvWEZEVTlGZFR5VFhPRlNnN05tVGprY3V6U2lZWWF2UHc?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-17T07:57:04Z",
-   "last": "2026-11-18T02:31:39Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukraine war latest: Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
-     "src": "The Kyiv Independent",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUhqQUVuOERUckRHcVpNTGFqcW9xMThWWWp6RHRSeHYxcWNPQWZ1ZWRqcUoxZVFHSDNxcTYySjhfZ1JtazlLZEV3Z0FacWVXcUJUeDFVNjZiUl96c2pHTEZvYXVCVkw1M0Vqejk1bXo3SHl1NElSRDlMVnBlSjRhblViWTF0MlU2endSdDZxM2h0Nmhyb3NhWk4zc1Jqb0lxWEduYkliQ2Qta3cxY1pJTjY5QVZWTTNTaXBQUTRyOGJHd0FlSmdTSjFDZjZJV3Vh?oc=5"
-    },
-    {
-     "t": "Ukraine Destroys Kerch Bridge Road Span in Major Drone and Missile Strike",
-     "src": "fish4news.co.uk",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnBscUZtZ3NRUW9jX1NrTk5fX1hpMHBXRTNkbnFZbm4xVTBPX2tsVzE2dTc0UXNmVUEtWnVRUktad0VjYlBFQjZJOGpKV25VUzlUUzVDbkdRaUEyUnF2X3R2Q2ZkLWcteTdOcVlKTjk4RmIzc2prd0t0cENfci11REFSc2I?oc=5",
-     "t_id": "Ukraina Menghancurkan Rentang Jalan Jembatan Kerch dalam Serangan Drone dan Rudal Besar"
-    },
-    {
-     "t": "Crimean Bridge Arch Collapses Into Sea After Fresh Ukrainian Missile Strike",
-     "src": "Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaVFxZjhIc1RNSEhxaXZtTWR5bkQzVmxjQXdlUmFtMUx0QngtX3JTNHVtalBXUkFNZ2tJODh0dzhRR3UtejBhTHNkSQ?oc=5",
-     "t_id": "Lengkungan Jembatan Krimea Runtuh Ke Laut Setelah Serangan Rudal Ukraina Baru"
-    }
-   ]
-  },
-  {
    "id": "indonesia-202611170348-3581",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -305,6 +270,36 @@
    "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
   },
   {
+   "id": "perang-202611170757-cbc5",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukraine war latest: Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
+   "src": "The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUhqQUVuOERUckRHcVpNTGFqcW9xMThWWWp6RHRSeHYxcWNPQWZ1ZWRqcUoxZVFHSDNxcTYySjhfZ1JtazlLZEV3Z0FacWVXcUJUeDFVNjZiUl96c2pHTEZvYXVCVkw1M0Vqejk1bXo3SHl1NElSRDlMVnBlSjRhblViWTF0MlU2endSdDZxM2h0Nmhyb3NhWk4zc1Jqb0lxWEduYkliQ2Qta3cxY1pJTjY5QVZWTTNTaXBQUTRyOGJHd0FlSmdTSjFDZjZJV3Vh?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-17T07:57:04Z",
+   "last": "2026-11-17T19:20:42Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Ukraine Destroys Kerch Bridge Road Span in Major Drone and Missile Strike",
+     "src": "fish4news.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnBscUZtZ3NRUW9jX1NrTk5fX1hpMHBXRTNkbnFZbm4xVTBPX2tsVzE2dTc0UXNmVUEtWnVRUktad0VjYlBFQjZJOGpKV25VUzlUUzVDbkdRaUEyUnF2X3R2Q2ZkLWcteTdOcVlKTjk4RmIzc2prd0t0cENfci11REFSc2I?oc=5",
+     "t_id": "Ukraina Menghancurkan Rentang Jalan Jembatan Kerch dalam Serangan Drone dan Rudal Besar"
+    },
+    {
+     "t": "Crimean Bridge Arch Collapses Into Sea After Fresh Ukrainian Missile Strike",
+     "src": "Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaVFxZjhIc1RNSEhxaXZtTWR5bkQzVmxjQXdlUmFtMUx0QngtX3JTNHVtalBXUkFNZ2tJODh0dzhRR3UtejBhTHNkSQ?oc=5",
+     "t_id": "Lengkungan Jembatan Krimea Runtuh Ke Laut Setelah Serangan Rudal Ukraina Baru"
+    }
+   ]
+  },
+  {
    "id": "politik-202611170547-3f58",
    "cat": "politik",
    "label": "Guncangan politik",
@@ -355,6 +350,30 @@
      "t": "Mahasiswa UGM Ditetapkan Tersangka Demo Ricuh 10 November",
      "src": "Suara.com",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlqVlRZdGhQQlhHRWN0WUtzV09QUTdxcFE0dEMwTWE1dmZFNTgtVkxjdEM0VXh0eEQyZXBtN3JDNTNWR19ycnpFLS1KV3RQRlVfdk90b2gyUUhkM0ZfMWJnSHJ4UzRIc3VaUnZHRUYtcE9hTW1GMlNVY0pRRHUwSThCYmhnUjZZX0FGTS13bFpHQlBWRXhPeHVhTmZ3bnYwOW5XVtIBpAFBVV95cUxNTDNjeEs5S2xpLVpDYjB6Qy15X3JTRnRmSkM0N19yQmc3N3hSbVJGMmFZLXVwcU11bmlYNHZNS1ltWkd2TTlYNWVzSGh3eU5YVUNCUzN1b3F5dmtOWnRQUTFNZWdZMU1YWXJ4QkFTNGJJRUhBYWxlTlJRMUdYMHJFMjNNWm40by1QQ3JmX2p4WDRHdnJHTkRKMEh0V1FOUXF0VGxKVQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611171621-5af5",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-17T16:21:13Z",
+   "last": "2026-11-17T20:35:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
+     "src": "Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
+     "t_id": "Amerika terkena gelombang pemadaman listrik: Microsoft, penerbangan, bank dan NSA terkena dampaknya – apakah semuanya ada hubungannya?"
     }
    ]
   },
