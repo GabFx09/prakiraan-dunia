@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T03:23:46Z",
+ "updatedAt": "2026-11-18T03:26:29Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "CNN",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Vb0RmWXNaMXVnWXAxb0ZrSUlJWU8wOU9TMXJ4NFljc3FiVzBhWm1CcHRMMWRvN1haNkk3OXU3TWsycUtyQnA4MEVqSkpYNk1JWVJ2U2w0LWg1cjVaLXFuV0NnQm9GenJyUDRONGF3c3VYMG9qM0dz?oc=5",
    "sources": 12,
-   "recent6h": 7,
-   "score": 15.5,
+   "recent6h": 6,
+   "score": 15.0,
    "level": "besar",
    "first": "2026-11-17T19:43:02Z",
    "last": "2026-11-18T00:21:04Z",
@@ -465,6 +465,34 @@
     }
    ],
    "title_id": "Swedia menetapkan batas waktu Natal untuk membentuk pemerintahan atau mengadakan pemilu sela"
+  },
+  {
+   "id": "indonesia-202611170550-d0ef",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Trump Hidung Babi Muncul di Demo Tetangga RI, Tak Terima Mau Datang",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX190SXhtbmJyaGxwZVFaZk9fRVFIZTdEMXpsRWJqWXIySVYxempmQTBlYTFsSTZ6dDJienJpd0xtbXhJak12YlBYd28taDE5cVJ4Nk5HTHYtUG5vYzBuVGx3Q1FTMDBFOXY3blRKTW5LNVBqNExmTVRpcURsX3FJRnF5dEdZbTBlVWZpVGJCa0NQQjlKU3NrZHNqQ0MzN3BpUHluTlZYZWM0b2lUaHVqZmRqaXJHbTA5VmFHdnJDTlBGOG_SAcgBQVVfeXFMUGZoYmNKQ2tVLWxpci03VWtsQjdvUUVyM1J3b21VZVZPYk9WT0ItNXVjNUJ4bEI4SzNUZmhuYmh6TXVFWEZaZUV6by04dWdEVktqaGdGU1h3YzlLMXRQX2lvLXhmNXIxa2FJYV8zaGNZbTVRc1pZaXRqbEl6dW9DSk9BTjVBOEZKdGp5S3dIcnlMcnpBelJaUlBsUkZTYlJ0cmpFcG5FZVR6MzBOQ2MzcU45elpGTlVubkt2UkpDbG5VUTdpRW1OUjk?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-17T05:50:00Z",
+   "last": "2026-11-17T09:40:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Warga Filipina Gelar Demo Tolak Kedatangan Trump di KTT ASEAN ke-49, Patung Dibakar dan Ribuan Mahasiswa Walko",
+     "src": "radartvnews",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjdES19aXzZzNk5lZmRCS1Yyd3loVW5rNnY0cVQ4bFlESHVMZHZ3eGt0V21CeXFlZWhlYkt4QU1XNWR1dUcxMjhaaUxQNkhaaEliSDVhLU1aUW5OZEZYZUotb3dJV3lOck1CQWstcEdPYWtLNGctVW1PcWs0THdvTU1NV0gwSFd0ZkxMNkVHOTZuSWk2QWQyazI5UFRwMnVHQTlfSlVNWmFzRFBwY01UWTg4aVVCM3REOEJ0cEhzZktjWVY5dWk5VjVfdEV1djJnY0dIMEJYeS1EMTBmVGp1Y1Mxc9IB4wFBVV95cUxNMjdES19aXzZzNk5lZmRCS1Yyd3loVW5rNnY0cVQ4bFlESHVMZHZ3eGt0V21CeXFlZWhlYkt4QU1XNWR1dUcxMjhaaUxQNkhaaEliSDVhLU1aUW5OZEZYZUotb3dJV3lOck1CQWstcEdPYWtLNGctVW1PcWs0THdvTU1NV0gwSFd0ZkxMNkVHOTZuSWk2QWQyazI5UFRwMnVHQTlfSlVNWmFzRFBwY01UWTg4aVVCM3REOEJ0cEhzZktjWVY5dWk5VjVfdEV1djJnY0dIMEJYeS1EMTBmVGp1Y1Mxcw?oc=5"
+    },
+    {
+     "t": "KTT ASEAN Panas! Massa Demo Besar-besaran Sambut Trump Datang",
+     "src": "CNBC Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHBaNVdRazNvQl95dWhIckcwR2VnM1lOVnhQUGJCNmE3TGtYOGNOZzRIVXc0eFEyOTFEcDZIa182T2pNUU03b0ZoZk4wNE5fR3JGQ1RJc3MtMWQ0TkxIYnowR09VTTNCZFVaZDBvQ0ZucktLWnMyRzNjVURKSGJfd1ZCNTRPd1FBZ2lzMnEyUTlmR2JlSW4xQVE1RzdlREtyZnl5MC1JQ0NGT05SVHQwM3FRYW9Tc1Nha3Br0gHAAUFVX3lxTE8xdlJGMG44dG1lYXpUTlpXNVVsNEVRUklDcVpYazhCX3hsLVJFLVl0ekpheEVISVhLeU15S3hMWkRvVFZXQmw0eVVtbjZ5M1VWMk1oOTVQMW1sb3doSzZmSmFyMGJ3SVhEMDBkc1pYUy1KNXB6TjNqZnN3VkxFdzN4Nk4xc2tob25qXzBxYXBfTDBRYi1ybHM4WmY2NmNYLXNLbFc1aUFGY3RYd2MyZ0RvNEdCX25fNHJmd3RpWEZFTQ?oc=5"
+    }
+   ]
   }
  ],
  "errors": []

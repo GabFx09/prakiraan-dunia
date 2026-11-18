@@ -1,14 +1,22 @@
 {
- "updatedAt": "2026-11-18T03:23:28Z",
+ "updatedAt": "2026-11-18T03:26:12Z",
  "source": "Google News RSS",
  "items": [
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "BTC price on Nov 17, 2026 at 11pm EST Prediction Market",
+   "t": "BTC price range on Nov 17, 2026 at 11pm EST Crypto Prediction Market",
    "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzBrNUc4MVRnanVHS0RJdF9RY2tqRGJ4b1F2V3cwNnNQVHhBSjE4QWxfU04tT3BJZVdZS1hWQXNsQ2V2M1N2QkRjWWdSM25iRTJ1aUFCOFgyWGZMMk1qVXBsSDloR2YzdV94S0t3UEhXc21mSk5sd04tcGtQbTBfMUs2bWhHcUxrTVBBZ0ktRmxJSDNibjYwVm1DSEk5WFlVUmlPY2lqZ2FWM1FXRW1j?oc=5",
-   "time": "2026-11-18T03:15:26Z"
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRk91ZjhCdGZtd1Z5eW5TNVY5bHF3RC1oYm9BUkF0Y19NZUlLRjdiU2g0OERQTDhSY1VRLVdYLVNOZFFKQnVvTnZKdVZhbFZmNkFNS2hfd2oyVG53YlZZQzF0YndKbnh6OTZkbEZ4ekpoMmJTbnhPNFNkb0ROcjhzRjU3QXpINWVBNjNjVEx3aDRoOVBycmRPbG1xU05rSmxQWkMtYVJpR2lreGh1bVlGbHNJX1lxQU0?oc=5",
+   "time": "2026-11-18T03:15:25Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold slides to over one-year low on firm dollar, US rate outlook",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
+   "time": "2026-11-18T03:10:00Z"
   },
   {
    "topic": "indonesia",
@@ -123,6 +131,14 @@
    "time": "2026-11-18T01:58:10Z"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "The Fed Just Raised Rates Again - And Another Change May Be Coming",
+   "src": "FinanceBuzz",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92cHNRbXB5a3pVR25fNllxNm42eVZkNzVkV3pOYzBmcXNTcHF4Vjh1MTlwUHlQa3JNREVEZWZTN1B2Z3U3My1yUDJmR3NMNk11OVFTR2h3QTRFREZLTU5ZREV6c2dKZm02ZW5fQQ?oc=5",
+   "time": "2026-11-18T01:38:53Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Melemah, Bagaimana Potensi Suku Bunga? Potensi MBMA",
@@ -203,15 +219,6 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdJWTU0VkQwQ1ZGMTlhS2ZoY0ExeXo4X25UX1k2NnFwdXgybTFtNEtoNlVMSHRlUFExVVZIX1FFelBMMk9jZkEzWmprZEktcTByZUJVcWsxVVE1WG92QjZ3dkhjX25DNFlqS3ZTRXFLSUVjRWpGNHhtdmtlMVdJWEFFZXJoM1RYU2JLS2F5emRFX0w2cVlmRWFZOGlzUQ?oc=5",
    "time": "2026-11-18T00:14:07Z",
    "t_id": "Melacak lalu lintas kapal melalui Selat Hormuz. Diperbarui secara berkala."
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Compare Today's Mortgage Interest Rates",
-   "src": "NerdWallet",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mYUhVU09pZkpOYUR0TEl5M0xtRHZMS082M0Z3LVZrWWJ1NWdTZUlYc25kY1l6N3JtSmliYm52OEdDSy1yUWh0MUtIcWo4Vk1aZWphWmZyTHNMc2pKTnN3TA?oc=5",
-   "time": "2026-11-18T00:00:45Z",
-   "t_id": "Bandingkan Suku Bunga KPR Saat Ini"
   },
   {
    "topic": "indonesia",
@@ -317,15 +324,6 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFV0eGlEeXR4SzNadzhLQk1ZSnJpemtfMURXSElIb200S05JN20xRDAwaWRqS2d4OV9VQlN0czNZZ2hwSDdxVmtjdXFXdFlIWEpEdVpFSmdHd2M0YkhveG1DYXktYnlYLTB4dmpNdC01R2tRdG0wV04zSjRZeE9GdGM4d2hGWUVnOFJBUjJxTW5xVXNhNmxQd0RYc3lKS2dkRWJxWEZPZkNNdTctaFHSAcIBQVVfeXFMT0tZTWlacjFkUGVaZ3NNSWYyTGk0bnc1UTZHdmU5Qjc2a3hoTktrUHhXaDV1eXVlNGN6OHdtWGdIb1l5SXI5RHNnRFh5MElqamVGM3BLUEg0ZWZDODc5OUZNSllNRlhyVmxiZTBmNXpqNXprM2M3ekVGSXZoaFRYRUFXci1MQ0hzZThzbWFiZllkd2w4Ni1kY05lOFZ2aWVSak0zNHlHUVhuSjJibXFDUTVaNGJXQWJ4VU1POFpqZllNMXc?oc=5",
    "time": "2026-11-17T21:14:00Z",
    "t_id": "Kehancuran lainnya terjadi di Wall Street saat Nvidia dan saham AI lainnya yang gelisah berayun lebih rendah"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Oil Set for Hefty Weekly Losses as Tankers Exit Strait of Hormuz",
-   "src": "EnergyNow",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNy1OMWRUbm0xTll4TURfdUllU1JzTFp1WnFUMGRDNkN6RXR3U19DQWV3M3F6S1RtX0NTdjFkWWFOcXgzc09zTlIzZ3Y3NGU2bVJ0WWYxMnhfMmJtTVVaTTBEQ0U2R2VWOVdqZXVDNnIwcWRCVzN1Rm1EaWZpdWtOOTF1akdlbWRBZGJPbmpxRVFyeXBvdlVOODl3?oc=5",
-   "time": "2026-11-17T21:06:04Z",
-   "t_id": "Minyak Menuju Kerugian Mingguan yang Besar Saat Kapal Tanker Keluar dari Selat Hormuz"
   },
   {
    "topic": "emas",
