@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T20:38:39Z",
+ "updatedAt": "2026-11-18T20:53:20Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 23,
+   "sources": 22,
    "recent6h": 3,
-   "score": 24.5,
+   "score": 23.5,
    "level": "besar",
    "first": "2026-11-17T17:29:02Z",
    "last": "2026-11-18T18:09:48Z",
@@ -83,35 +83,63 @@
    ]
   },
   {
-   "id": "siber-202611172153-353b",
+   "id": "siber-202611172153-39f8",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Tech breakdowns, broken down: Air traffic control, banks and security systems outages explained | CBC News",
-   "src": "CBC",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmlMX3ROUXc4Nk9INzFZaFdiSW1XREp5N3FFWFd1aEN4MGZRYkhMTXRKVlBGM3lVX19mVkRXX2lra0lHb1VvenJtSkxNVjhLdmVEdFZkbmdyOW5fX3Vpa1dzTVdQdURERFZaRldNWGNWcEJFaGVjTE96VFQyclhRa2F2NjBSMXUyQ2FIOTJ3Rjg3WEE?oc=5",
+   "title": "Florida DMV Driver’s License Systems Go Down Amid Nationwide Outages",
+   "src": "TMZ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83WVF2OE03VF9uRVMwZjZjOGxNZ2ZWY0oxaW5hZjZSV0laLVp1ZlhIMkg1QWNtUzBaX1JlUHp0SVVlMVZSU21fdm9zWEUtSWtWVFpKdDQ5OUxOelRaeEoyX3Bxd1ZaN0U?oc=5",
    "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
+   "recent6h": 2,
+   "score": 5.0,
    "level": "sedang",
    "first": "2026-11-17T21:53:25Z",
-   "last": "2026-11-18T19:32:09Z",
+   "last": "2026-11-18T19:44:29Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "Tech breakdowns, broken down: Air traffic control, banks and security systems outages explained | CBC News",
+     "src": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmlMX3ROUXc4Nk9INzFZaFdiSW1XREp5N3FFWFd1aEN4MGZRYkhMTXRKVlBGM3lVX19mVkRXX2lra0lHb1VvenJtSkxNVjhLdmVEdFZkbmdyOW5fX3Vpa1dzTVdQdURERFZaRldNWGNWcEJFaGVjTE96VFQyclhRa2F2NjBSMXUyQ2FIOTJ3Rjg3WEE?oc=5"
+    },
     {
      "t": "LIST | A wave of outages hits US companies and government systems in a matter of days",
      "src": "National News Desk",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUd1cHI5ZTlVdjlJMkhnQmZGTzYwYS1Lc3dQTmwzeHQwTzlzR0RoTl9jdjBxazJNWEIwc0tVOXhzY0VuOVV1YnItSkp0VkljQnYzOHR4M1N2MXBkMTUzSU8xcGRuenBuS3kxdjRRSEZyYnlTU1h3aDVvTlhhWngyR01FVGFGZU1ieGhxeGlaWUdELXJVMjJTaHpZc0tMelR2alBxd2o4MEd2QnQxcDV3SkVuVVpQRW5fQlVnOG1WazdWZkJ5VUFIWGtSQ0ZSd0I2Mk56dlFLeE9mazczRlp1TGtjemp6VkV2?oc=5"
     },
     {
-     "t": "Why are web systems going down nationwide? Trump administration warns of more outages",
-     "src": "Gulf Coast News and Weather",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjRycU5WbVFyQU1pUk0yN1RGdEptQ2dFakt2b19FQThhOXAwRU9FX0w2RlFZcG5EUDNyQWliUm5WOVJoc0YxTVp6UzZQUkpOSExVZml0dDV0Tm0tS0N1Z285dnN1V2Q3U1Y0em05NUVHLW9oeXlKUUMxU1g0SndRei1aSWlGREk3dm9OcHM4MHI4QQ?oc=5"
-    },
-    {
      "t": "Trump Says Nationwide Outages Are “Fine” as More Systems Go Down",
      "src": "Truthout",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlB1RnJVMFpoUi1BTzNfdlFWYkt4SEoyVl85QmhJSXY5b1JxUkxxVlQtZE14X1FyS0xLaWNpYnhhLXZ0Y2tPRWhYZkVOYjB3VkE1U3J6MUFFZVhZMl90d0JQOC14cUUxNjRPQ0xkaTdQVHJHTGFOendoa1IxZ1JiSEdfRWQ5WnJYRTV4a3p5Um1SS0p4YnBDVQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611180643-34b7",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Sound Horeg Vs Kenyamanan Warga, Demo JSSC Bikin Kantor Pemkab Jember Bergetar",
+   "src": "rmol jateng",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmxHU2JKbXo4SmNDSFJ0aGxtbnVxLVI5QnBudWRlak12bHNmMDlPZTZPeUJPODhlZUgyQVVucmpQQWVQd3RpTEJJMEhIRVFWQ0hrelRvdm9MbFc0WDNPMUJyTEFRZ0o1cGh4TDlXZTcxeTZfSTRuT3FYSnBZOG1JQzM0RThYZWNwZ1d3cU44WFgzWWgtNzQ0ZlZMUDNFOFBtYXBCZEdwM1hibUU?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-18T06:43:39Z",
+   "last": "2026-11-18T13:54:08Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
+     "src": "Radar Jember",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5"
+    },
+    {
+     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
+     "src": "Pewarta Nusantara",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
     }
    ]
   },
@@ -140,30 +168,6 @@
      "t": "15.000 Orang Ditahan Polisi Prancis Selama Unjuk Rasa Biaya Hidup dan Sekolah",
      "src": "Media Indonesia",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3Q0QmRaUFQyXzdqU1hHTEhjSEtEazhSU0FESUZXUVo5enhNMWZjUkhWYUNKcS1jeVlpQXJZQV9SWmJjaHZHa1BGTVVMWXVnWFBZdkJzWnRZR0VyWVZaTFgwTWxVbjFlWXFxaTBVc24zUjM4anVFRjR3YkxyTC1zYXp2aXIyeTY4RmFtSXhzMmhTQjFYSkM5TjR0dDMyckhRdUxhVk1Dd2luWVdDZ2d6U1NPbXZ4dElrTE5PS0U5MHR0UQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "transportasi-202611171711-b894",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "U.S. Transportation Secretary Sean Duffy blames contractor after FAA ground stop",
-   "src": "CTV News",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlJyQ2wzazBGeWpZbGdCRlNaZFE1Y3pwWnRkSmMySHlWcWpVekJOSWJINjhwNEh5ZnVudzVCN3ZlZUx3d0trS0c0SGhSamRhWVc3ZTNXMlRmOGtEMlg1djhXTDNUQW5EMUtXTU1obDFxM21LakszRFY3dmZkVkt6V1pTdWtMSlVHRWhJR0xvaFZUQ05hTlM5UE02WDJJcFY4MEVjVXBoeTZidVdHdjlVYkI1LWhxQ00?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T17:11:09Z",
-   "last": "2026-11-18T19:59:50Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "FAA signed off on repairs before nationwide ground stop: report",
-     "src": "Seeking Alpha",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5",
-     "t_id": "FAA menandatangani perbaikan sebelum penghentian secara nasional: lapor"
     }
    ]
   },
@@ -211,75 +215,6 @@
      "src": "Bioengineer.org",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
      "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
-    }
-   ]
-  },
-  {
-   "id": "transportasi-202611172045-d165",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Miami Airport Ground Stop Disrupts Flights as Low Visibility Hits South Florida",
-   "src": "Rus Tourism News",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdFRMeXV1NHE0bHR6Tm1VVmh4UEx5Rnh3TUhXcU1IWTZZUE81Y05STjJXSEFCRVRYRFpfRV8wYzVEN1NQN1ZUUlZIR0l3UERYYW44LTdGd1FhbFJGYzktVGdIbS1kTldhUXQtOEV0ZjBTRkJKU2dfS1UzejNETWRVQmw5N0ZlTWxZQzJvRDQydWc3TUZOdWlqQmJlMjhFbURiZGlrbzJ1TTNFVFZTS0UtY2hGNVQyc1Q0VFRhV0RHYw?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T20:45:41Z",
-   "last": "2026-11-18T17:15:43Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Outage math at the airport: When a four-hour Uber beats waiting out a ground stop",
-     "src": "WHIO TV",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3pLOWprVjJkRmpiQ1FDNW5QOXFGeGpCRUtXQ1ZseGtvZWpsVlB4N2dOUWxEWGhJbEZ4S1lUVXRkWVR4dFFRbjBEX1g2THdHUV9sM2Zza1c3cDZEbHhxbUtxendTUzVTOHdQRWVHUUt1aHBYazlSQjBQaG5tZWpPSDRUX2dPVEpYVFHSAZ4BQVVfeXFMTXVMd2FNODEyMVczZTVaNkQ4VjJEbGF2OGpmV25Zc29kVElYV1draFpfLWtEM3REVjlKN2Z5V0VUamcwbXBBVUd2RUduOFRIUEZZcmV0VU9KclowVUNmUnZNcmRaV1RYUGJ6YWdPUkJJTWY0aXRPLUY5NkdGNkRGZzktR2VpNEZKeS1nTVBUdi0xUjlzRGFhdG9iTDdSSEE?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611180643-34b7",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
-   "src": "Radar Jember",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T06:43:39Z",
-   "last": "2026-11-18T11:31:14Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
-     "src": "Pewarta Nusantara",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611180634-87d3",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Kapolda DIY Minta Masyarakat Laporkan Anggotanya Yang Melakukan Pelanggaran saat Amankan Aksi Demo",
-   "src": "Radar Jogja",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWlhjSWt6OERqN3Q2WTRJWnJTcjBIRDl2Ykhyc3lVNXBGdF93QnFLZV83Q2ZkVHp0aUJaUmNURXV2ZGt6NktPRzZrUHJLWG9wYVBvVUJvbmtIV0k3a2pqb3FLemlsZXFUUFZUVmMwVVI1NUNiT3ppaEJZVW1vTmpVVHdOMUFpOEpyTEZSS2tNc2V1ejVqY0hiT0pmQ3kycjBSaWJWMjhFOWxLZHJXNzRhc0w0dlFiSHN6M090VTRMblMta1ZjY01xdllhNzduRHdFZzBpMlpVbmprWkl5OGlaUWtNemVZRTdr0gHuAUFVX3lxTE9NRW80aTcweTM0NFJiX29OMnBMSmhLaVVVNlB5Q3lVODhBMnFwUDVaYzVCNG1oUDZ6b3NDcF9DT3dFSzNhRWR4aHJFSFQzZXoyTDljN3VJRGdRWVZ0YjFmWGNQazliZ05kcTJRVWVwNGl1QkV5a09MdzdEM3poMVRDYmJBYVhvby1zZEJOdjZuMFpwSWVEY1RIMGpaR2owcFRldDJKcVNHcThDS1ZYdnhSN3NFejc1Mkt6MWJJWURpUVNQcFFfX2ZPMUpzYWVIbTVsc0RlaEk3azhDLUZweHFLSHpEdDloTTBDcURJNEE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T06:34:00Z",
-   "last": "2026-11-18T11:19:17Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Puluhan Miliar untuk Amankan Aksi Demo",
-     "src": "Gresnews.com",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUEtUUZ2MTQwM2FheVBVcV9lZGN2ejF0Y2J4MVZYS0RoOWloaVRoaWgzTkhFX3VydTBUZkVvanRlLVBhU0RUTGwxS0I0SE5BcDVIVUo0SHRFbjVFbzl2WU9mek1pNG5DVEZadzZUdFJjOEVPN2tyNFFnVjBYcHE1TG12b3lIdw?oc=5"
     }
    ]
   },
