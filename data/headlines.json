@@ -1,11 +1,28 @@
 {
- "updatedAt": "2026-11-18T19:39:37Z",
+ "updatedAt": "2026-11-18T19:54:16Z",
  "source": "Google News RSS",
  "items": [
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
+   "time": "2026-11-18T19:32:18Z",
+   "t_id": "AS memperketat blokade Iran dengan membatasi pengiriman minyak melalui laut, menurut laporan"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkJIZFgtNWJWZklTaWZPRktNWDBIbVlLVTdSOHZIMm5ibzg1U0dWYXZ4VDF6ZHY1UzRveDhZSmczWEF0aDB0a1pzbVhfanNzZXlILXdSVTVQSjJSV1pPdFFUd092Zmd6S2RfQWhZTUVQbzBUVGF0SmhrMW9QZWNPaHdlWVZNbDUxNGRqa0k3QVJRcHZLeGdTM2djdTBOdkU?oc=5",
+   "time": "2026-11-18T19:16:02Z"
+  },
+  {
    "topic": "emas",
    "lang": "en",
-   "t": "Gold And Silver Prices Tumble To 14-Month Low",
+   "t": "Gold Price Slumps 3% As Silver Also Tumbles: Metals Hit 14-Month Low",
    "src": "Forbes",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYV9xeGNDa05pZm01YW5PZkFlN2s2RnRJUmpvOW5vSmpPdkJFeldGc0VzR1oxS21Ea0VwaDJQRmFLcVBzWkwwTGg3VHRGV2NOTEJONVRMUUhWSW1jci1OVzFCbEFQSzA5NGtPQ2pBaGZnbFdnR0lmemoxQTdoaVRiWG9YdHQ2b2lxMHk5bEZMU29LYzE1ZHEwZXYyTS1DeDVEYlZsRVBaLVVnNHpBdjlRV3U5UV96bG1ueHNR?oc=5",
    "time": "2026-11-18T19:15:02Z"
@@ -45,26 +62,34 @@
   {
    "topic": "bank-sentral",
    "lang": "en",
+   "t": "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
+   "time": "2026-11-18T19:00:01Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
    "t": "Fed's Barr says rate rises likely lie ahead for economy",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm12UHZCU3VxTVdaUEZkTFVrcllfdGw3ejc3STVZM3U0cXByUWR5Y1R3ZDRhZmxQVjNiWXI0Qm9hTURNNlE4YTAxU2hYZVNNSm1JNENPd0tPYlE4VWtNNHZTQTZ5Q1JJMVE2SzYyNTE1UFVjSWRHUlpEZVB0dmhYbzlEdkNzc1dFUmJyaFEtNE42djVKTU5sN1RvZw?oc=5",
    "time": "2026-11-18T18:39:43Z"
   },
   {
-   "topic": "bank-sentral",
+   "topic": "emas",
    "lang": "en",
-   "t": "Fed’s Daly Urges Rate Hikes With a Thoughtful, Measured Approach",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDJGNGRIU0Q3NE5tbW9qVUpjd2NCUTRuZTdERXEwY2Q5bEQtZ1NNVjFLQmwwdnVMRERPSnN4cm1TcXBLRWxDcWtxS0tZdXdBanJVNVhhRVBOVWtKYlplWXFwcHFkUmJTRWtVQjBUaGRZUGpiWU1acVdESEZvck9TSzBiNHVhdk5rNlZDMEpKYk5zS1dxSVpDdGxZWjEyOEJKTTdldVo2Q3Z6dHpPOVF0cWJGSW4?oc=5",
-   "time": "2026-11-18T18:16:35Z"
+   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
+   "src": "StoneX",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
+   "time": "2026-11-18T18:13:47Z"
   },
   {
    "topic": "emas",
    "lang": "en",
-   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
-   "src": "FOREX.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTVYSHdPLUxaS1hTYm53ak1aano2cFhTWGNNNVV1eW9FUFpQTkV6Rm5fVjU0STlBaC1PZmZSTWhMTzVUYWtBdkhZRFJPaHFFdERfcG9TOXlFNExscS1jT0lDTXFkYTJ1V3ctRzRaVDhLc0c4VGJMbTgyT1VhU3JnT2wtajU2YXpURmdDMEUtRWZ5THBZY05Ib3NSOHpsMW1QU3fSAa4BQVVfeXFMUFZDMncwd2dOLVZ3Y2JJV29IZ0lDQlVjRjNtcjNvOVFsVEpVUWp2T2pXczAzX2dJOVNBUVpJWE9hOE9TREhTa1NrREdWU1R2N3Y2aG9ycDItUzhDbDZ2aFhvcmsxQVFXZ2JUd0ItbFE3dXRacHl5ZmRtTW5VeGlILUp5ZzF4c3VZSlZ6cDhQQVRBZkg1T2xwRnVlck83MnJLMmJyM0E0TU1vTDBRaFh3?oc=5",
-   "time": "2026-11-18T18:01:41Z"
+   "t": "Gold price follows the dollar in the short-term, but real yields over the long haul – Heraeus",
+   "src": "Kitco",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnVBVHhjV2JQWDVXRHB1RE53eU5tU1hOeV85c3pxUWtRNGQxdEtQWXRod0EwcWM5MkhVdU5Td3VZaTJtUEl4ZEpZSDcxek54cWFjelBiaFFsa0lBTWo3WnhFS0dyVTRmSGNkamNnZldrbTN3UmsxRkFPQ1YwNy1wbkc2bnFpNlgtQ0pabkhCUklEdktJd1I1VjVsVEFWSVRGY0xfb1lISTU3U1JBSU1rQzczaDJBLVFt?oc=5",
+   "time": "2026-11-18T18:10:14Z"
   },
   {
    "topic": "kripto",
@@ -80,7 +105,7 @@
    "t": "The Fed's next moves come into focus",
    "src": "Axios",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KbmF6LXJjeHdMZ1c5SHl1d0FreWlmM1NHX1NKbkhFR0EzV3NnSXlZaVgyNXNmbGdBeERPQ2xPaUNRN2lhX3VLOTJfaF9XTmpFS3BQcDlfaU9vMExQeEYxbmJ3U1hlYTZOUkNaUw?oc=5",
-   "time": "2026-11-18T17:30:40Z",
+   "time": "2026-11-18T17:48:48Z",
    "t_id": "Langkah The Fed selanjutnya menjadi fokus"
   },
   {
@@ -133,15 +158,6 @@
    "time": "2026-11-18T16:37:47Z"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
-   "time": "2026-11-18T16:35:19Z",
-   "t_id": "AS memperketat blokade Iran dengan membatasi pengiriman minyak melalui laut, menurut laporan"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Nvidia retreats, weighs on AI stocks as strong outlook fails to dispel Huang uncertainty",
@@ -184,15 +200,6 @@
    "src": "Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HYnJzdkJfMXhVWHN3VkhoSkY0NEg0UmtvVDhJYlJJRnR3dnZHYWNOak9JZ0FNek1FLVBRSzZzbmMtcnBKU3UyY1padWhzSmtXcGFNMmhYTUJxMm1PeUF0bnVqNHdRLTV0aWg3TGEyazZfT0JZckhVVnJkNk8yLTg?oc=5",
    "time": "2026-11-18T15:55:26Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Hormuz Strait Will be Open but With Transit fees, Iran Envoy to Moscow Quoted",
-   "src": "EnergyNow",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3lPU1RKempxaTBiT2F2b2QxLU9ROThwLS1nYXNDMG9DbmIzdXV0YVN3dWZzQjlMSjJlX3J3cUxaVXh6REhCS0pwUXpEVXFpYUg0dWpfUmw4dE9kX1hiWVNuWDlnUEJzWlVER0JneEZqcUVXaHQ4b0t5Y2xfWExHSWhDWThrZUJnc3l4TUlCZDM3M0F3ekRNblhLRmdEX25WQjZXRUpvVkhVdw?oc=5",
-   "time": "2026-11-18T15:16:31Z",
-   "t_id": "Selat Hormuz Akan Dibuka tetapi Dengan Biaya Transit, Utusan Iran untuk Moskow Dikutip"
   },
   {
    "topic": "geopolitik",
@@ -266,6 +273,14 @@
    "t_id": "Wall Street terguncang karena Nvidia dan saham AI lainnya terus berayun tajam"
   },
   {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Bank Indonesia Naikkan Suku Bunga Acuan ke 6 Persen di Tengah Tekanan Nilai Tukar Rupiah",
+   "src": "TOPIK.ID",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmN6Y2FyUDcxSkdVUk1Lbi1kT1Y4Wlo1ai1JWUVCd1FGdy1fQ2FVUmNGWVZHZ2ZXVXFEUVNoeDZ6N3hQVHlVTjR6UlNXVy1IM3hPZUhEZ1RicDNWSWhKS3hpMHZQSEh5TjcxSmx5d3F1VFAyeVZSTzRkLWhQWmJ2OTF3QkZHWDBsY3l6QTBCN0dfWXNPWWc4N2w2dEtWMmM5UGc3S0JJNktPc0VoSUE?oc=5",
+   "time": "2026-11-18T12:59:33Z"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
@@ -295,15 +310,6 @@
   {
    "topic": "emas",
    "lang": "en",
-   "t": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "src": "Kitco",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-   "time": "2026-11-18T12:19:00Z",
-   "t_id": "Harga Emas Hari Ini | Harga Emas Per Ons | Grafik Spot 24 Jam"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
    "t": "Gold price today, Wednesday, November 18, 2026: Gold prices open again at year-plus lows, falling further",
    "src": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWXlIT0Z6Y0U2RW5CRUx1d0lnZlMtMkwyQms4VlFSZ1k3OTVRdlQwRzIxaUw1YTM0bm94YlZYV3FIV1lsTng3eEhJSzJzSEpvQlRHSUdGNnZDQ2IteTRUSG9vc3NkbWh6WUdCa2UwNGMtMXJVRmZZWUdJbURaQUZ5WlZodHU5V0lsR2JKSjBrQkRURkExanFHSXprLUc1RmluLWMzX09ZYWU5WWRsZWhpZ25aLWJBX3dDa1gzMjIyQlJVM0xhX1IwREpqbkFUbTE1UnI3LTZZcGdKUE1ZYlEwTG51aU84d1Jyd24zckVKQXh6NjBrLWJoN2owdUN6cTNHd2JQZnFmaw?oc=5",
@@ -318,6 +324,15 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1peHFiRmdpemFZX2tIVHhsYUtQLUZabUpqVUhZRGRzenFBUk51V2t5ZGtXckNwVEtDdWd6M1NJZ2JjeVBUZEtGY2VWeEZiQVEteG1jY3NBR0hqYmMxN2lyNy1SM0pFRWl4U1E?oc=5",
    "time": "2026-11-18T12:00:06Z",
    "t_id": "Saham AI menguat seiring prospek Nvidia menenangkan kekhawatiran permintaan"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mY1gzbld3VGk4Tnc1VUw4NmY0UVc5aXZ6dVVDNWxIVldiWWR0TjBDWGZhLThpTVNGRC1lcmRRSkZqNXFqeDJ0aG1KQXdELTJPVmdyQlJ3c0NSZHc0UGJUV25HT0MtSXI3am9HZElMaE10Yy1P0gF6QVVfeXFMTzVQd2FkT3N5ekNUenZsNl9Bbk9BWEdHempvQ0hURC1UOVQwc3R2c1ptUmxhc1VHcHpRQ3pIS1dGQ0VkeF9uQjF6OGQ5LVlBMVhVUzlTcHJvZDY1Q3VEaDg3WFY3YUZkWWJkZ0VmekZzeFZ4MDdJbHVWRmc?oc=5",
+   "time": "2026-11-18T12:00:01Z",
+   "t_id": "Ketua IEA melihat tidak ada 'jalur yang kredibel' untuk kembali ke keadaan normal sebelum perang di Selat Hormuz"
   },
   {
    "topic": "indonesia",
@@ -367,14 +382,6 @@
    "src": "Kompas.id",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHZaN29zY3UzZS1tSVFDQl9oVW4yZ05CTzl3c2RKd2J2MlNVNWk4WHY4cjhKMkFqUXJQUzM4NHBZLV9LTkJ6VmFFWmlKVDBPcmtIQ29jbkUyMlFaYTR5MkVHQm9RNVRRellfMk9acW1VNE04dTVadnYzb3hYQ2h2bjlGQ2VkNy13Vl9BWHVsVmJBUlNuelV1Q0xnaXJWWGc?oc=5",
    "time": "2026-11-18T10:59:01Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI-Rate Naik Jadi 6 Persen, Bank Indonesia Perkuat Stabilitas Rupiah",
-   "src": "TOPIK.ID",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnNZZTQ5aGhpYllxZUtzRHk0VGVtMEJsQUFyUHNEYTN1cGhNU2Q3VWNTQmRlZkN0bzRLQmFmU1hJT2gtdi1OM1p5MS1Dd2RaTlB3MG9yMnhSc3NuSWZRQ211dUVvTWU5OGJOaUFDU0VBRW1MU1pHYjNCUWUtNjRvMGZxdGJ5c1U3M3hjSGU3TF84dw?oc=5",
-   "time": "2026-11-18T10:54:10Z"
   },
   {
    "topic": "saham-as",
@@ -460,15 +467,6 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazA2c0pSeFJnWDFucVhvb21oUGdoTXZGS05FVEdCTV9zY3VwN2N5VzRqOUZ4eWtKeFBuNl9fYWt0Ykd5NTBNM0JVNUhjd3VxbS0zZGhrUDRuR0d1X0cwbklieHMzZEZUWE5Gdm1yU1FxTVluYXBDMXFvMzZJb0k0ZHNOcUx3anRtY0RIM29LeEg?oc=5",
    "time": "2026-11-18T09:07:27Z",
    "t_id": "Harga emas melanjutkan penurunannya karena penguatan dolar AS membebani sentimen"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Struggles Under $65K as World Bank Explores USDC Rails: Follow the Dollar Liquidity?",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3A5WFJmTFpUdFc0VUFRbldWM2dtNWVYWGY1Mkl6SC1ISC1sR0FRZGhXb3l3S3pFOVRpZHJTOGxGaXdtZGJwdjI4Z3NhMHVaYnBWam8tTUlrOWRtVnE2QVBicy01elZLRWUyRllPbGVRV2xjZU5uV3pHTFVzSDQ1RzlXWnJfLXlVV0R5WHlVUEpIQ2F2STctMkhjRFgtSUE?oc=5",
-   "time": "2026-11-18T08:38:54Z",
-   "t_id": "Harga Bitcoin Berjuang Di Bawah $65K saat Bank Dunia Menjelajahi Jalur USDC: Ikuti Likuiditas Dolar?"
   },
   {
    "topic": "geopolitik",
