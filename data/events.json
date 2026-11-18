@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T20:09:21Z",
+ "updatedAt": "2026-11-18T20:24:00Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,8 +53,8 @@
    "src": "VIVA.co.id",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc0hDN2QwV09YbHdGbkEzaDZ3RkxIdEZFcmxMOXB4WjY1Ql85ZXE3Tm94a0JlTjQtTGZrcDNSV1FiaHFILV9WWGZmdjBWX1dvN1JMTV9xR0thOEpWYm5DSzVRMWpybm9QY2JGcGlIaTkxVERPbWRvWEdNNHU4eFpGSU9TUjlhcmFlSmpvWkhKSkU1RC1tUmczblA4bEQ0MzQ4NnlXYlYycEg5bVVOdWd6blRidURCOFE3YzVPUERha0R1VmRxaS1EQkpiSUJRRE5yWGtXRNIB2gFBVV95cUxPQS1wRngtM1lMUkFYUVNEUnZlZ0lMeG0tVGQ2Smk2X3JMVDZoNU55MjdjZ05RVVk1Tmw2Y3FLSUxuUUI1dUhwQkpaNHFXWnNHdEZLNktGNm1BaFRhaXNyV19aeHg3cHoxaW96cUdMLVgzUy1TOXBJRThNY2NKMU5sb21LWVdCYXdNM0JTQzVkdDk2RVotQ1N0NTRIckFJUG03LU0wWEEwVlZyRG9qbFctYmtDZmxxSDZVeUpkclZtaWs2TGdrMUZnb25WNWdzTlkzTzhXaW05V3JRQQ?oc=5",
    "sources": 5,
-   "recent6h": 2,
-   "score": 6.0,
+   "recent6h": 1,
+   "score": 5.5,
    "level": "sedang",
    "first": "2026-11-18T04:36:47Z",
    "last": "2026-11-18T17:10:00Z",
@@ -83,6 +83,42 @@
    ]
   },
   {
+   "id": "transportasi-202611171711-b894",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "U.S. Transportation Secretary Sean Duffy blames contractor after FAA ground stop",
+   "src": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlJyQ2wzazBGeWpZbGdCRlNaZFE1Y3pwWnRkSmMySHlWcWpVekJOSWJINjhwNEh5ZnVudzVCN3ZlZUx3d0trS0c0SGhSamRhWVc3ZTNXMlRmOGtEMlg1djhXTDNUQW5EMUtXTU1obDFxM21LakszRFY3dmZkVkt6V1pTdWtMSlVHRWhJR0xvaFZUQ05hTlM5UE02WDJJcFY4MEVjVXBoeTZidVdHdjlVYkI1LWhxQ00?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-17T17:11:09Z",
+   "last": "2026-11-18T19:59:50Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA signed off on repairs before nationwide ground stop: report",
+     "src": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5",
+     "t_id": "FAA menandatangani perbaikan sebelum penghentian secara nasional: lapor"
+    },
+    {
+     "t": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
+     "t_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
+    },
+    {
+     "t": "FAA ground stop explained, and how rare nationwide ones are",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
+     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
+    }
+   ]
+  },
+  {
    "id": "kesehatan-202611172044-58e0",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -91,8 +127,8 @@
    "src": "Latest news from Azerbaijan",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hnUHFjOHRTYlUyejZsN3l2Tm9SeElZWlhpZ1BnSUQ0MjM2b2Fkc1lBcFNGRmhOaWJscVpLZjJuaWxGcWIzQTh5dVdDXy1JVktQckNVMXNpXzRZRVNpSkU2Wm1HQU1sZmRWTnJrN3E5eUxNM081RFNKUXN5YVc5Nmx5U0VfUF8xeFZDdWJOSjktZw?oc=5",
    "sources": 3,
-   "recent6h": 2,
-   "score": 4.0,
+   "recent6h": 1,
+   "score": 3.5,
    "level": "sedang",
    "first": "2026-11-17T20:32:27Z",
    "last": "2026-11-18T17:34:06Z",
@@ -112,35 +148,32 @@
    ]
   },
   {
-   "id": "transportasi-202611171711-b894",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "FAA signed off on repairs before nationwide ground stop: report",
-   "src": "Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5",
+   "id": "indonesia-202611180643-34b7",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Sound Horeg Vs Kenyamanan Warga, Demo JSSC Bikin Kantor Pemkab Jember Bergetar",
+   "src": "rmol jateng",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmxHU2JKbXo4SmNDSFJ0aGxtbnVxLVI5QnBudWRlak12bHNmMDlPZTZPeUJPODhlZUgyQVVucmpQQWVQd3RpTEJJMEhIRVFWQ0hrelRvdm9MbFc0WDNPMUJyTEFRZ0o1cGh4TDlXZTcxeTZfSTRuT3FYSnBZOG1JQzM0RThYZWNwZ1d3cU44WFgzWWgtNzQ0ZlZMUDNFOFBtYXBCZEdwM1hibUU?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-17T17:11:09Z",
-   "last": "2026-11-18T09:34:19Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "first": "2026-11-18T06:43:39Z",
+   "last": "2026-11-18T13:54:08Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
-     "t_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
+     "t": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
+     "src": "Radar Jember",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5"
     },
     {
-     "t": "FAA ground stop explained, and how rare nationwide ones are",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
-     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
+     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
+     "src": "Pewarta Nusantara",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
     }
-   ],
-   "title_id": "FAA menandatangani perbaikan sebelum penghentian secara nasional: lapor"
+   ]
   },
   {
    "id": "indonesia-202611172244-a4d7",
@@ -217,100 +250,6 @@
    ]
   },
   {
-   "id": "kesehatan-202611172004-a5d4",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "U.S. Officially Loses Measles Elimination Status as Outbreaks Continue",
-   "src": "Johns Hopkins Bloomberg School of Public Health",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSlNmMnhaUjB3NnR3QmdDVDZvZktvZWNIU19aQ2VzQ01UZHFhWUduZ29XZWM3Q09kY2Y1bGlQb3EwRzBmS1I5NkkwNmdYVmN6TUY0Y0tQWjgtaUNBTWhmeDE1eGRoNE9QM1pfRUt4bV9tdWpackg3WUVLVGtPRXlzWmd4aEEyOUNpQXBzSDVR?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T20:04:37Z",
-   "last": "2026-11-18T16:33:36Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "The U.S. loses its measles elimination status as outbreak rages on.",
-     "src": "Northeastern Global News",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc2dfOEIwamZpZVNETnl3eFpiMl8zTE9rdVNrTUFHYWZsNFE4M21SaW5wM0d4YVJZYklVZ1RnNzhEeVI1Q0ltZkJpVW8zMXpxaTBFZVNMOFFGNl9semNjc3o4eUpXalEwWTJSakRSSzFVZkxMSVZlU0FxWkVsX05zbC1uaw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611172035-5af5",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T20:35:00Z",
-   "last": "2026-11-18T14:40:41Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Tech blackout? Outages hit banks, airlines and government agencies",
-     "src": "NewsNation",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazhKY0FTLUU5aGctWVdVWWFxSTA2U2ZMelRuMnlVZEtyVG42bmpoUXhXR0NQMHJWX0ZIZmxnTlZfZzA2UjJsOVlKVGpmcnE0QXJuUmZMTUJPS21CMWJsZEc5UXAxOXJWcVJidEdkVTYxWF9pNXEwRHlSUlZUdWllSTh6VTJJSk1nTU8yNzFEeDQ2dE9pR0VTR0RIXzhOX3R1aWxj0gGoAUFVX3lxTE5xUWE1X05WVm05VUUwUFI2TjV5T0ozU29BV3FEQUdwQUFXMjV3cXZneHdCS19ubzNyaWFGcENMZTFrLURLUWNkRS1jV2JFRUZyeVdfcnBvYXpsaVRCUGhjUEE1SnE5NUZoMGtwNTdVMGpBU3BXM0dRN09qR3djQmxpRVg2ZWpFVEFUZk1ENjJRRlFBVFJwX2hMZTZLOU1qQVJ0YW92TTFQeQ?oc=5",
-     "t_id": "Pemadaman teknologi? Pemadaman listrik melanda bank, maskapai penerbangan, dan lembaga pemerintah"
-    }
-   ],
-   "title_id": "Pemadaman listrik yang meluas menimpa bank, perjalanan udara, NSA dan Apple, sehingga mengganggu segalanya"
-  },
-  {
-   "id": "indonesia-202611180643-34b7",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
-   "src": "Radar Jember",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T06:43:39Z",
-   "last": "2026-11-18T11:31:14Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
-     "src": "Pewarta Nusantara",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611180634-87d3",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Kapolda DIY Minta Masyarakat Laporkan Anggotanya Yang Melakukan Pelanggaran saat Amankan Aksi Demo",
-   "src": "Radar Jogja",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWlhjSWt6OERqN3Q2WTRJWnJTcjBIRDl2Ykhyc3lVNXBGdF93QnFLZV83Q2ZkVHp0aUJaUmNURXV2ZGt6NktPRzZrUHJLWG9wYVBvVUJvbmtIV0k3a2pqb3FLemlsZXFUUFZUVmMwVVI1NUNiT3ppaEJZVW1vTmpVVHdOMUFpOEpyTEZSS2tNc2V1ejVqY0hiT0pmQ3kycjBSaWJWMjhFOWxLZHJXNzRhc0w0dlFiSHN6M090VTRMblMta1ZjY01xdllhNzduRHdFZzBpMlpVbmprWkl5OGlaUWtNemVZRTdr0gHuAUFVX3lxTE9NRW80aTcweTM0NFJiX29OMnBMSmhLaVVVNlB5Q3lVODhBMnFwUDVaYzVCNG1oUDZ6b3NDcF9DT3dFSzNhRWR4aHJFSFQzZXoyTDljN3VJRGdRWVZ0YjFmWGNQazliZ05kcTJRVWVwNGl1QkV5a09MdzdEM3poMVRDYmJBYVhvby1zZEJOdjZuMFpwSWVEY1RIMGpaR2owcFRldDJKcVNHcThDS1ZYdnhSN3NFejc1Mkt6MWJJWURpUVNQcFFfX2ZPMUpzYWVIbTVsc0RlaEk3azhDLUZweHFLSHpEdDloTTBDcURJNEE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T06:34:00Z",
-   "last": "2026-11-18T11:19:17Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Puluhan Miliar untuk Amankan Aksi Demo",
-     "src": "Gresnews.com",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUEtUUZ2MTQwM2FheVBVcV9lZGN2ejF0Y2J4MVZYS0RoOWloaVRoaWgzTkhFX3VydTBUZkVvanRlLVBhU0RUTGwxS0I0SE5BcDVIVUo0SHRFbjVFbzl2WU9mek1pNG5DVEZadzZUdFJjOEVPN2tyNFFnVjBYcHE1TG12b3lIdw?oc=5"
-    }
-   ]
-  },
-  {
    "id": "indonesia-202611180614-7d16",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -379,31 +318,6 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlB1RnJVMFpoUi1BTzNfdlFWYkt4SEoyVl85QmhJSXY5b1JxUkxxVlQtZE14X1FyS0xLaWNpYnhhLXZ0Y2tPRWhYZkVOYjB3VkE1U3J6MUFFZVhZMl90d0JQOC14cUUxNjRPQ0xkaTdQVHJHTGFOendoa1IxZ1JiSEdfRWQ5WnJYRTV4a3p5Um1SS0p4YnBDVQ?oc=5"
     }
    ]
-  },
-  {
-   "id": "siber-202611171550-7a26",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzlLcDdqRnN3R1BCUzdfblFWaTZKdEc5ckZldXJ0MGVTdmlLNmdCdWZuWTZqVFdyOUJMN29oSE9VcF9lY2x6cDlWN21lSk1FSnEtZjFGcHRjXy10N0ZWVU9yWC16SkNaZkFXc210em5ockpfZDlKQ0xKQXotaGRZOThOT1lsYk5wY2swMnBQSERBTE5OcElWN1pTdnBJUFF0RWZMSEpIRTd1bUxhcjUtQWxia9IBuAFBVV95cUxNUkI4OHV1OUZJWW1TSFVBc251dG5CTWg4QXNWQmNKNmlqd3gxd2RHVDJrQ1RramtrLUFpZDh3UHFTVmZvWHU4UkxUR2dfeXNVSVFDOUs0YXBkN1BOZFpKRWVobjFGNnlfbzQ1VHNad284QXZiYWYxSmV4ZktLVXNRUjVDbEFSSUZucDg0SFdCVVBRd2ZSaXdqSV9nTkIxTE0yVVEwaG16RlJ3Q2tFYzdObWlvQjNNNkh6?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T15:50:25Z",
-   "last": "2026-11-18T01:16:19Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
-     "src": "ABC7 Chicago",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
-     "t_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
-    }
-   ],
-   "title_id": "NSA mengaitkan pemadaman jaringan di AS dengan aktivitas ‘pemeliharaan’ rutin"
   }
  ],
  "errors": []
