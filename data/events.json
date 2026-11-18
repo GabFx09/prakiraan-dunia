@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T08:45:04Z",
+ "updatedAt": "2026-11-18T08:59:43Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 29,
-   "recent6h": 13,
-   "score": 35.5,
+   "sources": 28,
+   "recent6h": 12,
+   "score": 34.0,
    "level": "besar",
    "first": "2026-11-17T07:21:47Z",
    "last": "2026-11-18T08:13:11Z",
@@ -33,14 +33,14 @@
     {
      "t": "Bahrain and Kuwait repel drone attacks after US strikes Iranian island",
      "src": "South China Morning Post",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVTh0TWdIQVlsZEw0U1d5LTR1YnF0WEJ3WU03S3ctV3VzbFk3LXhmelcwVnRKUEp6ZmltcWhSaEFBYVo5eEx6dzU0Tml0aEpydkxJMnA5eEFvUFBySS1UcjZ6VGRKZ2pVQm05c0NrVGFFcUp5OFZWWjF1ek5QcWsyQVlxbVE1ck5Hamp4Rkx5QmRfZF90QjM1ajNsX2FPOTdyRmlGQVVjQXd5bDllQTZOWmJHclVBQW5EME1uMWJLdGo4aFBENUlCTk5R0gHKAUFVX3lxTFBzWTN0QnJPRHBlcTYxejZhbm5ROXZVSUQzZGQ4ekxSMEVDYVUzc0tuM2VOd1d2dTJPQzhwLWJzMXRwSnR0S3dJQVI2bE8wUE9nS1RpaGxuQ1lMNmJZOWNYZHAyV09wRXJXRTl5T1ZEMmFHdi1uQ1paTzVLdlU0Umg3X2p4aHV4b2s3bmVTVXVqeDc1WUFiZmtaZVRUZ2RjalJUUmNMeDdaazNod3dFZFVyRjNSdkstdnlRNEdiYkZsQnZSYktCV0FFWHc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVTh0TWdIQVlsZEw0U1d5LTR1YnF0WEJ3WU03S3ctV3VzbFk3LXhmelcwVnRKUEp6ZmltcWhSaEFBYVo5eEx6dzU0Tml0aEpydkxJMnA5eEFvUFBySS1UcjZ6VGRKZ2pVQm05c0NrVGFFcUp5OFZWWjF1ek5QcWsyQVlxbVE1ck5Hamp4Rkx5QmRfZF90QjM1ajNsX2FPOTdyRmlGQVVjQXd5bDllQTZOWmJHclVBQW5EME1uMWJLdGo4aFBENUlCTk5R?oc=5",
      "t_id": "Bahrain dan Kuwait menangkis serangan pesawat tak berawak setelah AS menyerang pulau Iran"
     },
     {
-     "t": "War, latest news: Iran launches drone attack on US base in Kuwait",
-     "src": "Il Sole 24 ORE",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGRsRDJlcGR5MzRLOElRUXBCcXY5SFFTS0M5YUp0RkhmUjJtSjN2Q1liaW92dUkyWS03T0Jac3k2c2dGNy1BRmM1QXVoTjBCWDFDRjRoQjFrU0NuV01iRk1MNFpRUmJKQnQ2TG1HWTdsVXN6RG0xZ2F0YjhoOFd4SnZjcWxqOHIyX202Mlp1X0lFdw?oc=5",
-     "t_id": "Perang, berita terbaru: Iran melancarkan serangan drone ke pangkalan AS di Kuwait"
+     "t": "Iran Drone Attack Targets US Military Base in Kuwait",
+     "src": "Khaama Press",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LVDlFN3N6LVliR0Mtd1gwdUhjZVBJUzJaRkhuNmFJSnpGZjAwbGZFRFgwaUJIams5RlNlMzlwSE4zTHpEbGhQN1RwOFllSUVsSU8wLS1YazN1dVY3bnNOZ1Rlcw?oc=5",
+     "t_id": "Serangan Drone Iran Menargetkan Pangkalan Militer AS di Kuwait"
     }
    ],
    "title_id": "Iran mengatakan tentara menargetkan situs drone dan rudal AS di Kuwait ketika serangan Teluk meningkat"
@@ -53,20 +53,14 @@
    "title": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
    "src": "ABC7 Chicago",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
-   "sources": 8,
+   "sources": 6,
    "recent6h": 0,
-   "score": 8.0,
+   "score": 6.0,
    "level": "besar",
    "first": "2026-11-17T15:50:25Z",
    "last": "2026-11-17T23:02:15Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
-    {
-     "t": "Classified US communication network back up after outage hit system",
-     "src": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY2pLM2tRU2VEaElMS1hhbXNvLUNjR1RDdks2NnlhT2FVWU9ObTlfZ3JsbDc0bE5fN3hYVHNEQUx6UmN6Z0psZVJCakZldUtvemFwX0l1QURxVzJtRHZPRWRQT284eDdoZkNOTllTYVlWaHhMblN2MG1SNlZUSHFLZVFMYmV1eHhyWWJ1VDNqR1BLbkNKblN0WnZVOThHNkRjazQzSW9TRm5aMjc1Sk1QdDJJeTdCWkNTX09qNWlKRFFHUVJuSTloV1Nn?oc=5",
-     "t_id": "Jaringan komunikasi rahasia AS kembali aktif setelah sistem padam"
-    },
     {
      "t": "How to Tell If It’s a Cyberattack or Just an Outage",
      "src": "WIRED",
@@ -80,10 +74,16 @@
      "t_id": "NSA Down: Juru Bicara Mengatasi Gangguan Saat Serangan Siber Diabaikan"
     },
     {
-     "t": "NSA's highly classified communications network disrupted by widespread outage",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDLSAa4BQVVfeXFMT0lwZjRuaUlFN0hObHBJdTYwRjQ2NnpDaGhLdTd0bUJMMzZoUVZ5NjljcGJRZ053dHhpdUlBS3VpcnpCSGZYNC04akllRndxOWlvYk1JSHZGMF9US3JPekN2dGl4YXRYdy1wLVcxaHJXQ3NwOExJS29iMGpxaUVaM2JDNGxiSmdKNi1hSlU4bkx2Z3F6Sk9tTGdFdUhFeDF5TUs0ZktpMUM5WUN6VHdB?oc=5",
-     "t_id": "Jaringan komunikasi NSA yang sangat rahasia terganggu karena pemadaman listrik yang meluas"
+     "t": "In Yet Another Outage, the NSA Is Down",
+     "src": "The New Republic",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVlTRUk2ZkpKeGZjQ3NnTTdpNjJ0NXBIQlRTR2lFRFpndkctRFNwbm5JaDFHUnhjblljajBMRVFTd203WC1EbUk1R3M3dkN4MkhrQlZNdzJiNHJoMFlhYVB1SHRpRnZRajFDMUJJMlpNWGNEOEhVeXUwaXFXM1lxdHRmQ25VOG13blJuZDk0MA?oc=5",
+     "t_id": "Dalam Gangguan Lainnya, NSA Jatuh"
+    },
+    {
+     "t": "NSA's Top-Secret Communications Network Down Amid Nationwide Outages",
+     "src": "TMZ",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUSm14UUtNUDNJZVp0cGtKV0FsTkg3N3VEeFdOTTJ3SlVTek84MjJNWWRZMkppTHR4YmFHRlpLMlQ4UlBlckdIZm8yUUFFMGFzaExLYVdZb3prazVoNFVwV3dMR1o3UEdXclJwVG5rYzZTeGNCWVNSLTFBdElJblZn?oc=5",
+     "t_id": "Jaringan Komunikasi Rahasia NSA Mati Di Tengah Pemadaman Nasional"
     }
    ],
    "title_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
@@ -124,6 +124,49 @@
     }
    ],
    "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
+  },
+  {
+   "id": "transportasi-202611170707-4213",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-17T07:07:22Z",
+   "last": "2026-11-18T00:18:16Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA halts installation of new routers linked to Friday's airport ground stop until root of problem found",
+     "src": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTR0ckZsWmlQeF9Oc2NNbi10NWtIdWd3OWZ4bVNmZWczc0lYVE9PR09WNG0yTWFCay1uZ3BJUXVVeUg0NDRCYjVnaU5fa0FhLVpXRF9EbTlraGR2WmFNT2RGYXB6RTdOLWxWNUVzWEcyZ0dQaGFrVFRTa1hoZVZNcUR5U2tKNkxFLVhTNWUyMGNwNmx3TkE?oc=5",
+     "t_id": "FAA menghentikan pemasangan router baru yang terhubung ke ground stop bandara hari Jumat sampai akar masalahnya ditemukan"
+    },
+    {
+     "t": "FAA ground stop explained, and how rare nationwide ones are",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
+     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
+    },
+    {
+     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5",
+     "t_id": "13 Senator AS Meminta FAA untuk Menjeda Penggantian Router Setelah Ground Stop Nasional"
+    },
+    {
+     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
+     "src": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
+     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
+    }
+   ],
+   "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
   },
   {
    "id": "indonesia-202611172244-a4d7",
@@ -177,52 +220,9 @@
     {
      "t": "Mahasiswa UGM Ditetapkan Tersangka Demo Ricuh 10 November",
      "src": "Suara.com",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTDNjeEs5S2xpLVpDYjB6Qy15X3JTRnRmSkM0N19yQmc3N3hSbVJGMmFZLXVwcU11bmlYNHZNS1ltWkd2TTlYNWVzSGh3eU5YVUNCUzN1b3F5dmtOWnRQUTFNZWdZMU1YWXJ4QkFTNGJJRUhBYWxlTlJRMUdYMHJFMjNNWm40by1QQ3JmX2p4WDRHdnJHTkRKMEh0V1FOUXF0VGxKVdIBpAFBVV95cUxNTDNjeEs5S2xpLVpDYjB6Qy15X3JTRnRmSkM0N19yQmc3N3hSbVJGMmFZLXVwcU11bmlYNHZNS1ltWkd2TTlYNWVzSGh3eU5YVUNCUzN1b3F5dmtOWnRQUTFNZWdZMU1YWXJ4QkFTNGJJRUhBYWxlTlJRMUdYMHJFMjNNWm40by1QQ3JmX2p4WDRHdnJHTkRKMEh0V1FOUXF0VGxKVQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlqVlRZdGhQQlhHRWN0WUtzV09QUTdxcFE0dEMwTWE1dmZFNTgtVkxjdEM0VXh0eEQyZXBtN3JDNTNWR19ycnpFLS1KV3RQRlVfdk90b2gyUUhkM0ZfMWJnSHJ4UzRIc3VaUnZHRUYtcE9hTW1GMlNVY0pRRHUwSThCYmhnUjZZX0FGTS13bFpHQlBWRXhPeHVhTmZ3bnYwOW5XVg?oc=5"
     }
    ]
-  },
-  {
-   "id": "transportasi-202611170707-4213",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
-   "src": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-17T07:07:22Z",
-   "last": "2026-11-18T00:18:16Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "FAA ground stop explained, and how rare nationwide ones are",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
-     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
-    },
-    {
-     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5",
-     "t_id": "13 Senator AS Meminta FAA untuk Menjeda Penggantian Router Setelah Ground Stop Nasional"
-    },
-    {
-     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
-     "src": "Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
-     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
-    },
-    {
-     "t": "United Passengers Stuck Up to Eight Hours on Chicago O'Hare Tarmac During Nationwide FAA Ground Stop",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ea0hkV09FbVdURnN1dlVpbXlDUXZoT0NRLU80d0NScTVtT3RlQ2lHUkprTmRhZ1ZVeHlfSUs3amYyMEdYMXIxX2J1cVAtWGpPV1MwSVd3elNock9GWmJuUGtWeWRoaXVlSF9XT0Y4aTRBX00?oc=5",
-     "t_id": "Penumpang United Terjebak Hingga Delapan Jam di Chicago O'Hare Tarmac Selama Ground Stop FAA Nasional"
-    }
-   ],
-   "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
   },
   {
    "id": "politik-202611171504-369e",
