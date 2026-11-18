@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T15:06:15Z",
+ "updatedAt": "2026-11-18T15:20:56Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -139,8 +139,8 @@
    "src": "London Evening Standard",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
    "sources": 4,
-   "recent6h": 2,
-   "score": 5.0,
+   "recent6h": 1,
+   "score": 4.5,
    "level": "sedang",
    "first": "2026-11-17T14:29:30Z",
    "last": "2026-11-18T12:40:35Z",
@@ -317,30 +317,54 @@
    "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
   },
   {
-   "id": "politik-202611171811-cac8",
-   "cat": "politik",
-   "label": "Guncangan politik",
+   "id": "kesehatan-202611172044-58e0",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Sweden sets Christmas deadline to form government or call snap election",
-   "src": "Operativ Məlumat Mərkəzi",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemE4Q2R2X21lZ21WUzkySWJ1TVBJM21fbzdTN0J2VERGcVg0SnZjWlc2a3NVcVBOQW1ERzZucUxDOHJIbVRBUWlpaHB6M0VjQUJ2R2ZGdXlOV2pPV2lSM0pZUXFLc1pTUzI3OUxrQVA0VGZRdE1JaldFekUzVFo0QldSZzd4Njg2UzkwU0J5c1NvdTgwaUh1cEU4NV9hZC13UTY1Q1h3SFU2NGM?oc=5",
+   "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnVFWmxYR3UxLWQxSjM3TmhQaEVyWWR2UVNoQXVkNm5xZnNTQ2FPb190dTROUk1KbW1FZ3RwOXV2NjE2Z19jYUs0dmJGaFNYX1F6ZkpqOFJqd21mNW1wb1FzTjVuc2ljTkVJc1BKUXJqVzZTbGxmaGtNczRHU3BBeDJuRXhPbGJPT0JvTnlCbFQ?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-17T20:44:22Z",
+   "last": "2026-11-18T14:12:45Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
+     "src": "Bioengineer.org",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5"
+    }
+   ],
+   "title_id": "Wabah Ebola di Kongo: Bagaimana Ketakutan dan Ketidakpercayaan Mendorong Penyebaran Masyarakat"
+  },
+  {
+   "id": "indonesia-202611180840-f820",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Peternak Solo Raya Rusak Kandang saat Demo Harga Pakan Naik, Bagi Ayam dan Telur",
+   "src": "TribunWow.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGdoWjNINWRzOUNQc0p5dElFMUNxZHZnb2Z3V1dhc2JHWVc1OG5ST0JFeE03cHluc2xOU0pBcEJtaUVkcEpLVDV3anBrRzJDYmp3QVBURDlCRmpHcmhpWW1Oel8zWDNoR0puMV8yNGp6TUlxa3BITTloUE96b3lVZTFQdGl0YTlTRWNsbDlRM3V5cXdzQmZsall3SUNtejc3eU1HeUxLTWdLZlU0ZXAybUJoNEFpRkdwZkE?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-17T18:11:47Z",
-   "last": "2026-11-17T18:15:36Z",
-   "assets": "Mata uang & obligasi negara terkait",
+   "first": "2026-11-18T08:40:29Z",
+   "last": "2026-11-18T08:41:02Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Sweden sets Christmas deadline for government formation, or call snap election",
-     "src": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEFwa1gxRUMzejdWSGozd2tJUjJUTllUQl9MRE5sTkFTMjZPM0xjYzRTWnFmVDFPY0RwOW91VDZqYW85cE43YVZTZm91T0dyQU52enF1ZWd6QnFFb004ajhENkRhcjFFa1ZrUXRVU3ZiS2NKcmowMzh3bWI1VWY4eE5MYXl4TWtpLVZDdUctUFZHV3BEeFlsX2hJc3Bwa3lzYkZmc3JWVHppaVVENGFEM2s1ODhKYzBL?oc=5",
-     "t_id": "Swedia menetapkan batas waktu Natal untuk pembentukan pemerintahan, atau mengadakan pemilu sela"
+     "t": "Peternak Ayam Demo Hancurkan Kandang",
+     "src": "MerahPutih",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkZNU2thdi1aQ2cwMWhGUVRuZFNvR2VhdGFBaHA2MHQ1X3B4Vi1GUlNuYjJZMjA2MW9seGRPSUZreDNfQ1dYTzhScjBJdTFqT0xtb0N2WEhPX1ItM1VDSVFwSnR6VEJxWEFnOGZRejFfc0tEa0ZXREdFOFVjNkw0Y1QzZVlkRUM3ZmVfSUttVDJNUXdGMjVhX0VHRHRTZUtlZlowTlpzQXNNd9IBqAFBVV95cUxOSWU2bl9rUVdyLWM0aURtRWpIZ3E2NThVVEZVQUUwekR5RHJXTUkwdTVuRlg5NlRlTmx6aHpXTG82ZDJtbVFjRTFPUXV3ejJXOXd1MGJyRk1WbUluc05mWmdwdjZSQWZ0QzhRSXhBbGItSEd5VEhwRWZHZHVwWmlzTDBxZjJoMmhIaGVSVTZVN2tZMnhLN1M5UTU0VmpEdjl6aEttaExhel8?oc=5"
     }
-   ],
-   "title_id": "Swedia menetapkan batas waktu Natal untuk membentuk pemerintahan atau mengadakan pemilu sela"
+   ]
   }
  ],
- "errors": []
+ "errors": [
+  "politik: HTTP Error 429: Too Many Requests"
+ ]
 }
