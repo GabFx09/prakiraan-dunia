@@ -1,23 +1,29 @@
 {
- "updatedAt": "2026-11-18T00:58:47Z",
+ "updatedAt": "2026-11-18T01:11:53Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
-   "id": "perang-202611171943-6582",
+   "id": "perang-202611171943-77eb",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "U.S. Fighter Jets Strike IRGC Missile Site on Qeshm Island After Drone Attack on U.S. Base in Bahrain",
-   "src": "Breitbart News",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVEY0RWZ2MTdDU2czTWFjR3pXSHRNVEpuSGJYSkNKOWNxRHdOamRUZkN1aEs1T2JrUU5feTRGTVhGRVNmeGl6MmZUb3lIUFdqbXdmaXNIdzM2alZlblZ3bERjUUVJbFY1ZWVSaFNaUGJSbnYtMkZlcmNnWXZJaFI0TzBHOHhXdHRiX0xHS0ttSHVHWjBEdHEtTnFEOHJ1b2xmS0YyVW5zMHZNSm1NTW1vaUNWQTFpLWo5U1ZBbUE0WEVZMXBUTFY3OG5GMER6b3ZaMnpJM2t4dEFlakQwUjdr?oc=5",
-   "sources": 11,
-   "recent6h": 11,
-   "score": 16.5,
+   "title": "US carries out ‘self-defense’ strikes on Iranian missile launch site",
+   "src": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Vb0RmWXNaMXVnWXAxb0ZrSUlJWU8wOU9TMXJ4NFljc3FiVzBhWm1CcHRMMWRvN1haNkk3OXU3TWsycUtyQnA4MEVqSkpYNk1JWVJ2U2w0LWg1cjVaLXFuV0NnQm9GenJyUDRONGF3c3VYMG9qM0dz?oc=5",
+   "sources": 12,
+   "recent6h": 12,
+   "score": 18.0,
    "level": "besar",
    "first": "2026-11-17T19:43:02Z",
    "last": "2026-11-18T00:21:01Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "U.S. Fighter Jets Strike IRGC Missile Site on Qeshm Island After Drone Attack on U.S. Base in Bahrain",
+     "src": "Breitbart News",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVEY0RWZ2MTdDU2czTWFjR3pXSHRNVEpuSGJYSkNKOWNxRHdOamRUZkN1aEs1T2JrUU5feTRGTVhGRVNmeGl6MmZUb3lIUFdqbXdmaXNIdzM2alZlblZ3bERjUUVJbFY1ZWVSaFNaUGJSbnYtMkZlcmNnWXZJaFI0TzBHOHhXdHRiX0xHS0ttSHVHWjBEdHEtTnFEOHJ1b2xmS0YyVW5zMHZNSm1NTW1vaUNWQTFpLWo5U1ZBbUE0WEVZMXBUTFY3OG5GMER6b3ZaMnpJM2t4dEFlakQwUjdr?oc=5",
+     "t_id": "Jet Tempur AS Menyerang Situs Rudal IRGC di Pulau Qeshm Setelah Serangan Drone di Pangkalan AS di Bahrain"
+    },
     {
      "t": "US strikes Iranian missile site after Tehran targets Bahrain radar system",
      "src": "India Today",
@@ -35,15 +41,9 @@
      "src": "MLQ.ai",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMjRBalJpV1NPaXc5a2lhUVJWcktUdExFSXdOcTRqX18zU0xnZ3RyOEFVWkNLUVBqM1dFR2VmaFlfaUNNMHEzX2NuU0dneV9MZHJDQzhLbVB1Y25MMW4weXI1aWltSWMzMlRic2xkWUdTeV9XMHl4M0NBU3d1SW9ub1dZcWZWVmFEM21OX3poekVuLWhMdU5sTi1YbjVNREFaUFJFcGd1ekcxdVU1cmpiT1dIWExzS3poTlA4OUZHZVpFRUJtTmNsUHgydk80QlZEc01USQ?oc=5",
      "t_id": "Jet AS menyerang lokasi peluncuran rudal Garda Revolusi di Pulau Qeshm Iran setelah serangan pesawat tak berawak ketiga di Bahrain"
-    },
-    {
-     "t": "US jets strike IRGC missile site on Iran’s Qeshm Island after drone attack on Bahrain",
-     "src": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2lUaXU3NGFmUm1fa3k2NmhrYjdkN3NZZndsNFFCQ0FkbE9DVmVLM29TTEJPYUctMXloTDlhRHExZFEybGg5WEFIZFg3WE9Md1ZwYWdtRTMtLUhTbU1HeGdlNjhORGloQmlGTHZNT0xqY2pqY1pXWGhXZlNLUk9RamtSMkRhbXplNDlmNTRBeG1xOUF4dGx6a3lDOFZCR1BUOTZOejVYS1htZGRMRUJ0SmlPUmRvMS1YRjBfVGNGZ1dBQVRvRUpr0gHaAUFVX3lxTE9NYXZ5Wmd0TURlMHJCSk9aRzEyS2tZRjJVYTNjd0g3bWpHdWdpbTdjczZnYmhRSXZpUW4xeExVdFgwYVdtWF96OHl2TlNTdUV6endNbzJXd3l0TllvQmZXLUhVWXpZZ2RQN0Y4Qm51SGx3VlUzV01raVlFVGlUSmtrU05JbmdsZFMzZ3dITFJjUlg4NTdlRjE2SFZMdFlrQlNoZ1dRZ2l6c2MzWDFlWkMtenNPZDgwdTJON1Y1c0VvXzA4YXF4SXRWOHE2Y0g0czVZVU93TTBrN1V3?oc=5",
-     "t_id": "Jet AS menyerang situs rudal IRGC di Pulau Qeshm Iran setelah serangan pesawat tak berawak di Bahrain"
     }
    ],
-   "title_id": "Jet Tempur AS Menyerang Situs Rudal IRGC di Pulau Qeshm Setelah Serangan Drone di Pangkalan AS di Bahrain"
+   "title_id": "AS melakukan serangan ‘bela diri’ di lokasi peluncuran rudal Iran"
   },
   {
    "id": "siber-202611171550-7a26",
@@ -89,47 +89,47 @@
    "title_id": "Apakah NSA sedang down? Pemadaman jaringan komunikasi NSA, pemadaman Apple, pemadaman Chase Bank menimbulkan kekhawatiran; tidak ada bukti serangan siber"
   },
   {
-   "id": "transportasi-202611170425-4213",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "perang-202611170849-3a79",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "FAA ground stops explained: who orders them, why, and how rarely they cover the whole country",
-   "src": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3AteWE2ZjIzSFJvTVJ6bGo1dThpdk9oZHM4OGdDbGd5MmVoN3hHTHRvejVpTTZmMlBTNjNHRDdMeS14LTU4RjJIR2ZVQzZtSWtpMkU5VWtZaWg4V2dOelFVQ3RGLS1nZE5kN0NGWHFEUk0?oc=5",
-   "sources": 5,
-   "recent6h": 3,
-   "score": 6.5,
-   "level": "sedang",
-   "first": "2026-11-17T04:25:12Z",
-   "last": "2026-11-18T00:18:16Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
+   "sources": 6,
+   "recent6h": 2,
+   "score": 7.0,
+   "level": "besar",
+   "first": "2026-11-17T08:49:30Z",
+   "last": "2026-11-18T00:59:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Flight status tracker: How to check online after FAA grounds all flights",
-     "src": "Mashable",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDBuWnRiRGdCdmt4X0h6azFIM0pnWkJWanNFd1BxX21vNWxiU2lPdjZZRDZNM0x6SUxjMEhkOEdJRDNDT2xJbWdOa0kzOUZOWnJNYTdoTHRiOV9aMnVJZFg0YlhDQl9XdXAtclhtbEw2bUlrS2tsSWIxVXVrSEF4N3J3cVBiY0hycjRkZHY5OA?oc=5",
-     "t_id": "Pelacak status penerbangan: Cara memeriksa online setelah FAA menghentikan semua penerbangan"
+     "t": "US Strikes IRGC Missile Site on Iran's Qeshm Island After Drone Attack on Bahrain Base",
+     "src": "theopenpress.in",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMVM1SG1uSnA0ek10Q0piREtlSmg0eHdNUXUyY3pjSFRxdXRTZ0Vva2NrMldobGV6QzJxamxFcjVmbTRiczBramRNLXJjdDcyY1pxN2lMN0ZFcVB3Q2FMejNwb0FrYXRhOGxBUVhfTGxZSnVDUFNNSXdlaERZMHpKc3QxM0E1bU1Qb24yUHY2TXBuU1VvVlFtN2NxTjVaRmRt?oc=5",
+     "t_id": "AS Menyerang Situs Rudal IRGC di Pulau Qeshm Iran Setelah Serangan Drone di Pangkalan Bahrain"
     },
     {
-     "t": "FAA ground stop explained, and how rare nationwide ones are",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
-     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
+     "t": "US strikes Qeshm Island after Iran drone attack on American base in Bahrain",
+     "src": "Iran International",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDUnVoMFQ3TkFacGRPa3k5aWhaZ0h2aTg0ZGdtdFUwWENhUjZiMFk0RDYwMGdJNHdPOTBkNVlDWFBueXpMcmJNM0pLczV1VEVRS1E?oc=5",
+     "t_id": "AS menyerang Pulau Qeshm setelah serangan pesawat tak berawak Iran di pangkalan Amerika di Bahrain"
     },
     {
-     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5",
-     "t_id": "13 Senator AS Meminta FAA untuk Menjeda Penggantian Router Setelah Ground Stop Nasional"
+     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
     },
     {
-     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
-     "src": "Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
-     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
+     "t": "Iran live updates: CENTCOM says drone attack on Bahrain defeated 'without any damage'",
+     "src": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0hhZW9id2pDWkhhN2RjWHBGdlI3eUZHWjJVeVdabEZ2bmR2NURNVzg0M25PNjVOdEV2VnpRbFViYmp0TFpramdxc05vb0RnMGRBbmRJQlhmb0pHTy10S0VVZlNpZWJpVFlMZmE0cFNlUHE5Yl9ZMC1CcjZyTGpzV2N3dkE4aTN2cTh1LU9tQ2p5RlZY?oc=5",
+     "t_id": "Pembaruan langsung Iran: CENTCOM mengatakan serangan drone di Bahrain berhasil dikalahkan 'tanpa kerusakan apa pun'"
     }
    ],
-   "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
+   "title_id": "Kuwait melaporkan serangan pesawat tak berawak seperti serangan perdagangan Iran dan AS di Qeshm dan Bahrain"
   },
   {
    "id": "indonesia-202611170348-3581",
@@ -170,41 +170,47 @@
    ]
   },
   {
-   "id": "perang-202611171943-6582",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "transportasi-202611170425-da2e",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
+   "title": "Flight status tracker: How to check online after FAA grounds all flights",
+   "src": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDBuWnRiRGdCdmt4X0h6azFIM0pnWkJWanNFd1BxX21vNWxiU2lPdjZZRDZNM0x6SUxjMEhkOEdJRDNDT2xJbWdOa0kzOUZOWnJNYTdoTHRiOV9aMnVJZFg0YlhDQl9XdXAtclhtbEw2bUlrS2tsSWIxVXVrSEF4N3J3cVBiY0hycjRkZHY5OA?oc=5",
+   "sources": 5,
+   "recent6h": 2,
+   "score": 6.0,
    "level": "sedang",
-   "first": "2026-11-17T12:27:54Z",
-   "last": "2026-11-17T23:41:52Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-17T04:25:12Z",
+   "last": "2026-11-17T22:30:04Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "US strikes Qeshm Island after Iran drone attack on American base in Bahrain",
-     "src": "Iran International",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDUnVoMFQ3TkFacGRPa3k5aWhaZ0h2aTg0ZGdtdFUwWENhUjZiMFk0RDYwMGdJNHdPOTBkNVlDWFBueXpMcmJNM0pLczV1VEVRS1E?oc=5",
-     "t_id": "AS menyerang Pulau Qeshm setelah serangan pesawat tak berawak Iran di pangkalan Amerika di Bahrain"
+     "t": "FAA ground stop explained, and how rare nationwide ones are",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5",
+     "t_id": "Ground stop FAA menjelaskan, dan betapa langkanya hal tersebut secara nasional"
     },
     {
-     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
-     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+     "t": "13 US Senators Ask FAA to Pause Router Replacements After Nationwide Ground Stop",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEc3l5UktiRTJGNjVyNER5VDk4eF9CdWJnQVh2Tk9ZNEY3LW9fdUR6S2NDSGZucmlSWnpqOXlIb0ZiRGZvYXFoNVJUR3lZN1VORzJNei1UMFY3Q1gzTzBBNm5BWjZUMUpWUnlkZ0p2THJCM28?oc=5",
+     "t_id": "13 Senator AS Meminta FAA untuk Menjeda Penggantian Router Setelah Ground Stop Nasional"
     },
     {
-     "t": "Iran live updates: CENTCOM says drone attack on Bahrain defeated 'without any damage'",
-     "src": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0hhZW9id2pDWkhhN2RjWHBGdlI3eUZHWjJVeVdabEZ2bmR2NURNVzg0M25PNjVOdEV2VnpRbFViYmp0TFpramdxc05vb0RnMGRBbmRJQlhmb0pHTy10S0VVZlNpZWJpVFlMZmE0cFNlUHE5Yl9ZMC1CcjZyTGpzV2N3dkE4aTN2cTh1LU9tQ2p5RlZY?oc=5",
-     "t_id": "Pembaruan langsung Iran: CENTCOM mengatakan serangan drone di Bahrain berhasil dikalahkan 'tanpa kerusakan apa pun'"
+     "t": "Trump Takes “No Responsibility” for Largest FAA Ground Stop Since 9/11",
+     "src": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSERuNzJ1UTROWDBzdTBBcXFWSHNSQWFHcVMwRHM5RWNMbHJwRlBESVM0dnZ2aHhsRzR3ZWpXRk56MWE1TDBOMEtjdEtOY1VPa2pFRkZmUDNGcWVlTFF0V3BSSmxILWFabk5YdGl6WmNEYnFucV80cjJJeGxycS1WY2VRZU0wcEVfeW5maVFEMHh4WV9aTktVZkdBdVNHQ2hUYmJiVEJ3MEhYYU1ZLTFQS1Vhak44QVNTY1E?oc=5",
+     "t_id": "Trump “Tidak Bertanggung Jawab” atas Ground Stop FAA Terbesar Sejak 9/11"
+    },
+    {
+     "t": "FAA Clears Its $875 Million AI System After Ground Stop Grounds 10,000 Flights",
+     "src": "Travelers Today",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWNRUjlHTnI2eGZyR0FuM3QzV2I2VndNSkxRZ0FpRjhhWnBJYl9uS2VJcHphdVJ6RXBZZ3dyWEdUS3lud2I2NUtaRGtjYVpHTFZ2eThjXy1Nb0VMTUl2U2tlWHBlbHNkRHA4Rlh5TEN2ZXRNbkRyVXRqWC1Sc2dEdUF0XzM2dUZHOVBnTmR3cExsaUVPN2JwSEpEV0F0QVREd0xydHkxbmVSdlh6aWZnczZBRlczS2NNN1UzRW10azVGQkVCckZPMXNRS1ZyODho?oc=5",
+     "t_id": "FAA Menyelesaikan Sistem AI senilai $875 Juta Setelah Ground Stop Menghentikan 10.000 Penerbangan"
     }
    ],
-   "title_id": "Kuwait melaporkan serangan pesawat tak berawak seperti serangan perdagangan Iran dan AS di Qeshm dan Bahrain"
+   "title_id": "Pelacak status penerbangan: Cara memeriksa online setelah FAA menghentikan semua penerbangan"
   },
   {
    "id": "kesehatan-202611171452-0a8e",
@@ -380,6 +386,37 @@
    "title_id": "Penumpang United Terjebak Hingga Delapan Jam di Chicago O'Hare Tarmac Selama Ground Stop FAA Nasional"
   },
   {
+   "id": "perang-202611170452-a411",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Drone attack on Moscow: Russia says it downed 1,441 drones overnight",
+   "src": "Around Prague",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUXVxeW1OeDd1ZXYyRWxycUNSMUNJaXdXeUZ4cEV6NUdjNEdxQUVFbTJpTEsxYzFPS2ZGUkJxMW1yWjYteVYzenF1WFZydGJPVzlzZ0pmQ3plT0ZZLWlveERrUDVmOENMQlFITGY2dEk5QkJpV01aWFlxT2ZVd2FfRWhFTFdQZmZoN1NBZkNZZkRuSHdKcGtFX0gtSTVVb1pxU2hlbGM3MUV4cnd0MjZZTzdwY2RUZEw5UjAzUUp2UnIwZw?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-17T04:52:48Z",
+   "last": "2026-11-17T09:36:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Russian forces launch large-scale drone attack on western Ukraine",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2REbWFRUnZpVFdoQWRZYVVPNk1oTFBUQ0o3ZUVacExPRU5taHRrZHlEeGFvaWlKNGhNTzBzY2ZMWGc3R0lFMXBpbXh6VTA4RXdhV0NLOTdYTjhCektMVFRFUDFNaDR4SklqVVlDalJxcTJEZFJFQlpOWGF0ckVRVXdCOHZRWmVWbWlmS1lfcXRzTzJmZVpGdnRQQ0lKak55cWfSAZ4BQVVfeXFMT2pyWmFaN1BoRm5SOXJmR1VlTHM0VzFtQTZMOEM1eTExc0pIQ2JRTm03eFVhNFJLR3JtM054emFhR0VPNVVVMndzdl9FOUJGQVh2YlBTWEhWYnpqRVk2ZWdRcVk4dUZ5ZGkyMU1XOS1fMlVFOC1iSEFYanU3VmFyaFRwN0JVWDJya1BxWUlaWUJkbjliTC1lVzR0S01iUnc?oc=5",
+     "t_id": "Pasukan Rusia melancarkan serangan drone skala besar ke Ukraina bagian barat"
+    },
+    {
+     "t": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPai1fWEE1OVItb2RjUm50NlFNZW5BYkhLWW1hM1I2NXJDZDEtMkVkdVZBb3pQcEloTVNxemlRRElRRFprZ1h6MDlSaTdkdjBqcGgtSjFlWnFNQldOYnBJNTdvemlIa1NZZF94NGNacnFrQnh3NTJ5TVNuTDZpZDhtcHJYY3g0MGotQ0Zyd3hjZFItdWxRYWlnbXRCSTZ6YTd2cDdGeGk4MGp0WGlIZko2SllzbU0xSkpG?oc=5",
+     "t_id": "Ukraina melancarkan serangan drone terbesar terhadap Rusia sejak perang dimulai, menurut data Kementerian Pertahanan"
+    }
+   ],
+   "title_id": "Serangan drone di Moskow: Rusia mengatakan telah menjatuhkan 1.441 drone dalam semalam"
+  },
+  {
    "id": "kesehatan-202611170230-58e0",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -403,6 +440,31 @@
     }
    ],
    "title_id": "Wabah Ebola di Kongo: Bagaimana Ketakutan dan Ketidakpercayaan Mendorong Penyebaran Masyarakat"
+  },
+  {
+   "id": "transportasi-202611170746-ac47",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "London Heathrow flights cancelled amid US air traffic shutdown chaos",
+   "src": "London Evening Standard",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-17T07:46:11Z",
+   "last": "2026-11-17T18:40:35Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+    }
+   ],
+   "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
   },
   {
    "id": "siber-202611171818-dc8e",
@@ -478,31 +540,6 @@
     }
    ],
    "title_id": "Swedia menetapkan batas waktu Natal untuk membentuk pemerintahan atau mengadakan pemilu sela"
-  },
-  {
-   "id": "perang-202611170452-79fa",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russian forces launch large-scale drone attack on western Ukraine",
-   "src": "The New Voice of Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2REbWFRUnZpVFdoQWRZYVVPNk1oTFBUQ0o3ZUVacExPRU5taHRrZHlEeGFvaWlKNGhNTzBzY2ZMWGc3R0lFMXBpbXh6VTA4RXdhV0NLOTdYTjhCektMVFRFUDFNaDR4SklqVVlDalJxcTJEZFJFQlpOWGF0ckVRVXdCOHZRWmVWbWlmS1lfcXRzTzJmZVpGdnRQQ0lKak55cWfSAZ4BQVVfeXFMT2pyWmFaN1BoRm5SOXJmR1VlTHM0VzFtQTZMOEM1eTExc0pIQ2JRTm03eFVhNFJLR3JtM054emFhR0VPNVVVMndzdl9FOUJGQVh2YlBTWEhWYnpqRVk2ZWdRcVk4dUZ5ZGkyMU1XOS1fMlVFOC1iSEFYanU3VmFyaFRwN0JVWDJya1BxWUlaWUJkbjliTC1lVzR0S01iUnc?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T04:52:48Z",
-   "last": "2026-11-17T09:30:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
-     "src": "DD News",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPai1fWEE1OVItb2RjUm50NlFNZW5BYkhLWW1hM1I2NXJDZDEtMkVkdVZBb3pQcEloTVNxemlRRElRRFprZ1h6MDlSaTdkdjBqcGgtSjFlWnFNQldOYnBJNTdvemlIa1NZZF94NGNacnFrQnh3NTJ5TVNuTDZpZDhtcHJYY3g0MGotQ0Zyd3hjZFItdWxRYWlnbXRCSTZ6YTd2cDdGeGk4MGp0WGlIZko2SllzbU0xSkpG?oc=5",
-     "t_id": "Ukraina melancarkan serangan drone terbesar terhadap Rusia sejak perang dimulai, menurut data Kementerian Pertahanan"
-    }
-   ],
-   "title_id": "Pasukan Rusia melancarkan serangan drone skala besar ke Ukraina bagian barat"
   }
  ],
  "errors": []
