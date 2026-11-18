@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T22:06:11Z",
+ "updatedAt": "2026-11-18T22:20:48Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Worst-Case Scenarios: Analysts Talk $50K, $40K and $10K",
+   "src": "Cryptonews.net",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5laFZXdTVZU0RwM3BnQnV5ZFc3NXJ6a1JHMlhNZ1Zfbjl1V29RSUdHX3pLREowOVhVSnAyVlhoVGNFcVc0VHMwRkk1QUJGeTlubVpvY3dqaUs?oc=5",
+   "time": "2026-11-18T22:16:36Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -27,23 +35,6 @@
    "time": "2026-11-18T21:18:57Z"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "US Stock Futures Rally as Nvidia Results Ease AI Trade Worries",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRi1ZbVpsWDREeUZoOV8tRHkxLVZ2WnNtaFdXWENZbkVWVHRITUNZRmFFX1V1X2RCV1ctdWFBMk14emVFTEl0eDV0cERXU0ZmN3A5NnphRDZkU3FEdmpCSXpJRU5HMnFHbENrbmhoYkhsX2VIZUxrU0VlUTUycFo0a3l0UFoxaEVOS2ZxaGxwRmdRd3lJSktTZy14VUdRTVJCNlVTb3BmZW44ankzblhKWFZ6dw?oc=5",
-   "time": "2026-11-18T21:13:26Z",
-   "t_id": "Saham Berjangka AS Reli seiring Hasil Nvidia Meredakan Kekhawatiran Perdagangan AI"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia retreats as strong outlook fails to dispel uncertainty",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
-   "time": "2026-11-18T21:12:47Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Price Today: Gold Falls 3.26% on November 18, 2026",
@@ -60,6 +51,14 @@
    "time": "2026-11-18T20:59:22Z"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Fed Minutes Show AI Fears and That a Bigger Rate Increase Is Still on the Table",
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnp0Q0Ewb2RJLVdrQ3ducVFvam9tbmJHNE1FbU0wcXBGeVdDajlJTWNIVFFrSXRkM0EyYXRaeW4tdnVydTE0VmlCZng4dk0tZHllUHZzWTZMb3Nzd2hHdFYxRFJhVGhoUzdpcjZYRGJJRFhJb0Q5YlVjal9PQl92NElXRW81YmdFYWJQenRjWQ?oc=5",
+   "time": "2026-11-18T20:41:00Z"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Iran says three oil tankers caught fire in the Strait of Hormuz",
@@ -73,7 +72,7 @@
    "t": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
-   "time": "2026-11-18T20:11:02Z"
+   "time": "2026-11-18T20:35:00Z"
   },
   {
    "topic": "saham-as",
@@ -86,34 +85,26 @@
   {
    "topic": "bank-sentral",
    "lang": "en",
-   "t": "Fed’s Waller says officials may need to ‘shock’ with half-point rate hike",
-   "src": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56MzFOekFrVXJIek1aZU85UGZhODU0T056cDY0c3FrOG5HaE9pV3dUVTNxQTJHZFRVY3p6YVJjWHAyRnZ3NWJWaU5KN1NjY1hWdEZjSkU0SkJydXdBcHFpUDBnWTQ3M1lEQ3g3ZDhzZHjSAXZBVV95cUxNSEdoRmMxXzBYczExWUl6RkpiTFZSbDN1Q0xZV0dpWmxDMHlJMlh6MDVaNFQ2cmdFVDR4WmVaQUdpYjM0bWozRUN0ZmwzUUFOdkdvdk8zc2dOTGxMT1NRNVF0Wk1UUy1IX2ZMTmdVa0xOYnNJNUxB?oc=5",
-   "time": "2026-11-18T20:10:00Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
-   "time": "2026-11-18T20:00:21Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
    "t": "Fed Officials Expect Further Interest Rate Hikes After Pausing Last Month",
    "src": "Realtor.com",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1NVM253a3BDMGlBLWUtZHhkUnpOTWg2RHA0cDFpVUNKcGttaWdDVkhxdkowNWJxWEFybW92enZkaGVndlc3dGpJZWQ0STZoZlFsYXBIOFBJNGpIR1hpRHVpUnplbm1udUVLa3Zid1RNOTc3Skhjc2szMVhDMnpETWtiUDN2eVZnUmtZaEtickF0eVRQaE9sSkMxMWZpSTRU?oc=5",
    "time": "2026-11-18T19:58:44Z"
   },
   {
-   "topic": "saham-as",
+   "topic": "bank-sentral",
    "lang": "en",
-   "t": "Wall Street mixed after Nvidia earnings, Fed minutes",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-   "time": "2026-11-18T19:40:52Z"
+   "t": "Fed Officials Saw Higher Rates Ahead When They Held Steady Last Month",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX01kNDVqdGtHNWs5RVhUbkRTbUdMd1hkWDBJU0x6NVdIWVptS0tJTk1GR1dnajI5Z19HNlppb2ZhWVpWVnQ5eUxXSko1VVl3bERZbVV1enFVWFhsd3ozMDAtQ0RXYjZtX25DRm9QTzRqVFQ2MmdMMk5yeGluNGhjMEpJU1lZWG5DSVRQdzg1UHc2SzM1cWFVXzh6b2Q4YTY2T1NjWHBOU3RQLTg2cFVkSldPSUx2VjhjM0p0OUZESQ?oc=5",
+   "time": "2026-11-18T19:41:00Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+   "src": "Boston Herald",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jTVYzVnY5bnVGUnlsSzdwbWZhMHlNemE3Ui0ta3pob05SdlduTFlVSVh5bTkyMHluZkp2NGhuS0ZkYnNtYkc2NFRIYWljNFV5WjVXWklQV09McE1leHh3YkNEMmxpU21PZERsX2FVUnFuZ19xS2EzWk92eHU?oc=5",
+   "time": "2026-11-18T19:37:48Z"
   },
   {
    "topic": "geopolitik",
@@ -125,30 +116,6 @@
    "t_id": "AS memperketat blokade Iran dengan membatasi pengiriman minyak melalui laut, menurut laporan"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-   "src": "Orange County Register",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DV2JSX3o5Y0lFRUVZdzlGSF90ajdUOGREUDBaZHprMXZGSktVVHV5ZDJSR3RzU1Jld1QybzJhNDgwY0pCeERJb3FQVkRMUWNJc2tWeDcySG5xbm16a0R2NV9Va3hjYnJ6VlhIRWdZM1NMaHFJU21DUUV3?oc=5",
-   "time": "2026-11-18T19:31:14Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
-   "time": "2026-11-18T19:18:51Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Minutes Show a Bigger Interest-Rate Increase Is Still on the Table",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnp0Q0Ewb2RJLVdrQ3ducVFvam9tbmJHNE1FbU0wcXBGeVdDajlJTWNIVFFrSXRkM0EyYXRaeW4tdnVydTE0VmlCZng4dk0tZHllUHZzWTZMb3Nzd2hHdFYxRFJhVGhoUzdpcjZYRGJJRFhJb0Q5YlVjal9PQl92NElXRW81YmdFYWJQenRjWQ?oc=5",
-   "time": "2026-11-18T19:16:00Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Price Slumps 3% As Silver Also Tumbles: Metals Hit 14-Month Low",
@@ -157,12 +124,12 @@
    "time": "2026-11-18T19:15:02Z"
   },
   {
-   "topic": "ai-teknologi",
+   "topic": "bank-sentral",
    "lang": "en",
-   "t": "Nvidia's $130 Billion Forecast Sparks Fresh AI Stock Rally",
-   "src": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVJPRGw3aUhuR1UyX01wWUdFallBblpMeFkyUTBIUG5HTV9BS1NIa2c5Ri05QlFyTFBsc1k0SmNwR3ZaS1k1WHAtV0hfeU5uNmZCdHUzdWtYamFObldud0JtUXZaN1VUSFo5bk1OUlk1blowZklmeEg2SjQyWjUyU0w2STlja1Z4eDUwbG5iOS1CajhTRktkSEpmVi1oVkRaRU84OXRaZ3piU0hfc1VHZWN2VEl2YXlZ?oc=5",
-   "time": "2026-11-18T19:05:35Z"
+   "t": "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
+   "time": "2026-11-18T19:00:01Z"
   },
   {
    "topic": "emas",
@@ -190,21 +157,20 @@
    "time": "2026-11-18T17:57:43Z"
   },
   {
+   "topic": "china",
+   "lang": "en",
+   "t": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
+   "time": "2026-11-18T17:23:46Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Hari Ini Melemah 1,07% Usai BI-Rate Naik ke 6%, BBCA dan EXCL Kompak Melonjak",
    "src": "Ajaib",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUFKMlVNLUdqUmxNZGsyc2JoYUVTUjdFRUxCRmR1UXliVnJXVXJsTnkxNEV2RXdzR0t6RXhLaV9QdEYtY2U4c2N2RVZ3OVlkeFIyVUJOdDBzcGRRV0ZKNFc3NDhzOEpRYmdEOWRtNjZDWC1HUDBpYjdmdlFPWkVoaV9rcHppRWxmREZGY05B?oc=5",
    "time": "2026-11-18T17:22:58Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "CryptoQuant says bitcoin is back in a bearish phase but has reached a 'value zone'",
-   "src": "The Block",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBtamhER2IwUk1GU3dDMnh1c1hrQmxDSE1TeVdDYU5YR1M3X3hjOU9FYVhmMUNwUk9sanhSSW1wUmNkYlhVUWNDejlQUkotNmV1cTdXMWo3SWZSLUNCNUl1SWszWUljZFQyTTNmSXlVeldaN19nSGNQbDJ0YUE4R1Y2NkZnMm13MURnUzNNbGJfekZObUxkXw?oc=5",
-   "time": "2026-11-18T17:13:00Z",
-   "t_id": "CryptoQuant mengatakan bitcoin kembali dalam fase bearish tetapi telah mencapai 'zona nilai'"
   },
   {
    "topic": "indonesia",
@@ -217,11 +183,19 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "Hormuz Strait Will be Open but With Transit fees, Iran Envoy to Moscow Quoted",
-   "src": "EnergyNow",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3lPU1RKempxaTBiT2F2b2QxLU9ROThwLS1nYXNDMG9DbmIzdXV0YVN3dWZzQjlMSjJlX3J3cUxaVXh6REhCS0pwUXpEVXFpYUg0dWpfUmw4dE9kX1hiWVNuWDlnUEJzWlVER0JneEZqcUVXaHQ4b0t5Y2xfWExHSWhDWThrZUJnc3l4TUlCZDM3M0F3ekRNblhLRmdEX25WQjZXRUpvVkhVdw?oc=5",
-   "time": "2026-11-18T15:16:31Z",
-   "t_id": "Selat Hormuz Akan Dibuka tetapi Dengan Biaya Transit, Utusan Iran untuk Moskow Dikutip"
+   "t": "Iran Ratchets Up Threats Against US, Amplifying Global Oil, Natural Gas Vulnerabilities",
+   "src": "Natural Gas Intelligence",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSDNxeFNWTmVaWEZ6eEp0QlB4M3hUcVhnQnNlRmNTcTk5ZnZCcElXa0FVVm9kM1FBdkdLY0hiYWMwOHVMQmpqaENaNVBFSEFtekU5YU9RNDJkNEFKQUxNOUxnWUxQQjVGTEJXa2EyeVBJX0F3dy1MRXNXOUJ2b0RkR0FyZlJCcjNYNkdqSkxKRXVBZHRPUG02TE9tZEFTeXVyeGNBbnRTS3I3M1o4bS1pXzRCUzdQQ3JuanlB?oc=5",
+   "time": "2026-11-18T16:37:00Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold and Silver 'Can't Find a Floor' as Waller Calls for Fed Rate Hike",
+   "src": "BullionVault",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG1PTzRTaDdGTFl0dDhWSVRRRTBjZmQtTWNZTGlCNnM0Q0YzM014dTkycjVOVWZiOS1nRWZQSUlmNkc1YUdBNUZoalEtSW9zMS1MX1Zod3lRRnltWjY0NVNCY3U5Vllld0g5cldYdkRCUVNaZlVLNnpQdnFVTFBzb2VIVV9fVVlNeG1YWnRhSlNubm9tTHhZ?oc=5",
+   "time": "2026-11-18T16:00:16Z",
+   "t_id": "Emas dan Perak 'Tidak Dapat Menemukan Dasarnya' saat Waller Menyerukan Kenaikan Suku Bunga Fed"
   },
   {
    "topic": "saham-as",
@@ -276,15 +250,6 @@
    "t_id": "Harga Bitcoin Diperdagangkan Mendekati $64,000 saat Waller Fed Mengangkat Setengah Poin"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "The 3 Best AI Stocks to Buy Now (Yes, Nvidia Is One of Them)",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2lIN3NYUWZiUGNDU2lOcVgxUHZheVI0STc3MXlReVZ0NEllc3ktenRlUXZQT0g2T1VrN1JlLUJXMzlObUxKUkJxRW0tMWdwdDU0RjROVWJaUVJSM3RIRTBpSm1uS25rQW95Nm96NGVJRXJlUUZBOXdERGc0bTdsRTFZVWh6MU4tZ2RXY3dn?oc=5",
-   "time": "2026-11-18T14:04:02Z",
-   "t_id": "3 Saham AI Terbaik untuk Dibeli Sekarang (Ya, Nvidia Adalah Salah satunya)"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Current price of gold as of November 18, 2026",
@@ -292,15 +257,6 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13QlJrYVU5UGJsSmZfeF9TdkZUMlJfS1JVdUN3UjhfYlptcDRVeWJhSVZSc3VxZHRRdXkyclJmY2k1TEt4Zm9PZXBKcHNWeFlUM09WV0N0OUZSZXRhRHJwblRHcEstay16NFNFaUhB?oc=5",
    "time": "2026-11-18T14:01:00Z",
    "t_id": "Harga emas saat ini per 18 November 2026"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall Street wobbles as Nvidia and other AI stocks keep swinging sharply",
-   "src": "WRAL",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2VZNFg2WkNHMlctMmtDODJ4bzlRS2JtZl9mdkFRSXA1UTBwQzAxaVphZUEtRkpDU21KZVlSRG1ZdVcteW1TeEZ2c0NYd3VFQ0VueEhjS25JMXVnMTItU2tKSmdJRHBWWENlaXFLSlhYaGJxSVRjdXBTR2F6bndQNW51YXNGdDM4VWIzaWpfcGpHcndpdGY1cm1OejgwLW8tQ0ZkVFVqU09TZFdP?oc=5",
-   "time": "2026-11-18T13:52:13Z",
-   "t_id": "Wall Street terguncang karena Nvidia dan saham AI lainnya terus berayun tajam"
   },
   {
    "topic": "china",
@@ -353,15 +309,6 @@
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWXlIT0Z6Y0U2RW5CRUx1d0lnZlMtMkwyQms4VlFSZ1k3OTVRdlQwRzIxaUw1YTM0bm94YlZYV3FIV1lsTng3eEhJSzJzSEpvQlRHSUdGNnZDQ2IteTRUSG9vc3NkbWh6WUdCa2UwNGMtMXJVRmZZWUdJbURaQUZ5WlZodHU5V0lsR2JKSjBrQkRURkExanFHSXprLUc1RmluLWMzX09ZYWU5WWRsZWhpZ25aLWJBX3dDa1gzMjIyQlJVM0xhX1IwREpqbkFUbTE1UnI3LTZZcGdKUE1ZYlEwTG51aU84d1Jyd24zckVKQXh6NjBrLWJoN2owdUN6cTNHd2JQZnFmaw?oc=5",
    "time": "2026-11-18T12:15:13Z",
    "t_id": "Harga emas hari ini, Rabu, 18 November 2026: Harga emas dibuka kembali pada posisi terendah setahun lebih, turun lebih jauh"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "AI stocks rally as Nvidia outlook calms demand fears",
-   "src": "Wichita Eagle",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1peHFiRmdpemFZX2tIVHhsYUtQLUZabUpqVUhZRGRzenFBUk51V2t5ZGtXckNwVEtDdWd6M1NJZ2JjeVBUZEtGY2VWeEZiQVEteG1jY3NBR0hqYmMxN2lyNy1SM0pFRWl4U1E?oc=5",
-   "time": "2026-11-18T12:00:06Z",
-   "t_id": "Saham AI menguat seiring prospek Nvidia menenangkan kekhawatiran permintaan"
   },
   {
    "topic": "indonesia",
@@ -479,15 +426,6 @@
    "time": "2026-11-18T09:35:00Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold price extends downward move as stronger US dollar weighs on sentiment",
-   "src": "Traders Union",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazA2c0pSeFJnWDFucVhvb21oUGdoTXZGS05FVEdCTV9zY3VwN2N5VzRqOUZ4eWtKeFBuNl9fYWt0Ykd5NTBNM0JVNUhjd3VxbS0zZGhrUDRuR0d1X0cwbklieHMzZEZUWE5Gdm1yU1FxTVluYXBDMXFvMzZJb0k0ZHNOcUx3anRtY0RIM29LeEg?oc=5",
-   "time": "2026-11-18T09:07:27Z",
-   "t_id": "Harga emas melanjutkan penurunannya karena penguatan dolar AS membebani sentimen"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Trump faces escalating oil crisis over Iran blocking Strait of Hormuz",
@@ -503,7 +441,66 @@
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnNOaGl5M2hkclpyeEhyU3FobThUWkRqeTNNd2pBeEpWNjl3cXFOZW1mQWQ3ZnB0d0tXZUQyYzdfRjJfZUhzdHdVV3lyNDQxTmNPTklncVNMbHM0MFVnQ0Y1d0I1ZmJjUkEzc08zOFNTWkR0c3BSZjBCbTA2c1ZEWEdZbnlwT1U4Z2ZXMXI2WHpJdVI3V0pvYllJazlvbmk5OV9YZkxB0gGrAUFVX3lxTE91czVRci10REsyQ3o3Tmg1Rk11RUxKWG5DdmhxU0taN1NCamNVbGhLTndHMmU1X0xQRzlzSGFETHpKd2J0Q1JjSFpSZkdxMS1WSjBsbi1vQjhCSWRTMG16SVBwWTdabXhfdXV1YUxTYWFLUklsdmRuVTdxV1NiUG91ZEFvVkFQei1ZNUIxUFZoak5tNjNSMy1lVC1TeVB0UzRFcmlxWk5oelcwOA?oc=5",
    "time": "2026-11-18T08:26:51Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Rupiah Indonesia Menguat setelah Bank Indonesia Memberikan Kenaikan Suku Bunga 25 Basis Poin yang Mengejutkan",
+   "src": "www.fxstreet-id.com",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQemdGR2RIaDNyLUQ5VERFeXYzWHp4OGNtWnBkengyUWd4alVBVnE2dWRlb3k5ZHVmSXYzSEFReG1rcWRnWXFhVkNLM3pSXzBYX0huZ2REbG9kUkkweHppekhHTllaQVZxclQzQnNrZlZJQ0ZjNHlhTXUxbkZ2ZEFUQ3gxM2M0Y2ViYXJFZG81dkxVTGd5RmNFajBCM3lpQ0xGQmZoOXdEQnZqY0RuX0V1TEtpWURTZEFROWRhS0dBYWdZYWpDczMwd2dCV0FkQXhCaExpcEZuWXVid0p4ZlZqR0hteFFMSDUwWU4w?oc=5",
+   "time": "2026-11-18T08:19:44Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Naikkan Suku Bunga Acuan Jadi 6% di Tengah Pelemahan Kurs Rupiah",
+   "src": "KONTAN",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcklSTERhZ09JZnJaRnJzZUpNVk5fSTB3Vld2Z1NOU2RwUWFaM1JYbHNBckZjcHNrQmhlMndFd3NFcVNFT1lPTDUzYk5ncVEzaFJTZnAtQXdGazJVbHRpSFc2YmhaTmVRXzFIZHlQdGtzaDlYcE41M21ZeUh6R2h5V0JGd1NvQ2gtbGFta2J5UjdHR01idVJNRHUyTFJPbzlNU2c?oc=5",
+   "time": "2026-11-18T07:55:07Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Mengurai Dampak BI Rate Naik 6% Terhadap Rupiah dan Kredit Masyarakat",
+   "src": "https://janalokajournal.id/",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54dENHUFMwUmJ6Ul9mS2tNYjBzc2lReXBad3ViVHFqbDVvV2RjQW81ZDRHWmJxbFAwcjdYWUdpVll3Uy13TTNnY0g3RU5xZzgyeDJqZk9McGRSMVlveDdiTHBOZDlldlprdW82aW9OZkl1cFU?oc=5",
+   "time": "2026-11-18T07:48:30Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Bank Indonesia Naikkan BI-Rate ke 6,00%, di Atas Ekspektasi Pasar",
+   "src": "www.fxstreet-id.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmFLOUpFbDZqYlJweVVqcE1hdDhTanNGNDh5cWhUR0xSR2ttcS01eUp1S09DLVdfS2d5akJPdFRFeTNvNmQxay1GTXhpUXJIanhBUHdPWUEyNE1rUGx6LUJuVlRXWURLeUxIakJEY3l4WTIwV29FamVZVUo2NmR6OVI4Wi03T0FkWjhzUUpuSjhoSk5XY3oxQXZBTUlHZ2huY2lyLVByZnZUWTdHTVE?oc=5",
+   "time": "2026-11-18T07:42:26Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Jaga Rupiah dan Inflasi, BI Naikkan Suku Bunga Acuan Jadi 6%",
+   "src": "DDTCNews",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM01XQXVBS25idmc1VzVfX1dZOHpKeURiVXc1cXZNelNabGxhWGtQYy0tRThmZm1lTWRELThHbkp5UllYVTVLc3JGRFhJcVR5X00zTnhyNVlGb204RTNPSzVQVEo5NVNqREV6VF9oQkMzZDBMQ3BzcF9ja0ZPX0dYX1NaTnhkRnV5Q2p3OTJXTXlMeWJ0aHZUOXhJVHRqSjF1Q2R5Wnk1X2FEQQ?oc=5",
+   "time": "2026-11-18T07:36:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Bank Indonesia, Pengumuman BI Rate Naik Menjadi 6%",
+   "src": "https://janalokajournal.id/",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVUlY4bXE5aUZ5UmpPeDJ2czBWNElmcXFyTFFzZm9kbWppeXRzOUswSWFrWTZ5VW12cDZHTFVhSE1xZUdsZklyMGt5NEhMZXNZcHVIODZTem5vd3lGcVVKcVVfUGFPNmJX?oc=5",
+   "time": "2026-11-18T07:30:49Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "src": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRzlQcHpvRkJiZkxPbkt1dnV1Q25PbW50UDBnT0NzY2o1REt4WmcybV96RnItRXVkbE96MENvT21fRnlkY0xlS3Q0NUcySTlJYkNzRGVucmRUZENJbmdFM3F6aElkaktzUDhGbnhWRHVKS0VjR1h2WnhNOVhoQmVNX205aHVXNng4UWxvb2tVWEFRR0ZlT28tdWl0eG5GUEYyX1V0X3dUVHdsZ1JxZjllYUR3WnRRY0U?oc=5",
+   "time": "2026-11-18T06:37:13Z",
+   "t_id": "Pasar Saham: Akankah S&P 500 Dibuka Naik atau Turun Hari Ini?"
   }
  ],
- "errors": []
+ "errors": [
+  "AI stocks Nvidia selloff OR rally: HTTP Error 429: Too Many Requests"
+ ]
 }
