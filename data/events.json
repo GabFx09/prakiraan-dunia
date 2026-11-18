@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T23:05:17Z",
+ "updatedAt": "2026-11-18T23:19:55Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -52,8 +52,8 @@
    "src": "VIVA.co.id",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc0hDN2QwV09YbHdGbkEzaDZ3RkxIdEZFcmxMOXB4WjY1Ql85ZXE3Tm94a0JlTjQtTGZrcDNSV1FiaHFILV9WWGZmdjBWX1dvN1JMTV9xR0thOEpWYm5DSzVRMWpybm9QY2JGcGlIaTkxVERPbWRvWEdNNHU4eFpGSU9TUjlhcmFlSmpvWkhKSkU1RC1tUmczblA4bEQ0MzQ4NnlXYlYycEg5bVVOdWd6blRidURCOFE3YzVPUERha0R1VmRxaS1EQkpiSUJRRE5yWGtXRNIB2gFBVV95cUxPQS1wRngtM1lMUkFYUVNEUnZlZ0lMeG0tVGQ2Smk2X3JMVDZoNU55MjdjZ05RVVk1Tmw2Y3FLSUxuUUI1dUhwQkpaNHFXWnNHdEZLNktGNm1BaFRhaXNyV19aeHg3cHoxaW96cUdMLVgzUy1TOXBJRThNY2NKMU5sb21LWVdCYXdNM0JTQzVkdDk2RVotQ1N0NTRIckFJUG03LU0wWEEwVlZyRG9qbFctYmtDZmxxSDZVeUpkclZtaWs2TGdrMUZnb25WNWdzTlkzTzhXaW05V3JRQQ?oc=5",
    "sources": 5,
-   "recent6h": 1,
-   "score": 5.5,
+   "recent6h": 0,
+   "score": 5.0,
    "level": "sedang",
    "first": "2026-11-18T04:36:47Z",
    "last": "2026-11-18T17:10:00Z",
@@ -82,6 +82,41 @@
    ]
   },
   {
+   "id": "transportasi-202611180918-fdb4",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "U.S. Ground Stop Exposes Aging Air Traffic Control Systems as Extreme Weather Risk Grows Ahead of Thanksgiving",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pN3pBaGtULXpRajZEMDdNMUk1Ym1iQURoWm9yejUzZ21ndzE3b3BxU0xoT1NQZFI0UmFXa1RKU1Jsbnl4QWg5SlczaTN3a2h1UmxWNEFtY01McmtDNk91dXgxNWNBdmZrXzh5ZlRFNHdScWc?oc=5",
+   "sources": 3,
+   "recent6h": 3,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-18T09:18:14Z",
+   "last": "2026-11-18T23:12:51Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Musk Says Starlink Could Fix US Air Traffic Control After Nationwide Ground Stop, but Role in Preventing Outage Is Unclear",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TLWFXVHExejJIdV9VRGh0X2x4N1NIdGhLY2Jvd20yVjJUb0l3SlhsaXBtSGVaQTRLT1A1UkNYMzJwRkJFaUl0TTdmNDEtQWxnanhmZWY0bUNIRWI3OFNXcEcydEk4NEdtWWNLbUs3akZEdXc?oc=5"
+    },
+    {
+     "t": "London Heathrow flights cancelled amid US air traffic shutdown chaos",
+     "src": "London Evening Standard",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
+     "t_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
+    },
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+    }
+   ]
+  },
+  {
    "id": "transportasi-202611180934-6ea6",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -94,7 +129,7 @@
    "score": 3.5,
    "level": "sedang",
    "first": "2026-11-17T23:01:04Z",
-   "last": "2026-11-18T19:59:50Z",
+   "last": "2026-11-18T20:00:55Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
@@ -169,73 +204,30 @@
    ]
   },
   {
-   "id": "transportasi-202611180918-ac47",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "London Heathrow flights cancelled amid US air traffic shutdown chaos",
-   "src": "London Evening Standard",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3BUQnVCREFzZXdXNHZwaENTQ0N0ZDJCaC1MUG8tNXRjcjBhcnVYMmVDUm1rbEVLczBEaXdGZVdtUEdQWFYtRVRkQktWTXlPVnduVXN0ZGJESnVrbjRleDVKMUdYRVlQemhLU1RDQjFWelpmRjhNckF5Z0ZfRXZkb01HS3lkM05HZTFhSWVNNktRTHF0aWs2VnYwSE9HZXhtaVRLbjdmcFg1MzU3S3Q2RmhUZjF3aHM?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-18T09:18:14Z",
-   "last": "2026-11-18T20:49:01Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "id": "indonesia-202611180643-34b7",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Sound Horeg Vs Kenyamanan Warga, Demo JSSC Bikin Kantor Pemkab Jember Bergetar",
+   "src": "rmol jateng",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmxHU2JKbXo4SmNDSFJ0aGxtbnVxLVI5QnBudWRlak12bHNmMDlPZTZPeUJPODhlZUgyQVVucmpQQWVQd3RpTEJJMEhIRVFWQ0hrelRvdm9MbFc0WDNPMUJyTEFRZ0o1cGh4TDlXZTcxeTZfSTRuT3FYSnBZOG1JQzM0RThYZWNwZ1d3cU44WFgzWWgtNzQ0ZlZMUDNFOFBtYXBCZEdwM1hibUU?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-18T06:43:39Z",
+   "last": "2026-11-18T13:54:08Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
-    }
-   ],
-   "title_id": "Penerbangan London Heathrow dibatalkan di tengah kekacauan penutupan lalu lintas udara AS"
-  },
-  {
-   "id": "siber-202611172313-689b",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "A wave of tech outages raised fears of sabotage. The explanation may be much simpler.",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHZ5R280UHVhczA5N2Jna1hsTnRlQVpwSGhwS3A2WWJGeEtxUkJHYnM4QjJIMXRVMzF5czNDNS0yNE5JMHdoRDdTdnpLTWJDb1dodmEwS3g0eHpteExzZzA2UkZ2S2JkYjFVZDlqR1BKWm1BelJtcEZPUG9wR2RybnVJeGtrUkIyNUxDcEJVdlVURk5CVGtjUU1vWVlwY3VURXpocl9QQmhQbGc4MnR2eWl3a2hzMjVI?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T23:13:29Z",
-   "last": "2026-11-18T19:32:09Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
+     "t": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
+     "src": "Radar Jember",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5"
+    },
     {
-     "t": "Flights, banks, emails: What we know about a U.S. wave of tech outages",
-     "src": "CBC",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmlMX3ROUXc4Nk9INzFZaFdiSW1XREp5N3FFWFd1aEN4MGZRYkhMTXRKVlBGM3lVX19mVkRXX2lra0lHb1VvenJtSkxNVjhLdmVEdFZkbmdyOW5fX3Vpa1dzTVdQdURERFZaRldNWGNWcEJFaGVjTE96VFQyclhRa2F2NjBSMXUyQ2FIOTJ3Rjg3WEE?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "transportasi-202611172307-dbaa",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "The US grounded all domestic flights for four hours due to an HPE router fault",
-   "src": "TechRadar",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNlNHME11WG53aFIyN3N6ZFZGSm5XUGxiWFZFdlRnQ1dtaG1XNWFxaGpIVGNtQmRQemppa3NFMUNzSElJeHN0cnczdFdlMTNBOUtJYkl1M1RVdGRSWWx0LV84QXQ2SktZaldHSTh2a3Y4R0VkOUpTN09zeEVHSkNSOUFmWnhkWXVIbWk3b2syQnQtVkVhVlJyWTlUMDl4aVo0RDdPb3FlakFXZ3VtQ2d6U2RxMXVzZDkwRXZyQlFfZkRNb1VudzVTaWtqaTRlb1Y3MXZr?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-17T23:07:56Z",
-   "last": "2026-11-18T19:05:00Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "FAA Halts All US Departures for Over Four Hours as Faulty Router Installation Cascades Across Network",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQ2VvQUtwU0dDbVhRcmpZMnFSczJ0VmJEMkQxV3A4SW05aEhDcHp3eGZLcTZTNXJHQm1rOWFGM1dBVER3WU5TZDBZYWJwQXZSS3Yxek1DOGVQRXdTMlVpbGx1NEpUN0Z6Y2JFM2ZmS3JTSzg?oc=5"
+     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
+     "src": "Pewarta Nusantara",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
     }
    ]
   },
@@ -259,29 +251,6 @@
      "t": "Black Wellness Edit: Measles Outbreaks Cause Loss of US Elimination Status",
      "src": "EBONY Magazine",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXlvUTNMTkhXV3NNYmp6bnF3cHpUSzBydU00cTJkRlV1ckJDd3pTXzdVTGEwVmdYOVR6dHRBa25UNVdRWVB4WEw2Z3AyMnZ2Z3lORDZhQkdnTFdzb1pmY29xQ25Za3JwZ3AtQzU0VmVZUG1WQXhaMmhieDRHTGZGaVh3?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611180643-34b7",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
-   "src": "Radar Jember",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T06:43:39Z",
-   "last": "2026-11-18T11:31:14Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
-     "src": "Pewarta Nusantara",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
     }
    ]
   },
@@ -328,29 +297,6 @@
      "t": "Jurnalis Malaysia Diancam Usai Liput Demo Karhutla, Oknum Pelaku Ketahui Nama Ayahnya - Kilat",
      "src": "Kilat",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcklmdUZaS3Raa3RzTnNUMFQ0V3Exa0VfUkZwVElHMUpLaDF0LWZKb3F1eE1QUDg2by10VHk4TDlZS1BZRHVybHU0dWNiUmxyNnNONVlCZzRKM25YNjRkWVhSOENwbk9pcU5YTDM4TDNTb3pPeTRNTkJwbWloWHNMaWxWeDJWeUdVQm8tNTFPNTlac2tmSklwbzZSZWNkbWlSUndTLW5HT3p4bWF3ejlRejZFY0dWYlVTZWtWQmVybzc0WUN3RHfSAcsBQVVfeXFMTzZIbWNKUDJZalVkbXRiRnZXTUwydW1fTW1Fd2pkMG0ybzlUU25QZElIYWp2N2x1a2ZPN3dHVFBXeERVYUtFZWZaR0YzVnFudExjNThVbWpYYVFBMzlpYzFHVmJMY2FwdGlHclU5X25fLVcyRHVXR0cwOElJQmhKZlcza21NWG0tZHVTRjJNai1zZk9vOXJtVHpOX0lPb0pmRVN3cTB5WmVBYXRyeHl2SWF6R0w0VDZpa3NLdVJZSmo5SDNPdVV0aW5yTWs?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611172244-a4d7",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Ratusan Ribu Orang Demo di Prancis, Tuntut Kenaikan Upah dan Protes Biaya Hidup",
-   "src": "Pikiran-Rakyat.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTNOYk9fRUcyemg1RWFFZHFuRk5DcEFHRmVOWGF6T3U0d0lDV2FkUkZ3M0VOaWxZTzdFSXZUVDR2S1YzTFRLOEF1VS05S3hmXzVseEFkajlZNUJqRlQyRGxmQnJsd3h5VnlQTzIzTk1nYTNoaGdteFdzV1JmYXdKbGx3aW9XUWE1MUpMdWg0SlJRQ2d0U0xYb3lJTjY5b1hwZWlmT0ZmbzM0VG85RlhaUnE3b1RaYVU5TUcxV3JzSUZHTVJfYmNR?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-17T22:44:22Z",
-   "last": "2026-11-18T05:00:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Prancis Tangkap 15.000 Orang Terkait Demo Biaya Hidup dan Pendidikan",
-     "src": "BeritaSatu.com",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUJKYXhWU2tPY1UxZWFteU1VT1lzVjBTczRqUjlIMXZOQm5VdFpPeDVyc0lHU09jWGs4N2ZVUXdCZ1ZnbndtVDZFN0M0OEp5am5TNnhERFhaaG1jSnNqbld5RVBQRElkblk4a1E2d1VjYnktWl9CVHdkeDRPZjlRMGJpNHRIcFgyX0dQcXliYm5YTk9KcTAyT2JPdkgzcTZ3d0M0OFZmYzEtZEthRldIa2NwLUYtbms?oc=5"
     }
    ]
   }
