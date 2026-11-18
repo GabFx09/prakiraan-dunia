@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T14:36:54Z",
+ "updatedAt": "2026-11-18T14:51:36Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,14 +53,19 @@
    "title": "US carries out ‘self-defense’ strikes on IRGC missile launch site",
    "src": "Saudi Gazette",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYi1vMmEzWWpHMGZweVRWTy1VaEZ6VFJrNGhKT3hBUWd0S29EV0RoWUVYOFNKd1Vvdlo1WmVKQXJsbFFvbjNYNV9yQWM0OUJnVEViRXBqWEFBeG9ia0FtUFlJNUx1VlpiaHRKbWNsbUdwQWRJTFZDVWFOeXU2WFdkSVFmemFTR3phczBtVGt0T19KUnFYVU8zb19EZVZMb0RqWmJIOThqVng3QjJLN3lBMlBB?oc=5",
-   "sources": 11,
+   "sources": 12,
    "recent6h": 1,
-   "score": 11.5,
+   "score": 12.5,
    "level": "besar",
    "first": "2026-11-17T19:43:02Z",
    "last": "2026-11-18T10:34:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "US Strikes Iranian Missile Site as Drone Attacks Hit Gulf",
+     "src": "cwibc.co.id",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkTVVidVdCeDBEOE9YaEdmTWpKVHlqa3dJdk1kMjdQU1NVZVR4YnpyakVyMUJkX3RXTVpzMVgxRGtubm9WWGhZdWV5UEJNZzgwUHFDbFVHb204blowQmc?oc=5"
+    },
     {
      "t": "U.S. Fighter Jets Strike IRGC Missile Site on Qeshm Island After Drone Attack on U.S. Base in Bahrain",
      "src": "Breitbart News",
@@ -78,12 +83,6 @@
      "src": "MLQ.ai",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMjRBalJpV1NPaXc5a2lhUVJWcktUdExFSXdOcTRqX18zU0xnZ3RyOEFVWkNLUVBqM1dFR2VmaFlfaUNNMHEzX2NuU0dneV9MZHJDQzhLbVB1Y25MMW4weXI1aWltSWMzMlRic2xkWUdTeV9XMHl4M0NBU3d1SW9ub1dZcWZWVmFEM21OX3poekVuLWhMdU5sTi1YbjVNREFaUFJFcGd1ekcxdVU1cmpiT1dIWExzS3poTlA4OUZHZVpFRUJtTmNsUHgydk80QlZEc01USQ?oc=5",
      "t_id": "Jet AS menyerang lokasi peluncuran rudal Garda Revolusi di Pulau Qeshm Iran setelah serangan pesawat tak berawak ketiga di Bahrain"
-    },
-    {
-     "t": "US jets strike IRGC missile site on Iran’s Qeshm Island after drone attack on Bahrain",
-     "src": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2lUaXU3NGFmUm1fa3k2NmhrYjdkN3NZZndsNFFCQ0FkbE9DVmVLM29TTEJPYUctMXloTDlhRHExZFEybGg5WEFIZFg3WE9Md1ZwYWdtRTMtLUhTbU1HeGdlNjhORGloQmlGTHZNT0xqY2pqY1pXWGhXZlNLUk9RamtSMkRhbXplNDlmNTRBeG1xOUF4dGx6a3lDOFZCR1BUOTZOejVYS1htZGRMRUJ0SmlPUmRvMS1YRjBfVGNGZ1dBQVRvRUpr0gHaAUFVX3lxTE9NYXZ5Wmd0TURlMHJCSk9aRzEyS2tZRjJVYTNjd0g3bWpHdWdpbTdjczZnYmhRSXZpUW4xeExVdFgwYVdtWF96OHl2TlNTdUV6endNbzJXd3l0TllvQmZXLUhVWXpZZ2RQN0Y4Qm51SGx3VlUzV01raVlFVGlUSmtrU05JbmdsZFMzZ3dITFJjUlg4NTdlRjE2SFZMdFlrQlNoZ1dRZ2l6c2MzWDFlWkMtenNPZDgwdTJON1Y1c0VvXzA4YXF4SXRWOHE2Y0g0czVZVU93TTBrN1V3?oc=5",
-     "t_id": "Jet AS menyerang situs rudal IRGC di Pulau Qeshm Iran setelah serangan pesawat tak berawak di Bahrain"
     }
    ],
    "title_id": "AS melakukan serangan ‘bela diri’ di lokasi peluncuran rudal IRGC"
@@ -143,7 +142,7 @@
    "recent6h": 2,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-18T05:12:15Z",
+   "first": "2026-11-18T04:36:47Z",
    "last": "2026-11-18T14:04:00Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
@@ -156,6 +155,34 @@
      "t": "JPW Desak Polda DIY Transparan soal Pemeriksaan 11 Polisi di Demo Yogyakarta, Sanksi Jika Langgar",
      "src": "TribunTrends.com",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc0dfSEN5Y3cwaTM5X2xYakpVX3NSRUc2UWg3SERWTDF5U0JqX2dQdVBob2pIRTRRenVPZEVpRXh3U0pmMmo1SjlHSUVXMkt5ZWVkcHpQeEp6S2Y2SDVaUGdPMWpoUWN2RkdtOWVpWmJDcXBRSXBiNlhtdElrLWFBejVqTnlWQWFTQ0R5U0tRWlZHRVlEYldybERyeklUb0FxUkQ0eTY3TVFTeFRpdDBWb2FPTFY4d1VQWHYwNDZaM1AxMWtsVmZMYjl1ay1tY1FnekMwSw?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611180643-34b7",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Sound Horeg Vs Kenyamanan Warga, Demo JSSC Bikin Kantor Pemkab Jember Bergetar",
+   "src": "rmol jateng",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmxHU2JKbXo4SmNDSFJ0aGxtbnVxLVI5QnBudWRlak12bHNmMDlPZTZPeUJPODhlZUgyQVVucmpQQWVQd3RpTEJJMEhIRVFWQ0hrelRvdm9MbFc0WDNPMUJyTEFRZ0o1cGh4TDlXZTcxeTZfSTRuT3FYSnBZOG1JQzM0RThYZWNwZ1d3cU44WFgzWWgtNzQ0ZlZMUDNFOFBtYXBCZEdwM1hibUU?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-18T06:43:39Z",
+   "last": "2026-11-18T13:54:08Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
+     "src": "Radar Jember",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5"
+    },
+    {
+     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
+     "src": "Pewarta Nusantara",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
     }
    ]
   },
@@ -282,29 +309,6 @@
     }
    ],
    "title_id": "Ground stop FAA menjelaskan: siapa yang memesannya, mengapa, dan seberapa jarang mereka menjangkau seluruh negeri"
-  },
-  {
-   "id": "indonesia-202611180643-34b7",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
-   "src": "Radar Jember",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-18T06:43:39Z",
-   "last": "2026-11-18T11:31:14Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
-     "src": "Pewarta Nusantara",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
-    }
-   ]
   },
   {
    "id": "politik-202611171504-369e",
