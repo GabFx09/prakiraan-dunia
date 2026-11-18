@@ -711,6 +711,17 @@
       "ihsg": 5247.879,
       "usdidr": 18220.0,
       "ust10": 5.06
+    },
+    {
+      "t": "2026-11-18T22:05:00Z",
+      "risk": 84,
+      "btc": 62272.59,
+      "gold": 3725.8,
+      "brent": 88.82,
+      "spx": 7323.63,
+      "ihsg": 5247.879,
+      "usdidr": 18158.0,
+      "ust10": 5.066
     }
   ],
   "horizons": [
@@ -1157,6 +1168,38 @@
   },
   "news": [
     {
+      "t": "Risalah rapat Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi, kenaikan lebih besar masih dibuka.",
+      "src": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
+      "time": "2026-11-18T19:18:51Z",
+      "impact": "turun",
+      "assets": "Emas, saham, obligasi, rupiah"
+    },
+    {
+      "t": "S&P 500 turun lima hari beruntun, rentetan kerugian terpanjang sejak Juni.",
+      "src": "KTVN",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU3lpT0dkM2N5TmVjVmd4c0s0SEN4blNTZjRraDl1VnpUdmJhM1RMQVdMMnR2QXNLWWx4VlpmQmJwbUtRSzVzR2FfNlVYUlA1U3hQQ19xVHZsLVYxTmd3U3dGT3o0cUdTTWRaRkROVGRtWUhuQ2RvcWpTcGQ5SGdXbUpzaEVwbVJvOW1oZ2Y3aGlzLUxHeDU5cnJ4SHhzdXNlNDNleHdKSUJ6XzRuQzRydkZ3SjBQSEdScURIdmxJS3BIQUlIYkU4U0JCbEZaWHpzemJ6N3RWbE8tOWo3QkQtQUEtSFhHampud2c?oc=5",
+      "time": "2026-11-18T21:19:20Z",
+      "impact": "turun",
+      "assets": "Saham global, IHSG"
+    },
+    {
+      "t": "Iran menyebut tiga kapal tanker minyak terbakar di Selat Hormuz (klaim belum terverifikasi independen).",
+      "src": "The New Region",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YSXNrY1dVeGV6RDFXLWE2eExRRDY0NzNJdkVuUTU1STIyM1Yzd3ZKLWE3TUl4Z1pmTzZZM1VDUnp0VC1pMXJrdVY4UQ?oc=5",
+      "time": "2026-11-18T20:39:14Z",
+      "impact": "naik",
+      "assets": "Minyak, rupiah"
+    },
+    {
+      "t": "Bitcoin jatuh di bawah $65 ribu seiring penjualan oleh perusahaan penambang dan tekanan dolar kuat.",
+      "src": "Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTnZDRWN3OXJudjZEd0EzTmxuSjh0dVRVSDFQRlNmUDZZS3VCQk9xSjBrTzI4OWVFcGJ0UUN3dUM4YjkwdUlfUnRnWHFfTGhRWm9BNURxdDRaQmhLaUd2UWlDbUZKLTAyRzlwNGdRRWFLVHoycUF6aDF0ZWEyS2E4UzgxWVUzU1BFYXpueXdkb2VvSkZsTzV5ZDZpR2ZlTFVlb2UwQ0p0NEJfQW5rS3VQS2JBV1BtTk5lMDdwZlFmNGtXN3k3SkZBcm1wdGRkd2tXWUl4NHRybWxhRkJCZHlneFpURVd2NzY2NTN3M3VvblBYVGtsc3Vna093?oc=5",
+      "time": "2026-11-18T20:59:22Z",
+      "impact": "turun",
+      "assets": "Bitcoin, kripto"
+    },
+    {
       "t": "AS memperketat blokade Iran dengan membatasi pemindahan minyak di laut.",
       "src": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
@@ -1219,44 +1262,12 @@
       "time": "2026-11-18T07:55:00Z",
       "impact": "netral",
       "assets": "Rupiah, SBN, IHSG, deposito"
-    },
-    {
-      "t": "IHSG ditutup melemah 1,07% ke 5.247 setelah BI menaikkan suku bunga",
-      "src": "pasardana.id",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPblZoQUFleG9SbXhVNlhyUnNFM3lzaEl5N1NzLXotY1JXMzBaWXZ4TGppeFhldTBsZkNucG90SU5QTllVU3lvcnVJNm9yWGktYnZhOE9YRF9vX3NUNU45OUFhaWstamsxWkpkbzBoVGlnbWZrYmtsYkJhbTlmREs0aE9kUWdyU3h6RTVxVTFkZ1NrRmc?oc=5",
-      "time": "2026-11-18T09:35:00Z",
-      "impact": "turun",
-      "assets": "IHSG, saham perbankan"
-    },
-    {
-      "t": "Emas jatuh ke level terendah lebih dari setahun karena dolar kuat dan prospek suku bunga AS",
-      "src": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
-      "time": "2026-11-18T03:10:00Z",
-      "impact": "turun",
-      "assets": "Emas, dolar, rupiah"
-    },
-    {
-      "t": "Harga minyak turun karena stok minyak mentah AS naik meredam kekhawatiran pasokan",
-      "src": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN?oc=5",
-      "time": "2026-11-18T02:16:00Z",
-      "impact": "turun",
-      "assets": "Minyak, rupiah"
-    },
-    {
-      "t": "Dolar bertahan dekat level tertinggi 19 bulan seiring data yang mendukung kenaikan bunga AS",
-      "src": "WTVB",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkJRSW4xd2Zsa2J5NUdRdWhDSTRfdmFicEUzRXU4cVByVER6WGlfV0FGSy1xSWE3VWV1emdnTU1aM1l0RVhHaGdlbXk1c3VibUtUYzAyUlpWUmNyc0dwenZ2dXVSR29BZUpFRjd4b0liWXp5R1hGYzJsd0ZoLTM4MWxGXzJyRTdlYy00VGZOMnJjai12cTBVdEU2cXF2UzhjVV83eg?oc=5",
-      "time": "2026-11-18T01:59:29Z",
-      "impact": "naik",
-      "assets": "Dolar, rupiah, emas"
     }
   ],
   "readings": [
     {
       "c": "neg",
-      "d": "Waller: kenaikan 0,5 poin mungkin perlu",
+      "d": "Notulen: hampir semua perkirakan naik",
       "k": "Suku bunga Fed",
       "v": "3,75–4,00%"
     },
@@ -1268,38 +1279,38 @@
     },
     {
       "c": "neu",
-      "d": "Turun 0,8 % hari ini",
+      "d": "Turun 0,7 % hari ini",
       "h": "ust10",
       "k": "Obligasi AS 10 thn",
-      "v": "5,06%"
+      "v": "5,07%"
     },
     {
       "c": "neu",
-      "d": "Turun 5,0 % hari ini",
+      "d": "Turun 4,6 % hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$88,53"
+      "v": "$88,82"
     },
     {
       "c": "neg",
-      "d": "Turun 3,1 % hari ini, terendah ~14 bln",
+      "d": "Turun 3,6 %, terendah ~14 bln",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.743"
+      "v": "$3.726"
     },
     {
       "c": "neg",
-      "d": "Turun 2,7 % hari ini",
+      "d": "Turun 4,0 % hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$63.129"
+      "v": "$62.273"
     },
     {
       "c": "neg",
-      "d": "Naik 0,1 % hari ini",
+      "d": "Turun 0,2 % hari ini, 5 hari turun",
       "h": "spx",
       "k": "S&P 500",
-      "v": "7.350"
+      "v": "7.324"
     },
     {
       "c": "neg",
@@ -1310,10 +1321,10 @@
     },
     {
       "c": "neg",
-      "d": "Naik 0,6 % hari ini",
+      "d": "Naik 0,2 % hari ini",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.220"
+      "v": "18.158"
     },
     {
       "c": "neu",
@@ -1322,11 +1333,11 @@
       "v": "6,00%"
     }
   ],
-  "regimeText": "Minyak tetap tinggi akibat ketegangan di Selat Hormuz dan pejabat Fed masih membuka kenaikan bunga lagi. Bank Indonesia menaikkan BI-Rate ke 6,00% untuk menahan rupiah, yang mendukung mata uang tetapi menekan saham.",
+  "regimeText": "Minyak tetap tinggi akibat ketegangan di Selat Hormuz, dan risalah Fed menunjukkan hampir semua pejabat memperkirakan kenaikan bunga lagi. Dolar kuat menekan emas dan Bitcoin, sementara BI-Rate 6,00% mendukung rupiah tetapi membebani saham.",
   "regimeTitle": "Stagflasi, risiko tinggi",
-  "risk": 83,
-  "riskNote": "Risiko naik tipis: perang Teluk meluas, pejabat Fed membuka kenaikan bunga dan blokade minyak Iran diperketat.",
-  "updatedAt": "2026-11-18T18:57:24Z",
+  "risk": 84,
+  "riskNote": "Risiko naik tipis: risalah Fed condong menaikkan bunga, S&P 500 turun lima hari beruntun dan emas serta Bitcoin melemah tajam.",
+  "updatedAt": "2026-11-18T22:05:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1621,18 +1632,18 @@
     },
     {
       "k": "Inflasi & suku bunga",
-      "v": 84,
-      "note": "Waller: hike 0,5 poin mungkin; BI 6%"
+      "v": 86,
+      "note": "Notulen Fed: hampir semua perkirakan hike"
     },
     {
       "k": "Valuasi saham",
-      "v": 73,
-      "note": "Nvidia di atas perkiraan, saham AI rapuh"
+      "v": 75,
+      "note": "S&P turun 5 hari, Nvidia berbalik turun"
     },
     {
       "k": "Likuiditas & dolar",
-      "v": 75,
-      "note": "Dolar dekat tertinggi 19 bulan, emas anjlok"
+      "v": 77,
+      "note": "Dolar kuat, emas & BTC anjlok"
     },
     {
       "k": "Indonesia",
@@ -1653,11 +1664,11 @@
   "brief": {
     "date": "2026-11-19",
     "points": [
-      "Konflik Selat Hormuz masih meluas: Iran dilaporkan menyerang Kuwait dan Bahrain, AS memperketat blokade minyak Iran di laut.",
-      "Pejabat Fed (Waller, Daly) membuka kenaikan bunga lagi; UST 10 tahun ~5,06%, dolar kuat menekan emas ($3.743, terendah lebih dari setahun) dan Bitcoin ($63.129).",
-      "BI-Rate naik 25 bps ke 6,00%; IHSG turun 1,07% ke 5.248, USD/IDR sekitar 18.220.",
-      "Brent turun ke $88,53 tetapi tetap sangat bergejolak karena risiko pasokan Hormuz.",
-      "Pantau: notulen Fed, PCE AS 25 Nov, OPEC+ 29 Nov, dan MSCI 30 Nov."
+      "Risalah rapat Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi; kenaikan lebih besar masih dibuka. UST 10 tahun ~5,07%.",
+      "S&P 500 turun lima hari beruntun; saham Nvidia berbalik turun meski proyeksinya kuat. Emas anjlok ke $3.726 (terendah ~14 bulan), Bitcoin $62.273.",
+      "Ketegangan Hormuz berlanjut: Iran menyebut tiga kapal tanker terbakar dan menyerang target AS di Kuwait; Brent turun ke $88,82 tetapi sangat bergejolak.",
+      "BI-Rate naik ke 6,00%; IHSG turun 1,07% ke 5.248, USD/IDR sekitar 18.158.",
+      "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan perkembangan Teluk."
     ]
   },
   "calendar": [
