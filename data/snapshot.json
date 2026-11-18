@@ -656,6 +656,17 @@
       "ihsg": 5327.796,
       "usdidr": 18250.0,
       "ust10": 5.103
+    },
+    {
+      "t": "2026-11-18T06:58:38Z",
+      "risk": 81,
+      "btc": 64598.62,
+      "gold": 3778.6,
+      "brent": 92.1,
+      "spx": 7340.53,
+      "ihsg": 5337.07,
+      "usdidr": 18255.0,
+      "ust10": 5.103
     }
   ],
   "horizons": [
@@ -1220,24 +1231,24 @@
     },
     {
       "c": "neg",
-      "d": "Turun 0,6 % hari ini",
+      "d": "Turun 1,1 % hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$92,63"
+      "v": "$92,10"
     },
     {
       "c": "neg",
-      "d": "Terendah lebih dari setahun",
+      "d": "Anjlok 2,2 %, terendah >1 tahun",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.793"
+      "v": "$3.779"
     },
     {
       "c": "neg",
-      "d": "Turun 0,6 % hari ini",
+      "d": "Turun 0,4 % hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$64.495"
+      "v": "$64.599"
     },
     {
       "c": "neg",
@@ -1247,18 +1258,18 @@
       "v": "7.341"
     },
     {
-      "c": "neg",
-      "d": "Naik 0,4 % hari ini",
+      "c": "neu",
+      "d": "Naik 0,6 % hari ini",
       "h": "ihsg",
       "k": "IHSG",
-      "v": "5.328"
+      "v": "5.337"
     },
     {
       "c": "neg",
       "d": "Naik 0,8 % hari ini",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.250"
+      "v": "18.255"
     },
     {
       "c": "neu",
@@ -1270,8 +1281,8 @@
   "regimeText": "Minyak tetap tinggi akibat ketegangan di Selat Hormuz, sementara pejabat Fed menyebut perlunya beberapa kenaikan bunga lagi. Hasil Nvidia yang kuat sedikit meredam tekanan pada saham AI, namun rupiah masih rentan jelang keputusan BI.",
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 81,
-  "riskNote": "Risiko bertahan tinggi: Hormuz belum aman, dolar kuat menekan emas, dan keputusan BI hari ini menentukan arah rupiah.",
-  "updatedAt": "2026-11-18T03:58:00Z",
+  "riskNote": "Risiko bertahan tinggi: Teluk/Hormuz memanas, dolar kuat menekan emas, dan keputusan BI hari ini menentukan arah rupiah.",
+  "updatedAt": "2026-11-18T06:58:38Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1562,7 +1573,7 @@
     {
       "k": "Geopolitik",
       "v": 91,
-      "note": "AS dilaporkan serang situs rudal Qeshm"
+      "note": "AS serang Qeshm, Iran balas ke Kuwait"
     },
     {
       "k": "Inflasi & suku bunga",
@@ -1582,18 +1593,18 @@
     {
       "k": "Indonesia",
       "v": 78,
-      "note": "Rupiah ~18.158, jelang keputusan BI"
+      "note": "Rupiah ~18.255, menanti keputusan BI"
     }
   ],
   "alerts": [],
   "brief": {
     "date": "2026-11-18",
     "points": [
-      "Risiko tetap tinggi di 81/100: emas jatuh ke level terendah lebih dari setahun (sekitar $3.793) karena dolar kuat dan peluang kenaikan bunga Fed.",
-      "Ketegangan AS–Iran di sekitar Selat Hormuz belum mereda; Brent sedikit turun ke $92,63 setelah stok minyak mentah AS naik.",
-      "Rupiah sekitar 18.250 per dolar AS, IHSG 5.328, imbal hasil UST 10 tahun 5,10%. Bitcoin sekitar $64.495.",
-      "Keputusan BI-Rate (RDG 17–18 November) diumumkan hari ini; ekonom terbelah antara tetap 5,75% atau naik. Hasil resmi belum terverifikasi saat analisis ini ditulis.",
-      "Pantau: keputusan BI, kabar Hormuz, saham AI setelah laporan Nvidia, dan rapat OPEC+ 29 November."
+      "Risiko tetap tinggi 81/100: AS dilaporkan menyerang situs rudal Iran di Pulau Qeshm, dan Iran membalas dengan klaim serangan ke sasaran AS di Kuwait; Selat Hormuz belum aman.",
+      "Emas anjlok sekitar 2% ke kisaran $3.779 (terendah lebih dari setahun) karena dolar kuat dan prospek kenaikan bunga Fed; imbal hasil UST 10 tahun 5,10%.",
+      "Rupiah melemah ke sekitar 18.255 per dolar AS, IHSG 5.337 (+0,6%), Brent $92,10, Bitcoin sekitar $64.600.",
+      "Keputusan BI-Rate (RDG 17–18 November) belum terverifikasi saat analisis ini ditulis; BI-Rate saat ini 5,75% dan sebagian ekonom memperkirakan tetap, sebagian menduga naik.",
+      "Pantau: hasil RDG BI, perkembangan Hormuz/Teluk, saham AI pasca laporan Nvidia, dan rapat OPEC+ 29 November."
     ]
   },
   "calendar": [
