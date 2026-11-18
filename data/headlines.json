@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-18T09:59:25Z",
+ "updatedAt": "2026-11-18T10:12:45Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG ambles 1,07% usai BI Rate naik, rupiah menguat tipis",
+   "src": "IDNFinancials",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0w2a2RUdVg4THlOTmVmakNNVjZwc0pvbV9ZN1gxNDdpWElrRjVQeDhvR3poZG92eGtvWnQ4cVJfNWhybUd4WjZwby1jNVNIbHhxN3RtWUdIT2NfbXF5STVDd3NhR0lDMlViTFM1ZW1HSklXeFVBSUxxaFJ3Z1Fwai1raGJ6OHRaWEo0aGtULWt4V3VfYmROdEx0MDVldXJs?oc=5",
+   "time": "2026-11-18T10:10:00Z"
+  },
   {
    "topic": "geopolitik",
    "lang": "en",
@@ -22,25 +30,9 @@
    "topic": "indonesia",
    "lang": "id",
    "t": "Ditutup di Level 5.247, IHSG Rabu Melemah -1,07 Persen",
-   "src": "pasardana.id",
+   "src": "Pasardana",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPblZoQUFleG9SbXhVNlhyUnNFM3lzaEl5N1NzLXotY1JXMzBaWXZ4TGppeFhldTBsZkNucG90SU5QTllVU3lvcnVJNm9yWGktYnZhOE9YRF9vX3NUNU45OUFhaWstamsxWkpkbzBoVGlnbWZrYmtsYkJhbTlmREs0aE9kUWdyU3h6RTVxVTFkZ1NrRmc?oc=5",
    "time": "2026-11-18T09:35:00Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Strategy stock could plunge 76% to $23, chart analyst warns",
-   "src": "CoinDesk",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXJvLXZtZDZubVVKSHo1N1NuclFPU0lyQ2k3ZmhrUER4RUpUMV9qSVR2bUFxb1JOSlM2bnRCZ3NSQWVQR3NYR0s4ZVUtWHVrbUVxVkY5clFNTzJXU093SGRESXVzeEd0V0h0ZWdpWGZDSWRHNTBfUTNMcUZnU083YlNRSE42QlFfY2FlSElQSUJlYm1ZdUNHTkxuNjhYVmJSMy0yRA?oc=5",
-   "time": "2026-11-18T09:31:41Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Jaga Inflasi dan Nilai Tukar Rupiah, BI Kerek Suku Bunga Acuan 25 Bps Jadi 6,00 Persen",
-   "src": "Stabilitas.id",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmtOdnFLbTBaOUlBbFM1b3hxUU1CUHd5bXc3dDBNZUs2NWdPOTljZTJMQjAzZjVpSkFDdTQ2VnpYMHBPTDREd0N6dUVBck9tS1p5cXBONXZMSzhOWnNBNkN6MlVid0ZiS2VmYlVoRC0xdWx1UTNfUEFxZ0NvUnVxQVhGdVhTcGF2NU44ZWZ2aWtLajF6aXhvbS1MVXhuVjk2ZzZHZHBMQXhOT293ZjR4Rw?oc=5",
-   "time": "2026-11-18T09:28:36Z"
   },
   {
    "topic": "bank-sentral",
@@ -67,6 +59,23 @@
    "time": "2026-11-18T09:24:00Z"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
+   "time": "2026-11-18T09:20:57Z",
+   "t_id": "Saham AMD, Broadcom, CoreWeave naik karena pendapatan Nvidia yang mengalahkan"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "China and Europe are entering a permanent mid-level trade war",
+   "src": "The Economist",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1RBb0cyTk9yY2pLdUx1c21ZWmhFSWNocWs1MFZHaklVNEdhdXYzVkJLRGJmSl90ZHBHZ3FiMjQ4WFlEY2tGTUpxN2NERTBZbHRVNDB3d1RnZ0hXNFVSeW1qTnFVU0hoTzA2amVocVkxQ2d2ZmlnN3hpOS1PbzBoeWItRG16YS1LZVN6VDl5Tkh1QTNzdjBDQlB5SmJNRjNZUFBVT2FSenFjTTJ6Z2hDMmJnNzM?oc=5",
+   "time": "2026-11-18T09:20:42Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Anjlok 1,07%, Investor Waspadai Kenaikan BI Rate",
@@ -82,14 +91,6 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ralNvcWNINjUxbHBFZjh3RFRuYkFQei01TVhxUW01Z3h5eVdQenVSUHNidEpISHJVMFdtbXNvOXdKYWl5cEhCUXdrNHlNNFh5RlBnRmtMUlA?oc=5",
    "time": "2026-11-18T09:04:36Z",
    "t_id": "Sejauh mana ranjau di Selat Hormuz menimbulkan ancaman bagi pelayaran?"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China",
-   "src": "Newsday",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMHR3eFVYSUE5c2w0eXA3Z05DYTcyVEFMcnpkSDlQUnpmRTVqa2xvNU1RczczOGUzZllvbl8tUG0zdWxtU1hzWVBqdHVKSjA0TXZnOWhYX2hyN050VlJLZk1XbG5UUmYzVVVMeFZVeU1jSGNDaDRKMW90MUJnTnhKY2FB?oc=5",
-   "time": "2026-11-18T08:59:41Z"
   },
   {
    "topic": "kripto",
@@ -188,6 +189,14 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "Tak Cuma Suku Bunga, BI Keluarkan Jurus Ini Amankan Rupiah & Inflasi",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd1VDVHE4SFd1Y0lGLTRnTGlkeHNWRnEtVjg3S0ZQT3dxQUw4UGd6UlhjUEE3R01qSVdDTzVMcG5QdVZJd0lidzlkVFNyb01GSDhpT21LemNMV2JrZDVfb3ViOS1HQWViMExwcWxsX29Mb1JKeHBPUG5kR3NSRDdIX001MktZbmI3Z1FyTXZ5QnlYSlVwT2otUG1qbDNuazZBTVRheTI5ZUJoZXQ3N2pNMks4TGZDWTQ4MU5YWGdWMmxTek9ZYmfSAcsBQVVfeXFMUDZ6VVFKWEg5cXZpNE9uTmREYzF3Zmtxd0xuX3N6ajhDLXNpMEQxTjFhdmIyaElLVmgyUFRPV1M3N0xKekRDbnRiVWFvdkRDRGZSdnlWWllZQUg1eVcxVGVISHpRajNEdHg4R2tTZDRVa3RRd1hoWnRIVzN0dXQ1dFRtaUpmUHZTUTdYREdQQndIck1jTVR4bS1sd2taSnhwT1NZcFBVWk1rZ0NTcWdNblBVTjJUVGtWb2pXdW9ON1BNcTJOLU85dkhKMDg?oc=5",
+   "time": "2026-11-18T07:50:53Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "Mengurai Dampak BI Rate Naik 6% Terhadap Rupiah dan Kredit Masyarakat",
    "src": "https://janalokajournal.id/",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54dENHUFMwUmJ6Ul9mS2tNYjBzc2lReXBad3ViVHFqbDVvV2RjQW81ZDRHWmJxbFAwcjdYWUdpVll3Uy13TTNnY0g3RU5xZzgyeDJqZk9McGRSMVlveDdiTHBOZDlldlprdW82aW9OZkl1cFU?oc=5",
@@ -221,14 +230,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Jaga Rupiah, Bank Indonesia Naikkan Suku Bunga Jadi 6 Persen",
-   "src": "republika.co.id",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2tuNXlQQmdRSkJzYk5wQW9pOFI1WjNOUHk2R0kwZi1zRHVqRjAzSzQ3M3NheDhGZURibFRtT2lkTUJPWU8yU1ViLXpwX1NIQUYzTWZOZGpERnVEd2gxN1VIdFdtRFZsVTVOR2VSQzhSdGNyRFJBNS05WURXQ2prbm1hQ1p1d3FVMkF4bWVMblpSR3ZxWS1CQzhfRERlU1M1ekVvandnVHhDM3Uy?oc=5",
-   "time": "2026-11-18T07:37:57Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Jaga Rupiah dan Inflasi, BI Naikkan Suku Bunga Acuan Jadi 6%",
    "src": "DDTCNews",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM01XQXVBS25idmc1VzVfX1dZOHpKeURiVXc1cXZNelNabGxhWGtQYy0tRThmZm1lTWRELThHbkp5UllYVTVLc3JGRFhJcVR5X00zTnhyNVlGb204RTNPSzVQVEo5NVNqREV6VF9oQkMzZDBMQ3BzcF9ja0ZPX0dYX1NaTnhkRnV5Q2p3OTJXTXlMeWJ0aHZUOXhJVHRqSjF1Q2R5Wnk1X2FEQQ?oc=5",
@@ -241,6 +242,15 @@
    "src": "IDNFinancials",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFlicHk0MGh5VWlIVDc4Z1psY1ktcHJUcEZRMXBxVDNsQndPbmUwYnpIRENlRjZrckRuRF91RWVDY1ZWVkdaWmpkOTFGbDV2OUZYQ0lTeW95cHBEVUdNRmdFWW92RjYxUEpZRXBLbm1CMmR5YnhBWUVlcWh3Q1RBOTJjYkZsWUk1YmgxUXk5aG5zQ0hCUG5idmQ3Z2l0UQ?oc=5",
    "time": "2026-11-18T07:35:00Z"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Crew abandons gas tanker after being hit by projectile while sailing through Strait of Hormuz",
+   "src": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNk9TM0VWRHgwbUpxN1o3SjlrSTJRXzZfZWs0QS12RE9iMlAxSWdibXRHRy16ald6dDVpN2M5cUhlQlFXWHI3WnA4SXRIcWkyajY1ekxNeFk3S1hZV2t5ODdjS05sNVcxdmtXZURrcDc5UDVtOUliQk12ZExWeTN5NDZoTFNNcWF3MHhfWEh5WkJMM0wtSzN4LS0yUExaOHlfWDdLMm5ER215b0ZwckNuRTRfbVFtcjVlaEE?oc=5",
+   "time": "2026-11-18T07:33:00Z",
+   "t_id": "Kru meninggalkan kapal tanker gas setelah terkena proyektil saat berlayar melalui Selat Hormuz"
   },
   {
    "topic": "indonesia",
@@ -315,26 +325,19 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Jelang Pengumuman BI Rate, IHSG Menguat 0,4% pada Sesi I",
-   "src": "Bloomberg Technoz",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalBuWWRqMWdrbE1WSFc1d1lIUm5HS0kyci1IeVdMN2t0UWduTnIxd3ZrUTRzOTcwMmdSbndzMDFWRU15TktpbG0xTkppSTBERWg0elBKdmQ3QlVycm1HNjlNdWYwNzhRQV9tOVdRR0xXaVd6bXpRRkRCSWc2cnlNXzZhUTlyR2pPdzMyZnQ1YXFRUDZEc0hQXy1Gc1k1d05pZnFYaGlQQWs0QQ?oc=5",
-   "time": "2026-11-18T06:16:33Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Rate, antara Kutub Rupiah dan Kutub Pertumbuhan",
-   "src": "Kompas.id",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTE92MmUzcF9SS0dOSDVkdDZBdF9Wc0hpMTFFY0pKTlFNdVROVFB2NW5tUE1IWWdyMG5BX2JCRnI1SjRtNlVrdmRGRmNQUS00QWV2UG8yblJVRmZnNzNjdU40WlJPQ3hkU3Fib0RpdE5XQnJZMS03UXREUlN3aGkzczZmbGpsb0hjaURCZGZIak4xd3FTb2hTSGNvdmx0WUo1ZjlyT2IyRElQUUdnYUY1VzlUVldJTTg2M2FoY09SNDAzeFRZYkE?oc=5",
-   "time": "2026-11-18T05:24:49Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "IHSG Rabu dibuka menguat 18,73 poin",
    "src": "ANTARA News Sultra",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeU9HVDBMdG1ETmlpMDJjZVQ3NXZvWlR6c3NGb2xwNHg4aWtOVFEyUlpBWk8xNU5lVmZNLVBQeVhNZHRPb2JuSE14ampYRHVuR1NYUGhUc0MybVNFY3lnVnd5c2JfU0tzUnp2QTJ3MzQ3VHJybXZSVjBkM3ZralVMeHBVQ0w?oc=5",
    "time": "2026-11-18T05:02:10Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist",
+   "src": "Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVowWWU4dHU1bm1Qelp3d1RHNkJpMXhLQ0hxYUstcTVhTWYtVFU2Z3ZOdXRRUkJVbzN6dzhzcVp6d1BHRE56NUJsRU5YSl8tdkJROFQ4MlBOVkxwTnhGRW1NaXl0OGlJY3llTlotYVowMERvYnlCMzBzdWpoUm9ON0lscTRYQ1JZSWU0LUE4aDh5cm1sMEwyM01GdHY?oc=5",
+   "time": "2026-11-18T04:43:00Z",
+   "t_id": "Harga Bitcoin terjebak di bawah $65,000 karena arus keluar ETF dan sinyal bearish terus berlanjut"
   },
   {
    "topic": "emas",
@@ -413,14 +416,6 @@
    "t_id": "Melacak lalu lintas kapal melalui Selat Hormuz. Diperbarui secara berkala."
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEJURjBQYXVkNTJSWEMyUlRrbFJ3NjJETGptNjYxX1JSS3lob1NOekp3WkZYcDdWVUtEaFRHYlpzUGg5d1FlNDE0QWdhMmtoUzBJb2piaWZFZWF3OFBaNjY1dTJMMldkdTVtNE1lWFJadlhpRFdFeWZYam5zN3RwWmFiSUw?oc=5",
-   "time": "2026-11-17T23:59:00Z"
-  },
-  {
    "topic": "china",
    "lang": "en",
    "t": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting",
@@ -428,15 +423,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
    "time": "2026-11-17T23:01:15Z",
    "t_id": "Senator Partai Demokrat AS memperkenalkan rancangan undang-undang untuk mengakhiri status perdagangan Tiongkok menjelang pertemuan Trump-Xi"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-   "time": "2026-11-17T22:25:04Z",
-   "t_id": "Saham AMD, Broadcom, CoreWeave naik karena pendapatan Nvidia yang mengalahkan"
   },
   {
    "topic": "geopolitik",
@@ -450,18 +436,9 @@
   {
    "topic": "saham-as",
    "lang": "en",
-   "t": "Wall Street Split on 2027 S&P 500 Outlook: Wells Fargo's 8,200 vs. Morgan Stanley's 8,700",
-   "src": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiYTltNjFfT0ZoNFBGa01TTy1uTEdCcExLZk5KNzdKMW9sV05uT3IzdnpBa3VwT1IzcHM4SUVyN1I0amcxeldaVlJFNmJMZ3VNTEZjQldWaXdMUXRENE1adjI0NURTZ0pFYmRzNjVHQVRCbE9mNlE?oc=5",
-   "time": "2026-11-17T22:05:00Z",
-   "t_id": "Wall Street Split pada Outlook S&P 500 2027: Wells Fargo 8.200 vs. Morgan Stanley 8.700"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
    "t": "Another wipeout hits Wall Street as Nvidia, other jittery AI stocks swing lower",
    "src": "WDBJ7",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnNZUHJMdFFrOUZkOGZjVzBMQTk3azBPc3dmT0thRUpxT0s3VFZTdGJOd1NVdmZMTEVKTUtCYi1rdlA3MjB2dUNhUWhXQUdtOHFYRnBxQXlkSHNsQTU1N2NQMXdvV1h2YnFyemdROVVFUUpQdGx1VVpfNkhTTnFfZ1JWbnV3bmE4RTdQaHp4emdDTUxyU2FWV2F3cTc1U0xLRzZvSVA2NDNuOUNjRmNSZF9vTVJRbldVUEtTUzZhaWhBZ9IBwgFBVV95cUxPbnNZUHJMdFFrOUZkOGZjVzBMQTk3azBPc3dmT0thRUpxT0s3VFZTdGJOd1NVdmZMTEVKTUtCYi1rdlA3MjB2dUNhUWhXQUdtOHFYRnBxQXlkSHNsQTU1N2NQMXdvV1h2YnFyemdROVVFUUpQdGx1VVpfNkhTTnFfZ1JWbnV3bmE4RTdQaHp4emdDTUxyU2FWV2F3cTc1U0xLRzZvSVA2NDNuOUNjRmNSZF9vTVJRbldVUEtTUzZhaWhBZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXlxYXR0U1BZQjZVeDBCYS1PMDFfNzFvRXBDMjVCTmJid2hheTRMRjFlUDg5NGdVNUdNQmg2RmQ0dDF2aTNDejJsdllPYXJHZXBWRzRnbk5LY3lPQzBmaWJ4S1JDU0JkaXk0ZWZMeG84ZUtta0FRTFFBMUZhZkZYVXJjb2EtN1ZaR0VQTEFqQTdJQlF0dUdKOTBfWjA5Y3h1MHVVVlI2bkh2d3JIblHSAcIBQVVfeXFMT25zWVByTHRRazlGZDhmY1cwTEE5N2swT3N3Zk9LYUVKcU9LN1RWU3RiTndTVXZmTExFSk1LQmIta3ZQNzIwdnVDYVFoV0FHbThxWEZwcUF5ZEhzbEE1NTdjUDF3b1dYdmJxcnpnUTlVRVFKUHRsdVVaXzZIU05xX2dSVm51d25hOEU3UGh6eHpnQ01MclNhVldhd3E3NVNMS0c2b0lQNjQzbjlDY0ZjUmRfb01SUW5XVVBLU1M2YWloQWc?oc=5",
    "time": "2026-11-17T21:14:00Z",
    "t_id": "Kehancuran lainnya terjadi di Wall Street saat Nvidia dan saham AI lainnya yang gelisah berayun lebih rendah"
   },
@@ -518,6 +495,24 @@
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd195NTdkOXBsTjJvbEVkbnphZ0pXNko1Uk5XVGs0S2RMTjJab3p1Q3FVOVMzaVk1UkpyNFJxVDBjQlNmUE9LbUpET1ZLeGRCSnRaOFBodERmelBzZU9xMndLSEg5STZ2eXkzSFdyWjN0N1FXNGRpQ0FWcENIb2FSR0M3eTF6NGRjTWJQb0Z4SXgyN0tFT01qMTJ1Yl92eTNlektuRtIBqgFBVV95cUxPOFFEMlhHY2dRVWJNZlNnWTItTWJrSHFjdGhJQmV1ZWtpd0QyLUpLOXJlRnc4TW9ZYWUxWWc3bzFNVzJ1SWJ2QmlDYU1fLThPQ0NfNzBPaW9VRGpPZ0ROcWNub0VJWFY3ajBiT0YzRGJ1b1MwRXpycFlCOFFnMWhVZjhoUDZmVW1lZGVJcGtvUzhzYUdYbzk4VEJYb0hMUzk1Z2tIelB5d2JlQQ?oc=5",
    "time": "2026-11-17T20:12:15Z",
    "t_id": "Tiongkok dan Kanada memperluas keringanan tarif setelah pertemuan Carney-Xi"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths",
+   "src": "Atlantic Council",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg?oc=5",
+   "time": "2026-11-17T19:17:00Z",
+   "t_id": "Ketika skandal Nvidia mengancam akan memicu kembali ketegangan perdagangan pada perundingan Trump-Xi, Beijing masih memegang kendali atas hal tersebut"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Will Gold Prices Rise After the Fed's Expected December Rate Hike?",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWctLXJnSWdVYW5Tcjh2S09STExVTWFuMWM4NFdnTjRFQ216c00xOVBRVUFPQ25JTDRkb1Uzd19ua2pyRkpRZ3hYZ2xxellPVjFyMGJQYkN3dVBUUnByVEhITzJKM1U3c3ZtM2tFSEd4SlRlMjlvbDhTUWd3czd5cFJrOTFCTWlCUDFOVzNwdU4ySTgxX2RHYWlDYS1laXUtN3c?oc=5",
+   "time": "2026-11-17T18:02:58Z",
+   "t_id": "Akankah Harga Emas Naik Setelah Perkiraan Kenaikan Suku Bunga The Fed di Bulan Desember?"
   }
  ],
  "errors": []
