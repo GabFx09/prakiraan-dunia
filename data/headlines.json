@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-19T18:47:53Z",
+ "updatedAt": "2026-11-19T19:02:33Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Rupiah Indonesia: Risiko Pengetatan Lebih Lanjut saat BI Berubah Hawkish – Commerzbank",
+   "src": "www.fxstreet-id.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHpoR0xFQWRCNXlTZW9JaG1ZdVhudFdBQXYyNk5FR3hHUkd5dEE0YmtrcTd0S2VIRGJ6dWRkUGh5Q0lLaktsVWFSZ2FXMWxVYzc2eGd5NWg5aTJiM2MxdXJlblpWZlRvTEJIQ0pqSFlpUkt0VjhYR3FlTE9XakR2RVVhMWdUU2s1QmNySVhXQTlYLXA3S2lFYnlNVlYxcENadVNXbUpid0VOZjJqVzYzMVV1Q2FySC1WZHF1X1NfTUY1X2g5cFVaag?oc=5",
+   "time": "2026-11-19T18:57:20Z"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -88,6 +96,14 @@
    "src": "Demokratis.co.id",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SX2JMWFU5VGJxVnRJemdtMmtFMlp1a0FvOGNWVHR0QmhPT0xLYTVQQmtfcWRLcTlfLWpIMlRvaVlPS0xscmI1MnozUlpzUzFZMzhjNWRFU2JjUC1kLTBrWFZoWlV4bG5rYWlvQ1dmR0NiM0lSZnF3aA?oc=5",
    "time": "2026-11-19T16:00:27Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "‘Anyone forecasting 2027 is forecasting data centers’: The Fed is about to hike into an AI boom it can’t cool, and Main Street gets the bill",
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW0tVzQxXzlMSW5fdDEtdFIwNzh2Qlctak1jZDJRVDVZdGZVbWUzX3FFdWpvRjd2MFE1Tjdld0xGUTlfUkpHU2VJU1RtYThnMTVsRkpobU12TW5DUE9qbmpHbjNYZEEta01kYS1Sc25UR0Q1R2VIZmRERnJHTTE4LUpQYlZyWG8xbVdNcmxOTmUxSlg4Uy1ULQ?oc=5",
+   "time": "2026-11-19T15:44:00Z"
   },
   {
    "topic": "saham-as",
@@ -195,15 +211,6 @@
    "time": "2026-11-19T14:00:00Z"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Oil prices head higher on fears of more strikes on Iran",
-   "src": "Transport Topics",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94eHAtcVdOc1JQUVJDdU5fLWtGT2ZIWlhlQ2R3eTFHOS0tNmJKS3VpTWFUZ0JrN2hCdU1VZkNkS1Atd2l2eWZLSVhNQWduYVU1VUt4RmFsaGQzT2tTcURtanNYV0tyZkVJb0dFY0VR?oc=5",
-   "time": "2026-11-19T13:59:00Z",
-   "t_id": "Harga minyak naik di tengah kekhawatiran akan lebih banyak serangan terhadap Iran"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Awaits Anthropic’s Listing— PANW",
@@ -211,6 +218,14 @@
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMHl1UG5odS1iUllYWUlvM0NvMGM4c0dsZUhJdTNuN2dUdUE0Q01KLURSOE1Sd1N2akNuZ19VX3lqdWZvZjRsM183SW13aTBoYlhGZWZmV1RjcEhiQ09CdEhTS0EteVpLVThzVnlKRHVDSzM5Sl8tazl5Nmd6bHVqZkIzSjFBdFliMGFIY0pYS0ZVNlV6aDlqZVJqck5jRHJPZDk4Nm5xQXZnNTJOajJhaXhVcTdGdUdibk8tUEZCcWZZTnNXb2gzZF9yQWtJMVdWckhsa2poLWlydEFvV2V0WmFSLVNhRldqbzdOZHpIX1gwQ0tLTnc?oc=5",
    "time": "2026-11-19T13:42:00Z",
    "t_id": "Pasar Saham Hari Ini: Dow, S&P 500, Nasdaq 100 Futures Naik Saat Wall Street Menunggu Pencatatan Anthropic— PANW"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
+   "time": "2026-11-19T13:41:47Z"
   },
   {
    "topic": "emas",
@@ -251,10 +266,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Bos BI Akui Beratnya Menjaga Stabilitas Rupiah, Ini Penyebabnya",
-   "src": "Infobanknews",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnE5Vmwwb0NXSGlXUnEwQVhMSEtoNzg2VTJtVHE2LWE4SWJpNTBOSlhPUFBaYWN6TGZwN2N0MnB6YjNQQkd5dEt6THZyd2doMkc3eU8xMzVBYmtnNU8zaWFsRUZ5bWZfZ0F2QkxOLS1aSXZkaXFpODVhNmZ0NWp0NlZtb19xbGJHdEtDMjh5S3Y?oc=5",
-   "time": "2026-11-19T12:52:27Z"
+   "t": "BI Hadapi Tekanan Rupiah dengan Kenaikan Suku Bunga",
+   "src": "cwibc.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GX29heHN5TGxsZlN1QUhsWXgtQVowampGVEJEY0JKM2ZHMHFSWTBuTnZMbkpsYThhSnlnNzJEYlM2aUxwRDBYcHlRUndLZ0FlUm00SkMwWQ?oc=5",
+   "time": "2026-11-19T12:56:07Z"
   },
   {
    "topic": "ai-teknologi",
@@ -273,14 +288,6 @@
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaG9pRFQ5emN4TkZLd3VWNGIxSFh4cTc4SGM5djlKUF9NelBPdTg0cXhwVVpLZk9NSDI0ZzdnVkl3WUo3SVRvYWM3Qk5Id3gzX2dmSF9UQmdCS2RFQ0s5clhUNFBUX1ZFWFMzdUk0ZVcwX1hpZlBoX1lucjZIYzVCaW14QU1TTGpseFdXc2U5eFF4Um1RYW9Gb056MDhya2xpa25POEtNeXpxRzA5LXhxS213b0I2Y3MwOEw5NUF2MlZpY2ZidXpMa0NyTlN2RWllY2h2d1ZPcEE2VmZwUlZDQWVFNDJDZDRNcDNEcllHYzY4UGo3NzRkYXZjY0lzbFk?oc=5",
    "time": "2026-11-19T12:22:58Z",
    "t_id": "Harga emas hari ini Kamis 19 November 2026: Harga emas dibuka di level terendah dalam 14 bulan"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Gubernur BI Akui Jaga Rupiah yang Melemah 8,47 Persen Sepanjang 2026 Jadi Tantangan Berat - kumparan.com",
-   "src": "kumparan",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekFHeU1xWWx3MUNKZkotOFNyLXY2VzdBREJIU3pZOU05SENOTklLWkdDX001TnlrSFI0ZlVMMGhwQVpDWVY4TkJfbFdyRnkwMFRORzNISTFKeHZpY21VSWRxSFcxeWVoU0l5SE5HZ0RuNTJBcGVDcldMYXJ4dzZ5TlU2b2tLcG1NTTN2VmNJQk9jazVmck45S00tWFBfU05RbVQxaVk4VjNLWmZzNXpmQUk5NFRrMlZraWNTR3ZWcWZYdlpmZ0xOMTJ2cEg2ZDZ0aTl30gHbAUFVX3lxTE00XzctNHdJQUJvMmVrbEFnbURYTDg0cFBfLWI5T1FwVjNhUWFkYjhCUm1WcFluMnBqeUkxOGNZUGk3SXNnT3puQlE2Sm1kOVBLcHdWWnlCdjdIUG5TeEhGM3lyMFVNX3l0dEd5SmIxWVhhU3FpRWFielBaX3lWR2EzNjBIOEFGS0gtSkxFQU9kcEhXZWUxX184cHIyWW5uMndORGJLQlRINWo3dmpKZFI2NldYdWxZRzB4ZWlZQm9UZ203eGRTR1BsUUNLc2tqQl9lV2lZOFEzSUI2NA?oc=5",
-   "time": "2026-11-19T12:17:00Z"
   },
   {
    "topic": "geopolitik",
@@ -376,6 +383,14 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSC1SbFVLc2F5bWFZaEVsbVZzeHRzY01aWWJIMjliY3R6SXdyRzAyWDJ1VnIzazBndzFsMUNaZll0NlpxV2g4clhMaUhQUGJ0b1VhNHp3cy0wR29OMjJXbTVoSFJrVWxKb1dQVEZCSHplcFA4ZnYxTk9TUEhPTnkybA?oc=5",
    "time": "2026-11-19T09:52:17Z",
    "t_id": "Leverage minyak Iran melemah. Hal ini dapat mendorong konflik ke arah eskalasi"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran's attacks on ships in the Strait of Hormuz escalate",
+   "src": "NPR",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGJYWnJBeEFvZjlDcUZJUWEyTWNNY3RJMjhIc3dUcDJPVm1zbU5uLWtKOTg4T1JmNHA4d2RhS2tZRUZVVXdMUm4yeWdlSVdNbF9NOHU5WVZNLWk2ZC05SUVYMl9zM2szZ2FOOUxKRnVIeV9aWG93VXExcEVxcktBUExTYjZmOFVCN2RZVVB4aXRmbVJRRWZreE9KUXJDVTVlZmc?oc=5",
+   "time": "2026-11-19T09:46:24Z"
   },
   {
    "topic": "indonesia",
@@ -494,31 +509,13 @@
    "t_id": "Saham AS Memperpanjang Penurunan karena Kekhawatiran Nvidia dan Tiongkok"
   },
   {
-   "topic": "ai-teknologi",
+   "topic": "bank-sentral",
    "lang": "en",
-   "t": "Nvidia retreats as strong outlook fails to dispel uncertainty",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
-   "time": "2026-11-18T22:17:53Z",
-   "t_id": "Nvidia mundur karena prospek yang kuat gagal menghilangkan ketidakpastian"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June",
+   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
    "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
-   "time": "2026-11-18T21:51:11Z",
-   "t_id": "Penurunan kelima berturut-turut pada S&P 500 menyeret Wall Street ke penurunan beruntun terpanjang sejak Juni"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "US Stock Futures Rally as Nvidia Results Ease AI Trade Worries",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRi1ZbVpsWDREeUZoOV8tRHkxLVZ2WnNtaFdXWENZbkVWVHRITUNZRmFFX1V1X2RCV1ctdWFBMk14emVFTEl0eDV0cERXU0ZmN3A5NnphRDZkU3FEdmpCSXpJRU5HMnFHbENrbmhoYkhsX2VIZUxrU0VlUTUycFo0a3l0UFoxaEVOS2ZxaGxwRmdRd3lJSktTZy14VUdRTVJCNlVTb3BmZW44ankzblhKWFZ6dw?oc=5",
-   "time": "2026-11-18T21:13:26Z",
-   "t_id": "Saham Berjangka AS Reli seiring Hasil Nvidia Meredakan Kekhawatiran Perdagangan AI"
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
+   "time": "2026-11-18T22:48:00Z",
+   "t_id": "Risalah rapat The Fed: Suku bunga yang lebih tinggi diperlukan pada bulan Desember karena kekhawatiran terhadap inflasi meningkat"
   }
  ],
  "errors": []
