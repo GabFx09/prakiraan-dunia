@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T03:58:07Z",
+ "updatedAt": "2026-11-19T04:12:51Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -87,9 +87,9 @@
    "title": "Here are all of the recent major outages, national disruptions",
    "src": "USA Today",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnZMSVJ4VktNNGhRVXZ2N3NTMUNtU215QlJ0cEpCMG1Dam5wTDNLY193VE5tcHlvR0wyM0VUSXNKWXZnRVNRX2gyUmlSUGxRdmNJX2xHWnNzNmhoQzM4Y3V1ZXpDTTI5MUttSVp5UWJwOGc3ZHBqeXB1aVBmRzlLYkhNZkdwMjNIdURlYTE2OWJMQkZZclV2bHJB?oc=5",
-   "sources": 5,
+   "sources": 4,
    "recent6h": 0,
-   "score": 5.0,
+   "score": 4.0,
    "level": "sedang",
    "first": "2026-11-18T04:16:00Z",
    "last": "2026-11-18T19:22:00Z",
@@ -99,11 +99,6 @@
      "t": "NSA network, Apple services go down in latest outage",
      "src": "Heartlander News",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzFDNGZZM293cXB0SDFIVXo0LWlLYTFTWVpoMDlyTmlOT2tFZUdqdTJ3Rk9xNVNwXzZGcUR2eWN3UnQyNW9QUlFMbTdqRlEzNEV3OG5Oa0htU3hLN0hmdlJkeFlYRnpLdzBxenYzSEdhTWstVlZxa1lZYnRCcG5tcXZfdDA2dFE?oc=5"
-    },
-    {
-     "t": "6 Major Tech Outages Hit in 6 Days. Experts Say Companies Are Preparing for the Wrong Problem",
-     "src": "Inc.com",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEVHZF84Z2hMeDdsYUVIdnpjNngwMW9ORjRqV3JzMERJUUtUSUNuY1FibmI3a0Y3bVdGMlhYa0pVWTNhZ2ZHNW1lTFlHb3ZWdUVCT1NfbXluSVpFdy01Z3NMbHpZOGdacW9kRlUyTGlkelJyNVBQcU9XZW9EZl90TGxaWnhDcExIWHA2bTFrRTVoN1RySUZJU3M2Y1JOUG0tZnpJWG1QaXFqaG9CclRHcGVpYTZqY2s?oc=5"
     },
     {
      "t": "Why Are So Many Outages Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit",
@@ -269,6 +264,29 @@
      "src": "Bioengineer.org",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
      "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611181605-f212",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "6 Major Tech Outages Hit in 6 Days. Experts Say Companies Are Preparing for the Wrong Problem",
+   "src": "Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEVHZF84Z2hMeDdsYUVIdnpjNngwMW9ORjRqV3JzMERJUUtUSUNuY1FibmI3a0Y3bVdGMlhYa0pVWTNhZ2ZHNW1lTFlHb3ZWdUVCT1NfbXluSVpFdy01Z3NMbHpZOGdacW9kRlUyTGlkelJyNVBQcU9XZW9EZl90TGxaWnhDcExIWHA2bTFrRTVoN1RySUZJU3M2Y1JOUG0tZnpJWG1QaXFqaG9CclRHcGVpYTZqY2s?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T16:05:00Z",
+   "last": "2026-11-18T16:13:13Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "JD Vance cancels NYC appearance as major outages hit US",
+     "src": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUdIeHlYbjZwRXM4NjFDckxSdHhCcEZRTXp5b2dEVU5JT2EzbUNnWVg0WDNzX2lSS1pfYk5CZGVFMGt3eHNHNWR3Zm5CMm5UazZrT2I0Y3ZobkJZQjdmRUJjcEdCaElDanNjU3JjWHZXYUxaYXhHTm9oajF0aENiOFNn?oc=5"
     }
    ]
   },
