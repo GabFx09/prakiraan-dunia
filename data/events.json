@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T06:10:10Z",
+ "updatedAt": "2026-11-19T06:24:55Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,19 @@
    "title": "Kuwait Repels Iranian Drone Attack on US Hosted Airbase",
    "src": "SuaraGarut.ID",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DQ2NzRXVNd2pUMm1TQm1FMnRuVVdBMGhYMjZBT0RlLVoyR3ZadnNsX18yOFhoUmw4MUVWZFgyVzlvbDNiQVFvV1dKNHVqZkYySHp4UUtheVBuUTBud19jTHVoNDRXdXB4UGFr?oc=5",
-   "sources": 6,
+   "sources": 9,
    "recent6h": 1,
-   "score": 6.5,
+   "score": 9.5,
    "level": "besar",
    "first": "2026-11-18T05:29:45Z",
    "last": "2026-11-19T04:38:31Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Iran hammers US drone, missile sites in Kuwait",
+     "src": "https://aapnews.aap.com.au/",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTRSZ0JnbXE2bk5nS2VhYk5EdXIzYUhpcTE1SWxkNGF3UUdJbHh2MGR0OEVOWGdDTVowV3JWZTZqSF9Oa1l0TUZIQ00zQ2NIdDJXRlZvbWRYdXhQRzNPYjloam0wV0FIcnBTZDd3eHBWNHowYnJPZUpidDNXM0F4S0VoX1BwYjBBZnRETHMyUQ?oc=5"
+    },
     {
      "t": "Houthis claim missile and drone strikes on Riyadh, Jizan and Khamis Mushait",
      "src": "Al-Bawaba",
@@ -29,58 +34,10 @@
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUFFWckc2ZFkzSFlZcmxSa3g3aDFqd25JeXFkck42WlkzcDNMdDVBQkRJZ2dRWVptSTB3REZwdzh6cEF4ZDhmM0tqZDQyRk4zVHVSNi1ER0tYX2dJZ2M2OW02SGhUM0RmSlBoTi1WT0F4TXRFZF9PRThTd0lWUklrRmpvMzlvZjNpM1I1ajFCNDdCY1k4OW5wa1I2bEVpSmVqWnZmWnNfaVkyR2ptRzBTUGlYSWZoSlZFc1YyRVZMSmFjRlBhcVY4VVpwUm1GemRFNXfSAdcBQVVfeXFMTWY4OHRuQjN1Um53NXF6MFJzOWU0VEU0UWNXNGhJc2s4Z3NYZlJSNDlodXVDcWtLMjE1c3BvYWdJZ2FHUVdGRXJ2NVh6ZDd2anptNDJlbThIT25MWTNtSVk0bl9XRDlrQW82Z1JRRlIzRnQ2NVNTd2s0UjdtVkpLZjhxbjI1NG9YVG1jU3B2enRJQjFCR3dkYXE1bUVpZlFMUXVVM1pLMGdKaVIzMkplVWFXSmpFdm85NHF2a0NZRE5ycVVtbjBNUlF6LXR0T2xQR2xlUUZUWW8?oc=5"
     },
     {
-     "t": "U.S. Strikes Iranian Missile Site After Drone Attack",
-     "src": "IFCJ",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdENsNzVIQ1A4ZGRIeXdTbmhheWR6cU5QQy1CbDR0bDhBSUVmM2VfcWpBbzhvTC13bzU5c3pGTkQyN3ZXQTdYdmk5SFEwcmhuRHhVdktwS25mdU4yWFhrd29pX01CX3Y4R3Y3bndZWlBUZ05sMU9BRlF2Y1hoTzVEODZBeHRoNUgzbnp6dzVJdTZ2M3c1U1hlbWVZVG03ODNQ?oc=5",
-     "t_id": "AS Menyerang Situs Rudal Iran Setelah Serangan Drone"
-    },
-    {
-     "t": "Kuwait and Bahrain announce they have countered Iranian drone attacks",
-     "src": "صوت الإمارات",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTVfdV91SERvajVqRmgyb3d3WEtJU0xJUzdJcmRhSm1VZDBzYUF1SkFZWFcwOV9MRHc1bVRHZW4zQXk3eHZlVmVDd3hpS0Zwakl0Z0I2ejdnd1Bqd1Nad0l3ZHdlWkRIa1pfRjFOcFVHQ2dZbFctWmN0ZGpaRUlmOEVPd3NmRzRtQk9FTWIwV1Q5RXJGRGY0QnZKM3JqN3VKY2xISnBWX0pDSXJVbGU2SHB2a1NZdmlPOU1XUWJB?oc=5",
-     "t_id": "Kuwait dan Bahrain mengumumkan bahwa mereka telah melawan serangan pesawat tak berawak Iran"
-    }
-   ]
-  },
-  {
-   "id": "perang-202611180623-c232",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Iran hammers US drone, missile sites in Kuwait",
-   "src": "https://aapnews.aap.com.au/",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTRSZ0JnbXE2bk5nS2VhYk5EdXIzYUhpcTE1SWxkNGF3UUdJbHh2MGR0OEVOWGdDTVowV3JWZTZqSF9Oa1l0TUZIQ00zQ2NIdDJXRlZvbWRYdXhQRzNPYjloam0wV0FIcnBTZDd3eHBWNHowYnJPZUpidDNXM0F4S0VoX1BwYjBBZnRETHMyUQ?oc=5",
-   "sources": 6,
-   "recent6h": 0,
-   "score": 6.0,
-   "level": "besar",
-   "first": "2026-11-18T06:23:24Z",
-   "last": "2026-11-18T23:31:41Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
      "t": "Iran claims drone strikes on US base in Kuwait as Navy faces missile shortages",
      "src": "Minute Mirror",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmdXU0hyRVV3QlhUM2ZQZXl5RktTbjNMS0dJMHZ4cDJKSFI3MlRRSHpDTDNtLWZjUzBXLV9MajdDQmNnSU1IM0dBUFdJSTRRdmhfdVZUell5RTIzSXFqYmtTS1VYZUJsdkxNNm1fdzhmRzQ4UWhhSzlYdml1VGZRVmZwZ0ZiMFZLVklaTG9fMThzZzQ0ZlV0b2R6eG9DU3E0TTU5V3NXNFdqVmhXTzNYaU1aLUI?oc=5",
      "t_id": "Iran mengklaim serangan pesawat tak berawak di pangkalan AS di Kuwait karena Angkatan Laut menghadapi kekurangan rudal"
-    },
-    {
-     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
-     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
-    },
-    {
-     "t": "Iran attacks US drone, missile sites in Kuwait, claims payback",
-     "src": "NewsBytes",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0NoNnRaRmhLVlZIbWt3NE5ENjRNQVZ5aXVaa0dUd212R1V0WFZyUThGZTVQVnJWQmhVMkEtSjg5MGRFek9DbTZXbElxaWs0XzlJdEtRUWoydTBHcWNKS0dtck04cHl2eEVyZ1ROT05ZY05KcnROb1NUamxhTnZsbGQ2c1Ztbkd0dXhoT01Ca3oyQUk5eERHck93YzVYcGs2NWdWMDZtaTg?oc=5",
-     "t_id": "Iran menyerang drone AS dan situs rudal di Kuwait, mengklaim balasannya"
-    },
-    {
-     "t": "US hits shipping route after drone attack by Iran",
-     "src": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2JUOEllYWxWd1hqVkdvcnFMWHI0b2VfeDBfZ1BwcE5qa3RKQnc5c3NKZU1PVE9jZGJDV2FqZ2VNeDhpNzd2QjY1dVJtM2x2Um52OThTMF9wVmRuRzVQTG1WaTNDakJtc3Z3VGUzbVU3MVQ5NEJVYV9jRldRcWQ4MFpELWU3RWN4S21WRjBoSGNfLS03b3RJVGZHc1J3cGM?oc=5",
-     "t_id": "AS menyerang rute pengiriman setelah serangan drone oleh Iran"
     }
    ]
   },
@@ -170,7 +127,7 @@
     {
      "t": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
      "src": "Radar Jember",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNm5MdkdJMGJHZldNeW9jdGVmWlhtRTBLQ01yZTNtRlVDZmc0MFhpVXFiRUdrVEZncGoxUXJXYmdzekFpRVBMeXZaeWduYUFSQWEyQm41MXZWb1pmTGMwblF5WUI3a081eGdVaHFJVFVzenZ1U0ptZ1k5SnRuTEhoTXQtSmY1elZpUVR4c0dtTFg0WmFaLTBHZ3AzRHlJSTliM2o1ZUx0V0V2NmVwbGJNd09Tb3J0V3IwTnNGV214MnN6QlJNS2UtR9IBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5"
     },
     {
      "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
@@ -199,6 +156,34 @@
      "t": "Bird flu turkey prices: 10 ways H5N1 still shapes costs",
      "src": "qz.com",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIdmZuOXpDQW5UX2FMQjdIMVpsVXFXblJLSkhzTjB6SnZxX1Y3UURpbTF2UFBkSERZNEs0bkNpWFVkUFFFNElGYWY1anQ1SFJuVllyNEJIVjA?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "transportasi-202611181200-fdb4",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "U.S. Ground Stop Exposes Aging Air Traffic Control Systems as Extreme Weather Risk Grows Ahead of Thanksgiving",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pN3pBaGtULXpRajZEMDdNMUk1Ym1iQURoWm9yejUzZ21ndzE3b3BxU0xoT1NQZFI0UmFXa1RKU1Jsbnl4QWg5SlczaTN3a2h1UmxWNEFtY01McmtDNk91dXgxNWNBdmZrXzh5ZlRFNHdScWc?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T12:00:34Z",
+   "last": "2026-11-18T23:12:51Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Musk Says Starlink Could Fix US Air Traffic Control After Nationwide Ground Stop, but Role in Preventing Outage Is Unclear",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TLWFXVHExejJIdV9VRGh0X2x4N1NIdGhLY2Jvd20yVjJUb0l3SlhsaXBtSGVaQTRLT1A1UkNYMzJwRkJFaUl0TTdmNDEtQWxnanhmZWY0bUNIRWI3OFNXcEcydEk4NEdtWWNLbUs3akZEdXc?oc=5"
+    },
+    {
+     "t": "Get Government Out of Air Traffic Control (opinion)",
+     "src": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaldSY1N1VTJHNzdYckZncTlfTEwwR1h3bmc2dEhtMkY4SGxXdXlvQ0hZTHVGbVlMdnNfR2tWQTZTcHZTN2ZyZEdGSFJwSUR3ZnoyanZ0bU5JRjlaRG5UdmsxaVhXWnBEX1hSZzNmd1lZUGxxWUdUamc3NkIxcVRodGFHaWhqTmVibHE3bWRsWThIazY1SVNZYVBNMEU2VVU?oc=5"
     }
    ]
   },
@@ -342,27 +327,29 @@
    ]
   },
   {
-   "id": "indonesia-202611180614-7d16",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Usai Liput Demo Karhutla di Kalimantan, Jurnalis Malaysia Mengaku Dibuntuti Sekelompok Orang - Konteks.co.id",
-   "src": "Konteks.co.id",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS0xuX1h0M2ZGUm43T3VhWlgtd1JhaW9UZG5Rc3JWdmxrWG1sMmxWV0JFZWVKQmxKdVcwNGFpOVJIZzVDb01CeXpIc2lOV2lkdEhxQ3dJNERkb2NKRXB3c1B5T3hpUVJ3Uml1X25yTG5kUlVucHVneW1GR1huUnpHLS1CanlZaGJhQUx4RmdVb2RPVUNLWTJkbWl4VXd1bHpGdGstdklfWURpVF9IYy1CZWQ0cloycHNqNE9VWGZkZUhfTDE3SjBjMzNWWjJGS2N4LW5v0gHYAUFVX3lxTFAzZmJXdEFPZndhcjFKSTlfalZEVm1SeHZ2enBVZHRxOHR4REgwUWtSSVZQczB4UTBhdzIwVFc3NmNZRlYxN3Uwc09PR2x1QkxETDBCSVlaQ2VrM3RQbkhlS2hWWGFyZ1lFQjNPVVgtZjJvWXg5Y0p1WmlmaWNZcUxPRFFWclA5TmdUNTJENjdUZi1ncUFoVFM2NVBlbU9hdE9Cb2QzbWdUeFhtcTN3bzNhWDFLUUNCbURTQll0V3N1alNnU1pfRm9zN2pKRFpXa205dEl5ZjduaA?oc=5",
+   "id": "perang-202611180850-ffbc",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-18T06:14:40Z",
-   "last": "2026-11-18T11:15:00Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-18T08:50:00Z",
+   "last": "2026-11-18T12:10:25Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Jurnalis Malaysia Diancam Usai Liput Demo Karhutla, Oknum Pelaku Ketahui Nama Ayahnya - Kilat",
-     "src": "Kilat",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcklmdUZaS3Raa3RzTnNUMFQ0V3Exa0VfUkZwVElHMUpLaDF0LWZKb3F1eE1QUDg2by10VHk4TDlZS1BZRHVybHU0dWNiUmxyNnNONVlCZzRKM25YNjRkWVhSOENwbk9pcU5YTDM4TDNTb3pPeTRNTkJwbWloWHNMaWxWeDJWeUdVQm8tNTFPNTlac2tmSklwbzZSZWNkbWlSUndTLW5HT3p4bWF3ejlRejZFY0dWYlVTZWtWQmVybzc0WUN3RHfSAcsBQVVfeXFMTzZIbWNKUDJZalVkbXRiRnZXTUwydW1fTW1Fd2pkMG0ybzlUU25QZElIYWp2N2x1a2ZPN3dHVFBXeERVYUtFZWZaR0YzVnFudExjNThVbWpYYVFBMzlpYzFHVmJMY2FwdGlHclU5X25fLVcyRHVXR0cwOElJQmhKZlcza21NWG0tZHVTRjJNai1zZk9vOXJtVHpOX0lPb0pmRVN3cTB5WmVBYXRyeHl2SWF6R0w0VDZpa3NLdVJZSmo5SDNPdVV0aW5yTWs?oc=5"
+     "t": "US hits shipping route after drone attack by Iran",
+     "src": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2JUOEllYWxWd1hqVkdvcnFMWHI0b2VfeDBfZ1BwcE5qa3RKQnc5c3NKZU1PVE9jZGJDV2FqZ2VNeDhpNzd2QjY1dVJtM2x2Um52OThTMF9wVmRuRzVQTG1WaTNDakJtc3Z3VGUzbVU3MVQ5NEJVYV9jRldRcWQ4MFpELWU3RWN4S21WRjBoSGNfLS03b3RJVGZHc1J3cGM?oc=5",
+     "t_id": "AS menyerang rute pengiriman setelah serangan drone oleh Iran"
     }
-   ]
+   ],
+   "title_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
   },
   {
    "id": "indonesia-202611180840-f820",
