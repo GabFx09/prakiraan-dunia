@@ -744,6 +744,17 @@
    "ihsg": 5264.753,
    "usdidr": 18263.0,
    "ust10": 5.066
+  },
+  {
+   "t": "2026-11-19T06:58:00Z",
+   "risk": 83,
+   "btc": 63518.02,
+   "gold": 3732.8,
+   "brent": 89.6,
+   "spx": 7323.63,
+   "ihsg": 5232.564,
+   "usdidr": 18258.0,
+   "ust10": 5.066
   }
  ],
  "horizons": [
@@ -1308,24 +1319,24 @@
   },
   {
    "c": "neu",
-   "d": "Turun 3,2 % hari ini",
+   "d": "Turun 2,6 % hari ini",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$88,97"
+   "v": "$89,60"
   },
   {
    "c": "neg",
-   "d": "Turun 0,8 % hari ini, ~14 bln rendah",
+   "d": "Turun 0,2 % hari ini, dekat terendah 14 bln",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.713"
+   "v": "$3.733"
   },
   {
    "c": "neg",
-   "d": "Turun 3,1 % hari ini",
+   "d": "Turun 2,1 % hari ini",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$62.908"
+   "v": "$63.518"
   },
   {
    "c": "neg",
@@ -1336,17 +1347,17 @@
   },
   {
    "c": "neg",
-   "d": "Naik 0,3 % hari ini",
+   "d": "Turun 0,3 % hari ini",
    "h": "ihsg",
    "k": "IHSG",
-   "v": "5.265"
+   "v": "5.233"
   },
   {
    "c": "neg",
    "d": "Naik 0,7 % hari ini",
    "h": "usdidr",
    "k": "USD/IDR",
-   "v": "18.263"
+   "v": "18.258"
   },
   {
    "c": "neu",
@@ -1359,7 +1370,7 @@
  "regimeTitle": "Stagflasi, risiko tinggi",
  "risk": 83,
  "riskNote": "Risiko tetap tinggi: Teluk memanas, Fed condong menaikkan bunga, rupiah dan IHSG tertekan; harga minyak sedikit mereda.",
- "updatedAt": "2026-11-19T03:58:06Z",
+ "updatedAt": "2026-11-19T06:58:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1686,10 +1697,10 @@
  "brief": {
   "date": "2026-11-19",
   "points": [
-   "Risalah Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi, termasuk opsi kenaikan lebih besar. UST 10 tahun ~5,07%.",
-   "Rupiah melemah ke ~18.263 per dolar AS meski BI menaikkan BI-Rate ke 6,00%; IHSG dibuka turun dan sempat anjlok sekitar 1%.",
-   "Iran memperluas serangan ke pangkalan AS di Kuwait dan Bahrain; Brent turun ke ~$89 tetapi sangat bergejolak.",
-   "Bitcoin turun ke ~$62.900, emas ~$3.713, S&P 500 turun lima hari beruntun.",
+   "Rupiah melemah ke ~18.258 per dolar AS meski BI-Rate naik ke 6,00%; IHSG ~5.233, tertekan dan perbankan jadi sorotan.",
+   "Serangan rudal dan drone dilaporkan menyasar Riyadh dan Arab Saudi bagian selatan, di tengah serangan Iran ke Kuwait dan Bahrain; Brent ~$89,6 turun tetapi sangat bergejolak.",
+   "Risalah Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi; UST 10 tahun ~5,07%, dolar kuat menekan emas (~$3.733) dan Bitcoin (~$63.500).",
+   "Nvidia masih mencari CEO baru setelah Jensen Huang mundur pekan lalu; saham teknologi AS rapuh, S&P 500 turun lima hari beruntun.",
    "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan perkembangan Teluk."
   ]
  },
@@ -1773,6 +1784,18 @@
  ],
  "events": [
   {
+   "t": "Serangan rudal dan drone besar menyasar Riyadh dan Arab Saudi bagian selatan",
+   "what": "Sejumlah media melaporkan gelombang serangan rudal dan drone ke Riyadh dan wilayah selatan Arab Saudi, di tengah eskalasi Teluk. Pelaku dan skala kerusakan masih dilaporkan berbeda-beda.",
+   "impact": "Menambah premi risiko minyak dan geopolitik; bisa menekan rupiah dan saham, sementara dolar dan aset aman cenderung diuntungkan.",
+   "assets": "Minyak, rupiah, IHSG, dolar",
+   "sev": "tinggi",
+   "status": "berlangsung",
+   "cat": "perang",
+   "time": "2026-11-18T07:27:16Z",
+   "src": "جريدة القدس",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV09nNEtCSDNRNndkN0VmbGtCX1l0aFM5LU12eFZWM2Z0NU1PTXlxbGxkTzVoeEp3dVhaYUpnZWhWRXlZQnk5SEJHQUs0RVk1XzUtYUxWUGxmd1RRQ252Ym05WDltckJJZ3ZqNGx0Q0FfM2d3QmgtT19rZVVZVTF0MG11cjBVOWw4T1BaUmZMRTZ2M2pOV0dkMUdoNzVMM05kdkNCTE9CS3JjWHJRbEhR?oc=5"
+  },
+  {
    "t": "Bank Indonesia kejutkan pasar, BI-Rate naik 25 bps ke 6,00%",
    "what": "Dalam RDG 17–18 November, BI menaikkan BI-Rate dari 5,75% ke 6,00%, lebih tinggi dari ekspektasi mayoritas, setelah rupiah jatuh ke rekor terendah. Banyak media nasional melaporkannya.",
    "impact": "Mendukung rupiah dan menekan inflasi impor, tetapi menambah beban saham, kredit dan KPR; imbal deposito/SBN cenderung naik.",
@@ -1797,12 +1820,24 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc0hDN2QwV09YbHdGbkEzaDZ3RkxIdEZFcmxMOXB4WjY1Ql85ZXE3Tm94a0JlTjQtTGZrcDNSV1FiaHFILV9WWGZmdjBWX1dvN1JMTV9xR0thOEpWYm5DSzVRMWpybm9QY2JGcGlIaTkxVERPbWRvWEdNNHU4eFpGSU9TUjlhcmFlSmpvWkhKSkU1RC1tUmczblA4bEQ0MzQ4NnlXYlYycEg5bVVOdWd6blRidURCOFE3YzVPUERha0R1VmRxaS1EQkpiSUJRRE5yWGtXRNIB2gFBVV95cUxPQS1wRngtM1lMUkFYUVNEUnZlZ0lMeG0tVGQ2Smk2X3JMVDZoNU55MjdjZ05RVVk1Tmw2Y3FLSUxuUUI1dUhwQkpaNHFXWnNHdEZLNktGNm1BaFRhaXNyV19aeHg3cHoxaW96cUdMLVgzUy1TOXBJRThNY2NKMU5sb21LWVdCYXdNM0JTQzVkdDk2RVotQ1N0NTRIckFJUG03LU0wWEEwVlZyRG9qbFctYmtDZmxxSDZVeUpkclZtaWs2TGdrMUZnb25WNWdzTlkzTzhXaW05V3JRQQ?oc=5"
   },
   {
+   "t": "Nvidia: Jensen Huang mundur sebagai CEO, CFO Colette Kress jadi CEO sementara",
+   "what": "Huang mundur efektif segera pada 12 November setelah penyelidikan dewan; Nvidia belum menyebut alasan resmi dan pencarian CEO tetap berlangsung.",
+   "impact": "Menambah kerapuhan saham teknologi AS dan sentimen global; dampak langsung ke IHSG kecil, tetapi bisa memperkuat tekanan risk-off.",
+   "assets": "Saham teknologi AS, S&P 500, Bitcoin",
+   "sev": "sedang",
+   "status": "berlangsung",
+   "cat": "korporat",
+   "time": "2026-11-12T15:00:00Z",
+   "src": "The Next Web",
+   "url": "https://thenextweb.com/news/jensen-huang-resigns-as-nvidia-ceo-after-33-years-effective-immediately"
+  },
+  {
    "t": "Gangguan jaringan NSA dan layanan Apple, rangkaian gangguan teknologi pekan ini",
    "what": "Jaringan NSA dan layanan Apple dilaporkan down; media menyebut enam gangguan besar teknologi dalam enam hari.",
    "impact": "Dampak pasar kecil; risiko terutama pada saham teknologi dan sentimen keandalan infrastruktur digital.",
    "assets": "Saham teknologi AS",
    "sev": "rendah",
-   "status": "mereda",
+   "status": "selesai",
    "cat": "siber",
    "time": "2026-11-18T01:16:19Z",
    "src": "Heartlander News",
@@ -1891,30 +1926,6 @@
    "time": "2026-11-13T21:45:42Z",
    "src": "UrduPoint",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1E3QlhmRE9MRE43MXA1UjRLdWFzRWFXZXFudUhfakxfQ1ZqUzQ2bEtNaEpXNWFtVDllXzhhOVFCNEJRbzN4VWxDUFpTTlVTamswT0ljcDFIclk1S2JSa2JLOEJzcGNYbjJ0Mm81aXB0UGdsVnhRS0pxNnJudE1zaV9UOTRYQ211dXVXQVJoV1BwWERwWkFYamJwY3AtWFE?oc=5"
-  },
-  {
-   "t": "Larangan terbang nasional FAA di AS dicabut setelah ribuan penerbangan terganggu",
-   "what": "FAA menghentikan sementara seluruh penerbangan di AS akibat gangguan sistem, lalu mencabutnya; Gedung Putih menyatakan tidak ada indikasi tindakan jahat.",
-   "impact": "Dampak pasar kecil karena gangguan sudah pulih; saham maskapai AS sempat tertekan.",
-   "assets": "Saham maskapai, minyak",
-   "sev": "rendah",
-   "status": "selesai",
-   "cat": "transportasi",
-   "time": "2026-11-13T19:59:08Z",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UWWt5d2haNGYwVGZGMXVYUjhjZjlKbkhYWnNidWhBQ000OFgxbExacDFTY2IwYi1FLS03WkZKS1RTRmJNZDBEOERadEpPTk1jNGxNUkktSmo1TE92VTkxaFJ1YS1QR1ZEYTNMVlFhSnQ?oc=5"
-  },
-  {
-   "t": "Gangguan global layanan Microsoft, termasuk email Outlook",
-   "what": "Layanan Microsoft sempat mengalami gangguan luas dan perbaikan sedang berjalan; penyebab resmi belum dijelaskan sepenuhnya.",
-   "impact": "Dampak pasar kecil bila pulih cepat; saham teknologi terkait perlu dipantau.",
-   "assets": "Saham teknologi",
-   "sev": "rendah",
-   "status": "mereda",
-   "cat": "siber",
-   "time": "2026-11-13T17:41:00Z",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5"
   }
  ]
 }
