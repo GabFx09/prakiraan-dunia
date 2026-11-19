@@ -722,6 +722,17 @@
       "ihsg": 5247.879,
       "usdidr": 18158.0,
       "ust10": 5.066
+    },
+    {
+      "t": "2026-11-19T00:58:00Z",
+      "risk": 84,
+      "btc": 63111.02,
+      "gold": 3749.6,
+      "brent": 88.62,
+      "spx": 7323.63,
+      "ihsg": 5247.879,
+      "usdidr": 18158.0,
+      "ust10": 5.066
     }
   ],
   "horizons": [
@@ -778,28 +789,28 @@
       "targets": [
         {
           "key": "ihsg",
-          "low": 4784.0,
-          "high": 5882.0
+          "low": 4736.0,
+          "high": 5816.0
         },
         {
           "key": "usdidr",
-          "low": 17833.5,
-          "high": 18680.5
+          "low": 17749.0,
+          "high": 18576.0
         },
         {
           "key": "brent",
-          "low": 83.35,
-          "high": 105.86
+          "low": 79.36,
+          "high": 101.77
         },
         {
           "key": "gold",
-          "low": 3679.5,
-          "high": 4060.0
+          "low": 3601.0,
+          "high": 3981.0
         },
         {
           "key": "btc",
-          "low": 58613.5,
-          "high": 71007.5
+          "low": 58087.0,
+          "high": 70313.0
         }
       ]
     },
@@ -855,28 +866,28 @@
       "targets": [
         {
           "key": "brent",
-          "low": 76.3,
-          "high": 110.33
+          "low": 72.46,
+          "high": 111.46
         },
         {
           "key": "gold",
-          "low": 3596.0,
-          "high": 4209.5
+          "low": 3471.0,
+          "high": 4131.0
         },
         {
           "key": "usdidr",
-          "low": 17538.5,
-          "high": 18979.5
+          "low": 17456.0,
+          "high": 18888.0
         },
         {
           "key": "ihsg",
-          "low": 4436.0,
-          "high": 6343.0
+          "low": 4393.0,
+          "high": 6270.0
         },
         {
           "key": "spx",
-          "low": 6967.5,
-          "high": 8050.5
+          "low": 6820.0,
+          "high": 7901.0
         }
       ]
     },
@@ -1168,12 +1179,20 @@
   },
   "news": [
     {
-      "t": "Risalah rapat Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi, kenaikan lebih besar masih dibuka.",
-      "src": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
-      "time": "2026-11-18T19:18:51Z",
+      "t": "AS dan Iran saling serang; video menunjukkan serangan terhadap tanker minyak milik UEA.",
+      "src": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkhUSmRtQzRXeWN5V3RxdzJvMnAweVRQdDJtQkQxRGRubmV6T19VYnhVVzZXWDhxSF9Sd0FjUXI2Q3RFX3RqYzQ0eGxfOVhXVnlBSHZaZVYzYVBwRHBuam5TVHJkOVNhV0dOdDlQRHJsbV9IQUJPMGpJbjFmWk8zYkhWWWRxVnlOUEJ6MHRlV3N0anpTdkVuU2xTNDZSREZ0RFQ0dTZ1aw?oc=5",
+      "time": "2026-11-18T23:11:00Z",
+      "impact": "naik",
+      "assets": "Minyak, emas, rupiah"
+    },
+    {
+      "t": "Saham Nvidia berbalik turun meski proyeksi kuat; kekhawatiran gelembung AI belum reda.",
+      "src": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
+      "time": "2026-11-18T22:17:53Z",
       "impact": "turun",
-      "assets": "Emas, saham, obligasi, rupiah"
+      "assets": "Saham AS, saham teknologi"
     },
     {
       "t": "S&P 500 turun lima hari beruntun, rentetan kerugian terpanjang sejak Juni.",
@@ -1184,14 +1203,6 @@
       "assets": "Saham global, IHSG"
     },
     {
-      "t": "Iran menyebut tiga kapal tanker minyak terbakar di Selat Hormuz (klaim belum terverifikasi independen).",
-      "src": "The New Region",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YSXNrY1dVeGV6RDFXLWE2eExRRDY0NzNJdkVuUTU1STIyM1Yzd3ZKLWE3TUl4Z1pmTzZZM1VDUnp0VC1pMXJrdVY4UQ?oc=5",
-      "time": "2026-11-18T20:39:14Z",
-      "impact": "naik",
-      "assets": "Minyak, rupiah"
-    },
-    {
       "t": "Bitcoin jatuh di bawah $65 ribu seiring penjualan oleh perusahaan penambang dan tekanan dolar kuat.",
       "src": "Crowdfund Insider",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTnZDRWN3OXJudjZEd0EzTmxuSjh0dVRVSDFQRlNmUDZZS3VCQk9xSjBrTzI4OWVFcGJ0UUN3dUM4YjkwdUlfUnRnWHFfTGhRWm9BNURxdDRaQmhLaUd2UWlDbUZKLTAyRzlwNGdRRWFLVHoycUF6aDF0ZWEyS2E4UzgxWVUzU1BFYXpueXdkb2VvSkZsTzV5ZDZpR2ZlTFVlb2UwQ0p0NEJfQW5rS3VQS2JBV1BtTk5lMDdwZlFmNGtXN3k3SkZBcm1wdGRkd2tXWUl4NHRybWxhRkJCZHlneFpURVd2NzY2NTN3M3VvblBYVGtsc3Vna093?oc=5",
@@ -1200,12 +1211,20 @@
       "assets": "Bitcoin, kripto"
     },
     {
-      "t": "AS memperketat blokade Iran dengan membatasi pemindahan minyak di laut.",
-      "src": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
-      "time": "2026-11-18T16:35:00Z",
+      "t": "Iran menyebut tiga kapal tanker minyak terbakar di Selat Hormuz (klaim belum terverifikasi independen).",
+      "src": "The New Region",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YSXNrY1dVeGV6RDFXLWE2eExRRDY0NzNJdkVuUTU1STIyM1Yzd3ZKLWE3TUl4Z1pmTzZZM1VDUnp0VC1pMXJrdVY4UQ?oc=5",
+      "time": "2026-11-18T20:39:14Z",
       "impact": "naik",
-      "assets": "Minyak Brent, rupiah, saham"
+      "assets": "Minyak, rupiah"
+    },
+    {
+      "t": "Risalah rapat Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi, kenaikan lebih besar masih dibuka.",
+      "src": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
+      "time": "2026-11-18T19:18:51Z",
+      "impact": "turun",
+      "assets": "Emas, saham, obligasi, rupiah"
     },
     {
       "t": "Fed: Daly mendukung kenaikan bunga secara terukur, menyusul Waller yang menyebut kenaikan 0,5 poin.",
@@ -1214,6 +1233,14 @@
       "time": "2026-11-18T18:16:00Z",
       "impact": "naik",
       "assets": "Dolar AS, UST, emas, Bitcoin"
+    },
+    {
+      "t": "AS memperketat blokade Iran dengan membatasi pemindahan minyak di laut.",
+      "src": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
+      "time": "2026-11-18T16:35:00Z",
+      "impact": "naik",
+      "assets": "Minyak Brent, rupiah, saham"
     },
     {
       "t": "Saham teknologi AS belum banyak terbantu hasil Nvidia; investor masih berhati-hati.",
@@ -1232,14 +1259,6 @@
       "assets": "Obligasi AS, emas, Bitcoin, rupiah"
     },
     {
-      "t": "Saham AI menguat setelah proyeksi Nvidia meredam kekhawatiran permintaan; futures Nasdaq naik.",
-      "src": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
-      "time": "2026-11-18T11:12:00Z",
-      "impact": "turun",
-      "assets": "Saham teknologi AS, S&P 500"
-    },
-    {
       "t": "Kepala IEA: tidak ada jalan kredibel kembali ke kondisi normal sebelum perang di Selat Hormuz.",
       "src": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mY1gzbld3VGk4Tnc1VUw4NmY0UVc5aXZ6dVVDNWxIVldiWWR0TjBDWGZhLThpTVNGRC1lcmRRSkZqNXFqeDJ0aG1KQXdELTJPVmdyQlJ3c0NSZHc0UGJUV25HT0MtSXI3am9HZElMaE10Yy1P0gF6QVVfeXFMTzVQd2FkT3N5ekNUenZsNl9Bbk9BWEdHempvQ0hURC1UOVQwc3R2c1ptUmxhc1VHcHpRQ3pIS1dGQ0VkeF9uQjF6OGQ5LVlBMVhVUzlTcHJvZDY1Q3VEaDg3WFY3YUZkWWJkZ0VmekZzeFZ4MDdJbHVWRmc?oc=5",
@@ -1254,14 +1273,6 @@
       "time": "2026-11-18T11:17:00Z",
       "impact": "naik",
       "assets": "Minyak, emas, dolar AS, saham"
-    },
-    {
-      "t": "Bank Indonesia menaikkan BI-Rate 25 bps ke 6,00%, di atas ekspektasi pasar, untuk menjaga rupiah dan inflasi",
-      "src": "KONTAN",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcklSTERhZ09JZnJaRnJzZUpNVk5fSTB3Vld2Z1NOU2RwUWFaM1JYbHNBckZjcHNrQmhlMndFd3NFcVNFT1lPTDUzYk5ncVEzaFJTZnAtQXdGazJVbHRpSFc2YmhaTmVRXzFIZHlQdGtzaDlYcE41M21ZeUh6R2h5V0JGd1NvQ2gtbGFta2J5UjdHR01idVJNRHUyTFJPbzlNU2c?oc=5",
-      "time": "2026-11-18T07:55:00Z",
-      "impact": "netral",
-      "assets": "Rupiah, SBN, IHSG, deposito"
     }
   ],
   "readings": [
@@ -1286,28 +1297,28 @@
     },
     {
       "c": "neu",
-      "d": "Turun 4,6 % hari ini",
+      "d": "Turun 4,8 % hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$88,82"
+      "v": "$88,62"
     },
     {
       "c": "neg",
-      "d": "Turun 3,6 %, terendah ~14 bln",
+      "d": "Turun 3,0 %, terendah ~14 bln",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.726"
+      "v": "$3.750"
     },
     {
       "c": "neg",
-      "d": "Turun 4,0 % hari ini",
+      "d": "Turun 2,8 % hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$62.273"
+      "v": "$63.111"
     },
     {
       "c": "neg",
-      "d": "Turun 0,2 % hari ini, 5 hari turun",
+      "d": "Turun 0,2 % hari ini",
       "h": "spx",
       "k": "S&P 500",
       "v": "7.324"
@@ -1321,7 +1332,7 @@
     },
     {
       "c": "neg",
-      "d": "Naik 0,2 % hari ini",
+      "d": "Naik 3,2 % hari ini",
       "h": "usdidr",
       "k": "USD/IDR",
       "v": "18.158"
@@ -1336,8 +1347,8 @@
   "regimeText": "Minyak tetap tinggi akibat ketegangan di Selat Hormuz, dan risalah Fed menunjukkan hampir semua pejabat memperkirakan kenaikan bunga lagi. Dolar kuat menekan emas dan Bitcoin, sementara BI-Rate 6,00% mendukung rupiah tetapi membebani saham.",
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 84,
-  "riskNote": "Risiko naik tipis: risalah Fed condong menaikkan bunga, S&P 500 turun lima hari beruntun dan emas serta Bitcoin melemah tajam.",
-  "updatedAt": "2026-11-18T22:05:00Z",
+  "riskNote": "Risiko bertahan tinggi: kenaikan bunga Fed masih diperkirakan, Hormuz tegang, dan emas serta Bitcoin melemah tajam meski Brent turun.",
+  "updatedAt": "2026-11-19T00:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1664,9 +1675,9 @@
   "brief": {
     "date": "2026-11-19",
     "points": [
-      "Risalah rapat Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi; kenaikan lebih besar masih dibuka. UST 10 tahun ~5,07%.",
-      "S&P 500 turun lima hari beruntun; saham Nvidia berbalik turun meski proyeksinya kuat. Emas anjlok ke $3.726 (terendah ~14 bulan), Bitcoin $62.273.",
-      "Ketegangan Hormuz berlanjut: Iran menyebut tiga kapal tanker terbakar dan menyerang target AS di Kuwait; Brent turun ke $88,82 tetapi sangat bergejolak.",
+      "Risalah rapat Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi, kenaikan lebih besar masih dibuka. UST 10 tahun ~5,07%.",
+      "Emas turun ~3% ke sekitar $3.750 (terendah ~14 bulan) dan Bitcoin ke ~$63.100; S&P 500 turun lima hari beruntun.",
+      "Hormuz masih tegang: Iran menyebut tiga tanker terkena ranjau dan AS-Iran saling serang; Brent turun ke ~$88,6 tetapi sangat bergejolak.",
       "BI-Rate naik ke 6,00%; IHSG turun 1,07% ke 5.248, USD/IDR sekitar 18.158.",
       "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan perkembangan Teluk."
     ]
@@ -1763,6 +1774,30 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNE10VmlLZHp6NE5xVVVBZWJtR0dSbWMyTWZFUnM0MlNNdm14d0RnYnh4SUJnajNUWXFpbUotYm1yalBGM0NTaFU5RFZ4a2xMRlZ1MHRVLWpHS0wtaW9reks5eTZDSWpkeUlpQkQ4UFdodGRkNEZyeF83Qi1YUUdZb2JhYWc2bTBqb2tmYXh3U3AyWVF4MVlwTUZxdFZyak5PcjBGVEpvaEFxTVBpcFk2MUNQVEN6VnNh0gG-AUFVX3lxTE55c3dSNDI1bVNEc1B2OUZCSzg5cFVRZWxNS19jckdlemEwcFZSVmNoa2pkM1A4aVFLLXBlSDQyeVdSZkZpMFhIZmtmTE94Y3FaV3ZId0NfZlNqenBFZTJGMWVsRDRxSnFlcWxROERCX2hSWjJDYUpocG83V29KNmtKOWNEZ2taczFVa0lBeDA4eFdnZ1RmdTJuZUc5bEFFb1lXUTNvU1hUa0RReWhTTU9tV1F0VUFrOFZWdmtoNVE?oc=5"
     },
     {
+      "t": "Demo ricuh di Yogyakarta berujung penahanan 4 orang, termasuk mahasiswa UGM",
+      "what": "Aksi demonstrasi di Yogyakarta berakhir ricuh dan empat orang ditahan; seorang mahasiswa UGM dilaporkan menjadi tersangka. Dilaporkan sedikitnya lima media.",
+      "impact": "Dampak pasar kecil; hanya relevan jika demo meluas dan memengaruhi sentimen politik domestik.",
+      "assets": "IHSG, rupiah",
+      "sev": "rendah",
+      "status": "berlangsung",
+      "cat": "kerusuhan",
+      "time": "2026-11-18T04:36:47Z",
+      "src": "VIVA.co.id",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc0hDN2QwV09YbHdGbkEzaDZ3RkxIdEZFcmxMOXB4WjY1Ql85ZXE3Tm94a0JlTjQtTGZrcDNSV1FiaHFILV9WWGZmdjBWX1dvN1JMTV9xR0thOEpWYm5DSzVRMWpybm9QY2JGcGlIaTkxVERPbWRvWEdNNHU4eFpGSU9TUjlhcmFlSmpvWkhKSkU1RC1tUmczblA4bEQ0MzQ4NnlXYlYycEg5bVVOdWd6blRidURCOFE3YzVPUERha0R1VmRxaS1EQkpiSUJRRE5yWGtXRNIB2gFBVV95cUxPQS1wRngtM1lMUkFYUVNEUnZlZ0lMeG0tVGQ2Smk2X3JMVDZoNU55MjdjZ05RVVk1Tmw2Y3FLSUxuUUI1dUhwQkpaNHFXWnNHdEZLNktGNm1BaFRhaXNyV19aeHg3cHoxaW96cUdMLVgzUy1TOXBJRThNY2NKMU5sb21LWVdCYXdNM0JTQzVkdDk2RVotQ1N0NTRIckFJUG03LU0wWEEwVlZyRG9qbFctYmtDZmxxSDZVeUpkclZtaWs2TGdrMUZnb25WNWdzTlkzTzhXaW05V3JRQQ?oc=5"
+    },
+    {
+      "t": "Gangguan jaringan NSA dan layanan Apple, rangkaian gangguan teknologi pekan ini",
+      "what": "Jaringan NSA dan layanan Apple dilaporkan down; media menyebut enam gangguan besar teknologi dalam enam hari.",
+      "impact": "Dampak pasar kecil; risiko terutama pada saham teknologi dan sentimen keandalan infrastruktur digital.",
+      "assets": "Saham teknologi AS",
+      "sev": "rendah",
+      "status": "mereda",
+      "cat": "siber",
+      "time": "2026-11-18T01:16:19Z",
+      "src": "Heartlander News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzFDNGZZM293cXB0SDFIVXo0LWlLYTFTWVpoMDlyTmlOT2tFZUdqdTJ3Rk9xNVNwXzZGcUR2eWN3UnQyNW9QUlFMbTdqRlEzNEV3OG5Oa0htU3hLN0hmdlJkeFlYRnpLdzBxenYzSEdhTWstVlZxa1lZYnRCcG5tcXZfdDA2dFE?oc=5"
+    },
+    {
       "t": "Jet tempur AS serang situs rudal IRGC di Pulau Qeshm setelah serangan ke Bahrain",
       "what": "Sejumlah media melaporkan jet tempur AS menyerang situs rudal Garda Revolusi Iran di Qeshm, dekat Selat Hormuz, setelah serangan di Bahrain; Kuwait melaporkan serangan drone. Klaim kedua pihak belum terverifikasi independen.",
       "impact": "Risiko pasokan minyak naik; minyak, emas dan dolar cenderung terdorong naik, rupiah rentan tertekan.",
@@ -1773,18 +1808,6 @@
       "time": "2026-11-17T19:43:02Z",
       "src": "Breitbart News",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVEY0RWZ2MTdDU2czTWFjR3pXSHRNVEpuSGJYSkNKOWNxRHdOamRUZkN1aEs1T2JrUU5feTRGTVhGRVNmeGl6MmZUb3lIUFdqbXdmaXNIdzM2alZlblZ3bERjUUVJbFY1ZWVSaFNaUGJSbnYtMkZlcmNnWXZJaFI0TzBHOHhXdHRiX0xHS0ttSHVHWjBEdHEtTnFEOHJ1b2xmS0YyVW5zMHZNSm1NTW1vaUNWQTFpLWo5U1ZBbUE0WEVZMXBUTFY3OG5GMER6b3ZaMnpJM2t4dEFlakQwUjdr?oc=5"
-    },
-    {
-      "t": "Iran klaim supertanker 2 juta barel tenggelam di Hormuz; dua tanker dikonfirmasi terkena",
-      "what": "Angkatan laut Iran menyebut beberapa tanker terbakar akibat ranjau laut di Selat Hormuz, dan satu supertanker bermuatan sekitar 2 juta barel dilaporkan tenggelam. Sebagian besar laporan bersumber dari klaim Iran dan belum diverifikasi independen. Militer Iran juga menyebut tanker ketiga terbakar setelah menabrak ranjau. Media (gCaptain) kini melaporkan militer AS menyerang situs rudal Iran dekat Hormuz; belum ada konfirmasi independen atas klaim ranjau Iran.",
-      "impact": "Risiko pasokan minyak naik; harga minyak, emas dan dolar cenderung terdorong naik, sedangkan rupiah rentan tertekan.",
-      "assets": "Minyak, emas, rupiah",
-      "sev": "tinggi",
-      "status": "berlangsung",
-      "cat": "perang",
-      "time": "2026-11-15T14:48:00Z",
-      "src": "The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmpReEpXNS0wU1l5SlZqc3J1ZGQtRUF0WF9XeHgxUURQVk9VeVhtbFB5dy11VUtSaU9pZGktZmNQeEZ1cFE1eTR0NHZJaDhPT2ZZSjg4ay1PVVIwRGV4bDNjOFRWQ29qNzNlZmp1djBhUHdBUnQ3bUh1WVlHUm5iUUpCSzkxdHlUZjdvU0ZOU2JpamhOQnc?oc=5"
     },
     {
       "t": "Iran klaim serang situs drone dan rudal AS di Kuwait dan Bahrain",
@@ -1823,28 +1846,28 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5"
     },
     {
-      "t": "CEO Nvidia Jensen Huang mundur; dilaporkan berupaya kembali ke jabatannya",
-      "what": "Beberapa media melaporkan Jensen Huang mundur pada 12 November dan CFO Colette Kress jadi CEO sementara. Nvidia melaporkan kinerja kuartal III di atas perkiraan pada 17 November; menurut media, dewan tidak akan mengembalikan Huang.",
-      "impact": "Hasil kuat meredam kecemasan saham AI; efek ke IHSG dan rupiah tidak langsung lewat sentimen risiko global.",
-      "assets": "Saham AI, S&P 500, Bitcoin",
-      "sev": "sedang",
+      "t": "Iran klaim supertanker 2 juta barel tenggelam di Hormuz; dua tanker dikonfirmasi terkena",
+      "what": "Angkatan laut Iran menyebut beberapa tanker terbakar akibat ranjau laut di Selat Hormuz, dan satu supertanker bermuatan sekitar 2 juta barel dilaporkan tenggelam. Sebagian besar laporan bersumber dari klaim Iran dan belum diverifikasi independen. Militer Iran juga menyebut tanker ketiga terbakar setelah menabrak ranjau. Media (gCaptain) kini melaporkan militer AS menyerang situs rudal Iran dekat Hormuz; belum ada konfirmasi independen atas klaim ranjau Iran.",
+      "impact": "Risiko pasokan minyak naik; harga minyak, emas dan dolar cenderung terdorong naik, sedangkan rupiah rentan tertekan.",
+      "assets": "Minyak, emas, rupiah",
+      "sev": "tinggi",
       "status": "berlangsung",
-      "cat": "korporat",
-      "time": "2026-11-12T20:00:00Z",
-      "src": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-may-return-nvidia-210940404.html"
+      "cat": "perang",
+      "time": "2026-11-15T14:48:00Z",
+      "src": "The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmpReEpXNS0wU1l5SlZqc3J1ZGQtRUF0WF9XeHgxUURQVk9VeVhtbFB5dy11VUtSaU9pZGktZmNQeEZ1cFE1eTR0NHZJaDhPT2ZZSjg4ay1PVVIwRGV4bDNjOFRWQ29qNzNlZmp1djBhUHdBUnQ3bUh1WVlHUm5iUUpCSzkxdHlUZjdvU0ZOU2JpamhOQnc?oc=5"
     },
     {
-      "t": "Wapres Gibran dilaporkan menyatakan niat mundur; status resmi belum dipastikan",
-      "what": "Sejumlah media melaporkan Wapres Gibran menyampaikan keinginan mundur kepada Presiden Prabowo dan pihak Istana membenarkannya. Belum ada keputusan resmi MPR; pengganti dipilih MPR dalam 60 hari bila pengunduran diri resmi.",
-      "impact": "Ketidakpastian politik dapat menambah volatilitas IHSG dan rupiah, meski pasar sejauh ini bereaksi terbatas.",
-      "assets": "IHSG, rupiah, SBN",
+      "t": "Estonia: serangan drone Ukraina lumpuhkan kapal rudal Rusia di Teluk Finlandia",
+      "what": "Estonia menyebut serangan drone Ukraina membuat kapal rudal Rusia kehilangan tenaga penggerak dan menimbulkan korban.",
+      "impact": "Eskalasi perang Rusia-Ukraina menambah risiko geopolitik; efek langsung ke pasar kecil, kecuali bila meluas.",
+      "assets": "Minyak, emas, dolar",
       "sev": "sedang",
       "status": "berlangsung",
-      "cat": "politik",
-      "time": "2026-11-11T03:00:00Z",
-      "src": "Emitennews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWFIOTV4ekRxZUFycFRFVUxwejEyT3ZHdUxJTG1tZGU0TjdwYnRxRlVuODVJb2dJbWpRdzNlaTJPX0h2cEFSWmhzdFNVRnl5RjhTYS1sZi00bDNxWjhCRHpNQUotc1pfdjRGZVBQSnMyT2k1Sk9qYlF2Sm5JckN4U21Dc3pvOXVTTVpEQ0s3akphYnV4WkJLbnB1WGs1aHc?oc=5"
+      "cat": "perang",
+      "time": "2026-11-14T03:17:37Z",
+      "src": "Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1ctcXFtZWZ5OUVTZ19iTlA5SWJEZThlTlRWVEdaWFlhazgtdmViUmNOMHg2bU14RFRZdkU5amN3VlhZWU5oRXZGRG5NV1ZfUWVzQjhuaXVaZTdrSGg0cmNVM3oxZXRlQzU0MjMzTmpRb2FmQU1WZ3FtU0UyYjE2NGNBZG0wY1NmODFWZjNpd2ZUYThJY3BYeEo4TUYtYlBx?oc=5"
     },
     {
       "t": "Negara Teluk tuntut kompensasi penuh dari Iran atas kerusakan serangan rudal dan drone",
@@ -1881,18 +1904,6 @@
       "time": "2026-11-13T17:41:00Z",
       "src": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5"
-    },
-    {
-      "t": "Estonia: serangan drone Ukraina lumpuhkan kapal rudal Rusia di Teluk Finlandia",
-      "what": "Estonia menyebut serangan drone Ukraina membuat kapal rudal Rusia kehilangan tenaga penggerak dan menimbulkan korban.",
-      "impact": "Eskalasi perang Rusia-Ukraina menambah risiko geopolitik; efek langsung ke pasar kecil, kecuali bila meluas.",
-      "assets": "Minyak, emas, dolar",
-      "sev": "sedang",
-      "status": "berlangsung",
-      "cat": "perang",
-      "time": "2026-11-14T03:17:37Z",
-      "src": "Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1ctcXFtZWZ5OUVTZ19iTlA5SWJEZThlTlRWVEdaWFlhazgtdmViUmNOMHg2bU14RFRZdkU5amN3VlhZWU5oRXZGRG5NV1ZfUWVzQjhuaXVaZTdrSGg0cmNVM3oxZXRlQzU0MjMzTmpRb2FmQU1WZ3FtU0UyYjE2NGNBZG0wY1NmODFWZjNpd2ZUYThJY3BYeEo4TUYtYlBx?oc=5"
     }
   ]
 }
