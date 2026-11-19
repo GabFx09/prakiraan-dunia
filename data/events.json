@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T04:12:51Z",
+ "updatedAt": "2026-11-19T04:27:32Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 17,
+   "sources": 18,
    "recent6h": 2,
-   "score": 18.0,
+   "score": 19.0,
    "level": "besar",
    "first": "2026-11-18T03:22:07Z",
    "last": "2026-11-19T03:40:16Z",
@@ -80,39 +80,6 @@
    ]
   },
   {
-   "id": "siber-202611180416-68c7",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Here are all of the recent major outages, national disruptions",
-   "src": "USA Today",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnZMSVJ4VktNNGhRVXZ2N3NTMUNtU215QlJ0cEpCMG1Dam5wTDNLY193VE5tcHlvR0wyM0VUSXNKWXZnRVNRX2gyUmlSUGxRdmNJX2xHWnNzNmhoQzM4Y3V1ZXpDTTI5MUttSVp5UWJwOGc3ZHBqeXB1aVBmRzlLYkhNZkdwMjNIdURlYTE2OWJMQkZZclV2bHJB?oc=5",
-   "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-18T04:16:00Z",
-   "last": "2026-11-18T19:22:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "NSA network, Apple services go down in latest outage",
-     "src": "Heartlander News",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzFDNGZZM293cXB0SDFIVXo0LWlLYTFTWVpoMDlyTmlOT2tFZUdqdTJ3Rk9xNVNwXzZGcUR2eWN3UnQyNW9QUlFMbTdqRlEzNEV3OG5Oa0htU3hLN0hmdlJkeFlYRnpLdzBxenYzSEdhTWstVlZxa1lZYnRCcG5tcXZfdDA2dFE?oc=5"
-    },
-    {
-     "t": "Why Are So Many Outages Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit",
-     "src": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWUlkNTVJYkYtSWhlZVcxdFotUHFsZHEtbkdkOFRDV2FuUnJraXBkSnNZZGFSeUNuMXdtanI2ekIyVjdjdkhRTWppRVV1dkI5UldZWHo3N05CVWlJTFlBUDJxS3gwQnN1SzVhNEdQSG9MU1N6ZERJQk5EZTFZajNxQ2tTZldvMGIwUERwZlVJcUE2c1BaOUtSMTBJc2R4cTVFb3ZyMTZhZmZ4V05MZGUyQmhfZHI2ZWl4T3VSaFJFZVVDX0Fvdk13NjRIeGNYRXg4SjFvdjlFNjY0OXdQcjZKU3NJTlFBbXdTRS1meFdCcUY1SmxKbnp3cjBYMnJEdGJjZ0tv?oc=5"
-    },
-    {
-     "t": "NSA network and Apple services hit by outages amid recent tech disruptions",
-     "src": "WDSU",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLY2dabzlmVmtQT2FmODRlejctTnlGRGZYRV9ZaTBlMnl6bGV5Um8xMDZyOEsxRUlBZno1T3M1SUhoSWpIamdKdnZPYmxtbl80X1E1TzBZWDFvUnlsUmFfWFpyZ1pzMnFfRzZfaXJuSTlycGpp?oc=5"
-    }
-   ]
-  },
-  {
    "id": "transportasi-202611181200-fdb4",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -166,6 +133,34 @@
      "src": "Seeking Alpha",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5",
      "t_id": "FAA menandatangani perbaikan sebelum penghentian secara nasional: lapor"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611180731-c3ae",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "NSA network, Apple services go down in latest outage",
+   "src": "Heartlander News",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzFDNGZZM293cXB0SDFIVXo0LWlLYTFTWVpoMDlyTmlOT2tFZUdqdTJ3Rk9xNVNwXzZGcUR2eWN3UnQyNW9QUlFMbTdqRlEzNEV3OG5Oa0htU3hLN0hmdlJkeFlYRnpLdzBxenYzSEdhTWstVlZxa1lZYnRCcG5tcXZfdDA2dFE?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-18T07:31:19Z",
+   "last": "2026-11-18T16:15:01Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "NSA Classified Network Outage Takes Down NSA Net During Routine Maintenance",
+     "src": "Technology Org",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM283d3FLZi13SVFlT3JsZnoxNWR3c1NTalAtb3R5S3g3c1h5STNMZ1RYc25KamJ5NGNSdmVTc2R6SmMzTGxOMjgwWnM4NFFQN3F2d3Rzb0lHd1BPS1ROZ2luYVJGbHA0RzB4dzRiZk1yMnJHS19Sa21mYmJXVHFMY2dPdXVmMjYwTGI0cEtZNERNd1VaX3FVQk5tQQ?oc=5"
+    },
+    {
+     "t": "NSA Classified Network Goes Down as Apple Services Face Outage; US Officials Rule Out Coordinated Cyberattack",
+     "src": "Dainik Jagran MP CG",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUt0LUtEbzNqeGsxSmkwQXV6SkVEVzdjWUhOeXNtYjFrZGY4MmdHa3EwVTdvQlUtb0JLYXEwb0E2YVhETVVDeWZLOWpYUGxDUzhuRjZIZV9laE9OOFZrNUl0UlhudW92WmMtRDJ4a1FtU1hpM0pZSE1mUVZoYkJ1d0tuNS1RMWRPalBHdjR1QTZaZFRBeTJmc1VpX2ZMMF9aRS1qU2FqeDljZzdhYTJJSDFsUy1La3dNaTF3eDV0blZJaW42czdUZ0Jn?oc=5"
     }
    ]
   },
@@ -264,29 +259,6 @@
      "src": "Bioengineer.org",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
      "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611181605-f212",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "6 Major Tech Outages Hit in 6 Days. Experts Say Companies Are Preparing for the Wrong Problem",
-   "src": "Inc.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEVHZF84Z2hMeDdsYUVIdnpjNngwMW9ORjRqV3JzMERJUUtUSUNuY1FibmI3a0Y3bVdGMlhYa0pVWTNhZ2ZHNW1lTFlHb3ZWdUVCT1NfbXluSVpFdy01Z3NMbHpZOGdacW9kRlUyTGlkelJyNVBQcU9XZW9EZl90TGxaWnhDcExIWHA2bTFrRTVoN1RySUZJU3M2Y1JOUG0tZnpJWG1QaXFqaG9CclRHcGVpYTZqY2s?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T16:05:00Z",
-   "last": "2026-11-18T16:13:13Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "JD Vance cancels NYC appearance as major outages hit US",
-     "src": "Newsweek",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUdIeHlYbjZwRXM4NjFDckxSdHhCcEZRTXp5b2dEVU5JT2EzbUNnWVg0WDNzX2lSS1pfYk5CZGVFMGt3eHNHNWR3Zm5CMm5UazZrT2I0Y3ZobkJZQjdmRUJjcEdCaElDanNjU3JjWHZXYUxaYXhHTm9oajF0aENiOFNn?oc=5"
     }
    ]
   },
