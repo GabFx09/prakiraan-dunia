@@ -1,14 +1,38 @@
 {
- "updatedAt": "2026-11-19T12:11:43Z",
+ "updatedAt": "2026-11-19T12:26:23Z",
  "source": "Google News RSS",
  "items": [
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold prices today, Thursday, November 19, 2026: Gold price opened at the lowest level in 14 months",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaG9pRFQ5emN4TkZLd3VWNGIxSFh4cTc4SGM5djlKUF9NelBPdTg0cXhwVVpLZk9NSDI0ZzdnVkl3WUo3SVRvYWM3Qk5Id3gzX2dmSF9UQmdCS2RFQ0s5clhUNFBUX1ZFWFMzdUk0ZVcwX1hpZlBoX1lucjZIYzVCaW14QU1TTGpseFdXc2U5eFF4Um1RYW9Gb056MDhya2xpa25POEtNeXpxRzA5LXhxS213b0I2Y3MwOEw5NUF2MlZpY2ZidXpMa0NyTlN2RWllY2h2d1ZPcEE2VmZwUlZDQWVFNDJDZDRNcDNEcllHYzY4UGo3NzRkYXZjY0lzbFk?oc=5",
+   "time": "2026-11-19T12:22:58Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "4 S&P 500 Dividend Stocks Paying Shareholders More Than Their Free Cash Flow",
+   "src": "24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOFFGcWFfdDFtRHZnU1VQQTY3ZFZmbG5MbkV2WS01NlFGUV9zNG5lenp2WEJfV251V19fY25BTU9pdDdYbjlPY2NMNzY0bWVQT25tclppcVNrcUszbmE3MnNPdVI2R2lSQVlWWVpKOExiTDJjcnhvX1RCLXRhTWlzeDQ5Z3JNMi13OTZMYUQ5dVh2b29GQlV5U1pKQTF1bTB2bGVIZG9zM1ZvTENKaXN5RHhGSVFNVFdhREpFM0F4aThjRnFHRzN2b2todG04OEktQmpqRk82dzBfeTNBU0VOZEhrZ3RDejVISFE?oc=5",
+   "time": "2026-11-19T12:17:00Z"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
-   "t": "Current price of Bitcoin for Nov. 19, 2026",
+   "t": "Current price of Bitcoin for November 19, 2026",
    "src": "Fortune",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaemM4RjBCT0VwNHVnZkdTTUFBVjJoMkQwOW1VMnlhNHJJVnVlbVlQTW1feFZ3SFotcTc3VDE3MnkwNnFyMmFLUkF6cTdSM2tiOUZvdE1GUnZpQ2RiMWVKemNZV1RvSDQ?oc=5",
    "time": "2026-11-19T12:09:36Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+   "src": "CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkJYZXZxVjdYZEZ0Szc1RXpZbnZIQXQ3NjhSZzk0UG5vTWpEcW9ELWQ5MmsxeEgyMkE2X1hoa0lwcjhCSVB3ZkZKelhWM05XNTVwMjN6U0MyM2loYjkyVmR0N1luR04zYktqOXlkdXV4NS13MmVNWTFCeHo3RmY5ZFNRNXlucVZod1ZYRF9KTHhCbGxiR1J3UlE2T2tXWDZ6ZTRFUDRjM1dER2g4dUxJ?oc=5",
+   "time": "2026-11-19T12:08:06Z"
   },
   {
    "topic": "geopolitik",
@@ -75,14 +99,6 @@
    "time": "2026-11-19T10:57:26Z"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "Canada and China Draw Closer with Expanded Trade Pact",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
-   "time": "2026-11-19T10:48:38Z"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Tertekan nilai tukar rupiah, IHSG ditutup anjlok 1,02%",
@@ -93,10 +109,11 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "'The Bitcoin Standard' Author Says BTC Has Bottomed Around $60,000: 'I Can't See It Dropping Much Below This'",
-   "src": "Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeEFhSVJNcVFjU25VZTFhU05fdHVLcndDZlR1T1RVdWVhQWZ4THJZQnJDTUV6a0EyWlBwb19hLXI4RTIxbFNKQ2dzZWNPUjMtUkphNWh2LTllTlJ2ajl5TEd6bHRsYjJtMFBDQmlFNXFMOV85cDhOa0xMRHJiOGdNUGhfMFNpQzB4MkI0b0plWXZRdk5BY256UldDZGVwMHR0MGd1Tk00SXZNUGwzT2k5b2c1OGd4dldxUWJpWGVyWENTNDZxY0FfNi1mVWVreDRtRWxHSHNud3RSY191UVk3Wk1mZTA1d3FGandidlpiczdiMXd2M2c?oc=5",
-   "time": "2026-11-19T10:20:32Z"
+   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart & Price History",
+   "src": "Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HSGlGRjBhSUlQdXZtSXRJWmhTcWlLMmt2WEM2WFk0LV9Bd3BzOGNZQzJmQXJycTBZcmpSNWZiWHMzMDdzY3cyQzlKYXNYSk0tUF9MVzdB?oc=5",
+   "time": "2026-11-19T10:29:14Z",
+   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik & Riwayat Harga"
   },
   {
    "topic": "indonesia",
@@ -221,15 +238,6 @@
    "time": "2026-11-19T08:11:00Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "LIVE – Bitcoin Price, Gold and Oil Fall: Should the US Repeat Its $2.2T 2020 Rescue?",
-   "src": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZUNUSnUzcHcwNlNwYVZQR2UwbktJVGU2Vmk1OHZVbmRhcHNENTZhdDBaQ3VnUmZJVThZUWFEeTZJNkltN3ZVellmNVhUUEdQbDFEcE5kSjN3ZWU2cVg0OEVneFVKa2N2RVAtWmNMWXhfd3dFLUMzcnllTW1ZZlN1Mmp5TUxjRnNmT2hvVURSUmZZRlZkMzktQ04xS2t0aE1xdGpDTmRHLWRKNDNWcEtiZlBadzBxNlROcnJQaFFxVnJrUTVjRmlGWUl3c1hBX05mcGZGUWh3?oc=5",
-   "time": "2026-11-19T07:59:00Z",
-   "t_id": "LANGSUNG – Harga Bitcoin, Emas, dan Minyak Jatuh: Haruskah AS Mengulangi Penyelamatan $2,2T pada tahun 2020?"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold recoups from 14-month low, tighter Fed outlook caps gains",
@@ -336,8 +344,8 @@
    "lang": "id",
    "t": "Rekomendasi Saham Hari Ini: MIKA, HEAL & EXCL, IHSG Rawan Koreksi",
    "src": "Bareksa.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEpHNF80T0lydEgxcnJQRm8tRUFXMlIyX2dfa0lkeWVoQ1h5QWEyamR0bUdnZTZIMEphNEYwYkxPd3JXSExfY0w4ZDJWZ2EzQlRfaW1wUFhGLXN5VmYtTzBBMDN0bHFXdEc5NVk2Ujd6YVB1dmxEQnNZNTNTcVVzaXEyaUhhV3ZHUU9YRlRvTVQ4OU9jX1FvVWVIa3JJWlRFQk55cmdJQUFFRkQ3?oc=5",
-   "time": "2026-11-19T02:44:11Z"
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVBOTGVFTFZiSW5aZjMzOUJtdDFPSTlCSk1Sb3B1a0ZvZkRmRGZTU1VUbXNkR3E0cFE0UEFVSGI4bmNPelk5alZNY0dqNjFfdlVlOXFzQjN2cEdzR2U1YzFvcWxVMWFOLVVKUnBKZ05TN240ZHY1RmFzZ2YtRnN2NkdhcEZoVVhhQldjVkhLQ05ZSnZfd0M0dlBtTjBsOHd2bjQ0R25qQlk4ck1DZEQtdGtR?oc=5",
+   "time": "2026-11-19T02:49:28Z"
   },
   {
    "topic": "indonesia",
@@ -498,15 +506,6 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
    "time": "2026-11-18T19:09:22Z",
    "t_id": "Fed Melihat Perlunya Terus Menaikkan Suku Bunga Meskipun Tetap Stabil di Bulan Oktober"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed's Barr says rate rises likely lie ahead for economy",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm12UHZCU3VxTVdaUEZkTFVrcllfdGw3ejc3STVZM3U0cXByUWR5Y1R3ZDRhZmxQVjNiWXI0Qm9hTURNNlE4YTAxU2hYZVNNSm1JNENPd0tPYlE4VWtNNHZTQTZ5Q1JJMVE2SzYyNTE1UFVjSWRHUlpEZVB0dmhYbzlEdkNzc1dFUmJyaFEtNE42djVKTU5sN1RvZw?oc=5",
-   "time": "2026-11-18T18:38:00Z",
-   "t_id": "Barr dari Fed mengatakan kenaikan suku bunga kemungkinan besar akan terjadi pada perekonomian"
   }
  ],
  "errors": []
