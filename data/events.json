@@ -1,7 +1,50 @@
 {
- "updatedAt": "2026-11-19T20:01:31Z",
+ "updatedAt": "2026-11-19T20:16:11Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "transportasi-202611182109-31ec",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "FAA Ground Stop Raises Concerns for US Travel in 2027",
+   "src": "FTN news",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0hMX2hPN21nT3NHSDdjWjNCNWp5X1pZeGpRQ18xUksxTXRxMTdGRTNZRWtNd3Zudnd3X0ROZXpka3RRMWpKQjRqNnh4X0hSSURLS3ZLUlhsMFdSRkFGZy1oUDZEdHdOWW9reDE3MlkyQjJWQ2V5d2FqaHNOS3FSUXBwWWNlbVp2a1NB?oc=5",
+   "sources": 6,
+   "recent6h": 3,
+   "score": 7.5,
+   "level": "besar",
+   "first": "2026-11-18T21:09:26Z",
+   "last": "2026-11-19T19:55:11Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "FAA ground stop halts departures at San Francisco International Airport amid storms",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aaGI3Vk44dHFOWWZra0h1Q3p0VUtJRkZySDJpaHdXOFhSYWxsOXFDeVhZNlllUjhrUUZFUzgzWmdISE4zT0poaVlqcnZoVEpkTUY4cGJYRnRRYUhYZk5OWjBtUTV2T0o3ZEZrSkRqZUUzX28?oc=5",
+     "t_id": "Ground stop FAA menghentikan keberangkatan di Bandara Internasional San Francisco di tengah badai"
+    },
+    {
+     "t": "Investigators ‘very close’ to finding cause of nationwide ground stop, FAA chief says, after some router installations paused",
+     "src": "KEZI",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbGZUMXF4aEhfWm5MMUZGQjAtOXVPa1kxLXUzWkVEZi1ERWZwbHVBYjRXbU56LXlEc0Jha2NrOGF0bHM0TXJzaTVLNTlqdS1pWkM5VENXOXBDdW5yRHdhVC15X1FoQkxmaXdhdElGLUF4cWxzNEpBN3hvR1NjQ1FRdjRyWjJtSkE5YnRYOGhOZm1Ra045WHNWTExTS1d1Rjh6TFF2Um81eFc0d1VSaXl6eE9XVGctdXJsakpNbkZybWpRZFRuZmJRcTFrN3p1SXBIb2s3OTUtSTM2a09raG5rRXZSYmV6Y05peWxsWGdlVEZGelZveDhvQURZcGdnWWN5Uk90dmdvSThHZw?oc=5",
+     "t_id": "Para penyelidik ‘hampir’ menemukan penyebab penghentian operasi secara nasional, kata kepala FAA, setelah beberapa instalasi router dihentikan"
+    },
+    {
+     "t": "Sean Duffy Blames L3Harris for Longer FAA Ground Stop",
+     "src": "JournalArta",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTV1TzAzeGlkUzFFOVI3U2dUbkROX1Q5T3pOU1NER3pQYU5SYVZsS0NjcVBEYXBDSE50S2NkVFR5eTZkWllyUEd4SVpzcHg0M0xVNlh6SHpjdzJvMDczTnE1ZmdQaXZlX1dSemp6YnEzd2pQNTVnNVlza2RhWWE4THJnclRrOFA0?oc=5",
+     "t_id": "Sean Duffy Menyalahkan L3Harris atas Ground Stop FAA yang Lebih Lama"
+    },
+    {
+     "t": "Tyriq Withers and Daniel Kaaluya Stranded at Airport After FAA Ground Stop",
+     "src": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdXJBVmpuaVdiN2hFZDVKb19xb3NpTmVVbGtTRUhIbUxBNE5aOW5rTnhSUDNoWXlQVDhZTU5DOUJscHdzbDBsZlk5SXdhaHNqSmRFeWJVNVV4UFFPQWQxWkZDQUFBcGhxS0gyXzB0N0JqOGt4eGt6eE82RmRVc3RsOVRURl9GajVLU19XNmUwYW0yTUYxTHc?oc=5",
+     "t_id": "Tyriq Withers dan Daniel Kaaluya Terdampar di Bandara Setelah Ground Stop FAA"
+    }
+   ],
+   "title_id": "Ground Stop FAA Menimbulkan Kekhawatiran terhadap Perjalanan AS pada tahun 2027"
+  },
   {
    "id": "perang-202611181557-1880",
    "cat": "perang",
@@ -209,6 +252,8 @@
   }
  ],
  "errors": [
-  "transportasi: HTTP Error 429: Too Many Requests"
+  "politik: HTTP Error 429: Too Many Requests",
+  "korporat: HTTP Error 429: Too Many Requests",
+  "bencana: HTTP Error 429: Too Many Requests"
  ]
 }
