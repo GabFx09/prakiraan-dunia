@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T22:11:55Z",
+ "updatedAt": "2026-11-19T22:26:32Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -108,6 +108,36 @@
    "title_id": "Serangan rudal Houthi merusak gedung tertinggi di Riyadh"
   },
   {
+   "id": "perang-202611181557-1880",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
+   "src": "Funds Global MENA",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-18T15:57:13Z",
+   "last": "2026-11-19T16:20:41Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Is it safe to travel to Saudi Arabia? The latest advice as the kingdom faces a spate of missile attacks",
+     "src": "Condé Nast Traveller Middle East",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3UxWmxyRkxGTUc2bDEtN0tkeTlUVDQyek16UTVGNl9rdzFrVWNoZkEzUVdnZW5mZlBOY190dTVBMENMbWp6T25KV0x6bDRvZ0VVUzhRVEdkeXRfZ21NbGhrbE14QS1fTkt4YlpSRG52Q1BkSXVoX0dPWml0QldsMVhkYkVsZWliQkhRWFVXUm1GUW94cGU4MFFTb29Pb1ZtX2RLd1VsaGhHa3hHMVJjdnpSYXNwdHlRcllFbThlSE5HQTg4eHdLZEVfNG9HYlI0Ry02TA?oc=5"
+    },
+    {
+     "t": "Large-scale missile and drone attacks target Riyadh and southern regions of Saudi Arabia",
+     "src": "جريدة القدس",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV09nNEtCSDNRNndkN0VmbGtCX1l0aFM5LU12eFZWM2Z0NU1PTXlxbGxkTzVoeEp3dVhaYUpnZWhWRXlZQnk5SEJHQUs0RVk1XzUtYUxWUGxmd1RRQ252Ym05WDltckJJZ3ZqNGx0Q0FfM2d3QmgtT19rZVVZVTF0MG11cjBVOWw4T1BaUmZMRTZ2M2pOV0dkMUdoNzVMM05kdkNCTE9CS3JjWHJRbEhR?oc=5",
+     "t_id": "Serangan rudal dan drone skala besar menargetkan Riyadh dan wilayah selatan Arab Saudi"
+    }
+   ],
+   "title_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
+  },
+  {
    "id": "indonesia-202611190110-84fd",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -183,31 +213,6 @@
     }
    ],
    "title_id": "Gangguan pada Microsoft Outlook tidak berhenti setelah diperbaiki — tumpukan email yang dicoba ulang dapat memerlukan waktu berjam-jam hingga berhari-hari untuk diselesaikan"
-  },
-  {
-   "id": "perang-202611181557-1880",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
-   "src": "Funds Global MENA",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-18T15:57:13Z",
-   "last": "2026-11-19T16:20:41Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Large-scale missile and drone attacks target Riyadh and southern regions of Saudi Arabia",
-     "src": "جريدة القدس",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV09nNEtCSDNRNndkN0VmbGtCX1l0aFM5LU12eFZWM2Z0NU1PTXlxbGxkTzVoeEp3dVhaYUpnZWhWRXlZQnk5SEJHQUs0RVk1XzUtYUxWUGxmd1RRQ252Ym05WDltckJJZ3ZqNGx0Q0FfM2d3QmgtT19rZVVZVTF0MG11cjBVOWw4T1BaUmZMRTZ2M2pOV0dkMUdoNzVMM05kdkNCTE9CS3JjWHJRbEhR?oc=5",
-     "t_id": "Serangan rudal dan drone skala besar menargetkan Riyadh dan wilayah selatan Arab Saudi"
-    }
-   ],
-   "title_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
   },
   {
    "id": "perang-202611182333-677e",

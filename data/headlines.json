@@ -1,7 +1,23 @@
 {
- "updatedAt": "2026-11-19T22:11:39Z",
+ "updatedAt": "2026-11-19T22:26:16Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "How major US stock indexes fared Thursday 11/19/2026",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSUxXN2VuZE1XWG15ZXJtMDFzOFRtUXR3STRyM3BKU1lfcl9FTklzalI1RkVIQWJ3RmNkVHNlclZRMGN2VmdQVF81bXp1VVAyTEpWQ2N1eHhZZFoyclA4dnp4aGoyblRnZlFFQ1ZEa0pQdVQ3RWJ3RkNhR0Rock9VX201cEFQTC1GT2RJMEdpd3NYWUJuc2dieXdsUFNBZGIycnQxcTVNOHZxZVpEeW94aHQzU0FKOE1valBpbVF4dUROQlJId21V?oc=5",
+   "time": "2026-11-19T22:12:18Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Menakar Efek Ganda BI Rate 6% dan Dilema Cuan Kupon Imbal Hasil SBN",
+   "src": "Bisnis Indonesia Premium",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFV6anh4RUlBYmFTT05HX1ZDNW5PZnRES1BkNk80ZDNHVHN2YnN2c1dNYU9LQ2NSWWNPeG81ZF9FLW1feF9CMlJWcW1MdE5Ia3pPeklGWkNWS1FCUV96Rklxbl9JZzVOR3otR0xXdTl2U0ZPcXVwSGVxZkVTeUlyX2djcEh5U1R5ZUVUWko3SlBBTlQtWllERFJFX1dNZ1dSUkk4M21OVmk1TFlwQ0tfeUVfOFhTdVh3S25B?oc=5",
+   "time": "2026-11-19T22:00:00Z"
+  },
   {
    "topic": "geopolitik",
    "lang": "en",
@@ -27,15 +43,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZjFqa0hNX2pnT1d4RGRQWEhNTDl6djZzd2sxOFZhOWE3UnUyZFpxWk1NVzJrNnpGbS02bDctT2FLMUNNdzV2ZW9lMjVrM01ZRHpBNmpycjBJSVRVaWVPdGlyazkxQWJLal9BSHo1Zw?oc=5",
    "time": "2026-11-19T21:25:11Z",
    "t_id": "Saham-saham anjlok karena investor berlindung di tengah meningkatnya ketidakpastian"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Anthropic IPO: AI Giant Rallies As Tech Stocks Slide",
-   "src": "Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43dEJ4ejMtNGsxc0xXMlpBN3hHdW9vcUV4aUVWUnpJdFBCek1iMG1VNHYyU3MtMTVoZ2licm1VODlJcE5HZGw2MFItNHBCb01wNUEwaHlCam8tYlBaelNmbVl5SVl6ZTBIV2tlQkhaQnVTUjZtTi00RkpMS3hRQlE?oc=5",
-   "time": "2026-11-19T21:24:00Z",
-   "t_id": "IPO Antropis: Raksasa AI Menguat Saat Saham Teknologi Merosot"
   },
   {
    "topic": "kripto",
@@ -74,6 +81,24 @@
    "t_id": "Strateginya Bernilai Lebih Rendah Dari Bitcoinnya, Media Trump Mungkin Harus Menjual"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price range on Nov 19, 2026 at 4pm EST Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFhvbENKeHBRT21NVUhRNENfVE1XbkNtMXRZUHlxUXdaeFN3YWZjMEdISnYyYjJpZlE0d1ZEcElhWVIxOTN3czV0TmUwSWtKVldaTmJwYkQybDhacUI1WTNLak1CeUNTQ3k1emJxTTRVT1RNMnRRV2l3U0FBeVRfQU1WSnRLdC1Ob0VJTDZTdVF1MnVQZ29mMHlNMm4tYUUzb196SjM4LU9Oc0psUC1RaVdIT3N2QQ?oc=5",
+   "time": "2026-11-19T20:03:41Z",
+   "t_id": "Kisaran harga BTC pada 19 November 2026 pukul 4 sore EST Prediction Market"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran Says Deal on Strait of Hormuz is Close But Will Not Open the Waterway by Itself",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlVMcFlqcUlsZm1YaXlHOFFCQ0Q5cDRNbXBUUGl1d1FTQVB2Y2NWUWQ0Y3dTWnVXRnZ2MEhVa2FzQ0xicW1LQWdCcll4Tl9VRS00blhiMVJoY0x3S2RyLXlXR0cza0s4aXRRNnozZllMWVFoVG5oYVl1dV9PMXdUekZTcExwWlZMVnNsbHVObVN1R0x0blQwTVEwMFR1Wl9BUFg2TWxrREliSU1kR0I3bG9idlNEdw?oc=5",
+   "time": "2026-11-19T19:54:16Z",
+   "t_id": "Iran Mengatakan Kesepakatan Selat Hormuz Sudah Dekat Tapi Tidak Akan Membuka Jalur Air Dengan Sendirinya"
+  },
+  {
    "topic": "china",
    "lang": "en",
    "t": "Canada and China Draw Closer with Expanded Trade Pact",
@@ -94,29 +119,11 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "Oil Tankers Steer Clear of Hormuz Ahead of US Blockade",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNU9IeGx0OVc2ODAzSWhONFFRTE5BYUZyX0NFZERkWUcyem1pTTNnVTNIeTVVTENCYlcxT0lQaTZMR3RRb1M5SnlFZ2R3ZlB6dDlWUHBoeF92bWpQNlpSSkloVlRjY24tYzJnYmxjS0tGNGNZS2lqT1c4QzdZUl81TGZuc1N2aXkyWEdKZjRn?oc=5",
-   "time": "2026-11-19T19:38:26Z",
-   "t_id": "Kapal Tanker Minyak Menjauhi Hormuz Menjelang Blokade AS"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
    "t": "Strait of Hormuz Watch: Peace Negotiations Stall, Vessel Attacks Persist",
    "src": "IndustryWeek",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
    "time": "2026-11-19T19:07:33Z",
    "t_id": "Pengawasan Selat Hormuz: Negosiasi Perdamaian Terhenti, Serangan Kapal Masih Berlanjut"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price on Nov 19, 2026 at 3pm EST Crypto Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRTJkYm9MZ05tQ0dSbzEzcGRGai1yc0wxV2xOZ0xfQmx0dU1NaVg5X2p3WDNKOVZ2NllEVHpmMVlFdzRDbEhlREJZQ2VKX3hLTUtpNmJmazY3RnJHN0tFQjZTUktBLXhPQVAzTllLUWMzZDlRM1NVZVQ3UDBqZHRWSnM5bFNZY3hEQ3oxMUVfeEpkTWduWFJuU2wwblBIZXNpemZ6WThJQW4tcFl0YkE?oc=5",
-   "time": "2026-11-19T19:03:33Z",
-   "t_id": "Harga BTC pada 19 November 2026 pukul 15.00 EST Pasar Prediksi Kripto"
   },
   {
    "topic": "indonesia",
@@ -152,6 +159,15 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53TVk3b3VUZlRaZWxuckp1YlB0b3REZnFGbEtkQlYxSV9NQ1ZNSS1Kbmh2X1NWZG9WN05wSjNFMkxCYndIRjlFOHlKZ1FvSGd3Ukt6T0ZpLVdEZw?oc=5",
    "time": "2026-11-19T18:25:41Z",
    "t_id": "Federal Reserve H.15: Tarif, Formula & Panduan"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "FOMC Minutes Resurface Rate Hike Fears, Dragging Bitcoin Price to $62,500 – Is $58,000 Next?",
+   "src": "Coinpedia",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHN2UlBBN2w3YjhMZW04d1FmQ2VZQzJCbnAxUGMyV0JORGVYYWVLdE9YcEVPbGpkN012VVlXYV9ISUNLSTJBMFJsUVZyNjg0TUQ2a0tSV1V1M2IyOGRjNWg1VlNJY2F5WDNSc0NpSkxzY3l0ZlhrV24xTThsanNVVk1Gb1psZXBNbHJlb0hrTUpqVTROX2stNnJvZXRBQ3Bydm81WWFBSi16TVUySENETURfUVR4V1dvdndVUzVEa9IBxAFBVV95cUxPbHJaeERZVmljQ0NiVzBIUDk2NEF1OTJNeVFVSHplNnlnLTcyRnlDYVlRaE1FZkxTSHNXeXJxSW9pZy1uX2dfNDR0T0QwamwwOXlyVUJJTXlYNDVHODBjclBXd24tVHdxMnlVTUV1NVY0dHM5TG9nckd0ajktTmtWcFU2ZERDTndOT09fY1ZxdE1KdEMwbm1OdnlMZXh2LXRjcVBsRTgtV2Rqdk9kMXZsbGp1V0xCbkdxb2sxOHpkYm9YT1Jt?oc=5",
+   "time": "2026-11-19T18:05:25Z",
+   "t_id": "Risalah FOMC Mengungkapkan Kembali Kekhawatiran Kenaikan Suku Bunga, Menyeret Harga Bitcoin ke $62,500 – Apakah $58,000 Berikutnya?"
   },
   {
    "topic": "saham-as",
@@ -197,15 +213,6 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "3 Ways Bitcoin Price Could Hit $1M, According to BTC Bulls",
-   "src": "CoinMarketCap",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTNQRU1pXzUxTVBaV256Wlo2MFdfaFAzdjFJbWgyRjRwUGNXVUZ4ZDRGUjUyenhPb0tOSWFYZ3RpQmVXU3l3cE5aZnJOcUZXbzZxZHZ4Nk5PVHV4akdPcDItQ2Zrb3JUaTRwdHMzMWFoWDdGWUhJVEE0dUNaM055TmpTdFV0Z2oz?oc=5",
-   "time": "2026-11-19T15:57:43Z",
-   "t_id": "3 Cara Harga Bitcoin Bisa Mencapai $1 Juta, Menurut BTC Bulls"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
    "t": "Bitcoin Holds Above Weekend Low on Coinbase Amid False Price Alerts",
    "src": "The Defiant",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2F3TEdQdzdqNF80LVNQMElrWFo2aXY4eUVxVGsyUWZmQkZ2YmJ2SkZJbnUzdHloMzFmNHZUemFxME93cVphNEwyNTF3MEhlREJsNmNmZlAwTnNndUk3bG9YNnkyMS0ya1k5aFRDdTBLZ0ZhTlYxUktpTUREWWRLb1EwQ3A5Z2R2LXdwR1FqUFA4cURNNnJ6U1VOcHNFMTVORndZZA?oc=5",
@@ -220,15 +227,6 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczJXN3dIbXJITGpRV1BQQzdMRlp4QVl0ZE5jZnM2Vk9SNm5tZ2ZJV1NlbXA4em01SGZxM3p3b0FQemFMS0dTNGhhdzdPZzhCdXZDVzJTRXYtRThDWHRQa3dZQzRTOGdPZWxuQThVTGo5RGVzUHluWnNVaWRmNE5XQ2VpSS1aMVZUT3IyOA?oc=5",
    "time": "2026-11-19T15:32:51Z",
    "t_id": "Iran Terus Melakukan Serangan Tak Henti-hentinya terhadap Kapal-Kapal di Selat Hormuz"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Peter Lynch Made \"Growth at a Reasonable Price\" Famous. SPGP Runs the S&P 500 Through That Filter and Keeps 75 Stocks",
-   "src": "24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSjZ6OWU1VFV3OC1tczl4cXdnbUFUT3gxY2h1RFB6ZXJFMFpCckFZblo1Z2Z5UU5Hd1pfYkpXQUZKc2Y4VVFlelE4Si1taFZhY3dYNkFmdFdsa0Vzd3BsQW9fRnEtRGZOdWprVXpybHlLT2NndVhycnp6X01YSVZyVFliU1AxR1hTMUFoZDdQYjVFSWhtOU1QQXNNTXplTjZJdlpYWlA2Y2pLREF4VVhJR2U0c2ZjbVE5aG82Zk4tdUMyOUk2RjV2T3NBTUhKNHEySl9rVG5pNE54ZlpDM21FOFZER2lWa2lMYWlwNTBnZHA3WDA?oc=5",
-   "time": "2026-11-19T15:13:00Z",
-   "t_id": "Peter Lynch Membuat \"Pertumbuhan dengan Harga Wajar\" Menjadi Terkenal. SPGP Menjalankan S&P 500 Melalui Filter Itu dan Menyimpan 75 Saham"
   },
   {
    "topic": "indonesia",
@@ -446,14 +444,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "BI Rate Naik ke 6%, Ini Dampaknya terhadap Pasar Keuangan dan Ekonomi",
-   "src": "Datasatu",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSk00YkZydlpGYTUxeVNyVDlvY0RzTXRBQXF1UXQ1YXdxRGZlQ2xBS3JXOWdHeEdGWkV0VG0yOGthUDc1ZGZZQ3B2WDVHV2JIVmN2YnMtN205WUJIQkc2dkRNcUdhdS1ZV3VENmdpWXZQNzFyU2RFQ2xjY1d4TXk5THBPZThoMGRNc3RkRjV6MGpkWVlVQ3ZmTnk5WXh2NGx2YVFhNzdtMA?oc=5",
-   "time": "2026-11-19T07:25:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "IPO Anthropic Listing Malam Ini: Valuasi Rp27.300 T, 3x Lipat Market Cap IHSG!",
    "src": "Ajaib",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMzhaS2ZsR3RjZXpCcWlnclVjeWsxbzdldk5JWl9qMmViZUZjbFozV0ZxOXVWVHRWME41QlgtZUp3VU5pdVBBbHlETGVhMVExVUt0R0NjVlZqUmNVMElJbG1CZTRoSkRNNy02WDFQVGZDTEJQaDFxNWFneTEzVXBnY0dqdUxqZjNEam12aHNEWUs?oc=5",
@@ -518,6 +508,15 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
    "time": "2026-11-18T22:48:00Z",
    "t_id": "Risalah rapat The Fed: Suku bunga yang lebih tinggi diperlukan pada bulan Desember karena kekhawatiran terhadap inflasi meningkat"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June",
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+   "time": "2026-11-18T21:39:00Z",
+   "t_id": "Penurunan kelima berturut-turut pada S&P 500 menyeret Wall Street ke penurunan beruntun terpanjang sejak Juni"
   }
  ],
  "errors": []
