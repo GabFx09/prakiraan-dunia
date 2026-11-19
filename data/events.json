@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T11:42:40Z",
+ "updatedAt": "2026-11-19T11:57:19Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -113,6 +113,29 @@
     }
    ],
    "title_id": "Sean Duffy Menyalahkan L3Harris atas Ground Stop FAA yang Lebih Lama"
+  },
+  {
+   "id": "indonesia-202611190944-b278",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Video Demo Tolak Gibran Mundur Ternyata AI, Bagaimana Mengeceknya?",
+   "src": "Tempo.co",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkU2VkhWdnRHem1LS01WVVRzSjI1QUIweTdlQkRyVWNGMF9LTGpjaWo1ZmVuYUxrR2hsVUxGOGgyUGZlNDM1S3lESkw5RUpIOXNsM2FlRlNnV2dwWEZ1enNmenpDYU9BTmdMbFlsSWZ2QTNMQjFkM2tlMEFBYllXVzFXal9HWUpFWWN6N3ZCbVNJc3VUVWl0eS1YT0QtRVo1dFZ6aXRoYk5vVUdW?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-19T09:44:00Z",
+   "last": "2026-11-19T09:48:04Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Video Demo Tolak Gibran Mundur Ternyata AI, Bagaimana Mengeceknya?",
+     "src": "DW.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczNxVTlOMzRFWm9vb3RHbVhTM0o3LUtiNS00M096cmRIeFBhOWdxeVdka0hqc3JsanY1U0ppZ283WHZlbmlXWWZfd1hwWFdETkgzQW5FejE5blJORmJUOW1DQW9UblNVSThEcjFzYkUyTXMtMEpBSVRudDcyRDdZczBrUUtLZ1ZHR0FYX0dUdTdkSDl1WF9fcFU5eHh6d9IBngFBVV95cUxOczNxVTlOMzRFWm9vb3RHbVhTM0o3LUtiNS00M096cmRIeFBhOWdxeVdka0hqc3JsanY1U0ppZ283WHZlbmlXWWZfd1hwWFdETkgzQW5FejE5blJORmJUOW1DQW9UblNVSThEcjFzYkUyTXMtMEpBSVRudDcyRDdZczBrUUtLZ1ZHR0FYX0dUdTdkSDl1WF9fcFU5eHh6dw?oc=5"
+    }
+   ]
   },
   {
    "id": "indonesia-202611181700-d766",
@@ -261,32 +284,9 @@
     }
    ],
    "title_id": "Mengapa begitu banyak pemadaman teknologi penting terjadi secara bersamaan"
-  },
-  {
-   "id": "siber-202611181157-c3ae",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "NSA network, Apple services go down in latest outage",
-   "src": "Heartlander News",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzFDNGZZM293cXB0SDFIVXo0LWlLYTFTWVpoMDlyTmlOT2tFZUdqdTJ3Rk9xNVNwXzZGcUR2eWN3UnQyNW9QUlFMbTdqRlEzNEV3OG5Oa0htU3hLN0hmdlJkeFlYRnpLdzBxenYzSEdhTWstVlZxa1lZYnRCcG5tcXZfdDA2dFE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T11:57:00Z",
-   "last": "2026-11-18T16:15:01Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "NSA Classified Network Outage Takes Down NSA Net During Routine Maintenance",
-     "src": "Technology Org",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM283d3FLZi13SVFlT3JsZnoxNWR3c1NTalAtb3R5S3g3c1h5STNMZ1RYc25KamJ5NGNSdmVTc2R6SmMzTGxOMjgwWnM4NFFQN3F2d3Rzb0lHd1BPS1ROZ2luYVJGbHA0RzB4dzRiZk1yMnJHS19Sa21mYmJXVHFMY2dPdXVmMjYwTGI0cEtZNERNd1VaX3FVQk5tQQ?oc=5",
-     "t_id": "Pemadaman Jaringan Rahasia NSA Menghancurkan Jaringan NSA Selama Pemeliharaan Rutin"
-    }
-   ],
-   "title_id": "Jaringan NSA, layanan Apple mati karena pemadaman terbaru"
   }
  ],
- "errors": []
+ "errors": [
+  "kerusuhan: HTTP Error 429: Too Many Requests"
+ ]
 }
