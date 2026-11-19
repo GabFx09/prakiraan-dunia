@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T16:21:21Z",
+ "updatedAt": "2026-11-19T16:36:06Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
    "src": "Funds Global MENA",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
-   "sources": 8,
+   "sources": 7,
    "recent6h": 2,
-   "score": 9.0,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-18T15:57:13Z",
    "last": "2026-11-19T15:44:41Z",
@@ -37,10 +37,10 @@
      "t_id": "Kuwait Menolak Serangan Drone Iran di Pangkalan Udara AS"
     },
     {
-     "t": "Iran hammers US drone, missile sites in Kuwait",
-     "src": "https://aapnews.aap.com.au/",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTRSZ0JnbXE2bk5nS2VhYk5EdXIzYUhpcTE1SWxkNGF3UUdJbHh2MGR0OEVOWGdDTVowV3JWZTZqSF9Oa1l0TUZIQ00zQ2NIdDJXRlZvbWRYdXhQRzNPYjloam0wV0FIcnBTZDd3eHBWNHowYnJPZUpidDNXM0F4S0VoX1BwYjBBZnRETHMyUQ?oc=5",
-     "t_id": "Iran menyerang drone AS dan situs rudal di Kuwait"
+     "t": "Houthis claim missile and drone strikes on Riyadh, Jizan and Khamis Mushait",
+     "src": "Al-Bawaba",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFhFaXJTSTFITHprQkhtazI1dnJ5d0Jab2FiQlVHWEh5TGJXcFBJN28yTC1LbkN3azVnb2lJb1dMcjR4MlhSQ2NESldtZF9aUkJRYWZhUDJyZ0RXRzFtYWEtRXFlYlBhelh1V0pxQjVQaDFLSTJsRTlfVDFQbXJ0ODNzQQ?oc=5",
+     "t_id": "Houthi mengklaim serangan rudal dan drone di Riyadh, Jizan dan Khamis Mushait"
     }
    ],
    "title_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
@@ -153,29 +153,6 @@
    ]
   },
   {
-   "id": "indonesia-202611182258-0448",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Besok, 1.000 Buruh Bakal Demo di Kantor Gubernur Jatim Tuntut Kenaikan UMP 2027 Rp 3,7 Juta",
-   "src": "Kompas.com",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOW1ReGVpdkhhb2Vlc1pmWjVpQ2hTcWtKSHFocWVISTRpSkVGTjdpcnZUdkVKYzV5Tkd4Mmt6QlRDZ1J6UlNkNzNDbVU3Ym1NNHpTQ3ZqRXMwTW1RRnN2RTFxMlZuYWloSWJTNW9sMDJ4U0ctSEtJdXc4WGZ2UUV3MVpTZFdTaHNSUllUaV9WeWxjbWF3eVlkNk8xeG1fWTYxZklCcl9CZjF3SUVxR21IekZGX3JBUC0yR3k3Nk4zMU91MTlyWjMxcFIycU9VZmQ2bjd4R0gteVpCTjhzbnNMLXl4dw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T22:58:29Z",
-   "last": "2026-11-19T09:48:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ribuan Buruh Bangladesh Bentrok dengan Polisi Saat Demo Tuntut Upah Naik",
-     "src": "SultengTerkini",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmVTb05BaExJVGdiZi1xckxqU0JLT3ljYnhocW9uSkFnMnFnU25HRFBpRGhZeFZzNG1GQkRGbTNsMVBTd3gyZ0FFY19SSjh4c1AtQUliMFlzMWY5T1pka3lIZlJ6Y2NTVVRkcXB2dzhuOHN1SVBQT0cwOFFKYWE2LS1lMkFZMHBDV2VGZ1J4MzNsa0lPci05VjJYb1ZXaHNsTEc5RzhhaWJ3NFlrN3Nz?oc=5"
-    }
-   ]
-  },
-  {
    "id": "indonesia-202611190700-ef13",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -197,6 +174,31 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFlyTm1rN2pleFRvQVNJa3duRVRHTVZ3NU9xMnpuQUFfRzdlZjFrMTJsTnFIbFg2VjBQaEpYYWozSER1UTZfYm5XendKa3VxdXkxNzhGMUNvWk9RWTBBczZNV0FTTjNHMXZJMlFNVEJSZVc2b29IVjBtaDlZN0JLQWViSzdQZw?oc=5"
     }
    ]
+  },
+  {
+   "id": "kesehatan-202611181917-76a4",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Nearly 600K Australians lost jobs due to virus pandemic",
+   "src": "Yeni Safak English",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZllyN2JSUjZuNXBHM2M0NVBOS3pmZ0EtY2xUM1pqWG9xMFhreFpYNDB6N2E2YkN1d2VwVEllWUllX3VPc1FCek56MktYbEx1Q2Z1R2pKeTA3b1M2MkpPbzJ1YVd6N180ZkJoa191bDQzbVZveUx5bUFCbk5hTTVXbGlpcHdmVjByS2tMM0NmVDBsa09QY09LUjFB?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T19:17:24Z",
+   "last": "2026-11-19T08:00:20Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "The doctor assessed the likelihood of a pandemic due to the virus spreading in Europe",
+     "src": "ИА Ореанда-Новости",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHNwb2xhWThJNjRsRjdTeEc3UWJCbHJDOHZURzZDb0tLZEVmOVU4Z2t0SEN4MGk0MEN1UExNRTB0cTE5aGlxV1MySHQwZmFHU0l0SDVzb2ROQlBlcXh1a3ZGb2JDVFJpMUlfcER3cGxWRGJ1dVZld0tQUTlxWXJScDhVV0c4NjVBd2Fpal90NE15bGJXQlZpVm5tc21xOWlnWE5zN3hHelNld3NNeER0aG5hN0Nxb0Vtak9TdFNfNWtld2RIZUVlak44b0RZRzA?oc=5",
+     "t_id": "Dokter menilai kemungkinan terjadinya pandemi akibat penyebaran virus di Eropa"
+    }
+   ],
+   "title_id": "Hampir 600 ribu warga Australia kehilangan pekerjaan karena pandemi virus"
   },
   {
    "id": "kesehatan-202611181710-b3de",
@@ -222,31 +224,6 @@
     }
    ],
    "title_id": "India mengembangkan vaksin flu burung H5N1 pertama yang ditanam di dalam negeri untuk ayam"
-  },
-  {
-   "id": "kesehatan-202611182253-9a7f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Pennsylvania confirms eighth measles-related death amid US outbreak",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWNYcFY0Y2ZRYXUzLU9Hc3Fuc214enY5NHF3SUx6THdGdFlwdF9aWGhGS1ZYVmpzaHEtRnZxUFpWZHQyVUl3SEJDckw1WWZQUXNPS0VnNE90Q3FieVFZazZ5SGxmV3JOeVB1amxURDUyQnQtcWdLbDVabW1XWWhLT0FHYVBtQVFBWkp6R3ItUlZiS285cWhhQzBDZFhLaGpSNDB4Q0N3UTBVVVlVa3hNZGU0bkZMRW1FOFNQbzVFeUF0VlItS3ZrUG5OOGZGWWZTVUE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T22:53:06Z",
-   "last": "2026-11-18T23:25:18Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Pennsylvania confirms eighth measles-related death amid US outbreak",
-     "src": "New Hampshire Union Leader",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanhyZ29EVGFvcVBKd0k1Wk9QU1ZqS3BGMG4ySkJrR2tYeEw5al9JT3BabnN1VWRSZnJZT1R3MXdxOHpEMWRoa0NHR0RKM19PS1p4VWR3c3JmU19LTjZvNXFKdUdVSDVNUVYwbzhCNVdQdFJNSV9VOUR2MHBzclFIZ21kTnBBNngxQk15ZG9ESktvenBYbzRnMFZzbm5FTUxpOFpPSERqMjZTSkRNd2RpY0cxa3Ricmo5dWZfZ19veHVQX2hCOTkwOUU4UQ?oc=5",
-     "t_id": "Pennsylvania mengkonfirmasi kematian kedelapan terkait campak di tengah wabah di AS"
-    }
-   ],
-   "title_id": "Pennsylvania mengkonfirmasi kematian kedelapan terkait campak di tengah wabah di AS"
   },
   {
    "id": "siber-202611181829-b5bd",
@@ -324,5 +301,7 @@
    "title_id": "Jaringan PlayStation Melaporkan Pemadaman Beberapa Jam Sebelum Rilis 'GTA VI'"
   }
  ],
- "errors": []
+ "errors": [
+  "korporat: HTTP Error 429: Too Many Requests"
+ ]
 }
