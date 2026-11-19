@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T02:15:32Z",
+ "updatedAt": "2026-11-19T02:30:09Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -115,6 +115,29 @@
    ]
   },
   {
+   "id": "kesehatan-202611182253-9a7f",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Pennsylvania confirms eighth measles-related death amid US outbreak",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWNYcFY0Y2ZRYXUzLU9Hc3Fuc214enY5NHF3SUx6THdGdFlwdF9aWGhGS1ZYVmpzaHEtRnZxUFpWZHQyVUl3SEJDckw1WWZQUXNPS0VnNE90Q3FieVFZazZ5SGxmV3JOeVB1amxURDUyQnQtcWdLbDVabW1XWWhLT0FHYVBtQVFBWkp6R3ItUlZiS285cWhhQzBDZFhLaGpSNDB4Q0N3UTBVVVlVa3hNZGU0bkZMRW1FOFNQbzVFeUF0VlItS3ZrUG5OOGZGWWZTVUE?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-18T22:53:06Z",
+   "last": "2026-11-18T23:25:18Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Pennsylvania confirms eighth measles-related death amid US outbreak",
+     "src": "New Hampshire Union Leader",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanhyZ29EVGFvcVBKd0k1Wk9QU1ZqS3BGMG4ySkJrR2tYeEw5al9JT3BabnN1VWRSZnJZT1R3MXdxOHpEMWRoa0NHR0RKM19PS1p4VWR3c3JmU19LTjZvNXFKdUdVSDVNUVYwbzhCNVdQdFJNSV9VOUR2MHBzclFIZ21kTnBBNngxQk15ZG9ESktvenBYbzRnMFZzbm5FTUxpOFpPSERqMjZTSkRNd2RpY0cxa3Ricmo5dWZfZ19veHVQX2hCOTkwOUU4UQ?oc=5"
+    }
+   ]
+  },
+  {
    "id": "transportasi-202611181200-fdb4",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -143,34 +166,6 @@
    ]
   },
   {
-   "id": "siber-202611180137-0542",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "6 Major Tech Outages Hit in 6 Days. Experts Say Companies Are Preparing for the Wrong Problem",
-   "src": "Inc.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEVHZF84Z2hMeDdsYUVIdnpjNngwMW9ORjRqV3JzMERJUUtUSUNuY1FibmI3a0Y3bVdGMlhYa0pVWTNhZ2ZHNW1lTFlHb3ZWdUVCT1NfbXluSVpFdy01Z3NMbHpZOGdacW9kRlUyTGlkelJyNVBQcU9XZW9EZl90TGxaWnhDcExIWHA2bTFrRTVoN1RySUZJU3M2Y1JOUG0tZnpJWG1QaXFqaG9CclRHcGVpYTZqY2s?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-18T01:37:33Z",
-   "last": "2026-11-18T16:13:13Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Why Are So Many Outages Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit",
-     "src": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWUlkNTVJYkYtSWhlZVcxdFotUHFsZHEtbkdkOFRDV2FuUnJraXBkSnNZZGFSeUNuMXdtanI2ekIyVjdjdkhRTWppRVV1dkI5UldZWHo3N05CVWlJTFlBUDJxS3gwQnN1SzVhNEdQSG9MU1N6ZERJQk5EZTFZajNxQ2tTZldvMGIwUERwZlVJcUE2c1BaOUtSMTBJc2R4cTVFb3ZyMTZhZmZ4V05MZGUyQmhfZHI2ZWl4T3VSaFJFZVVDX0Fvdk13NjRIeGNYRXg4SjFvdjlFNjY0OXdQcjZKU3NJTlFBbXdTRS1meFdCcUY1SmxKbnp3cjBYMnJEdGJjZ0tv?oc=5"
-    },
-    {
-     "t": "Internet outages hit Apple, Google and government systems, but experts say incidents aren't connected",
-     "src": "wtsp.com",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3EzV0R0WnZEYVB3S1hWWjBEVXhNalFfdzJTT3ZLSFNWdE9jRDhuSzBaTmt5ZW9vNXFlVXB5WHAweUMyajZQcktBUXRfUzR6WWJBVXVrZVNNbGRpYmZPc21IZGRXV1d3OGUzclR1UjFxdWpfLTdxMnpyQU02NG9YdEF0bmdXZ0xRa2Q5a1Iza0tsdEVGZzFWdUVpOEFwSWFndE1icEt5WG1pMHlMdHZPejN3X29abXNlcEZyemk4OA?oc=5"
-    }
-   ]
-  },
-  {
    "id": "indonesia-202611180720-223c",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -195,6 +190,29 @@
      "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
      "src": "Pewarta Nusantara",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "kesehatan-202611181710-b3de",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "India develops first home-grown H5N1 bird flu vaccine for chickens",
+   "src": "The New Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG5pOVRwdDlWUWJtbW9PRUs1Sk9QUHdmQllkWmNISmdBZ0F0eDFYXzZERmxkOE1teGl6VENQdE41M1JZYTRJUWFSRzdHcHNkRlpleVZ4Z1hpcnFVb0FHR05jdERnQVNfOTZPaTRFeEFjRml4UHJaTXYxUHExai1GZ3dKbTUwRWVkQXpKNE9rd1JSYnlncDJFR3B3VFllRHI3eE9TeVQtVTktRDYtNjZ6RXIyWFRRUUJ40gHGAUFVX3lxTFB4NlNVSE1VRzZJZUhrcXAyNmdQQlluWUhWS3BraWttY3dIdmRBcENZMVNCZHpYanVyMmd3Y3hLMjNTY2gxeFlSczRhSC1peUpocDV1cktBSGZwelpWRWlONzhsb2x3VHZjR0ZyMXRtTnVHUThtdUNic0Z2cGRSdS1qYUtQbkRaUTVwbHJlVC01MzJNR1FnamRQVkpqZmE1UTMxUGptajJsS20zMXFBYkt3TndxQTlPMXdlemR4cVVNQjRWTEVFZw?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-18T17:10:23Z",
+   "last": "2026-11-19T02:16:03Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Bird flu turkey prices: 10 ways H5N1 still shapes costs",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIdmZuOXpDQW5UX2FMQjdIMVpsVXFXblJLSkhzTjB6SnZxX1Y3UURpbTF2UFBkSERZNEs0bkNpWFVkUFFFNElGYWY1anQ1SFJuVllyNEJIVjA?oc=5"
     }
    ]
   },
@@ -288,6 +306,29 @@
      "t": "NSA Classified Network Outage Takes Down NSA Net During Routine Maintenance",
      "src": "Technology Org",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM283d3FLZi13SVFlT3JsZnoxNWR3c1NTalAtb3R5S3g3c1h5STNMZ1RYc25KamJ5NGNSdmVTc2R6SmMzTGxOMjgwWnM4NFFQN3F2d3Rzb0lHd1BPS1ROZ2luYVJGbHA0RzB4dzRiZk1yMnJHS19Sa21mYmJXVHFMY2dPdXVmMjYwTGI0cEtZNERNd1VaX3FVQk5tQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611180137-0542",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "6 Major Tech Outages Hit in 6 Days. Experts Say Companies Are Preparing for the Wrong Problem",
+   "src": "Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEVHZF84Z2hMeDdsYUVIdnpjNngwMW9ORjRqV3JzMERJUUtUSUNuY1FibmI3a0Y3bVdGMlhYa0pVWTNhZ2ZHNW1lTFlHb3ZWdUVCT1NfbXluSVpFdy01Z3NMbHpZOGdacW9kRlUyTGlkelJyNVBQcU9XZW9EZl90TGxaWnhDcExIWHA2bTFrRTVoN1RySUZJU3M2Y1JOUG0tZnpJWG1QaXFqaG9CclRHcGVpYTZqY2s?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T01:37:33Z",
+   "last": "2026-11-18T16:13:13Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "JD Vance cancels NYC appearance as major outages hit US",
+     "src": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUdIeHlYbjZwRXM4NjFDckxSdHhCcEZRTXp5b2dEVU5JT2EzbUNnWVg0WDNzX2lSS1pfYk5CZGVFMGt3eHNHNWR3Zm5CMm5UazZrT2I0Y3ZobkJZQjdmRUJjcEdCaElDanNjU3JjWHZXYUxaYXhHTm9oajF0aENiOFNn?oc=5"
     }
    ]
   },
