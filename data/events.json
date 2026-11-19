@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T17:05:29Z",
+ "updatedAt": "2026-11-19T17:20:13Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,20 +10,14 @@
    "title": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
    "src": "Funds Global MENA",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
-   "sources": 4,
-   "recent6h": 2,
-   "score": 5.0,
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
    "level": "sedang",
    "first": "2026-11-18T15:57:13Z",
    "last": "2026-11-19T15:44:41Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Houthi Missile Hits Riyadh’s Tallest Skyscraper Housing Saudi Arabia’s $1 Trillion Wealth Fund",
-     "src": "Bloom Pakistan",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXZyd3poeS00VldZbnZ5cUxVaDduQWswMl9mOVBqZE1MRTNzdnBBV2VDTlFaU1JjbHFqaU1XVEpGRkZHdU54bWJVZHN5Sm1tLW1JajFqV3lOOTFjNHM5d3lIS2hsaXNFYXEtbVRqUTNfQnpvTGt6d2g3NDBEd200MlV3?oc=5",
-     "t_id": "Rudal Houthi Menghantam Gedung Pencakar Langit Tertinggi di Riyadh yang Menampung Dana Kekayaan $1 Triliun Arab Saudi"
-    },
     {
      "t": "Large-scale missile and drone attacks target Riyadh and southern regions of Saudi Arabia",
      "src": "جريدة القدس",
@@ -97,6 +91,29 @@
     }
    ],
    "title_id": "Sean Duffy Menyalahkan L3Harris atas Ground Stop FAA yang Lebih Lama"
+  },
+  {
+   "id": "perang-202611182333-677e",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Iran war live: Strait of Hormuz crisis dubbed ‘largest energy shock in history’",
+   "src": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-18T23:33:15Z",
+   "last": "2026-11-19T14:43:21Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Here’s a List of Gulf Energy Infrastructure Damaged in Iran War",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFHQnpHTg?oc=5"
+    }
+   ]
   },
   {
    "id": "perang-202611190331-3203",
@@ -193,29 +210,29 @@
    ]
   },
   {
-   "id": "kesehatan-202611181710-b3de",
+   "id": "kesehatan-202611181917-76a4",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "India develops first home-grown H5N1 bird flu vaccine for chickens",
-   "src": "The New Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG5pOVRwdDlWUWJtbW9PRUs1Sk9QUHdmQllkWmNISmdBZ0F0eDFYXzZERmxkOE1teGl6VENQdE41M1JZYTRJUWFSRzdHcHNkRlpleVZ4Z1hpcnFVb0FHR05jdERnQVNfOTZPaTRFeEFjRml4UHJaTXYxUHExai1GZ3dKbTUwRWVkQXpKNE9rd1JSYnlncDJFR3B3VFllRHI3eE9TeVQtVTktRDYtNjZ6RXIyWFRRUUJ40gHGAUFVX3lxTFB4NlNVSE1VRzZJZUhrcXAyNmdQQlluWUhWS3BraWttY3dIdmRBcENZMVNCZHpYanVyMmd3Y3hLMjNTY2gxeFlSczRhSC1peUpocDV1cktBSGZwelpWRWlONzhsb2x3VHZjR0ZyMXRtTnVHUThtdUNic0Z2cGRSdS1qYUtQbkRaUTVwbHJlVC01MzJNR1FnamRQVkpqZmE1UTMxUGptajJsS20zMXFBYkt3TndxQTlPMXdlemR4cVVNQjRWTEVFZw?oc=5",
+   "title": "Nearly 600K Australians lost jobs due to virus pandemic",
+   "src": "Yeni Safak English",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZllyN2JSUjZuNXBHM2M0NVBOS3pmZ0EtY2xUM1pqWG9xMFhreFpYNDB6N2E2YkN1d2VwVEllWUllX3VPc1FCek56MktYbEx1Q2Z1R2pKeTA3b1M2MkpPbzJ1YVd6N180ZkJoa191bDQzbVZveUx5bUFCbk5hTTVXbGlpcHdmVjByS2tMM0NmVDBsa09QY09LUjFB?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-18T17:10:23Z",
-   "last": "2026-11-19T02:16:03Z",
+   "first": "2026-11-18T19:17:24Z",
+   "last": "2026-11-19T08:00:20Z",
    "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Bird flu turkey prices: 10 ways H5N1 still shapes costs",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIdmZuOXpDQW5UX2FMQjdIMVpsVXFXblJLSkhzTjB6SnZxX1Y3UURpbTF2UFBkSERZNEs0bkNpWFVkUFFFNElGYWY1anQ1SFJuVllyNEJIVjA?oc=5",
-     "t_id": "Harga kalkun flu burung: 10 cara H5N1 masih mempengaruhi biaya"
+     "t": "The doctor assessed the likelihood of a pandemic due to the virus spreading in Europe",
+     "src": "ИА Ореанда-Новости",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHNwb2xhWThJNjRsRjdTeEc3UWJCbHJDOHZURzZDb0tLZEVmOVU4Z2t0SEN4MGk0MEN1UExNRTB0cTE5aGlxV1MySHQwZmFHU0l0SDVzb2ROQlBlcXh1a3ZGb2JDVFJpMUlfcER3cGxWRGJ1dVZld0tQUTlxWXJScDhVV0c4NjVBd2Fpal90NE15bGJXQlZpVm5tc21xOWlnWE5zN3hHelNld3NNeER0aG5hN0Nxb0Vtak9TdFNfNWtld2RIZUVlak44b0RZRzA?oc=5",
+     "t_id": "Dokter menilai kemungkinan terjadinya pandemi akibat penyebaran virus di Eropa"
     }
    ],
-   "title_id": "India mengembangkan vaksin flu burung H5N1 pertama yang ditanam di dalam negeri untuk ayam"
+   "title_id": "Hampir 600 ribu warga Australia kehilangan pekerjaan karena pandemi virus"
   },
   {
    "id": "siber-202611181829-b5bd",
