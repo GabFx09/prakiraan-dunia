@@ -1,7 +1,31 @@
 {
- "updatedAt": "2026-11-19T15:22:22Z",
+ "updatedAt": "2026-11-19T15:37:09Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street rises after Anthropic's IPO revives AI stocks, at least for now",
+   "src": "RiverBender.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGV4TXBFQmppQ0FTU0F5eWYxY1pVa3JsU1NqNVFzcGZBb1RGMFVqMnZpTG9IOEVUeTBjbFVKN0t4S0UxWlJib2NBLVlPUU53SzBwZi1iUkVtd2N3bVhOY054UUd0NGczdVFHNGsxM0hZME9ISGcwQlVTVU5sUG1RT2FuTDdPcTBIVFRYVXJtcUdydmNUWW1YM0ZCbkY4c3JwR0lZUThNMS1MMmFk?oc=5",
+   "time": "2026-11-19T15:29:08Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street rallies toward its first gain in 6 days after Anthropic’s IPO revives AI stocks",
+   "src": "Boston Herald",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pNXNmaTlVcGJHclRWSWR5c3NTUlcwa1VGeUFvNHdPVlF0NERYemdUVmpoRmNVU1lzSHNKLXZaX2t0SmpLU0RNRlJNZGZBQUpqcDBPUUpTQ3U4WDcwbnp2aVIwcXZhaERxOEd5M3RQdEZMdw?oc=5",
+   "time": "2026-11-19T15:22:30Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Price Forecast Mexico 2026, 2027 and Next 5 Years (XAU/MXN)",
+   "src": "LiteFinance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaHFTeG1nazdGWFJhLWdMUGFfV2sxVWx5Y1V4Q3JBc2FkZGNHeGVVS3ZsM0MyWFVPR0lpX3FTeElCd04zc1VLaGxKSDUxTklobkExVXNwa2RrUUFEVW4xQ2RLQ0d4MzZaNGd4NUJ4bDV5b1dnRkYxMzlzLVNHRUNVWUlxa1YwSkdEN1FqbXFqaXIzNk0?oc=5",
+   "time": "2026-11-19T15:21:36Z"
+  },
   {
    "topic": "saham-as",
    "lang": "en",
@@ -24,7 +48,7 @@
    "t": "Should You Introduce Bitcoin to a Portfolio that Already Dominates Gold?",
    "src": "Bitcoin Foundation",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWpKUUlUYm5MRExYRjFkRGpNVEl1RmV4eUhfS3RlbjRwZmJvNXJQMkdUM0o1SmptRFJYeVZYVlVPbnZiLVVZUk9QLTlMWl9qZzA5QXpDN3lzdWl0aTVkTjIwNEt2UWg4V28ySXhBVlByTV9URzUxMTh0WDZORlBGZlNJZTZWTXdXRGhtdXNjVW5KOXlEVEtpZDVZQk9pSUY2cGI5UEtIc3FDRzR6dXBXUG1tb0dqQQ?oc=5",
-   "time": "2026-11-19T14:54:30Z"
+   "time": "2026-11-19T14:54:23Z"
   },
   {
    "topic": "kripto",
@@ -223,6 +247,15 @@
    "t_id": "Tentara Iran Mengatakan Tiga Kapal Tanker Minyak Menabrak Ranjau di Selat Hormuz Timur: siapa yang disalahkan oleh 8 outlet media"
   },
   {
+   "topic": "china",
+   "lang": "en",
+   "t": "How Did China’s Economy Perform in October 2026?",
+   "src": "China Briefing",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMnMwME1PeVktS2NoaDVFVlJhUEl5dm5FSUZaaUpHX2ZNOWZPNjhRVlRnZEFjeEs2NWtEdWlnSkxtbU9uazdYMzE3TTF0S0dRbHVsN2tGNEZmS3QxUVZXczhyWnRMUDYtVFdzbjBtYndiUDBsLS15STBzRDVYR2lRdEd3SmlmYUlLb2hz?oc=5",
+   "time": "2026-11-19T11:28:08Z",
+   "t_id": "Bagaimana Kinerja Perekonomian Tiongkok pada Oktober 2026?"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Turun 4 Hari Beruntun, Ditutup di Bawah 5.200 pada Kamis (19/11)",
@@ -338,14 +371,6 @@
    "t_id": "Emas pulih dari level terendahnya dalam 14 bulan, prospek Fed yang lebih ketat membatasi kenaikannya"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IPO Anthropic Listing Malam Ini: Valuasi Rp27.300 T, 3x Lipat Market Cap IHSG!",
-   "src": "Ajaib",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMzhaS2ZsR3RjZXpCcWlnclVjeWsxbzdldk5JWl9qMmViZUZjbFozV0ZxOXVWVHRWME41QlgtZUp3VU5pdVBBbHlETGVhMVExVUt0R0NjVlZqUmNVMElJbG1CZTRoSkRNNy02WDFQVGZDTEJQaDFxNWFneTEzVXBnY0dqdUxqZjNEam12aHNEWUs?oc=5",
-   "time": "2026-11-19T06:42:36Z"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Jensen Huang's Departure From Nvidia Sparks AI Stock Selloff; Japanese Chip Stock Valuation Premiums Reverse Overnight",
@@ -353,14 +378,6 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RSWE2amJuYzhEcFVuUnhJTTRTYXhfM3JNeGZKVDVKcExiRjJfSUhXd1R2c0hDMkhLQjZUUlJ3MXFYTHB2aTNsdlJsSnd6YUpLQmJ4WlJfMTFmMTlXUGkyZllmUHA2UmRIdm52TEp6b0pyNjFFR1E?oc=5",
    "time": "2026-11-19T05:36:00Z",
    "t_id": "Kepergian Jensen Huang dari Nvidia Memicu Penjualan Saham AI; Premi Penilaian Saham Chip Jepang Terbalik Semalam"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall Street rallies toward its first gain in 6 days after Anthropic’s IPO revives AI stocks",
-   "src": "KTAR News 92.3 FM",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUZFdnBsaWFuNXhtV3Bja2txNXhPZWdNSWZCQWxtNVE2a0V2cnF6SWhDMU1QckF6VEVVNFJZRUFSeWpicFhrYzVkVmJyNnRLWndrcTVWTmhDUkZ5Zk4wa3hucjY3VEtvVFJwYmJFMXZwOHJqcFh5RUxWQ3huYkNzZER5dGlUb3c3NWhqWlJLOUJUTTJRSUhQVE1LM1BoNDk0dFVrY3RlOFEtVlJkUUM0UmkxZElKNm1vTVJkTy1n?oc=5",
-   "time": "2026-11-19T05:00:38Z"
   },
   {
    "topic": "indonesia",
@@ -413,6 +430,14 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "IHSG Terkoreksi ke Level 5.247 di Tengah Debut IPO Anthropic Bervaluasi Rp27.300 Triliun",
+   "src": "Ajaib",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEpqdmtWT0owemFieDgyc3BmakJGcnZFendtMmxIaVZuRFpDamFXdVVNSHZES0otMTVaZlFSM19vLUxMcnotQlVXczJXcUxBVTNHMnhTajNpWDZ4V1pybm9UVENGam1vTVNxOG1oMWFicjV2VmNyaERYWGhzQk9GVGhPLXZtTGcwVG5SbEtuaWViWjlzbHF4TEV5TGJHRV9FaG5tbVJ0eGJBbFdsbW9YMHg3c0FfdWYxNEphVTREbw?oc=5",
+   "time": "2026-11-19T02:14:43Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "BI Naikkan Suku Bunga ke 6% demi Stabilitas Rupiah",
    "src": "Nanovest",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuM1NsXzFKRk54eF9WWXBRQl9KYklrMkkxN0pKUVBUY3dwM0lNVzNPdTRRVVpmSEdCYkRKWHNvWWNOZFpUclFRb0RsQnFUNmo3REM2c3JkSzQtR0diVHlDWmxtWWthTnNlcHVvekVQeGFKdlQzbFNZSzNGMzNUUQ?oc=5",
@@ -458,9 +483,9 @@
    "topic": "saham-as",
    "lang": "en",
    "t": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June",
-   "src": "The Killeen Daily Herald",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRE5DUzdmdXBLZUhzLWZuZlo2aEpScHFDY29XRkZrS3M1LTE3elNjTWp1aHVJU0ZKZWRtVTkxRWlsUEJMRm9EazlmekxXQnBMUHVMVnJMVzRVUGNTMG5UeDgzM2U0eVdiQlRLRmcwMDk0VnYyamotUFFOZFVweU1UZ0Z2MFZYV0Vmc0dkV3lleHh1VllSa3U2eVFfM1k5NlJnRkpPVVp0R05nbmh5Y1FndXctX3V2cl9HeGNTNENFcXYxWkd6Zl81bEd6bXhLOVlWVzZRd1QzZTUyUThuSnhxYUd3dw?oc=5",
-   "time": "2026-11-18T21:39:30Z",
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+   "time": "2026-11-18T21:39:00Z",
    "t_id": "Penurunan kelima berturut-turut pada S&P 500 menyeret Wall Street ke penurunan beruntun terpanjang sejak Juni"
   },
   {
@@ -480,33 +505,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04WXhsTmZFRE40aXlXZ2xEWURWa2dhNFI5WUhYTDRnVThHNFhPSE5aNERkenBBbDJWQjVkdGktUGtOeUhmVjY3Q3pyVXNZNE1mN3Z6LV9vUzNlXy1EaEdsNXBsZEcwNkdOSEphMnJVNA?oc=5",
    "time": "2026-11-18T20:58:39Z",
    "t_id": "Eropa dan Cina 3 – Pertarungan yang Akan Datang"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
-   "time": "2026-11-18T20:52:12Z",
-   "t_id": "Risalah The Fed Menunjukkan Hampir Semua Pejabat Mengharapkan Lebih Banyak Kenaikan Suku Bunga"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Minutes Show AI Fears and That a Bigger Rate Increase Is Still on the Table",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnp0Q0Ewb2RJLVdrQ3ducVFvam9tbmJHNE1FbU0wcXBGeVdDajlJTWNIVFFrSXRkM0EyYXRaeW4tdnVydTE0VmlCZng4dk0tZHllUHZzWTZMb3Nzd2hHdFYxRFJhVGhoUzdpcjZYRGJJRFhJb0Q5YlVjal9PQl92NElXRW81YmdFYWJQenRjWQ?oc=5",
-   "time": "2026-11-18T20:41:00Z",
-   "t_id": "Risalah rapat The Fed menunjukkan ketakutan terhadap AI dan kenaikan suku bunga yang lebih besar masih mungkin terjadi"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Saw Need to Keep Raising Rates Despite Holding Steady in October",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
-   "time": "2026-11-18T20:35:01Z",
-   "t_id": "Fed Melihat Perlunya Terus Menaikkan Suku Bunga Meskipun Tetap Stabil di Bulan Oktober"
   }
  ],
  "errors": []
