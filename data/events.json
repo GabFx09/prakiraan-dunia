@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T07:23:30Z",
+ "updatedAt": "2026-11-19T07:38:00Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Large-scale missile and drone attacks target Riyadh and southern regions of Saudi Arabia",
    "src": "جريدة القدس",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV09nNEtCSDNRNndkN0VmbGtCX1l0aFM5LU12eFZWM2Z0NU1PTXlxbGxkTzVoeEp3dVhaYUpnZWhWRXlZQnk5SEJHQUs0RVk1XzUtYUxWUGxmd1RRQ252Ym05WDltckJJZ3ZqNGx0Q0FfM2d3QmgtT19rZVVZVTF0MG11cjBVOWw4T1BaUmZMRTZ2M2pOV0dkMUdoNzVMM05kdkNCTE9CS3JjWHJRbEhR?oc=5",
-   "sources": 9,
+   "sources": 8,
    "recent6h": 2,
-   "score": 10.0,
+   "score": 9.0,
    "level": "besar",
    "first": "2026-11-18T07:27:16Z",
    "last": "2026-11-19T05:30:49Z",
@@ -21,24 +21,72 @@
     {
      "t": "Kuwait Repels Iranian Drone Attack on US Hosted Airbase",
      "src": "SuaraGarut.ID",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DQ2NzRXVNd2pUMm1TQm1FMnRuVVdBMGhYMjZBT0RlLVoyR3ZadnNsX18yOFhoUmw4MUVWZFgyVzlvbDNiQVFvV1dKNHVqZkYySHp4UUtheVBuUTBud19jTHVoNDRXdXB4UGFr?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DQ2NzRXVNd2pUMm1TQm1FMnRuVVdBMGhYMjZBT0RlLVoyR3ZadnNsX18yOFhoUmw4MUVWZFgyVzlvbDNiQVFvV1dKNHVqZkYySHp4UUtheVBuUTBud19jTHVoNDRXdXB4UGFr?oc=5",
+     "t_id": "Kuwait Menolak Serangan Drone Iran di Pangkalan Udara AS"
     },
     {
      "t": "Iran hammers US drone, missile sites in Kuwait",
      "src": "https://aapnews.aap.com.au/",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTRSZ0JnbXE2bk5nS2VhYk5EdXIzYUhpcTE1SWxkNGF3UUdJbHh2MGR0OEVOWGdDTVowV3JWZTZqSF9Oa1l0TUZIQ00zQ2NIdDJXRlZvbWRYdXhQRzNPYjloam0wV0FIcnBTZDd3eHBWNHowYnJPZUpidDNXM0F4S0VoX1BwYjBBZnRETHMyUQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTRSZ0JnbXE2bk5nS2VhYk5EdXIzYUhpcTE1SWxkNGF3UUdJbHh2MGR0OEVOWGdDTVowV3JWZTZqSF9Oa1l0TUZIQ00zQ2NIdDJXRlZvbWRYdXhQRzNPYjloam0wV0FIcnBTZDd3eHBWNHowYnJPZUpidDNXM0F4S0VoX1BwYjBBZnRETHMyUQ?oc=5",
+     "t_id": "Iran menyerang drone AS dan situs rudal di Kuwait"
     },
     {
      "t": "Houthis claim missile and drone strikes on Riyadh, Jizan and Khamis Mushait",
      "src": "Al-Bawaba",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFhFaXJTSTFITHprQkhtazI1dnJ5d0Jab2FiQlVHWEh5TGJXcFBJN28yTC1LbkN3azVnb2lJb1dMcjR4MlhSQ2NESldtZF9aUkJRYWZhUDJyZ0RXRzFtYWEtRXFlYlBhelh1V0pxQjVQaDFLSTJsRTlfVDFQbXJ0ODNzQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFhFaXJTSTFITHprQkhtazI1dnJ5d0Jab2FiQlVHWEh5TGJXcFBJN28yTC1LbkN3azVnb2lJb1dMcjR4MlhSQ2NESldtZF9aUkJRYWZhUDJyZ0RXRzFtYWEtRXFlYlBhelh1V0pxQjVQaDFLSTJsRTlfVDFQbXJ0ODNzQQ?oc=5",
+     "t_id": "Houthi mengklaim serangan rudal dan drone di Riyadh, Jizan dan Khamis Mushait"
     },
     {
      "t": "Iranian army claims drone attack on US airbase at Kuwait's Ali Al Salem",
      "src": "Business Standard",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUFFWckc2ZFkzSFlZcmxSa3g3aDFqd25JeXFkck42WlkzcDNMdDVBQkRJZ2dRWVptSTB3REZwdzh6cEF4ZDhmM0tqZDQyRk4zVHVSNi1ER0tYX2dJZ2M2OW02SGhUM0RmSlBoTi1WT0F4TXRFZF9PRThTd0lWUklrRmpvMzlvZjNpM1I1ajFCNDdCY1k4OW5wa1I2bEVpSmVqWnZmWnNfaVkyR2ptRzBTUGlYSWZoSlZFc1YyRVZMSmFjRlBhcVY4VVpwUm1GemRFNXfSAdcBQVVfeXFMTWY4OHRuQjN1Um53NXF6MFJzOWU0VEU0UWNXNGhJc2s4Z3NYZlJSNDlodXVDcWtLMjE1c3BvYWdJZ2FHUVdGRXJ2NVh6ZDd2anptNDJlbThIT25MWTNtSVk0bl9XRDlrQW82Z1JRRlIzRnQ2NVNTd2s0UjdtVkpLZjhxbjI1NG9YVG1jU3B2enRJQjFCR3dkYXE1bUVpZlFMUXVVM1pLMGdKaVIzMkplVWFXSmpFdm85NHF2a0NZRE5ycVVtbjBNUlF6LXR0T2xQR2xlUUZUWW8?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUFFWckc2ZFkzSFlZcmxSa3g3aDFqd25JeXFkck42WlkzcDNMdDVBQkRJZ2dRWVptSTB3REZwdzh6cEF4ZDhmM0tqZDQyRk4zVHVSNi1ER0tYX2dJZ2M2OW02SGhUM0RmSlBoTi1WT0F4TXRFZF9PRThTd0lWUklrRmpvMzlvZjNpM1I1ajFCNDdCY1k4OW5wa1I2bEVpSmVqWnZmWnNfaVkyR2ptRzBTUGlYSWZoSlZFc1YyRVZMSmFjRlBhcVY4VVpwUm1GemRFNXfSAdcBQVVfeXFMTWY4OHRuQjN1Um53NXF6MFJzOWU0VEU0UWNXNGhJc2s4Z3NYZlJSNDlodXVDcWtLMjE1c3BvYWdJZ2FHUVdGRXJ2NVh6ZDd2anptNDJlbThIT25MWTNtSVk0bl9XRDlrQW82Z1JRRlIzRnQ2NVNTd2s0UjdtVkpLZjhxbjI1NG9YVG1jU3B2enRJQjFCR3dkYXE1bUVpZlFMUXVVM1pLMGdKaVIzMkplVWFXSmpFdm85NHF2a0NZRE5ycVVtbjBNUlF6LXR0T2xQR2xlUUZUWW8?oc=5",
+     "t_id": "Tentara Iran mengklaim serangan drone terhadap pangkalan udara AS di Ali Al Salem, Kuwait"
     }
-   ]
+   ],
+   "title_id": "Serangan rudal dan drone skala besar menargetkan Riyadh dan wilayah selatan Arab Saudi"
+  },
+  {
+   "id": "transportasi-202611180934-6ea6",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Sean Duffy Blames L3Harris for Longer FAA Ground Stop",
+   "src": "JournalArta",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTV1TzAzeGlkUzFFOVI3U2dUbkROX1Q5T3pOU1NER3pQYU5SYVZsS0NjcVBEYXBDSE50S2NkVFR5eTZkWllyUEd4SVpzcHg0M0xVNlh6SHpjdzJvMDczTnE1ZmdQaXZlX1dSemp6YnEzd2pQNTVnNVlza2RhWWE4THJnclRrOFA0?oc=5",
+   "sources": 5,
+   "recent6h": 2,
+   "score": 6.0,
+   "level": "sedang",
+   "first": "2026-11-17T23:01:04Z",
+   "last": "2026-11-19T06:48:51Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Sen. Duckworth Refuses 'Blank Check' for FAA, Demands Plan and Accounting After Nationwide Ground Stop",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMUE3Zi1BNEtNVl9ROGZfTVJZT2xpR0dsWVg0NE5CZ0VIang3dFpLdHNiOF9LMEVzRnltTDVIYS1IcXlucy1rVUZYWkRSaDlYSzlBWDBaUzZXY3RBNWtYVVFHRDM1NEZKSDNtWm5XUFUtMGM?oc=5",
+     "t_id": "Senator Duckworth Menolak 'Cek Kosong' untuk FAA, Menuntut Rencana dan Akuntansi Setelah Ground Stop Nasional"
+    },
+    {
+     "t": "High winds trigger FAA ground stop at San Francisco SFO",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUm56UGhJaWtfeXdXSDMwWjNkdm5waWozd01RLVBkVnZ1N3Q2dWdiN0JES294Y2U3bzNfSGhkampReUViU1RGSWd1bXZMaWxwdHF0Tk5mRWF6azF3aXVFbVgzcFJUSld5MUhNeElPbG9KeE1NMVVKTXpwMjRPU29pWWZFRUxhWlVTTjlOUQ?oc=5",
+     "t_id": "Angin kencang memicu penghentian FAA di SFO San Francisco"
+    },
+    {
+     "t": "U.S. Transportation Secretary Sean Duffy blames contractor after FAA ground stop",
+     "src": "CTV News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlJyQ2wzazBGeWpZbGdCRlNaZFE1Y3pwWnRkSmMySHlWcWpVekJOSWJINjhwNEh5ZnVudzVCN3ZlZUx3d0trS0c0SGhSamRhWVc3ZTNXMlRmOGtEMlg1djhXTDNUQW5EMUtXTU1obDFxM21LakszRFY3dmZkVkt6V1pTdWtMSlVHRWhJR0xvaFZUQ05hTlM5UE02WDJJcFY4MEVjVXBoeTZidVdHdjlVYkI1LWhxQ00?oc=5",
+     "t_id": "Menteri Transportasi AS Sean Duffy menyalahkan kontraktor setelah pemberhentian FAA"
+    },
+    {
+     "t": "FAA signed off on repairs before nationwide ground stop: report",
+     "src": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5",
+     "t_id": "FAA menandatangani perbaikan sebelum penghentian secara nasional: lapor"
+    }
+   ],
+   "title_id": "Sean Duffy Menyalahkan L3Harris atas Ground Stop FAA yang Lebih Lama"
   },
   {
    "id": "indonesia-202611180512-aaad",
@@ -79,40 +127,6 @@
    ]
   },
   {
-   "id": "transportasi-202611180934-6ea6",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Sen. Duckworth Refuses 'Blank Check' for FAA, Demands Plan and Accounting After Nationwide Ground Stop",
-   "src": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMUE3Zi1BNEtNVl9ROGZfTVJZT2xpR0dsWVg0NE5CZ0VIang3dFpLdHNiOF9LMEVzRnltTDVIYS1IcXlucy1rVUZYWkRSaDlYSzlBWDBaUzZXY3RBNWtYVVFHRDM1NEZKSDNtWm5XUFUtMGM?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-17T23:01:04Z",
-   "last": "2026-11-19T05:01:05Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "High winds trigger FAA ground stop at San Francisco SFO",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUm56UGhJaWtfeXdXSDMwWjNkdm5waWozd01RLVBkVnZ1N3Q2dWdiN0JES294Y2U3bzNfSGhkampReUViU1RGSWd1bXZMaWxwdHF0Tk5mRWF6azF3aXVFbVgzcFJUSld5MUhNeElPbG9KeE1NMVVKTXpwMjRPU29pWWZFRUxhWlVTTjlOUQ?oc=5"
-    },
-    {
-     "t": "U.S. Transportation Secretary Sean Duffy blames contractor after FAA ground stop",
-     "src": "CTV News",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlJyQ2wzazBGeWpZbGdCRlNaZFE1Y3pwWnRkSmMySHlWcWpVekJOSWJINjhwNEh5ZnVudzVCN3ZlZUx3d0trS0c0SGhSamRhWVc3ZTNXMlRmOGtEMlg1djhXTDNUQW5EMUtXTU1obDFxM21LakszRFY3dmZkVkt6V1pTdWtMSlVHRWhJR0xvaFZUQ05hTlM5UE02WDJJcFY4MEVjVXBoeTZidVdHdjlVYkI1LWhxQ00?oc=5"
-    },
-    {
-     "t": "FAA signed off on repairs before nationwide ground stop: report",
-     "src": "Seeking Alpha",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5",
-     "t_id": "FAA menandatangani perbaikan sebelum penghentian secara nasional: lapor"
-    }
-   ]
-  },
-  {
    "id": "perang-202611180727-a364",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -131,60 +145,11 @@
     {
      "t": "Coalition forces intercept Houthi missile launched towards Riyadh, debris causes damage",
      "src": "Arab News",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1k5ZGNHU2J3TkNRSFpMaTVWSjdvbG4wcUpubFh4Nnltb2MxYnBXQVhHaEpBSHRvQkpkYVFQSkpwUDVKWE50ZW5IRGs0TVZNM09zRVhHUk1iMUNnTG0tUm9jb0UzejVOXzJsYlpQRzJ1dWpwcFhNMHgxZUVjZjlXMFZfSWVORFVKUVFVNFptTzE0eDZXUExwaWF1RDZoZUZxTW9TLTNWRVF2WWNLWUMxS2RHbWZpU0JHNlpQamJNOHpyME9SX0YtY1JKejY?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1k5ZGNHU2J3TkNRSFpMaTVWSjdvbG4wcUpubFh4Nnltb2MxYnBXQVhHaEpBSHRvQkpkYVFQSkpwUDVKWE50ZW5IRGs0TVZNM09zRVhHUk1iMUNnTG0tUm9jb0UzejVOXzJsYlpQRzJ1dWpwcFhNMHgxZUVjZjlXMFZfSWVORFVKUVFVNFptTzE0eDZXUExwaWF1RDZoZUZxTW9TLTNWRVF2WWNLWUMxS2RHbWZpU0JHNlpQamJNOHpyME9SX0YtY1JKejY?oc=5",
+     "t_id": "Pasukan koalisi mencegat rudal Houthi yang diluncurkan ke Riyadh, puing-puing menyebabkan kerusakan"
     }
-   ]
-  },
-  {
-   "id": "siber-202611180731-c3ae",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "NSA network, Apple services go down in latest outage",
-   "src": "Heartlander News",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzFDNGZZM293cXB0SDFIVXo0LWlLYTFTWVpoMDlyTmlOT2tFZUdqdTJ3Rk9xNVNwXzZGcUR2eWN3UnQyNW9QUlFMbTdqRlEzNEV3OG5Oa0htU3hLN0hmdlJkeFlYRnpLdzBxenYzSEdhTWstVlZxa1lZYnRCcG5tcXZfdDA2dFE?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-18T07:31:19Z",
-   "last": "2026-11-18T16:15:01Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "NSA Classified Network Outage Takes Down NSA Net During Routine Maintenance",
-     "src": "Technology Org",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM283d3FLZi13SVFlT3JsZnoxNWR3c1NTalAtb3R5S3g3c1h5STNMZ1RYc25KamJ5NGNSdmVTc2R6SmMzTGxOMjgwWnM4NFFQN3F2d3Rzb0lHd1BPS1ROZ2luYVJGbHA0RzB4dzRiZk1yMnJHS19Sa21mYmJXVHFMY2dPdXVmMjYwTGI0cEtZNERNd1VaX3FVQk5tQQ?oc=5"
-    },
-    {
-     "t": "NSA Classified Network Goes Down as Apple Services Face Outage; US Officials Rule Out Coordinated Cyberattack",
-     "src": "Dainik Jagran MP CG",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUt0LUtEbzNqeGsxSmkwQXV6SkVEVzdjWUhOeXNtYjFrZGY4MmdHa3EwVTdvQlUtb0JLYXEwb0E2YVhETVVDeWZLOWpYUGxDUzhuRjZIZV9laE9OOFZrNUl0UlhudW92WmMtRDJ4a1FtU1hpM0pZSE1mUVZoYkJ1d0tuNS1RMWRPalBHdjR1QTZaZFRBeTJmc1VpX2ZMMF9aRS1qU2FqeDljZzdhYTJJSDFsUy1La3dNaTF3eDV0blZJaW42czdUZ0Jn?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "kesehatan-202611181710-b3de",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "India develops first home-grown H5N1 bird flu vaccine for chickens",
-   "src": "The New Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG5pOVRwdDlWUWJtbW9PRUs1Sk9QUHdmQllkWmNISmdBZ0F0eDFYXzZERmxkOE1teGl6VENQdE41M1JZYTRJUWFSRzdHcHNkRlpleVZ4Z1hpcnFVb0FHR05jdERnQVNfOTZPaTRFeEFjRml4UHJaTXYxUHExai1GZ3dKbTUwRWVkQXpKNE9rd1JSYnlncDJFR3B3VFllRHI3eE9TeVQtVTktRDYtNjZ6RXIyWFRRUUJ40gHGAUFVX3lxTFB4NlNVSE1VRzZJZUhrcXAyNmdQQlluWUhWS3BraWttY3dIdmRBcENZMVNCZHpYanVyMmd3Y3hLMjNTY2gxeFlSczRhSC1peUpocDV1cktBSGZwelpWRWlONzhsb2x3VHZjR0ZyMXRtTnVHUThtdUNic0Z2cGRSdS1qYUtQbkRaUTVwbHJlVC01MzJNR1FnamRQVkpqZmE1UTMxUGptajJsS20zMXFBYkt3TndxQTlPMXdlemR4cVVNQjRWTEVFZw?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-18T17:10:23Z",
-   "last": "2026-11-19T02:16:03Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Bird flu turkey prices: 10 ways H5N1 still shapes costs",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIdmZuOXpDQW5UX2FMQjdIMVpsVXFXblJLSkhzTjB6SnZxX1Y3UURpbTF2UFBkSERZNEs0bkNpWFVkUFFFNElGYWY1anQ1SFJuVllyNEJIVjA?oc=5"
-    }
-   ]
+   ],
+   "title_id": "Berita terbaru di Timur Tengah: Houthi menargetkan Riyadh dengan rudal ketika koalisi pimpinan Arab Saudi melaporkan kerusakan akibat puing-puing"
   },
   {
    "id": "transportasi-202611181200-fdb4",
@@ -205,14 +170,17 @@
     {
      "t": "Musk Says Starlink Could Fix US Air Traffic Control After Nationwide Ground Stop, but Role in Preventing Outage Is Unclear",
      "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TLWFXVHExejJIdV9VRGh0X2x4N1NIdGhLY2Jvd20yVjJUb0l3SlhsaXBtSGVaQTRLT1A1UkNYMzJwRkJFaUl0TTdmNDEtQWxnanhmZWY0bUNIRWI3OFNXcEcydEk4NEdtWWNLbUs3akZEdXc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TLWFXVHExejJIdV9VRGh0X2x4N1NIdGhLY2Jvd20yVjJUb0l3SlhsaXBtSGVaQTRLT1A1UkNYMzJwRkJFaUl0TTdmNDEtQWxnanhmZWY0bUNIRWI3OFNXcEcydEk4NEdtWWNLbUs3akZEdXc?oc=5",
+     "t_id": "Musk Mengatakan Starlink Dapat Memperbaiki Kontrol Lalu Lintas Udara AS Setelah Ground Stop Nasional, tetapi Perannya dalam Mencegah Pemadaman Listrik Masih Belum Jelas"
     },
     {
      "t": "Get Government Out of Air Traffic Control (opinion)",
      "src": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaldSY1N1VTJHNzdYckZncTlfTEwwR1h3bmc2dEhtMkY4SGxXdXlvQ0hZTHVGbVlMdnNfR2tWQTZTcHZTN2ZyZEdGSFJwSUR3ZnoyanZ0bU5JRjlaRG5UdmsxaVhXWnBEX1hSZzNmd1lZUGxxWUdUamc3NkIxcVRodGFHaWhqTmVibHE3bWRsWThIazY1SVNZYVBNMEU2VVU?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaldSY1N1VTJHNzdYckZncTlfTEwwR1h3bmc2dEhtMkY4SGxXdXlvQ0hZTHVGbVlMdnNfR2tWQTZTcHZTN2ZyZEdGSFJwSUR3ZnoyanZ0bU5JRjlaRG5UdmsxaVhXWnBEX1hSZzNmd1lZUGxxWUdUamc3NkIxcVRodGFHaWhqTmVibHE3bWRsWThIazY1SVNZYVBNMEU2VVU?oc=5",
+     "t_id": "Keluarkan Pemerintah dari Kontrol Lalu Lintas Udara (opini)"
     }
-   ]
+   ],
+   "title_id": "Ground Stop di AS Mengungkap Sistem Kontrol Lalu Lintas Udara yang Menua seiring Meningkatnya Risiko Cuaca Ekstrim Menjelang Hari Thanksgiving"
   },
   {
    "id": "siber-202611181840-41fa",
@@ -233,33 +201,11 @@
     {
      "t": "PlayStation hit by outage just hours before anticipated GTA 6 release",
      "src": "Daily Mail",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGluWjB0dURrTkFKQ2I5TGMwbllYOGZNV3Z5SUtRZ2YzV0UtVlByUzd3dmN6dmpuMmNSSDZUUDJkRHRLTC00TGlPVU9Ya0pRSVR2SGFJcld2SjZNbjQ2VzI0Y2cwcXo2cTZwOUFGM2t1ZzhoYWlIalFqbFp5QXBjWG8wN1VYZEhVWkZVcVowQlVHcnZIR3NV?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGluWjB0dURrTkFKQ2I5TGMwbllYOGZNV3Z5SUtRZ2YzV0UtVlByUzd3dmN6dmpuMmNSSDZUUDJkRHRLTC00TGlPVU9Ya0pRSVR2SGFJcld2SjZNbjQ2VzI0Y2cwcXo2cTZwOUFGM2t1ZzhoYWlIalFqbFp5QXBjWG8wN1VYZEhVWkZVcVowQlVHcnZIR3NV?oc=5",
+     "t_id": "PlayStation dilanda pemadaman hanya beberapa jam sebelum perkiraan rilis GTA 6"
     }
-   ]
-  },
-  {
-   "id": "kesehatan-202611181412-a7c1",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Ebola outbreak in DR Congo remains global health emergency, WHO says",
-   "src": "Latest news from Azerbaijan",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hnUHFjOHRTYlUyejZsN3l2Tm9SeElZWlhpZ1BnSUQ0MjM2b2Fkc1lBcFNGRmhOaWJscVpLZjJuaWxGcWIzQTh5dVdDXy1JVktQckNVMXNpXzRZRVNpSkU2Wm1HQU1sZmRWTnJrN3E5eUxNM081RFNKUXN5YVc5Nmx5U0VfUF8xeFZDdWJOSjktZw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T14:12:45Z",
-   "last": "2026-11-18T17:34:06Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
-     "src": "Bioengineer.org",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
-     "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
-    }
-   ]
+   ],
+   "title_id": "Jaringan PlayStation Melaporkan Pemadaman Beberapa Jam Sebelum Rilis 'GTA VI'"
   },
   {
    "id": "siber-202611181529-2031",
@@ -280,32 +226,36 @@
     {
      "t": "Why Are So Many Outages Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit",
      "src": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWUlkNTVJYkYtSWhlZVcxdFotUHFsZHEtbkdkOFRDV2FuUnJraXBkSnNZZGFSeUNuMXdtanI2ekIyVjdjdkhRTWppRVV1dkI5UldZWHo3N05CVWlJTFlBUDJxS3gwQnN1SzVhNEdQSG9MU1N6ZERJQk5EZTFZajNxQ2tTZldvMGIwUERwZlVJcUE2c1BaOUtSMTBJc2R4cTVFb3ZyMTZhZmZ4V05MZGUyQmhfZHI2ZWl4T3VSaFJFZVVDX0Fvdk13NjRIeGNYRXg4SjFvdjlFNjY0OXdQcjZKU3NJTlFBbXdTRS1meFdCcUY1SmxKbnp3cjBYMnJEdGJjZ0tv?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWUlkNTVJYkYtSWhlZVcxdFotUHFsZHEtbkdkOFRDV2FuUnJraXBkSnNZZGFSeUNuMXdtanI2ekIyVjdjdkhRTWppRVV1dkI5UldZWHo3N05CVWlJTFlBUDJxS3gwQnN1SzVhNEdQSG9MU1N6ZERJQk5EZTFZajNxQ2tTZldvMGIwUERwZlVJcUE2c1BaOUtSMTBJc2R4cTVFb3ZyMTZhZmZ4V05MZGUyQmhfZHI2ZWl4T3VSaFJFZVVDX0Fvdk13NjRIeGNYRXg4SjFvdjlFNjY0OXdQcjZKU3NJTlFBbXdTRS1meFdCcUY1SmxKbnp3cjBYMnJEdGJjZ0tv?oc=5",
+     "t_id": "Mengapa Banyak Terjadi Pemadaman? Pejabat AS Menyangkal Serangan Siber Saat NSA, Apple, Microsoft, dan Lainnya Menghantamnya"
     }
-   ]
+   ],
+   "title_id": "Mengapa begitu banyak pemadaman teknologi penting terjadi secara bersamaan"
   },
   {
-   "id": "kesehatan-202611181425-a5d4",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "siber-202611180731-c3ae",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "U.S. Officially Loses Measles Elimination Status as Outbreaks Continue",
-   "src": "Johns Hopkins Bloomberg School of Public Health",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSlNmMnhaUjB3NnR3QmdDVDZvZktvZWNIU19aQ2VzQ01UZHFhWUduZ29XZWM3Q09kY2Y1bGlQb3EwRzBmS1I5NkkwNmdYVmN6TUY0Y0tQWjgtaUNBTWhmeDE1eGRoNE9QM1pfRUt4bV9tdWpackg3WUVLVGtPRXlzWmd4aEEyOUNpQXBzSDVR?oc=5",
+   "title": "NSA network, Apple services go down in latest outage",
+   "src": "Heartlander News",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzFDNGZZM293cXB0SDFIVXo0LWlLYTFTWVpoMDlyTmlOT2tFZUdqdTJ3Rk9xNVNwXzZGcUR2eWN3UnQyNW9QUlFMbTdqRlEzNEV3OG5Oa0htU3hLN0hmdlJkeFlYRnpLdzBxenYzSEdhTWstVlZxa1lZYnRCcG5tcXZfdDA2dFE?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-18T14:25:07Z",
-   "last": "2026-11-18T16:33:36Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "first": "2026-11-18T07:31:19Z",
+   "last": "2026-11-18T16:15:01Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Black Wellness Edit: Measles Outbreaks Cause Loss of US Elimination Status",
-     "src": "EBONY Magazine",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXlvUTNMTkhXV3NNYmp6bnF3cHpUSzBydU00cTJkRlV1ckJDd3pTXzdVTGEwVmdYOVR6dHRBa25UNVdRWVB4WEw2Z3AyMnZ2Z3lORDZhQkdnTFdzb1pmY29xQ25Za3JwZ3AtQzU0VmVZUG1WQXhaMmhieDRHTGZGaVh3?oc=5"
+     "t": "NSA Classified Network Outage Takes Down NSA Net During Routine Maintenance",
+     "src": "Technology Org",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM283d3FLZi13SVFlT3JsZnoxNWR3c1NTalAtb3R5S3g3c1h5STNMZ1RYc25KamJ5NGNSdmVTc2R6SmMzTGxOMjgwWnM4NFFQN3F2d3Rzb0lHd1BPS1ROZ2luYVJGbHA0RzB4dzRiZk1yMnJHS19Sa21mYmJXVHFMY2dPdXVmMjYwTGI0cEtZNERNd1VaX3FVQk5tQQ?oc=5",
+     "t_id": "Pemadaman Jaringan Rahasia NSA Menghancurkan Jaringan NSA Selama Pemeliharaan Rutin"
     }
-   ]
+   ],
+   "title_id": "Jaringan NSA, layanan Apple mati karena pemadaman terbaru"
   },
   {
    "id": "indonesia-202611180720-223c",
@@ -379,5 +329,8 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "korporat: HTTP Error 429: Too Many Requests",
+  "kesehatan: HTTP Error 429: Too Many Requests"
+ ]
 }
