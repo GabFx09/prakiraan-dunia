@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T02:00:47Z",
+ "updatedAt": "2026-11-19T02:01:57Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -110,29 +110,6 @@
      "t": "Airline schedules returning to normal after ground stop, FAA says",
      "src": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWDhyb1lTLV9KT1ZRQjVBMG5kQzVqblBDTklCdmRVa1NDTENVWXZTbE5Mc2JjNHVfUGptWG1lYzhZMFlXeV9OVGhkZjhCbjF3elg1WGVEZ25HZXJob3l1c2ExQ043aGlzZlV3TmZlbG84T1k2LWNFVFJWVmQ4bnJnWUZHbWNqRGpoLUN2Z0hWaUJxUDZfWE9uSEt4dks?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "kesehatan-202611182253-9a7f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Pennsylvania confirms eighth measles-related death amid US outbreak",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWNYcFY0Y2ZRYXUzLU9Hc3Fuc214enY5NHF3SUx6THdGdFlwdF9aWGhGS1ZYVmpzaHEtRnZxUFpWZHQyVUl3SEJDckw1WWZQUXNPS0VnNE90Q3FieVFZazZ5SGxmV3JOeVB1amxURDUyQnQtcWdLbDVabW1XWWhLT0FHYVBtQVFBWkp6R3ItUlZiS285cWhhQzBDZFhLaGpSNDB4Q0N3UTBVVVlVa3hNZGU0bkZMRW1FOFNQbzVFeUF0VlItS3ZrUG5OOGZGWWZTVUE?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-18T22:53:06Z",
-   "last": "2026-11-18T23:25:18Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Pennsylvania confirms eighth measles-related death amid US outbreak",
-     "src": "New Hampshire Union Leader",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanhyZ29EVGFvcVBKd0k1Wk9QU1ZqS3BGMG4ySkJrR2tYeEw5al9JT3BabnN1VWRSZnJZT1R3MXdxOHpEMWRoa0NHR0RKM19PS1p4VWR3c3JmU19LTjZvNXFKdUdVSDVNUVYwbzhCNVdQdFJNSV9VOUR2MHBzclFIZ21kTnBBNngxQk15ZG9ESktvenBYbzRnMFZzbm5FTUxpOFpPSERqMjZTSkRNd2RpY0cxa3Ricmo5dWZfZ19veHVQX2hCOTkwOUU4UQ?oc=5"
     }
    ]
   },
@@ -360,5 +337,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "kerusuhan: HTTP Error 429: Too Many Requests"
+ ]
 }
