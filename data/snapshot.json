@@ -766,6 +766,17 @@
    "ihsg": 5194.141,
    "usdidr": 18240.0,
    "ust10": 5.066
+  },
+  {
+   "t": "2026-11-19T12:58:00Z",
+   "risk": 84,
+   "btc": 63827.43,
+   "gold": 3714.8,
+   "brent": 90.07,
+   "spx": 7323.63,
+   "ihsg": 5194.141,
+   "usdidr": 18240.0,
+   "ust10": 5.066
   }
  ],
  "horizons": [
@@ -1212,6 +1223,30 @@
  },
  "news": [
   {
+   "t": "Gubernur BI mengakui pelemahan rupiah 8,47% sepanjang 2026 menjadi tantangan berat.",
+   "src": "kumparan",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekFHeU1xWWx3MUNKZkotOFNyLXY2VzdBREJIU3pZOU05SENOTklLWkdDX001TnlrSFI0ZlVMMGhwQVpDWVY4TkJfbFdyRnkwMFRORzNISTFKeHZpY21VSWRxSFcxeWVoU0l5SE5HZ0RuNTJBcGVDcldMYXJ4dzZ5TlU2b2tLcG1NTTN2VmNJQk9jazVmck45S00tWFBfU05RbVQxaVk4VjNLWmZzNXpmQUk5NFRrMlZraWNTR3ZWcWZYdlpmZ0xOMTJ2cEg2ZDZ0aTl30gHbAUFVX3lxTE00XzctNHdJQUJvMmVrbEFnbURYTDg0cFBfLWI5T1FwVjNhUWFkYjhCUm1WcFluMnBqeUkxOGNZUGk3SXNnT3puQlE2Sm1kOVBLcHdWWnlCdjdIUG5TeEhGM3lyMFVNX3l0dEd5SmIxWVhhU3FpRWFielBaX3lWR2EzNjBIOEFGS0gtSkxFQU9kcEhXZWUxX184cHIyWW5uMndORGJLQlRINWo3dmpKZFI2NldYdWxZRzB4ZWlZQm9UZ203eGRTR1BsUUNLc2tqQl9lV2lZOFEzSUI2NA?oc=5",
+   "time": "2026-11-19T12:17:00Z",
+   "impact": "turun",
+   "assets": "Rupiah"
+  },
+  {
+   "t": "Iran terus menyerang kapal di Selat Hormuz; klaim tiga tanker kena ranjau belum terverifikasi.",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczJXN3dIbXJITGpRV1BQQzdMRlp4QVl0ZE5jZnM2Vk9SNm5tZ2ZJV1NlbXA4em01SGZxM3p3b0FQemFMS0dTNGhhdzdPZzhCdXZDVzJTRXYtRThDWHRQa3dZQzRTOGdPZWxuQThVTGo5RGVzUHluWnNVaWRmNE5XQ2VpSS1aMVZUT3IyOA?oc=5",
+   "time": "2026-11-19T10:58:32Z",
+   "impact": "naik",
+   "assets": "Minyak, emas, rupiah"
+  },
+  {
+   "t": "BI memberi sinyal bisa menaikkan BI-Rate lagi pada Desember 2026 untuk menopang rupiah.",
+   "src": "Pasardana",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUQyNGpJcDRGTVd6WE9RdVBaSUFhUWkxUDI2R1otU0pBVnBXQnZHaVVoR2t2eUlVTjhLeExWWWp5TjVSQzlfYi1SZkFfZmMyZWZBV1lCaFpnZnhXQ0szcmN3QzhnUnJxZHgwVjI4bWJzUUZ0N25PdUpHeTN5N3dKQ29qenAzNzJnb0JvUGVVYXF2WjU0MF9sM1ZsYklkRFhKYVNTalhWN2p5ZTJDRFc5NFJBVFdWc0dT?oc=5",
+   "time": "2026-11-19T10:15:00Z",
+   "impact": "turun",
+   "assets": "Rupiah, IHSG, SBN"
+  },
+  {
    "t": "IHSG sempat anjlok hampir 2% ke 5.152 dipimpin saham pemberat; asing masih menjual.",
    "src": "Bloomberg Technoz",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3ZLdmhuMWI0NThXcnNJYlA2SjFxVFMxcF9aUDE4WmJPX3NQZFl0TnNzRTRYcDZWaDFBdDVLM1k0SmxxSURtT2l1bktQYUdmSjBhQ293ZkxXcEtTX3pfd0t4VUZ5WlR6WmloRHloMHJRb2hzdkMycy1pZHVOQURQQmJSb1RqZkdiUDVtQ2lER2VvREljc0szNkNXWm5LQktjQ1N2ZzFTZ3haUVVuWmwzZzd3?oc=5",
@@ -1282,30 +1317,6 @@
    "time": "2026-11-18T20:59:22Z",
    "impact": "turun",
    "assets": "Bitcoin, kripto"
-  },
-  {
-   "t": "Iran menyebut tiga kapal tanker minyak terbakar di Selat Hormuz (klaim belum terverifikasi independen).",
-   "src": "The New Region",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YSXNrY1dVeGV6RDFXLWE2eExRRDY0NzNJdkVuUTU1STIyM1Yzd3ZKLWE3TUl4Z1pmTzZZM1VDUnp0VC1pMXJrdVY4UQ?oc=5",
-   "time": "2026-11-18T20:39:14Z",
-   "impact": "naik",
-   "assets": "Minyak, rupiah"
-  },
-  {
-   "t": "Risalah rapat Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi, kenaikan lebih besar masih dibuka.",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
-   "time": "2026-11-18T19:18:51Z",
-   "impact": "turun",
-   "assets": "Emas, saham, obligasi, rupiah"
-  },
-  {
-   "t": "Fed: Daly mendukung kenaikan bunga secara terukur, menyusul Waller yang menyebut kenaikan 0,5 poin.",
-   "src": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDJGNGRIU0Q3NE5tbW9qVUpjd2NCUTRuZTdERXEwY2Q5bEQtZ1NNVjFLQmwwdnVMRERPSnN4cm1TcXBLRWxDcWtxS0tZdXdBanJVNVhhRVBOVWtKYlplWXFwcHFkUmJTRWtVQjBUaGRZUGpiWU1acVdESEZvck9TSzBiNHVhdk5rNlZDMEpKYk5zS1dxSVpDdGxZWjEyOEJKTTdldVo2Q3Z6dHpPOVF0cWJGSW4?oc=5",
-   "time": "2026-11-18T18:16:00Z",
-   "impact": "naik",
-   "assets": "Dolar AS, UST, emas, Bitcoin"
   }
  ],
  "readings": [
@@ -1330,24 +1341,24 @@
   },
   {
    "c": "neu",
-   "d": "Turun 3,0 % hari ini",
+   "d": "Turun 2,0 % hari ini",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$89,17"
+   "v": "$90,07"
   },
   {
    "c": "neg",
-   "d": "Turun 0,2 % hari ini, dekat terendah 14 bln",
+   "d": "Turun 0,7 % hari ini, dekat terendah 14 bln",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.736"
+   "v": "$3.715"
   },
   {
    "c": "neg",
-   "d": "Naik 1,2 % hari ini",
+   "d": "Naik 1,3 % hari ini",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$63.755"
+   "v": "$63.827"
   },
   {
    "c": "neg",
@@ -1381,7 +1392,7 @@
  "regimeTitle": "Stagflasi, risiko tinggi",
  "risk": 84,
  "riskNote": "Risiko tetap tinggi: perang Teluk, Fed condong naik bunga, dan IHSG tertekan meski BI-Rate naik.",
- "updatedAt": "2026-11-19T09:57:55Z",
+ "updatedAt": "2026-11-19T12:58:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1692,7 +1703,7 @@
   {
    "k": "Indonesia",
    "v": 78,
-   "note": "BI 6%, IHSG tertekan, USD/IDR ~18.240"
+   "note": "BI 6%, IHSG turun 4 hari, USD/IDR ~18.240"
   }
  ],
  "alerts": [
@@ -1708,10 +1719,10 @@
  "brief": {
   "date": "2026-11-19",
   "points": [
-   "IHSG sempat turun hampir 2% ke ~5.152 dan ditutup sesi dengan tekanan (kini ~5.194); rupiah ~18.240 per dolar AS meski BI-Rate sudah naik ke 6,00%.",
-   "Perang Teluk berlanjut: Iran mengklaim tiga tanker kena ranjau di Hormuz dan serangan ke Kuwait/Bahrain; Brent ~$89 turun tetapi sangat bergejolak.",
-   "Risalah Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi; UST 10 tahun ~5,07%, emas ~$3.736 dan Bitcoin ~$63.800 tertekan dolar kuat.",
-   "Nvidia masih mencari CEO tetap setelah Jensen Huang mundur; S&P 500 turun lima hari beruntun.",
+   "IHSG ditutup turun 1,02% ke 5.194, empat hari beruntun, di bawah 5.200; rupiah ~18.240 per dolar AS meski BI-Rate naik ke 6,00%.",
+   "BI memberi sinyal kemungkinan kenaikan BI-Rate lagi pada Desember; Gubernur BI mengakui rupiah melemah 8,47% sepanjang 2026.",
+   "Perang Teluk berlanjut: Iran terus menyerang kapal di Hormuz (klaim tiga tanker kena ranjau belum terverifikasi); Brent ~$90 turun 2% tetapi bergejolak.",
+   "Risalah Fed memperkuat kekhawatiran kenaikan bunga; UST 10 tahun ~5,07%, emas ~$3.715 (terendah 14 bulan), Bitcoin ~$63.800.",
    "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan perkembangan Selat Hormuz."
   ]
  },
