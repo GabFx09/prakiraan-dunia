@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T01:46:05Z",
+ "updatedAt": "2026-11-19T02:00:47Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaVp2b1pwY2FLSDN0b0VfZGRjQk1LSjJuSVE5QjduTXU4c2REYS1YeGJDM05lYkNtTGM3LVkwRDVSaFNLWEVNR2VwUnFUUTh5eUJFYnI4T2QzMzZYRjlZV1kxdWJBUW5FODk0R0ZsaG_SAXZBVV95cUxQN3lsMm1BeEpJNlRTYWloUEYwT1hiWFp5T0x4SXRUc2lkeER0VzFLUDFBS2YzN3IzMEFabHVJaTNmWHBSWTdqOXdDZXFzLWptSHA3bVlsTV9fU2xtNXB6a0lHd0xNa2JTVnJVNDV6eTh2c1kyUWJ3?oc=5",
-   "sources": 18,
+   "sources": 19,
    "recent6h": 2,
-   "score": 19.0,
+   "score": 20.0,
    "level": "besar",
    "first": "2026-11-18T03:22:07Z",
    "last": "2026-11-18T23:31:41Z",
@@ -84,17 +84,22 @@
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown",
-   "src": "MyNorthwest.com",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRFZuVEVOMVNQdWZvcnE2ZnJXZDlQSXZ3YXhMRnRLWFBoVXp2UXJhS1dwakI1RUZqOVEwZmdaR05zajJRYWN0amVLejZqMy1ZMDlsTldUQzN1em5HMkktRUpTWHpxanpKTnMwT2dWdDc3d1FzUHFyeGV3VXB6bW16VGhWWHQ1V1MwalJPYTB1Y1YzWFhpNDJaSXJmWVlDbzNjRnVEZEhOWWtXVnFoWHFMODJkVUtyb2tSS2ZpR2ZtdGVTU2dzWjhiMlhVNnBlLVlNX0dzS0xRTQ?oc=5",
+   "title": "High winds trigger FAA ground stop at San Francisco SFO",
+   "src": "https://www.thetraveler.org/",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUm56UGhJaWtfeXdXSDMwWjNkdm5waWozd01RLVBkVnZ1N3Q2dWdiN0JES294Y2U3bzNfSGhkampReUViU1RGSWd1bXZMaWxwdHF0Tk5mRWF6azF3aXVFbVgzcFJUSld5MUhNeElPbG9KeE1NMVVKTXpwMjRPU29pWWZFRUxhWlVTTjlOUQ?oc=5",
    "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
+   "recent6h": 1,
+   "score": 4.5,
    "level": "sedang",
    "first": "2026-11-17T23:01:04Z",
-   "last": "2026-11-18T18:49:10Z",
+   "last": "2026-11-18T21:09:26Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown",
+     "src": "MyNorthwest.com",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRFZuVEVOMVNQdWZvcnE2ZnJXZDlQSXZ3YXhMRnRLWFBoVXp2UXJhS1dwakI1RUZqOVEwZmdaR05zajJRYWN0amVLejZqMy1ZMDlsTldUQzN1em5HMkktRUpTWHpxanpKTnMwT2dWdDc3d1FzUHFyeGV3VXB6bW16VGhWWHQ1V1MwalJPYTB1Y1YzWFhpNDJaSXJmWVlDbzNjRnVEZEhOWWtXVnFoWHFMODJkVUtyb2tSS2ZpR2ZtdGVTU2dzWjhiMlhVNnBlLVlNX0dzS0xRTQ?oc=5"
+    },
     {
      "t": "FAA signed off on repairs before nationwide ground stop: report",
      "src": "Seeking Alpha",
@@ -105,11 +110,29 @@
      "t": "Airline schedules returning to normal after ground stop, FAA says",
      "src": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWDhyb1lTLV9KT1ZRQjVBMG5kQzVqblBDTklCdmRVa1NDTENVWXZTbE5Mc2JjNHVfUGptWG1lYzhZMFlXeV9OVGhkZjhCbjF3elg1WGVEZ25HZXJob3l1c2ExQ043aGlzZlV3TmZlbG84T1k2LWNFVFJWVmQ4bnJnWUZHbWNqRGpoLUN2Z0hWaUJxUDZfWE9uSEt4dks?oc=5"
-    },
+    }
+   ]
+  },
+  {
+   "id": "kesehatan-202611182253-9a7f",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Pennsylvania confirms eighth measles-related death amid US outbreak",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWNYcFY0Y2ZRYXUzLU9Hc3Fuc214enY5NHF3SUx6THdGdFlwdF9aWGhGS1ZYVmpzaHEtRnZxUFpWZHQyVUl3SEJDckw1WWZQUXNPS0VnNE90Q3FieVFZazZ5SGxmV3JOeVB1amxURDUyQnQtcWdLbDVabW1XWWhLT0FHYVBtQVFBWkp6R3ItUlZiS285cWhhQzBDZFhLaGpSNDB4Q0N3UTBVVVlVa3hNZGU0bkZMRW1FOFNQbzVFeUF0VlItS3ZrUG5OOGZGWWZTVUE?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-18T22:53:06Z",
+   "last": "2026-11-18T23:25:18Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
     {
-     "t": "The Latest: FAA ground stop results in pause in router installations nationwide",
-     "src": "WREG.com",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkpjbVNKRUg1MWJnNG9Td2VZMEhtZFAxTEVsU0JLVF9rR3dNVHlSdUFuQTY0VHlQdXp2NFVzZUZESWNFZGZzdGczSXlOLUd4ZHJsU00xeVFnR0tSTWZ3ZjBac1hJVHhKYjkxaG5sYXhqNnZabGtQLUlqd3FCanBpYmw3MERHM09kTDZtMVhtTUhCVDZmdHM4RzFxc29mekxlZHItbkc2elA2TElyeWVyNW0wcUzSAboBQVVfeXFMTVlTcU5KQU9wNjk3QVlZbGVVbFZ4V1VNYWJtNld3SE9fYzJfSURwN3N4bUwtdVV4eC1ONVQwWXRobVI5QmNaMTM4dzZ2b00wTFZLMkJrZjl0S0NGLV9XMWwwbW1TZlpOTF91dkQySXZwRlBWRG55ZlM5RFc3SThGdFRUTlpYS2ZWZXY2cC0xRnJPT1l2MjF4ZWRMQmFtOUtNemVRRnlBM0pEV3NKbDRNYm9KZnJKN0p1bWh3?oc=5"
+     "t": "Pennsylvania confirms eighth measles-related death amid US outbreak",
+     "src": "New Hampshire Union Leader",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanhyZ29EVGFvcVBKd0k1Wk9QU1ZqS3BGMG4ySkJrR2tYeEw5al9JT3BabnN1VWRSZnJZT1R3MXdxOHpEMWRoa0NHR0RKM19PS1p4VWR3c3JmU19LTjZvNXFKdUdVSDVNUVYwbzhCNVdQdFJNSV9VOUR2MHBzclFIZ21kTnBBNngxQk15ZG9ESktvenBYbzRnMFZzbm5FTUxpOFpPSERqMjZTSkRNd2RpY0cxa3Ricmo5dWZfZ19veHVQX2hCOTkwOUU4UQ?oc=5"
     }
    ]
   },
@@ -170,6 +193,34 @@
    ]
   },
   {
+   "id": "indonesia-202611180720-223c",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Sound Horeg Vs Kenyamanan Warga, Demo JSSC Bikin Kantor Pemkab Jember Bergetar",
+   "src": "rmol jateng",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmxHU2JKbXo4SmNDSFJ0aGxtbnVxLVI5QnBudWRlak12bHNmMDlPZTZPeUJPODhlZUgyQVVucmpQQWVQd3RpTEJJMEhIRVFWQ0hrelRvdm9MbFc0WDNPMUJyTEFRZ0o1cGh4TDlXZTcxeTZfSTRuT3FYSnBZOG1JQzM0RThYZWNwZ1d3cU44WFgzWWgtNzQ0ZlZMUDNFOFBtYXBCZEdwM1hibUU?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-18T07:20:40Z",
+   "last": "2026-11-18T13:54:08Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
+     "src": "Radar Jember",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5"
+    },
+    {
+     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
+     "src": "Pewarta Nusantara",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
+    }
+   ]
+  },
+  {
    "id": "siber-202611181840-41fa",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -178,8 +229,8 @@
    "src": "TMZ",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95YlJzekFVNGQwMXNNYkgycVA1UTRQVkdybEdENmhyUkhlRjhlSC1RcTJIUmtCUEVObkFwNzNRRVhDdkU2MEg0NzZhRXRlRkpmNy1oM2FfWFFsamdPR2lKTk8yVTRjMUlqUG1QelpCY3lSdw?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-18T18:40:33Z",
    "last": "2026-11-18T19:55:32Z",
@@ -189,6 +240,53 @@
      "t": "PlayStation hit by outage just hours before anticipated GTA 6 release",
      "src": "Daily Mail",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGluWjB0dURrTkFKQ2I5TGMwbllYOGZNV3Z5SUtRZ2YzV0UtVlByUzd3dmN6dmpuMmNSSDZUUDJkRHRLTC00TGlPVU9Ya0pRSVR2SGFJcld2SjZNbjQ2VzI0Y2cwcXo2cTZwOUFGM2t1ZzhoYWlIalFqbFp5QXBjWG8wN1VYZEhVWkZVcVowQlVHcnZIR3NV?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "kesehatan-202611181412-a7c1",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Ebola outbreak in DR Congo remains global health emergency, WHO says",
+   "src": "Latest news from Azerbaijan",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hnUHFjOHRTYlUyejZsN3l2Tm9SeElZWlhpZ1BnSUQ0MjM2b2Fkc1lBcFNGRmhOaWJscVpLZjJuaWxGcWIzQTh5dVdDXy1JVktQckNVMXNpXzRZRVNpSkU2Wm1HQU1sZmRWTnJrN3E5eUxNM081RFNKUXN5YVc5Nmx5U0VfUF8xeFZDdWJOSjktZw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T14:12:45Z",
+   "last": "2026-11-18T17:34:06Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
+     "src": "Bioengineer.org",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
+     "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
+    }
+   ]
+  },
+  {
+   "id": "kesehatan-202611181425-a5d4",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "U.S. Officially Loses Measles Elimination Status as Outbreaks Continue",
+   "src": "Johns Hopkins Bloomberg School of Public Health",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSlNmMnhaUjB3NnR3QmdDVDZvZktvZWNIU19aQ2VzQ01UZHFhWUduZ29XZWM3Q09kY2Y1bGlQb3EwRzBmS1I5NkkwNmdYVmN6TUY0Y0tQWjgtaUNBTWhmeDE1eGRoNE9QM1pfRUt4bV9tdWpackg3WUVLVGtPRXlzWmd4aEEyOUNpQXBzSDVR?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T14:25:07Z",
+   "last": "2026-11-18T16:33:36Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Black Wellness Edit: Measles Outbreaks Cause Loss of US Elimination Status",
+     "src": "EBONY Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXlvUTNMTkhXV3NNYmp6bnF3cHpUSzBydU00cTJkRlV1ckJDd3pTXzdVTGEwVmdYOVR6dHRBa25UNVdRWVB4WEw2Z3AyMnZ2Z3lORDZhQkdnTFdzb1pmY29xQ25Za3JwZ3AtQzU0VmVZUG1WQXhaMmhieDRHTGZGaVh3?oc=5"
     }
    ]
   },
@@ -212,29 +310,6 @@
      "t": "NSA Classified Network Outage Takes Down NSA Net During Routine Maintenance",
      "src": "Technology Org",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM283d3FLZi13SVFlT3JsZnoxNWR3c1NTalAtb3R5S3g3c1h5STNMZ1RYc25KamJ5NGNSdmVTc2R6SmMzTGxOMjgwWnM4NFFQN3F2d3Rzb0lHd1BPS1ROZ2luYVJGbHA0RzB4dzRiZk1yMnJHS19Sa21mYmJXVHFMY2dPdXVmMjYwTGI0cEtZNERNd1VaX3FVQk5tQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611180720-223c",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Respons Bupati Jember soal Demo Sound Horeg: Pilih Dengar, Rangkul, dan Atur",
-   "src": "Radar Jember",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQdIBzgFBVV95cUxPcmxmRGNNX1VseDJ4OXJUTFd2QjJxS21jMmpDMVNsZG1iVjlmLUNJRVZvMXR1S01YOEJVeWhmUlk1NU9HdmRCOVFUeXBoUVpmSUZ1RHNMTWlFRlpVakxLSllYTnpVM3luT2V6Ui0zeEN4c24zRkhxVXRrWkxXdEs0bGg2X2N4eENUSTVYV29zWF9pY19YbWpTbzZrTmt2VUxVa2tXYzJXMk5aSE5wUHJteFJPRUZPMUlmejdIV1ZYTXl1bWotREQyeWpWUGlFQQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T07:20:40Z",
-   "last": "2026-11-18T11:31:14Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ratusan Pengusaha Sound System Demo di Jember, Tolak Pembatasan Sound Horeg",
-     "src": "Pewarta Nusantara",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZ6QmRmbEtHRTBmd0x3ZkZWeWowb2pIbXdqNzRXZHRuVHFKRmpWNUxqTHVCTTNsNndMei1sSkk2bUFsdktqNXUtU0paaGFnVUVvWWxwZTFtWFRYZ1AzcnhqSHRiamxVRjNfMjZ4NzFJdjBmUnZ5UVdWZENkYTVETDlhdFlFUUdVRWVUZU1Qa0xVOGNyR2xoTGtUanVVS2xSWnBhUjdPY3ZPZ0JLcWJJTXRqZ2RKdw?oc=5"
     }
    ]
   },
@@ -285,7 +360,5 @@
    ]
   }
  ],
- "errors": [
-  "kesehatan: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
