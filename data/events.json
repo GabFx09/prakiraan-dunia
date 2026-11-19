@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T14:23:59Z",
+ "updatedAt": "2026-11-19T14:38:41Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -50,17 +50,22 @@
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Kasus Kericuhan Demo 10 November, Polda DIY Tahan 4 Tersangka",
-   "src": "Howl.Link",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9vd0laZ09mTHdkdU54T2FRblhvRzk2enN1a3Z4RjdOZFZtZGRTckJ2ZDI2cXdjYWxXZU9v?oc=5",
-   "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
+   "title": "Polda DIY Tetapkan 4 Tersangka Provokator Kericuhan Demo Jogja",
+   "src": "Lingkar",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDBVVUROcElWcDdnc09rU3hyVlJraEJvb1RoZjNxbkJFdnBHYmx1dWRQSzRlVTZpLW9qakFMNHh2LVZnY01qWnlHRzR3Zk1tOV9lNmVTcEtTaHVza1NrOTFydHQ0Nk9XRE9YR1BiMWNYOTRWMDQxSjluN3F1QTBLMm9hbTFRN1N0ZkdMQ0RUWU5jQQ?oc=5",
+   "sources": 5,
+   "recent6h": 1,
+   "score": 5.5,
    "level": "sedang",
    "first": "2026-11-18T05:12:15Z",
-   "last": "2026-11-19T03:07:02Z",
+   "last": "2026-11-19T10:02:17Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Kasus Kericuhan Demo 10 November, Polda DIY Tahan 4 Tersangka",
+     "src": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9vd0laZ09mTHdkdU54T2FRblhvRzk2enN1a3Z4RjdOZFZtZGRTckJ2ZDI2cXdjYWxXZU9v?oc=5"
+    },
     {
      "t": "Terungkap! 4 Orang Jadi Tersangka Baru di Balik Rusuh Demo 10 November",
      "src": "news.indozone.id",
@@ -108,7 +113,7 @@
    "lang": "en",
    "title": "Sean Duffy Blames L3Harris for Longer FAA Ground Stop",
    "src": "JournalArta",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0dxTlVaMWhKMWpVay1uRGlDc1lBdG5uZFJrU2ZNLU1YUU9ENm81aWVGdTA3V3NhclRZZk1TelVFNkxEY1cxNlVyYTRzOWdIWG9HUGtsdTZJdXVaRm5FbnFwTUlMaUhQY2QtaHJGRGx1MnkxNXpxcWtleTQwTi1VMXZrc2Y?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTV1TzAzeGlkUzFFOVI3U2dUbkROX1Q5T3pOU1NER3pQYU5SYVZsS0NjcVBEYXBDSE50S2NkVFR5eTZkWllyUEd4SVpzcHg0M0xVNlh6SHpjdzJvMDczTnE1ZmdQaXZlX1dSemp6YnEzd2pQNTVnNVlza2RhWWE4THJnclRrOFA0?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
@@ -200,6 +205,31 @@
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxLV9Hc2I5NHdoZ2Z5V2hLZjZsTDhnTlg4ZU52bjIyUXByTzc1dTc0eGZiUmtQZVdiaV9zSTZwQko3UWRSTFhka05HaXFUbXowOTdWS09KTWpqVzI1NG5xT0FB?oc=5"
     }
    ]
+  },
+  {
+   "id": "kesehatan-202611181710-b3de",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "India develops first home-grown H5N1 bird flu vaccine for chickens",
+   "src": "The New Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG5pOVRwdDlWUWJtbW9PRUs1Sk9QUHdmQllkWmNISmdBZ0F0eDFYXzZERmxkOE1teGl6VENQdE41M1JZYTRJUWFSRzdHcHNkRlpleVZ4Z1hpcnFVb0FHR05jdERnQVNfOTZPaTRFeEFjRml4UHJaTXYxUHExai1GZ3dKbTUwRWVkQXpKNE9rd1JSYnlncDJFR3B3VFllRHI3eE9TeVQtVTktRDYtNjZ6RXIyWFRRUUJ40gHGAUFVX3lxTFB4NlNVSE1VRzZJZUhrcXAyNmdQQlluWUhWS3BraWttY3dIdmRBcENZMVNCZHpYanVyMmd3Y3hLMjNTY2gxeFlSczRhSC1peUpocDV1cktBSGZwelpWRWlONzhsb2x3VHZjR0ZyMXRtTnVHUThtdUNic0Z2cGRSdS1qYUtQbkRaUTVwbHJlVC01MzJNR1FnamRQVkpqZmE1UTMxUGptajJsS20zMXFBYkt3TndxQTlPMXdlemR4cVVNQjRWTEVFZw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T17:10:23Z",
+   "last": "2026-11-19T02:16:03Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Bird flu turkey prices: 10 ways H5N1 still shapes costs",
+     "src": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIdmZuOXpDQW5UX2FMQjdIMVpsVXFXblJLSkhzTjB6SnZxX1Y3UURpbTF2UFBkSERZNEs0bkNpWFVkUFFFNElGYWY1anQ1SFJuVllyNEJIVjA?oc=5",
+     "t_id": "Harga kalkun flu burung: 10 cara H5N1 masih mempengaruhi biaya"
+    }
+   ],
+   "title_id": "India mengembangkan vaksin flu burung H5N1 pertama yang ditanam di dalam negeri untuk ayam"
   },
   {
    "id": "kesehatan-202611182253-9a7f",
@@ -302,5 +332,7 @@
    "title_id": "Mengapa begitu banyak pemadaman teknologi penting terjadi secara bersamaan"
   }
  ],
- "errors": []
+ "errors": [
+  "keuangan: HTTP Error 429: Too Many Requests"
+ ]
 }
