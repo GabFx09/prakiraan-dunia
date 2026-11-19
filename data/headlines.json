@@ -1,7 +1,24 @@
 {
- "updatedAt": "2026-11-19T22:55:33Z",
+ "updatedAt": "2026-11-19T23:10:14Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Ramalan Nasib IHSG Hari Ini, Akankah Turun 5 Hari Beruntun?",
+   "src": "Bloomberg Technoz",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0pVakJlVE40U2VfdXh4Q2I2ZThkZG5zYWd2elptZThPdkZoQTZiWWpOUW1JbVVKYm5vOHRLM1d2akRvRUdmNDJHb1dCZkVVVDg5TkJ4Y1ZEM0c0WVpJbGMwYXBvVEZYRmhqS2xpS3pJbzlYTXVrb3pHbHQtb21xdzFVdEtvN0R5NERBSU9LRTNocXpGSUJwb2FMRWFidGNkbGNaTlN3UWRwTXU0cHc?oc=5",
+   "time": "2026-11-19T23:03:05Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Stocks plunge as investors take cover amid growing uncertainty",
+   "src": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZjFqa0hNX2pnT1d4RGRQWEhNTDl6djZzd2sxOFZhOWE3UnUyZFpxWk1NVzJrNnpGbS02bDctT2FLMUNNdzV2ZW9lMjVrM01ZRHpBNmpycjBJSVRVaWVPdGlyazkxQWJLal9BSHo1Zw?oc=5",
+   "time": "2026-11-19T22:50:05Z",
+   "t_id": "Saham-saham anjlok karena investor berlindung di tengah meningkatnya ketidakpastian"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -17,14 +34,6 @@
    "src": "The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSUxXN2VuZE1XWG15ZXJtMDFzOFRtUXR3STRyM3BKU1lfcl9FTklzalI1RkVIQWJ3RmNkVHNlclZRMGN2VmdQVF81bXp1VVAyTEpWQ2N1eHhZZFoyclA4dnp4aGoyblRnZlFFQ1ZEa0pQdVQ3RWJ3RkNhR0Rock9VX201cEFQTC1GT2RJMEdpd3NYWUJuc2dieXdsUFNBZGIycnQxcTVNOHZxZVpEeW94aHQzU0FKOE1valBpbVF4dUROQlJId21V?oc=5",
    "time": "2026-11-19T22:12:18Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Menakar Efek Ganda BI Rate 6% dan Dilema Cuan Kupon Imbal Hasil SBN",
-   "src": "Bisnis Indonesia Premium",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFV6anh4RUlBYmFTT05HX1ZDNW5PZnRES1BkNk80ZDNHVHN2YnN2c1dNYU9LQ2NSWWNPeG81ZF9FLW1feF9CMlJWcW1MdE5Ia3pPeklGWkNWS1FCUV96Rklxbl9JZzVOR3otR0xXdTl2U0ZPcXVwSGVxZkVTeUlyX2djcEh5U1R5ZUVUWko3SlBBTlQtWllERFJFX1dNZ1dSUkk4M21OVmk1TFlwQ0tfeUVfOFhTdVh3S25B?oc=5",
-   "time": "2026-11-19T22:00:00Z"
   },
   {
    "topic": "geopolitik",
@@ -50,15 +59,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
    "time": "2026-11-19T21:38:51Z",
    "t_id": "Wall Street berakhir melemah tajam karena debut Anthropic gagal menghidupkan kembali semangat AI"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stocks plunge as investors take cover amid growing uncertainty",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZjFqa0hNX2pnT1d4RGRQWEhNTDl6djZzd2sxOFZhOWE3UnUyZFpxWk1NVzJrNnpGbS02bDctT2FLMUNNdzV2ZW9lMjVrM01ZRHpBNmpycjBJSVRVaWVPdGlyazkxQWJLal9BSHo1Zw?oc=5",
-   "time": "2026-11-19T21:25:11Z",
-   "t_id": "Saham-saham anjlok karena investor berlindung di tengah meningkatnya ketidakpastian"
   },
   {
    "topic": "ai-teknologi",
@@ -113,6 +113,15 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUtobWkyemxoWkNuRXVocUZuNE51SEN6c2Q5T3UtTl9ZYmotUzB1V0htTlJUSlJ6enNBaGFkeTNxV3Q5aHRPTnhoOHhHeGZuX3VjOFhMN3l3Vy1KdzZhUDZacW5lTHFMSDBjaE90YkpvVGRaWENHR2dKMllPUFhCb2lDSUVobnhzd0lhSHh3RQ?oc=5",
    "time": "2026-11-19T20:24:00Z",
    "t_id": "Strateginya Bernilai Lebih Rendah Dari Bitcoinnya, Media Trump Mungkin Harus Menjual"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Canada and China Draw Closer with Expanded Trade Pact",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
+   "time": "2026-11-19T19:48:43Z",
+   "t_id": "Kanada dan Tiongkok Semakin Dekat dengan Perluasan Pakta Perdagangan"
   },
   {
    "topic": "geopolitik",
@@ -220,6 +229,30 @@
    "time": "2026-11-19T17:17:21Z"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Price Today on November 19, 2026",
+   "src": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGUtdW1DVmpMQ0VCMjhNRHl4cTk5SVJhMG9nelA4a01zU1VYTnlSRi1YQjlrRDdJYmZwNlVrZnd3aTVCcnVVNEJhdUJQVWMzVjFtcjJPaU0tYlV6dHhXd00zTzRrWGNTQ2FUQ3JLSGlaMWJpYjV3b21iZVlGRE9hLWVBRVdLaE1jWmo5VWJFM3RqZHdSNzZCUUtVN3ktN3lMMWN3?oc=5",
+   "time": "2026-11-19T17:09:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Rate Picu Kenaikan Biaya Dana",
+   "src": "Epaper Media Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XR3NiMDQyam1WN1VhNElzUHh6bVpub210QnZsMDdmVFVvSGlzeEtYV19QYmlfYTVtOE1PSHBlUXRlaU1ROHowem5VWkZmY1pJWXRtUDFSckZEd1FWTGxWQ3ZQZHIxRXM4bFVSRWxhOXVFV3hReW1yWnJXa3RLdw?oc=5",
+   "time": "2026-11-19T17:00:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Bank Indonesia Raih Penghargaan atas Kedaulatan Rupiah",
+   "src": "Peradaban.id",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMmkxOFpTYXdYbkk1bzFKZzdKbHNrNXNkcEY0dzNEanZQZnJpaGozYnhBNHJrc09qc0ctSnRleU0tdjZKV1pBeVdWZkl5WlRwUkJWNUNNZXl6SUpCWjhobUZjRW9IUnRULThQQk1OYjFwZmc?oc=5",
+   "time": "2026-11-19T16:01:08Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Bank Indonesia Raih Penghargaan Kedaulatan Rupiah Internasional",
@@ -306,22 +339,6 @@
    "time": "2026-11-19T12:56:07Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Saham Big Banks Bergerak Variasi Usai BI Rate Naik Jadi 6%, Simak Rekomendasi Analis",
-   "src": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkWkpDMGdnbWVkNFZPVFBMRWxEcHEtLWtQUzVxMW1RNDVvLXB0NWdhQzNkRW5HamQ4cUU1dVRoc01sakRxb0JWamVFZ1pnYW1Ed2pIV2dzT0NKbElVRGxISHUybGx2dw?oc=5",
-   "time": "2026-11-19T12:39:33Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Sehari Setelah BI Rate Naik, Mengapa Rupiah Justru Melemah?",
-   "src": "Kompas.id",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOUpfUjhPY2xxbl9SbzRScVhjUVV5aDBKTnlpUENDeGVjWUgzaE5ZQTJJT1BsUjBVN0VmQzNONE5pdk5zTHo4clFyOFpyWmtEN3BzWExIdTduVTVENFZUZ19EOVVPaG9MS3Z0TV80cE5ISnJ0Sjh2SHBfZFdPZTdQVlVFbm56OUYzY1JIb1c2QVFEYkdmU2VKUmNYV2lZQ3RtYnN2aHNvTFB1ZFNxbE9XQ1NvN3hWeEx4OWVmMEFDaXpIaU12ZXMwWUUxMlo0Yi1KTDFDUFN3?oc=5",
-   "time": "2026-11-19T12:35:20Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold prices today, Thursday, November 19, 2026: Gold price opened at the lowest level in 14 months",
@@ -363,14 +380,6 @@
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3VEZ1VYY0VoeVo1dWpfR01KN1JjYnpSWXBid1ZyRk9PejdseDg3OUJSd3p2bHhJZVFzWTBEakMwZGYwN2FMZ2xrYTZLLXVkVGZhRjV3bDVKX0RrTFlGZUpfc09tMzlid0xQdTh0amJ4OGwwa3loQlhSalQxaXFPQWFKVjh0WkdvZ25BV0ZYaDhZRXNLSnRoaUt6cWxnSFZ6SnFhbDZSNnhFOHJMbGUwak1YTXdlbXl5MmpsYlF4d3ZiYVBlTUlTWNIBzgFBVV95cUxOTjBFVDltaXpYUHpFMWJxdjc5Z2Q0QkQzZmlhLVo4R2YtMklvMTJrMTlNZ2hQM2ZBUFZqdGVxRV9Fc1Y2TkJCNDNGekp6bFM3amkwTDY1eGYzVjc4ZktOVEhVeTF5a19EV1VycUJ1M1lEeDdRbXM4VnA2MDdXeUpSczd6NHJ5UGtBQ3ZsRllULTBpbGNESGZjdF9NcklYZjhOLVRuQ0U4cUVaLVlvaDJUYy1PeE9iVWVRUVNnd1B0cXZ1T3g0XzdzUzh4Vk5pQQ?oc=5",
    "time": "2026-11-19T11:15:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Ramu Jamu Kuat Rupiah, BI Pantau Efek Kenaikan Suku Bunga Acuan",
-   "src": "CNN Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU0tKZHV0cEFRU0tLYVlqQnJwLWlqZHhLTWdsTWl5cGtneTllM1BHbUd4TDlsS2QzRHNIXzVTV0xxZXV1WVNHNGQ1VUZCdXJQSmlxWGFEMHZVd3hrYzJXVi1JNFktN0x1bEtkbkhfN2hVaklZOU5CYk5mLXlJWFBBS0Q0Tmt3eUJKbVVpRGFEVWZOU2pmblBrdFJLaGlvQ28xbzBHcHhGNzBPSzlVQmE1Yl9zQVI4THZWRUtVLXZtRDZGaEnSAcgBQVVfeXFMT1p5NWRyVHBENFNJSlNRXzNKVVBJZ0lZYUdVY3B5Q3pBSXMzd2pBSzdnQmczT2p4QUVsRkFVWGczUGswYnU1S1ZfSjdZSC10Ml9wLTVwNGZOamRiRjNETld4MkFZb2hXZVQwU2dqaDBkakxRSnFHWTdrY0F2UUFJYS1MVGliWmJHZ3VQU0V0MzFPN181UE1wbXczc3VRQ25YZDNNdWdxNFJ0THZhT1pma3gzVzRYeU5nc1ZudXdzcmlGYlprSjhwbFA?oc=5",
-   "time": "2026-11-19T11:10:03Z"
   },
   {
    "topic": "kripto",
@@ -444,10 +453,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Lanjut Melemah ke Level 5.194 (Kamis, 19 November 2026)",
-   "src": "Databoks",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGdaaV9nbFB6a0h5djlNSHhJQmZCVFZFVXJEZDMyTVMzcmdwb2JSbXZoelMtcFV2cEZUb25XbFZmZVlvQUhCeG5NdUJHN2RtSE1kbFhsb1M2Q2RuX0VuUkNxQzJtRGxJQmRDM3dkb0dXaDd2YU9Qd0pwZWZ1MmpnTWcwTnVFbFVRWWM2a05icXgxeG1oSjI5eURrdUQxY0JUb1pTN1BFRlFEZHI3MVZNeGRhWWVMV2gwcmc?oc=5",
-   "time": "2026-11-19T09:41:46Z"
+   "t": "Sekdaprov Riau Dorong Evaluasi TPID Perkuat Pengendalian Inflasi",
+   "src": "Media Center Riau",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzlMS3VtLWk2OFp4WEs5RW1pa212YnFwMFRQdWlidlo1SDR5bURHaG5tZ3Axc19QWUhLb2NpYTRBWEI4dk9vLWwtWlVjdjhBcHF2dmdsWGdwN0JyV1E3LVZjWGxsRXlRRTRpQVpaXzAyaDMxYzdSWjcyRWNCZlZjdWRXUml4emhWQ1BJUzhIdDBrSnZiWHFEZTZmZ2MyTC0wRHc?oc=5",
+   "time": "2026-11-19T08:38:00Z"
   },
   {
    "topic": "indonesia",
@@ -474,14 +483,6 @@
    "time": "2026-11-19T06:42:36Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Rate Naik, Kenapa Saham BBCA Menguat Saat Bank BUMN Melemah?",
-   "src": "Bareksa.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTUtUWlpSEladllGTlllUDUwOVotYlJnN243U2ZhRmJPdENxNGltTUtyNmdBWk14bVVoZGxSSjhGVEJPUjdyd1lTWjlwdFJsdzZ6ODAwUGRBaDEtTHh0LVMwR25MZ1l3OXp5NW4yd2lzYS1KWHhBUVJTb19SN0NCOGtVbHdMdmhYaUtGbW5pOGZ3N2NSWm1UaUxsMXJWM0p1UUQ5cW9vNnBUUGVVNlE?oc=5",
-   "time": "2026-11-19T06:25:30Z"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says",
@@ -493,28 +494,26 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "Bareksa Insight: BI Rate Naik, Cek ST017 & Reksadana Pasar Uang",
+   "src": "Bareksa.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlE5X1FJVFZ1R0dnRDZFanZqNkd3RFNveTVfNEtnNldwcDg4OFhfOGhNS1lPSGVKZGx6NmQ2bEdRTG0xTzl1NVVqZktyOFozMGVPMEg2QS1Gc0hQSWh4cUFvU0ZtN2p0c1lyU2ZfU01BcG54NVN2ckZlTmhKUXlBWUZEZnRIZEx2Z19xbFg1TEhYRGNSLVpKbnp6SjFuRXg5alBHU2VqS1NZaHBMQ0RjNnY1MlM2elkz?oc=5",
+   "time": "2026-11-19T04:05:53Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI-Rate Naik, Amin Ak Ingatkan Risiko Tekanan terhadap Daya Beli dan Kredit UMKM",
+   "src": "Fraksi PKS",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkNyMG5DQXVIOFlEWEZJU1dnVWdYWlQxNWRkdDYzenpheE9fTlEzd3NvVFBCczlQTTJLcDk0cmViNGVoVlBRcGh3ajdWTHNMYTE1M0FGeGZYaG11YmRHZE1vU0pvQjNUWEJrNVQ1Nk9kR2xIRUxXaFhfakpaN1BZWnFRRk9DaHVYUUJ0V1lNU0c2NjdEN1pNTDZYLVgwVnhWMFVmT25PYWcxM2EtR2d3WnZYOA?oc=5",
+   "time": "2026-11-19T03:43:21Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "Rekomendasi Saham Hari Ini: MIKA, HEAL & EXCL, IHSG Rawan Koreksi",
    "src": "Bareksa.com",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEpHNF80T0lydEgxcnJQRm8tRUFXMlIyX2dfa0lkeWVoQ1h5QWEyamR0bUdnZTZIMEphNEYwYkxPd3JXSExfY0w4ZDJWZ2EzQlRfaW1wUFhGLXN5VmYtTzBBMDN0bHFXdEc5NVk2Ujd6YVB1dmxEQnNZNTNTcVVzaXEyaUhhV3ZHUU9YRlRvTVQ4OU9jX1FvVWVIa3JJWlRFQk55cmdJQUFFRkQ3?oc=5",
    "time": "2026-11-19T02:44:11Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "U.S. Stocks Extend Slide on Nvidia, China Fears",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg?oc=5",
-   "time": "2026-11-18T23:22:55Z",
-   "t_id": "Saham AS Memperpanjang Penurunan karena Kekhawatiran Nvidia dan Tiongkok"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
-   "time": "2026-11-18T22:48:00Z",
-   "t_id": "Risalah rapat The Fed: Suku bunga yang lebih tinggi diperlukan pada bulan Desember karena kekhawatiran terhadap inflasi meningkat"
   }
  ],
  "errors": []
