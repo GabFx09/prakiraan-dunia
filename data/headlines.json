@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-19T00:58:04Z",
+ "updatedAt": "2026-11-19T01:01:38Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Rate Naik Jadi 6 Persen, Siapa yang Paling Terpukul?",
+   "src": "CNN Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVp3Qmp4RnVVWVE4dDZyWDlKUEJfeS14MW5qb3JUc19vcmJ3Vm9yeWRTUmM2XzJkTkNjUW0zVG9OVzdQVU1TNjI5eU9GdG1Gam00Uk1yc1oza1dMQmVVRlpra2hhclVXZDZiUnhxOUducWJHNlhGNGJBSHliN2dWRk52SVBZa3ctZWtMSFFmYW00NG04ZExrQmNCbEFZOTZ5dV93TmMxZmxhR09MMmxraWpYanIzWk3SAbwBQVVfeXFMUF9zbFpuVmhrclcwazZDVWlRM2oydDZMTF9IOF9ZMnRmQzdKMHVTUTgzbVR0WFA3LUh6SnVkTlU0OWVLelEyb0hobG5pYXQtZHZSM0lwZjc5eDNWaFM1SmdwcXBld3JCbnBPY3RVTkJJVC1XcXZTV1FXSVZfN1lFMWdqazl3R3dFSVVwUjRoUEZRZWZvcWRqWDZRb1dRNU54aFFsYjlFMm9ibU95c2RLRlE2cWdqejhsYTZ2aEs?oc=5",
+   "time": "2026-11-19T00:55:27Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -99,6 +107,15 @@
    "time": "2026-11-18T23:24:10Z"
   },
   {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "U.S. Stocks Extend Slide on Nvidia, China Fears",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg?oc=5",
+   "time": "2026-11-18T23:22:55Z",
+   "t_id": "Saham AS Memperpanjang Penurunan karena Kekhawatiran Nvidia dan Tiongkok"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Iran and US trade tit-for-tat strikes as wild video shows strike on UAE oil tanker",
@@ -121,14 +138,6 @@
    "src": "Emitennews.com",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1UySFAxVkt0NU9qSmJtZndlZGtrbEVMSldrVUFOX2RqbkgwUF80Q2taOHJ4V0lKaWZXbmFDeWlmVjFER1dLN1ZwTTVQYnhmdmJURmZKUTY3elRkWUFmSXFTR1daUUJWLWU4RHF4dHRZMFNtVDN3dGtvMWQ2ZXR4Rw?oc=5",
    "time": "2026-11-18T23:04:00Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
-   "time": "2026-11-18T22:48:00Z"
   },
   {
    "topic": "indonesia",
@@ -236,6 +245,14 @@
    "time": "2026-11-18T20:41:00Z"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran says three oil tankers caught fire in the Strait of Hormuz",
+   "src": "The New Region",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YSXNrY1dVeGV6RDFXLWE2eExRRDY0NzNJdkVuUTU1STIyM1Yzd3ZKLWE3TUl4Z1pmTzZZM1VDUnp0VC1pMXJrdVY4UQ?oc=5",
+   "time": "2026-11-18T20:39:14Z"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
@@ -293,6 +310,14 @@
    "t_id": "AS memperketat blokade Iran dengan membatasi pengiriman minyak melalui laut, menurut laporan"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
+   "time": "2026-11-18T19:32:00Z"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Price Slumps 3% As Silver Also Tumbles: Metals Hit 14-Month Low",
@@ -307,14 +332,6 @@
    "src": "TradingView",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVJPRGw3aUhuR1UyX01wWUdFallBblpMeFkyUTBIUG5HTV9BS1NIa2c5Ri05QlFyTFBsc1k0SmNwR3ZaS1k1WHAtV0hfeU5uNmZCdHUzdWtYamFObldud0JtUXZaN1VUSFo5bk1OUlk1blowZklmeEg2SjQyWjUyU0w2STlja1Z4eDUwbG5iOS1CajhTRktkSEpmVi1oVkRaRU84OXRaZ3piU0hfc1VHZWN2VEl2YXlZ?oc=5",
    "time": "2026-11-18T19:05:35Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "AI stocks hold steadier after Nvidia says it still sees strong growth ahead",
-   "src": "WJTV",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVVoWUhqcEYtZ0JNS0NDTjJLQ19CMUVhc2I4d2lXTUY4Y2tELUEwS3dvbXd0U3lOb3JQQy1oTVJtQmhzaU4zSHBoZS1GT19oT25DZ2p0NlItVF8xY3MyeGxvdThObjVrQk5wTmVuQUlobGd4SFZlOXMyYnZFV3J0MjFXX1ROUkxIeWo1ZU14NklBR3UyLVduWXZSdUlQdUJPMnAtcNIBqgFBVV95cUxPd3NCM1FrVU9MSW94ZkZENXVGLWVLNEZhUlJxQl9oRFo4NWNINkNtOTVBSFV2RjJpTGVHVUpQX3BtbEZhUjdFZG1EeVlyX0g2TkFObVY5RVZwNXlPYVowdFMtV3dZdTJxUkZiX0xwQl85UFlrSlhhWl9MRGxmcE5Zcm1OUkFlUTBJbTZESG12RXhHd0MwSndIdnpITmpNNWNZRHpXVjVFeWlxZw?oc=5",
-   "time": "2026-11-18T18:05:26Z"
   },
   {
    "topic": "emas",
@@ -341,12 +358,12 @@
    "time": "2026-11-18T17:20:39Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Kemenko Perekonomian Pastikan Stabilitas Ekonomi Tetap Terjaga Meski BI Rate Naik",
-   "src": "Pasardana",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckh0ZE9JaTJRY2RlODRUSUI0bUhtNU82Q1dJVF9meUp4a0pwb2VnSWpQcC1Udl82Q0RVeFM3YW5HZVdfYldLUzB0YllGOWVPcDJaUGkwYmJfdWJXZzdzeXRmTVhPejNYNUlVaHNYQkxqelVPeUZVOV82cGd3R013U3htclVtdkJGUGVmQ0JqNDVZUFBjMktueHc5Nm93WDUtcklUYXhnUHV5UjRlTWh4X3ZrcHpqOUk4TFE?oc=5",
-   "time": "2026-11-18T17:10:00Z"
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street zigzags lower as Nvidia and other AI stocks keep swinging",
+   "src": "KFOR",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHlRYjRhVllqZzlUckNYbTFUN1lRSWRJVi1IYUxONUt3RTFxdFJLNXV3Z2ZtRTlsZ0RETEZ1eWJyWUFuakR5YTBsdTBRdzZlSFJsQkYxSzZYSGRJNzRtQlRsS2F6WkFad3ljbGtUMjhnMWt1RTNrSW1ObV82YUk5VHdJa1BKTmtaQUwtY2N2UmRURUZ0TnVoM25LeTZ4Sm_SAaQBQVVfeXFMTWlaV0VTWENubmFQaVZuR3l0VVVhOXBVVmROdHZ5SXBZandqQWU2eU1IbWxkcDRTX0FNcXpuSGZUcHpwcTNGQWVadGdWVzRHSG1QeWx4V0FYMHZyaWV6d240MnVyaGM4V3pjMlBrRzNoU1lfY25KTDBKLVZkTnpQUGFBZnlDUXUweDdGVWplS1ZDUXFWMl8xTGI4R1Y5Wk40eDJOMko?oc=5",
+   "time": "2026-11-18T17:00:30Z"
   },
   {
    "topic": "emas",
@@ -364,15 +381,6 @@
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenF6YlhQQ0d2S3BGblhRZ0hfWFl1WGktbGxaOWg2SGlrY2NuQTlSXzZLa1RncUdaMXpIRFFVZEcyT1hWYmxfRUVPU0IzdXNqQmo3UDBfUGdoeUFDbEM1eTJSMnlHRTNXeHF6NmVuV1VWdlBta2Zkd29sNmNsWVVoX3Rlb3I?oc=5",
    "time": "2026-11-18T15:16:13Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
-   "time": "2026-11-18T14:56:00Z",
-   "t_id": "Iran Menyerang Kuwait dan Bahrain, Semakin Meningkatkan Perebutan Selat"
   },
   {
    "topic": "geopolitik",
@@ -441,7 +449,7 @@
    "lang": "en",
    "t": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
    "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNms?oc=5",
    "time": "2026-11-18T12:20:11Z",
    "t_id": "Waller dari Fed mengatakan bank sentral mungkin perlu 'mengejutkan masyarakat' dengan kenaikan suku bunga setengah poin"
   },
@@ -487,14 +495,6 @@
    "src": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXhpRVB4bWpQc2RzYU80LVhPYjBGM2d1NmdpZ3dTZFpHVGRVc3pwM1lraTZqQUlSZWZDWnl3LXYyM2t6Mml6TEo0eEZ6Wlp3Vzg3NDFkeGlNdC1ZNWt1LVQwVHV6U2xCOVJZZ1lMUWxfRmt3NnZ3Uk5TbkU2dDk5clo2dVlublg5WWlqRFVoYW1vcmlrdzdMTXY2dnAxS0VRRi1V?oc=5",
    "time": "2026-11-18T11:42:18Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI-Rate Naik Jadi 6 Persen, Bank Indonesia Perkuat Stabilitas Rupiah",
-   "src": "TOPIK.ID",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnNZZTQ5aGhpYllxZUtzRHk0VGVtMEJsQUFyUHNEYTN1cGhNU2Q3VWNTQmRlZkN0bzRLQmFmU1hJT2gtdi1OM1p5MS1Dd2RaTlB3MG9yMnhSc3NuSWZRQ211dUVvTWU5OGJOaUFDU0VBRW1MU1pHYjNCUWUtNjRvMGZxdGJ5c1U3M3hjSGU3TF84dw?oc=5",
-   "time": "2026-11-18T10:54:10Z"
   }
  ],
  "errors": []
