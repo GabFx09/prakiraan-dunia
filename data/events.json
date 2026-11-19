@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T11:13:22Z",
+ "updatedAt": "2026-11-19T11:28:03Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,14 +53,19 @@
    "title": "Kasus Kericuhan Demo 10 November, Polda DIY Tahan 4 Tersangka",
    "src": "Howl.Link",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9vd0laZ09mTHdkdU54T2FRblhvRzk2enN1a3Z4RjdOZFZtZGRTckJ2ZDI2cXdjYWxXZU9v?oc=5",
-   "sources": 4,
+   "sources": 5,
    "recent6h": 0,
-   "score": 4.0,
+   "score": 5.0,
    "level": "sedang",
    "first": "2026-11-18T05:12:15Z",
    "last": "2026-11-19T03:07:02Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Terungkap! 4 Orang Jadi Tersangka Baru di Balik Rusuh Demo 10 November",
+     "src": "news.indozone.id",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUc3SWJiQ2xKMGlaVXktcjluYlpEOGFrTG5LS0NyeTUySVlZSm9KRGdrR0l1dm1iSXE0V2pyZnZxX3FFWUljS2FiSWNrd0FrN1p3Ny1ZcE5yQ0J6OHFiXzl3c2dXVGNSQlczQ2E3Y1F0b0ZWVG83eTlfaWg2Y3Niam81WDl4TXZnbmkydmhlbVotUWtfeVRxODdzejZhNkxJVHlrTVlUMjZKOEg3eWE2Tg?oc=5"
+    },
     {
      "t": "Ricuh Demo Yogyakarta Berujung Penahanan 4 Orang, Mahasiswa UGM Ikut Terseret Jadi Tersangka",
      "src": "VIVA.co.id",
@@ -158,29 +163,6 @@
    "title_id": "India mengembangkan vaksin flu burung H5N1 pertama yang ditanam di dalam negeri untuk ayam"
   },
   {
-   "id": "kesehatan-202611182253-9a7f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Pennsylvania confirms eighth measles-related death amid US outbreak",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWNYcFY0Y2ZRYXUzLU9Hc3Fuc214enY5NHF3SUx6THdGdFlwdF9aWGhGS1ZYVmpzaHEtRnZxUFpWZHQyVUl3SEJDckw1WWZQUXNPS0VnNE90Q3FieVFZazZ5SGxmV3JOeVB1amxURDUyQnQtcWdLbDVabW1XWWhLT0FHYVBtQVFBWkp6R3ItUlZiS285cWhhQzBDZFhLaGpSNDB4Q0N3UTBVVVlVa3hNZGU0bkZMRW1FOFNQbzVFeUF0VlItS3ZrUG5OOGZGWWZTVUE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T22:53:06Z",
-   "last": "2026-11-18T23:25:18Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Pennsylvania confirms eighth measles-related death amid US outbreak",
-     "src": "New Hampshire Union Leader",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanhyZ29EVGFvcVBKd0k1Wk9QU1ZqS3BGMG4ySkJrR2tYeEw5al9JT3BabnN1VWRSZnJZT1R3MXdxOHpEMWRoa0NHR0RKM19PS1p4VWR3c3JmU19LTjZvNXFKdUdVSDVNUVYwbzhCNVdQdFJNSV9VOUR2MHBzclFIZ21kTnBBNngxQk15ZG9ESktvenBYbzRnMFZzbm5FTUxpOFpPSERqMjZTSkRNd2RpY0cxa3Ricmo5dWZfZ19veHVQX2hCOTkwOUU4UQ?oc=5"
-    }
-   ]
-  },
-  {
    "id": "transportasi-202611181200-fdb4",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -210,29 +192,6 @@
     }
    ],
    "title_id": "Ground Stop di AS Mengungkap Sistem Kontrol Lalu Lintas Udara yang Menua seiring Meningkatnya Risiko Cuaca Ekstrim Menjelang Hari Thanksgiving"
-  },
-  {
-   "id": "siber-202611181829-b5bd",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "National Security Agency network outage linked to software vulnerability",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNENuckNXMUlsODdxZnZnTFZicTR0bmk0aDY2ZzBEUEd3ZHJRaFNjVDNpWmxzTk1jNnBpVHlvdmE3ekhka3YxVmIzVUZKQUotM0x0Zk9SV2h5UkZMSVdpb2VEVUpXNms3aHV4N2w5eEFybGNWVE9jRmJkUzZTTU9uNVFvZzJNdlJkeXRCZkhUcnN2V190WnBJ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T18:29:47Z",
-   "last": "2026-11-18T22:28:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "WATCH: Intelligence official pressed to explain cause of National Security Agency outage",
-     "src": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUy01TGlyRlcxT0FnUUg3N2I2bmZiaTFOd3d0bmdESC1QWTRLNHVjS1c3TzR1N2RtbUlZZ2p3dUtXX0FtTG5mWkUxaTAtRi1oZmozNlFoV3RXZGR6UlpTbUVDOGdrNmhMUEpFb0JBWW90b01VeEMxZ3l5ZEdqaExjWnJIWHNKSTVQRHFNazk3MFFyT2lHMV9uaWhQUzN0QzhDRmFJQ0J6MlZmZHlmTTN4YmN5cFZjaFdhc3ZORDQ5RGpMdEHSAcgBQVVfeXFMTXhWc1plNDZhc2hiM1N1QmhmS21Ed0F2OWhCWmFwRy1oY2p1VVMtSmlCRVZCSHhrSWhiejIxLUdIM1NaNGdDM245d3hJU0VjN0RWYVh2R0tQTnh2Tl9ocXJqSlJMNlVuZnI2V3BfLUJMamJIYnlCLVVvZl9MT0lSR2d3dGlxVGpNRTZCRThaSGw2WFJtV1otQWNQX01iWU5KZ3F1T056TUExb3NsVllCX0RwUXI0dUpjNDVRVGd0T1hndENJVkFyalk?oc=5"
-    }
-   ]
   },
   {
    "id": "siber-202611181932-94b1",
@@ -285,6 +244,31 @@
    "title_id": "Jaringan PlayStation Melaporkan Pemadaman Beberapa Jam Sebelum Rilis 'GTA VI'"
   },
   {
+   "id": "kesehatan-202611181412-a7c1",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Ebola outbreak in DR Congo remains global health emergency, WHO says",
+   "src": "Latest news from Azerbaijan",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hnUHFjOHRTYlUyejZsN3l2Tm9SeElZWlhpZ1BnSUQ0MjM2b2Fkc1lBcFNGRmhOaWJscVpLZjJuaWxGcWIzQTh5dVdDXy1JVktQckNVMXNpXzRZRVNpSkU2Wm1HQU1sZmRWTnJrN3E5eUxNM081RFNKUXN5YVc5Nmx5U0VfUF8xeFZDdWJOSjktZw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-18T14:12:45Z",
+   "last": "2026-11-18T17:34:06Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces",
+     "src": "Bioengineer.org",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtDWmxKYWUzSG9ucHZ0LUxWd0duQUx6aDl0NmNpTC1BbjJtSFA2NkNxY0pCbE5LQ1JGOE1FbC1wQm1sV2VrVWprd3RTSzl4RjRJU1g1OEV3dkJ4Szh1ZEU2aDl0ZjJNUTJ2UXpfQ3AtMURCWUJ2TTNfQlZ2ZFlmRHVwc0VxVHh0aVNZbzJDd0FwSnh2LTRxbW41VmxoR3RrZFY3VWdpZE8xYU01RWxR?oc=5",
+     "t_id": "Wabah Ebola Bundibugyo di Kongo Melampaui Tujuh Ribu Kasus di Tujuh Provinsi"
+    }
+   ],
+   "title_id": "Wabah Ebola di Kongo masih menjadi darurat kesehatan global, kata WHO"
+  },
+  {
    "id": "siber-202611181529-2031",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -308,31 +292,6 @@
     }
    ],
    "title_id": "Mengapa begitu banyak pemadaman teknologi penting terjadi secara bersamaan"
-  },
-  {
-   "id": "kesehatan-202611181425-a5d4",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "U.S. Officially Loses Measles Elimination Status as Outbreaks Continue",
-   "src": "Johns Hopkins Bloomberg School of Public Health",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSlNmMnhaUjB3NnR3QmdDVDZvZktvZWNIU19aQ2VzQ01UZHFhWUduZ29XZWM3Q09kY2Y1bGlQb3EwRzBmS1I5NkkwNmdYVmN6TUY0Y0tQWjgtaUNBTWhmeDE1eGRoNE9QM1pfRUt4bV9tdWpackg3WUVLVGtPRXlzWmd4aEEyOUNpQXBzSDVR?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T14:25:07Z",
-   "last": "2026-11-18T16:33:36Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Black Wellness Edit: Measles Outbreaks Cause Loss of US Elimination Status",
-     "src": "EBONY Magazine",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXlvUTNMTkhXV3NNYmp6bnF3cHpUSzBydU00cTJkRlV1ckJDd3pTXzdVTGEwVmdYOVR6dHRBa25UNVdRWVB4WEw2Z3AyMnZ2Z3lORDZhQkdnTFdzb1pmY29xQ25Za3JwZ3AtQzU0VmVZUG1WQXhaMmhieDRHTGZGaVh3?oc=5",
-     "t_id": "Sunting Kesehatan Hitam: Wabah Campak Menyebabkan Hilangnya Status Eliminasi AS"
-    }
-   ],
-   "title_id": "AS Secara Resmi Kehilangan Status Eliminasi Campak karena Wabah Berlanjut"
   },
   {
    "id": "siber-202611181157-c3ae",
