@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T05:40:54Z",
+ "updatedAt": "2026-11-19T05:55:29Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,19 +10,14 @@
    "title": "Kuwait Repels Iranian Drone Attack on US Hosted Airbase",
    "src": "SuaraGarut.ID",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DQ2NzRXVNd2pUMm1TQm1FMnRuVVdBMGhYMjZBT0RlLVoyR3ZadnNsX18yOFhoUmw4MUVWZFgyVzlvbDNiQVFvV1dKNHVqZkYySHp4UUtheVBuUTBud19jTHVoNDRXdXB4UGFr?oc=5",
-   "sources": 15,
+   "sources": 6,
    "recent6h": 1,
-   "score": 15.5,
+   "score": 6.5,
    "level": "besar",
    "first": "2026-11-18T05:29:45Z",
    "last": "2026-11-19T04:38:31Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Iran hammers US drone, missile sites in Kuwait",
-     "src": "https://aapnews.aap.com.au/",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTRSZ0JnbXE2bk5nS2VhYk5EdXIzYUhpcTE1SWxkNGF3UUdJbHh2MGR0OEVOWGdDTVowV3JWZTZqSF9Oa1l0TUZIQ00zQ2NIdDJXRlZvbWRYdXhQRzNPYjloam0wV0FIcnBTZDd3eHBWNHowYnJPZUpidDNXM0F4S0VoX1BwYjBBZnRETHMyUQ?oc=5"
-    },
     {
      "t": "Houthis claim missile and drone strikes on Riyadh, Jizan and Khamis Mushait",
      "src": "Al-Bawaba",
@@ -34,10 +29,58 @@
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUFFWckc2ZFkzSFlZcmxSa3g3aDFqd25JeXFkck42WlkzcDNMdDVBQkRJZ2dRWVptSTB3REZwdzh6cEF4ZDhmM0tqZDQyRk4zVHVSNi1ER0tYX2dJZ2M2OW02SGhUM0RmSlBoTi1WT0F4TXRFZF9PRThTd0lWUklrRmpvMzlvZjNpM1I1ajFCNDdCY1k4OW5wa1I2bEVpSmVqWnZmWnNfaVkyR2ptRzBTUGlYSWZoSlZFc1YyRVZMSmFjRlBhcVY4VVpwUm1GemRFNXfSAdcBQVVfeXFMTWY4OHRuQjN1Um53NXF6MFJzOWU0VEU0UWNXNGhJc2s4Z3NYZlJSNDlodXVDcWtLMjE1c3BvYWdJZ2FHUVdGRXJ2NVh6ZDd2anptNDJlbThIT25MWTNtSVk0bl9XRDlrQW82Z1JRRlIzRnQ2NVNTd2s0UjdtVkpLZjhxbjI1NG9YVG1jU3B2enRJQjFCR3dkYXE1bUVpZlFMUXVVM1pLMGdKaVIzMkplVWFXSmpFdm85NHF2a0NZRE5ycVVtbjBNUlF6LXR0T2xQR2xlUUZUWW8?oc=5"
     },
     {
+     "t": "U.S. Strikes Iranian Missile Site After Drone Attack",
+     "src": "IFCJ",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdENsNzVIQ1A4ZGRIeXdTbmhheWR6cU5QQy1CbDR0bDhBSUVmM2VfcWpBbzhvTC13bzU5c3pGTkQyN3ZXQTdYdmk5SFEwcmhuRHhVdktwS25mdU4yWFhrd29pX01CX3Y4R3Y3bndZWlBUZ05sMU9BRlF2Y1hoTzVEODZBeHRoNUgzbnp6dzVJdTZ2M3c1U1hlbWVZVG03ODNQ?oc=5",
+     "t_id": "AS Menyerang Situs Rudal Iran Setelah Serangan Drone"
+    },
+    {
+     "t": "Kuwait and Bahrain announce they have countered Iranian drone attacks",
+     "src": "صوت الإمارات",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTVfdV91SERvajVqRmgyb3d3WEtJU0xJUzdJcmRhSm1VZDBzYUF1SkFZWFcwOV9MRHc1bVRHZW4zQXk3eHZlVmVDd3hpS0Zwakl0Z0I2ejdnd1Bqd1Nad0l3ZHdlWkRIa1pfRjFOcFVHQ2dZbFctWmN0ZGpaRUlmOEVPd3NmRzRtQk9FTWIwV1Q5RXJGRGY0QnZKM3JqN3VKY2xISnBWX0pDSXJVbGU2SHB2a1NZdmlPOU1XUWJB?oc=5",
+     "t_id": "Kuwait dan Bahrain mengumumkan bahwa mereka telah melawan serangan pesawat tak berawak Iran"
+    }
+   ]
+  },
+  {
+   "id": "perang-202611180623-c232",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Iran hammers US drone, missile sites in Kuwait",
+   "src": "https://aapnews.aap.com.au/",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTRSZ0JnbXE2bk5nS2VhYk5EdXIzYUhpcTE1SWxkNGF3UUdJbHh2MGR0OEVOWGdDTVowV3JWZTZqSF9Oa1l0TUZIQ00zQ2NIdDJXRlZvbWRYdXhQRzNPYjloam0wV0FIcnBTZDd3eHBWNHowYnJPZUpidDNXM0F4S0VoX1BwYjBBZnRETHMyUQ?oc=5",
+   "sources": 6,
+   "recent6h": 0,
+   "score": 6.0,
+   "level": "besar",
+   "first": "2026-11-18T06:23:24Z",
+   "last": "2026-11-18T23:31:41Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
      "t": "Iran claims drone strikes on US base in Kuwait as Navy faces missile shortages",
      "src": "Minute Mirror",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmdXU0hyRVV3QlhUM2ZQZXl5RktTbjNMS0dJMHZ4cDJKSFI3MlRRSHpDTDNtLWZjUzBXLV9MajdDQmNnSU1IM0dBUFdJSTRRdmhfdVZUell5RTIzSXFqYmtTS1VYZUJsdkxNNm1fdzhmRzQ4UWhhSzlYdml1VGZRVmZwZ0ZiMFZLVklaTG9fMThzZzQ0ZlV0b2R6eG9DU3E0TTU5V3NXNFdqVmhXTzNYaU1aLUI?oc=5",
      "t_id": "Iran mengklaim serangan pesawat tak berawak di pangkalan AS di Kuwait karena Angkatan Laut menghadapi kekurangan rudal"
+    },
+    {
+     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+    },
+    {
+     "t": "Iran attacks US drone, missile sites in Kuwait, claims payback",
+     "src": "NewsBytes",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0NoNnRaRmhLVlZIbWt3NE5ENjRNQVZ5aXVaa0dUd212R1V0WFZyUThGZTVQVnJWQmhVMkEtSjg5MGRFek9DbTZXbElxaWs0XzlJdEtRUWoydTBHcWNKS0dtck04cHl2eEVyZ1ROT05ZY05KcnROb1NUamxhTnZsbGQ2c1Ztbkd0dXhoT01Ca3oyQUk5eERHck93YzVYcGs2NWdWMDZtaTg?oc=5",
+     "t_id": "Iran menyerang drone AS dan situs rudal di Kuwait, mengklaim balasannya"
+    },
+    {
+     "t": "US hits shipping route after drone attack by Iran",
+     "src": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2JUOEllYWxWd1hqVkdvcnFMWHI0b2VfeDBfZ1BwcE5qa3RKQnc5c3NKZU1PVE9jZGJDV2FqZ2VNeDhpNzd2QjY1dVJtM2x2Um52OThTMF9wVmRuRzVQTG1WaTNDakJtc3Z3VGUzbVU3MVQ5NEJVYV9jRldRcWQ4MFpELWU3RWN4S21WRjBoSGNfLS03b3RJVGZHc1J3cGM?oc=5",
+     "t_id": "AS menyerang rute pengiriman setelah serangan drone oleh Iran"
     }
    ]
   },
@@ -396,7 +439,5 @@
    ]
   }
  ],
- "errors": [
-  "keuangan: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
