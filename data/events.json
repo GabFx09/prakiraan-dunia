@@ -1,7 +1,46 @@
 {
- "updatedAt": "2026-11-19T22:26:32Z",
+ "updatedAt": "2026-11-19T22:41:09Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "siber-202611182354-c447",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "A.I. Makes More Tech Outages Likely, Microsoft’s Chief Warns",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzIwNVFQYVRJeDNJaWFLUUlpV0hRNEpaZ05ISnJYelI3dWJsbWNzallzNkR3eGJCRlpZcE43ZlRaQmJIWThMbkd5VnJtZTd6S1hFWDFHUXJJQXBSeEJNQ0l5M1JRQjZjR0F3eGI2RTQtLWlmOWJIUXB2YmFzamZ2cGtsM3MxVnQxUE5vUzgtWWNUU2lxNk1n?oc=5",
+   "sources": 6,
+   "recent6h": 5,
+   "score": 8.5,
+   "level": "besar",
+   "first": "2026-11-18T23:54:23Z",
+   "last": "2026-11-19T20:40:21Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Report: Botched Software Upgrades Driven by AI Are the Cause of Tech Outages, Not Cyberattacks",
+     "src": "Breitbart News",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUC1iMkJPUEl0UmdWdEk3Rlh5SDlscjFwOFVwX0dpRVJZQlNlclRFOC13YzJPSkZCVmNFaXhGdzVEWm45MGpiRDEzSjBNbTdKVURaX21WUTVTejBFVi1rNmg3Z05YbDVPV0JtTWdIS2lyLU94U3ZPbzBIQ3duYXRWaks5NmtrVk9MODZsYnJvRVM2SjdSaEI2Qm05SjhuZmJMYm5JTWwySGZBdnNUTGhid1Vqci1iRzhKUjZ1N3dNcjZTYkRNckJyNC1nRl8yUDFv?oc=5"
+    },
+    {
+     "t": "What’s Behind the String of Tech Outages Disrupting Business and Travel",
+     "src": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0JJUnl1VDI5VUg1eG0wdVprREg0N0pBYXNoQ0JhMFh0Z0V3N2tFdWo5eXgyd1hhRE9hMkw5WW5ya3RZR1dqN3hNNjJyY1JUVHlvaEpYMmVyQ0k2bHdoNWFyVVkzMXZqRnhGZy1IVE9PWjJzeDBkWi1IOGdDVG9TOURoMGxfVkkyOWcxclR5bU5DQjN3dlE?oc=5"
+    },
+    {
+     "t": "FAA ground stop, Gmail outages, banking disruptions — Sara Gonzales says it all 'seems a little cyberattacky'",
+     "src": "Blaze Media",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWmxlV093Zk4xZmxUUUhKeWc0S29iQUJlMGpOeFJ1bFZFQkl2N253RF9zWlpzUDNyUU1RQ2NqSUtoWlYxZ3dVSG5LX2tqNHpQSUtkRE1fUXAtWjNDb0MwdEZCVzdiRE9aRU9HeTRzZWR1RFFsMnFsQW5ySzFOU1FoV2FoLVFqdUpwT1JKckluUmRfbGpRa3JBa1VsdjBGRmpKUmJYREpmRTF2bWw3Tnp0RFlIaE9KdEtmcGF5ZlNGUFRDdXkwOURwb1NrOG9tVG9WVnN0NlFyN0VsazB5WUF3d0ZhSnNWZUY2c196ZW8yNkMxZw?oc=5"
+    },
+    {
+     "t": "Are tech disruptions and and outages the new normal?",
+     "src": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQUFiSTdMcW43Y3VUU1ZjbkNtNDZzWFdUY0k5YzdwMTVXSnZ1S3lfM0RCajVoT2dJc29taDlmTUppRkoyTVVvNUtvRGxIRTI5TjByNDd1QlBQSlVOekJHTkpEY01xY0RodW05QS01TVU5UThWcUNUeUQ2NnFadHliU1lVQXBYSmlrVW1FY3Vfc0Q?oc=5",
+     "t_id": "Apakah gangguan dan pemadaman teknologi merupakan suatu hal yang normal?"
+    }
+   ]
+  },
   {
    "id": "transportasi-202611182109-31ec",
    "cat": "transportasi",
@@ -44,6 +83,46 @@
     }
    ],
    "title_id": "Ground Stop FAA Menimbulkan Kekhawatiran terhadap Perjalanan AS pada tahun 2027"
+  },
+  {
+   "id": "siber-202611182300-22a1",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "NSA outage hits key facility for Middle East intel operations as agency resorts to workarounds, sources say",
+   "src": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQk0wUERwNVA3anJGSW1DbHhpNkFTTUZxR20yeUFCNWphcFluNjhuMFlEWldobkRDNTE0RFRFaDlRSmFGYW0ySGJEZU1UV2FCVWZfeHhLQ0FQYi14T2J2RTAxajZYMUhxSlM1aG5RNUNuYzUycXBhOEpNdXBNcnRNWFdmQXVSYWtKcnctenJUMnVHRkNNajFLdGxDeldtMzF0V1lWTQ?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-18T23:00:53Z",
+   "last": "2026-11-19T17:03:27Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "NSA internal communications outage stretches into third day",
+     "src": "Türkiye Today",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUJnNmRPTmdCNnc0ZUlkbjBBdnR2Qm1QcnNFcXIwdjladUxNZTF5WGdtNXJGWHl0RVRCRTdlSHBqbkpSX1l0UTdtOVJFam9HOVctN0NJWTd0SXZRTFA3R2tJeXI1elpURUxZRFFBTnlrVm1lcldTM3VONHpydzUwNEQ3RWtiOFZXSnM4NjFvRWFLODIybjY5bFlaYTlTWTNQU3lORw?oc=5"
+    },
+    {
+     "t": "NSA outage hits Georgia hub for Middle East intelligence amid Iran war",
+     "src": "Türkiye Today",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1NUSE9wNVdZNFBwRnNGcS05dHlSN0kzb21hRi1YbXdPRVd2SnFWdUhITjZFSW12bmhEQWphX0h6bHNFbTBEMEE2dUwzQl9CS0VuYTJtOUpZRDFhNVVzaFg2YV9YSkdPMWRZeWJBRWVYcUszbTBCOWoxYUphNWdCdDlWb3E1UEpYQTBKR0sxU194VTlwZURXSVFXUWFBVGxtdlRUeWlDcVFQeEtqMlRUbHhGdw?oc=5",
+     "t_id": "Pemadaman NSA melanda pusat intelijen Timur Tengah di Georgia di tengah perang Iran"
+    },
+    {
+     "t": "NSA outage disrupted classified US intelligence communications with Mideast amid Iran war - report",
+     "src": "The Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BaDJURjU0X29VVHpZZnl1a3FvSk5xQnRpcDJSR0NDM3FJcWZ5SF9JeGc3YjFqLUxvZ3ZSMDFaWmtnZEdmSXFJMlJabVMtN0FUamRzM1JYYUNOczZKblVz?oc=5"
+    },
+    {
+     "t": "NSA outage disrupts key intelligence hub that supports US operations in Middle East",
+     "src": "Saudi Gazette",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ0Y0RF9KcDNBcGdra1FmNVdMRUt4UVdDTEd3NmJ5S0c0eXdRamozV3BqLTdFTFBjUzRvSDNhdng5NC1MbWFhcmZDRXg4eEs0dnZnSDZ1ZUxzTGlvcS1VdGlheUc0ZHl2dmpMOEg2eXN3QlhxTkZoOUdyU2RfSE15NlhMSlpRT1BDQ3BoMFU0RXVidE5iWm9sdng3anJRamFtbk1hbXR1ajFTaFdwcHhwLTdfNU5qYnhBQUpxeXdfYTFxLUpkLTUxV1I4YS0?oc=5"
+    }
+   ],
+   "title_id": "Pemadaman listrik NSA berdampak pada fasilitas utama operasi intelijen Timur Tengah ketika lembaga tersebut mencari solusi, kata sumber"
   },
   {
    "id": "kesehatan-202611190216-108d",
@@ -108,6 +187,75 @@
    "title_id": "Serangan rudal Houthi merusak gedung tertinggi di Riyadh"
   },
   {
+   "id": "siber-202611191655-793e",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "The U.S. tech outage wave, explained",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWk5VXBVdVNQOGdTTS1iaE1IeWVEbmJXMmRabVhwV2RhcXJQb0kxRzJEV2FSbmpPY0lYLW85VXotSkRKWGtRWTV1UUF6UFVYQTM3Qm5YVzJkSm9YNHNBM2ZIR2c5blRLeHgwQnFCdzVSd1BqRmVzYmcxX3BHdmZIRHJJUGRRUkFnT0gtdDUwS3pQejFLam9FdWFSeVBPdGNHUHRJ?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-19T16:55:35Z",
+   "last": "2026-11-19T22:34:43Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "U.S. Tech Outages: A Household Outage Checklist And Family Communication Plan",
+     "src": "Concealed Nation",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFNvZU9KZGFreHhUUVBRRWprU2VlcGZQRE9RT3phVml6WTF3MWx3dzlYcHpyT3FFeTN4elpOMTlLM05VSmkxN3prWjl5Z3BWSnFhUUFPeXFDZ1pKdmN0dXhaT0stdTdMRTdnUlZ5V2JESXdCLTllZXRxUU52dmZFcUNOSllRRWhFT0JlRUJMdWpZOHc?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611192012-f9bb",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-19T20:12:00Z",
+   "last": "2026-11-19T20:34:02Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+     "src": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1UWkp5QmtjYW0wNmgzMm04Y295STZlSUdvQ3FwYzhoV01XY3R4S04xLUFPbnFpU0c1SU9iekhxNXlMZE4tS1FRSnRkeDBmSlVRcGZwc2FEOU80US1hZzZ5M2UyalFjZEE0Zmd6cjc3U1MxTzJfdFFtaXJEa1M3UnZJU1V3aVh6YXF0c3BVVkxDMmZtb1lPaHBNM0NIY2g0OUpOQW9tcW0?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611191712-968b",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Chase Says New Data Breach Unrelated to Banking Outage",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGw4QzhtZkY2d1ota0hwaGFhWTd2bTFYaVhMakRTTUU2RDBrWnBoR2wzbEkxMDFIZ1lWMWR2cDRaOWk2M2FiT2F5Z2VQUVB4c043VE82Slhac2FZTk1Xd1BhX3VySW1xazQwOTUzR2YwNmhmWGxyWENjal9hTzRmdXFaaGhQS0QxSlAxWFV0RnhvTGF2c3dFNWNJWko5U1BQckx3QzZlUWVhUF9wLTJqaU5Bdw?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-19T17:12:50Z",
+   "last": "2026-11-19T18:34:50Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Did Chase Bank Get Hacked? Firm Confirms Vendor Cyberattack Unrelated to Outage",
+     "src": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkh0YVhoajNvY0VwMjREMUdhWjFNank4d2RxVlphd0lVMHBEWFhJTU1LS1Mtdlo0ekN3U2NCTDBlcXpLSTZjT3E5NjRFSWlEamF6SFhncFlncjdDTUpscmpBU3hNLVNqaDdDNlNSTjZpa3g5eXd6NHA4WWxRMy1aU0lFdTZlVmxPT1IyYjQyWlJxdEZ0ZXFsZHZDNk9PRUdPYmxSem12SmlfNl9Kc3pQT0d6ckh0ak9UX1llVFZkSXhPQXZCY0FtMXY1VnRsbzg?oc=5"
+    }
+   ]
+  },
+  {
    "id": "perang-202611181557-1880",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -138,6 +286,34 @@
    "title_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
   },
   {
+   "id": "siber-202611190148-f09b",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Technology Outages Expose The Risks Of Digital Dependence",
+   "src": "Patheos",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDBtbVpyNVlaQ1JfUFYyNmNLRk5jcDJKdi00X2dFTTEzR0lsOXo4M1FQbGNCdS1mWFg1VXNiOFIyNm1sRWJpQW9Ta01IVUZQTDBIMEtLRXNTT2lvNDV4ZEFnU1NLZkt6NG9WUk12Z0xLRzZpbEg3NTZWRXJ2R1RNcUMyWVFBN0luSUlJYW00WUVTb3FkaTB5amJpeDQyOUpjSDJtaGJXVTB6T3Vj?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-19T01:48:26Z",
+   "last": "2026-11-19T16:18:45Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Digital Outages Fuel Conspiracies",
+     "src": "NewsGuard's Reality Check",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5V0pqQXFweDE5MUFHUmlmSFZoTXRJM0dfMzFDa2tkMGVFQ1VyaFZuX3M0UXBxcno0X1ZBVlUyc2xVUndGVWNpb2RlOXhuNzFZbVZFN3poRklSQm0yLWRDb29zQ1AtY25TUl9BQ1luYzZkMUlTOFFIb2h0N0dfQQ?oc=5"
+    },
+    {
+     "t": "Cascade of tech outages raises alarm over reliability of digital infrastructure",
+     "src": "KEYE",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHVLSURIQUpyNEdDS2w0VzNVYjk3d0Q0aWNDQVJob2k4RFF3ZFUzX3pRNWR3MnZFNkdfWW9VWlluS2oteS12RnQybUxqSEsya05fV2hkN1pXc19FYml2ZXN0SnJOY25NckJtZzFIRlFCakVweDF0cE9vVTd3TWRrdy1VR3prTElYYXp0ZEdfcW04amRqNnVaRHFSZkxEemlLTW55TVc3NWNMZnhoellaQ0RWTmxjcXpGMTA0?oc=5"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611190110-84fd",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -164,30 +340,6 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUc3SWJiQ2xKMGlaVXktcjluYlpEOGFrTG5LS0NyeTUySVlZSm9KRGdrR0l1dm1iSXE0V2pyZnZxX3FFWUljS2FiSWNrd0FrN1p3Ny1ZcE5yQ0J6OHFiXzl3c2dXVGNSQlczQ2E3Y1F0b0ZWVG83eTlfaWg2Y3Niam81WDl4TXZnbmkydmhlbVotUWtfeVRxODdzejZhNkxJVHlrTVlUMjZKOEg3eWE2Tg?oc=5"
     }
    ]
-  },
-  {
-   "id": "siber-202611182208-1780",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Are tech disruptions and and outages the new normal?",
-   "src": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQUFiSTdMcW43Y3VUU1ZjbkNtNDZzWFdUY0k5YzdwMTVXSnZ1S3lfM0RCajVoT2dJc29taDlmTUppRkoyTVVvNUtvRGxIRTI5TjByNDd1QlBQSlVOekJHTkpEY01xY0RodW05QS01TVU5UThWcUNUeUQ2NnFadHliU1lVQXBYSmlrVW1FY3Vfc0Q?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-18T22:08:37Z",
-   "last": "2026-11-19T18:21:01Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "NJ experts explain what recent outages reveal about modern tech",
-     "src": "Bergen Record",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSE41cEM0VklMUTMxX2QwdHd6MEoyZXdsY3kzUTUtLU43TmVMbzB6ajBUV2t6MDVqTC0zYlFDTWxWa21ta0FFNkdrZkZ1dFJTa0JCT0x1eXZheUd6SURGLUstLWRBSU1RQVdQYWQ2QThGNFlIQ2xYaHNzbU9zelhKSGprcEQ3RW5RNU1zRTZVVzdxTEdfUFpCdkZfTzBzZGJETExjcENldC1MLWNHQkE?oc=5"
-    }
-   ],
-   "title_id": "Apakah gangguan dan pemadaman teknologi merupakan suatu hal yang normal?"
   },
   {
    "id": "siber-202611190352-34e3",
@@ -284,32 +436,10 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFlyTm1rN2pleFRvQVNJa3duRVRHTVZ3NU9xMnpuQUFfRzdlZjFrMTJsTnFIbFg2VjBQaEpYYWozSER1UTZfYm5XendKa3VxdXkxNzhGMUNvWk9RWTBBczZNV0FTTjNHMXZJMlFNVEJSZVc2b29IVjBtaDlZN0JLQWViSzdQZw?oc=5"
     }
    ]
-  },
-  {
-   "id": "siber-202611182300-22a1",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "NSA outage hits key facility for Middle East intel operations as agency resorts to workarounds, sources say",
-   "src": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQk0wUERwNVA3anJGSW1DbHhpNkFTTUZxR20yeUFCNWphcFluNjhuMFlEWldobkRDNTE0RFRFaDlRSmFGYW0ySGJEZU1UV2FCVWZfeHhLQ0FQYi14T2J2RTAxajZYMUhxSlM1aG5RNUNuYzUycXBhOEpNdXBNcnRNWFdmQXVSYWtKcnctenJUMnVHRkNNajFLdGxDeldtMzF0V1lWTQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T23:00:53Z",
-   "last": "2026-11-19T07:59:04Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "NSA outage hits Georgia hub for Middle East intelligence amid Iran war",
-     "src": "Türkiye Today",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1NUSE9wNVdZNFBwRnNGcS05dHlSN0kzb21hRi1YbXdPRVd2SnFWdUhITjZFSW12bmhEQWphX0h6bHNFbTBEMEE2dUwzQl9CS0VuYTJtOUpZRDFhNVVzaFg2YV9YSkdPMWRZeWJBRWVYcUszbTBCOWoxYUphNWdCdDlWb3E1UEpYQTBKR0sxU194VTlwZURXSVFXUWFBVGxtdlRUeWlDcVFQeEtqMlRUbHhGdw?oc=5",
-     "t_id": "Pemadaman NSA melanda pusat intelijen Timur Tengah di Georgia di tengah perang Iran"
-    }
-   ],
-   "title_id": "Pemadaman listrik NSA berdampak pada fasilitas utama operasi intelijen Timur Tengah ketika lembaga tersebut mencari solusi, kata sumber"
   }
  ],
- "errors": []
+ "errors": [
+  "kerusuhan: HTTP Error 429: Too Many Requests",
+  "bencana: HTTP Error 429: Too Many Requests"
+ ]
 }

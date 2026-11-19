@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-19T22:26:16Z",
+ "updatedAt": "2026-11-19T22:40:53Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price on Nov 19, 2026 at 6pm EST Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTFsWWZyelJwVExSOENVTTJsSjN0VHpsYlZtV21JazBtNjg0aGZmamNfdkUzNzZ5NXJ5bDhnT2pGREJmLWxZWlNDdTdKNklXY3U5R1p6cTNSUEZiVDVhTWozWXBtOEFBNFFTYTBibERZWVZrY3BwcjQtcHNwM3VSQXFpVVBvbUloZjkzSVJyUnJJYmp0bm8wYVBMcGpjY1RuX3V3WlcyTy1UanA3Unc?oc=5",
+   "time": "2026-11-19T22:25:06Z"
+  },
   {
    "topic": "saham-as",
    "lang": "en",
@@ -45,6 +53,15 @@
    "t_id": "Saham-saham anjlok karena investor berlindung di tengah meningkatnya ketidakpastian"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Anthropic IPO: AI Giant Rallies As Tech Stocks Slide",
+   "src": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43dEJ4ejMtNGsxc0xXMlpBN3hHdW9vcUV4aUVWUnpJdFBCek1iMG1VNHYyU3MtMTVoZ2licm1VODlJcE5HZGw2MFItNHBCb01wNUEwaHlCam8tYlBaelNmbVl5SVl6ZTBIV2tlQkhaQnVTUjZtTi00RkpMS3hRQlE?oc=5",
+   "time": "2026-11-19T21:24:00Z",
+   "t_id": "IPO Antropis: Raksasa AI Menguat Saat Saham Teknologi Merosot"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month",
@@ -52,6 +69,15 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xUzZMczlWWDUyOXlmX1hhRl9MTExhRWp3MkR4WXJuMXBLdmJHOXEybWs1UEp6R2xzSmxPakhuTDQyVGlsbTVlRlY2MWI4aEtSeFpVWUVqbXNQRlpCQnpUMC1fYkRyYlhfWVVROTNTanN5MlRWQ3pB?oc=5",
    "time": "2026-11-19T21:04:11Z",
    "t_id": "Harga Bitcoin Merosot Di Bawah $62,000, Jatuh 25% dalam Satu Bulan"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Tests $64K Amid Anthropic IPO—Then Falls Back Near $62K",
+   "src": "Cryptonews.net",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JdWlHZEVISzFUdkc4akNHYkRMZ05XbzNTWkU3SmthV18taThCajQxRl9ON0pMd3dHbjZGU2tCSThVRWR3NVVZZmhPSEdlRXg1U3JuWGZuSGM?oc=5",
+   "time": "2026-11-19T21:04:10Z",
+   "t_id": "Harga Bitcoin Menguji $64K Di Tengah IPO Antropis—Kemudian Turun Kembali Mendekati $62K"
   },
   {
    "topic": "emas",
@@ -81,15 +107,6 @@
    "t_id": "Strateginya Bernilai Lebih Rendah Dari Bitcoinnya, Media Trump Mungkin Harus Menjual"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price range on Nov 19, 2026 at 4pm EST Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFhvbENKeHBRT21NVUhRNENfVE1XbkNtMXRZUHlxUXdaeFN3YWZjMEdISnYyYjJpZlE0d1ZEcElhWVIxOTN3czV0TmUwSWtKVldaTmJwYkQybDhacUI1WTNLak1CeUNTQ3k1emJxTTRVT1RNMnRRV2l3U0FBeVRfQU1WSnRLdC1Ob0VJTDZTdVF1MnVQZ29mMHlNMm4tYUUzb196SjM4LU9Oc0psUC1RaVdIT3N2QQ?oc=5",
-   "time": "2026-11-19T20:03:41Z",
-   "t_id": "Kisaran harga BTC pada 19 November 2026 pukul 4 sore EST Prediction Market"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Iran Says Deal on Strait of Hormuz is Close But Will Not Open the Waterway by Itself",
@@ -97,15 +114,6 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlVMcFlqcUlsZm1YaXlHOFFCQ0Q5cDRNbXBUUGl1d1FTQVB2Y2NWUWQ0Y3dTWnVXRnZ2MEhVa2FzQ0xicW1LQWdCcll4Tl9VRS00blhiMVJoY0x3S2RyLXlXR0cza0s4aXRRNnozZllMWVFoVG5oYVl1dV9PMXdUekZTcExwWlZMVnNsbHVObVN1R0x0blQwTVEwMFR1Wl9BUFg2TWxrREliSU1kR0I3bG9idlNEdw?oc=5",
    "time": "2026-11-19T19:54:16Z",
    "t_id": "Iran Mengatakan Kesepakatan Selat Hormuz Sudah Dekat Tapi Tidak Akan Membuka Jalur Air Dengan Sendirinya"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Canada and China Draw Closer with Expanded Trade Pact",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
-   "time": "2026-11-19T19:48:43Z",
-   "t_id": "Kanada dan Tiongkok Semakin Dekat dengan Perluasan Pakta Perdagangan"
   },
   {
    "topic": "geopolitik",
@@ -152,6 +160,24 @@
    "t_id": "Saham Nvidia, Intel, Micron, dan Dell Melonjak saat IPO Besar-besaran Antropis Memicu Reli"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold prices could fall another 5% to $3,500 as Fed tightening fears grow – Razaqzada",
+   "src": "Kitco",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb21Fc1g4Vm1ScFJ0ZFRiU0N2Mnktb2tyVWFZMFZPVlFyNm9UanhzR09CXzdteUxJdFdDemgwbXJBSjktUzBObDEzZHJTT1lhTF9PT2Z6U0lnNkhhTUNnT1ozaWt4WmdIWENSXzhYdTVRVXBGc2dwMU1LR0duVy00czM0dHlmQkxfNVplZWo3ZmFoanAyVXktTFZPVGRuOGc4R0d1S1hjNk5wTDlHZzQycVlDUHRhNktLMGxJ?oc=5",
+   "time": "2026-11-19T18:45:27Z",
+   "t_id": "Harga Emas Bisa Turun 5% Lagi Menjadi $3.500 Karena Kekhawatiran Pengetatan Fed Meningkat – Razaqzada"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Current price of Bitcoin for November 19, 2026",
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaemM4RjBCT0VwNHVnZkdTTUFBVjJoMkQwOW1VMnlhNHJJVnVlbVlQTW1feFZ3SFotcTc3VDE3MnkwNnFyMmFLUkF6cTdSM2tiOUZvdE1GUnZpQ2RiMWVKemNZV1RvSDQ?oc=5",
+   "time": "2026-11-19T18:32:08Z",
+   "t_id": "Harga Bitcoin saat ini untuk 19 November 2026"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Federal Reserve H.15: Rates, Formula & Guide",
@@ -159,15 +185,6 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53TVk3b3VUZlRaZWxuckp1YlB0b3REZnFGbEtkQlYxSV9NQ1ZNSS1Kbmh2X1NWZG9WN05wSjNFMkxCYndIRjlFOHlKZ1FvSGd3Ukt6T0ZpLVdEZw?oc=5",
    "time": "2026-11-19T18:25:41Z",
    "t_id": "Federal Reserve H.15: Tarif, Formula & Panduan"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "FOMC Minutes Resurface Rate Hike Fears, Dragging Bitcoin Price to $62,500 – Is $58,000 Next?",
-   "src": "Coinpedia",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHN2UlBBN2w3YjhMZW04d1FmQ2VZQzJCbnAxUGMyV0JORGVYYWVLdE9YcEVPbGpkN012VVlXYV9ISUNLSTJBMFJsUVZyNjg0TUQ2a0tSV1V1M2IyOGRjNWg1VlNJY2F5WDNSc0NpSkxzY3l0ZlhrV24xTThsanNVVk1Gb1psZXBNbHJlb0hrTUpqVTROX2stNnJvZXRBQ3Bydm81WWFBSi16TVUySENETURfUVR4V1dvdndVUzVEa9IBxAFBVV95cUxPbHJaeERZVmljQ0NiVzBIUDk2NEF1OTJNeVFVSHplNnlnLTcyRnlDYVlRaE1FZkxTSHNXeXJxSW9pZy1uX2dfNDR0T0QwamwwOXlyVUJJTXlYNDVHODBjclBXd24tVHdxMnlVTUV1NVY0dHM5TG9nckd0ajktTmtWcFU2ZERDTndOT09fY1ZxdE1KdEMwbm1OdnlMZXh2LXRjcVBsRTgtV2Rqdk9kMXZsbGp1V0xCbkdxb2sxOHpkYm9YT1Jt?oc=5",
-   "time": "2026-11-19T18:05:25Z",
-   "t_id": "Risalah FOMC Mengungkapkan Kembali Kekhawatiran Kenaikan Suku Bunga, Menyeret Harga Bitcoin ke $62,500 – Apakah $58,000 Berikutnya?"
   },
   {
    "topic": "saham-as",
@@ -197,14 +214,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Bank Indonesia Raih Penghargaan atas Kedaulatan Rupiah",
-   "src": "Peradaban.id",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMmkxOFpTYXdYbkk1bzFKZzdKbHNrNXNkcEY0dzNEanZQZnJpaGozYnhBNHJrc09qc0ctSnRleU0tdjZKV1pBeVdWZkl5WlRwUkJWNUNNZXl6SUpCWjhobUZjRW9IUnRULThQQk1OYjFwZmc?oc=5",
-   "time": "2026-11-19T16:01:08Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Bank Indonesia Raih Penghargaan Kedaulatan Rupiah Internasional",
    "src": "Demokratis.co.id",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SX2JMWFU5VGJxVnRJemdtMmtFMlp1a0FvOGNWVHR0QmhPT0xLYTVQQmtfcWRLcTlfLWpIMlRvaVlPS0xscmI1MnozUlpzUzFZMzhjNWRFU2JjUC1kLTBrWFZoWlV4bG5rYWlvQ1dmR0NiM0lSZnF3aA?oc=5",
@@ -213,11 +222,11 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "Bitcoin Holds Above Weekend Low on Coinbase Amid False Price Alerts",
-   "src": "The Defiant",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2F3TEdQdzdqNF80LVNQMElrWFo2aXY4eUVxVGsyUWZmQkZ2YmJ2SkZJbnUzdHloMzFmNHZUemFxME93cVphNEwyNTF3MEhlREJsNmNmZlAwTnNndUk3bG9YNnkyMS0ya1k5aFRDdTBLZ0ZhTlYxUktpTUREWWRLb1EwQ3A5Z2R2LXdwR1FqUFA4cURNNnJ6U1VOcHNFMTVORndZZA?oc=5",
-   "time": "2026-11-19T15:55:01Z",
-   "t_id": "Bitcoin Bertahan Di Atas Terendah Akhir Pekan di Coinbase Di Tengah Peringatan Harga Palsu"
+   "t": "3 Ways Bitcoin Price Could Hit $1M, According to BTC Bulls",
+   "src": "CoinMarketCap",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTNQRU1pXzUxTVBaV256Wlo2MFdfaFAzdjFJbWgyRjRwUGNXVUZ4ZDRGUjUyenhPb0tOSWFYZ3RpQmVXU3l3cE5aZnJOcUZXbzZxZHZ4Nk5PVHV4akdPcDItQ2Zrb3JUaTRwdHMzMWFoWDdGWUhJVEE0dUNaM055TmpTdFV0Z2oz?oc=5",
+   "time": "2026-11-19T15:57:43Z",
+   "t_id": "3 Cara Harga Bitcoin Bisa Mencapai $1 Juta, Menurut BTC Bulls"
   },
   {
    "topic": "geopolitik",
@@ -272,15 +281,6 @@
    "t_id": "Tahun buruk emas semakin buruk. Mengapa harganya terus turun"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold price approaches $3,700/oz after U.S. weekly jobless claims rise to 203k",
-   "src": "Kitco",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVJLQzFSdGVvbXU2dzNqeWsyZlk2RmliQUhWQ05UaTI4bWg3eUJyTnBqQzhpdHlZczUwVm5WbzJsWXc5OXVtSF9kdTRKR2dINFJNTHhTUjhNSzVMUGRoU2VCSFR6YkcwSFREcFo4WWlkamtjMmk2Nllaa1c0Mk5tNVM4OVUzS1V6eS1SWU1NcnVvbTVMT0lMVGQ3M3pYUUtMVXlqS2JpUkpXQUktcnZRRDRXSk5yQQ?oc=5",
-   "time": "2026-11-19T13:30:24Z",
-   "t_id": "Harga emas mendekati $3.700/oz setelah klaim pengangguran mingguan AS naik menjadi 203 ribu"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI Hadapi Tekanan Rupiah dengan Kenaikan Suku Bunga",
@@ -298,13 +298,12 @@
    "t_id": "Harga emas hari ini Kamis 19 November 2026: Harga emas dibuka di level terendah dalam 14 bulan"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Current price of Bitcoin for November 19, 2026",
-   "src": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaemM4RjBCT0VwNHVnZkdTTUFBVjJoMkQwOW1VMnlhNHJJVnVlbVlQTW1feFZ3SFotcTc3VDE3MnkwNnFyMmFLUkF6cTdSM2tiOUZvdE1GUnZpQ2RiMWVKemNZV1RvSDQ?oc=5",
-   "time": "2026-11-19T12:02:08Z",
-   "t_id": "Harga Bitcoin saat ini untuk 19 November 2026"
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Gubernur BI Akui Jaga Rupiah yang Melemah 8,47 Persen Sepanjang 2026 Jadi Tantangan Berat - kumparan.com",
+   "src": "kumparan",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekFHeU1xWWx3MUNKZkotOFNyLXY2VzdBREJIU3pZOU05SENOTklLWkdDX001TnlrSFI0ZlVMMGhwQVpDWVY4TkJfbFdyRnkwMFRORzNISTFKeHZpY21VSWRxSFcxeWVoU0l5SE5HZ0RuNTJBcGVDcldMYXJ4dzZ5TlU2b2tLcG1NTTN2VmNJQk9jazVmck45S00tWFBfU05RbVQxaVk4VjNLWmZzNXpmQUk5NFRrMlZraWNTR3ZWcWZYdlpmZ0xOMTJ2cEg2ZDZ0aTl30gHbAUFVX3lxTE00XzctNHdJQUJvMmVrbEFnbURYTDg0cFBfLWI5T1FwVjNhUWFkYjhCUm1WcFluMnBqeUkxOGNZUGk3SXNnT3puQlE2Sm1kOVBLcHdWWnlCdjdIUG5TeEhGM3lyMFVNX3l0dEd5SmIxWVhhU3FpRWFielBaX3lWR2EzNjBIOEFGS0gtSkxFQU9kcEhXZWUxX184cHIyWW5uMndORGJLQlRINWo3dmpKZFI2NldYdWxZRzB4ZWlZQm9UZ203eGRTR1BsUUNLc2tqQl9lV2lZOFEzSUI2NA?oc=5",
+   "time": "2026-11-19T12:17:00Z"
   },
   {
    "topic": "emas",
@@ -515,7 +514,7 @@
    "t": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June",
    "src": "AP News",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
-   "time": "2026-11-18T21:39:00Z",
+   "time": "2026-11-18T21:51:11Z",
    "t_id": "Penurunan kelima berturut-turut pada S&P 500 menyeret Wall Street ke penurunan beruntun terpanjang sejak Juni"
   }
  ],
