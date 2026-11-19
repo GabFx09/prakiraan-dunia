@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T23:10:31Z",
+ "updatedAt": "2026-11-19T23:25:12Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -46,35 +46,40 @@
    "title_id": "Ground Stop FAA Menimbulkan Kekhawatiran terhadap Perjalanan AS pada tahun 2027"
   },
   {
-   "id": "kesehatan-202611190216-108d",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "perang-202611181557-1880",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-   "src": "Big Country News |",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGdid1pBZHI0aGRidklTSUVlUks0U0lIVFlQdzUyMnFadWFUZTJCeG1meVV3NkozNzluOXFZQ0JjeGZ6WjEzV3FDZzNWWVgtRXNxRTFlTEVrZWQ5cWtqRDZQdkRZTTdyS3p1NmZUN3p5dklXcUgxXzNEcU5VdFNfbDJfQlNScDZEOUtZVGFUQnZKeTA5TzlsRjVxMTBoSWttUWUyNU11QkVxaWEyTWFVWW00bnpJY1J3N052dnI5NHgyT09BZl8wWA?oc=5",
-   "sources": 3,
-   "recent6h": 2,
+   "title": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
+   "src": "Funds Global MENA",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
+   "sources": 4,
+   "recent6h": 0,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-19T02:16:03Z",
-   "last": "2026-11-19T19:39:10Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "first": "2026-11-18T15:57:13Z",
+   "last": "2026-11-19T16:20:41Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
-     "src": "Stateline",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWmg4RVJHbkdqdGtiQlFwTGotQ1g4UV9vYlJhMk51bldzRzYxZEt6YTNTSHNndEphU0dkV21SNWoyN1lBMTNBeS16RU1UV3J1TlJoMDQxYUhoRm1kVVVaTHNoekhWZ09weUk1UVRVSTJtQ1I3UnlaQy0zZnU4X2d4UGdESXZDZldYMDNKVFV0cXZIR1Z1ZFU5QWdFYk41MlIyY1lFdmZFdlA2MklFWF9ZQ2lNNUs5WGt6SUZRQWVB?oc=5",
-     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
+     "t": "Houthi Missile Hits Riyadh’s Tallest Skyscraper Housing Saudi Arabia’s $1 Trillion Wealth Fund",
+     "src": "Bloom Pakistan",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXZyd3poeS00VldZbnZ5cUxVaDduQWswMl9mOVBqZE1MRTNzdnBBV2VDTlFaU1JjbHFqaU1XVEpGRkZHdU54bWJVZHN5Sm1tLW1JajFqV3lOOTFjNHM5d3lIS2hsaXNFYXEtbVRqUTNfQnpvTGt6d2g3NDBEd200MlV3?oc=5",
+     "t_id": "Rudal Houthi Menghantam Gedung Pencakar Langit Tertinggi di Riyadh yang Menampung Dana Kekayaan $1 Triliun Arab Saudi"
     },
     {
-     "t": "India develops first home-grown H5N1 bird flu vaccine for chickens",
-     "src": "The New Indian Express",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG5pOVRwdDlWUWJtbW9PRUs1Sk9QUHdmQllkWmNISmdBZ0F0eDFYXzZERmxkOE1teGl6VENQdE41M1JZYTRJUWFSRzdHcHNkRlpleVZ4Z1hpcnFVb0FHR05jdERnQVNfOTZPaTRFeEFjRml4UHJaTXYxUHExai1GZ3dKbTUwRWVkQXpKNE9rd1JSYnlncDJFR3B3VFllRHI3eE9TeVQtVTktRDYtNjZ6RXIyWFRRUUJ40gHGAUFVX3lxTFB4NlNVSE1VRzZJZUhrcXAyNmdQQlluWUhWS3BraWttY3dIdmRBcENZMVNCZHpYanVyMmd3Y3hLMjNTY2gxeFlSczRhSC1peUpocDV1cktBSGZwelpWRWlONzhsb2x3VHZjR0ZyMXRtTnVHUThtdUNic0Z2cGRSdS1qYUtQbkRaUTVwbHJlVC01MzJNR1FnamRQVkpqZmE1UTMxUGptajJsS20zMXFBYkt3TndxQTlPMXdlemR4cVVNQjRWTEVFZw?oc=5",
-     "t_id": "India mengembangkan vaksin flu burung H5N1 pertama yang ditanam di dalam negeri untuk ayam"
+     "t": "Is it safe to travel to Saudi Arabia? The latest advice as the kingdom faces a spate of missile attacks",
+     "src": "Condé Nast Traveller Middle East",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3UxWmxyRkxGTUc2bDEtN0tkeTlUVDQyek16UTVGNl9rdzFrVWNoZkEzUVdnZW5mZlBOY190dTVBMENMbWp6T25KV0x6bDRvZ0VVUzhRVEdkeXRfZ21NbGhrbE14QS1fTkt4YlpSRG52Q1BkSXVoX0dPWml0QldsMVhkYkVsZWliQkhRWFVXUm1GUW94cGU4MFFTb29Pb1ZtX2RLd1VsaGhHa3hHMVJjdnpSYXNwdHlRcllFbThlSE5HQTg4eHdLZEVfNG9HYlI0Ry02TA?oc=5"
+    },
+    {
+     "t": "Large-scale missile and drone attacks target Riyadh and southern regions of Saudi Arabia",
+     "src": "جريدة القدس",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV09nNEtCSDNRNndkN0VmbGtCX1l0aFM5LU12eFZWM2Z0NU1PTXlxbGxkTzVoeEp3dVhaYUpnZWhWRXlZQnk5SEJHQUs0RVk1XzUtYUxWUGxmd1RRQ252Ym05WDltckJJZ3ZqNGx0Q0FfM2d3QmgtT19rZVVZVTF0MG11cjBVOWw4T1BaUmZMRTZ2M2pOV0dkMUdoNzVMM05kdkNCTE9CS3JjWHJRbEhR?oc=5",
+     "t_id": "Serangan rudal dan drone skala besar menargetkan Riyadh dan wilayah selatan Arab Saudi"
     }
    ],
-   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
+   "title_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
   },
   {
    "id": "perang-202611181557-1880",
@@ -108,34 +113,27 @@
    "title_id": "Serangan rudal Houthi merusak gedung tertinggi di Riyadh"
   },
   {
-   "id": "perang-202611181557-1880",
+   "id": "perang-202611192020-d851",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
-   "src": "Funds Global MENA",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
-   "sources": 3,
-   "recent6h": 0,
+   "title": "Sudanese army airstrikes hit RSF headquarters in South Darfur’s Nyala",
+   "src": "Sudan Tribune",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YbjVZeG50aWtHUF9Cd2VpRlFFdVFPdWUtanVNQnJENzNwbEZBT1NUcTJIWTZlQldtV1ZMdW5LRlhKVWYzckhCak8wUkZqMWRV?oc=5",
+   "sources": 2,
+   "recent6h": 2,
    "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-18T15:57:13Z",
-   "last": "2026-11-19T16:20:41Z",
+   "level": "kecil",
+   "first": "2026-11-19T20:20:00Z",
+   "last": "2026-11-19T22:48:28Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Is it safe to travel to Saudi Arabia? The latest advice as the kingdom faces a spate of missile attacks",
-     "src": "Condé Nast Traveller Middle East",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3UxWmxyRkxGTUc2bDEtN0tkeTlUVDQyek16UTVGNl9rdzFrVWNoZkEzUVdnZW5mZlBOY190dTVBMENMbWp6T25KV0x6bDRvZ0VVUzhRVEdkeXRfZ21NbGhrbE14QS1fTkt4YlpSRG52Q1BkSXVoX0dPWml0QldsMVhkYkVsZWliQkhRWFVXUm1GUW94cGU4MFFTb29Pb1ZtX2RLd1VsaGhHa3hHMVJjdnpSYXNwdHlRcllFbThlSE5HQTg4eHdLZEVfNG9HYlI0Ry02TA?oc=5"
-    },
-    {
-     "t": "Large-scale missile and drone attacks target Riyadh and southern regions of Saudi Arabia",
-     "src": "جريدة القدس",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV09nNEtCSDNRNndkN0VmbGtCX1l0aFM5LU12eFZWM2Z0NU1PTXlxbGxkTzVoeEp3dVhaYUpnZWhWRXlZQnk5SEJHQUs0RVk1XzUtYUxWUGxmd1RRQ252Ym05WDltckJJZ3ZqNGx0Q0FfM2d3QmgtT19rZVVZVTF0MG11cjBVOWw4T1BaUmZMRTZ2M2pOV0dkMUdoNzVMM05kdkNCTE9CS3JjWHJRbEhR?oc=5",
-     "t_id": "Serangan rudal dan drone skala besar menargetkan Riyadh dan wilayah selatan Arab Saudi"
+     "t": "Israeli airstrikes hit eastern Lebanon, target homes, buildings in south",
+     "src": "Middle East Monitor",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUdnWk11dkl2Zl9Kc1hwWXBqaDhLODJJZ0VlcTFKYUVpN3lvNzVuT1ozTUtPVFNveEZ1blN4TXA4b1NVc1AtelRBQWR3V0tWRzhmaEtJYjRFMUtlbVg3Nm1XN05sSVlMekNvdW1FcHNVejdvLUFDbjRHOG5rV0hfQmlEaDBjODhBTl9MSV9UNDNCZURFNGRYUEROWEpPcEdnRGZJUUkxZkRjRzU5RnlHVWNCOTnSAboBQVVfeXFMUHlRVWN4ankzNjRfNWQ5Qk96V3NEQlVCS0FGSm1rVnEtd1hsSWQ3OGxta05SeVVSWDAzZnVGZ3pEUEc2RVE4MFRpc1M4ZGpRWnlMMlc4ZVFMbWxaY21PR2pqTEt5b3l5eHp4b0NMdzZ1VGpwbDFtaTZQUVVId3RidEVZWnRyTEI4X1Q4akFDOEk5aktvYzhPX09PM21zdkVETWFUdENIM3kxWGdreGduT0NwdkVqUTVISzF3?oc=5"
     }
-   ],
-   "title_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
+   ]
   },
   {
    "id": "indonesia-202611190110-84fd",
@@ -164,6 +162,31 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUc3SWJiQ2xKMGlaVXktcjluYlpEOGFrTG5LS0NyeTUySVlZSm9KRGdrR0l1dm1iSXE0V2pyZnZxX3FFWUljS2FiSWNrd0FrN1p3Ny1ZcE5yQ0J6OHFiXzl3c2dXVGNSQlczQ2E3Y1F0b0ZWVG83eTlfaWg2Y3Niam81WDl4TXZnbmkydmhlbVotUWtfeVRxODdzejZhNkxJVHlrTVlUMjZKOEg3eWE2Tg?oc=5"
     }
    ]
+  },
+  {
+   "id": "kesehatan-202611190216-108d",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
+   "src": "Stateline",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWmg4RVJHbkdqdGtiQlFwTGotQ1g4UV9vYlJhMk51bldzRzYxZEt6YTNTSHNndEphU0dkV21SNWoyN1lBMTNBeS16RU1UV3J1TlJoMDQxYUhoRm1kVVVaTHNoekhWZ09weUk1UVRVSTJtQ1I3UnlaQy0zZnU4X2d4UGdESXZDZldYMDNKVFV0cXZIR1Z1ZFU5QWdFYk41MlIyY1lFdmZFdlA2MklFWF9ZQ2lNNUs5WGt6SUZRQWVB?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-19T02:16:03Z",
+   "last": "2026-11-19T19:03:27Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "India develops first home-grown H5N1 bird flu vaccine for chickens",
+     "src": "The New Indian Express",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG5pOVRwdDlWUWJtbW9PRUs1Sk9QUHdmQllkWmNISmdBZ0F0eDFYXzZERmxkOE1teGl6VENQdE41M1JZYTRJUWFSRzdHcHNkRlpleVZ4Z1hpcnFVb0FHR05jdERnQVNfOTZPaTRFeEFjRml4UHJaTXYxUHExai1GZ3dKbTUwRWVkQXpKNE9rd1JSYnlncDJFR3B3VFllRHI3eE9TeVQtVTktRDYtNjZ6RXIyWFRRUUJ40gHGAUFVX3lxTFB4NlNVSE1VRzZJZUhrcXAyNmdQQlluWUhWS3BraWttY3dIdmRBcENZMVNCZHpYanVyMmd3Y3hLMjNTY2gxeFlSczRhSC1peUpocDV1cktBSGZwelpWRWlONzhsb2x3VHZjR0ZyMXRtTnVHUThtdUNic0Z2cGRSdS1qYUtQbkRaUTVwbHJlVC01MzJNR1FnamRQVkpqZmE1UTMxUGptajJsS20zMXFBYkt3TndxQTlPMXdlemR4cVVNQjRWTEVFZw?oc=5",
+     "t_id": "India mengembangkan vaksin flu burung H5N1 pertama yang ditanam di dalam negeri untuk ayam"
+    }
+   ],
+   "title_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
   },
   {
    "id": "siber-202611190352-34e3",
@@ -260,6 +283,30 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFlyTm1rN2pleFRvQVNJa3duRVRHTVZ3NU9xMnpuQUFfRzdlZjFrMTJsTnFIbFg2VjBQaEpYYWozSER1UTZfYm5XendKa3VxdXkxNzhGMUNvWk9RWTBBczZNV0FTTjNHMXZJMlFNVEJSZVc2b29IVjBtaDlZN0JLQWViSzdQZw?oc=5"
     }
    ]
+  },
+  {
+   "id": "perang-202611190436-0d10",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Kuwait Repels Iranian Drone Attack on US Hosted Airbase",
+   "src": "SuaraGarut.ID",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DQ2NzRXVNd2pUMm1TQm1FMnRuVVdBMGhYMjZBT0RlLVoyR3ZadnNsX18yOFhoUmw4MUVWZFgyVzlvbDNiQVFvV1dKNHVqZkYySHp4UUtheVBuUTBud19jTHVoNDRXdXB4UGFr?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-19T04:36:59Z",
+   "last": "2026-11-19T04:38:31Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Kuwait Repels Iranian Drone Attack After US Strikes Qeshm Island",
+     "src": "cwibc.co.id",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzWFZIVDlwMjlnMG4wTkNqbl9reGs2TDhGTXZJZTR1N0t6aEd0bU9uUDV6eTZmbFJDWlNxb2dQTFJJWUxRZUFzUWo2REhlY3ZubVh4YlQwbFhlbVJjVTJNVE5CTWRlMU1t?oc=5"
+    }
+   ],
+   "title_id": "Kuwait Menolak Serangan Drone Iran di Pangkalan Udara AS"
   }
  ],
  "errors": []
