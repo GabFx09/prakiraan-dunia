@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T12:58:26Z",
+ "updatedAt": "2026-11-19T13:10:52Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -144,6 +144,29 @@
    ]
   },
   {
+   "id": "indonesia-202611190700-ef13",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "[HOAKS] Demonstrasi Mahasiswa di Papua Tuntut Prabowo Mundur Usai Gibran Lengser",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNekh0NUt1MWRQTHRwQkdyamkwUlFVTFNLZFJUd3Q1NWdCQXFOZ25xdjdtWWdJMXJBSWVCelZ6RmVkSkhFX2d2dUFHTEJ4SmczSkJJazdjeEpyd0NNa0VLQWZtTG53R1dkYkpUNnc1NnV2b3ZLYmxqUm5nUnhsQXZneUloQWhidUh3MnExT3dfVl9Id0oxOTY5aW1vLV9jNnpGczc3WjhraWdkWXdDdTRfRm9MQVBDdWZESDIyMVNubUlUNlJxdTA5Zw?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-19T07:00:00Z",
+   "last": "2026-11-19T09:48:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Hoaks, Video Massa Tuntut Prabowo Mundur Usai Gibran Turun",
+     "src": "Tirto.id",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFlyTm1rN2pleFRvQVNJa3duRVRHTVZ3NU9xMnpuQUFfRzdlZjFrMTJsTnFIbFg2VjBQaEpYYWozSER1UTZfYm5XendKa3VxdXkxNzhGMUNvWk9RWTBBczZNV0FTTjNHMXZJMlFNVEJSZVc2b29IVjBtaDlZN0JLQWViSzdQZw?oc=5"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611181700-d766",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -152,8 +175,8 @@
    "src": "CNN Indonesia",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS1Y4VV9VdVZXLTQyWTNzUFRqNW5tN2o5cFpWbzZRRU05MEY4NFBEZFhSY2h4c0tOMGhfdkt6UTBFR2c4LXNnS2F6QkQwM3BMTHFzN3dhVUc2eWVyOXdCbzRoS1hFOXpiZl9KN0R3Z3N2VE1mMkliSVBscnZvcWNtaWlZazJKOGE0VklCbXNzNVZuWks5Y0wtVEJwSEZSUl95bmFPMEVQVGdSSEhZMERpd2lpQ3BTb25IMVJlRXpkRkFndGJ6SEVLUjFOU1FBS1ktRHc?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-18T17:00:00Z",
    "last": "2026-11-19T07:02:53Z",
@@ -163,54 +186,6 @@
      "t": "Foto: Demo Mitra BGN",
      "src": "GenPI.co",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxLV9Hc2I5NHdoZ2Z5V2hLZjZsTDhnTlg4ZU52bjIyUXByTzc1dTc0eGZiUmtQZVdiaV9zSTZwQko3UWRSTFhka05HaXFUbXowOTdWS09KTWpqVzI1NG5xT0FB?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "kesehatan-202611181710-b3de",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "India develops first home-grown H5N1 bird flu vaccine for chickens",
-   "src": "The New Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG5pOVRwdDlWUWJtbW9PRUs1Sk9QUHdmQllkWmNISmdBZ0F0eDFYXzZERmxkOE1teGl6VENQdE41M1JZYTRJUWFSRzdHcHNkRlpleVZ4Z1hpcnFVb0FHR05jdERnQVNfOTZPaTRFeEFjRml4UHJaTXYxUHExai1GZ3dKbTUwRWVkQXpKNE9rd1JSYnlncDJFR3B3VFllRHI3eE9TeVQtVTktRDYtNjZ6RXIyWFRRUUJ40gHGAUFVX3lxTFB4NlNVSE1VRzZJZUhrcXAyNmdQQlluWUhWS3BraWttY3dIdmRBcENZMVNCZHpYanVyMmd3Y3hLMjNTY2gxeFlSczRhSC1peUpocDV1cktBSGZwelpWRWlONzhsb2x3VHZjR0ZyMXRtTnVHUThtdUNic0Z2cGRSdS1qYUtQbkRaUTVwbHJlVC01MzJNR1FnamRQVkpqZmE1UTMxUGptajJsS20zMXFBYkt3TndxQTlPMXdlemR4cVVNQjRWTEVFZw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T17:10:23Z",
-   "last": "2026-11-19T02:16:03Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Bird flu turkey prices: 10 ways H5N1 still shapes costs",
-     "src": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIdmZuOXpDQW5UX2FMQjdIMVpsVXFXblJLSkhzTjB6SnZxX1Y3UURpbTF2UFBkSERZNEs0bkNpWFVkUFFFNElGYWY1anQ1SFJuVllyNEJIVjA?oc=5",
-     "t_id": "Harga kalkun flu burung: 10 cara H5N1 masih mempengaruhi biaya"
-    }
-   ],
-   "title_id": "India mengembangkan vaksin flu burung H5N1 pertama yang ditanam di dalam negeri untuk ayam"
-  },
-  {
-   "id": "kesehatan-202611182253-9a7f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Pennsylvania confirms eighth measles-related death amid US outbreak",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWNYcFY0Y2ZRYXUzLU9Hc3Fuc214enY5NHF3SUx6THdGdFlwdF9aWGhGS1ZYVmpzaHEtRnZxUFpWZHQyVUl3SEJDckw1WWZQUXNPS0VnNE90Q3FieVFZazZ5SGxmV3JOeVB1amxURDUyQnQtcWdLbDVabW1XWWhLT0FHYVBtQVFBWkp6R3ItUlZiS285cWhhQzBDZFhLaGpSNDB4Q0N3UTBVVVlVa3hNZGU0bkZMRW1FOFNQbzVFeUF0VlItS3ZrUG5OOGZGWWZTVUE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-18T22:53:06Z",
-   "last": "2026-11-18T23:25:18Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Pennsylvania confirms eighth measles-related death amid US outbreak",
-     "src": "New Hampshire Union Leader",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanhyZ29EVGFvcVBKd0k1Wk9QU1ZqS3BGMG4ySkJrR2tYeEw5al9JT3BabnN1VWRSZnJZT1R3MXdxOHpEMWRoa0NHR0RKM19PS1p4VWR3c3JmU19LTjZvNXFKdUdVSDVNUVYwbzhCNVdQdFJNSV9VOUR2MHBzclFIZ21kTnBBNngxQk15ZG9ESktvenBYbzRnMFZzbm5FTUxpOFpPSERqMjZTSkRNd2RpY0cxa3Ricmo5dWZfZ19veHVQX2hCOTkwOUU4UQ?oc=5"
     }
    ]
   },
