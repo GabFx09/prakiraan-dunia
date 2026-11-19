@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-19T07:08:21Z",
+ "updatedAt": "2026-11-19T07:23:03Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Bank Mandiri Nilai Kenaikan BI Rate Jadi 6 Persen Tepat",
+   "src": "cwibc.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5weEpRVmJ0STJNam5UZlJJZmc1Z082NTB0ZTFmTFJGd3BPSkpESFVqaXlVdGx6czJtS1B6a1VpU3NwcGRwNG56d0NZLWtiME5JRnlVMEtpTnpqQjB3a3hQa2tBSEpTQ2s?oc=5",
+   "time": "2026-11-19T07:08:53Z"
+  },
   {
    "topic": "geopolitik",
    "lang": "en",
@@ -65,14 +73,6 @@
    "t": "Asing jual saham-saham ini, IHSG turun 0,06% di sesi I",
    "src": "IDNFinancials",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkZJbHhkM1JrQ0I0UlpmRUZ5TVJCV1BXYTJGdVlmM2FqbVdvcnp6UDhadU8tZkxMU1pmcUV1MG9rWlIzandSTVBZT2Nfa2JtR2I5UmpYajdjdDdSSFY4bVpBQWVBTXU4RWYwVTVQYWY2U1FkbVE3bjhsZS1YNFR5ektkRlVCUFNqajUxNGdDeVEyTFhncUJEa1pud0U?oc=5",
-   "time": "2026-11-19T06:00:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Rate Naik, OJK Cermati Dampak ke Pembiayaan Non Bank",
-   "src": "Bloomberg Technoz",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2tjLXdsRWJ4TXV0cEpDZXlyTFl1MmpuQlFfMHpmU01qUllyTThzLUZ4RVRfYVYzLWRLTnF4bWxNcmVxOTZCX2NBangwMXUtSTVzaWZPUjNIU2tQQzg5amJBRHZWaHFaWWUtWlNKclJzQWV1SXpmX3djbk9pZmtDRDVlTGdUTlRyS0x2dkxhbzIwRG5oWF9uSnJ0R2doMkllcGxlTHZTdUZPQQ?oc=5",
    "time": "2026-11-19T06:00:00Z"
   },
   {
@@ -148,20 +148,20 @@
    "time": "2026-11-19T04:34:59Z"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold, silver prices today, 19 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+   "src": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUjNKUmZrSjlsYkY1UXBTblI2WHh6RGpnMkJOYkhwRm9HN1AxaktKdVA5d2tmTFpEMjFLQkNPaVM5c2xxdWFUMjRQWXpNNjNGV3dOWkd5c2kwY0hCNkxkUUlqNnJTQlhKY0xTeGpqUnN5aVJYaXNXTkszdmItbmVhb3JBSXV2dWNUVXQ2blF1YTRDNFRxU195T1pVRkFxSWZIWHZOaXg1MnVXdjhST2hibWNPNGlyNVd3R0hKd2NrZXRTYlpuUDRaVlF1a0xJZDY1b0V3Ym10Y2d3U2I0SGVIRVdhWm15eG9HT0VZWXRMenlsazVESF94UW56MHFtVXVUUkpBa0lhal9lZ9IBjwJBVV95cUxOeUQwOE0teEhFbUtMUkZiUXE2enpycHNRbnpPSGtUMXBIUEJ6TFBIX29KbV9STUZOQTFpZktSYWhpbk80OTF6S0RXSllKWWtjVDE5enNEZFFTYTc3MzNvRS0taGVKQzk5NE1pTm5xeHVZYkxpRG1aUzNLeWhvRmhMUEVWaklRam1lWjRlR3N3bDBKZ05yMVM0aFpMQnozdG0taTdDZmZhUHJrNk1QUzNUZFdLbkJKdjVHSFN0VlhmSUdfMjd0RUR6ZmZTdzRSX0lhMmdfZzJ3YXFtbkZ1Z2V5dXZRS3Z1QVdFMVNmNllnd1BQQ2Y1cDZpczhPRFppOEdtU24wN1hMLW1RTm4xTlBz?oc=5",
+   "time": "2026-11-19T04:16:14Z"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Dow Jones Futures Rise: Anthropic IPO To Debut After Pricing High; Palo Alto And Everpure Rally On Earnings",
    "src": "Investor's Business Daily",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeVBnRUZJVFdOVnpFN2VzbW14dEJLZjBNM1RMM29ERmY1cGF3eDF6WWcwb0t6OVNMbC1Jd2Nvcmx6QVlERkNYQUtHaGhQb3FVdVVRemk5YmV1am1PN3hzZHBQbzlrcDB6MWgyNV85a0sxLW9oLWZFQmdVZmNwWDlZVDVWZ3hPdTNaRm1SYmlNVnNLU1RJU2FVdEVHSnFXdU45Y1JXMS00ZUk3bFpvVWVubHBISS1fX2gtT0ZZUFowTHhiYlBvSlNPMDVTY0lUeDRpejU5YkxPSXYzbEhOZEU2Sno4OU1kTFRUbmdrMUhzdmpTUQ?oc=5",
    "time": "2026-11-19T04:02:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Siapkan Fasilitas Repo Valas untuk Tambah Likuiditas Rupiah",
-   "src": "cwibc.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03WWp5Wmx1NjktX0J0NnFQWGQ5NWtic2xJN1Q1bXZjbnE2WXY5UEVUZ0ZieXpuenVnLXg4b3ZiTmM5djlBaGRES0xpc2tGYVJVaGo2czF2cEpYaXVCUng1eVdDM0s?oc=5",
-   "time": "2026-11-19T03:40:56Z"
   },
   {
    "topic": "indonesia",
@@ -320,6 +320,14 @@
    "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
+   "time": "2026-11-18T22:48:00Z"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead",
@@ -375,14 +383,6 @@
    "src": "Barron's",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnp0Q0Ewb2RJLVdrQ3ducVFvam9tbmJHNE1FbU0wcXBGeVdDajlJTWNIVFFrSXRkM0EyYXRaeW4tdnVydTE0VmlCZng4dk0tZHllUHZzWTZMb3Nzd2hHdFYxRFJhVGhoUzdpcjZYRGJJRFhJb0Q5YlVjal9PQl92NElXRW81YmdFYWJQenRjWQ?oc=5",
    "time": "2026-11-18T20:41:00Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
-   "time": "2026-11-18T20:08:03Z"
   },
   {
    "topic": "ai-teknologi",
@@ -474,20 +474,21 @@
    "time": "2026-11-18T15:59:09Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold drops 2.5% 📉 Are precious metals entering a bear market?",
-   "src": "XTB.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT04zNGxlQmJrbm1YMEF1TkViWXV3WEpPcC1tMHFlSGxiODRFX3NTMTl5NzRWbjhYVy1aakRHdHFmWEJSOHVicm5xRjNKSEQtWXNJY1kxNU1jaUVmU2I5d2c0dzF6ZEw4MWhYVHllVHdjUEpkTkhHWFJ1Q0czYTdRMmMyUlplbkNFU3AwU0lidHB5VmNiNjh5QW9Fa19VN1RaWC1naVpldXJROGhJS3o4S0pVeFRoQQ?oc=5",
-   "time": "2026-11-18T15:46:18Z"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "The key S&P 500 level Wall Street is watching",
    "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenF6YlhQQ0d2S3BGblhRZ0hfWFl1WGktbGxaOWg2SGlrY2NuQTlSXzZLa1RncUdaMXpIRFFVZEcyT1hWYmxfRUVPU0IzdXNqQmo3UDBfUGdoeUFDbEM1eTJSMnlHRTNXeHF6NmVuV1VWdlBta2Zkd29sNmNsWVVoX3Rlb3I?oc=5",
    "time": "2026-11-18T15:16:13Z"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "US official says Hormuz insurance hits $64m: Is the strait really open?",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmpVN2ZGYmNzRGg5cGRmTUE2aDVLUXZXQ2ExNjZoWGtfWDhLTl9QMjZoZFpkTkxvN3RLdU5rWXUwYmlkUmxqV096aW1GRVFqXzFfTVozaDBHdzgwS1QydFl4cUdNemUySElEMElIcnJpQVhablUzT1VRNTh4WmR6TDc4NVowS3dfU1hVYVZ0ZXZFSkVEYWRIbzNnNXZaYm45eHRzQ1VMNWVFeXBGSFF30gG0AUFVX3lxTE9TdlU5dElzN05Ia2hsV1JIaUY0dGJoQVJxSHNDdWFTYUFNSmxCMWFjOEdnSVBUZXlTS3hVcWlVc0ZPYmVTUjBUb2JZN0J0Z1ppZF9tRFN1UUlRbGE1X1AwNUhpWkozZUN3THpBaWJYc1c1YjJnbng3bWVlYkZFNkY3RkttTGFsVXdrYTgwMGpXWE9jTHBRLWpTSUJuQ1N0cDMzQVczaUV4SGRpaXBzekRWNS1lUw?oc=5",
+   "time": "2026-11-18T14:52:13Z",
+   "t_id": "Pejabat AS mengatakan asuransi Hormuz mencapai $64 juta: Apakah selat ini benar-benar terbuka?"
   }
  ],
  "errors": []
