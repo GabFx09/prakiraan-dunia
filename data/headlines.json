@@ -1,14 +1,33 @@
 {
- "updatedAt": "2026-11-19T18:03:53Z",
+ "updatedAt": "2026-11-19T18:18:34Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkxieVRmNXlDQTlrTjd5eHZWUThQZFR0U3NUeXVnMlY1dFVwdmpaVFl5aVo3REh2ZVhEOW1Bd28zdVZla29KMllCeVhBZzd5SWszbW1EOEkzc0FkMGJwX1hYeUhaaWFHZ1g1Z09ZNjZ2V21CS3V0dEw1S2RjOXR1X2tmaUxOclNWbXZ6N3d6VmZOUi1OYXJ0dmhxa0tmRV9hRmN0WXAtVDFISnZ6Sk1EY01NUEpYRFZQOUN3eG1nYXNZRFE0XzFtbjctSEZUSmNu?oc=5",
+   "time": "2026-11-19T18:06:50Z",
+   "t_id": "Harga Bitcoin mengabaikan debut Anthropic karena harga saham ANT turun di bawah $100"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price range on Nov 19, 2026 at 2pm EST Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzNjeGZObG92UmowZlJvUFl0SHl1T0EzUWtjN3M0U2xkVU8zbzVnM1N3TjI4TGhlYmhneXRGWGg3LXBmMzRuNVhLSTFmMURoZmRORnVPUDYwOHZYV0VFUXRvTTNsSXFQSEJMYnQtQU5qNGlOZXlLS0pUMUgxeW5xYkJoYW93TnFFaWpYNkRnY0ViR1lpUmhDVUFqZml4LWNHeVQ2X24teDBnRzlRX1JkOFRyRXpMZw?oc=5",
+   "time": "2026-11-19T18:05:14Z",
+   "t_id": "Kisaran harga BTC pada 19 November 2026 pukul 14.00 EST Prediction Market"
+  },
   {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Policymakers want rate hike but disagree on pace",
    "src": "Axios",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLenkzRHR2cnQwLVFSSFBrY2RhT0ZNbk1UZzdRSmFyQVhSa1UwN0w0WThGQ19aNGNOcnQ4YzhBRGkxZXFucjZpa2ZkMGwwcTRGNjMwQ2JFVmFoTVp0Q2Etdks2YmpWNU9JaTRSYi1TYw?oc=5",
-   "time": "2026-11-19T17:17:53Z"
+   "time": "2026-11-19T17:17:53Z",
+   "t_id": "Para pengambil kebijakan menginginkan kenaikan suku bunga namun tidak sepakat mengenai kecepatannya"
   },
   {
    "topic": "emas",
@@ -16,7 +35,8 @@
    "t": "“Buckle up” Gold price reset [Video]",
    "src": "FXStreet",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTZpcnhPbVBYbG5xVURzZ1RmaXR1ZXdySjYzUE8wdVVIamZWYmZ4elZjdEZPVUlaUHA5alNiajB5TUFVbDJpQ2xHUHlXTURJYUc2bl9zTlp3NlNET2FpYm10QVdqaEtQRC1GZWI3YW9KTU9ZQ3V1V29Ic1R1a1VuaUZkSkNUQQ?oc=5",
-   "time": "2026-11-19T17:17:27Z"
+   "time": "2026-11-19T17:17:27Z",
+   "t_id": "Reset harga emas “mengikat sabuk pengaman” [Video]"
   },
   {
    "topic": "indonesia",
@@ -32,7 +52,8 @@
    "t": "Gold and Silver Sink Again in China, Then London, as Anthropic Floats",
    "src": "BullionVault",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHZqVHpBTVZXQURjdlNpUmxWN0x3Qm0wOU1ZVzVFbWUtdkJQQVNPdlBtVG5jWEE0b2M4bkFkeHRxbHlZTmZYNTF0dS1XUDNJOHdHYkRFU0kyazlEdWxKbHlnUXU3S0d5dEhnd1d0cUg4N1VOM1FRV2N6Q0NxOVJVeXRSQ1hLYWdObzhjUUFCcHM3LW94Q18tTnNpVVl6Y0JSeVE?oc=5",
-   "time": "2026-11-19T17:13:36Z"
+   "time": "2026-11-19T17:13:36Z",
+   "t_id": "Emas dan Perak Tenggelam Lagi di Tiongkok, Lalu London, Saat Anthropic Floats"
   },
   {
    "topic": "geopolitik",
@@ -40,7 +61,8 @@
    "t": "Iran’s IRGC says tankers with 4M barrels of oil hit Hormuz mines: What to know",
    "src": "Al-Monitor",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2xUd1ppVEhOWXhVbnNrU2I1UTl1NkprQUxlOGRaTGlpR0k2QTVNdEdzSmhXZlgwOU9uTXdsQVViVmZ4cHRWbUs3VVI1N2dlcG9TeGhjTzdYRUJwMHZab0hsTkwyM0ZMRGQ5NktWQlBybmllOVNMSWl5Z25kTnV3LUczcnNBaVd1WUQwcFpDRzM1YzVDXzBIYXV3ckZYR3ZWVmFZOXVvTDBnLTVqTW1N?oc=5",
-   "time": "2026-11-19T17:06:42Z"
+   "time": "2026-11-19T17:06:42Z",
+   "t_id": "IRGC Iran mengatakan kapal tanker dengan kapasitas 4 juta barel minyak menghantam tambang Hormuz: Apa yang perlu diketahui"
   },
   {
    "topic": "saham-as",
@@ -48,7 +70,8 @@
    "t": "An early rally for Wall Street evaporates as the market waits for Anthropic’s stock to begin trading",
    "src": "WTOP News",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEUxVHM0SkFXazdYZGpfcjhIZVVQX1dvX1BnMTY2Q1BBRkJpbXAxeU9Qc3lvYldVYmNoYlZmdUtMVmhQdDdKSkdSeC1nVHlvdjYteHk1R0RCa2l2U0NlaWdMNm5oOGdHRGNoN2RmRHBBanhoc0lwaUtxcUZoMFVRaGctSlVxejZqbkpfcXRxdlRBS3ducmVmTHVlR0pIalAteHBJSTdjWDJRTjFQWFNMNA?oc=5",
-   "time": "2026-11-19T16:04:57Z"
+   "time": "2026-11-19T16:04:57Z",
+   "t_id": "Reli awal Wall Street menguap saat pasar menunggu saham Anthropic mulai diperdagangkan"
   },
   {
    "topic": "indonesia",
@@ -90,7 +113,8 @@
    "t": "Why Oil Prices Are Falling Despite Strait Of Hormuz Risks",
    "src": "Forbes",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTU8xTURDaWtPMEtkQ3pvMlNRU1hYVndlbjAyTm51QUV1X1hBSldnMmpGRkRrQVRkZFlFaURvUHVoOHRSdVN3TDVPbFkxMGZnalc1eGpTNG5STVJ4SVk0MmdVZGE5aWt0QlNXVXhnY3RTbHVXd2w5VWR4dUUteEZ6YjBVSDdHZjJqMGw3MzRWaFdncVRncktkNEthWmkzY2tMSlNrRjZPWGhQTjUxb291WURaMmk3ZnVxd3dYNFNB?oc=5",
-   "time": "2026-11-19T15:26:18Z"
+   "time": "2026-11-19T15:26:18Z",
+   "t_id": "Mengapa Harga Minyak Turun Meskipun Ada Risiko di Selat Hormuz"
   },
   {
    "topic": "saham-as",
@@ -100,15 +124,6 @@
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSjZ6OWU1VFV3OC1tczl4cXdnbUFUT3gxY2h1RFB6ZXJFMFpCckFZblo1Z2Z5UU5Hd1pfYkpXQUZKc2Y4VVFlelE4Si1taFZhY3dYNkFmdFdsa0Vzd3BsQW9fRnEtRGZOdWprVXpybHlLT2NndVhycnp6X01YSVZyVFliU1AxR1hTMUFoZDdQYjVFSWhtOU1QQXNNTXplTjZJdlpYWlA2Y2pLREF4VVhJR2U0c2ZjbVE5aG82Zk4tdUMyOUk2RjV2T3NBTUhKNHEySl9rVG5pNE54ZlpDM21FOFZER2lWa2lMYWlwNTBnZHA3WDA?oc=5",
    "time": "2026-11-19T15:13:00Z",
    "t_id": "Peter Lynch Membuat \"Pertumbuhan dengan Harga Wajar\" Menjadi Terkenal. SPGP Menjalankan S&P 500 Melalui Filter Itu dan Menyimpan 75 Saham"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price range on Nov 19, 2026 at 11am EST Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXJyTGJ6bkVoZmx3X2paUkhTVjY0UFRSTC1kajBpYkJTbjE4OVV2N2dOWkpoTmlTZVVaTmM1NXBqY3dFbjJ0cmswS1JaNXM4VEdDTGhzOFFlbjdOMVg5U3p1OWwzQWttYmxNS1VfMGFMN3BMaWw4MEVwU2hoYmpiVHZBcVcxSDJfTzYwbFNUQ0tmaWY3QjBFb0pad193LURhMF8tZk0wbHpTVzlhRlBRcnRkTmFqZlE?oc=5",
-   "time": "2026-11-19T15:08:06Z",
-   "t_id": "Kisaran harga BTC pada 19 November 2026 pukul 11.00 EST Prediction Market"
   },
   {
    "topic": "indonesia",
@@ -130,20 +145,20 @@
   {
    "topic": "kripto",
    "lang": "en",
+   "t": "Should You Introduce Bitcoin to a Portfolio that Already Dominates Gold?",
+   "src": "Bitcoin Foundation",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWpKUUlUYm5MRExYRjFkRGpNVEl1RmV4eUhfS3RlbjRwZmJvNXJQMkdUM0o1SmptRFJYeVZYVlVPbnZiLVVZUk9QLTlMWl9qZzA5QXpDN3lzdWl0aTVkTjIwNEt2UWg4V28ySXhBVlByTV9URzUxMTh0WDZORlBGZlNJZTZWTXdXRGhtdXNjVW5KOXlEVEtpZDVZQk9pSUY2cGI5UEtIc3FDRzR6dXBXUG1tb0dqQQ?oc=5",
+   "time": "2026-11-19T14:54:23Z",
+   "t_id": "Haruskah Anda Memperkenalkan Bitcoin ke Portofolio yang Sudah Mendominasi Emas?"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
    "t": "Strategy Stock Lives and Dies by Bitcoin. The Crypto’s Slump Takes a Toll.",
    "src": "Barron's",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zYzBWb3dMaDFtV2Y3cy1wRHlPeE1VRG8wRVl1LXpSMkg0X1hjRm5LeGlPeWhmVXZBTnNUcW51dEhJV2lDV2d5ZXpUbHhFdEROTHhkclhNQzZzUUdsV3MxNUtiZ1psaDNobVFNRUt0d1FNY20xM1dhUA?oc=5",
    "time": "2026-11-19T14:51:00Z",
    "t_id": "Strategi Saham Hidup dan Mati oleh Bitcoin. Kemerosotan Crypto Membawa Dampaknya."
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Prediction: BTC Could Dip to $55K Before Its Next Explosive Rebound",
-   "src": "FXEmpire",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNblFQbzZ5WXg2c3RFZzFRUFpEQWZ0UTNhWGZodDZEQWlZZUNmQ1dJN09VWmlCM3lIMThUVVpyWFI3OUFrTnRMNnBSNWlYbEtCV2pCckhDaEpjV3dLTEFjU09hQzhDcm04bFhZeS02cWJGMVB4RXlRakxFaEx1a3RMekVYSWlCeUhCMXY0bld6MWlfM18wQWtDcFVYTU42bTdFWXl2SnNqVDNnck83VFUzNEp6cjJ2UGdtVDRWdzMyN05iQ1lwdU9LM2JB?oc=5",
-   "time": "2026-11-19T14:29:13Z",
-   "t_id": "Prediksi Harga Bitcoin: BTC Bisa Turun hingga $55K Sebelum Rebound Eksplosif Berikutnya"
   },
   {
    "topic": "emas",
@@ -225,15 +240,6 @@
    "t_id": "Iran Mengintensifkan Serangan Tanker Hormuz Saat Harga Minyak Turun"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin price rebounds toward $64K ahead of Anthropic’s $107B stock offering as AI altcoins rally",
-   "src": "Crypto News",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kYngtb1Ewbzh1WThveWRmRDZMNmVJU21FYnhRaENJcDR3T09wZ3pDX2ZtNl95OF9ENkRUXzluTi1YcHo3UGtqSjRnVUVsNEZ0Zlk2MUx6aHZORTV3dV9oT2JLeDBvVmN3aVVsVXdPU1Y3bDhp?oc=5",
-   "time": "2026-11-19T13:18:15Z",
-   "t_id": "Harga Bitcoin rebound menuju $64K menjelang penawaran saham Anthropic senilai $107 miliar seiring reli altcoin AI"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Broadcom, Nvidia, and Micron Could Be Setting Up for a Massive AI Rally Before Year End",
@@ -250,15 +256,6 @@
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQakV6aGs5cmNYQ3p2dkFIMG9tOHR5MzJKT2ZhNGVBU2lndlVhZWRpRGZocnJzRzNMNGxYYWVSb0QyZHNDdi1mMm5LTF9rX1FfY3VHcnFxamVFQ3FnMlFDcERmRXJreE5mQWtfelBYYktnR3AwMVEydENIamFxc3hhMGtCZndxaUFkeUtBWUR1RlNwNzZacEVFQU1ybEY2cHQ2TUZFYlIxbkx0TGo4d0ppMm44MU5OS0NwcWx1ZjFzdmJFVC1xcERhOGx4Mlc0SmR3SmpWTTFOa2k5UjRzaV9MTWlSYmdLdw?oc=5",
    "time": "2026-11-19T12:37:05Z",
    "t_id": "IPO Antropis Harus Memicu 'Relief Rally' Pada Saham AI, Analis Berharap 'Lompatan Sederhana' Pada Hari Pertama"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Current price of Bitcoin for November 19, 2026",
-   "src": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaemM4RjBCT0VwNHVnZkdTTUFBVjJoMkQwOW1VMnlhNHJJVnVlbVlQTW1feFZ3SFotcTc3VDE3MnkwNnFyMmFLUkF6cTdSM2tiOUZvdE1GUnZpQ2RiMWVKemNZV1RvSDQ?oc=5",
-   "time": "2026-11-19T12:32:08Z",
-   "t_id": "Harga Bitcoin saat ini untuk 19 November 2026"
   },
   {
    "topic": "emas",
@@ -285,6 +282,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
    "time": "2026-11-19T12:07:20Z",
    "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Current price of Bitcoin for November 19, 2026",
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaemM4RjBCT0VwNHVnZkdTTUFBVjJoMkQwOW1VMnlhNHJJVnVlbVlQTW1feFZ3SFotcTc3VDE3MnkwNnFyMmFLUkF6cTdSM2tiOUZvdE1GUnZpQ2RiMWVKemNZV1RvSDQ?oc=5",
+   "time": "2026-11-19T12:02:08Z",
+   "t_id": "Harga Bitcoin saat ini untuk 19 November 2026"
   },
   {
    "topic": "emas",
@@ -382,14 +388,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Lanjut Melemah ke Level 5.194 (Kamis, 19 November 2026)",
-   "src": "Databoks",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGdaaV9nbFB6a0h5djlNSHhJQmZCVFZFVXJEZDMyTVMzcmdwb2JSbXZoelMtcFV2cEZUb25XbFZmZVlvQUhCeG5NdUJHN2RtSE1kbFhsb1M2Q2RuX0VuUkNxQzJtRGxJQmRDM3dkb0dXaDd2YU9Qd0pwZWZ1MmpnTWcwTnVFbFVRWWM2a05icXgxeG1oSjI5eURrdUQxY0JUb1pTN1BFRlFEZHI3MVZNeGRhWWVMV2gwcmc?oc=5",
-   "time": "2026-11-19T09:41:46Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Sekdaprov Riau Dorong Evaluasi TPID Perkuat Pengendalian Inflasi",
    "src": "Media Center Riau",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzlMS3VtLWk2OFp4WEs5RW1pa212YnFwMFRQdWlidlo1SDR5bURHaG5tZ3Axc19QWUhLb2NpYTRBWEI4dk9vLWwtWlVjdjhBcHF2dmdsWGdwN0JyV1E3LVZjWGxsRXlRRTRpQVpaXzAyaDMxYzdSWjcyRWNCZlZjdWRXUml4emhWQ1BJUzhIdDBrSnZiWHFEZTZmZ2MyTC0wRHc?oc=5",
@@ -436,6 +434,14 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RSWE2amJuYzhEcFVuUnhJTTRTYXhfM3JNeGZKVDVKcExiRjJfSUhXd1R2c0hDMkhLQjZUUlJ3MXFYTHB2aTNsdlJsSnd6YUpLQmJ4WlJfMTFmMTlXUGkyZllmUHA2UmRIdm52TEp6b0pyNjFFR1E?oc=5",
    "time": "2026-11-19T05:36:00Z",
    "t_id": "Kepergian Jensen Huang dari Nvidia Memicu Penjualan Saham AI; Premi Penilaian Saham Chip Jepang Terbalik Semalam"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Kamis dibuka melemah 15,49 poin ke posisi 5.232",
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmFZSm9FT2RQd1FLdlh6QzY0Tjh2VlYtUlJNaWFVWTZJbWdkS1RyS1gxcWl3bHNFZUpkdlhMUlRLdjFXZ1BpZVR2em1mYUQ3UmhQYVlmYm9LcEJNT0Q2OE1RU3pvVC1mcFZlV05OVmIwMHNvTmlGR0RRbFR5ZFdOTUxWXzlmLWhvN3FaLVloLUVvblk?oc=5",
+   "time": "2026-11-19T04:34:59Z"
   },
   {
    "topic": "indonesia",
