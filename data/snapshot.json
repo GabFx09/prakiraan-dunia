@@ -755,6 +755,17 @@
    "ihsg": 5232.564,
    "usdidr": 18258.0,
    "ust10": 5.066
+  },
+  {
+   "t": "2026-11-19T09:57:55Z",
+   "risk": 84,
+   "btc": 63755.17,
+   "gold": 3735.9,
+   "brent": 89.17,
+   "spx": 7323.63,
+   "ihsg": 5194.141,
+   "usdidr": 18240.0,
+   "ust10": 5.066
   }
  ],
  "horizons": [
@@ -1201,6 +1212,22 @@
  },
  "news": [
   {
+   "t": "IHSG sempat anjlok hampir 2% ke 5.152 dipimpin saham pemberat; asing masih menjual.",
+   "src": "Bloomberg Technoz",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3ZLdmhuMWI0NThXcnNJYlA2SjFxVFMxcF9aUDE4WmJPX3NQZFl0TnNzRTRYcDZWaDFBdDVLM1k0SmxxSURtT2l1bktQYUdmSjBhQ293ZkxXcEtTX3pfd0t4VUZ5WlR6WmloRHloMHJRb2hzdkMycy1pZHVOQURQQmJSb1RqZkdiUDVtQ2lER2VvREljc0szNkNXWm5LQktjQ1N2ZzFTZ3haUVVuWmwzZzd3?oc=5",
+   "time": "2026-11-19T08:50:16Z",
+   "impact": "turun",
+   "assets": "IHSG, rupiah"
+  },
+  {
+   "t": "Iran mengklaim tiga tanker minyak terkena ranjau di Selat Hormuz (klaim belum terverifikasi).",
+   "src": "NewsNation",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aWjF1VGUwRURVV2lnWUJiWmFQblpaVzUyelNRd29udmJXVW00b05wMW16ZGpUaF9IbFRlNTM1UEo0MW52UmtHVmVxTlV6ZzRheWwxVi04ZE12eGZULWhaRXF1eDczbk9UU2N4dlFkT1dfbFBnRmt1VlFBb9IBgAFBVV95cUxPN0kwSmZXb2o1bTJGRk1tYWJXczdUVGxmTGxnakZ5eEMzbDJjN0ZHbmNMdGRIeXhSVjlTVENZdzRjajN6dkY5c1NqSmF4YzVqM1RYaHIyNFpTZmNocXZ3MDlmUXFnemVqMjVEN0NVRDVOTGlKMHZ4LV9ReWswalJsYQ?oc=5",
+   "time": "2026-11-19T03:30:39Z",
+   "impact": "naik",
+   "assets": "Minyak, emas, rupiah"
+  },
+  {
    "t": "IHSG turun sekitar 1% setelah kenaikan BI-Rate ke 6%; saham perbankan tertekan.",
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3BzckJZelBlYXVPN2ZDOTd1QmRfQjMyeEJ2aE1wc2l1akdtR0hNV1J5M2VmakRKS0V1a2Vvb1BNaURKZ21ZZFhMVEdnQ0E4NHN3czA5WFRkM1dRM3RyZUZRX0tYY0pWY3lnRlJuTjRBZmQxdUVzWW55c1ExNlo3b2xmbzd4amNHY3V2RFVBMndZWE9hR2JUYzY1RFI1aTFK0gGmAUFVX3lxTE1lR2hQdkJaT29rVVJiVEdveVpyLVFTenAtUl9sTW1CN0U1UVNDQnN0WFE4SXI3cXRLcmQ4VjBmLUtpZm91SmU3SGlhVUUtRUIyQUlGWTVIWHhEV1ZxcVRtQnVjT0ZzQ1hVRUdwbkRDMjZ3ak9YSDFRVjQ4X0Z4cWl2Tl9sN2g1cHdFZWlUSEZGclQ0bnZCQ3J1TUxiUzRMWkVWbW5QQnc?oc=5",
@@ -1279,22 +1306,6 @@
    "time": "2026-11-18T18:16:00Z",
    "impact": "naik",
    "assets": "Dolar AS, UST, emas, Bitcoin"
-  },
-  {
-   "t": "AS memperketat blokade Iran dengan membatasi pemindahan minyak di laut.",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
-   "time": "2026-11-18T16:35:00Z",
-   "impact": "naik",
-   "assets": "Minyak Brent, rupiah, saham"
-  },
-  {
-   "t": "Saham teknologi AS belum banyak terbantu hasil Nvidia; investor masih berhati-hati.",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
-   "time": "2026-11-18T15:33:00Z",
-   "impact": "turun",
-   "assets": "S&P 500, saham teknologi"
   }
  ],
  "readings": [
@@ -1319,24 +1330,24 @@
   },
   {
    "c": "neu",
-   "d": "Turun 2,6 % hari ini",
+   "d": "Turun 3,0 % hari ini",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$89,60"
+   "v": "$89,17"
   },
   {
    "c": "neg",
    "d": "Turun 0,2 % hari ini, dekat terendah 14 bln",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.733"
+   "v": "$3.736"
   },
   {
    "c": "neg",
-   "d": "Turun 2,1 % hari ini",
+   "d": "Naik 1,2 % hari ini",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$63.518"
+   "v": "$63.755"
   },
   {
    "c": "neg",
@@ -1347,17 +1358,17 @@
   },
   {
    "c": "neg",
-   "d": "Turun 0,3 % hari ini",
+   "d": "Turun 1,0 % hari ini",
    "h": "ihsg",
    "k": "IHSG",
-   "v": "5.233"
+   "v": "5.194"
   },
   {
    "c": "neg",
-   "d": "Naik 0,7 % hari ini",
+   "d": "Naik 0,6 % hari ini",
    "h": "usdidr",
    "k": "USD/IDR",
-   "v": "18.258"
+   "v": "18.240"
   },
   {
    "c": "neu",
@@ -1368,9 +1379,9 @@
  ],
  "regimeText": "Minyak tetap tinggi akibat ketegangan di Selat Hormuz, dan risalah Fed menunjukkan hampir semua pejabat memperkirakan kenaikan bunga lagi. Dolar kuat menekan emas dan Bitcoin, sementara BI-Rate 6,00% mendukung rupiah tetapi membebani saham.",
  "regimeTitle": "Stagflasi, risiko tinggi",
- "risk": 83,
- "riskNote": "Risiko tetap tinggi: Teluk memanas, Fed condong menaikkan bunga, rupiah dan IHSG tertekan; harga minyak sedikit mereda.",
- "updatedAt": "2026-11-19T06:58:00Z",
+ "risk": 84,
+ "riskNote": "Risiko tetap tinggi: perang Teluk, Fed condong naik bunga, dan IHSG tertekan meski BI-Rate naik.",
+ "updatedAt": "2026-11-19T09:57:55Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1680,8 +1691,8 @@
   },
   {
    "k": "Indonesia",
-   "v": 76,
-   "note": "BI 6%, IHSG tertekan, USD/IDR ~18.263"
+   "v": 78,
+   "note": "BI 6%, IHSG tertekan, USD/IDR ~18.240"
   }
  ],
  "alerts": [
@@ -1697,11 +1708,11 @@
  "brief": {
   "date": "2026-11-19",
   "points": [
-   "Rupiah melemah ke ~18.258 per dolar AS meski BI-Rate naik ke 6,00%; IHSG ~5.233, tertekan dan perbankan jadi sorotan.",
-   "Serangan rudal dan drone dilaporkan menyasar Riyadh dan Arab Saudi bagian selatan, di tengah serangan Iran ke Kuwait dan Bahrain; Brent ~$89,6 turun tetapi sangat bergejolak.",
-   "Risalah Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi; UST 10 tahun ~5,07%, dolar kuat menekan emas (~$3.733) dan Bitcoin (~$63.500).",
-   "Nvidia masih mencari CEO baru setelah Jensen Huang mundur pekan lalu; saham teknologi AS rapuh, S&P 500 turun lima hari beruntun.",
-   "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan perkembangan Teluk."
+   "IHSG sempat turun hampir 2% ke ~5.152 dan ditutup sesi dengan tekanan (kini ~5.194); rupiah ~18.240 per dolar AS meski BI-Rate sudah naik ke 6,00%.",
+   "Perang Teluk berlanjut: Iran mengklaim tiga tanker kena ranjau di Hormuz dan serangan ke Kuwait/Bahrain; Brent ~$89 turun tetapi sangat bergejolak.",
+   "Risalah Fed: hampir semua pejabat memperkirakan kenaikan bunga lagi; UST 10 tahun ~5,07%, emas ~$3.736 dan Bitcoin ~$63.800 tertekan dolar kuat.",
+   "Nvidia masih mencari CEO tetap setelah Jensen Huang mundur; S&P 500 turun lima hari beruntun.",
+   "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan perkembangan Selat Hormuz."
   ]
  },
  "calendar": [
@@ -1813,7 +1824,7 @@
    "impact": "Dampak pasar kecil; hanya relevan jika demo meluas dan memengaruhi sentimen politik domestik.",
    "assets": "IHSG, rupiah",
    "sev": "rendah",
-   "status": "berlangsung",
+   "status": "mereda",
    "cat": "kerusuhan",
    "time": "2026-11-18T04:36:47Z",
    "src": "VIVA.co.id",
