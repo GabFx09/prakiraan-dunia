@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T08:57:51Z",
+ "updatedAt": "2026-11-20T08:58:51Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -86,7 +86,7 @@
      "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
     }
    ],
-   "title_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
+   "title_id": "Trump memecat direktur dunia maya setelah pemadaman teknologi memicu kritik: sumber"
   },
   {
    "id": "perang-202611190848-c19d",
@@ -126,9 +126,40 @@
    "title_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-267 — Serangan Rudal Houthi di Arab Saudi"
   },
   {
-   "id": "perang-202611200239-1fc3",
+   "id": "perang-202611191305-0ce8",
    "cat": "perang",
    "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russia Kills Five in Missile and Drone Attack on Ukraine",
+   "src": "SuaraGarut.ID",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84eU1TaTFNb284bEhvZDliSDhjZ1VxTk9ROF8xMGd4TkF0Q0VSMGI2M1lNSVAyU0g0ODBVZHBFQXhZNy1UQ1dXQmVkbUVYaWNFcHlXTnVzZEtVaS1vNDkzcjl0Rk9Gdjg5bXc?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-19T13:05:54Z",
+   "last": "2026-11-20T08:23:46Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Three killed in Kyiv: Russia launches massive missile and drone attack on Ukraine",
+     "src": "Корабелов.ІНФО",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjNxZlMybE5OYjIybnVzQjBrRWdkUVNlQUFDVVpXZEI3cmd0WW1zNGxOeEliR1NuN3VSbHZmREthSGJndU1XYkFOblhaV004UWRTdGY5QVptX1dtZjFwMl9VVUFRbkE0RUNFdmdrZlF3eVctcUhweDVqaklMYkRBazZtcGdhakRSMG1qek1STXFtWEFhYVJFZnFWWVZSbEFuMndxQkRDOTNLT09GNlZhTnBKWUZJYms3bDJiUnU3dw?oc=5",
+     "t_id": "Tiga orang tewas di Kyiv: Rusia melancarkan serangan rudal dan drone besar-besaran ke Ukraina"
+    },
+    {
+     "t": "'For Russia, nothing is sacred' — Massive Russian drone attack on Kyiv kills 1, damages St. Volodymyr's Cathedral, embassies",
+     "src": "The Kyiv Independent",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHBBVTVHbTY0N2VtNjNhWGpuNnkzNzFjYXBUdWpxdE1BeHFzLTVpTE1NUHFxbmFuQ0RVcVkyUVBrOXhLLU9HMTBQb3FET3FNT2JRYUJGRzRFUDR5Ym9lWTg5bGhocU9yUm1FLWhCRXpvUlhhZG5sRzFraVVPZzNhZW5DTXRQT1I5dG1vMFRhVFZqcTB0R3c?oc=5",
+     "t_id": "'Bagi Rusia, tidak ada yang sakral' — Serangan drone besar-besaran Rusia di Kyiv menewaskan 1 orang, merusak Katedral St. Volodymyr, dan kedutaan besar"
+    }
+   ],
+   "title_id": "Rusia Tewaskan Lima Orang dalam Serangan Rudal dan Drone di Ukraina"
+  },
+  {
+   "id": "siber-202611191712-968b",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
    "title": "Air Force reports one of Russia's most powerful attacks, with around 100 missiles launched at Ukraine",
    "src": "RBC-Ukraine",
@@ -188,29 +219,29 @@
    "title_id": "Perhentian FAA menimbulkan pertanyaan baru tentang keselamatan penerbangan"
   },
   {
-   "id": "perang-202611191305-0ce8",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "siber-202611200115-793e",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Russia Kills Five in Missile and Drone Attack on Ukraine",
-   "src": "SuaraGarut.ID",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84eU1TaTFNb284bEhvZDliSDhjZ1VxTk9ROF8xMGd4TkF0Q0VSMGI2M1lNSVAyU0g0ODBVZHBFQXhZNy1UQ1dXQmVkbUVYaWNFcHlXTnVzZEtVaS1vNDkzcjl0Rk9Gdjg5bXc?oc=5",
+   "title": "The U.S. tech outage wave, explained",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzJaQkoxUnRCVXN1d3Q5NmJBQl9GOWNRNi1wVHhwSFhTYXBuY1h3X09ubXFKeVJDTkxYaS16RElFZUU1MjF2V21CRl82Qlh6NkROdHFGc0xmSWRCcWI4NVdzeF9wVElsVXQ4LXY5Q0NfSWFqNVY2UnVYVlg1RWxtekxpV0dQUQ?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-19T13:05:54Z",
-   "last": "2026-11-20T08:23:46Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-20T01:15:34Z",
+   "last": "2026-11-20T06:32:16Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "'For Russia, nothing is sacred' — Massive Russian drone attack on Kyiv kills 1, damages St. Volodymyr's Cathedral, embassies",
-     "src": "The Kyiv Independent",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHBBVTVHbTY0N2VtNjNhWGpuNnkzNzFjYXBUdWpxdE1BeHFzLTVpTE1NUHFxbmFuQ0RVcVkyUVBrOXhLLU9HMTBQb3FET3FNT2JRYUJGRzRFUDR5Ym9lWTg5bGhocU9yUm1FLWhCRXpvUlhhZG5sRzFraVVPZzNhZW5DTXRQT1I5dG1vMFRhVFZqcTB0R3c?oc=5",
-     "t_id": "'Bagi Rusia, tidak ada yang sakral' — Serangan drone besar-besaran Rusia di Kyiv menewaskan 1 orang, merusak Katedral St. Volodymyr, dan kedutaan besar"
+     "t": "Andrew Cullen | Microsoft outage shows that big tech can’t be treated as too big to fail",
+     "src": "News24",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
+     "t_id": "Andrew Cullen | Kegagalan Microsoft menunjukkan bahwa teknologi besar tidak dapat dianggap terlalu besar untuk gagal"
     }
    ],
-   "title_id": "Rusia Tewaskan Lima Orang dalam Serangan Rudal dan Drone di Ukraina"
+   "title_id": "Gelombang pemadaman teknologi AS, jelasnya"
   },
   {
    "id": "indonesia-202611200037-9c50",
@@ -263,7 +294,57 @@
      "t_id": "Apakah Chase Bank Diretas? Perusahaan Mengonfirmasi Serangan Siber Vendor Tidak Terkait dengan Pemadaman Listrik"
     }
    ],
-   "title_id": "Chase Mengatakan Pelanggaran Data Baru Tidak Terkait dengan Gangguan Perbankan"
+   "title_id": "Pakar Michigan mengatakan sistem digital yang menua perlu ditingkatkan setelah serangkaian pemadaman listrik secara nasional"
+  },
+  {
+   "id": "siber-202611192034-f9bb",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-19T20:34:02Z",
+   "last": "2026-11-19T21:56:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+     "src": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1UWkp5QmtjYW0wNmgzMm04Y295STZlSUdvQ3FwYzhoV01XY3R4S04xLUFPbnFpU0c1SU9iekhxNXlMZE4tS1FRSnRkeDBmSlVRcGZwc2FEOU80US1hZzZ5M2UyalFjZEE0Zmd6cjc3U1MxTzJfdFFtaXJEa1M3UnZJU1V3aVh6YXF0c3BVVkxDMmZtb1lPaHBNM0NIY2g0OUpOQW9tcW0?oc=5",
+     "t_id": "Data Pelanggan Visa, Mastercard dan JPMorgan Dibocorkan oleh Peretas"
+    }
+   ],
+   "title_id": "JPMorgan, Visa, Mastercard mengatakan vendor pihak ketiga menjadi sasaran serangan siber"
+  },
+  {
+   "id": "siber-202611190935-34e3",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Microsoft’s Outlook outage didn’t end when it was fixed — a backlog of retried emails can take hours to days to clear",
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84YTVpMXdrM0ptb1NTdFZ6cmFMTjJJTElwbW1hSm9OQjE3X0JqMUdCa3Fpd3dtRWJGSk9QVk1TOVN2dUR2MTh0OHBjSDQwMGpwMFRRSmJBTWNLU3J1VjBHMWZ6Y1dXaklIV2s5cW9iOE5jVGFzSDZkQlFaLWZlbm8?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-19T09:35:00Z",
+   "last": "2026-11-19T17:34:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Satya Nadella 'admits' Microsoft should have caught Outlook bug before global outage",
+     "src": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObGk4bnNDNjFDT0kyMWdBZTRWc1ZrbmpBa01MaGprWWphcjZJTnVRZE1qWkhUVWFjcmE4aDVXZEotV2hRU1RXdGhBeVMzSEFtakdIWTU0LURFU3VJeWVaZVhENXR0T0hhcW02dWp2ZWFwSHp5QnhQZkFGY1g3SnpFMEN6MUJMNmx0UC1IV2gyMGZMUUtmbTFXeDhBMWJOU1VKYUNYaVk4SHBZX09xUnZQdDJydG1GZ1RKOUtsTnY4YXFFWDZ4cC0xVWx6UWRDQU5hc2w4QlhoemdpUEhXVUxqTXNPMFdDV3FpZmxNRXJ4NjdINVpzamZ6ZNIB_gFBVV95cUxNNkpaREh6eEdsbG9IU1VTYWttSWNMeXZXZEFJcnB1cWQ5OXE5TmotRV81WHlzeGRHQURkZ25md0wwbkhGWXhjQzFVQ0U5a1NZVWNMU0NQbFZMemJ1WW8zdWJvOVB0WElkcWdyeC1FVWdNbGN1Z0QyemFnendnQzRmNHc0N0c5bWR5WlZPMEh5OE0wQ1ItaTRGS2FGQi1QVERDeE9jWjBkVTJTdUlIYTBETlFFeDdRbjVJMS1fVDNXR3E1VGRVb2t2dHFaT1A5Z2VKQWItb1FqaU5GOEdMTFdoMUhfcnFqM0t6VDNhMHZlUHo1OWIzN1BRX3hNS0poZw?oc=5",
+     "t_id": "Satya Nadella 'mengakui' Microsoft seharusnya menangkap bug Outlook sebelum pemadaman global"
+    }
+   ],
+   "title_id": "Gangguan pada Microsoft Outlook tidak berhenti setelah diperbaiki — tumpukan email yang dicoba ulang dapat memerlukan waktu berjam-jam hingga berhari-hari untuk diselesaikan"
   },
   {
    "id": "indonesia-202611190944-b278",
