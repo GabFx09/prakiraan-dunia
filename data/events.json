@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T23:24:47Z",
+ "updatedAt": "2026-11-20T23:30:07Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -7,15 +7,15 @@
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
    "sources": 38,
-   "recent6h": 9,
-   "score": 42.5,
+   "recent6h": 8,
+   "score": 42.0,
    "level": "besar",
-   "first": "2026-11-20T06:05:00Z",
-   "last": "2026-11-20T22:15:00Z",
+   "first": "2026-11-20T02:39:11Z",
+   "last": "2026-11-20T21:10:11Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
@@ -40,7 +40,7 @@
      "t_id": "Putin Tidak Menahan Diri Lagi dalam Perang Ukraina: Militer Rusia Menghantam Empat Jembatan di Kyiv dalam Serangan Drone dan Rudal Besar-besaran"
     }
    ],
-   "title_id": "Rudal Rusia mendarat di Polandia, saat Eropa mengadakan latihan militer di dekatnya. NATO menyebutnya sebagai pelanggaran"
+   "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
   },
   {
    "id": "indonesia-202611200037-9c50",
@@ -149,6 +149,30 @@
      "t": "State of emergency extended for north Georgia counties impacted by devastating floods",
      "src": "WALB.com",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcU40UnRPQlVwVGFHNWhoU2ZWdWxVNjlDVDJ3alNUMVdNekxhTW1BcTdacTgzbUw3QnNrMWtKRnNMTjA4ay04ZC1RT1NjblZCM0c0dkcwUWhZQXo1ZURQcjI1T3JVdVBla3YtQ0NHNS04d1VxcDZSdlNJRWU2Z3FoMUR4QVlCSHlMNzZKeWZQOUo3QmdVMjZybDJoem1uMjk2QXBicEVFbUUtZ1NWd0FWaQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611200632-b19e",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Tech outage cascade exposes US vulnerabilities to foreign cyber threats",
+   "src": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDNrd1NTSnpMSVFmR2JxVlZKV1hISEtBclMyRUhCTkFPQXdzT2ZJVVVuNl9JWm9wY0o2LS1BWnhQTXRJN2RnNWJiRjZ6Y2dpMGxqNGNfZjlrbUdkOUJ4ZEZSUkV4Ni0wUXR3NUgybWh6bFlNRnhUR0s0bERyYXV2bWVXMXo4TFc4YmFhczM3RVp6TGlzLUZYbGxCdDFpdXhZWkYw0gGoAUFVX3lxTE5rX0o4a2U0WU9UWElFNEE3azZmdjJZTU9ucFF5eW10aWQ3Znl3OGl1LTdnTHc4R0RqOFY0UGV6UTJSekw2MVl1X3VIR1NHX25aVXdLMlRHU3VYN2VpWElRdUx4cHFIZE9XUXByYUtHejNWeWVFQk55QzJoOEctS25GT1hIME9fTy1kNzh5RTUtbnl4VXJtdFVheFFKQTNOUV8zdkpTbGVKZw?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-20T06:32:16Z",
+   "last": "2026-11-20T19:23:24Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "The U.S. tech outage wave, explained",
+     "src": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzJaQkoxUnRCVXN1d3Q5NmJBQl9GOWNRNi1wVHhwSFhTYXBuY1h3X09ubXFKeVJDTkxYaS16RElFZUU1MjF2V21CRl82Qlh6NkROdHFGc0xmSWRCcWI4NVdzeF9wVElsVXQ4LXY5Q0NfSWFqNVY2UnVYVlg1RWxtekxpV0dQUQ?oc=5",
+     "t_id": "Gelombang pemadaman teknologi AS, jelasnya"
     }
    ]
   },
