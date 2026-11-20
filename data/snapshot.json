@@ -810,6 +810,17 @@
       "ihsg": 5146.326,
       "usdidr": 18158.0,
       "ust10": 4.954
+    },
+    {
+      "t": "2026-11-20T19:05:00Z",
+      "risk": 86,
+      "btc": 58408.01,
+      "gold": 3507.6,
+      "brent": 89.35,
+      "spx": 7035.55,
+      "ihsg": 5146.326,
+      "usdidr": 18260.0,
+      "ust10": 4.946
     }
   ],
   "horizons": [
@@ -866,28 +877,28 @@
       "targets": [
         {
           "key": "ihsg",
-          "low": 4736.0,
-          "high": 5816.0
+          "low": 4800.0,
+          "high": 5700.0
         },
         {
           "key": "usdidr",
-          "low": 17749.0,
-          "high": 18576.0
-        },
-        {
-          "key": "brent",
-          "low": 79.36,
-          "high": 101.77
+          "low": 17800.0,
+          "high": 18700.0
         },
         {
           "key": "gold",
-          "low": 3601.0,
-          "high": 3981.0
+          "low": 3400.0,
+          "high": 3780.0
         },
         {
           "key": "btc",
-          "low": 58087.0,
-          "high": 70313.0
+          "low": 54000.0,
+          "high": 66000.0
+        },
+        {
+          "key": "spx",
+          "low": 6830.0,
+          "high": 7450.0
         }
       ]
     },
@@ -943,28 +954,28 @@
       "targets": [
         {
           "key": "brent",
-          "low": 72.46,
-          "high": 111.46
+          "low": 72.0,
+          "high": 110.0
         },
         {
           "key": "gold",
-          "low": 3471.0,
-          "high": 4131.0
+          "low": 3270.0,
+          "high": 3930.0
         },
         {
           "key": "usdidr",
-          "low": 17456.0,
-          "high": 18888.0
+          "low": 17300.0,
+          "high": 19100.0
         },
         {
           "key": "ihsg",
-          "low": 4393.0,
-          "high": 6270.0
+          "low": 4350.0,
+          "high": 6150.0
         },
         {
           "key": "spx",
-          "low": 6820.0,
-          "high": 7901.0
+          "low": 6620.0,
+          "high": 7700.0
         }
       ]
     },
@@ -1256,6 +1267,30 @@
   },
   "news": [
     {
+      "t": "Bitcoin mendekati level terendah 2026 di tengah kekhawatiran bunga Fed dan aksi jual aset berisiko.",
+      "src": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRKV3BfU3ZHQ2s5SUFweDJXRXdvdHdiaHA5R2ZjQXZzS3JpTG1ieXYwbXR1NGl0bWw0cTY5c1RMUmpseFZaTHlfVnFyWEYxd2RBY3NwNldRdDg5RU5mZWUxWl9xellrX1NUamN3MzF4dkwzYkNXcFdDdkhob3BoaFZITjM2eThQSzVvNlBXWndWREVpT0NWb2FJLU9WZzFJTnNPSUhUWGVuTW1nVmd2Z2tiWmZYVEhnX3VnYzY5ZXh2UWRoYXAweWR3?oc=5",
+      "time": "2026-11-20T18:13:52Z",
+      "impact": "turun",
+      "assets": "Bitcoin, kripto"
+    },
+    {
+      "t": "S&P 500 dan Dow menuju koreksi 10% karena saham AI terus dijual setelah IPO Anthropic.",
+      "src": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+      "time": "2026-11-20T17:42:48Z",
+      "impact": "turun",
+      "assets": "S&P 500, IHSG, Bitcoin"
+    },
+    {
+      "t": "Emas jatuh ke level terendah lebih dari setahun akibat dolar kuat dan ekspektasi bunga Fed naik.",
+      "src": "Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekpFRDQzd1hCdmJHYjc4VHNIOFJubVB5a3J6aU5ZODhRUEV2RjFDWEZETU1rd2hienViZTBCdjZJOGtDX3EwUEZnLWVBSDVwXzZLOHNsbXRPRElYSTlFYnR5UEdYbTRjOXRYNmhtS25kd2R5MjU0SUdsQmZTSEVRSEJMTkFHazhpcVc2b004WEZGWWRSbjIxdEZybEowM28?oc=5",
+      "time": "2026-11-20T16:40:09Z",
+      "impact": "turun",
+      "assets": "Emas, dolar AS"
+    },
+    {
       "t": "Saham AI jatuh setelah IPO rekor Anthropic; Wall Street terbelah apakah ini puncak reli AI.",
       "src": "Fortune",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXYtcjN1bXdZQmdkQVUwLTZ3WThBSUVCV1BOR0R4RV9PTlNCeEQzWDRGZ01qbWVGZU5sb011NUc3cWs0dkZnQU9ZZ1BabkktY05zdnhhZHBCaEVldk5qX1V6SFh3SEJnZGRLMVpxYzBBWkZNUm9DY2FQZjRLS1A3bjBTVEEzRU96THZqVnZlcnJzQXFJRUdV?oc=5",
@@ -1326,30 +1361,6 @@
       "time": "2026-11-19T22:04:00Z",
       "impact": "turun",
       "assets": "S&P 500, saham teknologi"
-    },
-    {
-      "t": "JPMorgan memperkirakan The Fed menaikkan bunga di tiga rapat berikutnya karena inflasi bertahan.",
-      "src": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
-      "time": "2026-11-19T18:53:15Z",
-      "impact": "turun",
-      "assets": "Saham, emas, SBN, rupiah"
-    },
-    {
-      "t": "Gubernur BI mengakui pelemahan rupiah 8,47% sepanjang 2026 menjadi tantangan berat.",
-      "src": "kumparan",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekFHeU1xWWx3MUNKZkotOFNyLXY2VzdBREJIU3pZOU05SENOTklLWkdDX001TnlrSFI0ZlVMMGhwQVpDWVY4TkJfbFdyRnkwMFRORzNISTFKeHZpY21VSWRxSFcxeWVoU0l5SE5HZ0RuNTJBcGVDcldMYXJ4dzZ5TlU2b2tLcG1NTTN2VmNJQk9jazVmck45S00tWFBfU05RbVQxaVk4VjNLWmZzNXpmQUk5NFRrMlZraWNTR3ZWcWZYdlpmZ0xOMTJ2cEg2ZDZ0aTl30gHbAUFVX3lxTE00XzctNHdJQUJvMmVrbEFnbURYTDg0cFBfLWI5T1FwVjNhUWFkYjhCUm1WcFluMnBqeUkxOGNZUGk3SXNnT3puQlE2Sm1kOVBLcHdWWnlCdjdIUG5TeEhGM3lyMFVNX3l0dEd5SmIxWVhhU3FpRWFielBaX3lWR2EzNjBIOEFGS0gtSkxFQU9kcEhXZWUxX184cHIyWW5uMndORGJLQlRINWo3dmpKZFI2NldYdWxZRzB4ZWlZQm9UZ203eGRTR1BsUUNLc2tqQl9lV2lZOFEzSUI2NA?oc=5",
-      "time": "2026-11-19T12:17:00Z",
-      "impact": "turun",
-      "assets": "Rupiah"
-    },
-    {
-      "t": "Iran terus menyerang kapal di Selat Hormuz; klaim tiga tanker kena ranjau belum terverifikasi.",
-      "src": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczJXN3dIbXJITGpRV1BQQzdMRlp4QVl0ZE5jZnM2Vk9SNm5tZ2ZJV1NlbXA4em01SGZxM3p3b0FQemFMS0dTNGhhdzdPZzhCdXZDVzJTRXYtRThDWHRQa3dZQzRTOGdPZWxuQThVTGo5RGVzUHluWnNVaWRmNE5XQ2VpSS1aMVZUT3IyOA?oc=5",
-      "time": "2026-11-19T10:58:32Z",
-      "impact": "naik",
-      "assets": "Minyak, emas, rupiah"
     }
   ],
   "readings": [
@@ -1367,38 +1378,38 @@
     },
     {
       "c": "neu",
-      "d": "Turun 1,9 % semalam",
+      "d": "Turun 2,1 % semalam",
       "h": "ust10",
       "k": "Obligasi AS 10 thn",
       "v": "4,95%"
     },
     {
       "c": "neu",
-      "d": "Turun 4,2 % hari ini",
+      "d": "Turun 2,9 % hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$88,14"
+      "v": "$89,35"
     },
     {
       "c": "neg",
-      "d": "Turun 3,8 %, pekan terburuk sejak Mar",
+      "d": "Turun 4,8 %, terendah >1 tahun",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.547"
+      "v": "$3.508"
     },
     {
       "c": "neg",
-      "d": "Turun 3,2 %, terendah 4 bln",
+      "d": "Turun 5,6 %, dekat low 2026",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$59.906"
+      "v": "$58.408"
     },
     {
       "c": "neg",
-      "d": "Turun 1,0 % hari ini",
+      "d": "Turun 1,9 % hari ini",
       "h": "spx",
       "k": "S&P 500",
-      "v": "7.102"
+      "v": "7.036"
     },
     {
       "c": "neg",
@@ -1409,10 +1420,10 @@
     },
     {
       "c": "neg",
-      "d": "Dekat rekor terlemah, naik 3,2 %",
+      "d": "Rekor terlemah, naik 3,8 %",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.158"
+      "v": "18.260"
     },
     {
       "c": "neu",
@@ -1421,11 +1432,11 @@
       "v": "6,00%"
     }
   ],
-  "regimeText": "Perang Teluk dan serangan kapal di Selat Hormuz masih menahan minyak di level tinggi, sementara pasar menghitung kenaikan bunga Fed berikutnya. Dolar kuat menekan emas, Bitcoin dan rupiah, dan saham AS mengalami rentetan penurunan terpanjang sejak 2024.",
+  "regimeText": "Aksi jual saham AI membawa S&P 500 ke ambang koreksi, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Perang Teluk dan serangan kapal di Hormuz menjaga risiko geopolitik tetap tinggi.",
   "regimeTitle": "Stagflasi, risiko tinggi",
-  "risk": 85,
-  "riskNote": "Risiko tinggi: rupiah dekat rekor terlemah, saham AI jatuh, emas dan Bitcoin tertekan dolar kuat dan bunga Fed.",
-  "updatedAt": "2026-11-20T15:58:00Z",
+  "risk": 86,
+  "riskNote": "Risiko sangat tinggi: saham AS di ambang koreksi, emas dan Bitcoin anjlok, rupiah rekor terlemah.",
+  "updatedAt": "2026-11-20T19:05:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1725,18 +1736,18 @@
     },
     {
       "k": "Valuasi saham",
-      "v": 80,
-      "note": "Aksi jual saham AI pasca IPO Anthropic"
+      "v": 84,
+      "note": "S&P 500 di ambang koreksi, saham AI jatuh"
     },
     {
       "k": "Likuiditas & dolar",
-      "v": 80,
-      "note": "Dolar kuat, emas & BTC anjlok"
+      "v": 84,
+      "note": "Dolar kuat, emas -4,8%, BTC -5,6%"
     },
     {
       "k": "Indonesia",
       "v": 80,
-      "note": "Rupiah rekor terlemah, IHSG 5.146"
+      "note": "Rupiah rekor terlemah ~18.260, IHSG 5.146"
     }
   ],
   "alerts": [
@@ -1750,13 +1761,13 @@
     }
   ],
   "brief": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "points": [
-      "IHSG ditutup turun 0,92% ke 5.146 dan rupiah mencetak rekor terlemah sekitar Rp18.160–18.270 per dolar AS meski BI-Rate sudah 6,00%; asing jual bersih hampir Rp1 triliun.",
-      "Saham AI tertekan setelah IPO rekor Anthropic; S&P 500 turun sekitar 1% hari ini dan pasar menghitung kenaikan bunga Fed berikutnya.",
-      "Emas ~$3.547 menuju pekan terburuk sejak Maret, Bitcoin ~$59.900 (terendah 4 bulan), sementara imbal UST 10 tahun turun ke ~4,95%.",
-      "Brent turun ke ~$88 karena pasar menilai pasokan, tetapi serangan kapal di Hormuz dan blokade AS atas Iran belum reda.",
-      "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan kemungkinan kenaikan BI-Rate lagi Desember."
+      "Wall Street jatuh lagi: S&P 500 turun sekitar 2% dan mendekati koreksi 10% dari puncaknya, dipicu aksi jual saham AI setelah IPO Anthropic dan kekhawatiran kenaikan bunga Fed.",
+      "Emas anjlok sekitar 4,8% ke ~$3.508 (terendah lebih dari setahun) dan Bitcoin turun ~5,6% ke ~$58.400 — dolar kuat dan imbal obligasi tinggi menekan aset non-berbunga.",
+      "Rupiah di sekitar Rp18.260 per dolar AS (rekor terlemah) dan IHSG ditutup 5.146 (-0,92%); BI-Rate sudah naik ke 6,00%, tetapi tekanan asing belum reda.",
+      "Brent turun ke ~$89 karena penilaian pasokan, namun serangan kapal di Hormuz dan serangan Rusia yang sampai ke Polandia menjaga risiko geopolitik tinggi.",
+      "Pantau: data PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, FOMC awal Desember, dan RDG BI pertengahan Desember."
     ]
   },
   "calendar": [
@@ -1840,7 +1851,7 @@
   "events": [
     {
       "t": "Rudal Kh-101 dan drone Rusia jatuh di Polandia saat serangan besar ke Ukraina",
-      "what": "Kementerian Pertahanan Polandia menyatakan dua rudal Kh-101 dan satu drone Shahed bertenaga jet jatuh di wilayahnya saat Rusia menyerang Ukraina; Polandia menyelidiki insiden ini.",
+      "what": "Dua rudal Kh-101 dan satu drone jatuh di Polandia saat Rusia menyerang Ukraina; PM Tusk menyebutnya bukan kebetulan dan Polandia menyelidiki.",
       "impact": "Eskalasi dekat NATO menambah permintaan aset aman (dolar, emas) dan menekan sentimen risiko; dampak langsung ke Rupiah kecil namun menambah ketidakpastian.",
       "assets": "Minyak, emas, dolar AS, saham pertahanan",
       "sev": "sedang",
@@ -1852,13 +1863,13 @@
     },
     {
       "t": "Wall Street jatuh, rentetan penurunan terpanjang sejak 2024 di tengah aksi jual saham AI",
-      "what": "S&P 500 turun sekitar 2% pada 19 November dan Dow anjlok sekitar 1.100 poin; debut IPO Anthropic gagal menenangkan pasar, saham Nvidia dan AMD ikut melemah, serta kekhawatiran kenaikan bunga Fed menekan valuasi.",
+      "what": "S&P 500 turun sekitar 2% lagi pada 20 November dan mendekati koreksi 10% dari puncak; aksi jual saham AI berlanjut setelah IPO Anthropic dan kekhawatiran kenaikan bunga Fed.",
       "impact": "Memperkuat sentimen risk-off global; IHSG, rupiah dan Bitcoin rentan tertekan bila aksi jual berlanjut.",
       "assets": "S&P 500, IHSG, Bitcoin, rupiah",
       "sev": "tinggi",
       "status": "berlangsung",
       "cat": "keuangan",
-      "time": "2026-11-19T21:00:00Z",
+      "time": "2026-11-20T17:42:00Z",
       "src": "WSJ",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0gyWjhIVGZYS3A2TDJtbVdaZVJHdlo5Smt3RkhsMHJ2bUh6ZVlOLWE5cDhkV3hXcmFVZFRVTmgxdlJXQ3dLRWREYVljemhSVjkycmlFYzctSW44YlhybXNtOFNyYVVvMEw2bGFNSmFnMEJrd2xWMklDbHJ4RGNRNFVnX1VTNUR0QXA5V1BaRlo3Tmo2eUE3U2lCQko5c21rQVMxOGlB?oc=5"
     },
