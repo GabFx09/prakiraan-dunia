@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-20T16:42:34Z",
+ "updatedAt": "2026-11-20T16:57:14Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Today: $61,321.59 at 7:15 a.m. ET",
+   "src": "shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUVRxV0dlNEJZdGZTT01Ud3hBQXpKU2dhMTBUYWdFd0dBSWhCYzh2bHNDak5LY3dFNWRWb0FLMENIbDZ2cVJqbHE2NE9UaGlZRl9jb0pid0pFVFRMc2xWa0xBdW1mQTY0eExrOHR0Ql9JRGM1RGtlMFRad0ExaTNITFFn?oc=5",
+   "time": "2026-11-20T16:43:36Z"
+  },
   {
    "topic": "emas",
    "lang": "en",
@@ -10,14 +18,6 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
    "time": "2026-11-20T16:38:40Z",
    "t_id": "Emas Rusak, Tapi Apakah Ini Pertanda Apa yang Akan Terjadi?"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price at 11 AM CST on Nov 20, 2026",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2VaY0VHQXdaZnFjS0hNWS16Nmd0OF9zYk9XZ2hsdVZhajdwT245YmFSSHMyY25TUERGR2VNU2FsT3UtbHE0OUdhOVlZd2pkckFmY2xwN1hNeUVhOEpCNlhTR0lKN3VIY2ZLNzdVWXg1bkdUSWdiemJCX21TbFd5ZFZERUlNM2RpeXZCX09GWHVSb1ZSWjdTbU9qeVp3V21SU0Zxa2kxUDVFR011Nkd3cw?oc=5",
-   "time": "2026-11-20T16:03:32Z"
   },
   {
    "topic": "bank-sentral",
@@ -60,6 +60,22 @@
    "time": "2026-11-20T15:19:00Z"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price on Nov 20, 2026 at 11am EST Crypto Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejlUalBZeTdBV3NUdzhGek9rZG5tOHM5aFRRQ1JDVHJIZ3lNM3U1TnhXSjFNU1pUNVlFQ0dDNWVQZmNiWmJxdUJTNFpRcXZRb0JRVmJFbURwTnowaC1Jc2x2UlQxRkF2dzFsYjBnVFRQTy1GSk5RUG55MVdsNmlKX1lpN2xfY1pnVTRVQ3NmTkVWWW9KRTN4Q0ZJT0N2TnlCelFfY0RwSUMtTjBFR3E0?oc=5",
+   "time": "2026-11-20T15:03:08Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold price trades near $3,568/oz after final Consumer Sentiment rises to 51.5, inflation expectations drop",
+   "src": "Kitco",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXV0UWUtUHFyVkwzek85UFJvS1V1UFBacFI1TGkyMmJ3OUl3MWFlOXl6QTVJRkg1ckdZbkpJZnA1TzhQOEFNNGhwT2k3S3Y5SmZZZVlZMkdjd1lTWmlTclhDbm1xVGRMOHZXcEFIckEyY3djWUdCWGE1TDdCTHF6SlZJOWZzMWpIaWZOOTNFSWZkVWlMLS0zT1ZyZmJPWUQ2WjNhT29OQ09UNzFUSHRWeVZoUW5EeUk?oc=5",
+   "time": "2026-11-20T15:00:25Z"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
@@ -74,6 +90,14 @@
    "src": "Radio Free Europe/Radio Liberty",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnS0VmRlE3ekV3ZHk0YzY3QjVhVkJJQUd1WWQ2NXVPQmpsN1pqWWg2MVpxajZYQnJIRVNOakJPU0FaUHVJYkVJQ2xScnNrcy15X2ZkLVpsTE42bXdYQ1VrVzJ0X2ZrdDFJalNWbnNJRUJBWEt6amc3V2N30gF8QVVfeXFMTUllRVc4WjBtR0x5QzBEcWE5TDBtQUVnOVRCSDRPUWlfU0ZUdldBd3pFbXZackNOR0xtNmE2el9MRWxmSmtXdkhlNGVJVWlfbDVsczFwem9DMmx2UU1nb0QtZFpwUjN5N0R4Vkh4SjdhY0w4WEIzWmFWcE5Wcg?oc=5",
    "time": "2026-11-20T14:38:56Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Price Forecast: $3,500 Support at Risk as Fed Outlook Weighs",
+   "src": "FXEmpire",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDBMVGpsT3RvVnkzSVZRbnpSdFlDOXNPYjVEc2N5NEFrNEUzYUtFeHN0cDI3eTJkZUZzVWdWREFneVllZXJPaVpMbXBXeGRNa1I1OVlfSVpab0ltT2FOU1lvS0x0RzJiQW9BM2o3YnpCTzN3OExISi1QR2ktTzF4T2pTdFRvVzJCbmVqb3FHdzd1YmNhNjBPeHhrR2dRSEV3WGtHSWRhdDR3dU5RZkVJN1d4OA?oc=5",
+   "time": "2026-11-20T14:36:49Z"
   },
   {
    "topic": "emas",
@@ -108,14 +132,6 @@
    "time": "2026-11-20T14:07:00Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
-   "src": "Bitcoin Magazine",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ld0RMcXoxc3ZZbVlhTjZVRktnZU9hbWdRSjdqS3ZBRkR5R01nNlR2c2I2ZkFpeG1zYVNKM01lTTRNOGI5OWxUTUFaRHRyR25WZGZaSHR0ZkxUSThnSG8wQlBGYmdUS3h1TTY1X3h4WEl1cEZB?oc=5",
-   "time": "2026-11-20T14:02:19Z"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
@@ -124,12 +140,12 @@
    "time": "2026-11-20T14:01:16Z"
   },
   {
-   "topic": "emas",
+   "topic": "kripto",
    "lang": "en",
-   "t": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
-   "time": "2026-11-20T13:48:47Z"
+   "t": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
+   "src": "Bitcoin Magazine",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ld0RMcXoxc3ZZbVlhTjZVRktnZU9hbWdRSjdqS3ZBRkR5R01nNlR2c2I2ZkFpeG1zYVNKM01lTTRNOGI5OWxUTUFaRHRyR25WZGZaSHR0ZkxUSThnSG8wQlBGYmdUS3h1TTY1X3h4WEl1cEZB?oc=5",
+   "time": "2026-11-20T14:00:15Z"
   },
   {
    "topic": "saham-as",
@@ -208,14 +224,6 @@
    "t_id": "Ahli strategi Bank of America memperingatkan bahwa lingkaran malapetaka dapat memukul saham-saham karena Wall Street meremehkan risiko-risiko hard-landing"
   },
   {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "No bear in sight: Major Wall St banks set 2027 S&P 500 targets",
-   "src": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdU5Ud2xHbTNPQ1hjeENJWGNIY3dLSk1xRnRxUVN4ZlpUX2w3WTI5Y3BYdlFGY1JxMlRMcUcwb0ZUd3RnOHNDdEJWdDYwUk1tMFJ1b3dvaE9DcTIzUHZUNkJSNTBCWjcwbzN6aW9QMXR1TlVzdkdQdnpoRlFxSDk3OHhUamE3QVl5ZGlMMlNfNUZiUDM2Y2RXNzRDS2tOT1NBSlhHVFVieUwySWlvTnR6dVV1dUdGWGw0?oc=5",
-   "time": "2026-11-20T12:38:24Z"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks",
@@ -223,14 +231,6 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ?oc=5",
    "time": "2026-11-20T12:37:00Z",
    "t_id": "Harga Minyak Turun seiring Para Pedagang Menilai Prospek Pasokan dan Risiko Timur Tengah"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Prediction: Could a $62K Breakdown Trigger a Crash Toward $53,700?",
-   "src": "Coinpaper",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdlJRQ01TaGZkbFhyM0w1VDRUMWxCcC02RjdLaWpBdjNiRDliMDgxVDhYOEhSTVQ3UER3UlhZYkRKTGxKN09DX0xab2RCeDk3eXlHaVhaUFVlamZYa2kyRncybHZQTTBqSy1PM2tNYjVUb1hTZXZzRnRodG5hQkU4b2V2bXZmLUpLaEZKTkxvZlZySWdWZUZDMTAxN1NHbzlfVVR3REJLa1k?oc=5",
-   "time": "2026-11-20T12:32:52Z"
   },
   {
    "topic": "ai-teknologi",
@@ -276,6 +276,15 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
    "time": "2026-11-20T11:54:11Z",
    "t_id": "Bersiap Menghadapi Banjir Minyak Segera Setelah Hormuz Dibuka Kembali - Berita Energi, Berita Utama Teratas, Komentar, Fitur & Acara"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street’s Black Friday sale: 4 earnings-crushing stocks with up to +54% upside",
+   "src": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVFFjTmFvU3k5X0dsNVhEV19aUHFodG41cVY5TW9Vdk9LZl95YkE2aEVieEZBbU9XZWpGYkc3Snl3dk9UVUwwLTR0TmlQckE0RFV5TlVOclJQYmstTHo2YWJkU1A1RDdYNWNYTkthUGpCTDJTdG9FSU0tWkFTTGpraHdkVTFaU1ZhOG9fdTJCdmVQT1A0TmFfTlFpaks1U08tZVR1V2xrMDRnb2V5cHZJR1NSeVNFU1g4TzR6YzJvNHl1TTZQQUx4SVN3MElrWTg?oc=5",
+   "time": "2026-11-20T11:01:53Z",
+   "t_id": "Penjualan Black Friday di Wall Street: 4 saham yang menghancurkan pendapatan dengan kenaikan hingga +54%."
   },
   {
    "topic": "indonesia",
@@ -438,18 +447,18 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Dilema BI Naikkan Suku Bunga, Jaga Rupiah Sambil Jinakkan Inflasi",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWotSW5waG5iRXFBc1dPSWx3bXFzbnl2OUc1aDRUNWNIZFZ0aGc1UDRTd3dVMjBHaWJKV3RpQXlUWGVVVi1rckQzMkhROFhBeUNWbnlTRzFqeXAwam5VbEphVVVab1E1ZGZqZE1vV2ZOZk9jTEkwbDNsUDNPV2JhMExjNGhwRFZzYndTSVlyQ2RkcmFRVUVsVUtTVHEzUlBNbjVPR25ITWpEcDF6SnBNZ2pjOFI0MkxCRG1meEItU3ZyZENW0gHKAUFVX3lxTE8xcmhhRnp6NkNnaHhqdXN4aDlaNmNaaUFFbXU1TEMxdko0WHFlakpmUEVtV1JZdFg4Tmwxd3d1blpyMDloUHNfc01LR092VjN1U0V2MG5KV3NkaEtXQ2hQQzZQZzk5cFBrZjRuWTNJN2hkSWtYZ05sa3J0WmpON3lMb3dBSXFsTmFrTTdfTzNoaURGV3FJNEIwZExZQldzTF9pbm9SbjhpT0UxYjRINDVPWWdDNEJ3LTI3dlE5M2VOUk4xU3VUU05UaGc?oc=5",
-   "time": "2026-11-20T06:55:37Z"
+   "t": "Rupiah Melemah, Bank Indonesia Naikkan Suku Bunga Jadi 6 Persen",
+   "src": "Jatimnet.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGlsVFNKdXBJcHBWNVh0OU5XaW1ERG1kQmxGVnNJaTZpdElYTWQ3YTdxTjhWeTJOOWFBVG9jaHdfdTFjeGtSQjlpMGo1NE8xNU1ra3hocGZiRGVzNl9UV1FlWVFyaTYwQ2dmNjhiTzVQWEU1bVNpdnprTkljVmktNUI3bWhVUno4aVZ3?oc=5",
+   "time": "2026-11-20T07:30:00Z"
   },
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Jangan Biarkan BI Sendirian Menjaga Rupiah",
-   "src": "Kompas.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTE5rcEdnaXdEZ181c0FRV1pIcTRSdUptbDkwRFFIUmRDNXBvMHRBSGxHTmFUMTFiTWpULWdGbnVqZEVGUWoxcy1yUV94WTc4MmQzd2pSOVBZUkk3MXlsOWRPSk5zZjhhZ2pERDlHS2VfZFRDTkdydzJyVXlkXzYwNGRnYnR3YmRQUXBKdFJvcVYwZzBNWmp2SQ?oc=5",
-   "time": "2026-11-20T06:12:00Z"
+   "t": "Dilema BI Naikkan Suku Bunga, Jaga Rupiah Sambil Jinakkan Inflasi",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWotSW5waG5iRXFBc1dPSWx3bXFzbnl2OUc1aDRUNWNIZFZ0aGc1UDRTd3dVMjBHaWJKV3RpQXlUWGVVVi1rckQzMkhROFhBeUNWbnlTRzFqeXAwam5VbEphVVVab1E1ZGZqZE1vV2ZOZk9jTEkwbDNsUDNPV2JhMExjNGhwRFZzYndTSVlyQ2RkcmFRVUVsVUtTVHEzUlBNbjVPR25ITWpEcDF6SnBNZ2pjOFI0MkxCRG1meEItU3ZyZENW0gHKAUFVX3lxTE8xcmhhRnp6NkNnaHhqdXN4aDlaNmNaaUFFbXU1TEMxdko0WHFlakpmUEVtV1JZdFg4Tmwxd3d1blpyMDloUHNfc01LR092VjN1U0V2MG5KV3NkaEtXQ2hQQzZQZzk5cFBrZjRuWTNJN2hkSWtYZ05sa3J0WmpON3lMb3dBSXFsTmFrTTdfTzNoaURGV3FJNEIwZExZQldzTF9pbm9SbjhpT0UxYjRINDVPWWdDNEJ3LTI3dlE5M2VOUk4xU3VUU05UaGc?oc=5",
+   "time": "2026-11-20T06:55:37Z"
   },
   {
    "topic": "saham-as",
@@ -485,21 +494,12 @@
    "time": "2026-11-20T03:48:00Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold futures sink below $3,700 as 5% yields pull money out of bullion",
-   "src": "Kitco",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlJNYXNXZkw3b1RUbHlCY0hkVHF0OEFjQnpaMDlNc2dYREpHTUpVSHdiVTFsMHlYbXFjX3RhX0VFN3Z5WFZSUFBtRUplVUs3TWx3SWk1UmJYTDk0LWxQOFhIaU1JNS1hQm9QaDlSalNLU1JkRDd5QU9YUHZyTEsxalNySWo0YVUwVkNjZE55SXplYkJMOVJHQkIySk5YM05rV1Bj?oc=5",
-   "time": "2026-11-20T02:05:02Z",
-   "t_id": "Emas berjangka tenggelam di bawah $3.700 karena imbal hasil 5% menarik uang dari emas batangan"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Koreksi 4 Hari Beruntun di Tengah Tekanan Global, BBCA Tebar Dividen Interim Yield 0,62%",
-   "src": "Ajaib",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkRITm9KYy15TjZLSGxYTDJDMzhRSUtieEFUTkVmdkZPQVJWMEwxOFA4NVhjczFodkYtNDF5MG94Um5FVDhRZlZOWjg0cWdJV2txb2lmZ2FFd0VfOEZaal9SVFhEVDhKNTVnX080Um9qTkVJZUZTd3E2X2tfa1FjeU9wOFExQ0RpUU9TMHR2SnVhekJSVXRoMUR1SDltRG5QZ1E3bVM3NVB5bmNybEtFWXJyRVlCM3B0c2NXaVYxRUwwdw?oc=5",
-   "time": "2026-11-20T02:03:45Z"
+   "t": "Rupiah melemah seiring ketidakpastian geopolitik di Timur Tengah",
+   "src": "ANTARA News Sulteng",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWZuU2pabWRVMXl4dGJ1eHJMTzFQUUI2c0cxLXZBcUkyYk1qcm1TMmpjaDMyWk9BWlc0b1FIOFNPQjJmWjRSR1pVMWRLcDhVNllENmlzMVpaSkZXVGs1cGMzR1JnSjVGTTdtTmtVN3N2U2xpUU5aZ3VobDVzRDlOLUlqSHh6Z2FqZFVkdl9rYmRleEptLVB6YmNqcDFpYndHWXBScFRjR2l6UWFhd0E?oc=5",
+   "time": "2026-11-20T03:19:39Z"
   }
  ],
  "errors": []
