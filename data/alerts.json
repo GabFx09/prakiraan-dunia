@@ -1,7 +1,27 @@
 {
- "updatedAt": "2026-11-19T00:04:34Z",
+ "updatedAt": "2026-11-20T00:09:45Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-gold-20261120-down",
+   "time": "2026-11-20T00:09:45Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "gold",
+   "title": "Emas anjlok 3,6% dalam sehari",
+   "body": "Harga terakhir 3.606. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#gold"
+  },
+  {
+   "id": "px-usdidr-20261120-up",
+   "time": "2026-11-20T00:09:45Z",
+   "level": "kritis",
+   "kind": "harga",
+   "key": "usdidr",
+   "title": "Rupiah melemah tajam: USD/IDR 18.235 (+3,26%)",
+   "body": "Harga terakhir 18.235. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#usdidr"
+  },
   {
    "id": "px-gold-20261119-down",
    "time": "2026-11-19T00:04:34Z",
@@ -209,6 +229,8 @@
   "px-btc-20261115-down",
   "px-gold-20261118-down",
   "px-gold-20261119-down",
-  "px-usdidr-20261119-up"
+  "px-gold-20261120-down",
+  "px-usdidr-20261119-up",
+  "px-usdidr-20261120-up"
  ]
 }
