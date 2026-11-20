@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T23:15:04Z",
+ "updatedAt": "2026-11-20T23:24:24Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -10,14 +10,6 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
    "time": "2026-11-20T23:09:34Z",
    "t_id": "Emas Rusak, Tapi Apakah Ini Pertanda Apa yang Akan Terjadi?"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "U.S. Stock Market Close: AI Trades Face Heavy Sell-Off, Nasdaq Plunges 5%, Philadelphia Semiconductor Index Drops Double Digits, NVIDIA Slides 14%",
-   "src": "Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3lhQ0ppYS1mN20xZVRHamxuUGhQQXF6cjQtODVBVENLUm1hQWZITy00aklwa2JJTjJPN3VHNVZBZHNDeGpSUkxYdTROQTF4VHdLR19DbmtGVElpTFo5aDl3T0o4cVpjTXI1VWlsRXJncHM4M3RfaUlTWWh3YUdiM1QtRzVkY3N1bTlfSmpjVG9rUmlZTU1zLVRfbw?oc=5",
-   "time": "2026-11-20T22:48:36Z"
   },
   {
    "topic": "saham-as",
@@ -52,14 +44,6 @@
    "time": "2026-11-20T22:26:16Z"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia shares plunge as Anthropic can't stop the AI selloff",
-   "src": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5",
-   "time": "2026-11-20T22:23:20Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
@@ -68,12 +52,28 @@
    "time": "2026-11-20T22:12:39Z"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia, Anthropic shares sink as AI stock selloff deepens",
+   "src": "Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU16dVUyeEt6cWdJYzlRbEZQcC1HeU8xbXdLTU50OXdwRzJzUnFiS1lvWjNfME54SmlpUU1hN3VWdGNXUExyM0JLUGxKdlZvdDYyNlAtemtvcEJOYzIwVlBGYjByMzhjaFFhS1dGU1dLTHVIM1hzaFZLN2FNdFBnVzg2UGpwbjV4OF83QQ?oc=5",
+   "time": "2026-11-20T22:10:39Z"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap",
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5",
    "time": "2026-11-20T22:08:07Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia shares plunge as Anthropic can't stop the AI selloff",
+   "src": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5",
+   "time": "2026-11-20T22:03:13Z"
   },
   {
    "topic": "saham-as",
@@ -86,27 +86,10 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "time": "2026-11-20T21:57:58Z",
-   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
    "t": "Oil Futures Fall for Third Straight Week on Supply Outlook",
    "src": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ?oc=5",
    "time": "2026-11-20T21:51:03Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Bos BI Sebut Program Pemerintah Mulai Dongkrak Kredit Bank Swasta",
-   "src": "CNN Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa19Zdl9LQUQzTlRnUDNLSHV2Q3pSZmliSXdyWmVYYWJTTGNubHVQNHJ3WWJhRGtaXzd2TER1WHNWdHd0U3FYc3Q5QklOaEc0a1NKLXRlWG9WMXJnckUwWGlvRFlLTGJzVWUzRWhXNDAxblNlYUdYMGVJMmxDelY5NXFPNklBOEJ5cU5XSGMwVDNxcVREOHhkQUJhZWZkdUxFZmdlTWpYNkN3SVllRXdkTUhwX1JWN0laUm80SmxJV0k2MHFMeFIw0gHMAUFVX3lxTE1qQ0NNbjNzTUtQcVpPSkxvYjdkNVFOV1FBaHVBYXlXUFhNT1JyUGp1Qmg3V1JiN0sxcElSVG9TN1hPcEkzSEhBZF9scFNzMEF6S1FZOE5yV0tYVnlydVhqOUlONXhPRndldlRVUG9XY3lRNno5eGJlaEZxdmRycUloMm40NGIybF9HU1pFRHNBdEhLOHVHWGNTSUxmZFNKSG9Na2lIOWtDNzdibWVDU2hsUDlIRFBJMGd0X3VVandZT0xMRnpnUzRsQkFFMA?oc=5",
-   "time": "2026-11-20T21:45:14Z"
   },
   {
    "topic": "china",
@@ -131,15 +114,6 @@
    "src": "The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdUhHRHVEUDBOY2ktQlJSWGRTc2V2Q3VmdnYtRG9hdlVVdWQtd2lZdmdDODRWelA3eFkwaDBRTE16bXVFYnNRUGhyYmlSclFLOHJLWEtIS0l3aTV3YU5ZS25iU1R2OFp3SmRSang1a1JibjhpMi1kTS1tOC1oejhuV0pTVUx3ZWNKV0RRLUNydFRYanJqeXZmenJRV1FScXlwX2NjRWU5ajN3eDk3ZmZRY1NTOHV3dzNaRVN4dWJDT1BzN1c4LVBDMF93RW5XWHBqWi1OZWpSQTAtNlRIYXNCMVlDNnFNY1EwQktzbm56NUh5QXR2QmxUemNUcWJmSDJISjctS2RWZjJYNTlKUVNr?oc=5",
    "time": "2026-11-20T21:35:02Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Strait of Hormuz Watch: Peace Negotiations Stall, Vessel Attacks Persist",
-   "src": "IndustryWeek",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
-   "time": "2026-11-20T21:22:07Z",
-   "t_id": "Pengawasan Selat Hormuz: Negosiasi Perdamaian Terhenti, Serangan Kapal Masih Berlanjut"
   },
   {
    "topic": "saham-as",
@@ -205,6 +179,15 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
    "time": "2026-11-20T19:20:26Z",
    "t_id": "Harga Emas Hari Ini | Harga Emas Per Ons | Grafik Spot 24 Jam"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Strait of Hormuz Watch: Peace Negotiations Stall, Vessel Attacks Persist",
+   "src": "IndustryWeek",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
+   "time": "2026-11-20T19:07:34Z",
+   "t_id": "Pengawasan Selat Hormuz: Negosiasi Perdamaian Terhenti, Serangan Kapal Masih Berlanjut"
   },
   {
    "topic": "bank-sentral",
@@ -308,14 +291,6 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5",
    "time": "2026-11-20T15:46:00Z",
    "t_id": "Pasar Saham Memiliki Masalah yang Bahkan Anthropic Tidak Dapat Menyelesaikannya"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Si Kecil yang Bisa Menggerakkan Inflasi Indonesia, Cabai",
-   "src": "Kompasiana.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmRfbkhTUmpEc3BRcERzb2todmlfRnltYjBIUmx6a0EtaUF2NV9feUJsRWg2ZFpxRzA1UFlQSERkZGhSeDJNSmJFWUhQd0tPM1A3Y3V3VXRBRFBkeG1YVmp2M1RkMHdGdFdidFRaa0lGZnNFdV9QOV9RYWk5QWE0cGVVTldQYk1aX0RuWHBoT1psX1ZyLXVwWUt4NWFROTFaWXAzRU9WVFFOSEU5dHVCRG5Ncnk?oc=5",
-   "time": "2026-11-20T15:40:00Z"
   },
   {
    "topic": "saham-as",
@@ -432,6 +407,15 @@
    "t_id": "Apa Arti Jatuhnya Harga Emas Bagi Jutaan Orang Amerika"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "time": "2026-11-20T12:11:31Z",
+   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize",
@@ -439,6 +423,14 @@
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTWVucXBjLXNwR3NFaDRBOEtsSTVNUnFfeXRCb3hndUlvT0V4VGpuV0ZLbnI1dzEzZmtOTnNMMlFZdVVkaFFTQ0M2aXY1S3dFOFRja1FwRFpYUFpXM0J4dGxCV0pMcEhoclJfa0NxR1loR2NEalljdjNMZEpVdkNzeS1QWUtZS1laRHYydWRGTFQwNi01MDdaNmhpZzlDTGZtUExVUURYWHJ0bTNiY3R5ZXhhbThvQmtadWtOOGxmc1EzeTdVSl9keGJxdGxvTzZkNHVTQjhZQWtlY0w0M1gtOFd1VlhLRXo0aFNTdEszb0ltQ0NZOXJfVXRqdE43TERBR0U2bWUzb3U4TVRwQ3hOdw?oc=5",
    "time": "2026-11-20T12:11:16Z",
    "t_id": "Harga emas hari ini, Jumat 20 November 2026: Harga emas terus turun karena ekspektasi kenaikan suku bunga semakin mengkristal"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Rate Naik ke 6%, Kredit Modal Kerja Perbankan Terancam Melambat",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xMzlRcFJzMWdUNkZqSkJBcFlvTmFwSWxTVGd3WVBfSW1SSHRZaFNmOXdLV0QxYXUybkx3RkkzbTV1ck5QWGdWWGtManN2NGNDbm9OMXB4TEdxSHdlQ0UxTGt1MnQwdw?oc=5",
+   "time": "2026-11-20T12:02:12Z"
   },
   {
    "topic": "indonesia",
@@ -455,6 +447,14 @@
    "src": "Aktualita.co",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUJqYlFjcV9aenBnbWVjcmxYbmg1bTl1X19oal92LVgwOU52NEZMWjBrYTNyVTk3UlBzdk9IaW9Ka1VZRU41RnhfM0w5aXlvbnBkTTB0VXAteWtxU20zLUMxVHFVc1FtSmFSY1Jua09PVXByQ1RaTzZicm5xeHYwZnVn?oc=5",
    "time": "2026-11-20T10:39:36Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Kenaikan BI Rate ke 6% Dinilai Jadi Langkah Strategis Jaga Stabilitas Rupiah",
+   "src": "InvestorTrust",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMW1PRUhNajJlNGxFbnRiNWtQUE5pbTAxUE5Ra19ydVpLSnBEb0Z5Qlp5U3B5OTFhUXFoajNDY0FJREdZaGkwWndyRDdXaVZ4ZFI4a2doZnJnY2l2aEduV0pHWk1aRlRXLUFfUnItb2JxQW1ack1pb3ZyY0hra1pPZGpCT29LX2cwdko2MzdodVRCanZQR3VPX1JrYU05aW1yVm96UmlXckNaTHZRRnV0MjRzaFBrZWQz?oc=5",
+   "time": "2026-11-20T10:39:00Z"
   },
   {
    "topic": "indonesia",
