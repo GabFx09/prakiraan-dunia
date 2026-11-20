@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T21:36:26Z",
+ "updatedAt": "2026-11-20T21:47:15Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
    "src": "CBS News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFSTWdxSVdBMEtrN1RpU2F0eTZuOTVQV0lSQ1hsWERjY25VLWV2d1hlZHluaWZOeklXRWhaN3NrSmMtWjhFY2VKU0lWbU9FWndENldZU0owa1BaQ3N2eWN4WE9xOXhkNjlLMmxxb3AycE5sRHZqVnpXLTFnN1daRGh3MDh2cFR1RVBYLTNoMXdMbTZWSURtQQ?oc=5",
-   "sources": 34,
-   "recent6h": 12,
-   "score": 40.0,
+   "sources": 35,
+   "recent6h": 11,
+   "score": 40.5,
    "level": "besar",
    "first": "2026-11-20T06:05:00Z",
    "last": "2026-11-20T21:10:00Z",
@@ -39,6 +39,47 @@
      "src": "The Kyiv Independent",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlqYnRIM184cXRFekZMM3o1Q2FyNDVNeGVqbW1fMHpFOWx2TktpdV85LXd0d2hOZU02VWV5LWlsYnAxM3p2VXMzQ3VwOXU3VmE5bV90Yl91XzZXRHdPUFozYmE1TE5kT3Y2TDhUdU5pUlk2V3VNVmE3OFBic3ZDWUdxcXc5M0VSMUFELU9TLXQ5OHpiQ0NSRkVEa0R1Nkg4ZEhJQllVbGZFZnIya3hTMWF4Nk1pdG1HZ3JNbzB1U2JPNUtMek5rd2Fn?oc=5",
      "t_id": "Perang Ukraina terbaru: Rusia menyerang 3 jembatan Kyiv dalam serangan udara besar-besaran di Ukraina, sedikitnya 9 orang tewas"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611200128-dd6a",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Trump fires cyber chief over tech outages",
+   "src": "Morning Star | The People’s Daily",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjdzV05adUNTWEhXREItaW1NZWJoYV9oblpMd2wwZ05pSjFzc3Ixd2c5cHc1a20wcDhITzAyeGFDM0RXUk9ROFMzU1d1YVQtQVVyVDZiMGxiZG1lZ3NWRjRZTlhsM1BmZVkxSlhPNHZoYzNzVFVDR1IxS1hnbmtwd2VJMjQzLS1U?oc=5",
+   "sources": 7,
+   "recent6h": 1,
+   "score": 7.5,
+   "level": "besar",
+   "first": "2026-11-20T01:28:47Z",
+   "last": "2026-11-20T18:29:34Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Trump ousts cyber director after tech outages spark criticism",
+     "src": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEZGUFozVVNGNzRlb1gtMEN6cTdmaF9zbjZNMkhlaTVzZFhuMEUyWjRGN2xVLVdtckhZZ2s3amhESTB0cGZ3Z092LW5LXy00T2NPS2tsSmlPM01QVmlnQmVmWjlEWURpU3dVWnkzTTAxZ0NQUXdzS1VFT2g1ZjQ2Nzg0aUFGSmQxb1NiOFdnbw?oc=5",
+     "t_id": "Trump memecat direktur dunia maya setelah pemadaman teknologi memicu kritik"
+    },
+    {
+     "t": "White House replaces national cyber director as nation reels from tech outages",
+     "src": "wvtm",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEZIeUNwcE5XTFQ0SjczRDctak9JcGNfNXJsbExfS1pjSlhfTl94b3JXekZrR1JDamU5eTlUQ0lTT2RiQWJzZjFTbms1dmRTR2RDMUFnd1EwZGgwdkJnTWp1a3ZydEJ0TUJZcDVIZ3h0VVg3UEJ4MHVFV0FBaXBIWHJjeGRyLWVWZ214b1k3TWdEMmNk?oc=5",
+     "t_id": "Gedung Putih menggantikan direktur siber nasional ketika negara tersebut terguncang akibat pemadaman teknologi"
+    },
+    {
+     "t": "Trump fires cyber chief amid mounting criticism over tech outages",
+     "src": "China Daily Global Edition",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSno4d0RjTXZpMFZLMF9mVUJwSHZBa3gyQUx4Vk5oa1ljRGg4b2U5YXFFUEtlVk5WZkhKOURYb3BaQ1phcG45eWEybUF1TmpvZnNadFMyYjRTX0J1cUQ4VEFTcUx3RXFKVkJDcm9CZHlZRjhzLVpXZVhrZGIxTElfZ2Z3?oc=5",
+     "t_id": "Trump memecat kepala dunia maya di tengah meningkatnya kritik atas pemadaman teknologi"
+    },
+    {
+     "t": "Trump Ousts Cyber Director Sean Cairncross After US Outages Disrupt Air Travel, Banking: who 6 outlets blamed",
+     "src": "NewsCord",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaUVud3ZMdVF2Q0RGZC1Hd3lWc0k0Q0l4VTBmVEtjWVZxNUQ5ZG1LVFBTNm4wcDZxRlQxS1VSdk05YW5ZUmVQam05YzhnaExVekkzNEw3MURLclJNa2hUbjJIUWpsTGxqQWhSWHBwRngtWGpRZGFQQWoyM0xzZXJBaDdpV3NYOUxFcWxtRjhORzVKekZlQjUwQWJhMnhSMUN2eHJmSEF6d3RibVhyNzlkNTIxX0k1UC13ZDdvWWU3QktMVFFzYkt5RzlscldqUUU?oc=5"
     }
    ]
   },
@@ -137,6 +178,35 @@
    "title_id": "Putin melancarkan serangan ke Ukraina beberapa jam setelah pertemuan Trump di tengah dugaan pelanggaran rudal Rusia di wilayah udara NATO"
   },
   {
+   "id": "siber-202611200323-9092",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Outage at NSA’s highly classified communications network has been resolved, sources say",
+   "src": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOck9MTGhNNDNhVTQzZ2R1NkV2T1FpY1lrYmFfYUNRUE8wenByZGJhRHF5clMxNkh3Qmd3NmtkVjRxREYwYjZJdERnczcwT0FrZ0s0MFkxRlF1bFI5eFVDbktpdnY0Y3VsRTRPbFVvTVJoblQyYWNfVWVtTno0M0ZSaTY0YVI0R25TbUt5TWRn?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-20T03:23:50Z",
+   "last": "2026-11-20T14:01:32Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Report: NSA Outage Disrupts Intelligence Center Supporting Iran War Operations",
+     "src": "Daily Beirut",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnppM1lOOHhJNER4ZUtGTkdIR25NVlR4YVVNNl9MeUN3ZDU4YVRuX0hfbklTd1FQZnlERG1MaFN4eThlR2g2WkhLOVdzaVJZalBwRHQwRHhVVnlYZlBIeHNDY0lJN2owLWJBczVzcDZDeUYzb25RdlZIa2FjY3N1TkhmUzJBUURjRW5zU3NqZjJ3clFWaC0zQ245ZGxpbGlfUXVaMkhlTGl1dmRDUy03Qg?oc=5",
+     "t_id": "Laporan: Pemadaman NSA Mengganggu Pusat Intelijen yang Mendukung Operasi Perang Iran"
+    },
+    {
+     "t": "NSA Classified Network Outage Disrupts Middle East Operations as FAA Ground Stop Exposes Serious Flaws in America's Critical Infrastructure",
+     "src": "SFL Media",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDEzVVpPQlhEUkM4bUNyN3VkYkY2am1ZNE5sWi11MGtXUjZzekNCRTYtWWxQbnh5cGo0QTFjUE9JR3hFSV90TzNMdmt6dWU3TUtxWFNPY2VFSzVmRGZtY0Y4ZXNRbjRHWi11dkFoaVgtN25vdjBsMnR1VHRMQ3M0aDZRV3FSMjMwbm5kZnl4MFRsNlNFbFUwdFFUcFJ1V052UzdyMWVrel95bTVrcUJiNnlSX05tdDk2YXRIY1M5U0ZOeHpjTE1kWHRzZmFmNlhLYjk2WDZObXFUalJ3T2lzT1YyVXBDanBfU1RCTERR?oc=5"
+    }
+   ]
+  },
+  {
    "id": "politik-202611200336-69ce",
    "cat": "politik",
    "label": "Guncangan politik",
@@ -160,31 +230,6 @@
     }
    ],
    "title_id": "Sánchez menyerukan pemilu cepat di Spanyol"
-  },
-  {
-   "id": "perang-202611200333-aec7",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "UPDATES: US War on Iran, Day 267 — Houthi Missile Attacks on Saudi Arabia",
-   "src": "EA WorldView",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-20T03:33:21Z",
-   "last": "2026-11-20T17:33:29Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ballistic missile and two drones intercepted in southern Saudi Arabia amid military escalation",
-     "src": "جريدة القدس",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcm5fVV9TLWhtTnNvY2NNdDFVWTBWSHE0NkVxSTBGRzFZTWtMVjNoSjViVGM0czFoLTFJMldDZDVzbTR0VFEyaUc1NXJVTmQ1UThfaFZfd2pBN0dQRE0yWkZlN2RvVzRwQ1AzQW5PR0RzTVZybnZ0ZXNuWjdFbWVkWVRrdXJFY2k4MHJHNkhlT1YwZThMX0g2bU5kYmN1X05lSlpmcDliYjRhaHpTUUE?oc=5",
-     "t_id": "Rudal balistik dan dua drone dicegat di selatan Arab Saudi di tengah eskalasi militer"
-    }
-   ],
-   "title_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-267 — Serangan Rudal Houthi di Arab Saudi"
   },
   {
    "id": "indonesia-202611201440-1c07",
@@ -258,32 +303,53 @@
    "title_id": "Ground Stop Nasional Menyebabkan Pernikahan Dadakan di Bandara: 'Bahkan FAA Tidak Dapat Menghentikan Pernikahan'"
   },
   {
-   "id": "siber-202611192139-217c",
+   "id": "siber-202611192334-04eb",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkN5UlVhWktTVzZNa1JiQ0FuZG9JXzlfcUZCQWZYUVVvTFJRbjBNSlBya3hIb2VFMFJxNWJEdEhVMnZDOVkwakNMdGcxLW9DcUptTTkyTERxZ19xMENpVDBGUGkzZkl6NHpGUlRCUlpoMDZ5dFNUZWc1TXJESHprMFVCX0swNml1WEZtNFlzYTJVRDZLeVRQaXFmTV9IQkk?oc=5",
+   "title": "Bank Outage: Why Chase, Bank of America and Wells Fargo Customers Couldn't Access Their Money",
+   "src": "BBN Times",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenVnSEliR0ViMklHSEVTZkVkcUphZUlNVUh0amR1YzlNYlpOQmhIUFlLVEZlejdJYkVGMTFIYmpsNVhRVTZENVlMYndIRWZ5a1RuRHBFMm1NM2RSZG0yelZDYktYaDZNcTB4WHNIRjhlZ0JrVXo1bnRPT0RBMHVncFp1MFBPUmJkcmx4VG92UWN6ZjB2UmZCWEp4NkpnMlA5SG5qOW1uZS1pMlM1U3J2OGFaUWNvRHg5Vm50czQxNXB0MHBj?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-19T21:39:12Z",
+   "first": "2026-11-19T23:34:38Z",
+   "last": "2026-11-20T09:01:28Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Chase Bank Hackers Went After A Specific Group Of Customers",
+     "src": "The Daily Wire",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3V4ZkU2TzJORXJVaDlsMENqUUt5bkliMlZBeFNETzdtSFJ0ZldUbzBnZlBnRzdWQWNsVngwcjVqa21zUTZjZTZoUUxnU0ZkMDIwd01HVzdhTV9iTm5icFB0UXowV3BrZmNSWGUwVk9rOTdCTGw2NjJIN1RkRXgzSm85Y1lZaHQ2TE44NlM1MVVIQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611200115-793e",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "The U.S. tech outage wave, explained",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzJaQkoxUnRCVXN1d3Q5NmJBQl9GOWNRNi1wVHhwSFhTYXBuY1h3X09ubXFKeVJDTkxYaS16RElFZUU1MjF2V21CRl82Qlh6NkROdHFGc0xmSWRCcWI4NVdzeF9wVElsVXQ4LXY5Q0NfSWFqNVY2UnVYVlg1RWxtekxpV0dQUQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-20T01:15:34Z",
    "last": "2026-11-20T06:32:16Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "The U.S. tech outage wave, explained",
-     "src": "The Washington Post",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzJaQkoxUnRCVXN1d3Q5NmJBQl9GOWNRNi1wVHhwSFhTYXBuY1h3X09ubXFKeVJDTkxYaS16RElFZUU1MjF2V21CRl82Qlh6NkROdHFGc0xmSWRCcWI4NVdzeF9wVElsVXQ4LXY5Q0NfSWFqNVY2UnVYVlg1RWxtekxpV0dQUQ?oc=5",
-     "t_id": "Gelombang pemadaman teknologi AS, jelasnya"
+     "t": "Andrew Cullen | Microsoft outage shows that big tech can’t be treated as too big to fail",
+     "src": "News24",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
+     "t_id": "Andrew Cullen | Kegagalan Microsoft menunjukkan bahwa teknologi besar tidak dapat dianggap terlalu besar untuk gagal"
     }
    ],
-   "title_id": "Yang Harus Anda Ketahui Tentang Downdetector Sebelum Pemadaman Teknologi Besar Berikutnya"
+   "title_id": "Gelombang pemadaman teknologi AS, jelasnya"
   }
  ],
- "errors": [
-  "bencana: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
