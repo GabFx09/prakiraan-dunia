@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T13:32:04Z",
+ "updatedAt": "2026-11-20T13:46:42Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "The Guardian",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZVRXJNQ1h2Z3Q2VzhYNjRCSF9TRUQ1dlA5cnJHcGNVZVFtOExfS2tXSF91UGE0U3V3djRERGdPc1dSZXUxSmxoZEpvckxDVGFYQ2RmODJYd1BRcXBhNGV1QlllSGgtREFmTjg3VzVOTEpZRWlHQWFCTFlMU2RwZVpFaXVfV2lINlg1NjJfTDdNZU1GOEE?oc=5",
    "sources": 20,
-   "recent6h": 16,
-   "score": 28.0,
+   "recent6h": 17,
+   "score": 28.5,
    "level": "besar",
    "first": "2026-11-19T13:22:15Z",
    "last": "2026-11-20T13:24:51Z",
@@ -172,31 +172,6 @@
    "title_id": "Lviv hancur setelah serangan rudal dan drone Rusia yang mematikan — foto"
   },
   {
-   "id": "perang-202611200100-280b",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Did a Russian missile land in Poland? An object fell near the Ukraine border and Poland is investigating",
-   "src": "Nacionale",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2pKS2dNZU1nOUR3NXVWRmRaNURYVjdmeTZSdk9HdkJMZElLQ3lyX20zUkp2eThlWG9od0JWcUNwTG0yVUdpZ0Q0VzAxX3A4bWFJU0d2NDE4T1FkcXJMX0k0VHVienptaFpDMl9zaEw3NWcwcnpMUVl1VjR6SnJIeHBWOFBCdEk5MG5uN1dtNWZncnA2RkFOY2J6Nmwxbk9Sc0RlcV9nUzI0T2N2R2trMmJvMWs?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-19T13:22:15Z",
-   "last": "2026-11-20T09:58:42Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Suspected drone or missile hits Poland. Explosion reported near Ukrainian border",
-     "src": "Defence24.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk1JX01wS21aUGhPaG91TVFkWG4zU09Zdmx2STBGNmN6dE0wSWNmSGFhbjh5SGQ1UmFKZ1NPaTVrZWNvbEZrQXh6VFNGYUxYckUyWkxXcmRUZjdLSVZmc3F5QXlzRzJRelhkSjlwZUd4Q2JsNFNlMHpPanlMdzEtSTJOUEtHRldhTFNMcUJwM2k3NThaOXN1SEU1a21ibEE2b3NQeEt1RGI2dEFxNHloVVVwQQ?oc=5",
-     "t_id": "Dugaan drone atau rudal menghantam Polandia. Ledakan dilaporkan di dekat perbatasan Ukraina"
-    }
-   ],
-   "title_id": "Apakah rudal Rusia mendarat di Polandia? Sebuah benda jatuh di dekat perbatasan Ukraina dan Polandia sedang menyelidikinya"
-  },
-  {
    "id": "indonesia-202611191618-156d",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -248,31 +223,6 @@
    ]
   },
   {
-   "id": "siber-202611192034-f9bb",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-19T13:54:00Z",
-   "last": "2026-11-19T22:45:16Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-     "src": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1UWkp5QmtjYW0wNmgzMm04Y295STZlSUdvQ3FwYzhoV01XY3R4S04xLUFPbnFpU0c1SU9iekhxNXlMZE4tS1FRSnRkeDBmSlVRcGZwc2FEOU80US1hZzZ5M2UyalFjZEE0Zmd6cjc3U1MxTzJfdFFtaXJEa1M3UnZJU1V3aVh6YXF0c3BVVkxDMmZtb1lPaHBNM0NIY2g0OUpOQW9tcW0?oc=5",
-     "t_id": "Data Pelanggan Visa, Mastercard dan JPMorgan Dibocorkan oleh Peretas"
-    }
-   ],
-   "title_id": "JPMorgan, Visa, Mastercard mengatakan vendor pihak ketiga menjadi sasaran serangan siber"
-  },
-  {
    "id": "siber-202611191712-968b",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -298,7 +248,5 @@
    "title_id": "Chase Mengatakan Pelanggaran Data Baru Tidak Terkait dengan Gangguan Perbankan"
   }
  ],
- "errors": [
-  "kesehatan: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
