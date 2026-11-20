@@ -1,49 +1,7 @@
 {
- "updatedAt": "2026-11-20T00:09:12Z",
+ "updatedAt": "2026-11-20T00:23:55Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
-  {
-   "id": "perang-202611181557-1880",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Houthi missile attack damages Riyadh’s tallest building",
-   "src": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtM0pINzl0MlU5X0prTF96Rk1KaTdBMmNZQ3FKN2tTQklWSzRyMFdUNjM0dmpIWk9wYmdsWklXdmZVS1lWQWMwTlplbkRaaXpmaWc?oc=5",
-   "sources": 6,
-   "recent6h": 1,
-   "score": 6.5,
-   "level": "besar",
-   "first": "2026-11-18T15:57:13Z",
-   "last": "2026-11-19T19:33:08Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
-     "src": "Funds Global MENA",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
-     "t_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
-    },
-    {
-     "t": "Houthi Missile Hits Riyadh’s Tallest Skyscraper Housing Saudi Arabia’s $1 Trillion Wealth Fund",
-     "src": "Bloom Pakistan",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXZyd3poeS00VldZbnZ5cUxVaDduQWswMl9mOVBqZE1MRTNzdnBBV2VDTlFaU1JjbHFqaU1XVEpGRkZHdU54bWJVZHN5Sm1tLW1JajFqV3lOOTFjNHM5d3lIS2hsaXNFYXEtbVRqUTNfQnpvTGt6d2g3NDBEd200MlV3?oc=5",
-     "t_id": "Rudal Houthi Menghantam Gedung Pencakar Langit Tertinggi di Riyadh yang Menampung Dana Kekayaan $1 Triliun Arab Saudi"
-    },
-    {
-     "t": "Suspected Houthi Missile Damages PIF Tower in Riyadh Financial District",
-     "src": "https://houseofsaud.com/",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FNWdoZUt5X1dUM3JvcUdfRmxxLVY0V005ZVRtUEwyaGFzQ1JLVVFRd0U5cUlxaDlZdnBWWFBzSmRpNW9WbTZJYjJtUUNneWk4UUhYTlk5Y0hQTGZZeUlwLVVxVFVSdFVIQWlkV2JreFZEXzR0?oc=5",
-     "t_id": "Diduga Rudal Houthi Merusak Menara PIF di Distrik Keuangan Riyadh"
-    },
-    {
-     "t": "Damage reported in Riyadh after Houthi missile intercepted",
-     "src": "Social News XYZ",
-     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPY1RUNEoyZHpZZlBUNnNZbjhUa2M2MUVwYWFseGpQN0tLdFVhLTE3TnJnREs5eWJKa05qRUpJV2Y5NVh1RkJDVUI0SzFaRDRqeGRGNGpUUWFjQ3RqaHBrNUw0RU9XajNabTJBTGY0ZzVjb1dqUk16dXhEWU1mOU1jR21jOE5teW1OcF92NVBwTWpJZzRDcy1kcFB2Uzd1eWxCRUVTV1RkTzFadDVpRmdwUzVwX3ptVV9ON1p3X2hIdVoxRUdtNjNiV24tWnR0ZHZCemdhZU5kRVVYbXVGZUJJRkpaMFhhUDJQOHp6TVRWeVpOcFJIRW8ydGljMFpvRzQzQUhpTmplMUxyeFFWckZCNzVRWkpNSGRkZGk0dUFlR2Y4NzJMTUHSAaYCQVVfeXFMT2NUVDRKMmR6WWZQVDZzWW44VGtjNjFFcGFhbHhqUDdLS3RVYS0xN05yZ0RLOXliSmtOakVKSVdmOTVYdUZCQ1VCNEsxWkQ0anhkRjRqVFFhY0N0amhwazVMNEVPV2ozWm0yQUxmNGc1Y29XalJNenV4RFlNZjlNY0dtYzhObXltTnBfdjVQcE1qSWc0Q3MtZHBQdlM3dXlsQkVFU1dUZE8xWnQ1aUZncFM1cF96bVVfTjdad19oSHVaMUVHbTYzYlduLVp0dGR2QnpnYWVOZEVVWG11RmVCSUZKWjBYYVAyUDh6ek1UVnlaTnBSSEVvMnRpYzBab0c0M0FIaU5qZTFMcnhRVnJGQjc1UVpKTUhkZGRpNHVBZUdmODcyTE1B?oc=5"
-    }
-   ],
-   "title_id": "Serangan rudal Houthi merusak gedung tertinggi di Riyadh"
-  },
   {
    "id": "transportasi-202611182109-31ec",
    "cat": "transportasi",
@@ -88,6 +46,37 @@
    "title_id": "Ground Stop FAA Menimbulkan Kekhawatiran terhadap Perjalanan AS pada tahun 2027"
   },
   {
+   "id": "perang-202611181557-1880",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Houthi missile attack damages Riyadh’s tallest building",
+   "src": "Iran International",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtM0pINzl0MlU5X0prTF96Rk1KaTdBMmNZQ3FKN2tTQklWSzRyMFdUNjM0dmpIWk9wYmdsWklXdmZVS1lWQWMwTlplbkRaaXpmaWc?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-18T15:57:13Z",
+   "last": "2026-11-19T19:33:08Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Suspected Houthi Missile Damages PIF Tower in Riyadh Financial District",
+     "src": "https://houseofsaud.com/",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FNWdoZUt5X1dUM3JvcUdfRmxxLVY0V005ZVRtUEwyaGFzQ1JLVVFRd0U5cUlxaDlZdnBWWFBzSmRpNW9WbTZJYjJtUUNneWk4UUhYTlk5Y0hQTGZZeUlwLVVxVFVSdFVIQWlkV2JreFZEXzR0?oc=5",
+     "t_id": "Diduga Rudal Houthi Merusak Menara PIF di Distrik Keuangan Riyadh"
+    },
+    {
+     "t": "Coalition forces intercept Houthi missile launched towards Riyadh, debris causes damage",
+     "src": "Arab News",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1k5ZGNHU2J3TkNRSFpMaTVWSjdvbG4wcUpubFh4Nnltb2MxYnBXQVhHaEpBSHRvQkpkYVFQSkpwUDVKWE50ZW5IRGs0TVZNM09zRVhHUk1iMUNnTG0tUm9jb0UzejVOXzJsYlpQRzJ1dWpwcFhNMHgxZUVjZjlXMFZfSWVORFVKUVFVNFptTzE0eDZXUExwaWF1RDZoZUZxTW9TLTNWRVF2WWNLWUMxS2RHbWZpU0JHNlpQamJNOHpyME9SX0YtY1JKejY?oc=5",
+     "t_id": "Pasukan koalisi mencegat rudal Houthi yang diluncurkan ke Riyadh, puing-puing menyebabkan kerusakan"
+    }
+   ],
+   "title_id": "Serangan rudal Houthi merusak gedung tertinggi di Riyadh"
+  },
+  {
    "id": "kesehatan-202611190216-108d",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -119,53 +108,83 @@
    "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
   },
   {
-   "id": "perang-202611192020-d851",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Sudanese army airstrikes hit RSF headquarters in South Darfur’s Nyala",
-   "src": "Sudan Tribune",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YbjVZeG50aWtHUF9Cd2VpRlFFdVFPdWUtanVNQnJENzNwbEZBT1NUcTJIWTZlQldtV1ZMdW5LRlhKVWYzckhCak8wUkZqMWRV?oc=5",
+   "id": "indonesia-202611192132-4e1b",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Adakah Demo di Jakarta Hari Ini Jumat 20 November 2026? Awas Terjebak Macet",
+   "src": "Tribunnews.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2Q5aUphU0dXdklPbUxaME5DeS1JT0ZUR2VQbnBaaU5lYXc5cnFKbGNnOWtBUkR5ZkR3VlFPQ05teEZxMl9TRFd3THZDUUVPT3JKWHduN004RXV1S0FzY0c5TjZxOE5mRXo2ck1QSUpLeXhQak1xZjlZaWtVcmp5UE0yU1ctbi1JOVNOVlJEZ3BVSFhHVjZxWDdoOFBqNXpnVDc2TExDNlRsSDU2SFliUm1tRkVLQQ?oc=5",
    "sources": 2,
    "recent6h": 2,
    "score": 3.0,
    "level": "kecil",
-   "first": "2026-11-19T20:20:00Z",
-   "last": "2026-11-19T22:48:28Z",
+   "first": "2026-11-19T21:32:09Z",
+   "last": "2026-11-19T22:20:52Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "PKH November 2026 Mulai Disalurkan, Warga Jakarta Demo Data Bansos di Kemensos",
+     "src": "JournalArta",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1g2SlhiZmRIbTAzYVE0QWlJRXNJWEZzMUgzSU53NVFjUlR3SXhkZW1PWW5uQW9zTTQ1VE9ESnFJUzFPUEJ3LUFZaG9XQl9FaWRnYXZXdXVDQ0JmbWJRQ2xoTm9XNVpVcjFodXRCMUxUNjc1OGN2MFFFQzJVTUp3eXN5Sm9ILWloZWNFdmwyVnhDbnUyendHUWtzRTlMMWFwUEx2VXZncHJvWklmeXAxbUpLclhKblh2WFE?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "perang-202611181557-1880",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
+   "src": "Funds Global MENA",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-18T15:57:13Z",
+   "last": "2026-11-19T16:20:41Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Israeli airstrikes hit eastern Lebanon, target homes, buildings in south",
-     "src": "Middle East Monitor",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUdnWk11dkl2Zl9Kc1hwWXBqaDhLODJJZ0VlcTFKYUVpN3lvNzVuT1ozTUtPVFNveEZ1blN4TXA4b1NVc1AtelRBQWR3V0tWRzhmaEtJYjRFMUtlbVg3Nm1XN05sSVlMekNvdW1FcHNVejdvLUFDbjRHOG5rV0hfQmlEaDBjODhBTl9MSV9UNDNCZURFNGRYUEROWEpPcEdnRGZJUUkxZkRjRzU5RnlHVWNCOTnSAboBQVVfeXFMUHlRVWN4ankzNjRfNWQ5Qk96V3NEQlVCS0FGSm1rVnEtd1hsSWQ3OGxta05SeVVSWDAzZnVGZ3pEUEc2RVE4MFRpc1M4ZGpRWnlMMlc4ZVFMbWxaY21PR2pqTEt5b3l5eHp4b0NMdzZ1VGpwbDFtaTZQUVVId3RidEVZWnRyTEI4X1Q4akFDOEk5aktvYzhPX09PM21zdkVETWFUdENIM3kxWGdreGduT0NwdkVqUTVISzF3?oc=5"
+     "t": "Is it safe to travel to Saudi Arabia? The latest advice as the kingdom faces a spate of missile attacks",
+     "src": "Condé Nast Traveller Middle East",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3UxWmxyRkxGTUc2bDEtN0tkeTlUVDQyek16UTVGNl9rdzFrVWNoZkEzUVdnZW5mZlBOY190dTVBMENMbWp6T25KV0x6bDRvZ0VVUzhRVEdkeXRfZ21NbGhrbE14QS1fTkt4YlpSRG52Q1BkSXVoX0dPWml0QldsMVhkYkVsZWliQkhRWFVXUm1GUW94cGU4MFFTb29Pb1ZtX2RLd1VsaGhHa3hHMVJjdnpSYXNwdHlRcllFbThlSE5HQTg4eHdLZEVfNG9HYlI0Ry02TA?oc=5"
+    },
+    {
+     "t": "Large-scale missile and drone attacks target Riyadh and southern regions of Saudi Arabia",
+     "src": "جريدة القدس",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV09nNEtCSDNRNndkN0VmbGtCX1l0aFM5LU12eFZWM2Z0NU1PTXlxbGxkTzVoeEp3dVhaYUpnZWhWRXlZQnk5SEJHQUs0RVk1XzUtYUxWUGxmd1RRQ252Ym05WDltckJJZ3ZqNGx0Q0FfM2d3QmgtT19rZVVZVTF0MG11cjBVOWw4T1BaUmZMRTZ2M2pOV0dkMUdoNzVMM05kdkNCTE9CS3JjWHJRbEhR?oc=5",
+     "t_id": "Serangan rudal dan drone skala besar menargetkan Riyadh dan wilayah selatan Arab Saudi"
     }
-   ]
+   ],
+   "title_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
   },
   {
    "id": "indonesia-202611190110-84fd",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Polda DIY Tetapkan 4 Tersangka Provokator Kericuhan Demo Jogja",
-   "src": "Lingkar",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDBVVUROcElWcDdnc09rU3hyVlJraEJvb1RoZjNxbkJFdnBHYmx1dWRQSzRlVTZpLW9qakFMNHh2LVZnY01qWnlHRzR3Zk1tOV9lNmVTcEtTaHVza1NrOTFydHQ0Nk9XRE9YR1BiMWNYOTRWMDQxSjluN3F1QTBLMm9hbTFRN1N0ZkdMQ0RUWU5jQQ?oc=5",
+   "title": "4 Orang Jadi Tersangka Kerusuhan Usai Demo 10 November di Jogja",
+   "src": "Tirto.id",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0NVd08tWEhDaUI1a010Zzk3MUtNYm5RQ2hxbFBnY1NfX3BTOUFQYm9rRWhBWW5mSmRpRzM3dnBTaWZrN0NDb1ZibVVGRTdhMkpscVF0LWNZRndPeUY2NjFncGx1S2doZ0xObWJUai1CNXFZZ0NkOEFPaTNaWmlBNGZJRXhOU1BIYkRwN0JR?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
    "first": "2026-11-19T01:10:00Z",
-   "last": "2026-11-19T10:02:17Z",
+   "last": "2026-11-19T10:22:00Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Polda DIY Tetapkan 4 Tersangka Provokator Kericuhan Demo Jogja",
+     "src": "Lingkar",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDBVVUROcElWcDdnc09rU3hyVlJraEJvb1RoZjNxbkJFdnBHYmx1dWRQSzRlVTZpLW9qakFMNHh2LVZnY01qWnlHRzR3Zk1tOV9lNmVTcEtTaHVza1NrOTFydHQ0Nk9XRE9YR1BiMWNYOTRWMDQxSjluN3F1QTBLMm9hbTFRN1N0ZkdMQ0RUWU5jQQ?oc=5"
+    },
     {
      "t": "Kasus Kericuhan Demo 10 November, Polda DIY Tahan 4 Tersangka",
      "src": "Harian Jogja",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNm94RE5sNEN4SDREVEk2c3JtOEFQUTNJQTY3bkFaeGFkS0h0MmdqUm9NbUNSSkVCeTBxU2hEdDVLcVNuOFc3MWE1U3o0XzdZQUxLeXZ0Z29lS1Znb0x5ZmRhdWQzTXBMdVh3dmNVUFFuanRBZFAzdmdidlVPd3FyeDBITHlGRF9UQVhPZGRjNzFfWWo1SHNWOFFveHZuUlM3?oc=5"
-    },
-    {
-     "t": "Terungkap! 4 Orang Jadi Tersangka Baru di Balik Rusuh Demo 10 November",
-     "src": "news.indozone.id",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUc3SWJiQ2xKMGlaVXktcjluYlpEOGFrTG5LS0NyeTUySVlZSm9KRGdrR0l1dm1iSXE0V2pyZnZxX3FFWUljS2FiSWNrd0FrN1p3Ny1ZcE5yQ0J6OHFiXzl3c2dXVGNSQlczQ2E3Y1F0b0ZWVG83eTlfaWg2Y3Niam81WDl4TXZnbmkydmhlbVotUWtfeVRxODdzejZhNkxJVHlrTVlUMjZKOEg3eWE2Tg?oc=5"
     }
    ]
   },
@@ -220,6 +239,52 @@
    "title_id": "Gangguan pada Microsoft Outlook tidak berhenti setelah diperbaiki — tumpukan email yang dicoba ulang dapat memerlukan waktu berjam-jam hingga berhari-hari untuk diselesaikan"
   },
   {
+   "id": "indonesia-202611190948-0448",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Besok, 1.000 Buruh Bakal Demo di Kantor Gubernur Jatim Tuntut Kenaikan UMP 2027 Rp 3,7 Juta",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGhReDAyRGhnSWZ2NHBxX0Y2UF94R1Q3a1BnWG10V2phNFlFVW9aZDJqT3g2bE0wM0xTa3JINXJCMjJqNDBzZm9faWlNNkVlbVF0cjFzblcyNE5wb0RlSXVodlV1dV81ejNxZnl3SWpHRVFTSFR6WDQ5Vi1mMXhXMkJiMnI5aDZ3TFpQb2FSRlg1T05pSjAtVEUzaE1YbXoyei1fNm1telZIQzZSNk9ZMkpseEF2Z0NPODFDT1Y2OGV6cHNo?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-19T09:48:00Z",
+   "last": "2026-11-19T16:34:39Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Besok, Buruh Se-Jatim Demo Tolak Upah Murah dan Minta UMP Naik Jadi Rp 3,7 Juta",
+     "src": "Jawa Pos",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFoyN28ydmxuYmZXeTlXVlpTQXNnWnJTWTBlOHJGVmJtUTRaUjBHakV4Rnp2U3lhZ3Y5ZmlXRjEwVFZpQVV1bklOSlBmZFBXQnVvMlhHM1V3elJYclFCdV9xUEYyUU9QVnl1MVR2V3RNRGlvNXZqOC11NHNFWWJJZzVFVUJnX2RyZ2JuZEliTmowYTV4Y2tKM0J0Z1dIOHJZc3FXNVBMdk5JdUpEcTMtUGE1RGt3cTNLcW1TNU5sbnBoNXpC?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611191445-9d4a",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Setahun Pascabencana, Koalisi Desak Pemerintah Percepat Pemulihan",
+   "src": "IDN Times Sumut",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGlmNnJ2T2RMQ1Q1YktqSkhnSGZvaGRITmNkZHJNNkt2eEhIb3ZTMXNXQTZDTFUyOEgzUmNrajlfUTBRYTUxeG5YU3NqVVUxZ01ZZnNscWx2Qmo1YTJ6Qk5GWFQ4Vnliak1Za1NseloxVGZiOFo1YkJOTUJfVkNkVVBEal82MFZGa1lLYW1Ecl9ENnhXZ0Nub2tyZ2t4N1k3S2FoWFF1ZGh1VlU3aTJnaWxrTGxlcC1wbzhIYXhzcWtsalZUVnRyUGY0UdIB0AFBVV95cUxNVDZsczFKbkZTTVdTSWJJM1BjeHV0UTZhUi11RllZd1JkdEhPMnRYbHBfcnkxbjNheGhuXzBEUzNSX09sQUZaMzRtUkw3cng0c1NUQWE0anZMQUVHREZHeUNPMzM2MGVYS3pES2RnWkpmYjVvZXg0Q2IwZjJEc01CUzRVZlBsX2VZX3dnMjl3SlVDemdxMHFmZm5OR291cm9EVXJLTWNNWUplTDFoSUJSQzRHa0x0NnplbDlfZ1N1X0N5TkZZOWllRko3NmxVZmZt?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-19T14:45:00Z",
+   "last": "2026-11-19T16:15:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Banjir Berulang Terjang Aceh dan Sumatra, Pemerintah Percepat Pemulihan",
+     "src": "Enamplus",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUtCa1lhZzVDQl94UVY1LV82Q3dTdXVIQ1ZhQ1NQU1hhb3NpbHM1d2s0OTBjcUhoVHlhQ3loRGl1aVNuWUNZMXlmT0R1RWxsMURTQ2lubFVPOGhOX3RKTzhSVURIYWF4OUtaTThKN3VQcnJ0M1ZEQVpCSktDaHRYbDZ6YzFRTElnb1JaWDV4UG1IZ3ZFWU9zQmRsRm9hME5PVklraTJDQjJLRXV1cFhvX2pn?oc=5"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611190944-b278",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -266,52 +331,27 @@
    ]
   },
   {
-   "id": "perang-202611190530-836a",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Is it safe to travel to Saudi Arabia? The latest advice as the kingdom faces a spate of missile attacks",
-   "src": "Condé Nast Traveller Middle East",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3UxWmxyRkxGTUc2bDEtN0tkeTlUVDQyek16UTVGNl9rdzFrVWNoZkEzUVdnZW5mZlBOY190dTVBMENMbWp6T25KV0x6bDRvZ0VVUzhRVEdkeXRfZ21NbGhrbE14QS1fTkt4YlpSRG52Q1BkSXVoX0dPWml0QldsMVhkYkVsZWliQkhRWFVXUm1GUW94cGU4MFFTb29Pb1ZtX2RLd1VsaGhHa3hHMVJjdnpSYXNwdHlRcllFbThlSE5HQTg4eHdLZEVfNG9HYlI0Ry02TA?oc=5",
+   "id": "indonesia-202611190454-12f5",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Massa Demo DPRD Pati Buntut Kades Meninggal Saat Ribut dengan Anggota Dewan",
+   "src": "detikNews",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWVvY2h5MWFaTVdhT080ZkNjSFQwYUF4Q3VJUU0tRjYzS1JHcWoxN0Vka2pxRUZ4QTE5ckpaem04aE9aWlQtZWFCMGxLSklMV00yMDRDdTUzNFAwZnQwbkdQSExVNnZYZ2N3TUpxdEdyWFdfbjVPeFF1eERVX2hjb3Y5M19JNk54U0Q4U1RqdHkxcHdrak42N3Zrc0JxUExkS052eVpRaFVCZkJrV0F5UkVzMm5xQdIBuwFBVV95cUxQcHNLcDl1VTc5bHVjaWxQYmp1QjVEanRkUzQ0aXMtZ2hIa1ZRclo5cTFQZnBPNm15Nm0wVUtQRWQxOU5IOE1CeTNUdi1EbVBKWV9HdHp0ZWRQdms3bW1iR01UdG9pbHpZbm5QZVVwVjktcjh3UzFpSUg3dnlncmNWY1BPQlJ5MkMxaVdvaEVJUGtzX3IwcVRZaUo0TURkWTc2Y2ViUjdRZ1FqYWNrV1VCVnJxUWpRWmxCWlFv?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-19T05:30:49Z",
-   "last": "2026-11-19T08:48:49Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-19T04:54:15Z",
+   "last": "2026-11-19T06:41:04Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Large-scale missile and drone attacks target Riyadh and southern regions of Saudi Arabia",
-     "src": "جريدة القدس",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV09nNEtCSDNRNndkN0VmbGtCX1l0aFM5LU12eFZWM2Z0NU1PTXlxbGxkTzVoeEp3dVhaYUpnZWhWRXlZQnk5SEJHQUs0RVk1XzUtYUxWUGxmd1RRQ252Ym05WDltckJJZ3ZqNGx0Q0FfM2d3QmgtT19rZVVZVTF0MG11cjBVOWw4T1BaUmZMRTZ2M2pOV0dkMUdoNzVMM05kdkNCTE9CS3JjWHJRbEhR?oc=5",
-     "t_id": "Serangan rudal dan drone skala besar menargetkan Riyadh dan wilayah selatan Arab Saudi"
+     "t": "Massa Ibu-ibu Gelar Aksi Demo DPRK Nagan Raya Saat Sidang Terkait Persoalan Ketua Dewan",
+     "src": "Serambinews.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmtJalhQa0c3ckJNZXE4VG9NOVo3eVZKaW5HajlrYW96U25PWXByNHJ0QXdLREZDVFhFcFExVm1ZOEZ6aGdzRjZuMHBfdU9GTnpzV01DUjBhTnBnQjZmVHZQa3luUzdWMmVnUXh6X2h4UG1wQjlJX0FKMWdDV0p5Tm5LZnVMTEZIMTZmc1VUR1UweEZDb1M0ZGp3RDd6VV9oajhYdkgydEZYOFRxU1VBN1hYWTFYdU9kSExXNWtwNUJGOXpLX0Vya3lvZTY?oc=5"
     }
    ]
-  },
-  {
-   "id": "perang-202611190436-0d10",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Kuwait Repels Iranian Drone Attack on US Hosted Airbase",
-   "src": "SuaraGarut.ID",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DQ2NzRXVNd2pUMm1TQm1FMnRuVVdBMGhYMjZBT0RlLVoyR3ZadnNsX18yOFhoUmw4MUVWZFgyVzlvbDNiQVFvV1dKNHVqZkYySHp4UUtheVBuUTBud19jTHVoNDRXdXB4UGFr?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-19T04:36:59Z",
-   "last": "2026-11-19T04:38:31Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Kuwait Repels Iranian Drone Attack After US Strikes Qeshm Island",
-     "src": "cwibc.co.id",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzWFZIVDlwMjlnMG4wTkNqbl9reGs2TDhGTXZJZTR1N0t6aEd0bU9uUDV6eTZmbFJDWlNxb2dQTFJJWUxRZUFzUWo2REhlY3ZubVh4YlQwbFhlbVJjVTJNVE5CTWRlMU1t?oc=5"
-    }
-   ],
-   "title_id": "Kuwait Menolak Serangan Drone Iran di Pangkalan Udara AS"
   }
  ],
  "errors": []
