@@ -799,6 +799,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 5.052
+    },
+    {
+      "t": "2026-11-20T15:58:00Z",
+      "risk": 85,
+      "btc": 59906.05,
+      "gold": 3546.7,
+      "brent": 88.14,
+      "spx": 7101.58,
+      "ihsg": 5146.326,
+      "usdidr": 18158.0,
+      "ust10": 4.954
     }
   ],
   "horizons": [
@@ -1245,6 +1256,30 @@
   },
   "news": [
     {
+      "t": "Saham AI jatuh setelah IPO rekor Anthropic; Wall Street terbelah apakah ini puncak reli AI.",
+      "src": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXYtcjN1bXdZQmdkQVUwLTZ3WThBSUVCV1BOR0R4RV9PTlNCeEQzWDRGZ01qbWVGZU5sb011NUc3cWs0dkZnQU9ZZ1BabkktY05zdnhhZHBCaEVldk5qX1V6SFh3SEJnZGRLMVpxYzBBWkZNUm9DY2FQZjRLS1A3bjBTVEEzRU96THZqVnZlcnJzQXFJRUdV?oc=5",
+      "time": "2026-11-20T15:19:00Z",
+      "impact": "turun",
+      "assets": "S&P 500, Nasdaq, saham teknologi"
+    },
+    {
+      "t": "Iran mengisyaratkan akan menembus blokade AS karena pendapatan minyaknya menipis; risiko Hormuz tetap tinggi.",
+      "src": "Radio Free Europe/Radio Liberty",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnS0VmRlE3ekV3ZHk0YzY3QjVhVkJJQUd1WWQ2NXVPQmpsN1pqWWg2MVpxajZYQnJIRVNOakJPU0FaUHVJYkVJQ2xScnNrcy15X2ZkLVpsTE42bXdYQ1VrVzJ0X2ZrdDFJalNWbnNJRUJBWEt6amc3V2N30gF8QVVfeXFMTUllRVc4WjBtR0x5QzBEcWE5TDBtQUVnOVRCSDRPUWlfU0ZUdldBd3pFbXZackNOR0xtNmE2el9MRWxmSmtXdkhlNGVJVWlfbDVsczFwem9DMmx2UU1nb0QtZFpwUjN5N0R4Vkh4SjdhY0w4WEIzWmFWcE5Wcg?oc=5",
+      "time": "2026-11-20T14:38:56Z",
+      "impact": "netral",
+      "assets": "Minyak Brent, rupiah"
+    },
+    {
+      "t": "Emas menuju pekan terburuk sejak Maret akibat Fed yang condong menaikkan bunga dan aksi jual saham AI.",
+      "src": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
+      "time": "2026-11-20T13:48:47Z",
+      "impact": "turun",
+      "assets": "Emas, USD/IDR"
+    },
+    {
       "t": "IHSG ditutup turun 0,92% ke 5.146, melemah lagi di akhir pekan; asing mulai mengurangi jual bersih.",
       "src": "CNBC Indonesia",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFVPQWMxTlpxNXROSC1PckxvRHFDOWZEbjFxRno5NGdGVVZWS04tSTRTQndhVjBQUkZMYW1xN3JCSC1kS2dBcm5oQTUwV1ZrYkswamhCc2lMNW55cmdodTE1eHVPYXNJYkhHWnVER3VtMklWLWZCU0lWb0xLMmpuWWVkTk92eTB5bFZtekFpTlBxV01CWmRUeFZhVjRqM004NjdYZNIBqgFBVV95cUxNcEZpeDlWTElUcDNhTzZIbGtxRGNVLUFtUzk0Z3BfNUFJcjlGdmR2NXo3S0dyLWN1ZlR6Q3VFTkpyTm1rVFZpcVRERnc5MXNpcmNNQ3ZCa3VPV0VrZ2owczF3WEdvbXRKWm1wZWp6bkVvQUtJLXVrQ3hrZm94MEVmemdWdzJnY1RNanZ1WE8zWXFkVmU5dElCRk5WS1ozNnlZOEFJVi10aXZjZw?oc=5",
@@ -1315,30 +1350,6 @@
       "time": "2026-11-19T10:58:32Z",
       "impact": "naik",
       "assets": "Minyak, emas, rupiah"
-    },
-    {
-      "t": "BI memberi sinyal bisa menaikkan BI-Rate lagi pada Desember 2026 untuk menopang rupiah.",
-      "src": "Pasardana",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUQyNGpJcDRGTVd6WE9RdVBaSUFhUWkxUDI2R1otU0pBVnBXQnZHaVVoR2t2eUlVTjhLeExWWWp5TjVSQzlfYi1SZkFfZmMyZWZBV1lCaFpnZnhXQ0szcmN3QzhnUnJxZHgwVjI4bWJzUUZ0N25PdUpHeTN5N3dKQ29qenAzNzJnb0JvUGVVYXF2WjU0MF9sM1ZsYklkRFhKYVNTalhWN2p5ZTJDRFc5NFJBVFdWc0dT?oc=5",
-      "time": "2026-11-19T10:15:00Z",
-      "impact": "turun",
-      "assets": "Rupiah, IHSG, SBN"
-    },
-    {
-      "t": "IHSG sempat anjlok hampir 2% ke 5.152 dipimpin saham pemberat; asing masih menjual.",
-      "src": "Bloomberg Technoz",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3ZLdmhuMWI0NThXcnNJYlA2SjFxVFMxcF9aUDE4WmJPX3NQZFl0TnNzRTRYcDZWaDFBdDVLM1k0SmxxSURtT2l1bktQYUdmSjBhQ293ZkxXcEtTX3pfd0t4VUZ5WlR6WmloRHloMHJRb2hzdkMycy1pZHVOQURQQmJSb1RqZkdiUDVtQ2lER2VvREljc0szNkNXWm5LQktjQ1N2ZzFTZ3haUVVuWmwzZzd3?oc=5",
-      "time": "2026-11-19T08:50:16Z",
-      "impact": "turun",
-      "assets": "IHSG, rupiah"
-    },
-    {
-      "t": "Iran mengklaim tiga tanker minyak terkena ranjau di Selat Hormuz (klaim belum terverifikasi).",
-      "src": "NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aWjF1VGUwRURVV2lnWUJiWmFQblpaVzUyelNRd29udmJXVW00b05wMW16ZGpUaF9IbFRlNTM1UEo0MW52UmtHVmVxTlV6ZzRheWwxVi04ZE12eGZULWhaRXF1eDczbk9UU2N4dlFkT1dfbFBnRmt1VlFBb9IBgAFBVV95cUxPN0kwSmZXb2o1bTJGRk1tYWJXczdUVGxmTGxnakZ5eEMzbDJjN0ZHbmNMdGRIeXhSVjlTVENZdzRjajN6dkY5c1NqSmF4YzVqM1RYaHIyNFpTZmNocXZ3MDlmUXFnemVqMjVEN0NVRDVOTGlKMHZ4LV9ReWswalJsYQ?oc=5",
-      "time": "2026-11-19T03:30:39Z",
-      "impact": "naik",
-      "assets": "Minyak, emas, rupiah"
     }
   ],
   "readings": [
@@ -1356,38 +1367,38 @@
     },
     {
       "c": "neu",
-      "d": "Turun 0,3 % semalam",
+      "d": "Turun 1,9 % semalam",
       "h": "ust10",
       "k": "Obligasi AS 10 thn",
-      "v": "5,05%"
+      "v": "4,95%"
     },
     {
       "c": "neu",
-      "d": "Turun 3,0 % hari ini",
+      "d": "Turun 4,2 % hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$89,25"
+      "v": "$88,14"
     },
     {
       "c": "neg",
-      "d": "Turun 3,0 %, pekan terburuk 8 bln",
+      "d": "Turun 3,8 %, pekan terburuk sejak Mar",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.571"
+      "v": "$3.547"
     },
     {
       "c": "neg",
-      "d": "Turun 0,5 %, dekat terendah 4 bln",
+      "d": "Turun 3,2 %, terendah 4 bln",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$61.535"
+      "v": "$59.906"
     },
     {
       "c": "neg",
-      "d": "Turun 2,0 % semalam",
+      "d": "Turun 1,0 % hari ini",
       "h": "spx",
       "k": "S&P 500",
-      "v": "7.176"
+      "v": "7.102"
     },
     {
       "c": "neg",
@@ -1398,10 +1409,10 @@
     },
     {
       "c": "neg",
-      "d": "Rekor terlemah, naik 3,8 %",
+      "d": "Dekat rekor terlemah, naik 3,2 %",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.260"
+      "v": "18.158"
     },
     {
       "c": "neu",
@@ -1413,8 +1424,8 @@
   "regimeText": "Perang Teluk dan serangan kapal di Selat Hormuz masih menahan minyak di level tinggi, sementara pasar menghitung kenaikan bunga Fed berikutnya. Dolar kuat menekan emas, Bitcoin dan rupiah, dan saham AS mengalami rentetan penurunan terpanjang sejak 2024.",
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 85,
-  "riskNote": "Risiko tinggi: rupiah rekor terlemah, Wall Street jatuh, emas dan Bitcoin tertekan dolar kuat dan bunga Fed.",
-  "updatedAt": "2026-11-20T12:58:40Z",
+  "riskNote": "Risiko tinggi: rupiah dekat rekor terlemah, saham AI jatuh, emas dan Bitcoin tertekan dolar kuat dan bunga Fed.",
+  "updatedAt": "2026-11-20T15:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1710,12 +1721,12 @@
     {
       "k": "Inflasi & suku bunga",
       "v": 86,
-      "note": "Fed condong naik bunga, UST 10 th ~5,05%"
+      "note": "Fed condong naik bunga, UST 10 th ~4,95%"
     },
     {
       "k": "Valuasi saham",
       "v": 80,
-      "note": "S&P turun beruntun, aksi jual saham AI"
+      "note": "Aksi jual saham AI pasca IPO Anthropic"
     },
     {
       "k": "Likuiditas & dolar",
@@ -1741,11 +1752,11 @@
   "brief": {
     "date": "2026-11-20",
     "points": [
-      "IHSG ditutup turun 0,92% ke 5.146; rupiah rekor terlemah di sekitar Rp18.260 per dolar AS meski BI-Rate sudah 6,00%; asing jual bersih hampir Rp1 triliun.",
-      "Wall Street jatuh (S&P 500 -2,0%, Dow sekitar -1.100 poin) di tengah aksi jual saham AI dan kekhawatiran kenaikan bunga Fed; JPMorgan melihat kenaikan di tiga rapat ke depan.",
-      "Emas turun ke sekitar $3.574 (pekan terburuk 8 bulan) dan Bitcoin ~$61.600 (terendah 4 bulan) karena dolar kuat dan UST 10 tahun ~5,05%.",
-      "Brent turun ke ~$89, namun Iran masih melaporkan tanker terkena ranjau di Hormuz; rudal Rusia jatuh di Polandia menambah ketegangan.",
-      "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan perkembangan Selat Hormuz."
+      "IHSG ditutup turun 0,92% ke 5.146 dan rupiah mencetak rekor terlemah sekitar Rp18.160–18.270 per dolar AS meski BI-Rate sudah 6,00%; asing jual bersih hampir Rp1 triliun.",
+      "Saham AI tertekan setelah IPO rekor Anthropic; S&P 500 turun sekitar 1% hari ini dan pasar menghitung kenaikan bunga Fed berikutnya.",
+      "Emas ~$3.547 menuju pekan terburuk sejak Maret, Bitcoin ~$59.900 (terendah 4 bulan), sementara imbal UST 10 tahun turun ke ~4,95%.",
+      "Brent turun ke ~$88 karena pasar menilai pasokan, tetapi serangan kapal di Hormuz dan blokade AS atas Iran belum reda.",
+      "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan kemungkinan kenaikan BI-Rate lagi Desember."
     ]
   },
   "calendar": [
