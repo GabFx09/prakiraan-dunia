@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T21:21:45Z",
+ "updatedAt": "2026-11-20T21:36:26Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -54,7 +54,7 @@
    "recent6h": 2,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-20T06:05:00Z",
+   "first": "2026-11-20T02:39:11Z",
    "last": "2026-11-20T21:10:11Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
@@ -283,5 +283,7 @@
    "title_id": "Yang Harus Anda Ketahui Tentang Downdetector Sebelum Pemadaman Teknologi Besar Berikutnya"
   }
  ],
- "errors": []
+ "errors": [
+  "bencana: HTTP Error 429: Too Many Requests"
+ ]
 }
