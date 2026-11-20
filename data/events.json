@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T19:39:09Z",
+ "updatedAt": "2026-11-20T19:53:50Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,19 @@
    "title": "Russian missiles and drone hit Poland during attacks on Ukraine",
    "src": "The Guardian",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZVRXJNQ1h2Z3Q2VzhYNjRCSF9TRUQ1dlA5cnJHcGNVZVFtOExfS2tXSF91UGE0U3V3djRERGdPc1dSZXUxSmxoZEpvckxDVGFYQ2RmODJYd1BRcXBhNGV1QlllSGgtREFmTjg3VzVOTEpZRWlHQWFCTFlMU2RwZVpFaXVfV2lINlg1NjJfTDdNZU1GOEE?oc=5",
-   "sources": 32,
-   "recent6h": 13,
-   "score": 38.5,
+   "sources": 33,
+   "recent6h": 14,
+   "score": 40.0,
    "level": "besar",
    "first": "2026-11-20T06:05:00Z",
-   "last": "2026-11-20T19:17:31Z",
+   "last": "2026-11-20T19:42:16Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Poland and NATO say Russia is behind missiles landing in Poland",
+     "src": "Juno News",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGlDemRZVi1Ba3ZXTWFLVmYxQzA0WDRjNDdhVUNRRW9KamZ2OUlMTThQNThoci1fQWNBRC1lWWxEN1VIYnN1SnNvMXpuTlpnVTZvd3VlYkRYVFhJdzBvQXhiejZNZVVmZTROeGMtcmNFUWpNS3Ita1U1a05GNGhWakFB?oc=5"
+    },
     {
      "t": "Putin Isn't Holding Back Anymore in the Ukraine War: The Russian Military Hit Four Bridges in Kyiv in a Massive Drone and Missile Strike",
      "src": "National Security Journal",
@@ -35,12 +40,6 @@
      "src": "Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEREtCU1g2bjJJN25jM3hfdjM3cWZ2NDlKVGpWRnFucy1Cak00cjNEZWJMNzNnQk5FSjFnUE9CaWYydHM5S2F5WEV1UQ?oc=5",
      "t_id": "Serangan Rudal Rusia Menewaskan 7 Orang di Kyiv, Merusak Jembatan dan Mengganggu Pasokan Listrik dan Air"
-    },
-    {
-     "t": "9 ti natay, 28 nadangran iti Missile ken Drone Attack ti Russia idiay Ukraine",
-     "src": "Bombo Radyo Vigan",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdEpSVXBSTHoxMzkxdDMyLUpfblZHeGFqYW9MZlUwVmF4X0xBWUx5aE11bndrWTRIaFVGNkVCR0RMMGNabW92ZXNSeERJNV9UY2ZCNmpCQ1E2QTN5Zm9wZUdHZzg1S0RSMEtOa1ZtX0pBdWVHN2lnRFFXXzFrVTNLOEZWcUtKT0p6Sks0OHVPTUVLa21XbGhJWkp2UUxDaHBKR3pyWnp0eXlzdw?oc=5",
-     "t_id": "9 ti natay, 28 nadangran iti Rudal ken Drone Attack ti Rusia idiay Ukraina"
     }
    ],
    "title_id": "Rudal dan drone Rusia menghantam Polandia selama serangan terhadap Ukraina"
@@ -116,7 +115,7 @@
    ]
   },
   {
-   "id": "perang-202611200605-ebfb",
+   "id": "perang-202611200936-ebfb",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
