@@ -1,7 +1,16 @@
 {
- "updatedAt": "2026-11-20T16:27:55Z",
+ "updatedAt": "2026-11-20T16:42:34Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
+   "src": "StoneX",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
+   "time": "2026-11-20T16:38:40Z",
+   "t_id": "Emas Rusak, Tapi Apakah Ini Pertanda Apa yang Akan Terjadi?"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -45,28 +54,10 @@
   {
    "topic": "saham-as",
    "lang": "en",
-   "t": "Stocks plunge as investors take cover amid growing uncertainty",
-   "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZjFqa0hNX2pnT1d4RGRQWEhNTDl6djZzd2sxOFZhOWE3UnUyZFpxWk1NVzJrNnpGbS02bDctT2FLMUNNdzV2ZW9lMjVrM01ZRHpBNmpycjBJSVRVaWVPdGlyazkxQWJLal9BSHo1Zw?oc=5",
-   "time": "2026-11-20T15:23:30Z",
-   "t_id": "Saham-saham anjlok karena investor berlindung di tengah meningkatnya ketidakpastian"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
    "t": "AI stocks are selling off after Anthropic’s record IPO, and Wall Street is split on whether this is the top",
    "src": "Fortune",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXYtcjN1bXdZQmdkQVUwLTZ3WThBSUVCV1BOR0R4RV9PTlNCeEQzWDRGZ01qbWVGZU5sb011NUc3cWs0dkZnQU9ZZ1BabkktY05zdnhhZHBCaEVldk5qX1V6SFh3SEJnZGRLMVpxYzBBWkZNUm9DY2FQZjRLS1A3bjBTVEEzRU96THZqVnZlcnJzQXFJRUdV?oc=5",
    "time": "2026-11-20T15:19:00Z"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Canada and China Draw Closer with Expanded Trade Pact",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
-   "time": "2026-11-20T15:18:44Z",
-   "t_id": "Kanada dan Tiongkok Semakin Dekat dengan Perluasan Pakta Perdagangan"
   },
   {
    "topic": "bank-sentral",
@@ -83,14 +74,6 @@
    "src": "Radio Free Europe/Radio Liberty",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnS0VmRlE3ekV3ZHk0YzY3QjVhVkJJQUd1WWQ2NXVPQmpsN1pqWWg2MVpxajZYQnJIRVNOakJPU0FaUHVJYkVJQ2xScnNrcy15X2ZkLVpsTE42bXdYQ1VrVzJ0X2ZrdDFJalNWbnNJRUJBWEt6amc3V2N30gF8QVVfeXFMTUllRVc4WjBtR0x5QzBEcWE5TDBtQUVnOVRCSDRPUWlfU0ZUdldBd3pFbXZackNOR0xtNmE2el9MRWxmSmtXdkhlNGVJVWlfbDVsczFwem9DMmx2UU1nb0QtZFpwUjN5N0R4Vkh4SjdhY0w4WEIzWmFWcE5Wcg?oc=5",
    "time": "2026-11-20T14:38:56Z"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Price Forecast: $3,500 Support at Risk as Fed Outlook Weighs",
-   "src": "FXEmpire",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDBMVGpsT3RvVnkzSVZRbnpSdFlDOXNPYjVEc2N5NEFrNEUzYUtFeHN0cDI3eTJkZUZzVWdWREFneVllZXJPaVpMbXBXeGRNa1I1OVlfSVpab0ltT2FOU1lvS0x0RzJiQW9BM2o3YnpCTzN3OExISi1QR2ktTzF4T2pTdFRvVzJCbmVqb3FHdzd1YmNhNjBPeHhrR2dRSEV3WGtHSWRhdDR3dU5RZkVJN1d4OA?oc=5",
-   "time": "2026-11-20T14:36:49Z"
   },
   {
    "topic": "emas",
@@ -131,6 +114,14 @@
    "src": "Bitcoin Magazine",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ld0RMcXoxc3ZZbVlhTjZVRktnZU9hbWdRSjdqS3ZBRkR5R01nNlR2c2I2ZkFpeG1zYVNKM01lTTRNOGI5OWxUTUFaRHRyR25WZGZaSHR0ZkxUSThnSG8wQlBGYmdUS3h1TTY1X3h4WEl1cEZB?oc=5",
    "time": "2026-11-20T14:02:19Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5",
+   "time": "2026-11-20T14:01:16Z"
   },
   {
    "topic": "emas",
@@ -269,15 +260,6 @@
    "t_id": "Apa Arti Jatuhnya Harga Emas Bagi Jutaan Orang Amerika"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "time": "2026-11-20T12:11:31Z",
-   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize",
@@ -287,13 +269,13 @@
    "t_id": "Harga emas hari ini, Jumat 20 November 2026: Harga emas terus turun karena ekspektasi kenaikan suku bunga semakin mengkristal"
   },
   {
-   "topic": "ai-teknologi",
+   "topic": "geopolitik",
    "lang": "en",
-   "t": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
-   "src": "CNBC Africa",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeml2Rk5ZcEZhLVBTWGdBcWxzcnlza1p3X0RJSUFnTEVCcHphRTJMQ2gtdWVDdE9PLXJFamhJUkJIZzFLZ1BJZ1liQmpGZGtXQWtNcXNBYmQ1dVNPV0ZwRzBLVmNyUWZLdFFfTVpnU0NGUW40Rlg5dUo5RmlMOEpzSVNmc05vQXFVYnZWbW5BVUp0UlZjUVU0QmJfRkFpSElDWFE0Vm5hZzhubXA0cU5adk9nSjdMUmY1?oc=5",
-   "time": "2026-11-20T10:42:09Z",
-   "t_id": "Saham antropik turun hampir 6% di pasar awal di tengah aksi jual AI karena saham Nvidia dan AMD turun"
+   "t": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
+   "time": "2026-11-20T11:54:11Z",
+   "t_id": "Bersiap Menghadapi Banjir Minyak Segera Setelah Hormuz Dibuka Kembali - Berita Energi, Berita Utama Teratas, Komentar, Fitur & Acara"
   },
   {
    "topic": "indonesia",
@@ -302,6 +284,14 @@
    "src": "Aktualita.co",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUJqYlFjcV9aenBnbWVjcmxYbmg1bTl1X19oal92LVgwOU52NEZMWjBrYTNyVTk3UlBzdk9IaW9Ka1VZRU41RnhfM0w5aXlvbnBkTTB0VXAteWtxU20zLUMxVHFVc1FtSmFSY1Jua09PVXByQ1RaTzZicm5xeHYwZnVn?oc=5",
    "time": "2026-11-20T10:39:36Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Turun 5 Hari Beruntun (Jumat, 20 November 2026) | Pusat Data Ekonomi dan Bisnis Indonesia",
+   "src": "Databoks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDNMTFZOUlZPbDdzLTZGM0Z0ZUtocTRCRG9xSURyZEg2UlBJMWg4dkZ3b0h1ZVNRU0hzbng5aWlCeHY3Rkh4SnI1S0VKdThKM0lmTEtoVW9UVzNWUW5NNUJmYW42YlcwcXROVDNXdnRUdW14aUlPTzUwS1d0NFVrbVYtajZDQlBiemUzb2NxTy15VFQ4LVd2VGxPaE9XLTY5bk9peTF4eHgxQkJfQmUwZw?oc=5",
+   "time": "2026-11-20T10:30:15Z"
   },
   {
    "topic": "indonesia",
@@ -361,6 +351,15 @@
    "src": "Pasardana",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODhHZndxNnZvbENOR3ZLYUhjUGRRR1poTjdhQjZoVHQ3QzBsaGdsSHR0WUhoT2dFS3lrZWw0VXFOZ1Jtdjk0MFZadXo2TVZNaWxhU2RNV3UtdDlBaXJpdFVCMHVYUXJERDVQRG41TzBjSG55cGgteTdoSnRDb2ZJYWg3T2g3Wmh1V3ZXaEt6dUJLRHBULVVjU2ZwZzA?oc=5",
    "time": "2026-11-20T09:32:00Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Policymakers want rate hike but disagree on pace",
+   "src": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLenkzRHR2cnQwLVFSSFBrY2RhT0ZNbk1UZzdRSmFyQVhSa1UwN0w0WThGQ19aNGNOcnQ4YzhBRGkxZXFucjZpa2ZkMGwwcTRGNjMwQ2JFVmFoTVp0Q2Etdks2YmpWNU9JaTRSYi1TYw?oc=5",
+   "time": "2026-11-20T09:26:50Z",
+   "t_id": "Para pengambil kebijakan menginginkan kenaikan suku bunga namun tidak sepakat mengenai kecepatannya"
   },
   {
    "topic": "indonesia",
@@ -439,18 +438,18 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Rupiah Melemah, Bank Indonesia Naikkan Suku Bunga Jadi 6 Persen",
-   "src": "Jatimnet.com",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGlsVFNKdXBJcHBWNVh0OU5XaW1ERG1kQmxGVnNJaTZpdElYTWQ3YTdxTjhWeTJOOWFBVG9jaHdfdTFjeGtSQjlpMGo1NE8xNU1ra3hocGZiRGVzNl9UV1FlWVFyaTYwQ2dmNjhiTzVQWEU1bVNpdnprTkljVmktNUI3bWhVUno4aVZ3?oc=5",
-   "time": "2026-11-20T07:30:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Dilema BI Naikkan Suku Bunga, Jaga Rupiah Sambil Jinakkan Inflasi",
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWotSW5waG5iRXFBc1dPSWx3bXFzbnl2OUc1aDRUNWNIZFZ0aGc1UDRTd3dVMjBHaWJKV3RpQXlUWGVVVi1rckQzMkhROFhBeUNWbnlTRzFqeXAwam5VbEphVVVab1E1ZGZqZE1vV2ZOZk9jTEkwbDNsUDNPV2JhMExjNGhwRFZzYndTSVlyQ2RkcmFRVUVsVUtTVHEzUlBNbjVPR25ITWpEcDF6SnBNZ2pjOFI0MkxCRG1meEItU3ZyZENW0gHKAUFVX3lxTE8xcmhhRnp6NkNnaHhqdXN4aDlaNmNaaUFFbXU1TEMxdko0WHFlakpmUEVtV1JZdFg4Tmwxd3d1blpyMDloUHNfc01LR092VjN1U0V2MG5KV3NkaEtXQ2hQQzZQZzk5cFBrZjRuWTNJN2hkSWtYZ05sa3J0WmpON3lMb3dBSXFsTmFrTTdfTzNoaURGV3FJNEIwZExZQldzTF9pbm9SbjhpT0UxYjRINDVPWWdDNEJ3LTI3dlE5M2VOUk4xU3VUU05UaGc?oc=5",
    "time": "2026-11-20T06:55:37Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Jangan Biarkan BI Sendirian Menjaga Rupiah",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTE5rcEdnaXdEZ181c0FRV1pIcTRSdUptbDkwRFFIUmRDNXBvMHRBSGxHTmFUMTFiTWpULWdGbnVqZEVGUWoxcy1yUV94WTc4MmQzd2pSOVBZUkk3MXlsOWRPSk5zZjhhZ2pERDlHS2VfZFRDTkdydzJyVXlkXzYwNGRnYnR3YmRQUXBKdFJvcVYwZzBNWmp2SQ?oc=5",
+   "time": "2026-11-20T06:12:00Z"
   },
   {
    "topic": "saham-as",
@@ -486,14 +485,6 @@
    "time": "2026-11-20T03:48:00Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Rupiah melemah seiring ketidakpastian geopolitik di Timur Tengah",
-   "src": "ANTARA News Sulteng",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWZuU2pabWRVMXl4dGJ1eHJMTzFQUUI2c0cxLXZBcUkyYk1qcm1TMmpjaDMyWk9BWlc0b1FIOFNPQjJmWjRSR1pVMWRLcDhVNllENmlzMVpaSkZXVGs1cGMzR1JnSjVGTTdtTmtVN3N2U2xpUU5aZ3VobDVzRDlOLUlqSHh6Z2FqZFVkdl9rYmRleEptLVB6YmNqcDFpYndHWXBScFRjR2l6UWFhd0E?oc=5",
-   "time": "2026-11-20T03:19:39Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold futures sink below $3,700 as 5% yields pull money out of bullion",
@@ -501,6 +492,14 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlJNYXNXZkw3b1RUbHlCY0hkVHF0OEFjQnpaMDlNc2dYREpHTUpVSHdiVTFsMHlYbXFjX3RhX0VFN3Z5WFZSUFBtRUplVUs3TWx3SWk1UmJYTDk0LWxQOFhIaU1JNS1hQm9QaDlSalNLU1JkRDd5QU9YUHZyTEsxalNySWo0YVUwVkNjZE55SXplYkJMOVJHQkIySk5YM05rV1Bj?oc=5",
    "time": "2026-11-20T02:05:02Z",
    "t_id": "Emas berjangka tenggelam di bawah $3.700 karena imbal hasil 5% menarik uang dari emas batangan"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Koreksi 4 Hari Beruntun di Tengah Tekanan Global, BBCA Tebar Dividen Interim Yield 0,62%",
+   "src": "Ajaib",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkRITm9KYy15TjZLSGxYTDJDMzhRSUtieEFUTkVmdkZPQVJWMEwxOFA4NVhjczFodkYtNDF5MG94Um5FVDhRZlZOWjg0cWdJV2txb2lmZ2FFd0VfOEZaal9SVFhEVDhKNTVnX080Um9qTkVJZUZTd3E2X2tfa1FjeU9wOFExQ0RpUU9TMHR2SnVhekJSVXRoMUR1SDltRG5QZ1E3bVM3NVB5bmNybEtFWXJyRVlCM3B0c2NXaVYxRUwwdw?oc=5",
+   "time": "2026-11-20T02:03:45Z"
   }
  ],
  "errors": []
