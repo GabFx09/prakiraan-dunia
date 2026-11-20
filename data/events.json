@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T22:46:02Z",
+ "updatedAt": "2026-11-20T23:00:45Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,8 +10,8 @@
    "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
    "src": "AP News",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-   "sources": 37,
-   "recent6h": 12,
+   "sources": 38,
+   "recent6h": 10,
    "score": 43.0,
    "level": "besar",
    "first": "2026-11-20T06:05:00Z",
@@ -107,6 +107,29 @@
    "title_id": "Putin melancarkan serangan ke Ukraina beberapa jam setelah pertemuan Trump di tengah dugaan pelanggaran rudal Rusia di wilayah udara NATO"
   },
   {
+   "id": "transportasi-202611201049-391b",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Italy rail strike Nov 20–21 to disrupt Rome and Milan trains",
+   "src": "https://www.thetraveler.org/",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDl3bjBFN2lMNkZMQTQwUGtxNTRGUFlhSTQwWlJtdzBYQy1EZ2UzWm82ZFJzeER6eFBJbGpJU0lpZnBwN3c0Z0R6aHdLVjZzeXRZVTBRT19SUjN2RXkwd0pxZzY2Z25uWno5Y3RqMnRIeHYwemY1S3Z1WXc5c1k5azBWcmFWRmtGN2lTSGFCNzlXTnM?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-20T10:49:55Z",
+   "last": "2026-11-20T22:24:52Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "ENAV Air Traffic Control Staff to Strike for 24 Hours at Milan Malpensa on Nov 22, 2026; National Strike Revoked",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kTzJhVTlSZDVLZTlSWmp3Smttak1mVnd5a0hWaEkwdGFkdWIzemxOVlF6alhzLTdjTFJYbWg2Z21pdXA4eEROR0s3VjdTTTBVUDU5TC1HdFYyMDc0bHY2ZU9GZVptaW5wVEdRZlQxWmtTM0k?oc=5"
+    }
+   ]
+  },
+  {
    "id": "kerusuhan-202611201621-69f5",
    "cat": "kerusuhan",
    "label": "Kerusuhan & protes besar",
@@ -128,6 +151,31 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcU40UnRPQlVwVGFHNWhoU2ZWdWxVNjlDVDJ3alNUMVdNekxhTW1BcTdacTgzbUw3QnNrMWtKRnNMTjA4ay04ZC1RT1NjblZCM0c0dkcwUWhZQXo1ZURQcjI1T3JVdVBla3YtQ0NHNS04d1VxcDZSdlNJRWU2Z3FoMUR4QVlCSHlMNzZKeWZQOUo3QmdVMjZybDJoem1uMjk2QXBicEVFbUUtZ1NWd0FWaQ?oc=5"
     }
    ]
+  },
+  {
+   "id": "politik-202611200336-69ce",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Sánchez calls snap election in Spain",
+   "src": "The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFZwcTBVSDZQNzBsUnVpbFI5XzdIdTdjNEN4djlIYmFvbkoxSkdOSFh0QlpmbV9XUzFlRU5vUy1Fa1RlUE0wOWR6Mld5RWp6Q21ZbjhNZHBRX3JjVWYzZmJyZjZqTGwyUXBXclJSenMxNmJvNmRTeGJUeVJETFFJWk1tMEw5b0EtN3pwaHJFZ3lBWnE3SXRR?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-20T03:36:39Z",
+   "last": "2026-11-20T17:52:04Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain’s snap election: Sánchez, Feijóo in tight battle for Parliament",
+     "src": "Qazinform",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTZkUzBUR0xLdFpVUXlzRHJYOF8wVTFOTUxuZU5rT3BsUlhZLUhMU0NCc1JydlY4TUFndnBoVEN0cEVHNzU0eUNlYlh6YjlyaUpOUnpaSUdjNmVHeWJDQTh0dUQ1bHphSkY2cjdXSnRVQXhuempkUjJkdVRucENGRVBMdEJodTFuMjVkU3o3cmJGS0gzTVhQeWJhTndkOFXSAZ8BQVVfeXFMUFU2ZFMwVEdMS3RaVVF5c0RyWDhfMFUxTk1MbmVOa09wbFJYWS1ITFNDQnNScnZWOE1BZ3ZwaFRDdHBFRzc1NHlDZWJYemI5cmlKTlJ6WklHYzZlR3liQ0E4dHVENWx6YUpGNnI3V0p0VUF4bnpqZFIyZHVUbnBDRkVQTHRCaHUxbjI1ZFN6N3JiRktIM01YUHliYU53ZDhV?oc=5",
+     "t_id": "Pemilu cepat Spanyol: Sánchez, Feijóo bersaing ketat untuk Parlemen"
+    }
+   ],
+   "title_id": "Sánchez menyerukan pemilu cepat di Spanyol"
   },
   {
    "id": "indonesia-202611201440-1c07",
@@ -199,9 +247,32 @@
     }
    ],
    "title_id": "Ground Stop Nasional Menyebabkan Pernikahan Dadakan di Bandara: 'Bahkan FAA Tidak Dapat Menghentikan Pernikahan'"
+  },
+  {
+   "id": "siber-202611200640-8f07",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "White House replaces national cyber director as nation reels from tech outages",
+   "src": "WMTW",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1MydWFERm16MTdwMi1URHFWY0hRS0VpM2hSblJpNkVqOEdQX3dvd2R0ZGh0QzNKd2JzMld4X1Q4dlpsZFQxX1NZeEhQUmR0NFNUcnp0bDRlRUpvbmtFZEhVY1M5aVFSZThXaFJpOXJaWThhMW5zMV9LUDUxSXBMN3lqQjEyWWpJbDFIV2Yzdkt4dw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-20T06:40:46Z",
+   "last": "2026-11-20T11:34:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Trump fires cyber chief amid mounting criticism over tech outages",
+     "src": "China Daily Global Edition",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSno4d0RjTXZpMFZLMF9mVUJwSHZBa3gyQUx4Vk5oa1ljRGg4b2U5YXFFUEtlVk5WZkhKOURYb3BaQ1phcG45eWEybUF1TmpvZnNadFMyYjRTX0J1cUQ4VEFTcUx3RXFKVkJDcm9CZHlZRjhzLVpXZVhrZGIxTElfZ2Z3?oc=5",
+     "t_id": "Trump memecat kepala dunia maya di tengah meningkatnya kritik atas pemadaman teknologi"
+    }
+   ],
+   "title_id": "Gedung Putih menggantikan direktur siber nasional ketika negara tersebut terguncang akibat pemadaman teknologi"
   }
  ],
- "errors": [
-  "politik: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
