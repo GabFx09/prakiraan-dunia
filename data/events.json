@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T11:38:57Z",
+ "updatedAt": "2026-11-20T11:53:37Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -7,17 +7,23 @@
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Two Russian Kh-101 missiles and jet-powered Shahed drone fall in Poland - MoD",
-   "src": "RBC-Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQmREWDhjZG03ZE5DVUx5RzRkY3BCT1JTTWVuVS0tSnB0RXVoeVVaVndCZGg5UlZyOVFGVkhOZzZLdUZFRUNhUDFFVnl3cDR2TzlOQ1dqd2doalh4NXo1MTdhZ0ViM0piYm1ieElrM3plRUdPaHFxcHoxN1BMTzNqZF9hMUpnM2I2azFQT2U1cnppYUhYd3c?oc=5",
-   "sources": 11,
+   "title": "Russian Kh-101 missiles and jet-powered drone crash in Poland during major attack on Ukraine",
+   "src": "EUalive",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWg2OHFoUWpoV3VLclpGOGgtMWZTUktsOC1NWXNBeTJXUWdvNEhvZkl3Z3N6WUwtZlZfaHQ3ejBkNWNwVVBpQVNEd3FhLThhdHhRYllXUnNic3hYV3hYWHgteTRtNU1IQm16RVJ1cXc0SWFEVkptWThDNXFYZlBVd1ZjMXBGQ0ZXTDlmXzB4X2ROdWptaEVNMUtPQkNmcTEyM1pEWXdPRnpwa0hiM2N0Nk0xbw?oc=5",
+   "sources": 13,
    "recent6h": 10,
-   "score": 16.0,
+   "score": 18.0,
    "level": "besar",
    "first": "2026-11-20T01:00:37Z",
-   "last": "2026-11-20T11:13:22Z",
+   "last": "2026-11-20T11:37:30Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Two Russian Kh-101 missiles and jet-powered Shahed drone fall in Poland - MoD",
+     "src": "RBC-Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQmREWDhjZG03ZE5DVUx5RzRkY3BCT1JTTWVuVS0tSnB0RXVoeVVaVndCZGg5UlZyOVFGVkhOZzZLdUZFRUNhUDFFVnl3cDR2TzlOQ1dqd2doalh4NXo1MTdhZ0ViM0piYm1ieElrM3plRUdPaHFxcHoxN1BMTzNqZF9hMUpnM2I2azFQT2U1cnppYUhYd3c?oc=5",
+     "t_id": "Dua rudal Kh-101 Rusia dan drone Shahed bertenaga jet jatuh di Polandia – Kementerian Pertahanan"
+    },
     {
      "t": "Two Russian Missiles, Including Kh-101, and Jet-Powered Drone Fall in Poland During Attack on Ukraine",
      "src": "UNITED24 Media",
@@ -35,15 +41,8 @@
      "src": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZlZtTVA2RkxabjR1Z0M1Qm5wYlpnRFpOU1NfUjNiRml6dnZZZ19TV0RjRmcxSlUwLVdnZE1DZUp4dnBBNHp3cGo2cm40cHhzdS1NeWZNQWtfQ1hBa0s5b1JfMDhzR0VSbGEzRGpuMmNkR2tna0NmZy0zTGd5TUhubEtCMXh1MDJVNy12UUR2OA?oc=5",
      "t_id": "Tiga jembatan di Kyiv hancur akibat serangan rudal besar-besaran Rusia"
-    },
-    {
-     "t": "Two Bridges Damaged in Kyiv Following Overnight Russian Missile Attack",
-     "src": "Daily Beirut",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEVKbF9lOHJ6WW1aUTFudU1Pc3BkTERJT2hROE02a1hmczFadDBEQ1JKNThBc1ozSXlvUDA5ano2bWVReW9wMi1lWW56d2FkWDRfU1U3R19pa0ZKRHFBbEh3cFhiSHV4U3I3U3N3ZUcxbnBFV2NXeU9WZWMzTHQ4TnNwNFg3bmR5SDc0bDlmT1o0ZGRwMXFUelV5ZFE1U01WRDJlZ3RxVQ?oc=5",
-     "t_id": "Dua Jembatan Rusak di Kyiv Setelah Serangan Rudal Rusia Semalam"
     }
-   ],
-   "title_id": "Dua rudal Kh-101 Rusia dan drone Shahed bertenaga jet jatuh di Polandia – Kementerian Pertahanan"
+   ]
   },
   {
    "id": "perang-202611191305-aaf2",
@@ -53,9 +52,9 @@
    "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
    "src": "DD News",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPai1fWEE1OVItb2RjUm50NlFNZW5BYkhLWW1hM1I2NXJDZDEtMkVkdVZBb3pQcEloTVNxemlRRElRRFprZ1h6MDlSaTdkdjBqcGgtSjFlWnFNQldOYnBJNTdvemlIa1NZZF94NGNacnFrQnh3NTJ5TVNuTDZpZDhtcHJYY3g0MGotQ0Zyd3hjZFItdWxRYWlnbXRCSTZ6YTd2cDdGeGk4MGp0WGlIZko2SllzbU0xSkpG?oc=5",
-   "sources": 5,
-   "recent6h": 3,
-   "score": 6.5,
+   "sources": 4,
+   "recent6h": 2,
+   "score": 5.0,
    "level": "sedang",
    "first": "2026-11-19T13:05:54Z",
    "last": "2026-11-20T08:29:54Z",
@@ -66,12 +65,6 @@
      "src": "SuaraGarut.ID",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84eU1TaTFNb284bEhvZDliSDhjZ1VxTk9ROF8xMGd4TkF0Q0VSMGI2M1lNSVAyU0g0ODBVZHBFQXhZNy1UQ1dXQmVkbUVYaWNFcHlXTnVzZEtVaS1vNDkzcjl0Rk9Gdjg5bXc?oc=5",
      "t_id": "Rusia Tewaskan Lima Orang dalam Serangan Rudal dan Drone di Ukraina"
-    },
-    {
-     "t": "Three killed in Kyiv: Russia launches massive missile and drone attack on Ukraine",
-     "src": "Корабелов.ІНФО",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjNxZlMybE5OYjIybnVzQjBrRWdkUVNlQUFDVVpXZEI3cmd0WW1zNGxOeEliR1NuN3VSbHZmREthSGJndU1XYkFOblhaV004UWRTdGY5QVptX1dtZjFwMl9VVUFRbkE0RUNFdmdrZlF3eVctcUhweDVqaklMYkRBazZtcGdhakRSMG1qek1STXFtWEFhYVJFZnFWWVZSbEFuMndxQkRDOTNLT09GNlZhTnBKWUZJYms3bDJiUnU3dw?oc=5",
-     "t_id": "Tiga orang tewas di Kyiv: Rusia melancarkan serangan rudal dan drone besar-besaran ke Ukraina"
     },
     {
      "t": "Russia Launches Massive Overnight Missile Attack on Kyiv and Regions Across Ukraine",
@@ -205,6 +198,30 @@
     }
    ],
    "title_id": "Perhentian FAA menimbulkan pertanyaan baru tentang keselamatan penerbangan"
+  },
+  {
+   "id": "siber-202611191821-f4fa",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "What’s Behind the String of Tech Outages Disrupting Business and Travel",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0JJUnl1VDI5VUg1eG0wdVprREg0N0pBYXNoQ0JhMFh0Z0V3N2tFdWo5eXgyd1hhRE9hMkw5WW5ya3RZR1dqN3hNNjJyY1JUVHlvaEpYMmVyQ0k2bHdoNWFyVVkzMXZqRnhGZy1IVE9PWjJzeDBkWi1IOGdDVG9TOURoMGxfVkkyOWcxclR5bU5DQjN3dlE?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-19T18:21:01Z",
+   "last": "2026-11-20T11:33:40Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Are tech disruptions and and outages the new normal?",
+     "src": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQUFiSTdMcW43Y3VUU1ZjbkNtNDZzWFdUY0k5YzdwMTVXSnZ1S3lfM0RCajVoT2dJc29taDlmTUppRkoyTVVvNUtvRGxIRTI5TjByNDd1QlBQSlVOekJHTkpEY01xY0RodW05QS01TVU5UThWcUNUeUQ2NnFadHliU1lVQXBYSmlrVW1FY3Vfc0Q?oc=5",
+     "t_id": "Apakah gangguan dan pemadaman teknologi merupakan suatu hal yang normal?"
+    }
+   ]
   },
   {
    "id": "indonesia-202611191618-156d",
