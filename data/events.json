@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T21:58:40Z",
+ "updatedAt": "2026-11-20T22:01:53Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -15,7 +15,7 @@
    "score": 41.0,
    "level": "besar",
    "first": "2026-11-20T06:05:00Z",
-   "last": "2026-11-20T21:10:00Z",
+   "last": "2026-11-20T21:55:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
@@ -44,7 +44,7 @@
    "title_id": "Rudal Rusia mendarat di Polandia, saat Eropa mengadakan latihan militer di dekatnya. NATO menyebutnya sebagai pelanggaran"
   },
   {
-   "id": "perang-202611200605-ebfb",
+   "id": "perang-202611200605-3dc3",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
@@ -55,7 +55,7 @@
    "recent6h": 2,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-20T02:39:11Z",
+   "first": "2026-11-20T06:05:00Z",
    "last": "2026-11-20T21:10:11Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
@@ -207,32 +207,12 @@
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU1PeWF4bF8zLUNnY1M5VnN1bEd4Vjl6WXFIcVI5ZHhpUmVkeFE3YjJGQUtYakZfekRwUVh6S0s1OWlIOGtzTUNGelhUQ1JxYXo0VmZrQ045QzhhZnpDSC1TVS1pRTlxZm9jVDlkblctQjdhcjh1YThEdzZyUDFXcUdkYw?oc=5"
     }
    ]
-  },
-  {
-   "id": "transportasi-202611191934-928c",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "The Nationwide Ground Stop Led to an Impromptu Airport Wedding: 'Even the FAA Couldn't Stop the Wedding'",
-   "src": "PYOK",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ0xQNFlTcGk3M2laRndEbTc1cW52YjlxVHdwVm94MnNQZ3lmS2F3QjZ0a1VLS0ZJR21CYUxxczJfYTJBZWNJNDVxaTBqZnN1OS1hR0taRV90Qk9TbXhYenFieXdiOEtibVVMZFo2YlV4WlN3Z2NBYVkwOUMxeXRJVHdmRjE4SlhDM25EWlFJNUxVY3VNNnhiLWtDZ0g1TmU4T21qZUg1TG5xY2M4bDBmYS11S1FGc0F4NV9paV80VkhDVDNKeXZRNkg1OUFVU1JsaDlBVE9vT1p4OC1Rc3BVTQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-19T19:34:04Z",
-   "last": "2026-11-20T11:54:52Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "The FAA ground stop raises new questions about airline safety",
-     "src": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHJqUENIM3hpMHU5d19leklJaTJHRDBWaG5BQUY1YzU2Q0hRa3NqamloUHRIeEx1QUNNY0hQTHNNa2twVG40WW9ydU1pelRMNk5JcXVramhTRzJBeVVuWGk1VzlaSjZncHgxaEJrQmI3R3BmM3lDMUs0cFNZT2tPRkxpMmhJVUhxZXpid1h2dw?oc=5",
-     "t_id": "Perhentian FAA menimbulkan pertanyaan baru tentang keselamatan penerbangan"
-    }
-   ],
-   "title_id": "Ground Stop Nasional Menyebabkan Pernikahan Dadakan di Bandara: 'Bahkan FAA Tidak Dapat Menghentikan Pernikahan'"
   }
  ],
- "errors": []
+ "errors": [
+  "korporat: HTTP Error 429: Too Many Requests",
+  "transportasi: HTTP Error 429: Too Many Requests",
+  "siber: HTTP Error 429: Too Many Requests",
+  "kesehatan: HTTP Error 429: Too Many Requests"
+ ]
 }
