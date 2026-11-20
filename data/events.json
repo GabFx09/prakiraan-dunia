@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T21:07:11Z",
+ "updatedAt": "2026-11-20T21:21:45Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,13 +11,18 @@
    "src": "CBS News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFSTWdxSVdBMEtrN1RpU2F0eTZuOTVQV0lSQ1hsWERjY25VLWV2d1hlZHluaWZOeklXRWhaN3NrSmMtWjhFY2VKU0lWbU9FWndENldZU0owa1BaQ3N2eWN4WE9xOXhkNjlLMmxxb3AycE5sRHZqVnpXLTFnN1daRGh3MDh2cFR1RVBYLTNoMXdMbTZWSURtQQ?oc=5",
    "sources": 34,
-   "recent6h": 11,
-   "score": 39.5,
+   "recent6h": 12,
+   "score": 40.0,
    "level": "besar",
    "first": "2026-11-20T06:05:00Z",
-   "last": "2026-11-20T19:42:16Z",
+   "last": "2026-11-20T21:10:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Poland explains why it did not shoot down Russian missiles and drone",
+     "src": "RBC-Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1RfX1dxWnJZYkJuYUh6aUtNY203T0FmeE56dm9uWUdUMDR0Mmo4TVFTV3gxdFlPRkFobUNJZjNuc2pESzQ4bkFXZ0ZhamViR3F6YjR6blVwdWJURFUzVXh6Ti13eHpEZnNhdXRQbTV5S20yeV9FNDl3N284eFJUYlRteERmZHpOVEZqMi1vUTJ2czg?oc=5"
+    },
     {
      "t": "Poland and NATO say Russia is behind missiles landing in Poland",
      "src": "Juno News",
@@ -34,14 +39,38 @@
      "src": "The Kyiv Independent",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlqYnRIM184cXRFekZMM3o1Q2FyNDVNeGVqbW1fMHpFOWx2TktpdV85LXd0d2hOZU02VWV5LWlsYnAxM3p2VXMzQ3VwOXU3VmE5bV90Yl91XzZXRHdPUFozYmE1TE5kT3Y2TDhUdU5pUlk2V3VNVmE3OFBic3ZDWUdxcXc5M0VSMUFELU9TLXQ5OHpiQ0NSRkVEa0R1Nkg4ZEhJQllVbGZFZnIya3hTMWF4Nk1pdG1HZ3JNbzB1U2JPNUtMek5rd2Fn?oc=5",
      "t_id": "Perang Ukraina terbaru: Rusia menyerang 3 jembatan Kyiv dalam serangan udara besar-besaran di Ukraina, sedikitnya 9 orang tewas"
-    },
-    {
-     "t": "Russian Missile Attack Kills 7 in Kyiv, Damages Bridges and Disrupts Power and Water Supply",
-     "src": "Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEREtCU1g2bjJJN25jM3hfdjM3cWZ2NDlKVGpWRnFucy1Cak00cjNEZWJMNzNnQk5FSjFnUE9CaWYydHM5S2F5WEV1UQ?oc=5",
-     "t_id": "Serangan Rudal Rusia Menewaskan 7 Orang di Kyiv, Merusak Jembatan dan Mengganggu Pasokan Listrik dan Air"
     }
    ]
+  },
+  {
+   "id": "perang-202611200605-ebfb",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-20T06:05:00Z",
+   "last": "2026-11-20T21:10:11Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian “provocation.” The incident came as Poland was hosting a two-week military exercise",
+     "src": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjdpRkpWT3F0b2lESHdXWXY5QlVaRlMxbFYzaWh4ZmVNWnNWdW5Pb2Y4VHQ0a3FXN1E2M1VRcE5QYnRGejVBd3A5eTUxOWc5b2Y5bFpSRklTUURWTmo5VWRyOTFXZkFDZGFHT0doT0tjOWt0LXVsUU1SWk93ZzNXeHlRZDFKM3A2bVlYYldtb3ZXN0xTUGJYeG9XWUlSUDFkckgzdmFUSi1qUnMtVkgwS19tMlRXWTc2amFVLTU0bHhFT1VLLU9JSzA5TDNjWGJNaHF2cA?oc=5"
+    },
+    {
+     "t": "Poland's Tusk denounces Russian 'provocation' after Warsaw says missile hit territory",
+     "src": "France 24",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGNJNHRNRjRURGJsSFhXcV9taGNRb3Y3UUx4S0RCYlFLbnFkMUVhYUxHcHhZYkt2QldfWHdISUVpazh2UWFLSWZ4T1JfUzR0WHBCQ2M1WkoxSGFFWW9nLWFGQnRvOHplYTlvRkVqa3ZUd2JCa3FCTXpOUUVseHVlVkt1dkdfcS0tMzUzNXgtRk55QXBEeWEybkcxNmY3SU5VUlhLaHA1OHkxaXhtU2xTc0dudEE?oc=5",
+     "t_id": "Tusk dari Polandia mengecam 'provokasi' Rusia setelah Warsawa mengatakan rudal menghantam suatu wilayah"
+    }
+   ],
+   "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
   },
   {
    "id": "indonesia-202611200037-9c50",
@@ -85,8 +114,8 @@
    "src": "Fox News",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOV9oS2JWcDFJbFFUQldYNVl4Um9BR1dxN1BISVhDQTVHdnVoNzgxejNJUDNOWkFtSldkUURVUDY2ZFhQNTFBUTVoUzY4ZFFsUmVvdkxVWFQ1NTRCMjEwMlpSb0VIdUh1SFR1NU5WZzZoTXpyUFNjV3F0NlZRc1N2MlZ1aFQyeG5zQkt5SFR1eHR2Ti1FSGZPQ1VDa0s0MmVkNzRjX2hzOTNZbzNHcmZtS3F2YWlkTmdmbTlFY3VwZzJlODhxUGltQzJqZ29RR044U0HSAdcBQVVfeXFMUF9GNnVRcnRYb1g1Z1JodjlMYlVOeTItclpwUEI3UFZraWJJbHZ2cWRqQmMzNGNhYUNjTWxJYjFUMVlsTTZGQjNkZDFxRFYtcWhYRXJsR05SenBwZGNWY21ZdnRxM1k3S0wyMjQxNldlTWV4THoyMjUwcVFjTlZwU1Y0cHZUMlBnaXY2azJvQ2luS3h1NG1ybzBBdW95dGNRRVVZanJiSmQ1VXVkUmVhY296enFjYlB6dE9pZmhWTlo5QmMwc1V3WXRPQWVzVmlQcXNKUW1uaUk?oc=5",
    "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
+   "recent6h": 0,
+   "score": 3.0,
    "level": "sedang",
    "first": "2026-11-20T02:39:11Z",
    "last": "2026-11-20T15:13:39Z",
@@ -156,31 +185,6 @@
     }
    ],
    "title_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-267 — Serangan Rudal Houthi di Arab Saudi"
-  },
-  {
-   "id": "perang-202611200605-ebfb",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-20T06:05:00Z",
-   "last": "2026-11-20T16:54:29Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Poland's Tusk denounces Russian 'provocation' after Warsaw says missile hit territory",
-     "src": "France 24",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGNJNHRNRjRURGJsSFhXcV9taGNRb3Y3UUx4S0RCYlFLbnFkMUVhYUxHcHhZYkt2QldfWHdISUVpazh2UWFLSWZ4T1JfUzR0WHBCQ2M1WkoxSGFFWW9nLWFGQnRvOHplYTlvRkVqa3ZUd2JCa3FCTXpOUUVseHVlVkt1dkdfcS0tMzUzNXgtRk55QXBEeWEybkcxNmY3SU5VUlhLaHA1OHkxaXhtU2xTc0dudEE?oc=5",
-     "t_id": "Tusk dari Polandia mengecam 'provokasi' Rusia setelah Warsawa mengatakan rudal menghantam suatu wilayah"
-    }
-   ],
-   "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
   },
   {
    "id": "indonesia-202611201440-1c07",
