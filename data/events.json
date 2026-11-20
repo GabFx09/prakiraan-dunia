@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T12:59:37Z",
+ "updatedAt": "2026-11-20T13:02:49Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Russian Kh-101 missiles and jet-powered drone crash in Poland during major attack on Ukraine",
    "src": "EUalive",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWg2OHFoUWpoV3VLclpGOGgtMWZTUktsOC1NWXNBeTJXUWdvNEhvZkl3Z3N6WUwtZlZfaHQ3ejBkNWNwVVBpQVNEd3FhLThhdHhRYllXUnNic3hYV3hYWHgteTRtNU1IQm16RVJ1cXc0SWFEVkptWThDNXFYZlBVd1ZjMXBGQ0ZXTDlmXzB4X2ROdWptaEVNMUtPQkNmcTEyM1pEWXdPRnpwa0hiM2N0Nk0xbw?oc=5",
-   "sources": 9,
-   "recent6h": 8,
-   "score": 13.0,
+   "sources": 17,
+   "recent6h": 12,
+   "score": 23.0,
    "level": "besar",
    "first": "2026-11-19T13:05:54Z",
    "last": "2026-11-20T11:37:59Z",
@@ -37,13 +37,56 @@
      "t_id": "Polandia mengatakan rudal Rusia menghantam wilayahnya saat menyerang Ukraina"
     },
     {
-     "t": "2 Russian Kh-101 missiles, drone, fall on Poland during Russian attack on Ukraine",
-     "src": "The Kyiv Independent",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmN3NkUxMWpUbjdBbmRhM05oT3lTS3NfQmY5azZqN1g5cDBzTTBfWE9HaUhxSEdZTUNJb2daVXc0UGRySjFzV3QwYmFVT2RJdlVBNVI4X0d3aWRPLUlkRloySGxyanlBU2x2X1VtNFJSTkJyTmpHSzI0bDNyMFlPLUxxVWY0Q3hJWVNYMThfY1J1OFpUWmVnbVQ2c0tMTVpIMXBvSFF1aUVKbFRMclI2Z041elBDUUVUN0lLRFhn?oc=5",
-     "t_id": "2 rudal Kh-101 Rusia, drone, jatuh di Polandia selama serangan Rusia ke Ukraina"
+     "t": "Lviv left in ruins after deadly Russian missile and drone barrage — photos",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUM2aUxKOUp3V2tQb1d5MWR2T0piNXhDd0J0RlJEdVJ1Z0tsdG4xemJrbHphcHJhdGlyNTZjenVudUNQSF9ZTFZWT1Q1b1FtdFlCZDlZLU1DWXk5ZFlEa3B3WUpFaWhUOGdwOVF1MDJSX2xhOVM5R2tFWXZ2UkpmSV9xaWlZbktmRFNmVEQ1UlZoTzJjNHBrWWZaNG1mU2FuTVFxUTAxQ0s3UWxHTlZXZlZqNHVRQVFkTXFGaGVn0gG6AUFVX3lxTFBzalNVeUFiV2FIMVhMckN2MGxtdlN5VE1oVVpTeXhUbHY5RllVOE40WnR0LTFmX2RacnhrUU8xR3JhTy1aeUlpeGFNNTRkUlIxa1h5elFwcndpcklqSHRDR3pQY2FZQ2ZpdHdzVjNCRGhPa19WanhUZWlDdW5fc3dXVWluNXNkak54OHFROG5NN1N6dTMydmp3NGVoc3NOcmtua0R6dlE0R1VnZmlzbG1PRmNCZ2dISXp6Zw?oc=5",
+     "t_id": "Lviv hancur setelah serangan rudal dan drone Rusia yang mematikan — foto"
     }
    ],
    "title_id": "Rudal Kh-101 Rusia dan drone bertenaga jet jatuh di Polandia selama serangan besar di Ukraina"
+  },
+  {
+   "id": "siber-202611191656-8f07",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "White House replaces national cyber director as nation reels from tech outages",
+   "src": "WMTW",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1MydWFERm16MTdwMi1URHFWY0hRS0VpM2hSblJpNkVqOEdQX3dvd2R0ZGh0QzNKd2JzMld4X1Q4dlpsZFQxX1NZeEhQUmR0NFNUcnp0bDRlRUpvbmtFZEhVY1M5aVFSZThXaFJpOXJaWThhMW5zMV9LUDUxSXBMN3lqQjEyWWpJbDFIV2Yzdkt4dw?oc=5",
+   "sources": 7,
+   "recent6h": 1,
+   "score": 7.5,
+   "level": "besar",
+   "first": "2026-11-19T16:56:21Z",
+   "last": "2026-11-20T11:34:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Trump fires cyber chief amid mounting criticism over tech outages",
+     "src": "China Daily Global Edition",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSno4d0RjTXZpMFZLMF9mVUJwSHZBa3gyQUx4Vk5oa1ljRGg4b2U5YXFFUEtlVk5WZkhKOURYb3BaQ1phcG45eWEybUF1TmpvZnNadFMyYjRTX0J1cUQ4VEFTcUx3RXFKVkJDcm9CZHlZRjhzLVpXZVhrZGIxTElfZ2Z3?oc=5",
+     "t_id": "Trump memecat kepala dunia maya di tengah meningkatnya kritik atas pemadaman teknologi"
+    },
+    {
+     "t": "Report: Botched Software Upgrades Driven by AI Are the Cause of Tech Outages, Not Cyberattacks",
+     "src": "Breitbart News",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUC1iMkJPUEl0UmdWdEk3Rlh5SDlscjFwOFVwX0dpRVJZQlNlclRFOC13YzJPSkZCVmNFaXhGdzVEWm45MGpiRDEzSjBNbTdKVURaX21WUTVTejBFVi1rNmg3Z05YbDVPV0JtTWdIS2lyLU94U3ZPbzBIQ3duYXRWaks5NmtrVk9MODZsYnJvRVM2SjdSaEI2Qm05SjhuZmJMYm5JTWwySGZBdnNUTGhid1Vqci1iRzhKUjZ1N3dNcjZTYkRNckJyNC1nRl8yUDFv?oc=5",
+     "t_id": "Laporan: Kegagalan Peningkatan Perangkat Lunak yang Didorong oleh AI Adalah Penyebab Gangguan Teknologi, Bukan Serangan Siber"
+    },
+    {
+     "t": "Trump's National Cyber Director Sean Cairncross steps down amid repeated tech outages: Report",
+     "src": "https://www.indiagazette.com/",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXlLdUhzc045LUNXcUN2MHlfeDhXanNRaU5ET2JQR183anB3N1Q0Yzg3Q2sxSW1mMlJDajhPSjNrcng3SVJySVh5NGtSVXFobGtRNV9fQ2dVUzA2RXh6ejl4WmtWcW03S2x3LXltZ0RncHZwMGZhX2twZ3Z0dDNkSDRwOHp0c1RZdVRGYlNfTUF2cmducGJKazFUVVlzeXBYbl9aN3p4dFRCaUJQbGl5YnFtb0FpcXllXzBBclN4ZzhHNlBDLUlXaXI1Q0E4X2s?oc=5",
+     "t_id": "Direktur Siber Nasional Trump, Sean Cairncross, mengundurkan diri di tengah pemadaman teknologi yang berulang kali: Laporan"
+    },
+    {
+     "t": "FAA ground stop, Gmail outages, banking disruptions — Sara Gonzales says it all 'seems a little cyberattacky'",
+     "src": "Blaze Media",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWmxlV093Zk4xZmxUUUhKeWc0S29iQUJlMGpOeFJ1bFZFQkl2N253RF9zWlpzUDNyUU1RQ2NqSUtoWlYxZ3dVSG5LX2tqNHpQSUtkRE1fUXAtWjNDb0MwdEZCVzdiRE9aRU9HeTRzZWR1RFFsMnFsQW5ySzFOU1FoV2FoLVFqdUpwT1JKckluUmRfbGpRa3JBa1VsdjBGRmpKUmJYREpmRTF2bWw3Tnp0RFlIaE9KdEtmcGF5ZlNGUFRDdXkwOURwb1NrOG9tVG9WVnN0NlFyN0VsazB5WUF3d0ZhSnNWZUY2c196ZW8yNkMxZw?oc=5",
+     "t_id": "Penghentian FAA, pemadaman Gmail, gangguan perbankan — Sara Gonzales mengatakan semua ini 'tampak seperti serangan siber'"
+    }
+   ],
+   "title_id": "Gedung Putih menggantikan direktur siber nasional ketika negara tersebut terguncang akibat pemadaman teknologi"
   },
   {
    "id": "transportasi-202611191934-928c",
@@ -53,14 +96,20 @@
    "title": "The FAA ground stop raises new questions about airline safety",
    "src": "Yahoo",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHJqUENIM3hpMHU5d19leklJaTJHRDBWaG5BQUY1YzU2Q0hRa3NqamloUHRIeEx1QUNNY0hQTHNNa2twVG40WW9ydU1pelRMNk5JcXVramhTRzJBeVVuWGk1VzlaSjZncHgxaEJrQmI3R3BmM3lDMUs0cFNZT2tPRkxpMmhJVUhxZXpid1h2dw?oc=5",
-   "sources": 4,
+   "sources": 5,
    "recent6h": 0,
-   "score": 4.0,
+   "score": 5.0,
    "level": "sedang",
    "first": "2026-11-19T19:34:04Z",
    "last": "2026-11-20T03:45:00Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "U.S. flights still delayed in Canada after FAA ground stop",
+     "src": "NOW Toronto",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTC1zWDhjRXd3eVU1U2pjMTQzREtsVVhDVDF3X0JLZjhjRnZGMTZFMjV1TW0xM0Uxdks4eUVYeWlqZW1EY1Q4YkR6QlIydlNPTWdJaXROZGxOQ2M4NUVXd2VLdEtoZ0NHRVJDUkpyVGhIeWZvSHU3ajRWV2tlTjFTRThzTQ?oc=5",
+     "t_id": "Penerbangan AS masih tertunda di Kanada setelah pemberhentian FAA"
+    },
     {
      "t": "FAA Ground Stop: How One Router Grounded America’s Airlines",
      "src": "The Aviation Hub",
@@ -83,35 +132,35 @@
    "title_id": "Perhentian FAA menimbulkan pertanyaan baru tentang keselamatan penerbangan"
   },
   {
-   "id": "perang-202611191322-c565",
+   "id": "perang-202611200856-aab0",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Lviv left in ruins after deadly Russian missile and drone barrage — photos",
-   "src": "The New Voice of Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUM2aUxKOUp3V2tQb1d5MWR2T0piNXhDd0J0RlJEdVJ1Z0tsdG4xemJrbHphcHJhdGlyNTZjenVudUNQSF9ZTFZWT1Q1b1FtdFlCZDlZLU1DWXk5ZFlEa3B3WUpFaWhUOGdwOVF1MDJSX2xhOVM5R2tFWXZ2UkpmSV9xaWlZbktmRFNmVEQ1UlZoTzJjNHBrWWZaNG1mU2FuTVFxUTAxQ0s3UWxHTlZXZlZqNHVRQVFkTXFGaGVn0gG6AUFVX3lxTFBzalNVeUFiV2FIMVhMckN2MGxtdlN5VE1oVVpTeXhUbHY5RllVOE40WnR0LTFmX2RacnhrUU8xR3JhTy1aeUlpeGFNNTRkUlIxa1h5elFwcndpcklqSHRDR3pQY2FZQ2ZpdHdzVjNCRGhPa19WanhUZWlDdW5fc3dXVWluNXNkak54OHFROG5NN1N6dTMydmp3NGVoc3NOcmtua0R6dlE0R1VnZmlzbG1PRmNCZ2dISXp6Zw?oc=5",
+   "title": "Russia retaliates for Crimea Bridge attack: Fires 400 drones, 110 missiles at Ukraine, 8 killed; Putin warn...",
+   "src": "Bhaskar English",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnBYUkFVTW5makFEMkZTTHdUOWY1cEd5a1BKcGFqYmZMTDBPNW5yaFhjenlaQUNwSjQxYTBaSnRmMnpDRXQyR0pSTVBHNzE2bm5qZDBMV2MwT1dSLVNldEVkVDhfVHR3Um1obkxsbTdwRzRJUUdUYWgtVmxfRzVBX2s0d2dycmYwbmRUaTlPY3BJbTY5NWFiZ09nZDUzNTFDSmUyeDRKd0JBdXl4cDhmcXBxN3VNZDgwRVc3bmRqb2zSAcYBQVVfeXFMUHNNc3hSRHJZMWhYRjZtbkhnMVhnMGc2bmtVbDk4V0hRVWJIV0RraXUwWmJIVkpxeFZISEpLZ2xKVVlwMThCR2FzbWZET04zeUtOYUE4UFJQdHp3clRKcmY1RE5oNFdIb2RfZ2pFUzlhRWdBTGQ2MTNxS3ZPSzc5OHVMMXZOWm5XS1JUN0JLNEtfS0lpcURVem1GM2NveHZkSVVlSHZ5SVpqXzdsc3hOSDJwZUt3Y1pIdEFBSmVqXzM3U2FiTDFB?oc=5",
    "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
+   "recent6h": 3,
+   "score": 4.5,
    "level": "sedang",
-   "first": "2026-11-19T13:22:15Z",
-   "last": "2026-11-20T10:35:00Z",
+   "first": "2026-11-20T08:56:00Z",
+   "last": "2026-11-20T12:54:22Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Ukraine Severely Damages Crimean Bridge In Multi-Stage Drone And Missile Strikes, Disrupting Russian Logistics - Analysis",
-     "src": "Eurasia Review",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQclVkbFZZYllMYnI2TWI1UzFCSWRpRTZmNV9QSkRmWlJySTYya2Jjb3VydUJtZXlUQXFzd0hyclF4Z1htWWhLc0VhcUVvdGJRSkk1Mk53cHVSdUJIMks5MElIX1dkREp3UFc3bjl2N29zREQ5N3NrdmtGWXE2RmU5M3hVUFAxejJrN2EtMUJ0ZllpOE5OZ3RQQVQ3TDkwZjVKUWZ2cVY5aHNjM1YyRlhIXzF5c1NBZFlnNXhjZ2hxYTZIY25FcmQwUG1EYjFsTWltVjJOck41Z3hCQUYyTjlmNTFJWmp5TVVQdnFyZ2J4aw?oc=5",
-     "t_id": "Ukraina Rusak Parah Jembatan Krimea Akibat Serangan Drone dan Rudal Bertingkat, Mengganggu Logistik Rusia - Analisis"
+     "t": "Russia attacked Ukraine with cluster missiles and deliberately targeted rescuers - Zelenskyy",
+     "src": "RBC-Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV240TFVRel9hS2t6ZkF2X0I3aDdWQ0xicU5wY0x3eFlzdE4zVEh6RTMtOUpZblB0LXdmMVZ3aDBsVTlRWG8ySlBMSWY1YUJqOVJ4MXFLdUNmcWVXdzYtUjZ3T0Z0LXJqWHFTUWktcU5iRkc5WHRtMm4tU3dxdmNGS3JPRWZiYy1VZl9oZlZOUkI3SS10WVRJMg?oc=5",
+     "t_id": "Rusia menyerang Ukraina dengan rudal cluster dan dengan sengaja menargetkan penyelamat – Zelenskyy"
     },
     {
-     "t": "West Asia Conflict Escalates as Drone and Missile Strikes Hit Baghdad and Doha",
-     "src": "DD News",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NkV3BXbGtQSmhEdUp6Q0k1S1hBSERyQnF0X2xvckdpaE4tSGphWElNVE9ZVGR4dFpHX0NOZHEtUlZmV0dVaHNhT1VLaXhWTnM4Sm5jUnNFVXBzNHd0dUFYbWlqSGJ3SjhLLWZmODN0enU2TEhOZEJKODJ0WGxhc1VQbmFfS3htRGxyWFhjX3lLTy1KSjltV05waGNYVExRdHFZcUtXaw?oc=5",
-     "t_id": "Konflik Asia Barat Meningkat seiring Serangan Drone dan Rudal Menghantam Bagdad dan Doha"
+     "t": "Russia fires about 100 missiles at Ukraine, with one likely crossing into Poland",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWmpVR3VURVBkRkxYbFppMGxrR0h6LUV0WUxwNGZxY0NaZ0dNdk40dnJwVlJpRGIwR25Gc0dyeGRGVFowaEtGd3VXUnhWVmtCSktrTkkwZGVhZDFONHpYd3BzejRVZldHNkRwazM5UndkV084SXNpQXFRWHdEWTE5MnA0RTdzSzFEakQ2MDh6S0l3TlZHMXNQSWVDbWpPMU1QR0RPbWxEQTVVMUlLZGUydExnUnpyZllPQnfSAbYBQVVfeXFMT19jbkZjNHgtOTJCdXJkYWRCeHNsckQwdkh6S1BGUEVKODdsZVNFZ3RYNmVBOFFLSDU5U3VZLVpILUNOaGExVGkyU0ZjaFhUVC1VTURWQlJzb1VGSi1UbWp6TTY2Zk9GbGFieXpPRDQtZUlaTU91Ym4ycU9fUF9SVmJZaFpHVi1XUTJmOTdfM28xT092aGtxQnFCQll0MnhVaTc2cFI3V0RXeGk1QjBtNmlYVUpidmc?oc=5",
+     "t_id": "Rusia menembakkan sekitar 100 rudal ke Ukraina, satu kemungkinan melintasi Polandia"
     }
    ],
-   "title_id": "Lviv hancur setelah serangan rudal dan drone Rusia yang mematikan — foto"
+   "title_id": "Rusia membalas serangan Jembatan Krimea: Menembakkan 400 drone, 110 rudal ke Ukraina, 8 tewas; Putin memperingatkan..."
   },
   {
    "id": "perang-202611190848-c19d",
@@ -145,31 +194,6 @@
    "title_id": "Rudal balistik dan dua drone dicegat di selatan Arab Saudi di tengah eskalasi militer"
   },
   {
-   "id": "perang-202611200856-aab0",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russia attacked Ukraine with cluster missiles and deliberately targeted rescuers - Zelenskyy",
-   "src": "RBC-Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV240TFVRel9hS2t6ZkF2X0I3aDdWQ0xicU5wY0x3eFlzdE4zVEh6RTMtOUpZblB0LXdmMVZ3aDBsVTlRWG8ySlBMSWY1YUJqOVJ4MXFLdUNmcWVXdzYtUjZ3T0Z0LXJqWHFTUWktcU5iRkc5WHRtMm4tU3dxdmNGS3JPRWZiYy1VZl9oZlZOUkI3SS10WVRJMg?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-20T08:56:00Z",
-   "last": "2026-11-20T12:28:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Russia fires about 100 missiles at Ukraine, with one likely crossing into Poland",
-     "src": "The New Voice of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWmpVR3VURVBkRkxYbFppMGxrR0h6LUV0WUxwNGZxY0NaZ0dNdk40dnJwVlJpRGIwR25Gc0dyeGRGVFowaEtGd3VXUnhWVmtCSktrTkkwZGVhZDFONHpYd3BzejRVZldHNkRwazM5UndkV084SXNpQXFRWHdEWTE5MnA0RTdzSzFEakQ2MDh6S0l3TlZHMXNQSWVDbWpPMU1QR0RPbWxEQTVVMUlLZGUydExnUnpyZllPQnfSAbYBQVVfeXFMT19jbkZjNHgtOTJCdXJkYWRCeHNsckQwdkh6S1BGUEVKODdsZVNFZ3RYNmVBOFFLSDU5U3VZLVpILUNOaGExVGkyU0ZjaFhUVC1VTURWQlJzb1VGSi1UbWp6TTY2Zk9GbGFieXpPRDQtZUlaTU91Ym4ycU9fUF9SVmJZaFpHVi1XUTJmOTdfM28xT092aGtxQnFCQll0MnhVaTc2cFI3V0RXeGk1QjBtNmlYVUpidmc?oc=5",
-     "t_id": "Rusia menembakkan sekitar 100 rudal ke Ukraina, satu kemungkinan melintasi Polandia"
-    }
-   ],
-   "title_id": "Rusia menyerang Ukraina dengan rudal cluster dan dengan sengaja menargetkan penyelamat – Zelenskyy"
-  },
-  {
    "id": "perang-202611200100-280b",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -178,8 +202,8 @@
    "src": "Nacionale",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2pKS2dNZU1nOUR3NXVWRmRaNURYVjdmeTZSdk9HdkJMZElLQ3lyX20zUkp2eThlWG9od0JWcUNwTG0yVUdpZ0Q0VzAxX3A4bWFJU0d2NDE4T1FkcXJMX0k0VHVienptaFpDMl9zaEw3NWcwcnpMUVl1VjR6SnJIeHBWOFBCdEk5MG5uN1dtNWZncnA2RkFOY2J6Nmwxbk9Sc0RlcV9nUzI0T2N2R2trMmJvMWs?oc=5",
    "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
+   "recent6h": 1,
+   "score": 2.5,
    "level": "kecil",
    "first": "2026-11-20T01:00:37Z",
    "last": "2026-11-20T09:58:42Z",
@@ -218,6 +242,31 @@
    ]
   },
   {
+   "id": "siber-202611192139-217c",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkN5UlVhWktTVzZNa1JiQ0FuZG9JXzlfcUZCQWZYUVVvTFJRbjBNSlBya3hIb2VFMFJxNWJEdEhVMnZDOVkwakNMdGcxLW9DcUptTTkyTERxZ19xMENpVDBGUGkzZkl6NHpGUlRCUlpoMDZ5dFNUZWc1TXJESHprMFVCX0swNml1WEZtNFlzYTJVRDZLeVRQaXFmTV9IQkk?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-19T21:39:12Z",
+   "last": "2026-11-20T06:32:16Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "The U.S. tech outage wave, explained",
+     "src": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzJaQkoxUnRCVXN1d3Q5NmJBQl9GOWNRNi1wVHhwSFhTYXBuY1h3X09ubXFKeVJDTkxYaS16RElFZUU1MjF2V21CRl82Qlh6NkROdHFGc0xmSWRCcWI4NVdzeF9wVElsVXQ4LXY5Q0NfSWFqNVY2UnVYVlg1RWxtekxpV0dQUQ?oc=5",
+     "t_id": "Gelombang pemadaman teknologi AS, jelasnya"
+    }
+   ],
+   "title_id": "Yang Harus Anda Ketahui Tentang Downdetector Sebelum Pemadaman Teknologi Besar Berikutnya"
+  },
+  {
    "id": "indonesia-202611200037-9c50",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -244,6 +293,56 @@
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3YxTG52NS02elZYakgyOWNpZmxvVDEzcXBQQ2JJQlotbEZuWS1RLVdVaGVmV2VKQVpHc1M4SFNhQ3NVY2dDbkFVMzJNRHF6S1Jyb3MwT2ZfLW1wVi1BcUF0SjhENGczVFhlOFVOcHNrNnVuWXphUXJrb3k1dldyVHpmR2JSSElwVkQ5VU84SHQ2Q2FoeTVZNVNWRW9xeXB0bURzdDFOOWlhNWI5U2Q5THJFaVUtSVQ2WUk3Z1JKcWY?oc=5"
     }
    ]
+  },
+  {
+   "id": "perang-202611200100-280b",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukraine Severely Damages Crimean Bridge In Multi-Stage Drone And Missile Strikes, Disrupting Russian Logistics - Analysis",
+   "src": "Eurasia Review",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQclVkbFZZYllMYnI2TWI1UzFCSWRpRTZmNV9QSkRmWlJySTYya2Jjb3VydUJtZXlUQXFzd0hyclF4Z1htWWhLc0VhcUVvdGJRSkk1Mk53cHVSdUJIMks5MElIX1dkREp3UFc3bjl2N29zREQ5N3NrdmtGWXE2RmU5M3hVUFAxejJrN2EtMUJ0ZllpOE5OZ3RQQVQ3TDkwZjVKUWZ2cVY5aHNjM1YyRlhIXzF5c1NBZFlnNXhjZ2hxYTZIY25FcmQwUG1EYjFsTWltVjJOck41Z3hCQUYyTjlmNTFJWmp5TVVQdnFyZ2J4aw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-19T13:22:15Z",
+   "last": "2026-11-20T02:39:11Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "West Asia Conflict Escalates as Drone and Missile Strikes Hit Baghdad and Doha",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NkV3BXbGtQSmhEdUp6Q0k1S1hBSERyQnF0X2xvckdpaE4tSGphWElNVE9ZVGR4dFpHX0NOZHEtUlZmV0dVaHNhT1VLaXhWTnM4Sm5jUnNFVXBzNHd0dUFYbWlqSGJ3SjhLLWZmODN0enU2TEhOZEJKODJ0WGxhc1VQbmFfS3htRGxyWFhjX3lLTy1KSjltV05waGNYVExRdHFZcUtXaw?oc=5",
+     "t_id": "Konflik Asia Barat Meningkat seiring Serangan Drone dan Rudal Menghantam Bagdad dan Doha"
+    }
+   ],
+   "title_id": "Ukraina Rusak Parah Jembatan Krimea Akibat Serangan Drone dan Rudal Bertingkat, Mengganggu Logistik Rusia - Analisis"
+  },
+  {
+   "id": "siber-202611191356-360b",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Michigan expert says aging digital systems need upgrades after string of nationwide outages",
+   "src": "WILX",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeU9hSktfVl9Oc2lQWjkyTGt1bGZPVWZfUEYxWnMxSXZ0ZVlUSWFPS2pqU3ptMThlRl8tUWNRTmFlcWNIWDhTRDhZMDhmOWpOclpFeXJNZ2c4RXdxUGRRcmc2Z1M5bWVwSU8xX2Z2LXdJLVJPN1JZNHY2X3VUMDZiYTZuRktIU2FZdWpOZTFFTFpRTjR3WW9sTjdEYmRwQlhCRTVCa3RHdF91WUVFcFAwSVp3ZGx1TVpNaXk0NXZB0gHSAUFVX3lxTFAzRzUtckkwQlZ3V29YNGs4aXJUcHlCY2lVcm80cVNTMk9NNDBuV0xRNG1RU0htX1ByWUtVb3ZJaTJvSWExbEtWUjlZazIzSUlmMGJDY3dKQWVYcEp1WDNIS3JLV1FiS0VDWEJkLTQ1cUxieHZEa08tY3RSV3lPbF9GYTNXX203Z0s3c0tpV2huNnd4M3FsRElTamswSFZnMlhOcm1vY2dqMWZrb3lkOUhLS0ZaNjlJRUZvWjlHYkxUZ002Y3pFNVBrYXQzZGpkb1RQUQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-19T13:56:38Z",
+   "last": "2026-11-19T23:47:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Digital Outages Fuel Conspiracies",
+     "src": "NewsGuard's Reality Check",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5V0pqQXFweDE5MUFHUmlmSFZoTXRJM0dfMzFDa2tkMGVFQ1VyaFZuX3M0UXBxcno0X1ZBVlUyc2xVUndGVWNpb2RlOXhuNzFZbVZFN3poRklSQm0yLWRDb29zQ1AtY25TUl9BQ1luYzZkMUlTOFFIb2h0N0dfQQ?oc=5",
+     "t_id": "Konspirasi Bahan Bakar Pemadaman Digital"
+    }
+   ],
+   "title_id": "Pakar Michigan mengatakan sistem digital yang menua perlu ditingkatkan setelah serangkaian pemadaman listrik secara nasional"
   },
   {
    "id": "siber-202611192034-f9bb",
@@ -294,31 +393,6 @@
     }
    ],
    "title_id": "Chase Mengatakan Pelanggaran Data Baru Tidak Terkait dengan Gangguan Perbankan"
-  },
-  {
-   "id": "kesehatan-202611191306-3bf5",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-   "src": "Idaho Capital Sun",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGEyWWlUcnhXN0xoNGx6d2Q1SUh2czdNVThIcHFqTldHZHE5UnBocFkyUndpUWFZOVExbHZOeVZPdWd4OE9Ia2ltQ0E4dmJmeWV1OTZVTVU5S3FTMVQ0cWFNd1BqTEVYVnRvYno0VmJGN21pYUYzZ2ZYLXpCQzAxS09MX18yVGpCemttQzd5Vms2dkl5WW1EOUwtdEhYRlBPNWlidW9nb0xEbWpkek4xSl94YW1NcGRXQkNRTFl5ekZjVEZzN0E?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-19T13:06:19Z",
-   "last": "2026-11-19T18:27:26Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Japan confirms new bird flu outbreak at poultry farm in Hokkaido",
-     "src": "DD News",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWjEwdUwtVmxrRk55NHZKbGZlcmR4TlFVRkZRRzRUR0RfUXFfcmFoc01MTzUweDk0SzBSNWZlY2ZNVmo4ZjRBSFJuUGVoejlvZzBoWFdnT0RuUVI3dW5MU051UjlBZHdCaEl5bDdDUXRzZC1YTXFhTEFIQ2FPTDdBcURmLWNuYmN0cnJ6SFEyZU9nZi1S?oc=5",
-     "t_id": "Jepang mengkonfirmasi wabah flu burung baru di peternakan unggas di Hokkaido"
-    }
-   ],
-   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
   }
  ],
  "errors": []
