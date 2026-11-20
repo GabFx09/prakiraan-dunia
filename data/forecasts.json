@@ -1,7 +1,40 @@
 {
- "updatedAt": "2026-11-13T08:00:00Z",
+ "updatedAt": "2026-11-20T00:09:29Z",
  "note": "Setiap prakiraan adalah rentang skenario dasar. Dicek otomatis saat jatuh tempo memakai harga penutupan dari data/market.json.",
  "items": [
+  {
+   "id": "2026-11-13-1b-brent",
+   "made": "2026-11-13",
+   "due": "2026-12-13",
+   "h": "1b",
+   "key": "brent",
+   "low": 85,
+   "high": 100,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-1b-btc",
+   "made": "2026-11-13",
+   "due": "2026-12-13",
+   "h": "1b",
+   "key": "btc",
+   "low": 68000,
+   "high": 80000,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-1b-gold",
+   "made": "2026-11-13",
+   "due": "2026-12-13",
+   "h": "1b",
+   "key": "gold",
+   "low": 3800,
+   "high": 4100,
+   "status": "open",
+   "actual": null
+  },
   {
    "id": "2026-11-13-1b-ihsg",
    "made": "2026-11-13",
@@ -21,39 +54,6 @@
    "key": "usdidr",
    "low": 17900,
    "high": 18500,
-   "status": "open",
-   "actual": null
-  },
-  {
-   "id": "2026-11-13-1b-brent",
-   "made": "2026-11-13",
-   "due": "2026-12-13",
-   "h": "1b",
-   "key": "brent",
-   "low": 85,
-   "high": 100,
-   "status": "open",
-   "actual": null
-  },
-  {
-   "id": "2026-11-13-1b-gold",
-   "made": "2026-11-13",
-   "due": "2026-12-13",
-   "h": "1b",
-   "key": "gold",
-   "low": 3800,
-   "high": 4100,
-   "status": "open",
-   "actual": null
-  },
-  {
-   "id": "2026-11-13-1b-btc",
-   "made": "2026-11-13",
-   "due": "2026-12-13",
-   "h": "1b",
-   "key": "btc",
-   "low": 68000,
-   "high": 80000,
    "status": "open",
    "actual": null
   },
@@ -80,17 +80,6 @@
    "actual": null
   },
   {
-   "id": "2026-11-13-3b-usdidr",
-   "made": "2026-11-13",
-   "due": "2027-02-13",
-   "h": "3b",
-   "key": "usdidr",
-   "low": 17600,
-   "high": 18600,
-   "status": "open",
-   "actual": null
-  },
-  {
    "id": "2026-11-13-3b-ihsg",
    "made": "2026-11-13",
    "due": "2027-02-13",
@@ -109,6 +98,127 @@
    "key": "spx",
    "low": 6900,
    "high": 8000,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-13-3b-usdidr",
+   "made": "2026-11-13",
+   "due": "2027-02-13",
+   "h": "3b",
+   "key": "usdidr",
+   "low": 17600,
+   "high": 18600,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-1b-brent",
+   "made": "2026-11-20",
+   "due": "2026-12-20",
+   "h": "1b",
+   "key": "brent",
+   "low": 79.36,
+   "high": 101.77,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-1b-btc",
+   "made": "2026-11-20",
+   "due": "2026-12-20",
+   "h": "1b",
+   "key": "btc",
+   "low": 58087.0,
+   "high": 70313.0,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-1b-gold",
+   "made": "2026-11-20",
+   "due": "2026-12-20",
+   "h": "1b",
+   "key": "gold",
+   "low": 3601.0,
+   "high": 3981.0,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-1b-ihsg",
+   "made": "2026-11-20",
+   "due": "2026-12-20",
+   "h": "1b",
+   "key": "ihsg",
+   "low": 4736.0,
+   "high": 5816.0,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-1b-usdidr",
+   "made": "2026-11-20",
+   "due": "2026-12-20",
+   "h": "1b",
+   "key": "usdidr",
+   "low": 17749.0,
+   "high": 18576.0,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-3b-brent",
+   "made": "2026-11-20",
+   "due": "2027-02-20",
+   "h": "3b",
+   "key": "brent",
+   "low": 72.46,
+   "high": 111.46,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-3b-gold",
+   "made": "2026-11-20",
+   "due": "2027-02-20",
+   "h": "3b",
+   "key": "gold",
+   "low": 3471.0,
+   "high": 4131.0,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-3b-ihsg",
+   "made": "2026-11-20",
+   "due": "2027-02-20",
+   "h": "3b",
+   "key": "ihsg",
+   "low": 4393.0,
+   "high": 6270.0,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-3b-spx",
+   "made": "2026-11-20",
+   "due": "2027-02-20",
+   "h": "3b",
+   "key": "spx",
+   "low": 6820.0,
+   "high": 7901.0,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-3b-usdidr",
+   "made": "2026-11-20",
+   "due": "2027-02-20",
+   "h": "3b",
+   "key": "usdidr",
+   "low": 17456.0,
+   "high": 18888.0,
    "status": "open",
    "actual": null
   }
