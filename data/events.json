@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T06:45:51Z",
+ "updatedAt": "2026-11-20T07:00:34Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,20 @@
    "title": "Three killed in missile strikes on Kyiv, mayor says, in biggest attack on bridges",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaW5ZVDlLVDZMeWxSUU5VRnVsbVZja1A5bmhtTVd4OFBZWEZFSzFENVFIQUdaLV9JOHZVQjhGcGhqUHJtZ2JrTk5NX3FEV0NScmVwUWtrUmRqbkhGcThkMmp1bWw1SkRneVkzb2pVNzZqTmU0VnA2T1pCVlA3aGoyUEExU2xOSU1TcnpfaFRUa3hBRzNDZzlWOWxFR0RyeTZkeGRyMmtsbEJId3lMRUE?oc=5",
-   "sources": 5,
-   "recent6h": 3,
-   "score": 6.5,
-   "level": "sedang",
+   "sources": 6,
+   "recent6h": 4,
+   "score": 8.0,
+   "level": "besar",
    "first": "2026-11-19T13:05:54Z",
-   "last": "2026-11-20T05:34:38Z",
+   "last": "2026-11-20T06:50:36Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Three Killed in Missile Strikes on Kyiv, Mayor Says, in Biggest Attack on Bridges",
+     "src": "شبكة تواصل الإخبارية",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mWFRUQ3dEVXBpZnloQkhXQXpYUWduSDZ3c3dUZmRndkRnUHhOeFo2cTFQekxycjdwYTFBSDZVTWRFZld1a2ZYclNaRlB3enE2VWZv?oc=5",
+     "t_id": "Tiga Tewas dalam Serangan Rudal di Kyiv, Kata Walikota, dalam Serangan Terbesar di Jembatan"
+    },
     {
      "t": "A Russian ballistic missile attack on Kyiv claimed the lives of three people; others were injured",
      "src": "UA.NEWS",
@@ -35,137 +41,77 @@
      "src": "Eurasia Review",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQclVkbFZZYllMYnI2TWI1UzFCSWRpRTZmNV9QSkRmWlJySTYya2Jjb3VydUJtZXlUQXFzd0hyclF4Z1htWWhLc0VhcUVvdGJRSkk1Mk53cHVSdUJIMks5MElIX1dkREp3UFc3bjl2N29zREQ5N3NrdmtGWXE2RmU5M3hVUFAxejJrN2EtMUJ0ZllpOE5OZ3RQQVQ3TDkwZjVKUWZ2cVY5aHNjM1YyRlhIXzF5c1NBZFlnNXhjZ2hxYTZIY25FcmQwUG1EYjFsTWltVjJOck41Z3hCQUYyTjlmNTFJWmp5TVVQdnFyZ2J4aw?oc=5",
      "t_id": "Ukraina Rusak Parah Jembatan Krimea Akibat Serangan Drone dan Rudal Bertingkat, Mengganggu Logistik Rusia - Analisis"
-    },
-    {
-     "t": "Large-scale Russian missile, drone attack on Kyiv damages bridges, critical infrastructure, kills 3",
-     "src": "The Kyiv Independent",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQblM4Z1VFYS10TkllLVVhc3VmdFd0Tnp6RzVMbzktcmktcmlnc196OG5rQ1dKZklrUER2ckw2T2Y4WVhTWDZ3eXBVX3Y4VGJoSUhBQjk2Y1luNU51NmxxRGl4RlFRSlJKLVdzeEc0ME5jZlFIaFdQYjlYOFJ6V2pMWDlZeVlYMWpjMnMxLXlfZGl0LVUwMTlFaU1MQTk2elVTTXExUVJ0WmI?oc=5",
-     "t_id": "Rudal Rusia skala besar, serangan drone di Kyiv merusak jembatan, infrastruktur penting, menewaskan 3 orang"
     }
    ],
    "title_id": "Tiga orang tewas dalam serangan rudal di Kyiv, kata walikota, dalam serangan terbesar terhadap jembatan"
-  },
-  {
-   "id": "transportasi-202611182109-31ec",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "The FAA ground stop raises new questions about airline safety",
-   "src": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHJqUENIM3hpMHU5d19leklJaTJHRDBWaG5BQUY1YzU2Q0hRa3NqamloUHRIeEx1QUNNY0hQTHNNa2twVG40WW9ydU1pelRMNk5JcXVramhTRzJBeVVuWGk1VzlaSjZncHgxaEJrQmI3R3BmM3lDMUs0cFNZT2tPRkxpMmhJVUhxZXpid1h2dw?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-18T21:09:26Z",
-   "last": "2026-11-20T03:45:00Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "FAA Ground Stop Raises Concerns for US Travel in 2027",
-     "src": "FTN news",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0hMX2hPN21nT3NHSDdjWjNCNWp5X1pZeGpRQ18xUksxTXRxMTdGRTNZRWtNd3Zudnd3X0ROZXpka3RRMWpKQjRqNnh4X0hSSURLS3ZLUlhsMFdSRkFGZy1oUDZEdHdOWW9reDE3MlkyQjJWQ2V5d2FqaHNOS3FSUXBwWWNlbVp2a1NB?oc=5",
-     "t_id": "Ground Stop FAA Menimbulkan Kekhawatiran terhadap Perjalanan AS pada tahun 2027"
-    },
-    {
-     "t": "FAA Ground Stop Blamed On Elon Musk—Here’s Why That’s Ridiculous",
-     "src": "View from the Wing",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWtCdnhKaDJPSndybERobHZhT1lqOGc1aTJiSHdTalRueEVZd1pyUkpzNWlINWVZMVpoamExUzFmZ1Zha002OHBDcXJGT1hXdFVEeW1ibS03SWk4LV9MZk9Ia1JCTE5pMVNqQjFiS3NuM3NkLW5MWTdLN0tyMHc2b25yakJpZC00WDNPZS1veTZEVmh2cUE?oc=5",
-     "t_id": "Ground Stop FAA Disalahkan pada Elon Musk—Ini Alasannya Konyol"
-    },
-    {
-     "t": "Sean Duffy Blames L3Harris for Longer FAA Ground Stop",
-     "src": "JournalArta",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0dxTlVaMWhKMWpVay1uRGlDc1lBdG5uZFJrU2ZNLU1YUU9ENm81aWVGdTA3V3NhclRZZk1TelVFNkxEY1cxNlVyYTRzOWdIWG9HUGtsdTZJdXVaRm5FbnFwTUlMaUhQY2QtaHJGRGx1MnkxNXpxcWtleTQwTi1VMXZrc2Y?oc=5",
-     "t_id": "Sean Duffy Menyalahkan L3Harris atas Ground Stop FAA yang Lebih Lama"
-    }
-   ],
-   "title_id": "Perhentian FAA menimbulkan pertanyaan baru tentang keselamatan penerbangan"
   },
   {
    "id": "perang-202611190848-c19d",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "UPDATES: US War on Iran, Day 267 — Houthi Missile Attacks on Saudi Arabia",
-   "src": "EA WorldView",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
-   "sources": 3,
+   "title": "Saudi Arabia intercepts Houthi missile, drones over Jazan, Abha, Khamis Mushait",
+   "src": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wVEF5UkhIVzBqZlBhZlB4ZUFPdzk3dGdBREhtUnVybmxKb1N0NFVjS0hnc2NOaGlJTGJGeW5BSUc3aWxqYVd0WGFCMzhrdTlrc1hpZVNsd1A2Q2JO?oc=5",
+   "sources": 6,
    "recent6h": 2,
-   "score": 4.0,
-   "level": "sedang",
+   "score": 7.0,
+   "level": "besar",
    "first": "2026-11-19T08:48:49Z",
-   "last": "2026-11-20T06:11:15Z",
+   "last": "2026-11-20T03:40:55Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Saudi Arabia intercepts Houthi missile, drones over Jazan, Abha, Khamis Mushait",
-     "src": "The Jerusalem Post",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wVEF5UkhIVzBqZlBhZlB4ZUFPdzk3dGdBREhtUnVybmxKb1N0NFVjS0hnc2NOaGlJTGJGeW5BSUc3aWxqYVd0WGFCMzhrdTlrc1hpZVNsd1A2Q2JO?oc=5",
-     "t_id": "Arab Saudi mencegat rudal Houthi, drone di atas Jazan, Abha, Khamis Mushait"
+     "t": "A missile attack by Yemen's pro-Iranian rebel Houthi damaged a skyscraper in the Saudi capital, Riya..",
+     "src": "매일경제",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXWlJCMlU2XzVUV04wbnVYQ0pKbFpkbmlVR0xreHgwOGYxaVhrRm5BVnNRV2o1R3AtZmhxSVRNMkp3SzJPclhhVGNPenEwSUk?oc=5",
+     "t_id": "Serangan rudal oleh pemberontak Houthi pro-Iran Yaman merusak gedung pencakar langit di ibu kota Saudi, Riya."
     },
     {
-     "t": "Is it safe to travel to Saudi Arabia? The latest advice as the kingdom faces a spate of missile attacks",
-     "src": "Condé Nast Traveller Middle East",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3UxWmxyRkxGTUc2bDEtN0tkeTlUVDQyek16UTVGNl9rdzFrVWNoZkEzUVdnZW5mZlBOY190dTVBMENMbWp6T25KV0x6bDRvZ0VVUzhRVEdkeXRfZ21NbGhrbE14QS1fTkt4YlpSRG52Q1BkSXVoX0dPWml0QldsMVhkYkVsZWliQkhRWFVXUm1GUW94cGU4MFFTb29Pb1ZtX2RLd1VsaGhHa3hHMVJjdnpSYXNwdHlRcllFbThlSE5HQTg4eHdLZEVfNG9HYlI0Ry02TA?oc=5",
-     "t_id": "Apakah aman melakukan perjalanan ke Arab Saudi? Saran terbaru ini muncul ketika kerajaan tersebut menghadapi serentetan serangan rudal"
+     "t": "Houthi missile attack damages Riyadh’s tallest building",
+     "src": "Iran International",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtM0pINzl0MlU5X0prTF96Rk1KaTdBMmNZQ3FKN2tTQklWSzRyMFdUNjM0dmpIWk9wYmdsWklXdmZVS1lWQWMwTlplbkRaaXpmaWc?oc=5",
+     "t_id": "Serangan rudal Houthi merusak gedung tertinggi di Riyadh"
+    },
+    {
+     "t": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
+     "src": "Funds Global MENA",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
+     "t_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
+    },
+    {
+     "t": "Houthi Missile Hits Riyadh’s Tallest Skyscraper Housing Saudi Arabia’s $1 Trillion Wealth Fund",
+     "src": "Bloom Pakistan",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXZyd3poeS00VldZbnZ5cUxVaDduQWswMl9mOVBqZE1MRTNzdnBBV2VDTlFaU1JjbHFqaU1XVEpGRkZHdU54bWJVZHN5Sm1tLW1JajFqV3lOOTFjNHM5d3lIS2hsaXNFYXEtbVRqUTNfQnpvTGt6d2g3NDBEd200MlV3?oc=5",
+     "t_id": "Rudal Houthi Menghantam Gedung Pencakar Langit Tertinggi di Riyadh yang Menampung Dana Kekayaan $1 Triliun Arab Saudi"
     }
    ],
-   "title_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-267 — Serangan Rudal Houthi di Arab Saudi"
+   "title_id": "Arab Saudi mencegat rudal Houthi, drone di atas Jazan, Abha, Khamis Mushait"
   },
   {
-   "id": "kesehatan-202611191306-5d3f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
+   "id": "perang-202611190848-c19d",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-   "src": "Idaho Capital Sun",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGEyWWlUcnhXN0xoNGx6d2Q1SUh2czdNVThIcHFqTldHZHE5UnBocFkyUndpUWFZOVExbHZOeVZPdWd4OE9Ia2ltQ0E4dmJmeWV1OTZVTVU5S3FTMVQ0cWFNd1BqTEVYVnRvYno0VmJGN21pYUYzZ2ZYLXpCQzAxS09MX18yVGpCemttQzd5Vms2dkl5WW1EOUwtdEhYRlBPNWlidW9nb0xEbWpkek4xSl94YW1NcGRXQkNRTFl5ekZjVEZzN0E?oc=5",
-   "sources": 3,
-   "recent6h": 0,
+   "title": "Saudi-Led Coalition Intercepts Houthi Ballistic Missile Targeting Kingdom's Southern Region Amid Escalating Attacks",
+   "src": "Republic World",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONkt4Mk03SHp4TUYzTjRkc29zVVJla0VtMnNWbkhfUXNEY1hGa0xsM012QW8wc2l5LWozeUFWTU5RanA3MkxOUnR4Wl9yczZfbGNfbDdHVGF0US1VbEJRWkVzSGNsQTNNWTFOdnZfZ1VsUkpCN1hGcGo4eVFTel85UzluYTNpbVRHRHZJM2lBSWFIVkdqZTA5cVQ5OFdlZGJWUFNpRlRMa2lhbVRadEFFc3ZRcTVrLTVOcjlpbHNEd3dDQl9ydC1INWhuXzBKa0lnLWgzT0NSaFZ3ZEkxZXprMG9VVFIzTHJIaGlIdzhKSk00YjZ3elo0RmlVUzV2b3NUSTBCRdIBigJBVV95cUxNWG9DLXFwaU1iNTZkR1dVamxRNkhfSS1GRC1tdzNKQ21FajV5NjUzSGJuRHB4dUhpVnFYNV8tbnhKOERMdzNOSlBZOWhIaW1Ea0N5WHJRZVdXWGxZNl9vZmRqRnplNEFLWFczUDdmcU10LXBUbFZnNGViWDZhOWt3WU5UVVJpZUQ2eDJiSzYySHhEbW5HcGk4aXZaMS1kZXhMalNSV2d0Z3F6dFJ1YUJXYnZFaE1aUndXT3Q2T0p5WmlqWXRyVnMxT2VjX3NkdlpyNElJSkZQaEZpSWp2aUMzbng5TFEzNXVpemg2WmdZVEpLWkt6ZmlTSmMxaEdDNENKeGJETmNiQlR6UQ?oc=5",
+   "sources": 2,
+   "recent6h": 2,
    "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-19T13:06:19Z",
-   "last": "2026-11-19T18:27:26Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
+   "level": "kecil",
+   "first": "2026-11-19T08:48:49Z",
+   "last": "2026-11-20T04:08:49Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Bird flu confirmed at North Yorkshire turkey farm with 20,000 birds affected",
-     "src": "Hambleton Today",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmJrVnNhTm9nVHVjSHpSOFc5M2wyS2pyY0ZCbGV2ZlJmcy1UeThrME9md0VCaldIemE1RjV3eUtoZ3J1d3JBZG1lUFNGZ0phT2xSRVVYWmluMUhTT04xOGszOGs5UUNyZmoyenp6VHVKTUE4czZKVE9FRUR3ZlpiNFYzV0k2SVdXbnZoeDFia0xBcG5iVjhhM0pyQW8xaVgzcXNxc1FGN09iRDVpNEE?oc=5",
-     "t_id": "Flu burung dikonfirmasi di peternakan kalkun North Yorkshire dengan 20.000 unggas terkena dampaknya"
-    },
-    {
-     "t": "Japan confirms new bird flu outbreak at poultry farm in Hokkaido",
-     "src": "DD News",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWjEwdUwtVmxrRk55NHZKbGZlcmR4TlFVRkZRRzRUR0RfUXFfcmFoc01MTzUweDk0SzBSNWZlY2ZNVmo4ZjRBSFJuUGVoejlvZzBoWFdnT0RuUVI3dW5MU051UjlBZHdCaEl5bDdDUXRzZC1YTXFhTEFIQ2FPTDdBcURmLWNuYmN0cnJ6SFEyZU9nZi1S?oc=5",
-     "t_id": "Jepang mengkonfirmasi wabah flu burung baru di peternakan unggas di Hokkaido"
+     "t": "Saudi-led coalition says it intercepted Houthi missile targeting southern region",
+     "src": "Internazionale",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ09pbC1RUS1ZVE01UXJEeE55TFVDMkJmN21HSlhkdm5teXBhRWV2eW9iRUptaFFENVJoa0U4eVBUb2NjRmI1eWctWTh1a0lTMHNUZ0lYdDdxN215Ry1BbjgxbmZmYmJIdWJFenJaMFVzZDhGZ1BBdTU1dUoxY2tDUlVKejh5a2QxRlZ4RHNLbXlrc196ZGo0YW1HSG40dWNLb1FMWnl6dVZycTRYZWFEYjBIZ0Zkd3RfTWJGdXRuc0lNRm1CRDRQU0d4YzJic2lFZUFwWDJpaWR6MTRs?oc=5",
+     "t_id": "Koalisi pimpinan Saudi mengatakan mereka mencegat rudal Houthi yang menargetkan wilayah selatan"
     }
    ],
-   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-  },
-  {
-   "id": "indonesia-202611190651-c6ca",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Chaos! Potret Demo Besar Guncang Ibu Kota, Warga Marah soal Pajak",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakxXOGZCcV9Hbko0OWJHa2FSMUJWdk5uWU9peVpwcFJyVFB3ajhWdlRTN2JsSUU2WFJpSTJnMTJQRFhzdEZJbFJZUk52NzFxcmxCNlRqWWlNd19RMS01YmQ1eDR5aWZRWlYzWVFxMkxkZ3VkNlZuVUwwWUFET2YxS3VUdktVaDdZejJXNFBCbjd0QXRXRjBobWNzTjRaV1pzanp0NjRKNlN0MkJNSTRsQno0a19RWVdvWjJteHZtVdIBxAFBVV95cUxOT1ZISG0xVWRuOGxQSldPRXNhSGpJcjVfZ19LR3dDUjNUcHdPVjlubXFMQjNtQWlUcTRscjJraEJMOHpzbDUxV21fcFdxVjJWeWQtY2hDa0xwWkt3Njh0TzJmcXV6MHF5S3pKeklTaW0zTkVKdFQ3NFBzaGdFdXdLMXZaOEJRcFo3TDdiVjFrVVdWX2ZZMTltUDZqdld6ZTB4V0ZPODlKbWVWMmhVQ2FaWDFvOXJkdlJWZktlMDlqOURQSVRZ?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-19T06:51:11Z",
-   "last": "2026-11-20T04:25:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Demo Besar 'No Kings' Guncang AS, Jutaan Orang Protes Kebijakan Otoriter Donald Trump",
-     "src": "Kaltimtoday.co",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmkzd2ZPVXJnTUdCNUZFc3NYbkxrajUxMlJDb21GVVBtdTZrY2VpR2s2ZFBNaHhPamd0b1p0SmpQVDZFZXJUeHMyUloteExUSzhZZ0tmTE11OVQ0ZUg3ZVRjU3NyTU9jaUg5VnBXWEp5eWQzNFFkNVd5U0dsZzI5S0I0S0N1eHVCdUNHcDVqT1dXTlh0bF81WFp1QU1EVTR4MVd2SHdTUms?oc=5"
-    }
-   ]
+   "title_id": "Koalisi Pimpinan Saudi Cegat Rudal Balistik Houthi yang Menargetkan Wilayah Selatan Kerajaan di Tengah Meningkatnya Serangan"
   },
   {
    "id": "indonesia-202611200037-9c50",
@@ -196,54 +142,29 @@
    ]
   },
   {
-   "id": "perang-202611191620-2a37",
+   "id": "perang-202611190825-ebf6",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "A missile attack by Yemen's pro-Iranian rebel Houthi damaged a skyscraper in the Saudi capital, Riya..",
-   "src": "매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXWlJCMlU2XzVUV04wbnVYQ0pKbFpkbmlVR0xreHgwOGYxaVhrRm5BVnNRV2o1R3AtZmhxSVRNMkp3SzJPclhhVGNPenEwSUk?oc=5",
+   "title": "On November 19, Russia Launched Missile and Drone Strikes on Ukraine; Air Defenses Shot Down 69 UAVs",
+   "src": "112.ua",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmpiNnZObkFaUGlIS19NNExvZzBHWlFSWnItNFVNaGtGcWpWUDBPUlBVSklYWUY2SDg0R1NUaTF6SUUtM255dE1jWVByOWp6ajlVS05MQkFScUxxTjN6U2xiTmQ2ZzJSbGNnUmtmc0JNcldDY1d1V21EQTVkc21fMTZRVWZaRXAxNEtYd0JMMjhWTzFqMG8xSTVkYzRYRVNLUUdyM2xOT2pmVUgw?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-19T16:20:41Z",
-   "last": "2026-11-20T01:47:54Z",
+   "first": "2026-11-19T08:25:08Z",
+   "last": "2026-11-20T03:42:35Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Saudi sovereign wealth fund headquarters damaged in Riyadh missile attack",
-     "src": "Funds Global MENA",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTRIaWJ1YzQ0QmdQaXBsQUdrZVhqYlFMRDViX1dCMFdEV3BtekpVYTZtWE1FMlN2UkZBbWkwdC12MVpDQ19SNldjcXRfd093Z1E4V2toV2hXZEpzR1Q5cS04c1JRcm5mMTFKNnQ2TEo4dDhZcUR0NzJsVFNJUnRUZ0FxdVN4b2ZGcXJmak50Zm81TnRnVXBCWDdndjJ6M0dJWjlGU0VYMkpjZw?oc=5",
-     "t_id": "Markas besar dana kekayaan negara Saudi rusak akibat serangan rudal di Riyadh"
+     "t": "Russia attacks Ukraine with anti-ship missiles and drones: How many shot down?",
+     "src": "RBC-Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFRCVTZhb3ZYeWUzdm9iOWhRQnhFeHB4NVNMampWNFhzX3hodVlvRWxVMVJqSXRCVlB6aUNIMU5JSzZtSXZacFVSS0RkVF9rcGtwbGdxQkhoTEtrRG9EYTZJTFdTX0VpVE00aVI3NVU4cERNQlExTHI3UzdldW9sQVFIQjc5b2N2OTlNQmFfZ19ZSENybzB1UzB3?oc=5",
+     "t_id": "Rusia menyerang Ukraina dengan rudal anti-kapal dan drone: Berapa banyak yang ditembak jatuh?"
     }
    ],
-   "title_id": "Serangan rudal oleh pemberontak Houthi pro-Iran Yaman merusak gedung pencakar langit di ibu kota Saudi, Riya."
-  },
-  {
-   "id": "perang-202611191337-df9f",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Houthi missile attack damages Riyadh’s tallest building",
-   "src": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtM0pINzl0MlU5X0prTF96Rk1KaTdBMmNZQ3FKN2tTQklWSzRyMFdUNjM0dmpIWk9wYmdsWklXdmZVS1lWQWMwTlplbkRaaXpmaWc?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-19T13:37:53Z",
-   "last": "2026-11-19T19:33:08Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Suspected Houthi Missile Damages PIF Tower in Riyadh Financial District",
-     "src": "https://houseofsaud.com/",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FNWdoZUt5X1dUM3JvcUdfRmxxLVY0V005ZVRtUEwyaGFzQ1JLVVFRd0U5cUlxaDlZdnBWWFBzSmRpNW9WbTZJYjJtUUNneWk4UUhYTlk5Y0hQTGZZeUlwLVVxVFVSdFVIQWlkV2JreFZEXzR0?oc=5",
-     "t_id": "Diduga Rudal Houthi Merusak Menara PIF di Distrik Keuangan Riyadh"
-    }
-   ],
-   "title_id": "Serangan rudal Houthi merusak gedung tertinggi di Riyadh"
+   "title_id": "Pada tanggal 19 November, Rusia Meluncurkan Serangan Rudal dan Drone ke Ukraina; Pertahanan Udara Menembak Jatuh 69 UAV"
   },
   {
    "id": "siber-202611191712-968b",
@@ -295,7 +216,7 @@
   }
  ],
  "errors": [
-  "korporat: HTTP Error 429: Too Many Requests",
-  "bencana: HTTP Error 429: Too Many Requests"
+  "transportasi: HTTP Error 429: Too Many Requests",
+  "kesehatan: HTTP Error 429: Too Many Requests"
  ]
 }
