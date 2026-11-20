@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T09:41:46Z",
+ "updatedAt": "2026-11-20T09:56:26Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Ukraine: Three Kyiv bridges hit during major Russian missile attack",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUWd5SFpDTnd3QTdqMVU4WXNmd0d0NFNxa0V6Z2ZEb3NlTzJ5Yk9Ea2Nvb05lSnZKNVppc1d3YTZtVFAxaWpoa3FIbXFVZ19zS0N1Z3gydzJ5OGtTVWc?oc=5",
-   "sources": 9,
-   "recent6h": 7,
-   "score": 12.5,
+   "sources": 10,
+   "recent6h": 8,
+   "score": 14.0,
    "level": "besar",
    "first": "2026-11-20T00:41:00Z",
    "last": "2026-11-20T08:15:58Z",
@@ -31,62 +31,19 @@
      "t_id": "Tiga jembatan di Kyiv hancur akibat serangan rudal besar-besaran Rusia"
     },
     {
+     "t": "Klitschko: At least three people killed in Russian ballistic missile attack on bridges in Kiev",
+     "src": "vijesti.me",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXAyQkZvWWw5RFdQb0lhMEJXN3JhU2dzTFQtTjFDWjQ0WXFLYWRrd2N2R0xjMk12b3EzTGFFTEtHejZMaWk1YjN4Z3cyQUY5dU5lR1dpMnhJYjZOeHFpR0cyY0RnSlZoWXdsOXhpRXdnRXRsdUxCRlZKUE8wOUhURnllZUpOYW1jc3locXV4NEZidU9KQmxURlNpRld2YmtDT2NpdHBFT1Q5WHVWSUlhY3h6WFowY3V0T0N0Z2Zfdnlaa3ZX0gHEAUFVX3lxTE1VcDJCRm9ZbDlEV1BvSWEwQlc3cmFTZ3NMVC1OMUNaNDRZcUthZGt3Y3ZHTGMyTXZvcTNMYUVMS0d6NkxpaTViM3hndzJBRjl1TmVHV2kyeEliNk54cWlHRzJjRGdKVmhZd2w5eGlFd2dFdGx1TEJGVkpQTzA5SFRGeWVlSk5hbWNzeWhxdXg0RmJ1T0pCbFRGU2lGV3Zia0NPY2l0cEVPVDlYdVZJSWFjeHpYWjBjdXRPQ3RnZl92eVprdlc?oc=5",
+     "t_id": "Klitschko: Setidaknya tiga orang tewas dalam serangan rudal balistik Rusia di jembatan di Kiev"
+    },
+    {
      "t": "Russian forces launch large-scale missile and drone attack on Ivano-Frankivsk",
      "src": "The New Voice of Ukraine",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzFzb1FGRzNCX05kTE1MU0ZENjR2TWZBTldQcndFSjd4emRqdzQtY3kyZm9ZT29Cd1F1RktYU0oyNkExVDktSVR4LVBJZ1FvSUFCd2RpcHhyT056cVhPMXR4aEMwT2Jld2oyV3FGTU9QajQzWFVjdllPQnNScEFRMXY1QjZSZm9pNXp0UTRha1YtWWNkTWQyY3EwZGZoZV9uZmFSMXZFajZIS21BQVNBQ9IBrAFBVV95cUxQR0RMeXJGVDZvVnYxdkllS2pRaVZ4dXBPNW5kWHJsZW9jX3otMmFpaElibnE3MzhFMUR5WEcyQlg3RU1kLXVYZWRCUV9yaXpreHFWa2QyUmVVOWxqVl9TeW9lcFlsUGRLaWhpQmFQRi1qZjBiY25nalNPakFWUzNqNkRmT1ZWQXJHVEtTdVBXaEZ5VDRibmtKZkd6dW93MXcxTjdrQS1CN1VHWk1H?oc=5",
      "t_id": "Pasukan Rusia melancarkan serangan rudal dan drone skala besar ke Ivano-Frankivsk"
-    },
-    {
-     "t": "Russian missile and drone attack on Kyiv kills three and damages three Dnipro bridges, mayor says",
-     "src": "Meduza",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYkYwcEJ4RXhHNjZKemNHZ2YyS2VBbTV1N0hzWFhYRnNQVkFHc3NkQ1k2TDlramtRQ1VXOHBWaHpqM016ZjNnN1ZNMEtmc0VaR0J0UUtiVHh0Y1UwNFNzbmtodDBDYW5TeGUybGpDNkNZQ1BfQjhwQXh0QmVwQ2JNYWhlN2c2X1dabWsycXdpZU01UG9fSXdxbW9ET09wbWFQZjE5N1I2VF8xQTE0VHh1Zll6ZlpuWE9WcFdXZHRIQkFfNG5Dc0c0a1hncEFyd9IB0wFBVV95cUxNTlJ1bTlibVcwdXNVNXFWRGN4bG0zSzVieTY0ZEtOZGg5YWlTUmktRzMtWWhCaHRJQkdJaVg2UjAzU18tVkxCRUl5LTdfSXBOSkNQbU9IS3hTMHpEeUZmZzFZajNZUGZZV2hmc3hTTHlvUHdRdGZEaC1UeUk4bnhmUXM3V09Qa1pDU2o1Tk9nS1FiVnNFbjhVano4Y1dUekNBaE1hcFhndlBmVWp0YkVLaV8zbW52RHNSdEl6aXlnNkt4dVlSbk90VFc1QWFoTWktR0pF?oc=5",
-     "t_id": "Serangan rudal dan drone Rusia di Kyiv menewaskan tiga orang dan merusak tiga jembatan Dnipro, kata walikota"
     }
    ],
    "title_id": "Ukraina: Tiga jembatan di Kyiv hancur akibat serangan rudal besar-besaran Rusia"
-  },
-  {
-   "id": "siber-202611191056-84a6",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Trump fires cyber chief amid mounting criticism over tech outages",
-   "src": "China Daily Global Edition",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSno4d0RjTXZpMFZLMF9mVUJwSHZBa3gyQUx4Vk5oa1ljRGg4b2U5YXFFUEtlVk5WZkhKOURYb3BaQ1phcG45eWEybUF1TmpvZnNadFMyYjRTX0J1cUQ4VEFTcUx3RXFKVkJDcm9CZHlZRjhzLVpXZVhrZGIxTElfZ2Z3?oc=5",
-   "sources": 10,
-   "recent6h": 2,
-   "score": 11.0,
-   "level": "besar",
-   "first": "2026-11-19T10:56:00Z",
-   "last": "2026-11-20T06:40:46Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Trump ousts cyber director after tech outages spark criticism: sources",
-     "src": "Dawn",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMFYtT1IxUHhldVJxdHRIUkFhRUR5NTc5QjYxcUs5T3VwQ2hqeGU3UE85dFh6dE5jZDh0Um1tWWc4alMtRGZWQmZOQ2Y1NnR0Sy02NVdwcVRjMWVlZ0ZLRjJwQS1DOFQwSnlUT0JLVnRBd2NmWmhqOExYcHBrZy0zQXNoNzdwdWMxRWh0T055VTFVX1FrY0RaLUk5SjVNQUEzM0xMR1FR?oc=5",
-     "t_id": "Trump memecat direktur dunia maya setelah pemadaman teknologi memicu kritik: sumber"
-    },
-    {
-     "t": "Trumps National Cyber Director Sean Cairncross To Step Down Amid Multiple Tech Outages: Report",
-     "src": "ABP Live English",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmx3LVBFWnJjVjYxMUlfZ2hGbFpyS1RVa01wTnpSanB0eUs2SkZZNEdqcExKbE4xQmFpZlpQMHJ5djB3VU9GbXlxXzhRM0dvNjFMWm5adDVnR3JiVUJDRTdqNnp0eGFjODlid3RTVDBTWUpGLWhyQjFWaGprLTNHWmZfS2J5R0JqSkY0WWZrZE16cVVBLXRGbmVkNjN1MTJ1Z2xjb0dITmRCS29tQnc5RDJrRUhBZHRyaUZYODRzRm9EVTlBMmotTEJPM1R2Q1RaLXBrTEk0ZVrSAd4BQVVfeXFMTlpYMGlYUXhmc3N2OGtTVUtvVEtRdzZIb0NkdHRaTjJ5amczT3VOQW1qbVRScmZFVHV3bzg5czNKakRrb1N6UXpxSElxZDJiVVAwdFNMQWM2aUtrQlJVbDhPeW83WVV0SURnc3VUQlJQcU5DSEdpSm93aU5Hb1VnXy0yTUdITVJybEQwWm9WY3JuX0lSei10MDd0UWtWbHpUQ0FIUnRsd2JFdWRkdVpmdk40OWhpaEhqT3M0d1JWN3lSeFdjVlJMNEJOdDcxUDhwWHFvUVZIZkp4ZVpwQmdR?oc=5",
-     "t_id": "Direktur Siber Nasional Trump Sean Cairncross Akan Mundur di Tengah Banyak Gangguan Teknologi: Laporkan"
-    },
-    {
-     "t": "White House fires national cyber director over widespread outages",
-     "src": "AOL.co.uk",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUl6SFVUdG85OE8tYlZYLTZfS080OC0tTHVLc2ptNFRfbWNwSUUtWmhqbTBackZ3Q1hXdmFYQzRFZzUyeTBTRy1vLVA2aE00N0hnQTR0QnR1VW03NFJubzFpRkI3cHpZcm9fekVqSVJqVXExTmVLc2ZXREt5bV92dDJ2emw?oc=5",
-     "t_id": "Gedung Putih memecat direktur siber nasional karena pemadaman listrik yang meluas"
-    },
-    {
-     "t": "Report: Botched Software Upgrades Driven by AI Are the Cause of Tech Outages, Not Cyberattacks",
-     "src": "Breitbart News",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUC1iMkJPUEl0UmdWdEk3Rlh5SDlscjFwOFVwX0dpRVJZQlNlclRFOC13YzJPSkZCVmNFaXhGdzVEWm45MGpiRDEzSjBNbTdKVURaX21WUTVTejBFVi1rNmg3Z05YbDVPV0JtTWdIS2lyLU94U3ZPbzBIQ3duYXRWaks5NmtrVk9MODZsYnJvRVM2SjdSaEI2Qm05SjhuZmJMYm5JTWwySGZBdnNUTGhid1Vqci1iRzhKUjZ1N3dNcjZTYkRNckJyNC1nRl8yUDFv?oc=5",
-     "t_id": "Laporan: Kegagalan Peningkatan Perangkat Lunak yang Didorong oleh AI Adalah Penyebab Gangguan Teknologi, Bukan Serangan Siber"
-    }
-   ],
-   "title_id": "Trump memecat kepala dunia maya di tengah meningkatnya kritik atas pemadaman teknologi"
   },
   {
    "id": "perang-202611190848-c19d",
@@ -126,41 +83,32 @@
    "title_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-267 — Serangan Rudal Houthi di Arab Saudi"
   },
   {
-   "id": "siber-202611191712-968b",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Chase Says New Data Breach Unrelated to Banking Outage",
-   "src": "Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGw4QzhtZkY2d1ota0hwaGFhWTd2bTFYaVhMakRTTUU2RDBrWnBoR2wzbEkxMDFIZ1lWMWR2cDRaOWk2M2FiT2F5Z2VQUVB4c043VE82Slhac2FZTk1Xd1BhX3VySW1xazQwOTUzR2YwNmhmWGxyWENjal9hTzRmdXFaaGhQS0QxSlAxWFV0RnhvTGF2c3dFNWNJWko5U1BQckx3QzZlUWVhUF9wLTJqaU5Bdw?oc=5",
-   "sources": 4,
-   "recent6h": 0,
+   "id": "indonesia-202611200302-b275",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Tuntut UMP Jatim 2027 Rp 3,7 Juta, Buruh Akan Demo di Kantor Gubernur",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclAyMm8wSWNRTEdweDdlcGc0Q3h6RHBHRi1oRHA0LVNCakh2b3dYd2ZaQ3VzNjVZU1hscXJBMTFoSzNwbEN5LVVHcGpXZWFnSFVmbmlpNlRQMGdDQnM2ZWNSZHh5N19vekpNM0wxN3M4RUkwdEFlY0FjRlpybVdTNGtRRHZsYVVjNy1uV0tVUjlZQUk2eHBRSjZZWXhFOUVUbzBrbUgxeHA1ai1qT0ZMV1laSy0xZXhBRV9fY0J3?oc=5",
+   "sources": 3,
+   "recent6h": 2,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-19T14:47:00Z",
-   "last": "2026-11-19T18:34:50Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "first": "2026-11-20T03:02:00Z",
+   "last": "2026-11-20T06:59:00Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Did Chase Bank Get Hacked? Firm Confirms Vendor Cyberattack Unrelated to Outage",
-     "src": "Forbes",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkh0YVhoajNvY0VwMjREMUdhWjFNank4d2RxVlphd0lVMHBEWFhJTU1LS1Mtdlo0ekN3U2NCTDBlcXpLSTZjT3E5NjRFSWlEamF6SFhncFlncjdDTUpscmpBU3hNLVNqaDdDNlNSTjZpa3g5eXd6NHA4WWxRMy1aU0lFdTZlVmxPT1IyYjQyWlJxdEZ0ZXFsZHZDNk9PRUdPYmxSem12SmlfNl9Kc3pQT0d6ckh0ak9UX1llVFZkSXhPQXZCY0FtMXY1VnRsbzg?oc=5",
-     "t_id": "Apakah Chase Bank Diretas? Perusahaan Mengonfirmasi Serangan Siber Vendor Tidak Terkait dengan Pemadaman Listrik"
+     "t": "LIVE UPDATE SORE: Gubernur DKI Tetapkan UMP 2027 Rp6,1 Juta, Bengkulu Banjir Berhari-hari",
+     "src": "Tribun Video",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVJMbmlGTnhhd3NibGxoWFRTY3ZGTV8xWF9UVHpRMWZqQ1EtTGR3WTc1bTVzUXk1TzdMYm5kSXEybENqNGU3dVlqR01XVWZ1QTZFVnhHY1MyT1NSY1NrSWg2MjEzSjR4b1Bjc1prdW5zcUY3LTBickpYVk5xRHJaUVRTd015RFE3UjIzcTA0Zzd0VGNhQzBNVGt2TVRZWEs4WVlycVlIOVhDbm5weFpzWlNiVEZXNTg2X04tdWlvNzFQMVp2U0E?oc=5"
     },
     {
-     "t": "Chase Bank warns customer data may have been exposed after third-party cyberattack",
-     "src": "NBC 5 Chicago",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1Zwbm9ELXpMakZjRXZPYnd1YnRuRUVkajczaXhtT0Q5dER4Sl9PYk1tU2N2NzM2anpqdk1sZGxhNGpEOGlZLU03Q2RMY1U4YXFMTDN5MFA1TnByNllzYTljbkk4bGdoR2VpMlFicGR5bDl2c19rUVJfdjlIM2t6Vkpvck1iMmpQdjFSV1ozck1ONzd5QVRvYWM5cldkem1oWk5MV21zdHRBeEJzazlHOVJ6ck1xOUFuczlpSmF1N05hSjFNelV6cNIB0AFBVV95cUxQajRZdmNCdWw1UXJmQ0pLTDNpcnlsUVdrV3lKaUlfbTNGaXk4NHlLVHhQTnYwc2ZPNVJnVXpabzlodGZRSHVTNDZGVUV2VXRqQjZSclcwMXFNZERhN0JGSXU3WWZxSW9ubml6SU5ERkFfeWRzRWVndFVkbXdselFGaFhDWFV5MmlPcUlzWGlpaEI1ck5IS0VtTnpXQUJXaWE5LWx6R2pqQ0IzNnNWSHo4cDFRZDZWZmdfQWlvd1lvc3BnZ0dYVld2TUdUVzRvUm1f?oc=5",
-     "t_id": "Chase Bank memperingatkan data pelanggan mungkin terungkap setelah serangan siber pihak ketiga"
-    },
-    {
-     "t": "Chase reports cyberattack against vendors may have exposed customer data",
-     "src": "The Columbus Dispatch",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFNlREFuT2NaU21fa2xJYWNFdXhvenNFbWpSNjZQMm9rUnNzYjRTcDZyQ20zUXVsRjhGY3gxcHF2VHc5ZDJyYmNSUDctSTFvUGVmQVB0SG5VYjR5NTJsVkVjTDB1U3Nna2otY0FKTzlzTHpScWhaOFlXNjhyX0RjV3MxbXRtTnlEalFKRU5iNmdDeVhPMzlzNWZpMWM0bXNiZjlaYWRlSC1XNGNmOTZPb2Y0UGJSZFVtb1hyWDJBWkRURWtmdEhV?oc=5",
-     "t_id": "Chase melaporkan serangan siber terhadap vendor mungkin telah mengungkap data pelanggan"
+     "t": "Demo di Balai Kota, Buruh Minta UMP Jakarta 2027 Rp6,2 Juta",
+     "src": "IDN Times",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY25ieFJKNHVsVHFLQXllWUNNMnNRRzEtR0pfR2ctQ2pmRXlfQk5SeDlzR3VwM1JXM1RUMjJHMWViLWVYRW5idEdkZWJhUk5JZ3ZKWENrVUVicU1pbm1GOFctZGY4WkpEVW5VcXFyYTJxVnFlSWdUa0xsX2xsNmNBQmM2WHV0eF9ZcEtOODFrMkIzdmlFeUtSUHMyeVRyNi10QndYang3X1BFS2ZtaUpoYWRodGTSAboBQVVfeXFMTUk1T0dQZFFLVmFaZXFZTnp6VWV3QWtpV01wUlVEenJmTm5jTm1mRUR6SXBKa3h1MzdqNEhXTVRHMTlBZTRnTGFscGZ0eVcyQVdoOEVnamN3WEI4RktzRjlJMTExa0tZQ3BVN2FnZTU4NWpIQmlDNzNfWWl5V0h1SVVueHBJUUVTc05SLUJMS21GbGVLNUNhbjZLbHk4RjZJb04zSzhEX0pldHloMGhicTdhcHN6YV9CSGFn?oc=5"
     }
-   ],
-   "title_id": "Chase Mengatakan Pelanggaran Data Baru Tidak Terkait dengan Gangguan Perbankan"
+   ]
   },
   {
    "id": "transportasi-202611191934-928c",
@@ -171,8 +119,8 @@
    "src": "Yahoo",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHJqUENIM3hpMHU5d19leklJaTJHRDBWaG5BQUY1YzU2Q0hRa3NqamloUHRIeEx1QUNNY0hQTHNNa2twVG40WW9ydU1pelRMNk5JcXVramhTRzJBeVVuWGk1VzlaSjZncHgxaEJrQmI3R3BmM3lDMUs0cFNZT2tPRkxpMmhJVUhxZXpid1h2dw?oc=5",
    "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
+   "recent6h": 0,
+   "score": 3.0,
    "level": "sedang",
    "first": "2026-11-19T19:34:04Z",
    "last": "2026-11-20T03:45:00Z",
@@ -192,31 +140,6 @@
     }
    ],
    "title_id": "Perhentian FAA menimbulkan pertanyaan baru tentang keselamatan penerbangan"
-  },
-  {
-   "id": "perang-202611200833-28d7",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russia fires about 100 missiles at Ukraine, with one likely crossing into Poland",
-   "src": "The New Voice of Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWmpVR3VURVBkRkxYbFppMGxrR0h6LUV0WUxwNGZxY0NaZ0dNdk40dnJwVlJpRGIwR25Gc0dyeGRGVFowaEtGd3VXUnhWVmtCSktrTkkwZGVhZDFONHpYd3BzejRVZldHNkRwazM5UndkV084SXNpQXFRWHdEWTE5MnA0RTdzSzFEakQ2MDh6S0l3TlZHMXNQSWVDbWpPMU1QR0RPbWxEQTVVMUlLZGUydExnUnpyZllPQnfSAbYBQVVfeXFMT19jbkZjNHgtOTJCdXJkYWRCeHNsckQwdkh6S1BGUEVKODdsZVNFZ3RYNmVBOFFLSDU5U3VZLVpILUNOaGExVGkyU0ZjaFhUVC1VTURWQlJzb1VGSi1UbWp6TTY2Zk9GbGFieXpPRDQtZUlaTU91Ym4ycU9fUF9SVmJZaFpHVi1XUTJmOTdfM28xT092aGtxQnFCQll0MnhVaTc2cFI3V0RXeGk1QjBtNmlYVUpidmc?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-19T13:22:15Z",
-   "last": "2026-11-20T08:56:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Air Force reports one of Russia's most powerful attacks, with around 100 missiles launched at Ukraine",
-     "src": "RBC-Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNalYwaHlINkx2Q3ZpYVpRcjFST0JfTlo3TVhNUWZjTHRXMDFxMkQyZ09zMFlJT2JvQTB4ZV9kTlFyb1hrWFh1bms4SVNQN1FFc3JsM2NzcVNjd1pGRmhtRDBtVEljOWpGWTAteVNTQnBVQ3dycnUxSm1CLXVhYzFnMmlVZi1HMGNyMGxlNjctRGFaQnZGQTE2OE1Ncw?oc=5",
-     "t_id": "Angkatan Udara melaporkan salah satu serangan paling kuat yang dilakukan Rusia, dengan sekitar 100 rudal diluncurkan ke Ukraina"
-    }
-   ],
-   "title_id": "Rusia menembakkan sekitar 100 rudal ke Ukraina, satu kemungkinan melintasi Polandia"
   },
   {
    "id": "indonesia-202611191618-156d",
@@ -240,31 +163,6 @@
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGp4WTl2N08zSGdNZS1JUWZwSHBQOVAycHF2aGVQN0hsZ19HYVpQYjhGQm5iaGhtcG0wRkU5RGdVazI5RjVib3Fqb2hOaVVUUzNZNUFENGtVaFpTcHdoQnNIcGVxb2d3TkhBTzExZVQtWWNBaGs4Y3VPUWZCaDJWMG9JcjRKcXN2a0tTTTRjYmFiemxpMURZaDhVTE83MjN6VEtYOThyVk92d09fcThLSmt5U1VKbUtndVdZZS1QMWhlWURiRVHSAcsBQVVfeXFMTU5KcDRoQ0hIVGxraWpYbE5QME1uX2h0eklBZFd3d0poa2M1ZUZPYzNIb2laNldZWU9VamZEMW1YS3FiZmxtSUFrTm4taW4yeVJNZl9wTTZBY2hadUtYRWpKNTFSWW9KWmZGNUZ1SkE0bXNJYjA0djZ3TVcyaDloT1ctSlJIME5iWGktR0hzaWZ5UHRJc3VFQ0RpLXQxclRMdHFZNWJOckNYbFc4TC1MNVYwcm1RX1FTMjFvNXNWV2JkWUt3OXhUVTVrQlE?oc=5"
     }
    ]
-  },
-  {
-   "id": "siber-202611200115-793e",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "The U.S. tech outage wave, explained",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzJaQkoxUnRCVXN1d3Q5NmJBQl9GOWNRNi1wVHhwSFhTYXBuY1h3X09ubXFKeVJDTkxYaS16RElFZUU1MjF2V21CRl82Qlh6NkROdHFGc0xmSWRCcWI4NVdzeF9wVElsVXQ4LXY5Q0NfSWFqNVY2UnVYVlg1RWxtekxpV0dQUQ?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-20T01:15:34Z",
-   "last": "2026-11-20T06:32:16Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Andrew Cullen | Microsoft outage shows that big tech can’t be treated as too big to fail",
-     "src": "News24",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
-     "t_id": "Andrew Cullen | Kegagalan Microsoft menunjukkan bahwa teknologi besar tidak dapat dianggap terlalu besar untuk gagal"
-    }
-   ],
-   "title_id": "Gelombang pemadaman teknologi AS, jelasnya"
   },
   {
    "id": "indonesia-202611200037-9c50",
@@ -295,6 +193,31 @@
    ]
   },
   {
+   "id": "perang-202611200041-0ce8",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukraine Severely Damages Crimean Bridge In Multi-Stage Drone And Missile Strikes, Disrupting Russian Logistics - Analysis",
+   "src": "Eurasia Review",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQclVkbFZZYllMYnI2TWI1UzFCSWRpRTZmNV9QSkRmWlJySTYya2Jjb3VydUJtZXlUQXFzd0hyclF4Z1htWWhLc0VhcUVvdGJRSkk1Mk53cHVSdUJIMks5MElIX1dkREp3UFc3bjl2N29zREQ5N3NrdmtGWXE2RmU5M3hVUFAxejJrN2EtMUJ0ZllpOE5OZ3RQQVQ3TDkwZjVKUWZ2cVY5aHNjM1YyRlhIXzF5c1NBZFlnNXhjZ2hxYTZIY25FcmQwUG1EYjFsTWltVjJOck41Z3hCQUYyTjlmNTFJWmp5TVVQdnFyZ2J4aw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-19T13:22:15Z",
+   "last": "2026-11-20T02:39:11Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "West Asia Conflict Escalates as Drone and Missile Strikes Hit Baghdad and Doha",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NkV3BXbGtQSmhEdUp6Q0k1S1hBSERyQnF0X2xvckdpaE4tSGphWElNVE9ZVGR4dFpHX0NOZHEtUlZmV0dVaHNhT1VLaXhWTnM4Sm5jUnNFVXBzNHd0dUFYbWlqSGJ3SjhLLWZmODN0enU2TEhOZEJKODJ0WGxhc1VQbmFfS3htRGxyWFhjX3lLTy1KSjltV05waGNYVExRdHFZcUtXaw?oc=5",
+     "t_id": "Konflik Asia Barat Meningkat seiring Serangan Drone dan Rudal Menghantam Bagdad dan Doha"
+    }
+   ],
+   "title_id": "Ukraina Rusak Parah Jembatan Krimea Akibat Serangan Drone dan Rudal Bertingkat, Mengganggu Logistik Rusia - Analisis"
+  },
+  {
    "id": "kesehatan-202611191306-3bf5",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -320,75 +243,50 @@
    "title_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
   },
   {
-   "id": "siber-202611191356-360b",
+   "id": "siber-202611191712-968b",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Michigan expert says aging digital systems need upgrades after string of nationwide outages",
-   "src": "WILX",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeU9hSktfVl9Oc2lQWjkyTGt1bGZPVWZfUEYxWnMxSXZ0ZVlUSWFPS2pqU3ptMThlRl8tUWNRTmFlcWNIWDhTRDhZMDhmOWpOclpFeXJNZ2c4RXdxUGRRcmc2Z1M5bWVwSU8xX2Z2LXdJLVJPN1JZNHY2X3VUMDZiYTZuRktIU2FZdWpOZTFFTFpRTjR3WW9sTjdEYmRwQlhCRTVCa3RHdF91WUVFcFAwSVp3ZGx1TVpNaXk0NXZB0gHSAUFVX3lxTFAzRzUtckkwQlZ3V29YNGs4aXJUcHlCY2lVcm80cVNTMk9NNDBuV0xRNG1RU0htX1ByWUtVb3ZJaTJvSWExbEtWUjlZazIzSUlmMGJDY3dKQWVYcEp1WDNIS3JLV1FiS0VDWEJkLTQ1cUxieHZEa08tY3RSV3lPbF9GYTNXX203Z0s3c0tpV2huNnd4M3FsRElTamswSFZnMlhOcm1vY2dqMWZrb3lkOUhLS0ZaNjlJRUZvWjlHYkxUZ002Y3pFNVBrYXQzZGpkb1RQUQ?oc=5",
+   "title": "Chase Says New Data Breach Unrelated to Banking Outage",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGw4QzhtZkY2d1ota0hwaGFhWTd2bTFYaVhMakRTTUU2RDBrWnBoR2wzbEkxMDFIZ1lWMWR2cDRaOWk2M2FiT2F5Z2VQUVB4c043VE82Slhac2FZTk1Xd1BhX3VySW1xazQwOTUzR2YwNmhmWGxyWENjal9hTzRmdXFaaGhQS0QxSlAxWFV0RnhvTGF2c3dFNWNJWko5U1BQckx3QzZlUWVhUF9wLTJqaU5Bdw?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-19T13:56:38Z",
-   "last": "2026-11-19T23:47:00Z",
+   "first": "2026-11-19T14:47:00Z",
+   "last": "2026-11-19T18:34:50Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Digital Outages Fuel Conspiracies",
-     "src": "NewsGuard's Reality Check",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5V0pqQXFweDE5MUFHUmlmSFZoTXRJM0dfMzFDa2tkMGVFQ1VyaFZuX3M0UXBxcno0X1ZBVlUyc2xVUndGVWNpb2RlOXhuNzFZbVZFN3poRklSQm0yLWRDb29zQ1AtY25TUl9BQ1luYzZkMUlTOFFIb2h0N0dfQQ?oc=5",
-     "t_id": "Konspirasi Bahan Bakar Pemadaman Digital"
+     "t": "Did Chase Bank Get Hacked? Firm Confirms Vendor Cyberattack Unrelated to Outage",
+     "src": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkh0YVhoajNvY0VwMjREMUdhWjFNank4d2RxVlphd0lVMHBEWFhJTU1LS1Mtdlo0ekN3U2NCTDBlcXpLSTZjT3E5NjRFSWlEamF6SFhncFlncjdDTUpscmpBU3hNLVNqaDdDNlNSTjZpa3g5eXd6NHA4WWxRMy1aU0lFdTZlVmxPT1IyYjQyWlJxdEZ0ZXFsZHZDNk9PRUdPYmxSem12SmlfNl9Kc3pQT0d6ckh0ak9UX1llVFZkSXhPQXZCY0FtMXY1VnRsbzg?oc=5",
+     "t_id": "Apakah Chase Bank Diretas? Perusahaan Mengonfirmasi Serangan Siber Vendor Tidak Terkait dengan Pemadaman Listrik"
     }
    ],
-   "title_id": "Pakar Michigan mengatakan sistem digital yang menua perlu ditingkatkan setelah serangkaian pemadaman listrik secara nasional"
+   "title_id": "Chase Mengatakan Pelanggaran Data Baru Tidak Terkait dengan Gangguan Perbankan"
   },
   {
-   "id": "siber-202611192034-f9bb",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-19T20:34:02Z",
-   "last": "2026-11-19T21:56:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-     "src": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1UWkp5QmtjYW0wNmgzMm04Y295STZlSUdvQ3FwYzhoV01XY3R4S04xLUFPbnFpU0c1SU9iekhxNXlMZE4tS1FRSnRkeDBmSlVRcGZwc2FEOU80US1hZzZ5M2UyalFjZEE0Zmd6cjc3U1MxTzJfdFFtaXJEa1M3UnZJU1V3aVh6YXF0c3BVVkxDMmZtb1lPaHBNM0NIY2g0OUpOQW9tcW0?oc=5",
-     "t_id": "Data Pelanggan Visa, Mastercard dan JPMorgan Dibocorkan oleh Peretas"
-    }
-   ],
-   "title_id": "JPMorgan, Visa, Mastercard mengatakan vendor pihak ketiga menjadi sasaran serangan siber"
-  },
-  {
-   "id": "indonesia-202611190944-b278",
+   "id": "indonesia-202611191445-9d4a",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Video Demo Tolak Gibran Mundur Ternyata AI, Bagaimana Mengeceknya?",
-   "src": "Tempo.co",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkU2VkhWdnRHem1LS01WVVRzSjI1QUIweTdlQkRyVWNGMF9LTGpjaWo1ZmVuYUxrR2hsVUxGOGgyUGZlNDM1S3lESkw5RUpIOXNsM2FlRlNnV2dwWEZ1enNmenpDYU9BTmdMbFlsSWZ2QTNMQjFkM2tlMEFBYllXVzFXal9HWUpFWWN6N3ZCbVNJc3VUVWl0eS1YT0QtRVo1dFZ6aXRoYk5vVUdW?oc=5",
+   "title": "Demo Setahun Pascabencana, Koalisi Desak Pemerintah Percepat Pemulihan",
+   "src": "IDN Times Sumut",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGlmNnJ2T2RMQ1Q1YktqSkhnSGZvaGRITmNkZHJNNkt2eEhIb3ZTMXNXQTZDTFUyOEgzUmNrajlfUTBRYTUxeG5YU3NqVVUxZ01ZZnNscWx2Qmo1YTJ6Qk5GWFQ4Vnliak1Za1NseloxVGZiOFo1YkJOTUJfVkNkVVBEal82MFZGa1lLYW1Ecl9ENnhXZ0Nub2tyZ2t4N1k3S2FoWFF1ZGh1VlU3aTJnaWxrTGxlcC1wbzhIYXhzcWtsalZUVnRyUGY0UdIB0AFBVV95cUxNVDZsczFKbkZTTVdTSWJJM1BjeHV0UTZhUi11RllZd1JkdEhPMnRYbHBfcnkxbjNheGhuXzBEUzNSX09sQUZaMzRtUkw3cng0c1NUQWE0anZMQUVHREZHeUNPMzM2MGVYS3pES2RnWkpmYjVvZXg0Q2IwZjJEc01CUzRVZlBsX2VZX3dnMjl3SlVDemdxMHFmZm5OR291cm9EVXJLTWNNWUplTDFoSUJSQzRHa0x0NnplbDlfZ1N1X0N5TkZZOWllRko3NmxVZmZt?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-19T09:44:00Z",
-   "last": "2026-11-19T09:48:04Z",
+   "first": "2026-11-19T14:45:00Z",
+   "last": "2026-11-19T16:15:00Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Video Demo Tolak Gibran Mundur Ternyata AI, Bagaimana Mengeceknya?",
-     "src": "DW.com",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczNxVTlOMzRFWm9vb3RHbVhTM0o3LUtiNS00M096cmRIeFBhOWdxeVdka0hqc3JsanY1U0ppZ283WHZlbmlXWWZfd1hwWFdETkgzQW5FejE5blJORmJUOW1DQW9UblNVSThEcjFzYkUyTXMtMEpBSVRudDcyRDdZczBrUUtLZ1ZHR0FYX0dUdTdkSDl1WF9fcFU5eHh6d9IBngFBVV95cUxOczNxVTlOMzRFWm9vb3RHbVhTM0o3LUtiNS00M096cmRIeFBhOWdxeVdka0hqc3JsanY1U0ppZ283WHZlbmlXWWZfd1hwWFdETkgzQW5FejE5blJORmJUOW1DQW9UblNVSThEcjFzYkUyTXMtMEpBSVRudDcyRDdZczBrUUtLZ1ZHR0FYX0dUdTdkSDl1WF9fcFU5eHh6dw?oc=5"
+     "t": "Banjir Berulang Terjang Aceh dan Sumatra, Pemerintah Percepat Pemulihan",
+     "src": "Enamplus",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUtCa1lhZzVDQl94UVY1LV82Q3dTdXVIQ1ZhQ1NQU1hhb3NpbHM1d2s0OTBjcUhoVHlhQ3loRGl1aVNuWUNZMXlmT0R1RWxsMURTQ2lubFVPOGhOX3RKTzhSVURIYWF4OUtaTThKN3VQcnJ0M1ZEQVpCSktDaHRYbDZ6YzFRTElnb1JaWDV4UG1IZ3ZFWU9zQmRsRm9hME5PVklraTJDQjJLRXV1cFhvX2pn?oc=5"
     }
    ]
   }
