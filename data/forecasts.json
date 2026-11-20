@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T00:09:29Z",
+ "updatedAt": "2026-11-20T18:58:43Z",
  "note": "Setiap prakiraan adalah rentang skenario dasar. Dicek otomatis saat jatuh tempo memakai harga penutupan dari data/market.json.",
  "items": [
   {
@@ -153,6 +153,17 @@
    "key": "ihsg",
    "low": 4736.0,
    "high": 5816.0,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-20-1b-spx",
+   "made": "2026-11-20",
+   "due": "2026-12-20",
+   "h": "1b",
+   "key": "spx",
+   "low": 6830.0,
+   "high": 7450.0,
    "status": "open",
    "actual": null
   },
