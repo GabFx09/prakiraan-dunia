@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-20T19:09:16Z",
+ "updatedAt": "2026-11-20T19:24:12Z",
  "source": "Google News RSS",
  "items": [
   {
    "topic": "bank-sentral",
    "lang": "en",
-   "t": "Fed’s Paulson Argues for Deliberate Rate Hikes to Tame Inflation",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzNrVGozWDhWTXBGWDE1dEt5SlgtZElGUWtERk03U3ZrQ1g1aXg1dUpWZ1ZkMUJsdFNwZ3lSeGNKTDNkajMyZEVOWHA2anFINmJYWHUzY2FUMk9vZ0pxcEJjS3Q1OWpnYzV1VnRZaWJtaDZLWThERzhoenZvbUdzMlFtUzluSDNkNXpteDZzQTl1NDNnbjgwR3dXaXpIYnlIQ1dDYmtEdW5XT0ZDY1MyWGQ5Y2U1UQ?oc=5",
-   "time": "2026-11-20T18:25:23Z",
-   "t_id": "Paulson dari Fed Berpendapat tentang Kenaikan Suku Bunga yang Disengaja untuk Menjinakkan Inflasi"
+   "t": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
+   "time": "2026-11-20T18:23:00Z",
+   "t_id": "Gubernur Fed Lisa Cook Mengatakan Perbedaan Pendapatnya di Bulan Oktober Mencerminkan Urgensi Perang Inflasi"
   },
   {
    "topic": "kripto",
@@ -30,6 +30,15 @@
    "t_id": "Saham AS anjlok, dan S&P 500 anjlok karena aksi jual saham AI semakin cepat"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "The Fed - When productivity booms, do interest rates rise?",
+   "src": "Federal Reserve (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnR1TWFnV05TSXZJdTFwZE0yZlpCNi1lZU8zYTVDdGlqQS1TZjF3ZHJjWXF1NFhXT3EyQ2RUR0JIUEwxWUtXNUktQUNfUldwZEJtNnlKX3BpRkRVNTJDbk8tNEJsT011dWFXaXRQMUdqbEt2STQ3NUVZRm9UbkNYRVU4YWtTa0lKVnJabHlxT0k3ZTJ1cDEyR1Z2UVNnRk5RZlZSTXpHMnFkTS1pNmJ1UlozSWc3eEE?oc=5",
+   "time": "2026-11-20T18:06:28Z",
+   "t_id": "The Fed - Ketika produktivitas melonjak, apakah suku bunga naik?"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "S&P 500, Dow on track for correction as Anthropic retreat weighs on AI stocks",
@@ -37,15 +46,6 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
    "time": "2026-11-20T17:42:48Z",
    "t_id": "S&P 500, Dow berada di jalur koreksi karena kemunduran Antropik membebani saham AI"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
-   "time": "2026-11-20T17:41:00Z",
-   "t_id": "Gubernur Fed Lisa Cook Mengatakan Perbedaan Pendapatnya di Bulan Oktober Mencerminkan Urgensi Perang Inflasi"
   },
   {
    "topic": "china",
@@ -218,6 +218,15 @@
    "t_id": "AS menargetkan transfer kapal-ke-kapal Iran: Bisakah Teheran mematahkan blokade?"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "Why would the Fed consider a half-percentage-point hike in December?",
+   "src": "Marketplace.org",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFJCMzFkYTV3Q1hIU3NkRG8tQnFhLTBrcF9NT2hNVmhsQ0dhUVFmdkVXQmg5SVlZSGZiaHM4NXNza2lXVnEwWHhWbU9tb0RWa2ZUSWVSZVg2bUpjaTlnZUdPUGxxMUNQcTgxRVFIcGVHS01XdVhlVk1JalJ6VzN4WHBINmQwRHdJMmZLRnZjRk9KRUFYMk5BVjhkbnRDZG1NM0NGbkxfYXNVUQ?oc=5",
+   "time": "2026-11-20T13:27:00Z",
+   "t_id": "Mengapa The Fed mempertimbangkan kenaikan setengah poin persentase pada bulan Desember?"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "S&P 500 +1.9%, Nvidia -6.4%: Why Stocks Split [2026]",
@@ -368,6 +377,15 @@
    "t_id": "APEC 2026 di Shenzhen: Apa Arti Pertemuan Para Pemimpin dan Pembicaraan Trump-Xi bagi Bisnis"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "A ‘Shock’ Rate Hike by the Fed? In This Economy?",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1N1UEpzQUo3X0NFTW1tdEhiWlRtQzFzVEdCa1R4V1hJbjc4VUo4cWxZdHZEdHVUT0JZWkIyMHdfSThfVUNPeFRKanpxTndYTnA2d1BwN0hyVWtCamhiYVRMYW1qTWxNMDkwa1ZMcF9pY0xWVHBxUDBrTWItX2trcTZxOHZiOWhGVVBSLWZNREh0QVJBRFhONThHRUs0WHhpNmZhTlFlSEJoaWRzU04xRzJKS0ZCYjFvSkZ0dQ?oc=5",
+   "time": "2026-11-20T10:00:02Z",
+   "t_id": "Kenaikan Suku Bunga yang 'mengejutkan' oleh The Fed? Dalam Perekonomian Ini?"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI Rate Terbaru: 3 Hal yang Perlu Kamu Tahu",
@@ -399,15 +417,6 @@
    "src": "Pasardana",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODhHZndxNnZvbENOR3ZLYUhjUGRRR1poTjdhQjZoVHQ3QzBsaGdsSHR0WUhoT2dFS3lrZWw0VXFOZ1Jtdjk0MFZadXo2TVZNaWxhU2RNV3UtdDlBaXJpdFVCMHVYUXJERDVQRG41TzBjSG55cGgteTdoSnRDb2ZJYWg3T2g3Wmh1V3ZXaEt6dUJLRHBULVVjU2ZwZzA?oc=5",
    "time": "2026-11-20T09:32:00Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Policymakers want rate hike but disagree on pace",
-   "src": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLenkzRHR2cnQwLVFSSFBrY2RhT0ZNbk1UZzdRSmFyQVhSa1UwN0w0WThGQ19aNGNOcnQ4YzhBRGkxZXFucjZpa2ZkMGwwcTRGNjMwQ2JFVmFoTVp0Q2Etdks2YmpWNU9JaTRSYi1TYw?oc=5",
-   "time": "2026-11-20T09:26:50Z",
-   "t_id": "Para pengambil kebijakan menginginkan kenaikan suku bunga namun tidak sepakat mengenai kecepatannya"
   },
   {
    "topic": "indonesia",
@@ -518,14 +527,6 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUZBUktmQ1gyNmZnWXNoX29BOGR4ZHhITmltX0pwMVJudmtWWUlJTC1SeUNQVjN4eV9fOHMxNzBXSG1JdzRLdTFjRUZ4U2pKaFhYbXdIbUhKcVlxOFljU3YwX29GMm54YVZLcktGUDhsV0pYZ0xySDd2SUM1RTFVQmlWUlY5eHowY3N0aktaVjlkVGpsN0o5UWlGVkRlcjlYZFRlS2ZNU3V4S3JTeDlrLU9LeDdFYVU?oc=5",
    "time": "2026-11-20T06:05:08Z",
    "t_id": "Pasar Saham: Akankah S&P 500 Dibuka Naik atau Turun Hari Ini? - Kepercayaan ETF State Street SPDR S&P 500 (ARCA:SPY)"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG Jumat dibuka melemah 41,98 poin ke posisi 5.152",
-   "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeGRsWVZ2bFNDZFRidUdzT29oaHZFSC12Mm9aS00xYlU0RXZJUUd2MnFCalZUWWk1Q2J1OUt6eGluQ29rWWJvaGVIMjZrbF9rcE1JVVRLVDhfVk5RUzB5ZUNRc3p1YjkwUkV1OVRQYTN4X3pudXFoLUFZc1NIaUpBWkQxTXJEY0FVUndoMzlUVVd1bkk?oc=5",
-   "time": "2026-11-20T04:27:34Z"
   }
  ],
  "errors": []
