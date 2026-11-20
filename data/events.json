@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T14:16:02Z",
+ "updatedAt": "2026-11-20T14:30:48Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
    "src": "The Guardian",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZVRXJNQ1h2Z3Q2VzhYNjRCSF9TRUQ1dlA5cnJHcGNVZVFtOExfS2tXSF91UGE0U3V3djRERGdPc1dSZXUxSmxoZEpvckxDVGFYQ2RmODJYd1BRcXBhNGV1QlllSGgtREFmTjg3VzVOTEpZRWlHQWFCTFlMU2RwZVpFaXVfV2lINlg1NjJfTDdNZU1GOEE?oc=5",
-   "sources": 19,
-   "recent6h": 13,
-   "score": 25.5,
+   "sources": 20,
+   "recent6h": 12,
+   "score": 26.0,
    "level": "besar",
    "first": "2026-11-19T13:22:15Z",
    "last": "2026-11-20T13:24:51Z",
@@ -25,6 +25,11 @@
     },
     {
      "t": "Russia launches massive missile and drone attack on Ukraine, killing at least 8",
+     "src": "Tampa Bay 28",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHpwTUpCTDVmb1lfVHhjdDlDbmVSRm8xaHVVQ2MtU1loaDNtWXJrX3hfYm1tdnRtSS1Gb29BODRNSFQ5WkRsWFFrbjM0YWgyNHN3TlZFZGZLQmV0NHpBRGxRUmxVa3QwNF9CZ1NLbVRhY1BRcjFRTW1iNE93eU1LWjhlU21oZFhmTWl5NHkySENMZTZ4MGdvZGt4RGJ5TGluQXY4eFZ6MkpaUV9OLWRIa0Ftdk94eWNLcXc?oc=5"
+    },
+    {
+     "t": "Russia launches massive missile and drone attack on Ukraine, killing at least 8",
      "src": "KPAX News",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZW5Hb0VYZHVtRVRkVUFMLXdGZjR5Y3BtalQ1TEtOTHo0OEdPak9OMkhrOE5tMlJMd1Bpeml5a3FWWnN6MDdQLV9XLTR2RlZsM1l1NDM2dXlXNU1weUhHcENTVFEzZm9FdGxhZVFyeUNXc2RjS0MyRGZPRFB4aC04QUl4dTdEQXlLRHRBQ2hra0VjQkVLVGJYeFZiTkFNUmwta1VoSUJTSHBUMG85eG8zcUZ3?oc=5"
     },
@@ -32,12 +37,6 @@
      "t": "Russia launches massive missile and drone attack on Ukraine, killing at least 8",
      "src": "Scripps News",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFRBdWx6M25CRHVCVmlYNGpyNVpUY0RNTDdiT2plSUFwTHdjcHdrV1VJYkFzN2Y4TzhrVmV5X0ZobHBvX0Z2UVhGS29lUzFBclhiQm16TG01cEtPaElrWDlyZThZM0JiUEdrTnRfZDFZMmRZNDZQT0FXTGtnamdLQWk2NDBFelRnRnRxQUhRakd3ZUpqeFFibmFsZXFqY1lhYXQ3SllrNW1ZMHVzRW5FOEZ0RGZrMHBqQVFOcXItOA?oc=5"
-    },
-    {
-     "t": "Russian Kh-101 missiles and jet-powered drone crash in Poland during major attack on Ukraine",
-     "src": "EUalive",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWg2OHFoUWpoV3VLclpGOGgtMWZTUktsOC1NWXNBeTJXUWdvNEhvZkl3Z3N6WUwtZlZfaHQ3ejBkNWNwVVBpQVNEd3FhLThhdHhRYllXUnNic3hYV3hYWHgteTRtNU1IQm16RVJ1cXc0SWFEVkptWThDNXFYZlBVd1ZjMXBGQ0ZXTDlmXzB4X2ROdWptaEVNMUtPQkNmcTEyM1pEWXdPRnpwa0hiM2N0Nk0xbw?oc=5",
-     "t_id": "Rudal Kh-101 Rusia dan drone bertenaga jet jatuh di Polandia selama serangan besar di Ukraina"
     }
    ],
    "title_id": "Rudal dan drone Rusia dilaporkan menghantam Polandia selama serangan terhadap Ukraina"
@@ -116,70 +115,6 @@
    "title_id": "Rusia membalas serangan Jembatan Krimea: Menembakkan 400 drone, 110 rudal ke Ukraina, 8 tewas; Putin memperingatkan..."
   },
   {
-   "id": "perang-202611190848-c19d",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Ballistic missile and two drones intercepted in southern Saudi Arabia amid military escalation",
-   "src": "جريدة القدس",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcm5fVV9TLWhtTnNvY2NNdDFVWTBWSHE0NkVxSTBGRzFZTWtMVjNoSjViVGM0czFoLTFJMldDZDVzbTR0VFEyaUc1NXJVTmQ1UThfaFZfd2pBN0dQRE0yWkZlN2RvVzRwQ1AzQW5PR0RzTVZybnZ0ZXNuWjdFbWVkWVRrdXJFY2k4MHJHNkhlT1YwZThMX0g2bU5kYmN1X05lSlpmcDliYjRhaHpTUUE?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-19T08:48:49Z",
-   "last": "2026-11-20T10:18:22Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "UPDATES: US War on Iran, Day 267 — Houthi Missile Attacks on Saudi Arabia",
-     "src": "EA WorldView",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
-     "t_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-267 — Serangan Rudal Houthi di Arab Saudi"
-    },
-    {
-     "t": "Saudi Arabia intercepts Houthi missile, drones over Jazan, Abha, Khamis Mushait",
-     "src": "The Jerusalem Post",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wVEF5UkhIVzBqZlBhZlB4ZUFPdzk3dGdBREhtUnVybmxKb1N0NFVjS0hnc2NOaGlJTGJGeW5BSUc3aWxqYVd0WGFCMzhrdTlrc1hpZVNsd1A2Q2JO?oc=5",
-     "t_id": "Arab Saudi mencegat rudal Houthi, drone di atas Jazan, Abha, Khamis Mushait"
-    }
-   ],
-   "title_id": "Rudal balistik dan dua drone dicegat di selatan Arab Saudi di tengah eskalasi militer"
-  },
-  {
-   "id": "indonesia-202611200037-9c50",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Lucky Hakim Tanggapi Demo di Rumah Wakil Bupati Indramayu",
-   "src": "Liputan6.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVNKNWo5V2pQVlVpdHRHaHVNQmdMcGh1c0hxMl80b3VQVnZ6NE5ycmZONmh1ZkY2R2h0XzZreDRTc0lidjdZNS1GTFdzUFVUZjRublhma2lfb09iOHVvUnZzS3czTGNIUS1tUS1xOS1QNlExWXF4ejlobExJckdOcVV4bFd1d2RDTDhlZFFIR2ZQU3M1SG95M2UxNXY5NzZYcmRxdXl30gGaAUFVX3lxTE9UZHQ2MFVjdW1YU3FyLVdoVE5QZEY3OVpaSHRPVlp6UWhPVGtaRjN6aGV6Z1VtWW5Za2ROcEQwb1J2b0FLd0xTclhleEpKVEh6R0d1MWxYZGpsQlNwOGoxZFh0aW1mYWY4S19nZzhXT2dmVlF0MURvRzgxazBmUi1CSFlnbjEtbklSZnN3UHV5ZTlJNnNQa3daQmc?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-20T00:37:20Z",
-   "last": "2026-11-20T04:24:54Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Lucky Hakim Tanggapi Aksi Demo di Rumah Wakil Bupati Indramayu, Minta Warga Ikuti Prosedur",
-     "src": "KapanLagi.com",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUtqdnpHNzRzZW1uVVUxZXFnWjQ3MEk3MlNsUlp6dWpsOHMxVjBQQ2pseFZUY2d5Q2tTUy1rUU9zdDhXUTRvVUhXQndQRzdrRjdGM3Y0S3pjd1A4WkREWmhreElxLTV2V2Zyd0U4a040ejVVVFZKeXYybVZyUFk2b1FlUlpuVzh1MllRSTFIUWp5SHFpelFNUlJ6NDI0eGNJRnJtbldtbFNXLWFaS1V1V0RqazhndW1rTzV2d3d3Q2ptWW9Wb3M3ZzVjZmU5WXd3NEU3REJRcEZFb1lvcUHSAeMBQVVfeXFMUDc5MXJWZnppY25lRElCYnA1TS11LU5mZ3lqREZucDk2bEg2TTV2T1o0OWF4SVRPMjhlam1jSDNVS3JybzcxUEJaR1NfNUE2N0dNc1QyUXRuUGJWSndsS1hTRjBqc1Yzdk5ITmJjT2hxUWVZbExtTlRFaVpDVEVsTm9iTkZBTlptTjJhYmdiT3FNVEdZdHRmQWZmZGlRVTdCOWZoT0N3UjFuSXIzU2JpemtTR1E4QTE3QkVwXzk5OG90SzZmYzBxYzVwYmxYbjFVY0xsNVBsSUpTYm1KcGtvcTRpeGM?oc=5"
-    },
-    {
-     "t": "Respons Lucky Hakim soal Demo Desak Syaefudin Mundur dari Wabup Indramayu - Halaman 2",
-     "src": "Pikiran-Rakyat.com",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWEt6NFU4WXdVOElIT1RwQ012QVYzbU1ERFJqcWtYYmpOdzd4d1Nod2hrWUlIUk1Kb0FKSE1QbnpkVUk0M1FqM3doaG1VWG1vQTJrTWdPcFlKdVIwSExPUW82M3hEWG56WC1ieE1VNzc4bDREQnNqVlAtTW5tOUMtRlpod3J6WnZSdkRnR2tLT0RBdllrblVPalZZYnF4SnU5VUZ3VW55TWphUENQb1l5U2pLZWF5UFRnRkhfbndMYkstdGNPT0tPbWNn?oc=5"
-    },
-    {
-     "t": "Respons Lucky Hakim soal Demo Desak Syaefudin Mundur dari Wabup Indramayu",
-     "src": "Pikiran-Rakyat.com",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3YxTG52NS02elZYakgyOWNpZmxvVDEzcXBQQ2JJQlotbEZuWS1RLVdVaGVmV2VKQVpHc1M4SFNhQ3NVY2dDbkFVMzJNRHF6S1Jyb3MwT2ZfLW1wVi1BcUF0SjhENGczVFhlOFVOcHNrNnVuWXphUXJrb3k1dldyVHpmR2JSSElwVkQ5VU84SHQ2Q2FoeTVZNVNWRW9xeXB0bURzdDFOOWlhNWI5U2Q5THJFaVUtSVQ2WUk3Z1JKcWY?oc=5"
-    }
-   ]
-  },
-  {
    "id": "perang-202611200239-c565",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -205,6 +140,31 @@
    "title_id": "Lviv hancur setelah serangan rudal dan drone Rusia yang mematikan — foto"
   },
   {
+   "id": "perang-202611190848-c19d",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ballistic missile and two drones intercepted in southern Saudi Arabia amid military escalation",
+   "src": "جريدة القدس",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcm5fVV9TLWhtTnNvY2NNdDFVWTBWSHE0NkVxSTBGRzFZTWtMVjNoSjViVGM0czFoLTFJMldDZDVzbTR0VFEyaUc1NXJVTmQ1UThfaFZfd2pBN0dQRE0yWkZlN2RvVzRwQ1AzQW5PR0RzTVZybnZ0ZXNuWjdFbWVkWVRrdXJFY2k4MHJHNkhlT1YwZThMX0g2bU5kYmN1X05lSlpmcDliYjRhaHpTUUE?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-19T08:48:49Z",
+   "last": "2026-11-20T10:18:22Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "UPDATES: US War on Iran, Day 267 — Houthi Missile Attacks on Saudi Arabia",
+     "src": "EA WorldView",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
+     "t_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-267 — Serangan Rudal Houthi di Arab Saudi"
+    }
+   ],
+   "title_id": "Rudal balistik dan dua drone dicegat di selatan Arab Saudi di tengah eskalasi militer"
+  },
+  {
    "id": "indonesia-202611191618-156d",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -228,25 +188,30 @@
    ]
   },
   {
-   "id": "indonesia-202611200302-b275",
+   "id": "indonesia-202611200037-9c50",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Tuntut UMP Jatim 2027 Rp 3,7 Juta, Buruh Akan Demo di Kantor Gubernur",
-   "src": "Kompas.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclAyMm8wSWNRTEdweDdlcGc0Q3h6RHBHRi1oRHA0LVNCakh2b3dYd2ZaQ3VzNjVZU1hscXJBMTFoSzNwbEN5LVVHcGpXZWFnSFVmbmlpNlRQMGdDQnM2ZWNSZHh5N19vekpNM0wxN3M4RUkwdEFlY0FjRlpybVdTNGtRRHZsYVVjNy1uV0tVUjlZQUk2eHBRSjZZWXhFOUVUbzBrbUgxeHA1ai1qT0ZMV1laSy0xZXhBRV9fY0J3?oc=5",
+   "title": "Lucky Hakim Tanggapi Aksi Demo di Rumah Wakil Bupati Indramayu, Minta Warga Ikuti Prosedur",
+   "src": "KapanLagi.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUtqdnpHNzRzZW1uVVUxZXFnWjQ3MEk3MlNsUlp6dWpsOHMxVjBQQ2pseFZUY2d5Q2tTUy1rUU9zdDhXUTRvVUhXQndQRzdrRjdGM3Y0S3pjd1A4WkREWmhreElxLTV2V2Zyd0U4a040ejVVVFZKeXYybVZyUFk2b1FlUlpuVzh1MllRSTFIUWp5SHFpelFNUlJ6NDI0eGNJRnJtbldtbFNXLWFaS1V1V0RqazhndW1rTzV2d3d3Q2ptWW9Wb3M3ZzVjZmU5WXd3NEU3REJRcEZFb1lvcUHSAeMBQVVfeXFMUDc5MXJWZnppY25lRElCYnA1TS11LU5mZ3lqREZucDk2bEg2TTV2T1o0OWF4SVRPMjhlam1jSDNVS3JybzcxUEJaR1NfNUE2N0dNc1QyUXRuUGJWSndsS1hTRjBqc1Yzdk5ITmJjT2hxUWVZbExtTlRFaVpDVEVsTm9iTkZBTlptTjJhYmdiT3FNVEdZdHRmQWZmZGlRVTdCOWZoT0N3UjFuSXIzU2JpemtTR1E4QTE3QkVwXzk5OG90SzZmYzBxYzVwYmxYbjFVY0xsNVBsSUpTYm1KcGtvcTRpeGM?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-20T03:02:00Z",
-   "last": "2026-11-20T04:51:05Z",
+   "first": "2026-11-20T00:37:20Z",
+   "last": "2026-11-20T04:16:00Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Demo di Balai Kota, Buruh Minta UMP Jakarta 2027 Rp6,2 Juta",
-     "src": "IDN Times",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY25ieFJKNHVsVHFLQXllWUNNMnNRRzEtR0pfR2ctQ2pmRXlfQk5SeDlzR3VwM1JXM1RUMjJHMWViLWVYRW5idEdkZWJhUk5JZ3ZKWENrVUVicU1pbm1GOFctZGY4WkpEVW5VcXFyYTJxVnFlSWdUa0xsX2xsNmNBQmM2WHV0eF9ZcEtOODFrMkIzdmlFeUtSUHMyeVRyNi10QndYang3X1BFS2ZtaUpoYWRodGTSAboBQVVfeXFMTUk1T0dQZFFLVmFaZXFZTnp6VWV3QWtpV01wUlVEenJmTm5jTm1mRUR6SXBKa3h1MzdqNEhXTVRHMTlBZTRnTGFscGZ0eVcyQVdoOEVnamN3WEI4RktzRjlJMTExa0tZQ3BVN2FnZTU4NWpIQmlDNzNfWWl5V0h1SVVueHBJUUVTc05SLUJMS21GbGVLNUNhbjZLbHk4RjZJb04zSzhEX0pldHloMGhicTdhcHN6YV9CSGFn?oc=5"
+     "t": "Respons Lucky Hakim soal Demo Desak Syaefudin Mundur dari Wabup Indramayu - Halaman 2",
+     "src": "Pikiran-Rakyat.com",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWEt6NFU4WXdVOElIT1RwQ012QVYzbU1ERFJqcWtYYmpOdzd4d1Nod2hrWUlIUk1Kb0FKSE1QbnpkVUk0M1FqM3doaG1VWG1vQTJrTWdPcFlKdVIwSExPUW82M3hEWG56WC1ieE1VNzc4bDREQnNqVlAtTW5tOUMtRlpod3J6WnZSdkRnR2tLT0RBdllrblVPalZZYnF4SnU5VUZ3VW55TWphUENQb1l5U2pLZWF5UFRnRkhfbndMYkstdGNPT0tPbWNn?oc=5"
+    },
+    {
+     "t": "Respons Lucky Hakim soal Demo Desak Syaefudin Mundur dari Wabup Indramayu",
+     "src": "Pikiran-Rakyat.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3YxTG52NS02elZYakgyOWNpZmxvVDEzcXBQQ2JJQlotbEZuWS1RLVdVaGVmV2VKQVpHc1M4SFNhQ3NVY2dDbkFVMzJNRHF6S1Jyb3MwT2ZfLW1wVi1BcUF0SjhENGczVFhlOFVOcHNrNnVuWXphUXJrb3k1dldyVHpmR2JSSElwVkQ5VU84SHQ2Q2FoeTVZNVNWRW9xeXB0bURzdDFOOWlhNWI5U2Q5THJFaVUtSVQ2WUk3Z1JKcWY?oc=5"
     }
    ]
   },
@@ -274,29 +239,6 @@
     }
    ],
    "title_id": "Chase Mengatakan Pelanggaran Data Baru Tidak Terkait dengan Gangguan Perbankan"
-  },
-  {
-   "id": "indonesia-202611191445-9d4a",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Setahun Pascabencana, Koalisi Desak Pemerintah Percepat Pemulihan",
-   "src": "IDN Times Sumut",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGlmNnJ2T2RMQ1Q1YktqSkhnSGZvaGRITmNkZHJNNkt2eEhIb3ZTMXNXQTZDTFUyOEgzUmNrajlfUTBRYTUxeG5YU3NqVVUxZ01ZZnNscWx2Qmo1YTJ6Qk5GWFQ4Vnliak1Za1NseloxVGZiOFo1YkJOTUJfVkNkVVBEal82MFZGa1lLYW1Ecl9ENnhXZ0Nub2tyZ2t4N1k3S2FoWFF1ZGh1VlU3aTJnaWxrTGxlcC1wbzhIYXhzcWtsalZUVnRyUGY0UdIB0AFBVV95cUxNVDZsczFKbkZTTVdTSWJJM1BjeHV0UTZhUi11RllZd1JkdEhPMnRYbHBfcnkxbjNheGhuXzBEUzNSX09sQUZaMzRtUkw3cng0c1NUQWE0anZMQUVHREZHeUNPMzM2MGVYS3pES2RnWkpmYjVvZXg0Q2IwZjJEc01CUzRVZlBsX2VZX3dnMjl3SlVDemdxMHFmZm5OR291cm9EVXJLTWNNWUplTDFoSUJSQzRHa0x0NnplbDlfZ1N1X0N5TkZZOWllRko3NmxVZmZt?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-19T14:45:00Z",
-   "last": "2026-11-19T16:15:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Banjir Berulang Terjang Aceh dan Sumatra, Pemerintah Percepat Pemulihan",
-     "src": "Enamplus",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUtCa1lhZzVDQl94UVY1LV82Q3dTdXVIQ1ZhQ1NQU1hhb3NpbHM1d2s0OTBjcUhoVHlhQ3loRGl1aVNuWUNZMXlmT0R1RWxsMURTQ2lubFVPOGhOX3RKTzhSVURIYWF4OUtaTThKN3VQcnJ0M1ZEQVpCSktDaHRYbDZ6YzFRTElnb1JaWDV4UG1IZ3ZFWU9zQmRsRm9hME5PVklraTJDQjJLRXV1cFhvX2pn?oc=5"
-    }
-   ]
   }
  ],
  "errors": []
