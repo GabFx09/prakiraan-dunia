@@ -821,6 +821,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 4.946
+    },
+    {
+      "t": "2026-11-20T22:05:00Z",
+      "risk": 88,
+      "btc": 58924.78,
+      "gold": 3527.0,
+      "brent": 89.98,
+      "spx": 6910.39,
+      "ihsg": 5146.326,
+      "usdidr": 18158.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1267,6 +1278,38 @@
   },
   "news": [
     {
+      "t": "Wall Street ditutup anjlok: S&P 500 dan Dow masuk koreksi 10% akibat aksi jual saham AI.",
+      "src": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+      "time": "2026-11-20T21:00:59Z",
+      "impact": "turun",
+      "assets": "S&P 500, IHSG, Bitcoin, rupiah"
+    },
+    {
+      "t": "Nvidia jatuh sekitar 12% setelah laporan SEC memeriksa isu akuntansinya; saham chip AI lain ikut turun.",
+      "src": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5",
+      "time": "2026-11-20T20:21:19Z",
+      "impact": "turun",
+      "assets": "Saham teknologi AS, S&P 500, Bitcoin"
+    },
+    {
+      "t": "Analis: emas bisa turun sekitar $300 bila level $3.500 per ons ditembus.",
+      "src": "Kitco",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1gxakxUOS1VZGh6VUEwdDhhdDAySkdGT3JQU2pUMnVXN2RiNFRHV3g1MEtsaEtfQUVVNGNPRnJTSVJiSGdVTmRFVVVGLTZhcG1jenZPb2JKYWtweUltNi1fLWlFSXVlVWFPNEU2aHlPSkNkUFQyaDEyZlAwVy1waVFZY0dtSGtGTUVUOWw4eUFTRTJ5RENUVUw4Qk9nMFJKbGNTamNHU3F6NDEydHZHU3RLMUhXb2NGd2Jz?oc=5",
+      "time": "2026-11-20T20:12:13Z",
+      "impact": "turun",
+      "assets": "Emas"
+    },
+    {
+      "t": "Negosiasi damai Hormuz buntu dan serangan terhadap kapal terus berlanjut.",
+      "src": "IndustryWeek",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
+      "time": "2026-11-20T19:07:34Z",
+      "impact": "naik",
+      "assets": "Minyak Brent, emas, rupiah"
+    },
+    {
       "t": "Bitcoin mendekati level terendah 2026 di tengah kekhawatiran bunga Fed dan aksi jual aset berisiko.",
       "src": "CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRKV3BfU3ZHQ2s5SUFweDJXRXdvdHdiaHA5R2ZjQXZzS3JpTG1ieXYwbXR1NGl0bWw0cTY5c1RMUmpseFZaTHlfVnFyWEYxd2RBY3NwNldRdDg5RU5mZWUxWl9xellrX1NUamN3MzF4dkwzYkNXcFdDdkhob3BoaFZITjM2eThQSzVvNlBXWndWREVpT0NWb2FJLU9WZzFJTnNPSUhUWGVuTW1nVmd2Z2tiWmZYVEhnX3VnYzY5ZXh2UWRoYXAweWR3?oc=5",
@@ -1329,38 +1372,6 @@
       "time": "2026-11-20T09:00:00Z",
       "impact": "turun",
       "assets": "Rupiah, SBN"
-    },
-    {
-      "t": "Militer Iran menyebut dua tanker terbakar setelah menabrak ranjau di Selat Hormuz; belum diverifikasi independen.",
-      "src": "Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVXd6VjVrZ0l3NVFkQ09oUHRMQndlZ3dUN2FteTRnUmEtZjRsNUVMZDBLWm92eUtkQ1U0bm9aRExrZWJkMlZ5QnhlbnpGdWpPQjJpVVM2RUdfWXFRUXVIdDgtUGFYaWU5Qng0RndrczhBaTVucDFHQ2pUTXg3bFNRSTJkM1gzb254U241enhSOW5mdExXUmVQV3BIMHBKLVBCak9HNkotR0ZQY3hIbGxFVHBnc3lxcl9iUHM4WU1INFQ?oc=5",
-      "time": "2026-11-20T05:03:00Z",
-      "impact": "naik",
-      "assets": "Minyak, emas, rupiah"
-    },
-    {
-      "t": "Bitcoin turun ke sekitar $61.300 setelah IPO Anthropic; likuidasi sekitar $660 juta.",
-      "src": "CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpQc3lwTkVycDlCTjk1a242TUctbGF1ZWFiY19BUG9MWWZVSG1IUWdXcm44MW03TUg4OE84ejBJZFlZVTRtM0MtR0VIR0dYLVBKcVFYQWl1WmFlZk1mM1hVSHNyMEY1RGFhcnk4Wnk1S3VhdnJYekNlbk9HMDV0RUFNVF9jcmt1dnc1YTZaQ3hBYURnU012R2dsUlZvYUhOeUc1NkFZOUNnSWZNX2E4TzJUaw?oc=5",
-      "time": "2026-11-20T03:32:00Z",
-      "impact": "turun",
-      "assets": "Bitcoin"
-    },
-    {
-      "t": "Emas menuju pekan terburuk dalam delapan bulan akibat dolar kuat dan taruhan kenaikan bunga Fed.",
-      "src": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5",
-      "time": "2026-11-20T03:24:00Z",
-      "impact": "turun",
-      "assets": "Emas, rupiah"
-    },
-    {
-      "t": "Wall Street jatuh, rentetan penurunan terpanjang sejak 2024; Dow turun sekitar 1.100 poin di tengah aksi jual saham AI.",
-      "src": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0gyWjhIVGZYS3A2TDJtbVdaZVJHdlo5Smt3RkhsMHJ2bUh6ZVlOLWE5cDhkV3hXcmFVZFRVTmgxdlJXQ3dLRWREYVljemhSVjkycmlFYzctSW44YlhybXNtOFNyYVVvMEw2bGFNSmFnMEJrd2xWMklDbHJ4RGNRNFVnX1VTNUR0QXA5V1BaRlo3Tmo2eUE3U2lCQko5c21rQVMxOGlB?oc=5",
-      "time": "2026-11-19T22:04:00Z",
-      "impact": "turun",
-      "assets": "S&P 500, saham teknologi"
     }
   ],
   "readings": [
@@ -1378,52 +1389,52 @@
     },
     {
       "c": "neu",
-      "d": "Turun 2,1 % semalam",
+      "d": "Turun 2,8% hari ini",
       "h": "ust10",
       "k": "Obligasi AS 10 thn",
-      "v": "4,95%"
+      "v": "4,91%"
     },
     {
       "c": "neu",
-      "d": "Turun 2,9 % hari ini",
+      "d": "Turun 2,2% hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$89,35"
+      "v": "$89,98"
     },
     {
       "c": "neg",
-      "d": "Turun 4,8 %, terendah >1 tahun",
+      "d": "Turun 4,3%, terendah >1 tahun",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.508"
+      "v": "$3.527"
     },
     {
       "c": "neg",
-      "d": "Turun 5,6 %, dekat low 2026",
+      "d": "Turun 4,8%, dekat low 2026",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$58.408"
+      "v": "$58.925"
     },
     {
       "c": "neg",
-      "d": "Turun 1,9 % hari ini",
+      "d": "Turun 3,7%, masuk koreksi",
       "h": "spx",
       "k": "S&P 500",
-      "v": "7.036"
+      "v": "6.910"
     },
     {
       "c": "neg",
-      "d": "Turun 0,9 % hari ini",
+      "d": "Turun 0,9% (tutup Jumat)",
       "h": "ihsg",
       "k": "IHSG",
       "v": "5.146"
     },
     {
       "c": "neg",
-      "d": "Rekor terlemah, naik 3,8 %",
+      "d": "Naik 3,2%, sekitar rekor",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.260"
+      "v": "18.158"
     },
     {
       "c": "neu",
@@ -1432,11 +1443,11 @@
       "v": "6,00%"
     }
   ],
-  "regimeText": "Aksi jual saham AI membawa S&P 500 ke ambang koreksi, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Perang Teluk dan serangan kapal di Hormuz menjaga risiko geopolitik tetap tinggi.",
+  "regimeText": "Aksi jual saham AI membawa S&P 500 ke zona koreksi dan Nvidia tertekan laporan pemeriksaan SEC, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Ketegangan Hormuz dan perang Rusia-Ukraina menjaga risiko geopolitik tinggi.",
   "regimeTitle": "Stagflasi, risiko tinggi",
-  "risk": 86,
-  "riskNote": "Risiko sangat tinggi: saham AS di ambang koreksi, emas dan Bitcoin anjlok, rupiah rekor terlemah.",
-  "updatedAt": "2026-11-20T19:05:00Z",
+  "risk": 88,
+  "riskNote": "Risiko sangat tinggi: S&P 500 masuk koreksi, Nvidia anjlok, emas dan Bitcoin turun tajam, rupiah mendekati rekor terlemah.",
+  "updatedAt": "2026-11-20T22:05:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1736,17 +1747,17 @@
     },
     {
       "k": "Valuasi saham",
-      "v": 84,
-      "note": "S&P 500 di ambang koreksi, saham AI jatuh"
+      "v": 90,
+      "note": "S&P 500 koreksi, Nvidia -12%, Nasdaq -5%"
     },
     {
       "k": "Likuiditas & dolar",
-      "v": 84,
+      "v": 86,
       "note": "Dolar kuat, emas -4,8%, BTC -5,6%"
     },
     {
       "k": "Indonesia",
-      "v": 80,
+      "v": 81,
       "note": "Rupiah rekor terlemah ~18.260, IHSG 5.146"
     }
   ],
@@ -1758,16 +1769,24 @@
       "title": "BI kejutkan pasar: BI-Rate naik 25 bps ke 6,00%",
       "body": "Bank Indonesia menaikkan BI-Rate dari 5,75% ke 6,00%, di atas ekspektasi, demi menjaga rupiah. IHSG ditutup -1,07%; rupiah, SBN, deposito dan saham perbankan terdampak.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcklSTERhZ09JZnJaRnJzZUpNVk5fSTB3Vld2Z1NOU2RwUWFaM1JYbHNBckZjcHNrQmhlMndFd3NFcVNFT1lPTDUzYk5ncVEzaFJTZnAtQXdGazJVbHRpSFc2YmhaTmVRXzFIZHlQdGtzaDlYcE41M21ZeUh6R2h5V0JGd1NvQ2gtbGFta2J5UjdHR01idVJNRHUyTFJPbzlNU2c?oc=5"
+    },
+    {
+      "id": "2026112021-wallstreet-koreksi-nvidia",
+      "time": "2026-11-20T21:00:00Z",
+      "level": "penting",
+      "title": "Wall Street masuk koreksi: S&P 500 -3,7%, Nvidia anjlok 12% di tengah laporan SEC",
+      "body": "S&P 500 dan Dow ditutup >10% di bawah puncak, Nasdaq ~-5%. Nvidia jatuh ~12% setelah laporan SEC memeriksa akuntansinya. IHSG, rupiah dan Bitcoin rentan tertekan Senin.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5"
     }
   ],
   "brief": {
     "date": "2026-11-21",
     "points": [
-      "Wall Street jatuh lagi: S&P 500 turun sekitar 2% dan mendekati koreksi 10% dari puncaknya, dipicu aksi jual saham AI setelah IPO Anthropic dan kekhawatiran kenaikan bunga Fed.",
-      "Emas anjlok sekitar 4,8% ke ~$3.508 (terendah lebih dari setahun) dan Bitcoin turun ~5,6% ke ~$58.400 — dolar kuat dan imbal obligasi tinggi menekan aset non-berbunga.",
-      "Rupiah di sekitar Rp18.260 per dolar AS (rekor terlemah) dan IHSG ditutup 5.146 (-0,92%); BI-Rate sudah naik ke 6,00%, tetapi tekanan asing belum reda.",
-      "Brent turun ke ~$89 karena penilaian pasokan, namun serangan kapal di Hormuz dan serangan Rusia yang sampai ke Polandia menjaga risiko geopolitik tinggi.",
-      "Pantau: data PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, FOMC awal Desember, dan RDG BI pertengahan Desember."
+      "Wall Street ditutup sangat lemah: S&P 500 turun ~3,7% ke ~6.910 dan masuk koreksi (>10% dari puncak); Nasdaq turun sekitar 5% dan menghapus kenaikan 2026.",
+      "Saham Nvidia anjlok sekitar 12% setelah Reuters melaporkan SEC memeriksa isu akuntansinya (belum ada temuan pelanggaran); aksi jual saham AI meluas.",
+      "Emas ~$3.527 (-4,3%) dan Bitcoin ~$58.900 (-4,8%) tertekan dolar kuat; Rupiah rekor terlemah ~Rp18.160-18.260 per dolar, IHSG 5.146.",
+      "Geopolitik tetap panas: negosiasi Hormuz buntu dan serangan kapal berlanjut; rudal Rusia jatuh di Polandia. Brent ~$90.",
+      "Pantau: IHSG Senin (risiko ikut tertekan), PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, FOMC awal Desember."
     ]
   },
   "calendar": [
@@ -1862,16 +1881,16 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWg2OHFoUWpoV3VLclpGOGgtMWZTUktsOC1NWXNBeTJXUWdvNEhvZkl3Z3N6WUwtZlZfaHQ3ejBkNWNwVVBpQVNEd3FhLThhdHhRYllXUnNic3hYV3hYWHgteTRtNU1IQm16RVJ1cXc0SWFEVkptWThDNXFYZlBVd1ZjMXBGQ0ZXTDlmXzB4X2ROdWptaEVNMUtPQkNmcTEyM1pEWXdPRnpwa0hiM2N0Nk0xbw?oc=5"
     },
     {
-      "t": "Wall Street jatuh, rentetan penurunan terpanjang sejak 2024 di tengah aksi jual saham AI",
-      "what": "S&P 500 turun sekitar 2% lagi pada 20 November dan mendekati koreksi 10% dari puncak; aksi jual saham AI berlanjut setelah IPO Anthropic dan kekhawatiran kenaikan bunga Fed.",
+      "t": "Wall Street masuk koreksi: S&P 500 -3,7%, Nvidia anjlok 12% di tengah laporan penyelidikan SEC",
+      "what": "S&P 500 dan Dow ditutup lebih dari 10% di bawah puncak, Nasdaq turun sekitar 5%. Nvidia jatuh sekitar 12% setelah Reuters melaporkan staf SEC memeriksa isu akuntansinya; ini belum merupakan temuan pelanggaran.",
       "impact": "Memperkuat sentimen risk-off global; IHSG, rupiah dan Bitcoin rentan tertekan bila aksi jual berlanjut.",
       "assets": "S&P 500, IHSG, Bitcoin, rupiah",
       "sev": "tinggi",
       "status": "berlangsung",
       "cat": "keuangan",
-      "time": "2026-11-20T17:42:00Z",
-      "src": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0gyWjhIVGZYS3A2TDJtbVdaZVJHdlo5Smt3RkhsMHJ2bUh6ZVlOLWE5cDhkV3hXcmFVZFRVTmgxdlJXQ3dLRWREYVljemhSVjkycmlFYzctSW44YlhybXNtOFNyYVVvMEw2bGFNSmFnMEJrd2xWMklDbHJ4RGNRNFVnX1VTNUR0QXA5V1BaRlo3Tmo2eUE3U2lCQko5c21rQVMxOGlB?oc=5"
+      "time": "2026-11-20T21:00:00Z",
+      "src": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5"
     },
     {
       "t": "Serangan rudal dan drone besar menyasar Riyadh dan Arab Saudi bagian selatan",
