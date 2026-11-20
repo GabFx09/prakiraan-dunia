@@ -788,6 +788,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 5.052
+    },
+    {
+      "t": "2026-11-20T12:58:40Z",
+      "risk": 85,
+      "btc": 61535.22,
+      "gold": 3570.8,
+      "brent": 89.25,
+      "spx": 7175.83,
+      "ihsg": 5146.326,
+      "usdidr": 18260.0,
+      "ust10": 5.052
     }
   ],
   "horizons": [
@@ -1345,31 +1356,31 @@
     },
     {
       "c": "neu",
-      "d": "Turun 0,3 % hari ini",
+      "d": "Turun 0,3 % semalam",
       "h": "ust10",
       "k": "Obligasi AS 10 thn",
       "v": "5,05%"
     },
     {
       "c": "neu",
-      "d": "Turun 4,3 % hari ini",
+      "d": "Turun 3,0 % hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$87,99"
+      "v": "$89,25"
     },
     {
       "c": "neg",
       "d": "Turun 3,0 %, pekan terburuk 8 bln",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.574"
+      "v": "$3.571"
     },
     {
       "c": "neg",
       "d": "Turun 0,5 %, dekat terendah 4 bln",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$61.624"
+      "v": "$61.535"
     },
     {
       "c": "neg",
@@ -1403,7 +1414,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 85,
   "riskNote": "Risiko tinggi: rupiah rekor terlemah, Wall Street jatuh, emas dan Bitcoin tertekan dolar kuat dan bunga Fed.",
-  "updatedAt": "2026-11-20T09:58:37Z",
+  "updatedAt": "2026-11-20T12:58:40Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1730,10 +1741,10 @@
   "brief": {
     "date": "2026-11-20",
     "points": [
-      "IHSG ditutup turun 0,92% ke 5.146; rupiah rekor terlemah di sekitar Rp18.270 per dolar AS meski BI-Rate sudah 6,00%.",
+      "IHSG ditutup turun 0,92% ke 5.146; rupiah rekor terlemah di sekitar Rp18.260 per dolar AS meski BI-Rate sudah 6,00%; asing jual bersih hampir Rp1 triliun.",
       "Wall Street jatuh (S&P 500 -2,0%, Dow sekitar -1.100 poin) di tengah aksi jual saham AI dan kekhawatiran kenaikan bunga Fed; JPMorgan melihat kenaikan di tiga rapat ke depan.",
       "Emas turun ke sekitar $3.574 (pekan terburuk 8 bulan) dan Bitcoin ~$61.600 (terendah 4 bulan) karena dolar kuat dan UST 10 tahun ~5,05%.",
-      "Brent turun ke ~$88, namun Iran masih melaporkan tanker terkena ranjau di Hormuz dan perundingan damai macet.",
+      "Brent turun ke ~$89, namun Iran masih melaporkan tanker terkena ranjau di Hormuz; rudal Rusia jatuh di Polandia menambah ketegangan.",
       "Pantau: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, dan perkembangan Selat Hormuz."
     ]
   },
@@ -1816,6 +1827,18 @@
     }
   ],
   "events": [
+    {
+      "t": "Rudal Kh-101 dan drone Rusia jatuh di Polandia saat serangan besar ke Ukraina",
+      "what": "Kementerian Pertahanan Polandia menyatakan dua rudal Kh-101 dan satu drone Shahed bertenaga jet jatuh di wilayahnya saat Rusia menyerang Ukraina; Polandia menyelidiki insiden ini.",
+      "impact": "Eskalasi dekat NATO menambah permintaan aset aman (dolar, emas) dan menekan sentimen risiko; dampak langsung ke Rupiah kecil namun menambah ketidakpastian.",
+      "assets": "Minyak, emas, dolar AS, saham pertahanan",
+      "sev": "sedang",
+      "status": "berlangsung",
+      "cat": "perang",
+      "time": "2026-11-19T13:05:54Z",
+      "src": "EUalive",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWg2OHFoUWpoV3VLclpGOGgtMWZTUktsOC1NWXNBeTJXUWdvNEhvZkl3Z3N6WUwtZlZfaHQ3ejBkNWNwVVBpQVNEd3FhLThhdHhRYllXUnNic3hYV3hYWHgteTRtNU1IQm16RVJ1cXc0SWFEVkptWThDNXFYZlBVd1ZjMXBGQ0ZXTDlmXzB4X2ROdWptaEVNMUtPQkNmcTEyM1pEWXdPRnpwa0hiM2N0Nk0xbw?oc=5"
+    },
     {
       "t": "Wall Street jatuh, rentetan penurunan terpanjang sejak 2024 di tengah aksi jual saham AI",
       "what": "S&P 500 turun sekitar 2% pada 19 November dan Dow anjlok sekitar 1.100 poin; debut IPO Anthropic gagal menenangkan pasar, saham Nvidia dan AMD ikut melemah, serta kekhawatiran kenaikan bunga Fed menekan valuasi.",
@@ -1947,18 +1970,6 @@
       "time": "2026-11-15T14:48:00Z",
       "src": "The Telegraph",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmpReEpXNS0wU1l5SlZqc3J1ZGQtRUF0WF9XeHgxUURQVk9VeVhtbFB5dy11VUtSaU9pZGktZmNQeEZ1cFE1eTR0NHZJaDhPT2ZZSjg4ay1PVVIwRGV4bDNjOFRWQ29qNzNlZmp1djBhUHdBUnQ3bUh1WVlHUm5iUUpCSzkxdHlUZjdvU0ZOU2JpamhOQnc?oc=5"
-    },
-    {
-      "t": "Estonia: serangan drone Ukraina lumpuhkan kapal rudal Rusia di Teluk Finlandia",
-      "what": "Estonia menyebut serangan drone Ukraina membuat kapal rudal Rusia kehilangan tenaga penggerak dan menimbulkan korban.",
-      "impact": "Eskalasi perang Rusia-Ukraina menambah risiko geopolitik; efek langsung ke pasar kecil, kecuali bila meluas.",
-      "assets": "Minyak, emas, dolar",
-      "sev": "sedang",
-      "status": "berlangsung",
-      "cat": "perang",
-      "time": "2026-11-14T03:17:37Z",
-      "src": "Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1ctcXFtZWZ5OUVTZ19iTlA5SWJEZThlTlRWVEdaWFlhazgtdmViUmNOMHg2bU14RFRZdkU5amN3VlhZWU5oRXZGRG5NV1ZfUWVzQjhuaXVaZTdrSGg0cmNVM3oxZXRlQzU0MjMzTmpRb2FmQU1WZ3FtU0UyYjE2NGNBZG0wY1NmODFWZjNpd2ZUYThJY3BYeEo4TUYtYlBx?oc=5"
     }
   ]
 }
