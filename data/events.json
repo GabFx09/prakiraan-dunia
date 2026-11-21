@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T12:44:55Z",
+ "updatedAt": "2026-11-21T12:48:34Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
    "src": "ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHFicG96NmljUi13TGl3eFlvVHRHV3FpMldnUk1lemVJM2E0MkNOdXEtTWkxR3QxWElNd1VoeFFEVk5MU3dtelJ4eHBHb29XcU1sSlRkRFgtRHg5b2hLcGx3b1ExMnR6aDBCcFV6S1BSeTAzQ185Nmd4aUJsTUNwaVRmeXMzcU5hYk5uNDhBQ1pybjR6RDdKTENYSnJ4bFlaVjVsZmtvTkhycTB0c0Q2MXRRSENKTlRGaUF0UtIBwgFBVV95cUxNSngyVTRPU1k5M01wVmtEdklZbE8xdkdCdzhSVUNrMm1CdEJ6NjNILVNhbF9NVUxkZzQ0dGk3SFZDQUZ0V01PbW5ydzFrQnhzZUJ4Wm5yUE05UjhCSlZQZ1F4bVQxS2tMYTlhWkdRMHZ5dC1qd1BrRHZkVVZucE1ZbGFuU1pQVW9Ca1VWcDdFT3lPdW9CaXNSVUF3Q3VTd21sRVk2UmpfSll1cUpNMDlJRkVpUHo1ZFlDTDlEcm1sSF9BUQ?oc=5",
-   "sources": 30,
+   "sources": 29,
    "recent6h": 9,
-   "score": 34.5,
+   "score": 33.5,
    "level": "besar",
    "first": "2026-11-20T12:36:30Z",
    "last": "2026-11-21T11:45:20Z",
@@ -169,6 +169,31 @@
     }
    ],
    "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
+  },
+  {
+   "id": "siber-202611210339-e752",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "FBI crime database and USDA reportedly hacked following week of nationwide outages",
+   "src": "Irish Star",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2EtcU4zVjhlYjFPNHpuMURvR282azhRUjF1RkVqa1BYRkl3eEFiRm02SUVycXZkdkdLRXA1QzJqMWlsb0E1WURkbUZhWGhQQmpvTFczeWxxYTVEYjdpUnhacG94SnU5d3pNcjRzT3QtOGxYU2pMdTVsQ3pwRThfYUFESE5JZVdwRWfSAY8BQVVfeXFMTU1RRnJNZFRleGl4QS1ieGdtYzhBOS1Eb2phWDkzaGwwOXZZbVZJbDBWOURsSXp0TlRDU19VMS1WQnpGaUZYLUlXZGd6Sm5YcENTWldDWjJUWTNWUXlhWGdLVGJzUDZHN0pFOGNqVDFuc0ptNmhxUkdlc0hoZnB1QUNsSnNZVkhkUWtuXzRYLU0?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-21T03:39:15Z",
+   "last": "2026-11-21T11:34:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "FBI Hacked Again: National Crime Database Targeted",
+     "src": "OFFGRID Survival",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzJwMlFlbTNCNjNJZGFzQnFvbDQ3enVhelh2dDVQYUdxdzhzSzl3VU1rNUdLS205TDI1Z2pRNWdLRjVJdGl2dkRRM1FqTUNOWkpjamR3RGpTU0JCTnJnbmNYSmRja0c5d0htRUY3ZVFJcmJIN1pvckM5bmlLSG1GQlhvUmdjUndDR01ZSFJQZ0xlcVlVUjdvTGtHd1RnVnJubVFLNnhicHQ5dDBkUy1jaw?oc=5",
+     "t_id": "FBI Diretas Lagi: Basis Data Kejahatan Nasional Ditargetkan"
+    }
+   ],
+   "title_id": "Basis data kejahatan FBI dan USDA dilaporkan diretas setelah pemadaman nasional selama seminggu"
   },
   {
    "id": "perang-202611201539-ccb6",
