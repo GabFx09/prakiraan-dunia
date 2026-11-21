@@ -887,6 +887,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 4.912
+    },
+    {
+      "t": "2026-11-21T15:57:28Z",
+      "risk": 89,
+      "btc": 59869.83,
+      "gold": 3515.4,
+      "brent": 89.95,
+      "spx": 6910.39,
+      "ihsg": 5146.326,
+      "usdidr": 18260.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1333,6 +1344,14 @@
   },
   "news": [
     {
+      "t": "Dua kapal tanker terkena proyektil tak dikenal di dekat Selat Hormuz, menurut badan maritim Inggris (UKMTO).",
+      "src": "Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWWVRM0NDRU85Tm5RZlNiNVNpamNVSlRic0VqdkVUR0ZRMzdCWThmTjQxUEV5NGRYdzZrSzVYWGZoZk9MZEg1dWNBUVR0cEdvS3VBbmoxemVseWJ4ZE44TVFSYWFYdmI3ekZWNVctWmdlOENveVpCRnNQdTJsQV9EaEhjeVl0Sm9LOW1LaXJDazEzbGdGU1hWNXRvLTRTaVpYU3VjVlZyeXRhemNySmRycHZ5cVFCV055OXhDTmVVeUtheXUwblhxb29CSDUyRHV3MXNaZEVnZldnTk5qU0lqdmN2dXh3MEJUZkRKWDFuMVhyZDNrR3V5RTM3Yl9oVFNKdmVZWA?oc=5",
+      "time": "2026-11-21T14:39:00Z",
+      "impact": "naik",
+      "assets": "Minyak Brent, emas, rupiah"
+    },
+    {
       "t": "Tanker minyak terbakar setelah menabrak ranjau laut di Selat Hormuz bagian timur.",
       "src": "WANA News Agency",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnlmaEhQZ2JDZUxqNUp4dFQyWkE3YlRXSmFxdEp1aWI0WXE3c19UTkQtTEpWeTBWbEI5TWE4R3E5TjFPYVc0ZFVsSUd2ZHFZVW12bWhVQ3EyZWdQZlBOQVY0V0FEWTNIR29xMktCdGhqRWZpTms0N0xINFBVNFZnal9BM1d3WnlobnpxeWIwRC1UZTJ6Y2U0cFg3VE01UQ?oc=5",
@@ -1419,14 +1438,6 @@
       "time": "2026-11-20T13:48:47Z",
       "impact": "turun",
       "assets": "Emas, USD/IDR"
-    },
-    {
-      "t": "IHSG ditutup turun 0,92% ke 5.146, melemah lagi di akhir pekan; asing mulai mengurangi jual bersih.",
-      "src": "CNBC Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFVPQWMxTlpxNXROSC1PckxvRHFDOWZEbjFxRno5NGdGVVZWS04tSTRTQndhVjBQUkZMYW1xN3JCSC1kS2dBcm5oQTUwV1ZrYkswamhCc2lMNW55cmdodTE1eHVPYXNJYkhHWnVER3VtMklWLWZCU0lWb0xLMmpuWWVkTk92eTB5bFZtekFpTlBxV01CWmRUeFZhVjRqM004NjdYZNIBqgFBVV95cUxNcEZpeDlWTElUcDNhTzZIbGtxRGNVLUFtUzk0Z3BfNUFJcjlGdmR2NXo3S0dyLWN1ZlR6Q3VFTkpyTm1rVFZpcVRERnc5MXNpcmNNQ3ZCa3VPV0VrZ2owczF3WEdvbXRKWm1wZWp6bkVvQUtJLXVrQ3hrZm94MEVmemdWdzJnY1RNanZ1WE8zWXFkVmU5dElCRk5WS1ozNnlZOEFJVi10aXZjZw?oc=5",
-      "time": "2026-11-20T09:04:00Z",
-      "impact": "turun",
-      "assets": "IHSG"
     }
   ],
   "readings": [
@@ -1465,10 +1476,10 @@
     },
     {
       "c": "neg",
-      "d": "Turun tipis, dekat low 2026",
+      "d": "Naik 1,8%, rebound di atas $59 ribu",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$58.765"
+      "v": "$59.870"
     },
     {
       "c": "neg",
@@ -1501,8 +1512,8 @@
   "regimeText": "Aksi jual saham AI membawa S&P 500 ke zona koreksi dan Nvidia tertekan laporan pemeriksaan SEC, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Ketegangan Hormuz dan perang Rusia-Ukraina menjaga risiko geopolitik tinggi.",
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 89,
-  "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, Bitcoin jatuh ~9% ke ~$56.500, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260.",
-  "updatedAt": "2026-11-21T12:58:41Z",
+  "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin sedikit rebound ke ~$59.900.",
+  "updatedAt": "2026-11-21T15:57:28Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1839,8 +1850,8 @@
     "points": [
       "Wall Street ditutup sangat lemah: S&P 500 turun ~3,7% ke ~6.910 dan masuk koreksi; ini rangkaian turun terpanjang sejak 2020. Nasdaq negatif untuk tahun ini.",
       "Saham Nvidia anjlok sekitar 12% setelah Reuters melaporkan SEC memeriksa isu akuntansinya (belum ada temuan pelanggaran); aksi jual saham AI meluas.",
-      "Bitcoin ~$58.765 (dekat low 2026), emas ~$3.515 (-4,6% Jumat), Rupiah rekor terlemah ~Rp18.260 per dolar; IHSG 5.146 (turun 3,7% sepekan).",
-      "Geopolitik panas: serangan di Selat Hormuz disebut tertinggi sejak perang Iran dimulai, kapal tanker terbakar kena ranjau, AS-Israel dilaporkan menimbang serangan ke Iran.",
+      "Bitcoin rebound ke ~$59.870 (masih dekat low 2026), emas ~$3.515 (-4,6% Jumat), Rupiah rekor terlemah ~Rp18.260 per dolar; IHSG 5.146 (turun 3,7% sepekan).",
+      "Geopolitik panas: dua kapal tanker kembali dilaporkan terkena proyektil/ranjau di Selat Hormuz; serangan di selat disebut tertinggi sejak perang Iran dimulai, dan sebagian pihak mendorong AS melanjutkan serangan ke Iran.",
       "Pasar AS tutup akhir pekan; pantau IHSG dan Rupiah Senin, PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, FOMC awal Desember."
     ]
   },
