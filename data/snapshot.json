@@ -865,6 +865,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 4.912
+    },
+    {
+      "t": "2026-11-21T09:57:35Z",
+      "risk": 89,
+      "btc": 57899.87,
+      "gold": 3515.4,
+      "brent": 89.95,
+      "spx": 6910.39,
+      "ihsg": 5146.326,
+      "usdidr": 18260.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1443,10 +1454,10 @@
     },
     {
       "c": "neg",
-      "d": "Turun 6,7%, dekat low 2026",
+      "d": "Turun 1,5%, dekat low 2026",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$57.755"
+      "v": "$57.900"
     },
     {
       "c": "neg",
@@ -1480,7 +1491,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 89,
   "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, Bitcoin jatuh ~9% ke ~$56.500, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260.",
-  "updatedAt": "2026-11-21T06:59:00Z",
+  "updatedAt": "2026-11-21T09:57:35Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1817,8 +1828,8 @@
     "points": [
       "Wall Street ditutup sangat lemah: S&P 500 turun ~3,7% ke ~6.910 dan masuk koreksi; ini rangkaian turun terpanjang sejak 2020. Nasdaq negatif untuk tahun ini.",
       "Saham Nvidia anjlok sekitar 12% setelah Reuters melaporkan SEC memeriksa isu akuntansinya (belum ada temuan pelanggaran); aksi jual saham AI meluas.",
-      "Bitcoin turun ~6,7% ke ~$57.800 (dekat low 2026), emas ~$3.515 (-4,6%); Rupiah rekor terlemah ~Rp18.260 per dolar, IHSG 5.146 (turun 3,7% sepekan).",
-      "Geopolitik tetap panas: negosiasi Hormuz buntu, rudal Houthi dicegat di atas Riyadh, rudal Rusia jatuh di Polandia. Brent ~$90.",
+      "Bitcoin ~$57.900 (dekat low 2026), emas ~$3.515 (-4,6% Jumat), Rupiah rekor terlemah ~Rp18.260 per dolar; IHSG 5.146 (turun 3,7% sepekan).",
+      "Geopolitik tetap panas: negosiasi Hormuz buntu, AS-Israel dilaporkan menimbang serangan ke Iran, rudal Rusia jatuh di Polandia (NATO sebut pelanggaran).",
       "Pasar AS tutup akhir pekan; pantau IHSG dan Rupiah Senin, PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, FOMC awal Desember."
     ]
   },
