@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T03:55:08Z",
+ "updatedAt": "2026-11-21T03:58:09Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,20 @@
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-   "sources": 44,
-   "recent6h": 1,
-   "score": 44.5,
+   "sources": 42,
+   "recent6h": 2,
+   "score": 43.0,
    "level": "besar",
    "first": "2026-11-20T02:39:11Z",
    "last": "2026-11-21T02:09:46Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+     "src": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+     "t_id": "Rudal Rusia mendarat di Polandia, saat Eropa mengadakan latihan militer di dekatnya. NATO menyebutnya sebagai pelanggaran"
+    },
     {
      "t": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian “provocation.” The incident came as Poland was hosting a two-week military exercise",
      "src": "Facebook",
@@ -33,15 +39,65 @@
      "src": "National Security Journal",
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdVlTczYyNzNfSk9mNkdVVk84eEFqbGZNQUdDT0xLSWNObFFOMGp0cnNWWE9KT2xIZV9XQjZzdnJxVE5FTzd3RUF3cVNic3NpUWR0V3FzMV9KNEZ0ZGgxblE0alkwSVBOZF9vdDZTNFQzQmpEOG1QaUVUSHRvZ0dVZVhKODRtdzJFTGZld3k0MGNZa1daU0ozdEZIcm5ObnFnNmo2QVBmRGpwZWVGdEdjcklsTXl5NHZDWFFkVS1GWUhxdmVnbkdnVnVIMDlYVDc5elZXRlVJeVVBMHRtSG95TC1KMzhDM3BzNS1id1FnZ0dYdTQtRGp6eTNWd0hzcHUw?oc=5",
      "t_id": "Putin Tidak Menahan Diri Lagi dalam Perang Ukraina: Militer Rusia Menghantam Empat Jembatan di Kyiv dalam Serangan Drone dan Rudal Besar-besaran"
-    },
-    {
-     "t": "Ukraine war latest: Russia strikes 3 Kyiv bridges in massive aerial assault on Ukraine, at least 9 dead",
-     "src": "The Kyiv Independent",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlqYnRIM184cXRFekZMM3o1Q2FyNDVNeGVqbW1fMHpFOWx2TktpdV85LXd0d2hOZU02VWV5LWlsYnAxM3p2VXMzQ3VwOXU3VmE5bV90Yl91XzZXRHdPUFozYmE1TE5kT3Y2TDhUdU5pUlk2V3VNVmE3OFBic3ZDWUdxcXc5M0VSMUFELU9TLXQ5OHpiQ0NSRkVEa0R1Nkg4ZEhJQllVbGZFZnIya3hTMWF4Nk1pdG1HZ3JNbzB1U2JPNUtMek5rd2Fn?oc=5",
-     "t_id": "Perang Ukraina terbaru: Rusia menyerang 3 jembatan Kyiv dalam serangan udara besar-besaran di Ukraina, sedikitnya 9 orang tewas"
     }
    ],
    "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
+  },
+  {
+   "id": "indonesia-202611200037-9c50",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Respons Lucky Hakim Tanggapi Demo Ratusan Orang yang Tuntut Wakil Bupatinya Mundur - disway.id",
+   "src": "Disway",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGhpcVpwd2ZUSWdLeXdsV2x0OWNTVmNWQUpXaEI0eGNZeFdJRFhxeHcxTUVfZ3RqLWJuYlJKT2Nza3V6N2M5ZWRzLVBZM0swS1ZVVk1lVXlwV0xKb2RJWVZicUVjLUx5dHMzT2lrVEEtT2VWQzFkcXZJeklhQ2xJSnIxeF9BaFBFYzFfY2xHaEppajdNZ0V0cklBaDlVYW9vbE9lMHhZTTRRZ2pad29tQTlR0gGwAUFVX3lxTE1DSlFMY3R0bXI5WXZmS1c3TUphZ0NNejFhVm9kTnI2ZjI2LXV4ZElpaGdlbVd4TTFqSll5RkFWNzZYa205dTg0azZvd09GSTZqaXhfemQwNkNyaGM2em1oSnRZQy15cFB4NUVEYXB6WTJtbkZJY1J2cVpJaVBtRDMwSDRQMGEwV2FPRl9XaUN5ZFNUNVdhZVRaWjJFbEhlSTJhVUVLei1sdGpwZnFCZlEw?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-20T00:37:20Z",
+   "last": "2026-11-20T15:50:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Lucky Hakim Tanggapi Demo di Rumah Wakil Bupati Indramayu",
+     "src": "Liputan6.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVNKNWo5V2pQVlVpdHRHaHVNQmdMcGh1c0hxMl80b3VQVnZ6NE5ycmZONmh1ZkY2R2h0XzZreDRTc0lidjdZNS1GTFdzUFVUZjRublhma2lfb09iOHVvUnZzS3czTGNIUS1tUS1xOS1QNlExWXF4ejlobExJckdOcVV4bFd1d2RDTDhlZFFIR2ZQU3M1SG95M2UxNXY5NzZYcmRxdXl30gGaAUFVX3lxTE9UZHQ2MFVjdW1YU3FyLVdoVE5QZEY3OVpaSHRPVlp6UWhPVGtaRjN6aGV6Z1VtWW5Za2ROcEQwb1J2b0FLd0xTclhleEpKVEh6R0d1MWxYZGpsQlNwOGoxZFh0aW1mYWY4S19nZzhXT2dmVlF0MURvRzgxazBmUi1CSFlnbjEtbklSZnN3UHV5ZTlJNnNQa3daQmc?oc=5"
+    },
+    {
+     "t": "Lucky Hakim Tanggapi Aksi Demo di Rumah Wakil Bupati Indramayu, Minta Warga Ikuti Prosedur",
+     "src": "KapanLagi.com",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUtqdnpHNzRzZW1uVVUxZXFnWjQ3MEk3MlNsUlp6dWpsOHMxVjBQQ2pseFZUY2d5Q2tTUy1rUU9zdDhXUTRvVUhXQndQRzdrRjdGM3Y0S3pjd1A4WkREWmhreElxLTV2V2Zyd0U4a040ejVVVFZKeXYybVZyUFk2b1FlUlpuVzh1MllRSTFIUWp5SHFpelFNUlJ6NDI0eGNJRnJtbldtbFNXLWFaS1V1V0RqazhndW1rTzV2d3d3Q2ptWW9Wb3M3ZzVjZmU5WXd3NEU3REJRcEZFb1lvcUHSAeMBQVVfeXFMUDc5MXJWZnppY25lRElCYnA1TS11LU5mZ3lqREZucDk2bEg2TTV2T1o0OWF4SVRPMjhlam1jSDNVS3JybzcxUEJaR1NfNUE2N0dNc1QyUXRuUGJWSndsS1hTRjBqc1Yzdk5ITmJjT2hxUWVZbExtTlRFaVpDVEVsTm9iTkZBTlptTjJhYmdiT3FNVEdZdHRmQWZmZGlRVTdCOWZoT0N3UjFuSXIzU2JpemtTR1E4QTE3QkVwXzk5OG90SzZmYzBxYzVwYmxYbjFVY0xsNVBsSUpTYm1KcGtvcTRpeGM?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611200425-c6ca",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Chaos! Potret Demo Besar Guncang Ibu Kota, Warga Marah soal Pajak",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakxXOGZCcV9Hbko0OWJHa2FSMUJWdk5uWU9peVpwcFJyVFB3ajhWdlRTN2JsSUU2WFJpSTJnMTJQRFhzdEZJbFJZUk52NzFxcmxCNlRqWWlNd19RMS01YmQ1eDR5aWZRWlYzWVFxMkxkZ3VkNlZuVUwwWUFET2YxS3VUdktVaDdZejJXNFBCbjd0QXRXRjBobWNzTjRaV1pzanp0NjRKNlN0MkJNSTRsQno0a19RWVdvWjJteHZtVdIBxAFBVV95cUxOT1ZISG0xVWRuOGxQSldPRXNhSGpJcjVfZ19LR3dDUjNUcHdPVjlubXFMQjNtQWlUcTRscjJraEJMOHpzbDUxV21fcFdxVjJWeWQtY2hDa0xwWkt3Njh0TzJmcXV6MHF5S3pKeklTaW0zTkVKdFQ3NFBzaGdFdXdLMXZaOEJRcFo3TDdiVjFrVVdWX2ZZMTltUDZqdld6ZTB4V0ZPODlKbWVWMmhVQ2FaWDFvOXJkdlJWZktlMDlqOURQSVRZ?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-20T04:25:00Z",
+   "last": "2026-11-20T09:18:33Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Ribuan Warga Kolombia Demo Tolak Rencana Reformasi Pajak",
+     "src": "Cekricek",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU1PeWF4bF8zLUNnY1M5VnN1bEd4Vjl6WXFIcVI5ZHhpUmVkeFE3YjJGQUtYakZfekRwUVh6S0s1OWlIOGtzTUNGelhUQ1JxYXo0VmZrQ045QzhhZnpDSC1TVS1pRTlxZm9jVDlkblctQjdhcjh1YThEdzZyUDFXcUdkYw?oc=5"
+    },
+    {
+     "t": "Chaos! Potret Demo Besar Guncang Ibu Kota, Warga Marah soal Pajak - Reformasi Pajak | Demo Kolombia Berita",
+     "src": "Head Topics",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUpKbjFjYnQyMHBtSVczTVRKZmhqY01yREV5LWxlMVFSVk5QQndhSDVZZDV1MlQzeEJCLXZheWN5MU1LQzQ3TC1SOWZUZFVSdVIzTjM1Y2hsM3lCUElURTVZU1hYOFcyaXBoSmk4U1NCZVhESVd2MHpJVF83eDFfRnZhamhmeC01SWlaNV95Q1FuX3FMNElQczdpZGVjZw?oc=5"
+    }
+   ]
   },
   {
    "id": "transportasi-202611200345-0fc8",
@@ -138,29 +194,6 @@
    ]
   },
   {
-   "id": "indonesia-202611200037-9c50",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Respons Lucky Hakim Tanggapi Demo Ratusan Orang yang Tuntut Wakil Bupatinya Mundur - disway.id",
-   "src": "Disway",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGhpcVpwd2ZUSWdLeXdsV2x0OWNTVmNWQUpXaEI0eGNZeFdJRFhxeHcxTUVfZ3RqLWJuYlJKT2Nza3V6N2M5ZWRzLVBZM0swS1ZVVk1lVXlwV0xKb2RJWVZicUVjLUx5dHMzT2lrVEEtT2VWQzFkcXZJeklhQ2xJSnIxeF9BaFBFYzFfY2xHaEppajdNZ0V0cklBaDlVYW9vbE9lMHhZTTRRZ2pad29tQTlR0gGwAUFVX3lxTE1DSlFMY3R0bXI5WXZmS1c3TUphZ0NNejFhVm9kTnI2ZjI2LXV4ZElpaGdlbVd4TTFqSll5RkFWNzZYa205dTg0azZvd09GSTZqaXhfemQwNkNyaGM2em1oSnRZQy15cFB4NUVEYXB6WTJtbkZJY1J2cVpJaVBtRDMwSDRQMGEwV2FPRl9XaUN5ZFNUNVdhZVRaWjJFbEhlSTJhVUVLei1sdGpwZnFCZlEw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-20T00:37:20Z",
-   "last": "2026-11-20T15:50:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Lucky Hakim Tanggapi Aksi Demo di Rumah Wakil Bupati Indramayu, Minta Warga Ikuti Prosedur",
-     "src": "KapanLagi.com",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUtqdnpHNzRzZW1uVVUxZXFnWjQ3MEk3MlNsUlp6dWpsOHMxVjBQQ2pseFZUY2d5Q2tTUy1rUU9zdDhXUTRvVUhXQndQRzdrRjdGM3Y0S3pjd1A4WkREWmhreElxLTV2V2Zyd0U4a040ejVVVFZKeXYybVZyUFk2b1FlUlpuVzh1MllRSTFIUWp5SHFpelFNUlJ6NDI0eGNJRnJtbldtbFNXLWFaS1V1V0RqazhndW1rTzV2d3d3Q2ptWW9Wb3M3ZzVjZmU5WXd3NEU3REJRcEZFb1lvcUHSAeMBQVVfeXFMUDc5MXJWZnppY25lRElCYnA1TS11LU5mZ3lqREZucDk2bEg2TTV2T1o0OWF4SVRPMjhlam1jSDNVS3JybzcxUEJaR1NfNUE2N0dNc1QyUXRuUGJWSndsS1hTRjBqc1Yzdk5ITmJjT2hxUWVZbExtTlRFaVpDVEVsTm9iTkZBTlptTjJhYmdiT3FNVEdZdHRmQWZmZGlRVTdCOWZoT0N3UjFuSXIzU2JpemtTR1E4QTE3QkVwXzk5OG90SzZmYzBxYzVwYmxYbjFVY0xsNVBsSUpTYm1KcGtvcTRpeGM?oc=5"
-    }
-   ]
-  },
-  {
    "id": "indonesia-202611201440-1c07",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -203,6 +236,29 @@
      "t": "Demo di Balai Kota, Buruh Minta UMP Jakarta 2027 Rp6,2 Juta",
      "src": "IDN Times",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY25ieFJKNHVsVHFLQXllWUNNMnNRRzEtR0pfR2ctQ2pmRXlfQk5SeDlzR3VwM1JXM1RUMjJHMWViLWVYRW5idEdkZWJhUk5JZ3ZKWENrVUVicU1pbm1GOFctZGY4WkpEVW5VcXFyYTJxVnFlSWdUa0xsX2xsNmNBQmM2WHV0eF9ZcEtOODFrMkIzdmlFeUtSUHMyeVRyNi10QndYang3X1BFS2ZtaUpoYWRodGTSAboBQVVfeXFMTUk1T0dQZFFLVmFaZXFZTnp6VWV3QWtpV01wUlVEenJmTm5jTm1mRUR6SXBKa3h1MzdqNEhXTVRHMTlBZTRnTGFscGZ0eVcyQVdoOEVnamN3WEI4RktzRjlJMTExa0tZQ3BVN2FnZTU4NWpIQmlDNzNfWWl5V0h1SVVueHBJUUVTc05SLUJMS21GbGVLNUNhbjZLbHk4RjZJb04zSzhEX0pldHloMGhicTdhcHN6YV9CSGFn?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611200719-65e6",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Dekan Kedokteran UMI Ancam Sanksi Bagi Mahasiswa yang Ikuti Pelatihan HMI, Sarah Agussalim: Senin Kami Akan Demo",
+   "src": "https://www.rakyatpos.id/",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmoyclZ3dTVMc05TcXhkT3U4NWFVaGktZ01XU1M1MTNTeUU3bW5mVFR1V0ZROWsxMEtKWmlKb3lzM2wxbzdNZno5bTNNWEJOZDBCSmdnUTFDa0h1Rk1pbkFXVFJBYXVYWnZZSElTVE8yZ3FpbGdSV3BucV9jYXFmTXJFU0xNTjJlM1RLaHhqbkxaOGhEU2hEUWtJMkpvVjdaMmxFZmdNVXhWTEVVS1E4MXMwX1NzODFGb3B0VmgxM2tzaHBEcWlmUjNtOGVXTHZXLU1NVXRZbnBnUlkzc3dHdTFR?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-20T07:19:29Z",
+   "last": "2026-11-20T07:50:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Dekan Kedokteran UMI Ancam Skorsing Mahasiswa Ikut Training HMI, Sarah Agussalim: Senin Kami Akan Demo",
+     "src": "Benuanews.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTjF0R3ZoWEJnNlVPQVkzQnZHVFJBeVdndEphbU1BTkVGVVdNZkM2S0FOc2l0TWxKWnZweFBScWgxTDJIOFRwcUFRVC10STJ2Vk9Xem9ZOFhZZG8zSmoxV25VTmFFMi13bFRQOHZOVTd5NjdGdVVOLXBmY3NncjZMQVNNMW1PVmlWN2JvNFc2bk9CQUo4aVNLZ25PX1p4MlVTenhRelZiMXVCdXJnRDNwb3M0X2NKQU0zUVdYVTJFYTA?oc=5"
     }
    ]
   }
