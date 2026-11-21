@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T17:14:50Z",
+ "updatedAt": "2026-11-21T17:29:33Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -30,15 +30,15 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlVuM3hSeVdxQXFldVpsc0F6Y0RXbkJNUThUcXk5ZzB5TUxPRXJ1VTNCd0NhME1EVkhnTVNuRjI3bk9IS0pOQU1nWVBsNkk2bXZtMGU1VDB3eU50SHJPSGRQNmUybXlzaDZaNTRIZm1oTFhtODI5bGkzNDNVam04MWYzVHFxckFwMm9EYWhOd1E4dzAwSDdDY0FnX0tBLUdtaFZiWndLWEJiYmJldDdPRmtnTFg?oc=5"
     },
     {
+     "t": "Missile attack on Zelenskiy's hometown kills two",
+     "src": "The Canberra Times",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN25mUnZlOXNoRDVkUy1ldExrUFFyS1VtVkNmSmp0bTVXSG1HS0xnYVR4RVUzdlhNYllyVkFmUWJ1Q2t4N095R0g0dEVPcGlKbUp3ZmRFd0RacFRXaDNSdE43cWVZWkFldS1HY18xaHdaMVVlTkdqVnlkclhCUlR0ajNZc0hKclBKUDhTQlBUYlY3SzY2VV94MmFBVQ?oc=5",
+     "t_id": "Serangan rudal di kampung halaman Zelenskiy menewaskan dua orang"
+    },
+    {
      "t": "Young boy one of two killed in ballistic missile attack on Zelensky’s home city",
      "src": "Belfast Telegraph",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSVdUU0lJOVc1YmRqb3h5R0RZY3BKTmVNVW80SjdWOXRMa2hSTjBxd04wRk9YQ2pEdWJVZF9jSkNFZ3JFTU1OYTV6RFVOS2UyRDd0OGszdlRpeUV0ZFZoYzdHTFJtOGpjckpUOVBiTzVacTREWW5rTVVTTS1LM0Fab2c2dmhiNnFydTZKX29xOFp2NHNMSE9VSWdJUERRMkZ3QmlOR09wS3YzZ09TYWdSbmE1S3pBQnJUM0RESU1LLU8tWkwxVWZ5NUNveEdYeEMwc1c4WXE0TzdXRXE5eDdB?oc=5"
-    },
-    {
-     "t": "Missile attack on Zelenskiy's hometown kills two",
-     "src": "https://aapnews.aap.com.au/",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTEYyZlpILS1YTU1lX0FxY2FCcXZqQ1BJRnI0dTRfdnFyWHZ0QmUwOEl4YlU5OTZlOElKaklsOG44UjZ6Y2xRdXRWak1KdDhGQmlIa3k3M1hyT1VvMms1aGtMRS03VGZDN0dNMHppZDQtWUxaNVFENk4yenBxV3lDVEp2YkxKUEU?oc=5",
-     "t_id": "Serangan rudal di kampung halaman Zelenskiy menewaskan dua orang"
     }
    ]
   },
@@ -142,6 +142,29 @@
    ]
   },
   {
+   "id": "siber-202611201825-609d",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Experts Say Exactly What You Should Do NOW To Prepare For The Next Big Internet Outage",
+   "src": "BuzzFeed",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXZrby1KS2pFMElINjdSUGtqdjVvQ283cWFZRXFTZWdxc2lxeGN0VDlJdk9fZk9kTUV3Wm9EeHYtVHZyMldTakpmNzRzTHZ3LXZYNkhGZ1puUlQ3eUJWM1owS1hPNGktQjVCNHJwdW5rQ1ppYV92NUlLMC1NNGxBOGZISlNUcW1R?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-20T18:25:49Z",
+   "last": "2026-11-21T16:30:02Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Could You Survive A Bank Outage? 10 Ways To Protect Your Money Before The Next One",
+     "src": "MadameNoire",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wdlVZOUEwUW81Z0g1UzhncmMxaC0zQ0FhMzRvQlRpeENiUmdHNG9qZGZfV0Y1WUpid1cwbTQ3TTBlTnNRaXNoVklpS0s1M3dWTlVDY3BacHpaOFJzRVI5Z2pLWkR1YXlEdUQ3bHNXWkJuUQ?oc=5"
+    }
+   ]
+  },
+  {
    "id": "siber-202611210339-e752",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -158,36 +181,12 @@
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "FBI Hacked Again: National Crime Database Targeted",
+     "t": "FBI Hacked Again: Criminal Database Breached as America’s Cybersecurity Crisis Grows",
      "src": "OFFGRID Survival",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzJwMlFlbTNCNjNJZGFzQnFvbDQ3enVhelh2dDVQYUdxdzhzSzl3VU1rNUdLS205TDI1Z2pRNWdLRjVJdGl2dkRRM1FqTUNOWkpjamR3RGpTU0JCTnJnbmNYSmRja0c5d0htRUY3ZVFJcmJIN1pvckM5bmlLSG1GQlhvUmdjUndDR01ZSFJQZ0xlcVlVUjdvTGtHd1RnVnJubVFLNnhicHQ5dDBkUy1jaw?oc=5",
-     "t_id": "FBI Diretas Lagi: Basis Data Kejahatan Nasional Ditargetkan"
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzJwMlFlbTNCNjNJZGFzQnFvbDQ3enVhelh2dDVQYUdxdzhzSzl3VU1rNUdLS205TDI1Z2pRNWdLRjVJdGl2dkRRM1FqTUNOWkpjamR3RGpTU0JCTnJnbmNYSmRja0c5d0htRUY3ZVFJcmJIN1pvckM5bmlLSG1GQlhvUmdjUndDR01ZSFJQZ0xlcVlVUjdvTGtHd1RnVnJubVFLNnhicHQ5dDBkUy1jaw?oc=5"
     }
    ],
    "title_id": "Basis data kejahatan FBI dan USDA dilaporkan diretas setelah pemadaman nasional selama seminggu"
-  },
-  {
-   "id": "indonesia-202611210748-a578",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Tiga Polisi Langgar Prosedur Pengamanan Kerusuhan di DIY",
-   "src": "rayatimes.id",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU5QRU1naUN1WVFlekJpdDgzaFFPbEszRUdFbFlNc2RHcGdGVVltOFJHZzlRS2xUc3hFOFNpMU9LaTlYOWtGRDY0d2FaRG9qZlNiRXlvdmJSb1JDaXQ2LThaeEpXZXEzTks0TDc1cERQU0RZREY0VDF0dWxRcEdzeERKS0J1NmhpMUdkX3FyQlk?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-21T07:48:00Z",
-   "last": "2026-11-21T11:24:04Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Polda DIY: Tiga personel diduga melanggar saat kerusuhan 10 November",
-     "src": "Head Topics",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkpvbUZGRzBlNkUwVC1JM0xqamZjNU1iYXpLYVpCRDRsbF9KQl9jZldDNlNOZEpOT0FZS0RiMnJhSXRaOFB3UGlGS09BSWVCdENDQ0ptZ1FNakVqQWM3TVlUbkFUay1ub0ZBNzJiczZlQVpFdHZyYUVWVURwWjZrSk0yZ1d5cWZ3Nmp3STIzeHdHNHB5T0xGd2lFcDVGRFU?oc=5"
-    }
-   ]
   },
   {
    "id": "perang-202611200239-ebfb",
