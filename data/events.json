@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T09:03:52Z",
+ "updatedAt": "2026-11-21T09:18:31Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -7,12 +7,12 @@
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-   "sources": 41,
+   "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+   "sources": 40,
    "recent6h": 5,
-   "score": 43.5,
+   "score": 42.5,
    "level": "besar",
    "first": "2026-11-20T02:39:11Z",
    "last": "2026-11-21T08:44:22Z",
@@ -41,7 +41,7 @@
      "t_id": "Serangan rudal dan drone Rusia menyebabkan dua kematian di Kryvyi Rih"
     }
    ],
-   "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
+   "title_id": "Rudal Rusia mendarat di Polandia, saat Eropa mengadakan latihan militer di dekatnya. NATO menyebutnya sebagai pelanggaran"
   },
   {
    "id": "indonesia-202611201440-1c07",
@@ -68,29 +68,6 @@
      "t": "Gen Z Bangkok Gelar Demo Besar di Monumen Demokrasi",
      "src": "Zonautara.com",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeF8wVG1rdHAxQURrcHU3dlNnOWRMVzl0eWVCaDMtRjFTRmRfZ1dIaHgwLUUwcUZrRzVWOGJCa1gzeVZ2YldpRGJlSkk3eFhhQVNHbEdJb2MxcUZETXUtb3l4WlBRZFlUMExXZTlLLWYtdlFSQnRvNUNCZnhMWlJDTFdMSEl6WEMtRUhQZDln?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611200918-649c",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Ribuan Warga Kolombia Demo Tolak Kebijakan Presiden Espriella",
-   "src": "IDN Times",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2JWcm5SLU1QMXUtQWsyQVpyTWdUdHI2RWkyQjEtNWR5SWZza2hTOW1QOWk1NDJ1Yl9PZFdFR2JzVDRaX3dhUXZEV0syZHY3dHlUX3Z5M2o2TlJJVFlhQ2RTYnFhZlBOOXNjT3U0dG4xd2ptd3pmdTRDZmQteVN6Tm16VndOSVpteURTcm5MVGFnaTFlbjFMcnU1bXpqdTJaWF9JQkxsV0ZfNnlyZDhKNnVDc9IBuAFBVV95cUxQZjFQMTFieFlwR3BESExuLUU1Sl9IVVhEM3EtdWpZajk3QWZ4YnhvNUR0LUFjak9NckJXYm5LV2pBWnpmSTZ2bS1RcHdEYUNhbHFtVlpNRkx0R0x6b0tEdlYweTZHdXBkZ09Xa1NaSmV3VlhfaDNXa19ldjRTVXBVWE5kUHprOVlHc1c3MEFDQVNjazJWVTlEZW5DSXlQS2hzTUxGbWtBTFl0Mm42enR3dzFkY3hXRng5?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-20T09:18:33Z",
-   "last": "2026-11-21T07:32:28Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ribuan Warga Kolombia Demo Tolak Rencana Reformasi Pajak",
-     "src": "Cekricek",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU1PeWF4bF8zLUNnY1M5VnN1bEd4Vjl6WXFIcVI5ZHhpUmVkeFE3YjJGQUtYakZfekRwUVh6S0s1OWlIOGtzTUNGelhUQ1JxYXo0VmZrQ045QzhhZnpDSC1TVS1pRTlxZm9jVDlkblctQjdhcjh1YThEdzZyUDFXcUdkYw?oc=5"
     }
    ]
   },
