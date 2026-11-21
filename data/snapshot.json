@@ -898,6 +898,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 4.912
+    },
+    {
+      "t": "2026-11-21T18:58:00Z",
+      "risk": 89,
+      "btc": 60080.64,
+      "gold": 3515.4,
+      "brent": 89.95,
+      "spx": 6910.39,
+      "ihsg": 5146.326,
+      "usdidr": 18260.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1476,10 +1487,10 @@
     },
     {
       "c": "neg",
-      "d": "Naik 1,8%, rebound di atas $59 ribu",
+      "d": "Naik 2,2%, rebound di atas $60 ribu",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$59.870"
+      "v": "$60.081"
     },
     {
       "c": "neg",
@@ -1513,7 +1524,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 89,
   "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin sedikit rebound ke ~$59.900.",
-  "updatedAt": "2026-11-21T15:57:28Z",
+  "updatedAt": "2026-11-21T18:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1850,7 +1861,7 @@
     "points": [
       "Wall Street ditutup sangat lemah: S&P 500 turun ~3,7% ke ~6.910 dan masuk koreksi; ini rangkaian turun terpanjang sejak 2020. Nasdaq negatif untuk tahun ini.",
       "Saham Nvidia anjlok sekitar 12% setelah Reuters melaporkan SEC memeriksa isu akuntansinya (belum ada temuan pelanggaran); aksi jual saham AI meluas.",
-      "Bitcoin rebound ke ~$59.870 (masih dekat low 2026), emas ~$3.515 (-4,6% Jumat), Rupiah rekor terlemah ~Rp18.260 per dolar; IHSG 5.146 (turun 3,7% sepekan).",
+      "Bitcoin rebound ke ~$60.080 (masih dekat low 2026), emas ~$3.515 (-4,6% Jumat), Rupiah rekor terlemah ~Rp18.260 per dolar; IHSG 5.146 (turun 3,7% sepekan).",
       "Geopolitik panas: dua kapal tanker kembali dilaporkan terkena proyektil/ranjau di Selat Hormuz; serangan di selat disebut tertinggi sejak perang Iran dimulai, dan sebagian pihak mendorong AS melanjutkan serangan ke Iran.",
       "Pasar AS tutup akhir pekan; pantau IHSG dan Rupiah Senin, PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, FOMC awal Desember."
     ]
