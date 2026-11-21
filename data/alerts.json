@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-21T00:14:42Z",
+ "updatedAt": "2026-11-21T03:41:00Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-btc-20261121-down",
+   "time": "2026-11-21T03:41:00Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "btc",
+   "title": "Bitcoin anjlok 7,9% dalam sehari",
+   "body": "Harga terakhir 57.022. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#btc"
+  },
   {
    "id": "px-spx-20261121-down",
    "time": "2026-11-21T00:14:42Z",
@@ -310,6 +320,7 @@
   "news-2026112021-wallstreet-koreksi-nvidia",
   "px-brent-20261118-down",
   "px-btc-20261115-down",
+  "px-btc-20261121-down",
   "px-gold-20261118-down",
   "px-gold-20261119-down",
   "px-gold-20261120-down",
