@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T01:26:58Z",
+ "updatedAt": "2026-11-21T01:41:33Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -91,6 +91,14 @@
    "time": "2026-11-20T22:47:32Z"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "The Federal Reserve Is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question.",
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTFoLTh6OXU1N2ZjSmNYN09CTWhISTZuaVhMSXJCbklsdEFyWGpQN3B3c0NieVdVRUV6VnRDYjdIWG1vaFVOQWRRM19ZaklQMUZuUktlT2hCT3V3NnhCZDg2Y215b09aVmFFRkNyeTNmYzZYYWt1LXlnRkM3bG1ad1YxdGVNUnVhcE82RXh4TQ?oc=5",
+   "time": "2026-11-20T22:40:32Z"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
@@ -99,20 +107,12 @@
    "time": "2026-11-20T22:40:00Z"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "The Federal Reserve Is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question.",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTFoLTh6OXU1N2ZjSmNYN09CTWhISTZuaVhMSXJCbklsdEFyWGpQN3B3c0NieVdVRUV6VnRDYjdIWG1vaFVOQWRRM19ZaklQMUZuUktlT2hCT3V3NnhCZDg2Y215b09aVmFFRkNyeTNmYzZYYWt1LXlnRkM3bG1ad1YxdGVNUnVhcE82RXh4TQ?oc=5",
-   "time": "2026-11-20T22:39:00Z"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Nvidia shares plunge as Anthropic can't stop the AI selloff",
    "src": "Axios",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5",
-   "time": "2026-11-20T22:03:13Z"
+   "time": "2026-11-20T22:32:03Z"
   },
   {
    "topic": "geopolitik",
@@ -433,6 +433,14 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "BI Rate Naik ke 6%, Kredit Modal Kerja Perbankan Terancam Melambat",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xMzlRcFJzMWdUNkZqSkJBcFlvTmFwSWxTVGd3WVBfSW1SSHRZaFNmOXdLV0QxYXUybkx3RkkzbTV1ck5QWGdWWGtManN2NGNDbm9OMXB4TEdxSHdlQ0UxTGt1MnQwdw?oc=5",
+   "time": "2026-11-20T12:02:12Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "BI Rate Hari Ini 20 November 2026 Naik Jadi 6 Persen, Cicilan KPR Bakal Lebih Mahal?",
    "src": "Aktualita.co",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUJqYlFjcV9aenBnbWVjcmxYbmg1bTl1X19oal92LVgwOU52NEZMWjBrYTNyVTk3UlBzdk9IaW9Ka1VZRU41RnhfM0w5aXlvbnBkTTB0VXAteWtxU20zLUMxVHFVc1FtSmFSY1Jua09PVXByQ1RaTzZicm5xeHYwZnVn?oc=5",
@@ -495,15 +503,6 @@
    "src": "Pasardana",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODhHZndxNnZvbENOR3ZLYUhjUGRRR1poTjdhQjZoVHQ3QzBsaGdsSHR0WUhoT2dFS3lrZWw0VXFOZ1Jtdjk0MFZadXo2TVZNaWxhU2RNV3UtdDlBaXJpdFVCMHVYUXJERDVQRG41TzBjSG55cGgteTdoSnRDb2ZJYWg3T2g3Wmh1V3ZXaEt6dUJLRHBULVVjU2ZwZzA?oc=5",
    "time": "2026-11-20T09:32:00Z"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Why is gold price going down?",
-   "src": "The National",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkJrWmdweXdyOEVkbmZZNWJKZHFndTF5dkxoOTlVRTR6eU1fWVI5YW9lR3kzdmo0aUNRbzZPUTVWLXNTMm1CNUhvRFluQ1ZBaVZLZnhldW1jblI1RDREaXYxZVhSWUYyU2RYd0J5Z3hRNTBDZ0k2UlZjbjVHdDhzY25HOGhFb0JCYmxiZ3Vrclk?oc=5",
-   "time": "2026-11-20T09:08:33Z",
-   "t_id": "Mengapa harga emas turun?"
   }
  ],
  "errors": []
