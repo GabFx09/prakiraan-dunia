@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T08:34:34Z",
+ "updatedAt": "2026-11-21T08:49:11Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,19 @@
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-   "sources": 42,
-   "recent6h": 4,
-   "score": 44.0,
+   "sources": 40,
+   "recent6h": 5,
+   "score": 42.5,
    "level": "besar",
    "first": "2026-11-20T02:39:11Z",
-   "last": "2026-11-21T07:30:53Z",
+   "last": "2026-11-21T08:44:22Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Russia Bombards Ukraine Overnight, Killing 7-Year-Old Boy and Paramedic, Injuring Dozens",
+     "src": "UNITED24 Media",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbTdrYTZFNUFqMFJiVVdXWmJ3TUVSa216TUlyY3VPNmxKc0ZMNnoyWktVdzZDVWR3SGNCUXZNM3pHeXQtOEFobFhrUlhjdG0tTEc0bUtkMzJsdG1LLWR4dm5Nem9hOFBuTWRaVXl1VEJ4WjE5WU1tZFVLYzltYnJvS1E0NGpQZm9NNFFjZ0ZrTktKbEpfTzZRZ2ZyRm9sX1RSQ1FrUklCSEMxRkVEeXpKQ3NXTWl6ZEU3cXJRSmVaSC1MaHNzWU9Bc09ReGNTUQ?oc=5"
+    },
     {
      "t": "Russia launches ballistic missiles and 148 drones at Ukraine overnight, 117 drones shot down",
      "src": "RBC-Ukraine",
@@ -34,12 +39,6 @@
      "src": "Demócrata",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGhaTVFzaXh0dmtnSTI5dl9Ld3M2aEZVbTFwWmVQYldWTnUxSkRvdGx5S2ZoYVRHY3A3Z3M3SEE5YWx3Uy16WWJSU1FQNTY5UHh0SlVMVkF2Zi05XzVNdWpCLUlkcnJXN21GR2o2WUNxM0hHalFRR29haXJRWDh2RHU3ckRUSmtFZ0FWRGM1TnZ2eGpENWxydzZYWHpiX3VQbko2X2lRSUk4aEXSAbABQVVfeXFMTlRUTGNOZnpxVzJiNkxDNkFNZG5MQms1U2NXQ3MyUk50QzNLM1R4RU1EVGROSnhmSHpmWEdlY2U4Y05VSFBQcFlCY3E1QmUwSzBEbmczYWItY3hkbnFTem1TZVJPdHlNclh5dm9NbXkxQzR3N0tIbGlQbHhFSXZoc3ZkNUpTMU01VEpTcWdBbWx2UmxVeWMyUXBFcjFHX1VBYmVhMWFjVFE3bkc2aGx4cEE?oc=5",
      "t_id": "Serangan rudal dan drone Rusia menyebabkan dua kematian di Kryvyi Rih"
-    },
-    {
-     "t": "9 killed, 28 injured in massive Russian missile and drone attack on Ukraine",
-     "src": "brigadanews.ph",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUIwQXZrc01GN3pWQzJvOEZxVWhpSkRVYWFIalJKclNydG9vTDNEVkxOM2ZyTzh4UXktdlVfX3Jvbm5maGZvZkFxNU9vM3Q2dURFcERHOE01dGR4alFwUzkyT3NvbTRoT0xDOUxnVldBNXk1REpVNXcwWTMzRjVhUWt2YmRmbE1aRm1KTVlZOHdMdjFBbVNoZ0hnU014cWkwcmh1Mw?oc=5",
-     "t_id": "9 tewas, 28 terluka dalam serangan besar-besaran rudal dan drone Rusia di Ukraina"
     }
    ],
    "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
@@ -194,31 +193,6 @@
     }
    ],
    "title_id": "PM Spanyol Sánchez Mengakui 'Kesalahan' dalam Debat Beberapa Hari Sebelum Pemilu Secepatnya"
-  },
-  {
-   "id": "kerusuhan-202611201139-4661",
-   "cat": "kerusuhan",
-   "label": "Kerusuhan & protes besar",
-   "lang": "en",
-   "title": "Damage from Protests and Riots in France Could Reach €207 Million",
-   "src": "BGNES",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFVTdEFDaUFsX2ZZbGlEOHp1RDJ1dXdkemV0NjY5OWVpRVNCbkozd0hQUXQxenNGdEU3bGdNM1NQS2d3Nk1xNnduc25xYkNzbXVMV2VPcUNpbVhQUEFTZ2ZTMnVXNXBtMTBzR0kzUUstRU5kcWJXTTNfaHZDUVdSSnplWEZHLS03R1pPQTR5em9mNUhCNUN4YlJR?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-20T11:39:34Z",
-   "last": "2026-11-20T18:09:04Z",
-   "assets": "Mata uang lokal, saham negara terkait, emas",
-   "more": [
-    {
-     "t": "France's October unrest could cost insurers €207 million",
-     "src": "Euronews.com",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3pFX2Q4NkNFYXhMRHhLWTd1bmE3SzNlUlBrNVFQdjBaQVFPaHFTQnMzamFHNERCOVhLWFZlUUVKT2VhcVRfZGJJM0pXdFVhQjlPN2Z4V1pDQTJldFNYNjBCSVhFT2xUVXlQOFdoXzNSeFllZ2dYYWFjOFN1RzR6SHRVNlU1X0d1aVVwWGY4Y202T1JuTjN0azZhaWhjMm1wYmxsdWhyakJEZw?oc=5",
-     "t_id": "Kerusuhan bulan Oktober di Prancis dapat merugikan perusahaan asuransi sebesar €207 juta"
-    }
-   ],
-   "title_id": "Kerugian akibat Protes dan Kerusuhan di Prancis Bisa Mencapai €207 Juta"
   }
  ],
  "errors": []
