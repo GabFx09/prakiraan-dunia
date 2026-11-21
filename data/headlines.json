@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-21T03:25:20Z",
+ "updatedAt": "2026-11-21T03:39:59Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price on Nov 20, 2026 at 11pm EST Crypto Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFZaY2Nyekh4UXJnd3FGbktWZUpxT0JSZy1xdlpEcFg2ZlhicmY5RE5uc1FHWXFwRVFaUmYtS3lzZjFVVGdSVEx6SmtQUk5aSE5LYWdHczYzZnU2YmZXNVAzOUU3TjQ3SlFMT1FlTmFvUTl1TTNKVzFFdVluSy1ZZFo0ZkJfVHF2SFRMNEdSVmlUcEcyNlBjNXhGUHZRYzc5cHlWVnJHbW9RN2VOTHBv?oc=5",
+   "time": "2026-11-21T03:30:02Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -70,18 +78,18 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "BI Rate Naik Jadi 6 Persen, DPR Khawatir Daya Beli dan Kredit UMKM Tertekan",
+   "src": "indoposco.id",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlgwWUZ3LUFHZGQxb04zLUlKelFENFNaVk5JcjlRTkVCUnNFamRvOEV0NFJsSlpXTHJyaUZBYkhrTlRlMThHcmdnRU00ZnJ2a3ZPeVhVVGFyZ2xhQmtNNENMZ1lBemw1ZjhBNVAtbW9xZGhMOGtLaUMySWtOdFNCeXlrcHRNYW1fc2Q5Nkc0aU5lUV9RT3I0aEpTMGdMLTdVa1lvR1JMbTI0eTg?oc=5",
+   "time": "2026-11-21T01:18:26Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "IHSG Anjlok 3,71% dalam Sepekan, Kapitalisasi Pasar BEI Susut Sekitar Rp322 Triliun",
    "src": "TopBusiness.id",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXlfaE5ocjJ4ZGtuNjVHaVRhb1pBMnZ5SVBvZDVXRlF5X0VPTmtQOFBNZzNVa21Zd1pyTWhab2ZJSkpWUXE1b0haU0F5WmpIdzlYU2NKZHp5bmhCMVdHekhJSGtGRUVWVHNlWFhkd1pTTFhRcG1CcERaQ0JzWWZOT1VIajd5NG8zamhtdTdZd1JOcllCQ29EczVSTFlQVDVEOG85Smd5V1B1UzNvNk9vVzVmdjlLMmlJeF9n?oc=5",
    "time": "2026-11-21T01:10:00Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price at 8 PM CST on Nov 20, 2026",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmFEbXhsWlRVTkhvbmJ5Vmc2UDRyaTVSb25PdzlhQ05Sc21Mb2hwWjdOUzVlN2VUQ0dnZXlnTkxMY1BxeHFzbmpkUVRXclJ2S0FXbWlMN0NYbTFyU0NkNnBqN04tOFFyYXBlaEZPU0oxZ3hucTBzdTZhNmRhMmFjenZCQlNoSzNSNUhtV2xRM09EbkxkUFJKcjZrV2llV1AzZ2duOFVwTGdpLTV3Uk0w?oc=5",
-   "time": "2026-11-21T01:05:34Z"
   },
   {
    "topic": "indonesia",
@@ -164,6 +172,14 @@
    "time": "2026-11-20T22:30:00Z"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia, Anthropic shares sink as AI stock selloff deepens",
+   "src": "Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU16dVUyeEt6cWdJYzlRbEZQcC1HeU8xbXdLTU50OXdwRzJzUnFiS1lvWjNfME54SmlpUU1hN3VWdGNXUExyM0JLUGxKdlZvdDYyNlAtemtvcEJOYzIwVlBGYjByMzhjaFFhS1dGU1dLTHVIM1hzaFZLN2FNdFBnVzg2UGpwbjV4OF83QQ?oc=5",
+   "time": "2026-11-20T22:10:39Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Bos BI Sebut Program Pemerintah Mulai Dongkrak Kredit Bank Swasta",
@@ -211,14 +227,6 @@
    "src": "TradingView",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSXdXYlVVc1Z4d0VSTXVxbVZXclM1RFNCUl95REZ2YlpkZ21BcDV1MG5uMlMyaHpBZVhxd0JrS1lKOWFrMDlBTG1fMUlUa21wZ21rbUFxRDRFZUNVYlNSQUEtaVN0bmpablNWWWM3Q3B3Szg2ODZaQ1RkdHRyTWhaZXI2dlU5MGxNUE0yTEZ1YW9icXN3am9lSUVhWHktczVLcnRRZUNfZW8tSURxbm5pa2xxRG9YRjJ0QmJLT19mWW9fSUY3SWlEOHhrWkJDclBOT1ktaw?oc=5",
    "time": "2026-11-20T21:13:39Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Wall Street forecasters are starting to worry that the AI trade is on its last legs",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczhOVi1WdG1MUWd3bS1FNHdoSmsweWEzbkRSOElQTTM2UUl4ZjdrYXFyZ0pYYmxDUjhiRjVfS1Ywd3I1TEFXMk5EVk05ZmtFVlcwUjdTQUg1YzdiUkhkV3hHUkRTdkxaR0U4UEhPa2VPS0VDekVLS1VmbTcxVzVydXpDcnpJUkdDdkJsWEYtNXA1aWdmb1E?oc=5",
-   "time": "2026-11-20T21:02:00Z"
   },
   {
    "topic": "saham-as",
@@ -275,6 +283,14 @@
    "src": "NBC Bay Area",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmtNTkwza2kycTNkM3VURGJ3aklYT1hrZHFMeng3T3lzUjhlQTVIUjU4aWhrcm5DazJSNWZta1NYNGZld3ZqVC1VV2picW1lZ3F0S1Z3NTRFNF93TTIwWWpiZUVXUEhLT0h5ZFZLNjgxZFFleW9feGFzd3c0aHVESzdqY25TN0o5ZkU1c254dEgzdVZwY295SXJPWTPSAaQBQVVfeXFMT0VCWHVtbDExX3JmbVh0ckpBSGQxSWxiS3pnQWpsWVphX3NmTzd5Uzlkbm04a1hvTFBVYnVOMTJRYXJpcXVZVHFUa3RVMVJ4c1M4SlJ2TGxQaElPQjBuVG9BNWh1ZHJLRTZkZEdoY1ljd0xoeVFHRFJ2X2Z3UEZMcHhtRk5RRjFzNU9YWFprZnd6NGpTcHZWZGJFSU5mVGVDclg3c2Y?oc=5",
    "time": "2026-11-20T19:31:36Z"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "The Push and Pull of U.S.-China Trade Policy",
+   "src": "Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "time": "2026-11-20T18:52:08Z"
   },
   {
    "topic": "bank-sentral",
@@ -352,15 +368,6 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QdWtrYk45LWxHandBd1R1LXVYb1VfT19jZlF6ZFFReVhxOFZlb0VfRVJJUTFNRlltbkFIaVB4ZmRVblBWbEJDNHZmejl5MlNCc1VFT3JHeDNlbjNZNWk0SURTOWpqQmdaSzNqNlJHWmpzNnRRZWVVTA?oc=5",
    "time": "2026-11-20T15:59:50Z",
    "t_id": "Harga Bitcoin Turun menjadi $59,000 saat Penjualan Pasar Mendalam"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Bessent advocates lower Fed rate hike, cites energy shock",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGFNZUZDMnczUkJPbkFBSlFpT2k4TTZSZjhvOEJZWXZJVVlEb3RIaHZMR0o5bTl0eGNDOGlfZ2FOakdhR0IwMjB1RmpRUEtrTjhuSTlOSEZkMGZIZ3RNcXpoNEhBb3FmWmRKUW5rTFItdlJPcGxuUzlRVzhEZXhuNWJMTmR3QjNkaThIcE1JdGpucW1IUGU4SWFiS3dTQQ?oc=5",
-   "time": "2026-11-20T15:46:19Z",
-   "t_id": "Bessent menganjurkan penurunan suku bunga The Fed, dengan alasan guncangan energi"
   },
   {
    "topic": "ai-teknologi",
@@ -490,18 +497,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "BI Rate Naik ke 6%, Kredit Modal Kerja Perbankan Terancam Melambat",
-   "src": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xMzlRcFJzMWdUNkZqSkJBcFlvTmFwSWxTVGd3WVBfSW1SSHRZaFNmOXdLV0QxYXUybkx3RkkzbTV1ck5QWGdWWGtManN2NGNDbm9OMXB4TEdxSHdlQ0UxTGt1MnQwdw?oc=5",
-   "time": "2026-11-20T12:02:12Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG Turun ke 5.146, Catat Penurunan Mingguan 3,71% di Tengah Tekanan Global",
-   "src": "www.fxstreet-id.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnA0NTBZVTJrNFZsNHFzMm45WUFfNlBZUzVaUTZGMjctUDZNdkNucW5JbFJkbDlkMlVhSm1qYWdsdU0zM0Ywa0pIMWpXaGloOVgxNXY0RWE2LWctUUMweG5pWmFwa1hmamNiaXVnV1NNY1FRVGdITm8xdzdMd2hCNHppRDNvNktHemFDY1BDWmNZZUUyV3dDenhDSnIwdHpYejJIendIQU0wcmlCa2FtTzdabXpqYVFlU3dv?oc=5",
-   "time": "2026-11-20T11:10:28Z"
+   "t": "IHSG Turun 5 Hari Beruntun (Jumat, 20 November 2026) | Pusat Data Ekonomi dan Bisnis Indonesia",
+   "src": "Databoks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDNMTFZOUlZPbDdzLTZGM0Z0ZUtocTRCRG9xSURyZEg2UlBJMWg4dkZ3b0h1ZVNRU0hzbng5aWlCeHY3Rkh4SnI1S0VKdThKM0lmTEtoVW9UVzNWUW5NNUJmYW42YlcwcXROVDNXdnRUdW14aUlPTzUwS1d0NFVrbVYtajZDQlBiemUzb2NxTy15VFQ4LVd2VGxPaE9XLTY5bk9peTF4eHgxQkJfQmUwZw?oc=5",
+   "time": "2026-11-20T10:30:15Z"
   }
  ],
  "errors": []
