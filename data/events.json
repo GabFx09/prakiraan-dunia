@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T04:09:40Z",
+ "updatedAt": "2026-11-21T04:12:30Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,20 @@
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-   "sources": 23,
-   "recent6h": 2,
-   "score": 24.0,
+   "sources": 43,
+   "recent6h": 3,
+   "score": 44.5,
    "level": "besar",
    "first": "2026-11-20T02:39:11Z",
    "last": "2026-11-21T02:09:46Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Russia’s missile and drone strikes kill eight in Ukraine",
+     "src": "Gulf Daily News (Bahrain)",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGx5RXBNb2FfSVFSMGpxdmphZ24zRUQ2N2ZSYmt2aTVjcDV6NDVUWHNtYk4xb2NWUldFTjl6dHp5bXcyNXlwQ1pMRnFmNlNJUExzeFppZGhXdlVOV1lBeS03NHJ5aXNJUy1xTGFyb2JQeC1YT1Ywc2pDVlhiM09Vb0NYQXROWEZXeldwR3hwTGgwN0RrcGxhVndlTzdjcnBaOU4wV0ZWTUd6QQ?oc=5",
+     "t_id": "Serangan rudal dan drone Rusia menewaskan delapan orang di Ukraina"
+    },
     {
      "t": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
      "src": "AP News",
@@ -35,58 +41,52 @@
      "src": "RBC-Ukraine",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1RfX1dxWnJZYkJuYUh6aUtNY203T0FmeE56dm9uWUdUMDR0Mmo4TVFTV3gxdFlPRkFobUNJZjNuc2pESzQ4bkFXZ0ZhamViR3F6YjR6blVwdWJURFUzVXh6Ti13eHpEZnNhdXRQbTV5S20yeV9FNDl3N284eFJUYlRteERmZHpOVEZqMi1vUTJ2czg?oc=5",
      "t_id": "Polandia menjelaskan mengapa mereka tidak menembak jatuh rudal dan drone Rusia"
-    },
-    {
-     "t": "Putin Isn't Holding Back Anymore in the Ukraine War: The Russian Military Hit Four Bridges in Kyiv in a Massive Drone and Missile Strike",
-     "src": "National Security Journal",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdVlTczYyNzNfSk9mNkdVVk84eEFqbGZNQUdDT0xLSWNObFFOMGp0cnNWWE9KT2xIZV9XQjZzdnJxVE5FTzd3RUF3cVNic3NpUWR0V3FzMV9KNEZ0ZGgxblE0alkwSVBOZF9vdDZTNFQzQmpEOG1QaUVUSHRvZ0dVZVhKODRtdzJFTGZld3k0MGNZa1daU0ozdEZIcm5ObnFnNmo2QVBmRGpwZWVGdEdjcklsTXl5NHZDWFFkVS1GWUhxdmVnbkdnVnVIMDlYVDc5elZXRlVJeVVBMHRtSG95TC1KMzhDM3BzNS1id1FnZ0dYdTQtRGp6eTNWd0hzcHUw?oc=5",
-     "t_id": "Putin Tidak Menahan Diri Lagi dalam Perang Ukraina: Militer Rusia Menghantam Empat Jembatan di Kyiv dalam Serangan Drone dan Rudal Besar-besaran"
     }
    ],
    "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
   },
   {
-   "id": "perang-202611200818-39cf",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "siber-202611200437-a8c9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Ukraine war latest: Russia strikes 3 Kyiv bridges in massive aerial assault on Ukraine, at least 9 dead",
-   "src": "The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlqYnRIM184cXRFekZMM3o1Q2FyNDVNeGVqbW1fMHpFOWx2TktpdV85LXd0d2hOZU02VWV5LWlsYnAxM3p2VXMzQ3VwOXU3VmE5bV90Yl91XzZXRHdPUFozYmE1TE5kT3Y2TDhUdU5pUlk2V3VNVmE3OFBic3ZDWUdxcXc5M0VSMUFELU9TLXQ5OHpiQ0NSRkVEa0R1Nkg4ZEhJQllVbGZFZnIya3hTMWF4Nk1pdG1HZ3JNbzB1U2JPNUtMek5rd2Fn?oc=5",
-   "sources": 20,
-   "recent6h": 0,
-   "score": 20.0,
+   "title": "What The Tech? Preparing for tech outages",
+   "src": "WILX",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15Z0NQcHlIelhBckNaenNWcmR1NDBneFExTHFrcGFidnFzdXhCUmJGYU9PSEFmbVRJMVZmOEFnci0xb1ZZOEg3QUdOVVR1bHVTY1R5YzkwWnl0TGJOYmVsaUpDRGNMSXRtR3BkbEQ4V0pfck3SAYcBQVVfeXFMUFlCbk1tVlJuOW9kQTJhckcyckwzVi00UzBpX21reGZWcHJZcWdVSlBWM05MODB2SW1pTl9Yc2JkbXhkN242cmc5UjFpMlRBUXVTVUJxRVo3NnBHdDF5bGxHTEhITDRscXR0dm5KUk9tR1lmZlVldHFUeWw5dHBUSFJPbk1YUk5J?oc=5",
+   "sources": 8,
+   "recent6h": 1,
+   "score": 8.5,
    "level": "besar",
-   "first": "2026-11-20T08:18:48Z",
-   "last": "2026-11-20T19:01:21Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-20T04:37:17Z",
+   "last": "2026-11-21T00:42:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "9 ti natay, 28 nadangran iti Missile ken Drone Attack ti Russia idiay Ukraine",
-     "src": "Bombo Radyo Vigan",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdEpSVXBSTHoxMzkxdDMyLUpfblZHeGFqYW9MZlUwVmF4X0xBWUx5aE11bndrWTRIaFVGNkVCR0RMMGNabW92ZXNSeERJNV9UY2ZCNmpCQ1E2QTN5Zm9wZUdHZzg1S0RSMEtOa1ZtX0pBdWVHN2lnRFFXXzFrVTNLOEZWcUtKT0p6Sks0OHVPTUVLa21XbGhJWkp2UUxDaHBKR3pyWnp0eXlzdw?oc=5",
-     "t_id": "9 ti natay, 28 nadangran iti Rudal ken Drone Attack ti Rusia idiay Ukraina"
+     "t": "IT Outages Hit Colorado College Amid National Tech Disruptions",
+     "src": "The Catalyst",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYTlrUlhUTmliZVpha2hpSUJzc3pZU3AtVVN0TDE4TzR6eVNrNHZTb2w2RnZhYmdMcFpDOVhtR1FtZ1hqYUpMUVVDRUZWazR2TUJFM0xVNFdpY2licURkVzdHYUVlajNPa1FwaFU4b1AwcWpyWXFWRjdRV1cwb1RuRHFCRW10OVRxaVQwV0JyT0FsVk9RdlAtbTNnOS1RZ3p4czkxVdIBqgFBVV95cUxPeV8wQ0Q1QWxfb3hKWm1LTm90QTJlOHVuVzYyYjVGdkVXdXJCeEFXWi1ldVRmUUNMNWRqTUM1Y3ZhWjE3dXJwVGVGMVc4M0E4bVdQd1NRY2hnd0xSWFd5dFJjUjNhY1Y2WVEwbm1TSVhlYW53T0tUUXJYVmlXekhWcEtzZTFHeUtoV0h3UGM3dHdLVWc2MktwODBHQUIwSGxMb21fQ3RBNFFXZw?oc=5",
+     "t_id": "Pemadaman TI Melanda Colorado College Di Tengah Gangguan Teknologi Nasional"
     },
     {
-     "t": "UPDATES: US War on Iran, Day 267 — Houthi Missile Attacks on Saudi Arabia",
-     "src": "EA WorldView",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
-     "t_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-267 — Serangan Rudal Houthi di Arab Saudi"
+     "t": "Trump fires cyber chief over tech outages",
+     "src": "Morning Star | The People’s Daily",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjdzV05adUNTWEhXREItaW1NZWJoYV9oblpMd2wwZ05pSjFzc3Ixd2c5cHc1a20wcDhITzAyeGFDM0RXUk9ROFMzU1d1YVQtQVVyVDZiMGxiZG1lZ3NWRjRZTlhsM1BmZVkxSlhPNHZoYzNzVFVDR1IxS1hnbmtwd2VJMjQzLS1U?oc=5",
+     "t_id": "Trump memecat kepala dunia maya karena pemadaman teknologi"
     },
     {
-     "t": "Russia Launches Massive Ballistic Missile and Drone Attacks on Ukraine",
-     "src": "Ratopati",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQTloWXkwemdwQk53MXd1cUs1OXpocXBSbWg0QmUxTU9PRzQzWXMzcmNMdkVZMTU5RC12MHhMRmdaNE5aU0JlRFFla3ZmMTRjTHhhWFJlYnJfU0w4dHFVN012Rk4zOUxRVllKbE9WZFRUQnVROWhjeHJ0OVdXdmpPbzdnelZSZXpyODN3YXhFeFl3VHExa0d5d3Z3QkhCZGRFVklKb0xFV0cyT0wySUhsM2RrUmhuSVNRTktRc2JNdHpzeWVWdVBUTUFsQjI?oc=5",
-     "t_id": "Rusia Meluncurkan Serangan Rudal Balistik dan Drone Besar-besaran ke Ukraina"
+     "t": "White House replaces national cyber director as nation reels from tech outages",
+     "src": "WJCL",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmlzRGRPbGxOMzREQlpMRC1YSUQxbVhJVHVZUWVMSC1vZV9qSm15UnF4bzdHazRzclFpbTFLc282eElqbk1IWkRDVTVLZGpicjJLUHJFajZ2UlAwSUlmUDdNS1UwNFVxU2NPYUVqSURITzNkUjJrc0gxWDY1YmdJaVN1dndsTWFNTGNXd1dfR3JuUQ?oc=5",
+     "t_id": "Gedung Putih menggantikan direktur siber nasional ketika negara tersebut terguncang akibat pemadaman teknologi"
     },
     {
-     "t": "Russia carried out a large-scale missile and drone attack on Ukraine: eight people were killed",
-     "src": "Zamon.uz",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNREs4UTJlVjhnMjllOGMxMjR1RVdTRk1aQzIyM0VLTUd1QjRIaE96OWxUWDUtR0dhU1JORGk2S1lEM3ZzdUktUkVCTERSM0pVRFRXcTZuRWR3X1VHYUxZUnhCcENNMWlGTzFDNzh4RE9jZF9vVkNFQ092M3NIUktKcW5rVWp6dGJ5ZW5fNklOZVZWUHQ2cUltZlh0RllCYVI5RTY2NEFTQUhjS2pIOTlOVUJlakdZR2R1NDJfd2Q4Tm9oQQ?oc=5",
-     "t_id": "Rusia melancarkan serangan rudal dan drone skala besar ke Ukraina: delapan orang tewas"
+     "t": "Trump’s First Move After the Outages: Fire the Cyber Director",
+     "src": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEZnVTBYei14RzlpRHFWRkFkTDdNNkV1cmFlb2FYLXRDVld3Q21CTTZQQTRFb3ZPZGhzNFFVZWhQZVNjNl9laXk4QXljcml0Y1h3UTNrMWVrMk8zY3RldGFyYWVmQWV6NUlHbnJwSE5OS1NXN0RnZ3RNV0R3SktEcWNrZkpTVDZYYldWajhJLWx3TndNRjFMSFRaNFFkR25PX2xhNHNoVXRUUUNyTW5JbXdtWEJuR3fSAbcBQVVfeXFMTnBGZ1UwWHoteEc5aURxVkZBZEw3TTZFdXJhZW9hWC10Q1ZXd0NtQk02UEE0RW92T2RoczRRVWVoUGVTYzZfZWl5OEF5Y3JpdGNYd1EzazFlazJPM2N0ZXRhcmFlZkFlejVJR25ycEhOTktTVzdEZ2d0TVdEd0pLRHFja2ZKU1Q2WGJXVmo4SS1sd053TUYxTEhUWjRRZEduT19sYTRzaFV0VFFDck1uSW13bVhCbkd3?oc=5",
+     "t_id": "Langkah Pertama Trump Setelah Pemadaman: Pecat Direktur Siber"
     }
    ],
-   "title_id": "Perang Ukraina terbaru: Rusia menyerang 3 jembatan Kyiv dalam serangan udara besar-besaran di Ukraina, sedikitnya 9 orang tewas"
+   "title_id": "Apa Teknologinya? Mempersiapkan pemadaman teknologi"
   },
   {
    "id": "transportasi-202611200345-0fc8",
