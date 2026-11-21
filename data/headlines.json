@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-21T21:15:00Z",
+ "updatedAt": "2026-11-21T21:29:39Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil Tankers Hit Near Strait of Hormuz as Farm Energy Risks Rise",
+   "src": "AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2M4TWlQTVJRSFZkdTB3WEdLblQ3MU5lUXE1aWdHcFVOXzhFQ1ZBcC1PM0tSaGVDSjcwUW92RWl1anpnMHAwTXV5MmExaE9PZkZmb2p4MExTYnA0TElJYVRzSkdGdWdMbmFuaHpOZi1sQTZlZXdYMGd6ckhYZVZzWnJrVERWM0RpcFQ3ZndHb3JHS0lvX0sxcmlGQkktU0pa?oc=5",
+   "time": "2026-11-21T21:09:04Z"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -11,12 +19,13 @@
    "time": "2026-11-21T21:08:56Z"
   },
   {
-   "topic": "saham-as",
+   "topic": "kripto",
    "lang": "en",
-   "t": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026",
-   "src": "24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmx6VFBvcllRSmkwN1dKeFB1LUlrRkNicDNvTHplVTFZTWtyMGZTWnhURlZuZVFkekM0Y2dQVDlIU2luT3BLTWFHUlhCRC0xekIxai1iVTU4aTFPbUgxMWVLYzMtd1JqUmlyemxVajFjMlVTSlBfYWtwVUZHNjQ3WGIzSnNoRFFlT2JTTjlqY3lPak5qUnJnWEZWb3ZULUFSTTdnbDdOc29PdjgtcVpF?oc=5",
-   "time": "2026-11-21T20:42:00Z"
+   "t": "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?",
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdEVWQ1doTGNKcmpDTV83S2lzNi00SUxwcC1VNVVMM091dkJSY2RyZzQxUHB2RmV6US1jSGdUR2JWR1lrb3NsQjc5UEE2V2FtRVVzZHprVm8wNkdsTUQxOTVZRVoxcndRQ2Q5cXlxS3ctQ05R?oc=5",
+   "time": "2026-11-21T20:58:00Z",
+   "t_id": "Bitcoin Memantul Dari Posisi Terendah Dua Tahun. Bisakah Crypto Menyelamatkan Saham pada hari Senin?"
   },
   {
    "topic": "geopolitik",
@@ -34,14 +43,6 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
    "time": "2026-11-21T19:36:53Z",
    "t_id": "Taiwan memperingatkan Kanada menghadapi risiko Tiongkok yang telah diperingatkan oleh Carney"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations",
-   "src": "Bitcoin News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazlzQjFNcmlTbV85WEN2NmVNWGtjT2FaR3dEZnJCMWxYQm9NQ05zb1hYTHVmTnpKZ1g5dWdhU29pNjdvcElqTVJvaHVwa0V1anpCYWxrYUY4T28wTXBJc3BsNEVjR0lCeEtuV3F3R3FfWmFYXzBkak1TamM2aVJUUFZ3UDhlaHhuRFBsbjZkeXFtbVljcDhpZG9HZ3c5TEg2al9wcVk5RQ?oc=5",
-   "time": "2026-11-21T19:24:57Z"
   },
   {
    "topic": "bank-sentral",
@@ -111,24 +112,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFVoRnRfUVh3Ry1IOF9uellsamlrVDJNMHZnQWFnQlhVZkhhZ0lKMXJaTXNSM3Q4TW41aEU3Tm93UnNhX3VoNm15d2JSanRhV0JOMk40UlMxVmVRaFYyTTFFUUVPMktHQkVwZFY3R3c3b3d0Ql9LTDdILUtqV3dRQklWLW03VFp1cHI1OEdCVS03T3BSU0pCcXVhV1d3S2FGN0hkVDRn?oc=5",
    "time": "2026-11-21T18:08:01Z",
    "t_id": "Jika Fed Menaikkan Suku Bunga Tahun Ini, Saya Memuat 1 ETF Ini"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdEVWQ1doTGNKcmpDTV83S2lzNi00SUxwcC1VNVVMM091dkJSY2RyZzQxUHB2RmV6US1jSGdUR2JWR1lrb3NsQjc5UEE2V2FtRVVzZHprVm8wNkdsTUQxOTVZRVoxcndRQ2Q5cXlxS3ctQ05R?oc=5",
-   "time": "2026-11-21T18:03:00Z",
-   "t_id": "Bitcoin Memantul Dari Posisi Terendah Dua Tahun. Bisakah Crypto Menyelamatkan Saham pada hari Senin?"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
-   "time": "2026-11-21T17:00:00Z",
-   "t_id": "U.A.E. Mengangkut Minyak Melewati Iran dalam Operasi Hormuz yang Berisiko"
   },
   {
    "topic": "saham-as",
@@ -296,6 +279,15 @@
    "t_id": "Perkiraan S&P 500 untuk tahun 2027: Wall Street memperkirakan rebound setelah penurunan 11,6% yang dipicu oleh ketakutan terhadap AI"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold prices crash nearly 10% in a week: Mega reasons behind massive yellow metal rate fall – List",
+   "src": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdkRNVGdWWEcxbEI2empjUWVmV1NtOGVVRVZJV0Zra0hLMlJXX1NrTHo2U1ctNnRaUTJKNFV5cHBmaWRsRXVXSnpFaXJIUFlNcjdzc1RsWWY2aUUwSDBoYzVEZ2Q2dktsZUtId3k4UkxlMWRkNTFVdC1ObC1pS1BiNmJ1VVd2NXNPLVpaTW9RN0ZOZ1VDUXJUU2ljeURDWFVkWGI1WUlKbmNuVTdVbHZTZExkVmZpTHFyajVQNWswZ0o5Z2Z4Q2VKOFJ4bml2aHpUSWw5bW9iYnVUb1JlekFac01QN0ZZNEpORE9DaW1kTW91X3PSAfgBQVVfeXFMT1JQLWZPS0NLcEE4R2JtSC1lTmNHVFZ6NFhsR0VQcXVBSGRYWFY3M2JSS1ZJNlZ6U3VaWEdvMF9XWlhQa1ZQZnJhWExMN25pTjN6TXpMZ1JvdkliamliSWxja2xZUm1ZVFphbi1BZnRpVS1hU3haYUIxZ0szMV90RXkyZ2VEVjVYRXFuTjMySFRQc0M3SWk5czRvbnR2R1doTTZkS0M0U1Jpb3dIMDZYY09fXzFkRGJaanNfdjlLdjJOOF9oempjRmt2Y0RvUkZ3dWI3U3NNRW1oNjFuaDYtWE5OaVpOTXYzeGd5RUtJVDhORWhnd3E0SUY?oc=5",
+   "time": "2026-11-21T09:27:30Z",
+   "t_id": "Harga emas anjlok hampir 10% dalam seminggu: Alasan besar di balik penurunan harga logam kuning secara besar-besaran – Daftar"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Bank Indonesia Naikkan BI-Rate Menjadi 6 Persen",
@@ -345,6 +337,14 @@
    "time": "2026-11-21T05:45:15Z"
   },
   {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI-Rate Naik Jadi 6 Persen, Ekonom UGM Ingatkan Sektor Properti hingga UMKM Bakal Tertekan",
+   "src": "diksimerdeka.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZHg5cEkwdEdYNXdVOHdtYVI0OGpOUHBzWlJma2tlTGhaeUdrMUlBLWdwNWFCTTV6c2NzdVNVTmRSUlZmS1ZhY0JEejVzTlBWY2VFa1pES0tmZ1pBYWQyZHFheTdSWXB6eG05LVVzWVY?oc=5",
+   "time": "2026-11-21T05:27:48Z"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "Bitcoin (BTC) tanks below $57,000, wiping out $2.4 billion in crypto bets",
@@ -362,6 +362,14 @@
    "time": "2026-11-21T03:10:04Z"
   },
   {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Menguji “Kesaktian” Suku Bunga BI Menyelamatkan Rupiah",
+   "src": "Emitennews.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFhMbmIxc09ic3pFc1ZQdkJOMkxENnZjc1h3a0hsaEdHRmI3SmowRmxJVHpRVmhJemtGbEdWN20zdHl5cFUyZXNVZGJXeDZzZnA2ZVFVc3FnTWNWU09oVFVXb1dycHlycXE3N2xtMkMtYW52ampFa0pVOC1oRm9fSEpMM01JcDA?oc=5",
+   "time": "2026-11-21T03:00:00Z"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
@@ -373,26 +381,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Anjlok 3,71% dalam Sepekan, Kapitalisasi Pasar BEI Susut Sekitar Rp322 Triliun",
-   "src": "TopBusiness.id",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXlfaE5ocjJ4ZGtuNjVHaVRhb1pBMnZ5SVBvZDVXRlF5X0VPTmtQOFBNZzNVa21Zd1pyTWhab2ZJSkpWUXE1b0haU0F5WmpIdzlYU2NKZHp5bmhCMVdHekhJSGtGRUVWVHNlWFhkd1pTTFhRcG1CcERaQ0JzWWZOT1VIajd5NG8zamhtdTdZd1JOcllCQ29EczVSTFlQVDVEOG85Smd5V1B1UzNvNk9vVzVmdjlLMmlJeF9n?oc=5",
-   "time": "2026-11-21T01:10:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "BI Rate Naik Jadi 6 Persen, Ini Alasan Bank Indonesia Menaikkan Suku Bunga Acuan",
    "src": "iNews.ID",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnhjRU9qQnlRT3hDaE12R3luMU10OW95c1F6cXhHUFljeGRWMkhJYXN4R1l3clUxX3ZsU3IwUzlCb3Y5cG9KaXJ5djhQdDQyV21tMmZvdUc4NEpMMWZrUzhYamhORzhfMm50MHVDVFpDQ01sMGpnZkFPZjgxZkhmWFZYRFkxWkliQkhMUHk1V2FVTlh4NnNfYlNqT3JJVTZpNi1LbUlNZlNIcm9scFE4ZHRJZFQ3YlV0bjFV0gG6AUFVX3lxTE1wMHNydXg2WmJ2LTJVLW8yLXVCbFhSUXRjVnFNMVlRNzNlN0RJREgzdjVZYy01Z1k0M251cVpaQTRZY1Mzd184akNBLTZDS3hEZlRndlB4QUY3eS1JTEZsZEhsYUZHdHlOTXJQQVB4Mjh4bzhoM1o0QlhiNmNxVE53SEVTcExxOXFkYm9GWGxNbVUyWGxsWnU4dGh6QWt3WkhublFENlFFekJlNWdPS0pFTWpUeFBlSF9hZw?oc=5",
    "time": "2026-11-21T00:50:35Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Rupiah Hari Ini 21 November 2026: Dolar AS Rp18.270, BI Naikkan Suku Bunga tetapi Tekanan Belum Reda",
-   "src": "Aktualita.co",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWRuYV8tZXphMFZ6MGhTQ1B6ZWNDcXE5Y3ZTTEhuRFo2b1hVc2t3UmdHQlNSUl9KdTlSWGhUUVBnX2dXTjgzaV9qZFBUWHByUk5ZM2FpMjZaR3BuTFVCcUMySkFtb3U1VWxxX0YxVG5hV0xUbHdiQTZ5Mzlra2h0aQ?oc=5",
-   "time": "2026-11-21T00:43:59Z"
   },
   {
    "topic": "ai-teknologi",
@@ -413,6 +405,15 @@
    "t_id": "Saham Nvidia anjlok karena Anthropic tidak dapat menghentikan aksi jual AI"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYVdGdzl2am5CT1o3QlFFV2duR2dJZzNpbjlrYWg2cU4tVHJwZ0I4WWhaVmd3ZHQ0cTVyRklGcHprTlk0UFEzenE2T2ZNZ1pvNXdKbDBySkFDXzA5cktobkRxaTcxdkZzWGtfXzVzLXZqeEhnSDk5VEROWGRsNzQ?oc=5",
+   "time": "2026-11-20T22:47:32Z",
+   "t_id": "Saham Terkoreksi, A.I. Kekhawatiran Meningkat"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "The Federal Reserve Is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question.",
@@ -429,6 +430,15 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHJUSEpNa0JZMndrUTZhcTdiQjkzTUU0bkJqSmF5ZGNJYV8xSGozbjJTQ3FwUEpNUUdvd0JjYWJHMy1vRGI5YlNrUmNlUF9vNVFiYkRyT3YwWmdhRWlFMVl5bGVPcUcyeTNVRDNENzJlTVYwT3hWSHV0UUwybF9wZEFmQjE4LWc4OVBUVUx3SzJEREJmUXNhTU5ETTQ1Rl92dmFtQS1B0gGrAUFVX3lxTE5WbHZmMnMxbl9oRlU5S0JsbFFBVF9RaldTc1RfSmk1dEZRNEw3SEJhZkw0S19HQ1dfNlNiZjZ6T05UWDNYZ1BRMkNQRWhxWGt6U2JnRkZ2emQ0NmFfdWN5ZFdQdHV2NXhncWpJc05qWU1kQnJYSVBOM2NTeGRfWkE2TFduRWpWX1FmQ0pOSU1OOWkyUXpiNFFWWERBVnNJakdHUzM2VjR0VEhYYw?oc=5",
    "time": "2026-11-20T22:32:00Z",
    "t_id": "Trump kembali mendesak Fed untuk menurunkan suku bunga"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+   "src": "Virginia Business",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDJTQ1VRUXQxSndxRXJpTnRjNUVZTFpJSlRaYW92VVZHcjBPbHNuMERVeUZRNHZHUS1PcUJaNUVFUzZvVWlpdndtQm45Ukcxczd0eUpMSFkxTXV3RTdWV3RDWkVORHNvdndfMzVXZ1VtTkg1czI2eUhLOUF4dWFvSUJCNzlCNzB0?oc=5",
+   "time": "2026-11-20T21:58:41Z",
+   "t_id": "Wall St berakhir melemah tajam karena aksi jual AI, S&P 500, dan Dow terkoreksi"
   },
   {
    "topic": "ai-teknologi",
@@ -510,15 +520,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeU5YZ0haYjQzYjlSQkJrZVRnUGN5aWVpd3JkcXphQ2IwQ1kyZXNvUU4xR3dETWh6Q0tWZXhnYzZmSzBNNXMxR2FURmRqTlBlM2g0NTg0Ykw3XzVfTG1EU2wzZjg2WDdIOGVYZTNRN2swOE51NGJGdzA3VWpXTVh1ZEJnYjhLcTJTaTdoZUQyVDY5RGtMYnNlMmhxUkl0dTFSeDI4NmRR?oc=5",
    "time": "2026-11-20T15:47:30Z",
    "t_id": "Sheinbaum Mengupayakan Kesepakatan Dagang AS, Mengesampingkan FTA Tiongkok"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "The Stock Market Has Problems Even Anthropic Can’t Solve",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5",
-   "time": "2026-11-20T15:46:00Z",
-   "t_id": "Pasar Saham Memiliki Masalah yang Bahkan Anthropic Tidak Dapat Menyelesaikannya"
   }
  ],
  "errors": []
