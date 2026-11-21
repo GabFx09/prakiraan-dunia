@@ -843,6 +843,17 @@
    "ihsg": 5146.326,
    "usdidr": 18158.0,
    "ust10": 4.912
+  },
+  {
+   "t": "2026-11-21T03:58:00Z",
+   "risk": 89,
+   "btc": 56543.95,
+   "gold": 3539.0,
+   "brent": 89.87,
+   "spx": 6910.39,
+   "ihsg": 5146.326,
+   "usdidr": 18260.0,
+   "ust10": 4.912
   }
  ],
  "horizons": [
@@ -1421,10 +1432,10 @@
   },
   {
    "c": "neg",
-   "d": "Turun 4,8%, dekat low 2026",
+   "d": "Turun 8,7%, dekat low 2026",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$58.944"
+   "v": "$56.544"
   },
   {
    "c": "neg",
@@ -1442,10 +1453,10 @@
   },
   {
    "c": "neg",
-   "d": "Naik 3,2%, sekitar rekor",
+   "d": "Naik 0,7%, rekor terlemah",
    "h": "usdidr",
    "k": "USD/IDR",
-   "v": "18.158"
+   "v": "18.260"
   },
   {
    "c": "neu",
@@ -1456,9 +1467,9 @@
  ],
  "regimeText": "Aksi jual saham AI membawa S&P 500 ke zona koreksi dan Nvidia tertekan laporan pemeriksaan SEC, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Ketegangan Hormuz dan perang Rusia-Ukraina menjaga risiko geopolitik tinggi.",
  "regimeTitle": "Stagflasi, risiko tinggi",
- "risk": 88,
- "riskNote": "Risiko sangat tinggi: S&P 500 masuk koreksi, Nvidia anjlok, emas dan Bitcoin turun tajam, rupiah mendekati rekor terlemah.",
- "updatedAt": "2026-11-21T00:58:00Z",
+ "risk": 89,
+ "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, Bitcoin jatuh ~9% ke ~$56.500, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260.",
+ "updatedAt": "2026-11-21T03:58:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1763,7 +1774,7 @@
   },
   {
    "k": "Likuiditas & dolar",
-   "v": 86,
+   "v": 88,
    "note": "Dolar kuat, emas -4,8%, BTC -5,6%"
   },
   {
@@ -1795,7 +1806,7 @@
   "points": [
    "Wall Street ditutup sangat lemah: S&P 500 turun ~3,7% ke ~6.910 dan masuk koreksi; ini rangkaian turun terpanjang sejak 2020. Nasdaq negatif untuk tahun ini.",
    "Saham Nvidia anjlok sekitar 12% setelah Reuters melaporkan SEC memeriksa isu akuntansinya (belum ada temuan pelanggaran); aksi jual saham AI meluas.",
-   "Emas ~$3.527 (-4,3%) dan Bitcoin ~$58.900 (-4,8%) tertekan dolar kuat; Rupiah rekor terlemah ~Rp18.160-18.260 per dolar, IHSG 5.146.",
+   "Bitcoin jatuh ~8,7% ke ~$56.500 (dekat low 2026), emas ~$3.539 (-4%); Rupiah rekor terlemah ~Rp18.260 per dolar, IHSG 5.146.",
    "Geopolitik tetap panas: negosiasi Hormuz buntu dan serangan kapal berlanjut; rudal Rusia jatuh di Polandia. Brent ~$90.",
    "Pasar AS tutup akhir pekan; pantau IHSG dan Rupiah Senin, PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, FOMC awal Desember."
   ]
