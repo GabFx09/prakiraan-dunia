@@ -1,7 +1,16 @@
 {
- "updatedAt": "2026-11-21T09:57:48Z",
+ "updatedAt": "2026-11-21T10:02:08Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears",
+   "src": "Beinsure",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA?oc=5",
+   "time": "2026-11-21T09:57:39Z",
+   "t_id": "Perkiraan S&P 500 untuk tahun 2027: Wall Street memperkirakan rebound setelah penurunan 11,6% yang dipicu oleh ketakutan terhadap AI"
+  },
   {
    "topic": "geopolitik",
    "lang": "en",
@@ -137,15 +146,6 @@
    "time": "2026-11-21T05:42:00Z"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia shares plunge as Anthropic can't stop the AI selloff",
-   "src": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5",
-   "time": "2026-11-21T05:37:32Z",
-   "t_id": "Saham Nvidia anjlok karena Anthropic tidak dapat menghentikan aksi jual AI"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Mendagri Raih Penghargaan Pengendalian Inflasi Detikcom Awards 2026",
@@ -205,15 +205,6 @@
    "src": "KONTAN",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUHoybXpVdlU2bEY3NGRleGRMVDdyMHd1Z2Q5eFdEeWFxNkZGX2VjV05pUVlxUzE2QXBlcEdodU0yRm5WZ0tHWTJmMjA2OE9hSFdVamloTURDdkR1aHI2LUw5Q3I0T3BjMUptNXVGWThPVGNJRU4xWlI1WDVpcnVsSTIybjVHTDNXWjZ4ZA?oc=5",
    "time": "2026-11-21T03:10:04Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Falls Below $60K For First Time Since July, Saylor's MSTR Hits 52-Week Low Amid $14B Paper Loss",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUJVejY4MUFjdWN0dVNqV0Q0TWU0QlFKR2RKelhnSFdyVUZVMllXNnBnT2NGOUNRZ0QwOGRLRWlEMG5hVnk5LWM3Qm9XZzl0Y3JLT2Q5Q0pRLUZKQVc4OWstZUpvUkNJNnJaVnZaWDFfeVY4V0c2SjB2OFMxUVIxaGtsdjh2Y0ptbVN4d2tDU3k1MEJ2eWVMZUp3?oc=5",
-   "time": "2026-11-21T03:10:00Z",
-   "t_id": "Bitcoin Jatuh Di Bawah $60K Untuk Pertama Kalinya Sejak Juli, MSTR Saylor Mencapai Level Terendah 52-Minggu Di Tengah Kerugian Kertas $14 Miliar"
   },
   {
    "topic": "indonesia",
@@ -285,6 +276,15 @@
   {
    "topic": "ai-teknologi",
    "lang": "en",
+   "t": "Nvidia shares plunge as Anthropic can't stop the AI selloff",
+   "src": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5",
+   "time": "2026-11-20T22:58:33Z",
+   "t_id": "Saham Nvidia anjlok karena Anthropic tidak dapat menghentikan aksi jual AI"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
    "t": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYVdGdzl2am5CT1o3QlFFV2duR2dJZzNpbjlrYWg2cU4tVHJwZ0I4WWhaVmd3ZHQ0cTVyRklGcHprTlk0UFEzenE2T2ZNZ1pvNXdKbDBySkFDXzA5cktobkRxaTcxdkZzWGtfXzVzLXZqeEhnSDk5VEROWGRsNzQ?oc=5",
@@ -292,22 +292,13 @@
    "t_id": "Saham Terkoreksi, A.I. Kekhawatiran Meningkat"
   },
   {
-   "topic": "bank-sentral",
+   "topic": "kripto",
    "lang": "en",
-   "t": "The Federal Reserve Is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question.",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTFoLTh6OXU1N2ZjSmNYN09CTWhISTZuaVhMSXJCbklsdEFyWGpQN3B3c0NieVdVRUV6VnRDYjdIWG1vaFVOQWRRM19ZaklQMUZuUktlT2hCT3V3NnhCZDg2Y215b09aVmFFRkNyeTNmYzZYYWt1LXlnRkM3bG1ad1YxdGVNUnVhcE82RXh4TQ?oc=5",
-   "time": "2026-11-20T22:39:00Z",
-   "t_id": "Federal Reserve Diperkirakan Menaikkan Suku Bunga Bulan Depan. Berdasarkan Berapa Banyak Pertanyaan Terbuka."
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Trump again urges Fed to lower interest rates",
-   "src": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHJUSEpNa0JZMndrUTZhcTdiQjkzTUU0bkJqSmF5ZGNJYV8xSGozbjJTQ3FwUEpNUUdvd0JjYWJHMy1vRGI5YlNrUmNlUF9vNVFiYkRyT3YwWmdhRWlFMVl5bGVPcUcyeTNVRDNENzJlTVYwT3hWSHV0UUwybF9wZEFmQjE4LWc4OVBUVUx3SzJEREJmUXNhTU5ETTQ1Rl92dmFtQS1B0gGrAUFVX3lxTE5WbHZmMnMxbl9oRlU5S0JsbFFBVF9RaldTc1RfSmk1dEZRNEw3SEJhZkw0S19HQ1dfNlNiZjZ6T05UWDNYZ1BRMkNQRWhxWGt6U2JnRkZ2emQ0NmFfdWN5ZFdQdHV2NXhncWpJc05qWU1kQnJYSVBOM2NTeGRfWkE2TFduRWpWX1FmQ0pOSU1OOWkyUXpiNFFWWERBVnNJakdHUzM2VjR0VEhYYw?oc=5",
-   "time": "2026-11-20T22:32:00Z",
-   "t_id": "Trump kembali mendesak Fed untuk menurunkan suku bunga"
+   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "src": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5",
+   "time": "2026-11-20T22:44:19Z",
+   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
   },
   {
    "topic": "ai-teknologi",
@@ -317,6 +308,15 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUppLWR4d2dnRV9rVHBJVTRhWlpVSjBWUWM2T2ZfeFZOeGVHYk13LUY0T1ZNX1M1VTMxUWlkV0s3ZGhScHhJZ2ZaTUVCSm9kZEd2Qm9Bb3BxczJmVW5mQng2eGZOUll6T0xQb2VVQlhDdTRqT3Z2SzlRR3R2R0lUdFFIVDVFR0kzSnhoaWxQMEZobERjN3JiZzVR?oc=5",
    "time": "2026-11-20T22:30:00Z",
    "t_id": "Michael Burry memperingatkan saham AI mencerminkan kehancuran tahun 1929 dan 2000 — dan menyoroti kesepakatan berisiko Nvidia"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil Futures Fall for Third Straight Week on Supply Outlook",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ?oc=5",
+   "time": "2026-11-20T21:51:03Z",
+   "t_id": "Minyak Berjangka Jatuh untuk Minggu Ketiga Berturut-turut karena Prospek Pasokan"
   },
   {
    "topic": "geopolitik",
@@ -353,15 +353,6 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnpNdWkxZGxrTWo0cjVOSUZNOHVscTlNcG5FdEdpZElURkFoUkRJcFp5VjB6NklrbG1NcjVjNmlEOG5yMlRpU2RJbGViSHVBZUIwZlgwcHp2eGQyVjhhRWtoRk1UWU5sOUM2cW5iZloyOVhtNHFBNi1DTmpYRE1KMGtPb0dDVVgyX1ZXT0VzcHFsa25YSE5xNFNmc2tPZzBCVVc1aHc3c2pjUG1DOE15MktCVV80dw?oc=5",
    "time": "2026-11-20T21:30:39Z",
    "t_id": "Saham Berjangka AS Turun karena Penayangan Perdana Antropis Mengecewakan Investor"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Oil Futures Fall for Third Straight Week on Supply Outlook",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ?oc=5",
-   "time": "2026-11-20T21:16:00Z",
-   "t_id": "Minyak Berjangka Jatuh untuk Minggu Ketiga Berturut-turut karena Prospek Pasokan"
   },
   {
    "topic": "emas",
@@ -444,15 +435,6 @@
    "t_id": "Dorongan dan Tarikan Kebijakan Perdagangan AS-Tiongkok"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed’s Cook questions whether one rate hike is enough",
-   "src": "American Banker",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY0tKMDNCS1VrWi1YQ2g2d1BHZ09rTF8zSC0wY09oOWpCYzk3VjVESVZlemxIMWVYOUJlZ1R5VjduUWtNaHQydUVha1FlQWdCa1NlQTdPZFBtXy1FNlczdVhHbzJUa1BwazJLaUY3YWt3WXFzLTlZOFdPaldOdVNLaW5QQ1NjWXdEQVVWS1kwaFhUdw?oc=5",
-   "time": "2026-11-20T18:22:11Z",
-   "t_id": "Cook dari Fed mempertanyakan apakah satu kenaikan suku bunga saja sudah cukup"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
@@ -471,15 +453,6 @@
    "t_id": "Laporan Mengklaim Iran Sedang Mempersiapkan Konvoi Minyak untuk Menguji Blokade AS"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
-   "time": "2026-11-20T17:41:25Z",
-   "t_id": "Gubernur Fed Lisa Cook Mengatakan Perbedaan Pendapatnya di Bulan Oktober Mencerminkan Urgensi Perang Inflasi"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970",
@@ -487,15 +460,6 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0Qwdm5RRlNVeVhxUnY5aHFwQWxTT1A2MzhzanZidl9Ed29NeU1YLVpIYl9oLWhXUGxGRFFZekFucEhZVC1qVzFpM3JWYjNsck5BaEZ5MFBLdmJXSnZjN1J6LWw0S1E2QjQzYk1pbDRXelJhVnNTU3NtSVZadHN3a1Y1cGE1VzQ3RW5hRzRHaTU?oc=5",
    "time": "2026-11-20T17:34:15Z",
    "t_id": "'Everything Crash' Melihat Harga Emas Memperpanjang Kemerosotan Terpanjang Sejak 1970"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed's Cook says rate hikes needed to lower high inflation",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-   "time": "2026-11-20T17:19:43Z",
-   "t_id": "Cook dari Fed mengatakan kenaikan suku bunga diperlukan untuk menurunkan inflasi yang tinggi"
   },
   {
    "topic": "emas",
@@ -516,14 +480,52 @@
    "t_id": "Harga Bitcoin Turun menjadi $59,000 saat Penjualan Pasar Mendalam"
   },
   {
-   "topic": "bank-sentral",
+   "topic": "geopolitik",
    "lang": "en",
-   "t": "Bessent advocates lower Fed rate hike, cites energy shock",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGFNZUZDMnczUkJPbkFBSlFpT2k4TTZSZjhvOEJZWXZJVVlEb3RIaHZMR0o5bTl0eGNDOGlfZ2FOakdhR0IwMjB1RmpRUEtrTjhuSTlOSEZkMGZIZ3RNcXpoNEhBb3FmWmRKUW5rTFItdlJPcGxuUzlRVzhEZXhuNWJMTmR3QjNkaThIcE1JdGpucW1IUGU4SWFiS3dTQQ?oc=5",
-   "time": "2026-11-20T15:46:19Z",
-   "t_id": "Bessent menganjurkan penurunan suku bunga The Fed, dengan alasan guncangan energi"
+   "t": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQQ?oc=5",
+   "time": "2026-11-20T15:11:43Z",
+   "t_id": "AS menargetkan kapal-kapal yang meletakkan ranjau di Selat Hormuz di tengah blokade yang mengganggu pasar minyak global"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "With Oil Revenue Running Out, Iran Teases Breaking US Blockade",
+   "src": "Radio Free Europe/Radio Liberty",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnS0VmRlE3ekV3ZHk0YzY3QjVhVkJJQUd1WWQ2NXVPQmpsN1pqWWg2MVpxajZYQnJIRVNOakJPU0FaUHVJYkVJQ2xScnNrcy15X2ZkLVpsTE42bXdYQ1VrVzJ0X2ZrdDFJalNWbnNJRUJBWEt6amc3V2N30gF8QVVfeXFMTUllRVc4WjBtR0x5QzBEcWE5TDBtQUVnOVRCSDRPUWlfU0ZUdldBd3pFbXZackNOR0xtNmE2el9MRWxmSmtXdkhlNGVJVWlfbDVsczFwem9DMmx2UU1nb0QtZFpwUjN5N0R4Vkh4SjdhY0w4WEIzWmFWcE5Wcg?oc=5",
+   "time": "2026-11-20T14:38:56Z",
+   "t_id": "Dengan Pendapatan Minyak yang Menipis, Iran Menggoda Melanggar Blokade AS"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmZadko1d2NDa3h3cVJUNGZTbHZjcUZGd1ZNYkxOWlBwLWd3Rk9KcHFuVWdVcUVWMUVNQW5iSklCZkEtaC13bGZWZlpKQl9JUmNzSlFBdjViaGZENDBGdWU2Z3FPQk5hZGRNUlVmckQ2aUtOWkIxQlhVa1AwVXFkd2JkYVVva2czQk1NUtIBkgFBVV95cUxPWHg0Ym8yVHNqV2lITW81aDhBSzZyN2M4ekMzelRIQ003YVVGZWkxRjhHMGl1TXBoVWEwUnF0aG9zZ0JFTnFjWWxjQWFnWVhiS2Y3R3ZfallHd2RwczdSQWFoaDYtdmxKSVRiX2ZNeHJqcGVTdldlcjQ3RHpqQWlOVFpjOHU3NHNCWjEzaGZmbFdkdw?oc=5",
+   "time": "2026-11-20T14:29:45Z",
+   "t_id": "Kasus regulasi Bitcoin telah selesai. Apa yang bisa mendorong keuntungan kripto ke depan"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+   "time": "2026-11-20T13:16:47Z",
+   "t_id": "Ketegangan perdagangan AS-Tiongkok, Taiwan, dan teknologi masih belum terselesaikan seiring kembalinya Trump dari Asia"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Tariffs keeping essential baby products costly despite U.S.-China deal",
+   "src": "Kiowa County Press",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblBfakVfSm1MVDVibWV2UnFCVkowbGl0eTVpVlBkenZXRFRDT04xMU9FRDZtTV84U0tWNkU3SGlscUZDSlFRMHlTbnZuV08yaUVmOTFPa29zeUlTZUhfaGMyOUcyU0YyMjd5VzZ5bVlkdXlGMjVVaUlfYW12VnVoWC1SWGxWY0UyTDM3N2d2SjVjUkR3aE93WmJldDZWMW1SbGIzak8zdFk?oc=5",
+   "time": "2026-11-20T12:19:39Z",
+   "t_id": "Tarif membuat produk-produk kebutuhan bayi tetap mahal meskipun ada kesepakatan AS-Tiongkok"
   }
  ],
- "errors": []
+ "errors": [
+  "Federal Reserve interest rate: HTTP Error 429: Too Many Requests"
+ ]
 }
