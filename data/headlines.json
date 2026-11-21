@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T15:14:50Z",
+ "updatedAt": "2026-11-21T15:29:28Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -253,14 +253,6 @@
    "time": "2026-11-21T05:45:15Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI-Rate Naik Jadi 6 Persen, Ekonom UGM Ingatkan Sektor Properti hingga UMKM Bakal Tertekan",
-   "src": "diksimerdeka.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZHg5cEkwdEdYNXdVOHdtYVI0OGpOUHBzWlJma2tlTGhaeUdrMUlBLWdwNWFCTTV6c2NzdVNVTmRSUlZmS1ZhY0JEejVzTlBWY2VFa1pES0tmZ1pBYWQyZHFheTdSWXB6eG05LVVzWVY?oc=5",
-   "time": "2026-11-21T05:27:48Z"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
@@ -268,6 +260,14 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yOVM0ZTRBWjRWRW9KcFF1czB4bV9VbHNOYnZqSTRlXzk2SHBHTEo5RnIzR0xkNklES1Z6ZnZZSTRhM2tjZEFnQ3VEd1BCUDFPcFRBSlhB?oc=5",
    "time": "2026-11-21T05:20:10Z",
    "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Mendagri Raih Penghargaan Pengendalian Inflasi Detikcom Awards 2026",
+   "src": "CNN Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUjRmOHFyY0lhOU9yd2s4LWxaVHhNSV9mLVNjYU8ycVZrWGlHSjlGOXMwMkJ2YmdpOEFOWFZfZXI0S2RkNnlzU1pncGVEQy05Ukx5MjZ2Rkl6ZG1qODhBcHJucHZPa1h2NGhjUE50bkpwdmQxVG81Y2FIQ2ZOMExpVlNmbFNyTVpwR1pkeU1Ub2tRZURUX191Rjd3VFJwXy1YRjk2YXlmLXpMLWhUbGkydkNwREN0WEZveGNfZFI2VGZBbmlGbTdERk9ySdIB0AFBVV95cUxQNmp0aVJ5eDE1cUgyZER6ZTRSckljN3VBQ1U2Tmw0bHVWOHp5blhiV0RtY0tZcU90N041VXk2OVJNWWZNbGNBcHpFTEFnTjZmZEJKZlBXbDFoYVNZem5vWjhYZ1lFZGZGR1ozN2dHVDVZRnlnai1FUEtyWW1GMjNObTlUZjNBTEJlQktUaFM4VkM2a0QyOF9SMzZiUDdBU3pMWlZxdXZZYjNBcm9idWFFREZqZmc3b3dSbjZCVmYzVTZfVUstQ3hva2VOUU1kM0tJ?oc=5",
+   "time": "2026-11-21T05:18:49Z"
   },
   {
    "topic": "china",
@@ -284,7 +284,7 @@
    "t": "Oil shipped through Hormuz falls as Iranian strikes increase",
    "src": "Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRGJLeFNBLUxKMHJ5aGMyd1c3NzN5UHdpcnc0M0xkNWVtTHNlNV9ENW5SN1FmanBubUlhcU5XS29JNzNiWFVGY09BT2h3OW5pM3RvcG5RLVFLbU0tMGhZZzdocWJfQk04TElreFFQVXRFVjRJWGVvWjdvUl9Tc3NMcW5iWHQ?oc=5",
-   "time": "2026-11-21T05:00:35Z",
+   "time": "2026-11-21T05:04:45Z",
    "t_id": "Minyak yang dikirim melalui Hormuz turun seiring meningkatnya serangan Iran"
   },
   {
@@ -356,6 +356,15 @@
   {
    "topic": "saham-as",
    "lang": "en",
+   "t": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5",
+   "time": "2026-11-21T00:12:00Z",
+   "t_id": "S&P 500 Ditetapkan untuk Penurunan Terpanjang Sejak 2020: Markets Wrap"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
    "t": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
    "src": "AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
@@ -370,6 +379,15 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHMwSl9JYy1Oa3VaNG0zOTNlUzZNbHUyR0REeFFZekFrQ1JwbHdPYnh5aWNxbkI5VjNCdlFHeGc0UlRZUW92Tk1nek5DamVBX1RhbU9teHJzVmlCOW9ScHAzb0tCOUQ5aHl6XzEzcHhaNXFHQ01WYVpCd2JyanRDS0tIaHNyYWkxcGc?oc=5",
    "time": "2026-11-20T23:28:23Z",
    "t_id": "Nvidia Shakeup Membuat Saham AI Jatuh"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYVdGdzl2am5CT1o3QlFFV2duR2dJZzNpbjlrYWg2cU4tVHJwZ0I4WWhaVmd3ZHQ0cTVyRklGcHprTlk0UFEzenE2T2ZNZ1pvNXdKbDBySkFDXzA5cktobkRxaTcxdkZzWGtfXzVzLXZqeEhnSDk5VEROWGRsNzQ?oc=5",
+   "time": "2026-11-20T22:47:32Z",
+   "t_id": "Saham Terkoreksi, A.I. Kekhawatiran Meningkat"
   },
   {
    "topic": "ai-teknologi",
@@ -480,15 +498,6 @@
    "t_id": "Harga Emas Bisa Turun $300 Jika $3,500/oz Gagal, dan Pembeli Mungkin Menunda Sampai The Fed – Walsh Trading's Lusk"
   },
   {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns",
-   "src": "MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYm9HR1RRVG5WZ0Exd0ZzREE1b1lKRGJRX3hfeU9vZWdEY3NCdUlvaXJJejJfOVhwVmtha3dfXzY2Q1lHcFU3YVNKQWdwb3lmbUdlMnpvZ1hWa292NndOc05UWlJPU21pdXpENklnLUUwb2JOQkczNFNTM1VRTlNWTHFqSGc1b0p5TzZFdW5PZGh0RGxlYndndTI0cXEyblFXWXdHY2FkclVpQk5EdU9UbGxMSEwwVU1uanhId1NHX2RuaWQ2cVUyanFNNVpWMFk0cEpqeUw2R3U5QlZ0aloyeWt0eVBpQQ?oc=5",
-   "time": "2026-11-20T19:43:00Z",
-   "t_id": "Saham-saham bisa menghadapi 'lingkaran malapetaka' jika Wall Street meremehkan risiko penurunan ekonomi, demikian peringatan dari pakar strategi"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "S&P 500 sinks 3.7%, Nasdaq composite goes negative for the year as tech sell-off worsens",
@@ -505,15 +514,6 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
    "time": "2026-11-20T18:52:08Z",
    "t_id": "Dorongan dan Tarikan Kebijakan Perdagangan AS-Tiongkok"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
-   "time": "2026-11-20T18:23:00Z",
-   "t_id": "Gubernur Fed Lisa Cook Mengatakan Perbedaan Pendapatnya di Bulan Oktober Mencerminkan Urgensi Perang Inflasi"
   }
  ],
  "errors": []
