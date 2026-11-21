@@ -1,7 +1,37 @@
 {
- "updatedAt": "2026-11-20T21:59:09Z",
+ "updatedAt": "2026-11-21T00:14:42Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-spx-20261121-down",
+   "time": "2026-11-21T00:14:42Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "spx",
+   "title": "S&P 500 anjlok 3,7% dalam sehari",
+   "body": "Harga terakhir 6.910. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#spx"
+  },
+  {
+   "id": "px-gold-20261121-down",
+   "time": "2026-11-21T00:14:42Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "gold",
+   "title": "Emas anjlok 4,0% dalam sehari",
+   "body": "Harga terakhir 3.539. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#gold"
+  },
+  {
+   "id": "px-usdidr-20261121-up",
+   "time": "2026-11-21T00:14:42Z",
+   "level": "kritis",
+   "kind": "harga",
+   "key": "usdidr",
+   "title": "Rupiah melemah tajam: USD/IDR 18.158 (+3,20%)",
+   "body": "Harga terakhir 18.158. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#usdidr"
+  },
   {
    "id": "news-2026112021-wallstreet-koreksi-nvidia",
    "time": "2026-11-20T21:00:00Z",
@@ -283,8 +313,11 @@
   "px-gold-20261118-down",
   "px-gold-20261119-down",
   "px-gold-20261120-down",
+  "px-gold-20261121-down",
   "px-spx-20261120-down",
+  "px-spx-20261121-down",
   "px-usdidr-20261119-up",
-  "px-usdidr-20261120-up"
+  "px-usdidr-20261120-up",
+  "px-usdidr-20261121-up"
  ]
 }
