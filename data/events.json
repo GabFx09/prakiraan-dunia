@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T12:59:21Z",
+ "updatedAt": "2026-11-21T13:03:08Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
    "src": "ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHFicG96NmljUi13TGl3eFlvVHRHV3FpMldnUk1lemVJM2E0MkNOdXEtTWkxR3QxWElNd1VoeFFEVk5MU3dtelJ4eHBHb29XcU1sSlRkRFgtRHg5b2hLcGx3b1ExMnR6aDBCcFV6S1BSeTAzQ185Nmd4aUJsTUNwaVRmeXMzcU5hYk5uNDhBQ1pybjR6RDdKTENYSnJ4bFlaVjVsZmtvTkhycTB0c0Q2MXRRSENKTlRGaUF0UtIBwgFBVV95cUxNSngyVTRPU1k5M01wVmtEdklZbE8xdkdCdzhSVUNrMm1CdEJ6NjNILVNhbF9NVUxkZzQ0dGk3SFZDQUZ0V01PbW5ydzFrQnhzZUJ4Wm5yUE05UjhCSlZQZ1F4bVQxS2tMYTlhWkdRMHZ5dC1qd1BrRHZkVVZucE1ZbGFuU1pQVW9Ca1VWcDdFT3lPdW9CaXNSVUF3Q3VTd21sRVk2UmpfSll1cUpNMDlJRkVpUHo1ZFlDTDlEcm1sSF9BUQ?oc=5",
-   "sources": 29,
+   "sources": 32,
    "recent6h": 9,
-   "score": 33.5,
+   "score": 36.5,
    "level": "besar",
    "first": "2026-11-20T12:36:30Z",
    "last": "2026-11-21T11:45:20Z",
@@ -140,6 +140,37 @@
    ]
   },
   {
+   "id": "siber-202611201829-564c",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Trump ousts cyber director after tech outages spark criticism",
+   "src": "The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVV6NjMweEExa3c2T0hJYW5kdFR4c2UyZXhoNkFwN0tEdXcyOUtmOTFkYTNfbDViRk1yZi13WUg1SnExWU5IblRGSGRlNG5sU1BQRmdlSzhTeWxXQnV1SVdhZXN2QTZtNTFmaWFkWFZRU2lwbC1tQ3dOR09xcHdoaEV2eWVUclBnX2hhY053?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-20T18:29:34Z",
+   "last": "2026-11-21T03:48:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "What The Tech? Preparing for tech outages",
+     "src": "WILX",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15Z0NQcHlIelhBckNaenNWcmR1NDBneFExTHFrcGFidnFzdXhCUmJGYU9PSEFmbVRJMVZmOEFnci0xb1ZZOEg3QUdOVVR1bHVTY1R5YzkwWnl0TGJOYmVsaUpDRGNMSXRtR3BkbEQ4V0pfck3SAYcBQVVfeXFMUFlCbk1tVlJuOW9kQTJhckcyckwzVi00UzBpX21reGZWcHJZcWdVSlBWM05MODB2SW1pTl9Yc2JkbXhkN242cmc5UjFpMlRBUXVTVUJxRVo3NnBHdDF5bGxHTEhITDRscXR0dm5KUk9tR1lmZlVldHFUeWw5dHBUSFJPbk1YUk5J?oc=5",
+     "t_id": "Apa Teknologinya? Mempersiapkan pemadaman teknologi"
+    },
+    {
+     "t": "Trump fires cyber chief over tech outages",
+     "src": "Morning Star | The People’s Daily",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjdzV05adUNTWEhXREItaW1NZWJoYV9oblpMd2wwZ05pSjFzc3Ixd2c5cHc1a20wcDhITzAyeGFDM0RXUk9ROFMzU1d1YVQtQVVyVDZiMGxiZG1lZ3NWRjRZTlhsM1BmZVkxSlhPNHZoYzNzVFVDR1IxS1hnbmtwd2VJMjQzLS1U?oc=5",
+     "t_id": "Trump memecat kepala dunia maya karena pemadaman teknologi"
+    }
+   ],
+   "title_id": "Trump memecat direktur dunia maya setelah pemadaman teknologi memicu kritik"
+  },
+  {
    "id": "perang-202611200239-ebfb",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -196,6 +227,31 @@
    "title_id": "Rudal Rusia menghantam Polandia: Apa yang terjadi, dan dapatkah NATO meresponsnya?"
   },
   {
+   "id": "siber-202611201401-9092",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Outage at NSA’s highly classified communications network has been resolved, sources say",
+   "src": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOck9MTGhNNDNhVTQzZ2R1NkV2T1FpY1lrYmFfYUNRUE8wenByZGJhRHF5clMxNkh3Qmd3NmtkVjRxREYwYjZJdERnczcwT0FrZ0s0MFkxRlF1bFI5eFVDbktpdnY0Y3VsRTRPbFVvTVJoblQyYWNfVWVtTno0M0ZSaTY0YVI0R25TbUt5TWRn?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-20T14:01:32Z",
+   "last": "2026-11-21T05:35:13Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "NSA's Core Classified Communications Network Restored After More Than Three-Day Outage",
+     "src": "아시아경제",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDdkxTT0pmRlAwb0s2dTV6eXpzYTdBOHhLWFRGMnpHOWs3dVFxVUdvdFJJb3JFN2w1RDhTRXV5TXVqM3BtZTZKTlVidUpIYnlSWFBObkU5eHYxem8xUGZ5S1VQUnE?oc=5",
+     "t_id": "Jaringan Komunikasi Baris Inti NSA Dipulihkan Setelah Lebih dari Tiga Hari Padam"
+    }
+   ],
+   "title_id": "Pemadaman jaringan komunikasi rahasia NSA telah teratasi, kata beberapa sumber"
+  },
+  {
    "id": "perang-202611201733-baf5",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -244,6 +300,31 @@
     }
    ],
    "title_id": "Keadaan Darurat Diperluas ke Wilayah FL Utara di Tengah Curah Hujan Bersejarah"
+  },
+  {
+   "id": "kesehatan-202611201620-e8ba",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "New case of bird flu confirmed in US dairy farm worker",
+   "src": "The Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOG5BeEtfekpuOVVnRXNMb0hJQXZONE1OR1czdDBUeC1jajZGQlNzQ1E5SXI2eWVQU18zZGI1eDlUT1dMZzg0RndUZGV5Sl9BemFqNXNtTTEtMDkyaTNZQXBjNFB4ZXUtYjhNN2NBaDVENlhoVVpuVElUZ1laNmpoMnRxWTlYNk1KUUtDem1wdmYxRENMejVuSURJU19tTXhMOGpLejhQLXdqdVhydlpkMUtQeEtlNGUyU3lXNGlySQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-20T16:20:08Z",
+   "last": "2026-11-20T19:40:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "State officials urge USDA to authorize dairy cattle vaccination amid new H5N1 bird flu cases",
+     "src": "DVM360",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZW5keEJjTzRpWHZyVzRYVG1BcDJRdmgyUFl0WnQ3NDZpSFNZQVZYc3BpakVEVmdDVG8wcVVPQXl1Rm9XZmh2Q2Vucy1GN0pWUk9Db21zWmJCcmxGcDZBS2pBSEJ6eUN3Q25FWFJmTjk3ZlRCVWpDbHVuZmQzT0JvYXJyRGtSOWVsWlpkMFFWaGt3LUZEY2RrQ2U1SVJycmltUnJ5NGlMdWU5dUN1ZjZWRXZISmdJT2pGUWIxcg?oc=5",
+     "t_id": "Pejabat negara bagian mendesak USDA untuk mengesahkan vaksinasi sapi perah di tengah kasus baru flu burung H5N1"
+    }
+   ],
+   "title_id": "Kasus baru flu burung terkonfirmasi pada pekerja peternakan sapi perah AS"
   },
   {
    "id": "politik-202611201752-b0a0",
