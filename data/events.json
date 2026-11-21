@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T23:41:41Z",
+ "updatedAt": "2026-11-21T23:56:15Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -7,17 +7,28 @@
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Russian cargo ship bursts into flames in Baltic Sea — as ballistic missile attack on Zelensky’s hometown kills 2, wounds 60",
-   "src": "New York Post",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5",
-   "sources": 13,
-   "recent6h": 4,
-   "score": 15.0,
+   "title": "Ballistic missile attack on Zelenskyy’s hometown kills 2",
+   "src": "The Pioneer",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckhrNWk4M1lNbEw5cEJpV1Z3bm03NGcxa2NMeDJhX1V3dUNhSXNxcnpqQzRLTXZTTWV4R0lJRDlLWWZkQzJxWUNfbXB6ejV2Yno3R0J0cmxQRUs5VGZiUHY5VmhlOWJoeDlNMTdvN0tCVTRqYkdBLXFvdW9VNWYtVmpSNGVwWFZvdXpTWncxQ3RwN2RGRklKMjJJcHnSAZwBQVVfeXFMT3JIazVpODNZTWxMOXBCaVdWd25tNzRnMWtjTHgyYV9Vd3VDYUlzcXJ6akM0S012U01leEdJSUQ5S1lmZEMycVlDX21weno1dmJ6N0dCdHJsUEVLOVRmYlB2OVZoZTliaHg5TTE3bzdLQlU0amJHQS1xb3VvVTVmLVZqUjRlcFhWb3V6U1p3MUN0cDdkRkZJSjIySXB5?oc=5",
+   "sources": 30,
+   "recent6h": 6,
+   "score": 33.0,
    "level": "besar",
    "first": "2026-11-21T04:38:09Z",
-   "last": "2026-11-21T21:38:58Z",
+   "last": "2026-11-21T22:56:19Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Russian Missile Attack on Zelensky’s Hometown in Central Ukraine Kills Two, Wounds Dozens",
+     "src": "Breitbart News",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxIQkNZT3NodnN2Z2FFNVczeTlOMTlJR0xBU1A5WTdVMzhqNkVGd1V4OWJWUnVHZXlRb2xkMS1STkpkUFVTUzJDMFc3RmpMMzZLWTE5RTRiSjBiN04wVVJVYVRSY3pIOGxwUkhJM21JQ0ZDODJhQzlkYU5uSnU3bzNob1J4anktb0pNcmgzRW83aVR6VURlbHRmWWVsdVJINHl2c2k1c0FKaHJpVWdNRGFybEVWNExlTks2eW1IYWxNVDdCYXVvYlc1THg?oc=5"
+    },
+    {
+     "t": "Russian cargo ship bursts into flames in Baltic Sea — as ballistic missile attack on Zelensky’s hometown kills 2, wounds 60",
+     "src": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5",
+     "t_id": "Kapal kargo Rusia terbakar di Laut Baltik — serangan rudal balistik di kampung halaman Zelensky menewaskan 2 orang, melukai 60 orang"
+    },
     {
      "t": "Ballistic missile attack on Zelensky’s hometown in central Ukraine kills 2 and wounds scores",
      "src": "Los Angeles Times",
@@ -25,25 +36,11 @@
      "t_id": "Serangan rudal balistik di kampung halaman Zelensky di Ukraina tengah menewaskan 2 orang dan melukai banyak orang"
     },
     {
-     "t": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
-     "src": "France 24",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzVXY04xQXdDbkJEeFdFeGh2bEIwNXdfc3BpUjBYcHNmSFNvd2lNWlEzdXN0YkVLaUZEd2xqMGNXMDcycEJXWWc0ZUVMc3lpM3MyQS16WWJtNzRYci1OTm1qa0thYktuVUdUUkRMcEttNDhtVS1leEkyUDRpbXBXYVFOQmhaR2FCM2s4V0RpMEN5ZHNlOWozbVBOYmwyc09kb3FZbFk1OS1HLUxvdFdv?oc=5",
-     "t_id": "Rusia melancarkan serangan rudal balistik ke kampung halaman Zelensky di Ukraina tengah"
-    },
-    {
-     "t": "Russia launches deadly missile drone attack, Trump invites Putin to G20 Summit in Miami",
-     "src": "FOX 13 Seattle",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YUdkcGRMMER2R0ZvN1FtSHd3bV84eDFRRGY5NFRabmY0cmJtSjQ4ZERlQTZaYmFjRFI1aVFQUUVPcVNqTkZITDhwM1hJY2h0WDlvWkl6LXBaSXA4dXBHdWRELXRMd9IBa0FVX3lxTE82QVpEbFBpM1NLYU1JeUVSdjJoR01KTzh6RG15dHRjV1kwV1pYNHItd3hNS01VeENVNXhqeUhTS0hGWFNmcnpOeERyXzh0STZHZmFSYlVNcVhBMS12VVFITFBYMWtWTy1rN2s0?oc=5",
-     "t_id": "Rusia melancarkan serangan drone rudal mematikan, Trump mengundang Putin ke KTT G20 di Miami"
-    },
-    {
-     "t": "Young boy one of two killed in ballistic missile attack on Zelensky’s home city",
-     "src": "HamHigh",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcy13OUZrSGdkakJnN2tRX01sV0t1ZmVpN1FxY0FYMG9mWXZ2NF9iaGlwR1VVeE40Nms3TDdSSlhSbVpialVoU28xbkZwd2tld1pkUVVNRUpxc2JHREFUbVdIbWxFa2hfSEpuMHFGMjJFNFdac0J1eFNfR0hURGltWGlCMkNlc2NEX3R5al9qQjFXNkFNUGtGX0NmaHFTd2Y4dVl6LVRDRHp3TFMzUTR1TmwxY19KTk5UQ2tV?oc=5",
-     "t_id": "Bocah lelaki satu dari dua orang yang tewas dalam serangan rudal balistik di kota asal Zelensky"
+     "t": "Russian missile strike on Zelensky’s hometown of Kryvyi Rih kills boy, 7, and paramedic",
+     "src": "The Insight International",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjgxYkJ3UnVDZTliWHo2TGZGWHFVaV9icDBvWGdfTUR0UVlNdzlvbkdpTktWZnBfSFpVWG4wRE9DaWVBQ3BhNUZScVAyb1NuM1ZNS0w2ekg1MnhyUlNSMXFhN3NUME1sSFpMWG5VX2N3eVd0S0FLZkE2djVXQzE5MXBMSEpvLUdYQWRNcFc1blNiei1ZNjdrY09obXlNOWVmZlhsLThjRGN2ZGZvMDNZQ3V3NHY2NlY2WEZWbQ?oc=5"
     }
-   ],
-   "title_id": "Kapal kargo Rusia terbakar di Laut Baltik — serangan rudal balistik di kampung halaman Zelensky menewaskan 2 orang, melukai 60 orang"
+   ]
   },
   {
    "id": "indonesia-202611210453-802e",
@@ -84,6 +81,88 @@
    ]
   },
   {
+   "id": "perang-202611200239-ebfb",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXJxS0Y2ZWlaREQtbEtfbmhwcFJibU9pOTdCalNJNGhlTElNSmFMZXN0Sy1YYTlVN2VfcGRpbFgtNFlKM0I3ZEtILWk1TTRTVG1KYkp1VmJqcldtNG1rVnY1cG5rMUppb29kekNKazBGUy1LMVRKeEtOcmd2cTdFNUQxVl9mS3Zld0VqbEpiSU9nQU82bGdqUUN3c0JlMHR6VHB4UHlxU2Fod9IBrwFBVV95cUxPWS1tWElsbWdpWUFTN3VyamFlYTd5UXhMLTI1R0NKa1NzamV5WVIwRndZRm5qOWgxclQwOEprdi1tb290VHFnZWZHMGtSTVJidmFZT3RJVWpKS3lscFl6N244akRLQ29UeDZGcVBiZjR4MkthYkdCRUxCdmhtZnd0eFl2ZWtaWDdEN3Ridy1nLUgzN2E3LXI1MnEyb2NxTHlMUllZcnd2MUlHYXIwS2tr?oc=5",
+   "sources": 5,
+   "recent6h": 2,
+   "score": 6.0,
+   "level": "sedang",
+   "first": "2026-11-20T02:39:11Z",
+   "last": "2026-11-21T23:29:33Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Poland says Russian missiles hit its territory; Trump calls it a mistake",
+     "src": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5"
+    },
+    {
+     "t": "Kremlin seeks to normalize attacks as Russian Kh-101 missile fall 35 km from Coalition of the Willing drills in Poland",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHZwOU9abWdaMFdUWEpfbWZnYml3LWtOSlV5Y1BTanNwZEVmV1hNWHNYZW04bGlvVGxEU0xqVW00WDllYnZ4c0RNdTRaOGFQZ0tVNEZhQXV2NC1mU1ZwMGNiVjFKcGFpN3pPQXVqZk9KOWg2Vkl1REZfRXJGVGlFSXFyTUplZDh5M21ob2JEei1tX3pKaEEzSEkxWUJxTDlGbElyUXlZZlVVRzd1dE9EVEJrQ0hZOXlTODhZZ1BzV1Frc2V3NHfSAcIBQVVfeXFMT1B0LUluQndxbWd3dTlzalJROVM5VVYtTlY4cUhZWEloRjl1Y3hLTlJiWXZ3dXRWaFdKY1FaRXU2R0NzWEZCbElXNkZ6ZURJbXBVN1E4WXlrTlNSY25uNTNEd2FXaXh4djBkWnNNbmZ4dHBwRkMyd2trTExJSjFPVmlrTlI4TVhJckM4a0dONkxMVTNON3NPd29VaU9GZ0IwT0VrV0pLODJfLXhwUXpRWnEzay1UM2stX1ZTWmV6aTNvZEE?oc=5",
+     "t_id": "Kremlin berupaya menormalisasi serangan ketika rudal Kh-101 Rusia jatuh 35 km dari latihan Koalisi Bersedia di Polandia"
+    },
+    {
+     "t": "Russian Missile Lands in Poland During NATO Military Exercises; Tusk Labels it a Provocation",
+     "src": "illustrated Daily News",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZXVQVnJTNHp5Z2pHa3pBamo3T3I5M2FGbGwwdEhydkhINGl5ekxRUmQ3dlpjcEh6cUNzMXJzbXhyNE9nRVgyNFU2OWlHS19Ka3hQRmIyUTlDR0pWWElqbzdKdHozWTlFcGwzam1aNS1lQzVJU0VXbFFMRTJBN18ybm1BelRwdzN1aHdUMUxxSGNDTm9MR2h4eVhoTk1KQkcyeFVKYWpjaEZSTG9SMERIRThXbTQwd1FpNm9wWWVfcFFRQmMxdjBXeGtDakZ4SkpSdzV6OWZjY27SAd4BQVVfeXFMTmNxNEJpeEpkRDlXTE4wc3ZLS21JdzdYN3c1NGpDYzd6bmVSZVR3LVU0M0hVb0wxWkFRb196SldneGdkWW01X09kYm9NVUtXVWRCQzU5T0NRbFVHMk53YkR1V19HS1NtQ1R4QjNOVWQwRDFfeWpqdmktM2tHSFhLdWhqT1R0VlBkaW93ZEFPQ0szZWMxcTVKR1NnMDQ0YnpnUU91amJqTFd6WEFhZC1LbjhRQXpJeFRnV3dMVWxhaFFJakhmSmZobGZkRlFzZ1hheElKWTVGcGhwU1d3SndR?oc=5"
+    },
+    {
+     "t": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "src": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
+     "t_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
+    }
+   ],
+   "title_id": "Rudal Rusia menghantam Polandia: Apa yang terjadi, dan dapatkah NATO meresponsnya?"
+  },
+  {
+   "id": "perang-202611210035-1a13",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3ZhbEhHbVN4RWdTZWVLWGlFQnl1UlkySGFjTEd3NEJHaHBDeXZuclpCc1ZLNy1Fa0oxSlVJQlRLVmhCV1hkdFpPUVZ6Y2JXcDlhMDExaGpIOHM1RUhHVmlOMmV2SXVydFU3UWtvdVUxalkxUHRNdXg2Q2JZVG1WN3otT1lKaU4yVGwyUUJVVnJ4QkREb0tnVGZCdG5TQTFyUk1SSWZHMEhrclVTeVlUenVR0gG3AUFVX3lxTFBVWGExdVo0WFJQdkYxTTRNRVpBaFdBSzdObGNjOWZQVDJtTVZyNW9yQUEwbGtHU092TW1BY0FSY3dBc25wZVp2QjFIZnRLOE9RMFhLMWpjY0R1TVhUUWhubENJaE44Z1JMdDBXQWJqMDlGNVhzT2pHWEpONXhZUFcwWWE0bUtRb2xZV1VkUXZVS00xVmcwa0x1eWx5dHpES2FwcUQwV043NExycnNQb0ltbWw2QlF6OA?oc=5",
+   "sources": 5,
+   "recent6h": 0,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-21T00:35:34Z",
+   "last": "2026-11-21T16:32:53Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Saudi Arabia, Riyadh, Yemen, Houthis, Ballistic Missiles, Missile Interception, Drone Attack, Saudi-led...",
+     "src": "BizzBuzz",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX2Rodkg5bzRPS0Y3UEpwQWVGc2k5TEYzSnlXUTlKWG1NRXJXOFhzX3IxQi1kS3dDS1U4eDlWWUl5NlU3Ni1qcnRnay1DU1lFMEI3blV0UFlPdDZOel9vXzZra0F0dVNPWmlkMUdqVEtHSWhiRlJ3ZEFaNWFQaU9tQi1LVFRBaE5CNUhkRXVJZ0xidjFhdnExX2l6TXByLU5rNVZBQldhbml4blBsWjc5RHd3ZDk1cGswVWFzVi1rR1VzQTZvSTdaMXNDUTM1Skdma2tyM2t4RndjQnc0UjJMT2s1QWZob01SVnQ3NUQ2TlNvZ9IB9wFBVV95cUxOQWlZZlhEYUY1ZUU1MnpjcWtoZ0h4cDlIdUlFYWd2TkVZdmg5RWtXREZRaWxvdkxmbFJMeURNUThscXNlVGZTT1VLamRhM0lzcWFZSGxCckpqeEl4NDhjTTJkbDJUNTByOVJuZl9KaXJmbmkyYzJCRHA0bWNEbUhmSEROV2lLLXd3amJhbTduVVEyMGJ0ZEVtWkI2cEd4Yy1XODRaM1FPOVpsRmtuemo3SjNCM3BEdk4zUW9xNzJncVZFQ0pxakYyZnhuclZGSHBlVVBRLU5oaXhWLVE0dVRjbHVreEx6RkxBREx2Z2lrdi1KZnNIWnhR?oc=5",
+     "t_id": "Arab Saudi, Riyadh, Yaman, Houthi, Rudal Balistik, Intersepsi Rudal, Serangan Drone, dipimpin Saudi..."
+    },
+    {
+     "t": "Saudi coalition intercepts three Houthi missiles over Riyadh as attacks target Saudi financial, military and oil assets",
+     "src": "Organiser",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNemVOZ1Nua243cXB0SnJCbHI2ZWhpSk5xU0N5LU5ibXhRWTJuZG5vbUdGLUNMa1dwUEFOYjBWSXE2dElibUpnU1NNZVRuUW1KNE1LMlMwYlE4MDhKV1hIZlpnbGt4aU44VWJ5TS1qNHZicnhmYUdTZ2JwZTRxekdqLTZTMzZpakhUa1BadWJsUGpLUXRIZENLMnFXUGZ2cGo5TFFPWlZUTUYwdWNncW9LMm1vNTh4d2RlRjZqMWxXb09wMlptTl8xdXhZbXJUalJGUzRRYkkzSmZWdHhtZnlvVFdST3BHR3JWM2RwWHFaekJSLWdFeGpvc0dCQXlZZmY1dFZJ0gGIAkFVX3lxTFBQUE1TOGgteTFhdWcxNHBGcjFmZVJod2FOMHdjaGNjRmgxYzZzSFhIdllUWmIxbW5LaEZpY1MwNzlJbl93dFRTOF9RT3k1TXJZWkpWNVY2ZC1xbV9nTXVGYkxFdWdVdTFabGozNFlaeHRhWjdXenFBZVk0QlJkYTBxcGZaNmpHLTZZZ3ZiQ2xqRnBkZmt4SnljaEw3SFhhZzVfMHN4UDVRcHcwd2puMWtLaWtlbFQwaEZocDFNWWZrVWxFZWs5MW51Z1RlTmFYQVRqLVkybDFpS0I3RUJuRWlxeDFBeUtubzg4S2VfY0x5RUZhc3FrVUFZNmhYTzRQa0ZteGsxWC02WA?oc=5",
+     "t_id": "Koalisi Saudi mencegat tiga rudal Houthi di Riyadh karena serangan menargetkan aset keuangan, militer, dan minyak Saudi"
+    },
+    {
+     "t": "Coalition air defenses intercept 3 Houthi ballistic missiles targeting Riyadh",
+     "src": "Arab News",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaVZWNWUwMnJZemhuNzF4Y0xlWEtKUVRFVzdVbVJzWGt3NERMNnRqX1RaMm1FUGJKaXRWSXVuUnNFY1Vsc0dHUkR1MlNaRlUzNlJQM1liSVlHV2ZoRGV2cktvZlNCdHNXWUt2a0ZqckpaWmtZajRJT0JhN1gyOWlld3czZmdUTEFaQ2dwN01NN1dUTG1BclFKMlY3aXZxVUxlR3pUcHZFaUtfOFlBbHUyZUtpMFp5aG5oVnJPQW1PSzA?oc=5"
+    },
+    {
+     "t": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+     "src": "The Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80ZjRCNEE2cHY4aFNLRml5eVhmaTFYakU1eWhWdmx5ZUk1SG41TFRJU1NyTy1WNWFRSkkzNG9PYmhRZ0dWd2lNbndqMWFQZURLYUpQMmQwM2dhU09J?oc=5",
+     "t_id": "Arab Saudi mengatakan mereka mencegat tiga rudal Houthi yang menargetkan Riyadh"
+    }
+   ]
+  },
+  {
    "id": "perang-202611201901-9437",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -102,7 +181,7 @@
     {
      "t": "Russia strikes Zelenskyy's hometown as airstrike burns cargo ship | Daily Sabah",
      "src": "Daily Sabah",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGlNOVlsbTJmZFFRZ2xsbGFaVzMzTElHdkh1ajUyQ2RXQVZaWTctbWNDOEs1YnJUNzFKeEVmNV9FWW5mZ01fNHVBY2JXcnc5em56RVlfT2R0eWt5alZIb011MWNQWEZJZ0oxWkEydUVjWkh0QllRQlpYUmFTS0JHeHhHS3ZFZWItZmlsUUw1eE93bWxMNXk1cVdVWU1EM25TSXNrVl9RVdIBrAFBVV95cUxPZ0o0UFhZaDdFcTBNMVFRajhabmRDZEpEa1ZtRDVzdjkzaEFKQ29DTXY3N3FCRnNybGlxVEZvaW1JWkVmYV9mNUtSV3JxaWxCZjMwOUUzN0xQc1E2NTd1U1dhSHZINzJCNWZmZFg1cm44SExHVTRsWEJKUEg1OWJhWFNUREswY08wSXQyNng3RTRJZ0dGTkpaX2h6OTJUcnFqbTAyTkQzZDQzblZU?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0o0UFhZaDdFcTBNMVFRajhabmRDZEpEa1ZtRDVzdjkzaEFKQ29DTXY3N3FCRnNybGlxVEZvaW1JWkVmYV9mNUtSV3JxaWxCZjMwOUUzN0xQc1E2NTd1U1dhSHZINzJCNWZmZFg1cm44SExHVTRsWEJKUEg1OWJhWFNUREswY08wSXQyNng3RTRJZ0dGTkpaX2h6OTJUcnFqbTAyTkQzZDQzblZU0gGsAUFVX3lxTE9nSjRQWFloN0VxME0xUVFqOFpuZENkSkRrVm1ENXN2OTNoQUpDb0NNdjc3cUJGc3JsaXFURm9pbUlaRWZhX2Y1S1JXcnFpbEJmMzA5RTM3TFBzUTY1N3VTV2FIdkg3MkI1ZmZkWDVybjhITEdVNGxYQkpQSDU5YmFYU1RESzBjTzBJdDI2eDdFNElnR0ZOSlpfaHo5MlRycWptMDJORDNkNDNuVlQ?oc=5",
      "t_id": "Rusia menyerang kampung halaman Zelenskyy saat serangan udara membakar kapal kargo | Sabah Harian"
     },
     {
@@ -174,55 +253,6 @@
    ]
   },
   {
-   "id": "perang-202611200239-ebfb",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXJxS0Y2ZWlaREQtbEtfbmhwcFJibU9pOTdCalNJNGhlTElNSmFMZXN0Sy1YYTlVN2VfcGRpbFgtNFlKM0I3ZEtILWk1TTRTVG1KYkp1VmJqcldtNG1rVnY1cG5rMUppb29kekNKazBGUy1LMVRKeEtOcmd2cTdFNUQxVl9mS3Zld0VqbEpiSU9nQU82bGdqUUN3c0JlMHR6VHB4UHlxU2Fod9IBrwFBVV95cUxPWS1tWElsbWdpWUFTN3VyamFlYTd5UXhMLTI1R0NKa1NzamV5WVIwRndZRm5qOWgxclQwOEprdi1tb290VHFnZWZHMGtSTVJidmFZT3RJVWpKS3lscFl6N244akRLQ29UeDZGcVBiZjR4MkthYkdCRUxCdmhtZnd0eFl2ZWtaWDdEN3Ridy1nLUgzN2E3LXI1MnEyb2NxTHlMUllZcnd2MUlHYXIwS2tr?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-20T02:39:11Z",
-   "last": "2026-11-21T23:29:33Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Poland says Russian missiles hit its territory; Trump calls it a mistake",
-     "src": "The Washington Post",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5"
-    }
-   ],
-   "title_id": "Rudal Rusia menghantam Polandia: Apa yang terjadi, dan dapatkah NATO meresponsnya?"
-  },
-  {
-   "id": "perang-202611210209-c487",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-21T02:09:46Z",
-   "last": "2026-11-21T18:07:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Kremlin seeks to normalize attacks as Russian Kh-101 missile fall 35 km from Coalition of the Willing drills in Poland",
-     "src": "The New Voice of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHZwOU9abWdaMFdUWEpfbWZnYml3LWtOSlV5Y1BTanNwZEVmV1hNWHNYZW04bGlvVGxEU0xqVW00WDllYnZ4c0RNdTRaOGFQZ0tVNEZhQXV2NC1mU1ZwMGNiVjFKcGFpN3pPQXVqZk9KOWg2Vkl1REZfRXJGVGlFSXFyTUplZDh5M21ob2JEei1tX3pKaEEzSEkxWUJxTDlGbElyUXlZZlVVRzd1dE9EVEJrQ0hZOXlTODhZZ1BzV1Frc2V3NHfSAcIBQVVfeXFMT1B0LUluQndxbWd3dTlzalJROVM5VVYtTlY4cUhZWEloRjl1Y3hLTlJiWXZ3dXRWaFdKY1FaRXU2R0NzWEZCbElXNkZ6ZURJbXBVN1E4WXlrTlNSY25uNTNEd2FXaXh4djBkWnNNbmZ4dHBwRkMyd2trTExJSjFPVmlrTlI4TVhJckM4a0dONkxMVTNON3NPd29VaU9GZ0IwT0VrV0pLODJfLXhwUXpRWnEzay1UM2stX1ZTWmV6aTNvZEE?oc=5",
-     "t_id": "Kremlin berupaya menormalisasi serangan ketika rudal Kh-101 Rusia jatuh 35 km dari latihan Koalisi Bersedia di Polandia"
-    }
-   ],
-   "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
-  },
-  {
    "id": "siber-202611210832-e7d4",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -246,6 +276,29 @@
     }
    ],
    "title_id": "Apa yang Harus Anda Lakukan SEKARANG Untuk Mempersiapkan Diri Menghadapi Gangguan Internet Besar Berikutnya"
+  },
+  {
+   "id": "siber-202611210256-9457",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Ticketmaster outage leaves crowds waiting outside Caesars Superdome for Usher, Chris Brown concert",
+   "src": "WWLTV.com",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQWt4clF3aVRMX3hqbm1HR25IRGVzd0lVQzZUVWtGYVhXdlU5bnF6UXcxX2luTFI3MXo4ejJ3cmdCX2xOaGxsdFZTYmhKZzRlREJEN2s0VU1paUZablNYUW54ZkwxMXo3NGM5d256dXZTdC0tLVd3QklfMUpQaEpwXzBJNGZfZ1VFdk9qZUhsOGE3czZWT2xvamI0VlE0cUNucXZadUpaVVQzTElZWVhyY1NPbUlIOWZ2UWZfdVRXR3kzLWdMQUxHUzZYTDBLLWkwU0c2UThILVFPanpONmE0Y3MyM2gySUNJU3k3WWNYQzR5Wkp3eTF6REpleUtxQm1MYVBfdjRsa3I3S1d6RU15V3dHakd4SE1PQUV2MmN6NG01QQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-21T02:56:00Z",
+   "last": "2026-11-21T05:42:16Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Ticketmaster experiencing nationwide outage as fans prepare for Usher, Chris Brown concert in New Orleans",
+     "src": "FOX 8 Local First",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2tmWHBSRmtxV1lCOW50M3BrbHRmcGtHYlctRVhNeU5sUFdyOXBMRHMzdU1hZHRTT3J0R1JkelJmeGt0WGpNYWp0bm85bjQ0di1uZGVlWTl3YWxkM1ktMkhMSWFVZHFzSGZWblgxaWdnSEMwTkszY2FsMzNGbGZGRGVBNk5VWGdSRDBuSWpMdWVfMXhhblJGcXhwUlRzZ0FJOEUweG9vM0p2YlJ5NkNRck40RDVDeUJCRXFHYW96QTl4bnl1bXlVT3hLd9IB3wFBVV95cUxOcEhScjRtSU41TDVyR2VmNzE2RnN0dkpRcFAyV1hsRk40bHlOMWp5TTJrU1FZZmQ5bmhkd244Y0JGa0xBNXpKOXdrUlJyWk5STmxrams0U1pkLVk3V0Ixc3pVYmVraGJaT2VTaUVFQV9kWXB1c0ZrQUNPdHpVOVNZTFFhVDBtNFl0RkxULUstYXhvMzVtUExDRmFQS0hyLWxxeWV2OUNBelI1ZWh4OHRzSVhLZWpadGx3NDZFd1lGWTFnSjJnQ0Nyd0pRUVlHa2tUZUMyal82bS14clowWVVj?oc=5"
+    }
+   ]
   }
  ],
  "errors": []
