@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T04:24:14Z",
+ "updatedAt": "2026-11-21T04:38:54Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-   "sources": 44,
+   "sources": 46,
    "recent6h": 2,
-   "score": 45.0,
+   "score": 47.0,
    "level": "besar",
    "first": "2026-11-20T02:39:11Z",
    "last": "2026-11-21T02:09:46Z",
@@ -25,12 +25,6 @@
      "t_id": "Serangan rudal dan drone Rusia menewaskan delapan orang di Ukraina"
     },
     {
-     "t": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-     "src": "AP News",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-     "t_id": "Rudal Rusia mendarat di Polandia, saat Eropa mengadakan latihan militer di dekatnya. NATO menyebutnya sebagai pelanggaran"
-    },
-    {
      "t": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian “provocation.” The incident came as Poland was hosting a two-week military exercise",
      "src": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjdpRkpWT3F0b2lESHdXWXY5QlVaRlMxbFYzaWh4ZmVNWnNWdW5Pb2Y4VHQ0a3FXN1E2M1VRcE5QYnRGejVBd3A5eTUxOWc5b2Y5bFpSRklTUURWTmo5VWRyOTFXZkFDZGFHT0doT0tjOWt0LXVsUU1SWk93ZzNXeHlRZDFKM3A2bVlYYldtb3ZXN0xTUGJYeG9XWUlSUDFkckgzdmFUSi1qUnMtVkgwS19tMlRXWTc2amFVLTU0bHhFT1VLLU9JSzA5TDNjWGJNaHF2cA?oc=5",
@@ -41,9 +35,46 @@
      "src": "RBC-Ukraine",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1RfX1dxWnJZYkJuYUh6aUtNY203T0FmeE56dm9uWUdUMDR0Mmo4TVFTV3gxdFlPRkFobUNJZjNuc2pESzQ4bkFXZ0ZhamViR3F6YjR6blVwdWJURFUzVXh6Ti13eHpEZnNhdXRQbTV5S20yeV9FNDl3N284eFJUYlRteERmZHpOVEZqMi1vUTJ2czg?oc=5",
      "t_id": "Polandia menjelaskan mengapa mereka tidak menembak jatuh rudal dan drone Rusia"
+    },
+    {
+     "t": "Russia launches massive missile and drone attack on Ukraine, killing at least 8",
+     "src": "FOX 17 West Michigan News",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXFOQ0prcW5oMnNfMEZjOW5ENzdZdk1SeFE0cEhNbEVCMEppUFAwakZDV1ZKb3JjU0QtTjlGS2E1cnlTMWxMUFpVLWhvS3dacWNTTlc0UmJXajNpOTU1SW5HLS1jTC16YXlTSWxneTJqZjB3Umg3b09fRzNPMmZlSEdpUFJodDV3TTVVNTY3V0EtY2V4aWc5MFJnWlpCS3RGVzJiMDJWalRueVRpc3dGRlE1cGdMa25qWnF2S2psdlVBSHNfVXJ3YUNETWxOZzJjR1E?oc=5",
+     "t_id": "Rusia melancarkan serangan rudal dan drone besar-besaran ke Ukraina, menewaskan sedikitnya 8 orang"
     }
    ],
    "title_id": "Rudal Rusia menghantam Polandia saat sekutu Ukraina mengadakan latihan militer, kata Tusk"
+  },
+  {
+   "id": "kesehatan-202611201620-e8ba",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "New case of bird flu confirmed in US dairy farm worker",
+   "src": "The Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOG5BeEtfekpuOVVnRXNMb0hJQXZONE1OR1czdDBUeC1jajZGQlNzQ1E5SXI2eWVQU18zZGI1eDlUT1dMZzg0RndUZGV5Sl9BemFqNXNtTTEtMDkyaTNZQXBjNFB4ZXUtYjhNN2NBaDVENlhoVVpuVElUZ1laNmpoMnRxWTlYNk1KUUtDem1wdmYxRENMejVuSURJU19tTXhMOGpLejhQLXdqdVhydlpkMUtQeEtlNGUyU3lXNGlySQ?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-20T16:20:08Z",
+   "last": "2026-11-20T19:40:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
+     "src": "Civic Media",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXIxNXVqTXRwZXhSX3V5MTRFeWRldGFwUVBqaXF5UHRXM2Qwb1NZZGNWemZMX202a1Utbl9rVFpoN3F1MnJzN2VPbFBqV3hKQUFiLWIxUTFic2QzSGVjcFNsVDhrZTQxeGV3N3ptV1ZSZFEtVmVJVzFyNzVlRGxmQ2haWHRNOTQtWldJSEtuVnVUbUh6bHlBYlQzRjNVNkF1VUgyNDFjN3lSRExLN29YRG16WjVCSXV2OGdqNk91WXpxbUU?oc=5",
+     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
+    },
+    {
+     "t": "State officials urge USDA to authorize dairy cattle vaccination amid new H5N1 bird flu cases",
+     "src": "DVM360",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZW5keEJjTzRpWHZyVzRYVG1BcDJRdmgyUFl0WnQ3NDZpSFNZQVZYc3BpakVEVmdDVG8wcVVPQXl1Rm9XZmh2Q2Vucy1GN0pWUk9Db21zWmJCcmxGcDZBS2pBSEJ6eUN3Q25FWFJmTjk3ZlRCVWpDbHVuZmQzT0JvYXJyRGtSOWVsWlpkMFFWaGt3LUZEY2RrQ2U1SVJycmltUnJ5NGlMdWU5dUN1ZjZWRXZISmdJT2pGUWIxcg?oc=5",
+     "t_id": "Pejabat negara bagian mendesak USDA untuk mengesahkan vaksinasi sapi perah di tengah kasus baru flu burung H5N1"
+    }
+   ],
+   "title_id": "Kasus baru flu burung terkonfirmasi pada pekerja peternakan sapi perah AS"
   },
   {
    "id": "transportasi-202611200345-0fc8",
@@ -104,8 +135,8 @@
    "src": "https://www.thetraveler.org/",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDl3bjBFN2lMNkZMQTQwUGtxNTRGUFlhSTQwWlJtdzBYQy1EZ2UzWm82ZFJzeER6eFBJbGpJU0lpZnBwN3c0Z0R6aHdLVjZzeXRZVTBRT19SUjN2RXkwd0pxZzY2Z25uWno5Y3RqMnRIeHYwemY1S3Z1WXc5c1k5azBWcmFWRmtGN2lTSGFCNzlXTnM?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-20T10:49:55Z",
    "last": "2026-11-20T22:24:52Z",
