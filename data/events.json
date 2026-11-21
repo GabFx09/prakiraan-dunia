@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T18:57:26Z",
+ "updatedAt": "2026-11-21T18:58:26Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Russia attacks Ukraine overnight with three ballistic missiles and nearly 150 drones",
    "src": "The New Voice of Ukraine",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkpBT2ZUNzVDRW0yQ1NIb1dTbnhoREdhWlVOR2gwU3RxcDQwTjh1UXgtbS1aaWk1LXJSa1FzQTFRNkJWMU0zLUpJMUhmZVZPdWo3X1k2dzRMU0lJbC0tMWZTZjJWYXVzWnNSQkE3M1NXb0lCSW9yby1yeDU1aUxvdGE0Tl91WnZ1OXZaMllmOFdIc29EQklmdlJWbTNJNy1BaXhTUXlabEhRV3BtTkhJMGZ2MmRZak3SAbMBQVVfeXFMUGt1cFlhVGxwcFFVMHBMeG13QmFCVmV1alFuRWhXN01QTkNFemo4cHlHUkplX0lGRTRQX280OHBBVUhpai1uM2t3cFRBdzZRN2pHT3Rwc3JFZXVHUl82cWFYWmtmUnJTZlprNTFjanBzczFlNXlUdU01cEFRLXozTGZ6NUJ6OWJfM1poTFNRNlYxQ2tKQ3BnNWwtTmFjWDhKdDJFSldsT1dIZHhsWEhoM0dTaEE?oc=5",
-   "sources": 28,
+   "sources": 27,
    "recent6h": 7,
-   "score": 31.5,
+   "score": 30.5,
    "level": "besar",
    "first": "2026-11-20T19:01:21Z",
    "last": "2026-11-21T17:00:00Z",
@@ -179,37 +179,13 @@
    ]
   },
   {
-   "id": "siber-202611210832-e7d4",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Exactly What You Should Do NOW To Prepare For The Next Big Internet Outage",
-   "src": "AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kd0hQWW9wYkpaREhZR0hXc0EycFg0OEl4YklOZUZPMy1UTkJMY0Y5dWhyLTNSM1NsY1VOQ2xmTmx2QzFWNkJVS0Z3LWZjNEEzZVF2YVlPX0w4c0MxcjNhQy1aRjhiRlBhNjFQNWkyOUhzanBfaE5MOE15Qlk?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-21T08:32:03Z",
-   "last": "2026-11-21T16:30:02Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Could You Survive A Bank Outage? 10 Ways To Protect Your Money Before The Next One",
-     "src": "93.1 WZAK",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94QTVrSWJINF80aVFLYVhhMFhHTkdSR0R2T2szQ3pWTnpzNDFyTERNWHV0NGM3S0t4cDd1X3k3NnVTcFNXNy1CazVhcjZrYVFtUVRTaC1jVmlOeUN1M0JTNXZuM0xieW9BNHU4WG1ESGR3UlBJ?oc=5",
-     "t_id": "Bisakah Anda Selamat dari Pemadaman Bank? 10 Cara Melindungi Uang Anda Sebelum Uang Berikutnya"
-    }
-   ]
-  },
-  {
    "id": "siber-202611210339-e752",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
    "title": "FBI crime database and USDA reportedly hacked following week of nationwide outages",
    "src": "Irish Star",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTVFGck1kVGV4aXhBLWJ4Z21jOEE5LURvamFYOTNobDA5dlltVklsMFY5RGxJenROVENTX1UxLVZCekZpRlgtSVdkZ3pKblhwQ1NaV0NaMlRZM1ZReWFYZ0tUYnNQNkc3SkU4Y2pUMW5zSm02aHFSR2VzSGhmcHVBQ2xKc1lWSGRRa25fNFgtTdIBjwFBVV95cUxNTVFGck1kVGV4aXhBLWJ4Z21jOEE5LURvamFYOTNobDA5dlltVklsMFY5RGxJenROVENTX1UxLVZCekZpRlgtSVdkZ3pKblhwQ1NaV0NaMlRZM1ZReWFYZ0tUYnNQNkc3SkU4Y2pUMW5zSm02aHFSR2VzSGhmcHVBQ2xKc1lWSGRRa25fNFgtTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2EtcU4zVjhlYjFPNHpuMURvR282azhRUjF1RkVqa1BYRkl3eEFiRm02SUVycXZkdkdLRXA1QzJqMWlsb0E1WURkbUZhWGhQQmpvTFczeWxxYTVEYjdpUnhacG94SnU5d3pNcjRzT3QtOGxYU2pMdTVsQ3pwRThfYUFESE5JZVdwRWfSAY8BQVVfeXFMTU1RRnJNZFRleGl4QS1ieGdtYzhBOS1Eb2phWDkzaGwwOXZZbVZJbDBWOURsSXp0TlRDU19VMS1WQnpGaUZYLUlXZGd6Sm5YcENTWldDWjJUWTNWUXlhWGdLVGJzUDZHN0pFOGNqVDFuc0ptNmhxUkdlc0hoZnB1QUNsSnNZVkhkUWtuXzRYLU0?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
