@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-22T10:27:45Z",
+ "updatedAt": "2026-11-22T10:42:24Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Kraken Bitcoin Price Glitch Sends BTC/CAD to $17K, Down 71%",
+   "src": "Bitcoin Foundation",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTZXRjMwMlpzalZ2amtobUE1YjRMSS10UmxuN1ExX3EtNDNSeklyWG5mcEpqaUdub2xyUkRWYXVpYlpqYWktWm8tRjZKZVFJMGtkdG5xblJDUzJjdHM0UUZLN3RlSnJJaUZTTEJWeUpINW1tZXpyYlAwUm45Rlhzc0NfbXlfb3FVcW9fQ1MwRmdYTjlMc0xtclBpRy1VbzJtVUE?oc=5",
+   "time": "2026-11-22T10:37:42Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -45,6 +53,15 @@
   {
    "topic": "kripto",
    "lang": "en",
+   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "src": "Yahoo Finance Australia",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vY3UycVZqZEJIblcwdHR4dFFWTkl0YTNSZUNDdXl5bk9zdjVockJaMVJUZlEzYmFDLWlTSUJyX0FHdmVnOFFodWhUZE9MMjRXYmlBVlJB?oc=5",
+   "time": "2026-11-22T08:52:17Z",
+   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
    "t": "Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%: Market watch",
    "src": "Crypto News",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SXltejJLRGVoeExpQUFieUUzX1hDQlVhdDNZQlNjVHFkWi1wWF9yYUhjY0pwZXk2SDdvSEJVeTltWC1ENTU1QjlqZ0Y0OXAxSkV4Tlo3bldYX1hnMFdPQUdiWnBIRnltUC1xSlZjamdZeEY4?oc=5",
@@ -65,6 +82,14 @@
    "src": "Infobanknews",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXZRSG81RFFvcjlfRnZOWW05b0hWWllDRkh3U2ZnZlJUZmdJLW03dmFNUmgtd1M0b29EWTQ3bGJzMUU5SUQ1SXFDOVMyX210Y3BYcnpzN0ZEdWVwRmpiSkwxeFFPSm5kTXZkU2RGWlAxalF4Nno3Uml0UmQzUjlndUFTQkEzSHZB?oc=5",
    "time": "2026-11-22T08:19:00Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "src": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
+   "time": "2026-11-22T08:06:26Z"
   },
   {
    "topic": "ai-teknologi",
@@ -180,9 +205,9 @@
    "topic": "indonesia",
    "lang": "id",
    "t": "Chery Sebut Bunga Kredit Mobil Belum Naik Usai BI Rate 6 Persen",
-   "src": "Limapagi",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbjVvMU5QeTIwc0pHSURkdTZkWlFmUThvRXlXZV81UGc5QW0zaTBWV0xNb01LUlNnN1RxYVd6N0oxc3p3aGwzRUxYb2NyNXNMalVZMjk5TGZqNldPY2Z5c1pTaFZPMEk?oc=5",
-   "time": "2026-11-22T03:24:57Z"
+   "src": "Demokratis.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEajZFXy1YMl9zbXZzd2U2eWoxdl94cmMtNkp0MjQ3NllXc1BfZ2s2YUF5c29XY3VGLTRKZGxTM3RVdW5CVjBmT3phOGZ5RlN6UjQxY2dkV0xhWWtZUFpEcDZHUFpXaDVP?oc=5",
+   "time": "2026-11-22T03:24:25Z"
   },
   {
    "topic": "indonesia",
@@ -264,14 +289,6 @@
    "src": "kontan.co.id",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1haM3BaRnBnYVIzSDZ4V2QweDNVM1NMc3dyNE1adlJxRjRDd0VBVXNKd2RzdmRWOFhRZFVfcVFKdjlVWVI0X2duNGNRTi1XVXJubE1iUUo1aVFIaE93MmNjX2dTLU5CN19IUDVwSGgxZktUNGxiaTE3SUdaZWpWeUF1TlVUQ3VOLWVOQVBycWdyVVlXUWh3eWhkYmVSc2w3bmxBUTJEd3pNODI4RnfSAacBQVVfeXFMTnhnQTBBOHROb0oxcEVodWhBX0NoS2hGSFdGR2VfdXJvcnVxMXVjLUVwS1lRU3lfc3Y4VG54UDd2dlZNLXI3VXFsdXBIR3E2T19aa1ExVFl4R0pTeE9pd0hxWEhjQ3drSnlLUUVNM1h0TnV3UTFndmQ3ZDBnUHhkS0dDN2hfTjNmdm85ajg3bV94VHh3LXJ3OXNRV1BXeDRyU2tFTjRWMm8?oc=5",
    "time": "2026-11-21T23:35:30Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGI3Sng2eVpHTHVCWFlFamhHRWxSYXNtMkU1R0Y1amNNMHRNMXdMQ0RNbHBNSXhvdlVIRU42Z0N4V3RWRGdzYnp6UjdkeDZsY2pwU29iRG9GR29NakVMV1FYRjdvWjdhckM1N0dmSVUwYjNXWU5yVVZQZm92U2tzNlpQMlNJZVRGTzNJbm1KLUpfUQ?oc=5",
-   "time": "2026-11-21T22:50:00Z"
   },
   {
    "topic": "bank-sentral",
@@ -454,13 +471,12 @@
    "t_id": "Serangan di Selat Hormuz telah meningkat ke tingkat tertinggi sejak perang Iran dimulai"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "src": "Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yOVM0ZTRBWjRWRW9KcFF1czB4bV9VbHNOYnZqSTRlXzk2SHBHTEo5RnIzR0xkNklES1Z6ZnZZSTRhM2tjZEFnQ3VEd1BCUDFPcFRBSlhB?oc=5",
-   "time": "2026-11-21T06:23:10Z",
-   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Video: Efek Kebijakan The Fed & BI Rate ke Sektor Perbankan - Tambang",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUlzc3BtcjhOeDh6SE1hQWEzVXB5eUlJdi11Wi1Dc2JIYWZyVUNFNVl1Q0JnV0t0VzZhZW5iZ0JWMXhlQXcxR3p6QXRQRExxMlhwVy03UzFVVzlVdjdNakdHcmJ2UkFPTlhpRDJkZW5LdzJSc2JkcUI5akVNQVdfLVQ4TnQzUHVob19uZDJhRjZxRkMwSFRVcGtPRGx2d0FFRUVleVptUE5KaFEtcWEzY3lBUHI3VnFSWnl0LUVvY3NCM09TRHc?oc=5",
+   "time": "2026-11-21T06:00:03Z"
   },
   {
    "topic": "china",
@@ -470,6 +486,15 @@
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPelBrc3lOOVp2dEZkaUhoTktVWVk4dDZDN1J3MlNHT1RwaHVYRTNjUTVZZU5RdG1fQnVGUjQtZ0dXcHBRYmxWQTJCbS11ekdlZDNvS2gwQ1JiTEdDR0tQNGlYWkdCTm9SSFpGSDVDczI0bF82dmdKLWFiS0hLaXAwUHVMcnFjRjNUVWE3VFR0R053aDB6a1dNWTFuTEJ3a1p4SG1yWWl5THRLcUhuaV8zNDJXNHBqMzJxSTg3eDAweXZyM0E3LTJKdjV0ank4ZVdaT0840gHTAUFVX3lxTE8yaERqNTJIa2V4LW9RYm5fYlcyX1NEX3A2aWlCbEM2cVJOWVRWdVAzV3JxMXV2TjBfdHY0VTRWdG9qTGQ1VTRrdmhKa0JTUUZEeU0yWFlHMmlXWEMtTU5zb1JuLUlMS21wS3ZGRlJwRnc4UG9jbHI4eEVyQkhaMnVjaWVLbzhrR09GWU5ZeVdZRHdWT0I4NFFSVEVTZlFiYVdzdDJtcUVobWpVdF80ZEx4cXVReUJUc3NwQmpkcmYxOXlpYUV0X2ROYlV3bkRGQ1lPMXc?oc=5",
    "time": "2026-11-21T05:08:48Z",
    "t_id": "Eksklusif | Kesepakatan ekspor Swiss bebas bea ke Tiongkok merupakan keuntungan bagi Hong Kong, kata diplomat terkemuka"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+   "src": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGo2a2JDeFFQWXZZSUFuc1hYVkctMXBGZzVJWjhCSU4tV21qenB4bVNuLUJFTG1hakVYdGNlQ2tuRXFnOXlnSzFJVjZHWVg3V09EWVVhb1o5NVY3YWJpcHZ4MGFyYm9faWdPOGVsRERlakFST214NC1RZDA4UTBjdUZmYmZtOUdUOWZNNFE1M3dVdGVneWtKeWl4Sll0aFZFcW1qUUtFM2RfVUhkTGNJ0gG0AUFVX3lxTFBlZXlISGdZNkJyblRJX1V4NW9OQTFrYkNHWFZoazJzTDZZUHI4US1sT01jSkhtWVFxeUVqYkdJdzIwYmxjWFFsRTNMYWhUdk9wVWl3aVpUTmhvZi1IQ1ZJcFdKODc1TDdJb2tLZzZ0RzB6d3o4WERicXJ5OGNvcFZpTTl5RmhQRTRkWERGeUFPTmVUeU56dl9ObDNPcTgxeDU2bHlCaDFiSVdQaXlQMlozdzZ1Tw?oc=5",
+   "time": "2026-11-21T01:28:00Z",
+   "t_id": "Wall Street mengalami kerugian bersejarah karena Dow, S&P 500 terjun ke wilayah koreksi"
   },
   {
    "topic": "bank-sentral",
@@ -488,33 +513,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHJUSEpNa0JZMndrUTZhcTdiQjkzTUU0bkJqSmF5ZGNJYV8xSGozbjJTQ3FwUEpNUUdvd0JjYWJHMy1vRGI5YlNrUmNlUF9vNVFiYkRyT3YwWmdhRWlFMVl5bGVPcUcyeTNVRDNENzJlTVYwT3hWSHV0UUwybF9wZEFmQjE4LWc4OVBUVUx3SzJEREJmUXNhTU5ETTQ1Rl92dmFtQS1B0gGrAUFVX3lxTE5WbHZmMnMxbl9oRlU5S0JsbFFBVF9RaldTc1RfSmk1dEZRNEw3SEJhZkw0S19HQ1dfNlNiZjZ6T05UWDNYZ1BRMkNQRWhxWGt6U2JnRkZ2emQ0NmFfdWN5ZFdQdHV2NXhncWpJc05qWU1kQnJYSVBOM2NTeGRfWkE2TFduRWpWX1FmQ0pOSU1OOWkyUXpiNFFWWERBVnNJakdHUzM2VjR0VEhYYw?oc=5",
    "time": "2026-11-20T22:32:00Z",
    "t_id": "Trump kembali mendesak Fed untuk menurunkan suku bunga"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia shares plunge as Anthropic can't stop the AI selloff",
-   "src": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5",
-   "time": "2026-11-20T22:03:13Z",
-   "t_id": "Saham Nvidia anjlok karena Anthropic tidak dapat menghentikan aksi jual AI"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
-   "src": "Virginia Business",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDJTQ1VRUXQxSndxRXJpTnRjNUVZTFpJSlRaYW92VVZHcjBPbHNuMERVeUZRNHZHUS1PcUJaNUVFUzZvVWlpdndtQm45Ukcxczd0eUpMSFkxTXV3RTdWV3RDWkVORHNvdndfMzVXZ1VtTkg1czI2eUhLOUF4dWFvSUJCNzlCNzB0?oc=5",
-   "time": "2026-11-20T21:58:41Z",
-   "t_id": "Wall St berakhir melemah tajam karena aksi jual AI, S&P 500, dan Dow terkoreksi"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "How Michigan’s Economy Could Suffer From Proposed Canada Auto Deal Change",
-   "src": "Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHRxMjEtNmVkVXgwS1J3YWlfZUMzTzZfVWZBQldyTU1TNDhuSDhmQXkxM25uVGtEV182TFMwWkZYMWVfaVlPUXAyc1VpZGcySldXUlZBMXpZOHo1SUtFTVhmQUoxM2tlbDBxdlN3RkNfWW1YZHlmd05xYUhkUmI0dFlabXZLZ0N5UE5NQ1lIbllGbHJsUXVKcVF3ZmtDcFR4eDJUdTZ2aUw5UQ?oc=5",
-   "time": "2026-11-20T21:38:00Z",
-   "t_id": "Bagaimana Perekonomian Michigan Dapat Menderita Akibat Usulan Perubahan Kesepakatan Mobil Kanada"
   }
  ],
  "errors": []

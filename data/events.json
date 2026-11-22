@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T10:28:02Z",
+ "updatedAt": "2026-11-22T10:42:42Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -270,8 +270,8 @@
    "src": "International Business Times Australia",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-21T10:07:30Z",
    "last": "2026-11-22T04:28:23Z",
@@ -335,29 +335,6 @@
     }
    ],
    "title_id": "Serangan Rusia menewaskan dua orang, melukai 60 orang di kampung halaman Zelenskyy ketika ketegangan perang menyebar ke seluruh Eropa"
-  },
-  {
-   "id": "indonesia-202611211124-01d0",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Polda DIY Tindak Tiga Personel yang Diduga Bermasalah saat Pengamanan Kerusuhan 10 November",
-   "src": "Tribratanews",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaE1JMUdTM2NIOGMzUzVxSDctRWRmOW94V3VfS21XdGNSMFZDcVhsM1Raclp1LW1CSjBjMHJ2REtqaElKejVPYS1NUDZZR2lCcVpwTXVkTDh1SGRNWHEzcFBFRDAtcG9pbXQ3VHZTMjhES2NzV2lVUzRYU0QwRmdlU3h2NlRXQ1VtblNFelFndGJRVmtkTktqYUxmSzhtYWQxdUxQV0JXcTlKZTdiLWJtXzI4V25MNFoyamtTTDZ5VFM2NzB2Y0dGVHZ4OEs?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-21T11:24:04Z",
-   "last": "2026-11-21T13:16:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Tiga Polisi Langgar Prosedur Pengamanan Kerusuhan di DIY",
-     "src": "rayatimes.id",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU5QRU1naUN1WVFlekJpdDgzaFFPbEszRUdFbFlNc2RHcGdGVVltOFJHZzlRS2xUc3hFOFNpMU9LaTlYOWtGRDY0d2FaRG9qZlNiRXlvdmJSb1JDaXQ2LThaeEpXZXEzTks0TDc1cERQU0RZREY0VDF0dWxRcEdzeERKS0J1NmhpMUdkX3FyQlk?oc=5"
-    }
-   ]
   }
  ],
  "errors": []
