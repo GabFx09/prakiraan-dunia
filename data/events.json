@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T22:25:11Z",
+ "updatedAt": "2026-11-22T22:39:48Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcndOTTl3bzZwNVZ4ZWstZXBZdnVkbUhPanQ5VlhUVEJaSTRVdnc1YzVUdEhEd2M0QXdFVGxzRFVLeThYd0FfaGEzMnQzbWIzemFuZzRqSGJCQ2M5LVBzV0dadVlwUXpXR1hfMTllR2NsWmNuRnk4RmRSVVlraElfS3NjNFlJa0FWTGNRRS1XQTFxM3JoTVRYZEluNkVJUXZSdk1TSmFfWUfSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
    "sources": 18,
-   "recent6h": 4,
-   "score": 20.0,
+   "recent6h": 3,
+   "score": 19.5,
    "level": "besar",
    "first": "2026-11-22T00:54:04Z",
    "last": "2026-11-22T20:20:00Z",
@@ -46,21 +46,27 @@
    "title_id": "Arab Saudi mencegat drone dan rudal saat Houthi melaporkan serangan di Sanaa"
   },
   {
-   "id": "transportasi-202611221057-4a3a",
+   "id": "transportasi-202611221057-2d2b",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Hundreds of Delta flights delayed in US due to technical failure",
-   "src": "Latest news from Azerbaijan",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdFS3BHUGtXbWUzd19IUnRmOXJXNkQzemVkZHQ1WGlxN3Ixa3VyRnU1MXBSeTVmQkR0M3oyWlYyOXctTmh1NXZ3RTlEVXhnQ1BnS1psaE1NcEtOQVhORllMQW55S2NNZ19rRzU4ZUIxbDNUeEhFc2EyZUNZNVVZZ25iRHdwS01RUXVWUUNR?oc=5",
-   "sources": 8,
-   "recent6h": 4,
-   "score": 10.0,
+   "title": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWRfMUlqa2NON3pHbWVBT3NuRDBNajZQYklJRlBlNTdrT2J6cGpxWU5FODBmU29sSnJ5QlhpaVRJY3dpSFN6dEVCcVlVWTVkcWVfSU5XS1l2MWNfUXl0ckZObS11ckVhV0Rsb0ZGcXBHN0NmZ2MxbUxRNmlZRHNfbW9XYkJUZFpmaXMxbDBadWRFRnJHajNCc2hSSDZkaVnSAaQBQVVfeXFMTXVUSGQ5N2Q1MWRVdGRyLTdITHVfWlNtdzhWSWwzZ1dYVzJiTnJuRzlTOEY4MDNTM2p5MUlMcGZvZnVTU3FOV0RMTEpDcUFqbnVrbms5UXlwb2IzUEE4SXZJU0RQZEtjYUtnbGRUZjBjUkF5aS1yUXRBenZsR215WEJZWWZHRUI3NWdXZ1RqYmxEZEhGS3ZaZHQtTGdZUUtjSDdNczM?oc=5",
+   "sources": 9,
+   "recent6h": 7,
+   "score": 12.5,
    "level": "besar",
    "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T22:09:43Z",
+   "last": "2026-11-22T22:21:52Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "Hundreds of Delta flights delayed in US due to technical failure",
+     "src": "Latest news from Azerbaijan",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdFS3BHUGtXbWUzd19IUnRmOXJXNkQzemVkZHQ1WGlxN3Ixa3VyRnU1MXBSeTVmQkR0M3oyWlYyOXctTmh1NXZ3RTlEVXhnQ1BnS1psaE1NcEtOQVhORllMQW55S2NNZ19rRzU4ZUIxbDNUeEhFc2EyZUNZNVVZZ25iRHdwS01RUXVWUUNR?oc=5",
+     "t_id": "Ratusan penerbangan Delta tertunda di AS karena kegagalan teknis"
+    },
     {
      "t": "Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays",
      "src": "WSJ",
@@ -68,25 +74,19 @@
      "t_id": "Delta Mengatasi Gangguan Otomatisasi yang Menyebabkan Lebih dari 1.000 Penundaan Penerbangan"
     },
     {
-     "t": "Delta Flights Delayed Nationwide as Technical Outage Hits Atlanta Hub",
-     "src": "Rus Tourism News",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmFyeTlHczBRRTExLXBEdG9tdk5HZjJNSW9FU29yS3RqVVRtRldINUxrSmgxbTA0cU9uV3pSRUVXandvRm9IT21VcUU4NWsyZDZ1a041Q3YxMFhLSzRoVktoOEZpb3UzbUlYZ0RBSmtTbENRLUZZZ0dQYkh3cEVsYndoMEx2UjhDd2F2UnJNbGpHVFpIa3dsNGI4aTczMFg2blRVLXF1T0JuaXBNRWwzLTZB?oc=5",
-     "t_id": "Penerbangan Delta Tertunda Secara Nasional karena Gangguan Teknis Menghantam Atlanta Hub"
-    },
-    {
-     "t": "Delta flight delays: What caused 1,000+ delays after Atlanta ground stop lifted? Why were 30% of Delta fli",
-     "src": "The Economic Times",
-     "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQdlpVVWhjRk02VTJvWVpDaGtWc2taZThjTTBQd21OM2hiTldmVXY3LWV4WlRtVHB2dFVfTVFVaDNTTXE0N04yanBzSzRzU1VXeDNXMk03Ukp5X1ZCa2ZtUExHa1lVeDZNYmYzR1RtbG5QbFZNc0txVUN1SERYWEd3TmV6bVMwcTNRVl9zS1ViQmp1b1YtQjNRQWtmbVpNOTBPMXFQc2Z4RllRY01ld1Bkc0ZVMG1Jd3hIMW5FZ0tKenZ0MUNiamVoZ0I3MzBjNjBJLTJyRTEtLUFOYlZDaGU3N185d2VjamtMdHpWSUR4WVdDaXB0ZlBSelViQllqd2MtbGU4a3RZanFmMGo4cEhybkZQRnFVcWREb0VKeXllQTlHTGZ2M18tV3NqRmVWWjVSSVAwa2IxRW9TVjh5b2RzSEt3OWxoVWotVnfSAcoCQVVfeXFMUHZaVVVoY0ZNNlUyb1laQ2hrVnNrWmU4Y00wUHdtTjNoYk5XZlV2Ny1leFpUbVRwdnRVX01RVWgzU01xNDdOMmpwc0s0c1NVV3gzVzJNN1JKeV9WQmtmbVBMR2tZVXg2TWJmM0dUbWxuUGxWTXNLcVVDdUhEWFhHd05lem1TMHEzUVZfc0tVYkJqdW9WLUIzUUFrZm1aTTkwTzFxUHNmeEZZUWNNZXdQZHNGVTBtSXd4SDFuRWdLSnp2dDFDYmplaGdCNzMwYzYwSS0yckUxLS1BTmJWQ2hlNzdfOXdlY2prTHR6VklEeFlXQ2lwdGZQUnpVYkJZandjLWxlOGt0WWpxZjBqOHBIcm5GUEZxVXFkRG9FSnl5ZUE5R0xmdjNfLVdzakZlVlo1UklQMGtiMUVvU1Y4eW9kc0hLdzlsaFVqLVZ3?oc=5",
-     "t_id": "Penundaan penerbangan Delta: Apa yang menyebabkan 1.000+ penundaan setelah ground stop di Atlanta dicabut? Mengapa 30% Delta terbang"
-    },
-    {
      "t": "Anatomy of the FAA Ground Stop: One Backbone, One Bad Change",
      "src": "BankInfoSecurity",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUhfbFR4N3RVUXg2d2VHLXo5RUtFS3NQRXJmeU9PLUhVV0h3Znluemg3MFIzdllPS2g0NXQ5WTVqUGwxRGVEaE1NeEJxXzBaa0RLQUZYcG1SRXc0UGh4OUNGNW40REh6bVBnTGdqNGxTWFctSG9vQ2JTYWJjcUoxUFM0dFpkV1M0ZUZ0RUdZVkx6bF9JTnBv?oc=5",
      "t_id": "Anatomi Ground Stop FAA: Satu Tulang Punggung, Satu Perubahan Buruk"
+    },
+    {
+     "t": "Delta flight delays spread after weight-and-balance system outage",
+     "src": "finchannel",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1pQN253cFpDQ0c2ZjhLOUpGOVMxYURPZ2RaZFduWW5WS2dQUXJUOVV4SDE0aEJyMGp5MmtJQk10bDdYbEQ3cGNhZFNIWC1MalRDb19STHBzS21zd3VNaGZRSHM0NHRqN2RyeHNnVWk4M1JiZTRDQV84Z3ZNVmlYNGlpSnBIdVlBQVJ4VW1mLUlnamdZNi11QUZVQVFJV3ZQQTNBSUtqQ0Z5NVZFRl9ZQTZkendDX3B0ZWE5T2Nn?oc=5",
+     "t_id": "Penundaan penerbangan Delta menyebar setelah sistem berat dan keseimbangan padam"
     }
    ],
-   "title_id": "Ratusan penerbangan Delta tertunda di AS karena kegagalan teknis"
+   "title_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
   },
   {
    "id": "indonesia-202611210335-9eba",
@@ -225,29 +225,66 @@
    ]
   },
   {
-   "id": "siber-202611221524-7334",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "kesehatan-202611212208-5d3f",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Equipment outage in Atlanta causes over 1,300 Delta flight delays",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWRfMUlqa2NON3pHbWVBT3NuRDBNajZQYklJRlBlNTdrT2J6cGpxWU5FODBmU29sSnJ5QlhpaVRJY3dpSFN6dEVCcVlVWTVkcWVfSU5XS1l2MWNfUXl0ckZObS11ckVhV0Rsb0ZGcXBHN0NmZ2MxbUxRNmlZRHNfbW9XYkJUZFpmaXMxbDBadWRFRnJHajNCc2hSSDZkaVnSAaQBQVVfeXFMTXVUSGQ5N2Q1MWRVdGRyLTdITHVfWlNtdzhWSWwzZ1dYVzJiTnJuRzlTOEY4MDNTM2p5MUlMcGZvZnVTU3FOV0RMTEpDcUFqbnVrbms5UXlwb2IzUEE4SXZJU0RQZEtjYUtnbGRUZjBjUkF5aS1yUXRBenZsR215WEJZWWZHRUI3NWdXZ1RqYmxEZEhGS3ZaZHQtTGdZUUtjSDdNczM?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-22T15:24:58Z",
-   "last": "2026-11-22T19:09:45Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+   "src": "cedarnews.net",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGlQZ1d5TUUxLVZvejlSVkVxNTBNMTBOWHRPdGtTUDdCMFRIMll1ZnU5cVlRVlNmOEZCM3NLaDE3ZEVtN3ljMURFU1dtWVhtY1FUeC1NX3VRMnljSUVxYmgwWUlES21wYzlZUWM3TmtPczlwQXQtdFdROVE2TG5ZaDZFNlhWWExqN1JaejVtWDhoQVV0?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-21T22:08:56Z",
+   "last": "2026-11-22T12:09:17Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Delta Air Lines Facing Widespread Delays After System-Wide Computer Outage",
-     "src": "PYOK",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3VleTl5VDJZOFZiQnVOZEFPYU1yNnVaTzJpaFE2U0xHV2pQcEFnQkVTT2xRUEg1NE1TUlpTWEtZWS1URmZtQ0tXejluLVdqVlNCcnB3bkJIMnhMSTQ5b0poc3JneWF4QVZVaDFmaVlmSG9YM19sRElXNkZjbzVpbHFqdEpHYWNTTUJlai05WnRRQVRXQTB5ci1EYjNLYWcyeVhMd09zd1pPd054MDVnRmFKWUlPTEpOb3Z3VlZB?oc=5",
-     "t_id": "Delta Air Lines Menghadapi Penundaan yang Meluas Setelah Pemadaman Komputer di Seluruh Sistem"
+     "t": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+     "src": "Kiowa County Press",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
+     "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
+    },
+    {
+     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
+     "src": "KAKE",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNWV0VkRtQXhvQTdTbTBGOFVUVkF3dVJDMl9FUmFsMDQ4MkFycGdiYVU3NXJMckVwZWNmR1JBVl9oakZGSmQ4c0NIVzZrVzZGM0lPbDhfWk1fcGlzS0pLYWhvUm1yejQ1eEdsanJ2cEs1M2N1TmFNQUlGaVkwZlA0em9BVy1Zd1JFTTQtNWhXNkY1alY3MmhvWTdzdzY2MzZndld3LXl0aWppdVlna2JGTnJyU2s3NFVYdEhkcms4NTFHeWRoV0NoTEpzUDRvVUdEb0tVdWNaSWdXYV9IQTRhZndKTXRVNnI2dURJ?oc=5",
+     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
     }
    ],
-   "title_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.300 penundaan penerbangan Delta"
+   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
+  },
+  {
+   "id": "kesehatan-202611220031-9955",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Congo Ebola Outbreak Linked to Spillover Clustered Near 1976 Lineage",
+   "src": "Bioengineer.org",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVNNcHpPTDl6RFBPQ0ZWUHZtcndMWXQzSXdMNGpEaXZudWY3YVdpZ2hPaDVGM2MwSlJpUy1kbUhjcHFTcEhrcFdCT3ZzVFVwc1l4ZEE4UFdha1NyYUwxSzIyalp6cE9kRW03VzY4VTFNb3lrNlhyZHN1aDFwYS1kdlpjeTRsQkFJSFdkODBSZjh1ZUdueklROQ?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-22T00:31:52Z",
+   "last": "2026-11-22T05:57:35Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Ebola outbreak update as of November 19",
+     "src": "Outbreak News Today",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFJPRm5TTkZuUklhMDN5R04tb0V1R0xlZk9sN1NZNzRvUk1saEsxSUYyM2tidThjMFlLdTRteldrbmYzaTAzdnU3MTUtZXRfOUhNQ3AtbTM4M3BWb0FkVnJnNlZlOTF0eFJWemdmRDlLVWIzU2xQSVRveEplOEszTnlBdEh4dDgt?oc=5",
+     "t_id": "Update wabah Ebola per 19 November"
+    },
+    {
+     "t": "Analysis – Scientists are learning more about the rare Ebola virus in Congo outbreak",
+     "src": "Sight Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1VBbVpwMUxDYVFwaDRJaHdQS0I5dWl3REhPWkRMMEhEMmFyTjczZURzSC02VGZQaGdEWnZVRHJYRlJLN05YZWV3a3JiRklTY051b1p6aDlFYk5nQkVfWWpiNWhTNkV5UHQ3TTM2RXF1MGxLSjJFZ1NQMGotSzk2dE1rR2ZMQXpvR1dXWFJXdVhyazlmTHhhVjJvVFdPVFdNeXJQQ1dBQWJ0M2l2R3dsVXBPa2d4R2lK?oc=5",
+     "t_id": "Analisis – Para ilmuwan mempelajari lebih lanjut tentang wabah virus Ebola yang langka di Kongo"
+    }
+   ],
+   "title_id": "Wabah Ebola di Kongo Terkait dengan Limpahan yang Berkelompok Dekat Garis Silsilah 1976"
   },
   {
    "id": "perang-202611211746-6444",
@@ -323,31 +360,6 @@
    ]
   },
   {
-   "id": "kesehatan-202611212208-5d3f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-   "src": "cedarnews.net",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGlQZ1d5TUUxLVZvejlSVkVxNTBNMTBOWHRPdGtTUDdCMFRIMll1ZnU5cVlRVlNmOEZCM3NLaDE3ZEVtN3ljMURFU1dtWVhtY1FUeC1NX3VRMnljSUVxYmgwWUlES21wYzlZUWM3TmtPczlwQXQtdFdROVE2TG5ZaDZFNlhWWExqN1JaejVtWDhoQVV0?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-21T22:08:56Z",
-   "last": "2026-11-22T12:09:17Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-     "src": "Kiowa County Press",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
-     "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-    }
-   ],
-   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-  },
-  {
    "id": "perang-202611220254-5022",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -396,31 +408,6 @@
     }
    ],
    "title_id": "Dua tewas, 10 luka-luka akibat serangan rudal Rusia di Lviv, Ukraina"
-  },
-  {
-   "id": "kesehatan-202611220031-e4d5",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Ebola outbreak update as of November 19",
-   "src": "Outbreak News Today",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFJPRm5TTkZuUklhMDN5R04tb0V1R0xlZk9sN1NZNzRvUk1saEsxSUYyM2tidThjMFlLdTRteldrbmYzaTAzdnU3MTUtZXRfOUhNQ3AtbTM4M3BWb0FkVnJnNlZlOTF0eFJWemdmRDlLVWIzU2xQSVRveEplOEszTnlBdEh4dDgt?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-22T00:31:52Z",
-   "last": "2026-11-22T05:49:35Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Analysis – Scientists are learning more about the rare Ebola virus in Congo outbreak",
-     "src": "Sight Magazine",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1VBbVpwMUxDYVFwaDRJaHdQS0I5dWl3REhPWkRMMEhEMmFyTjczZURzSC02VGZQaGdEWnZVRHJYRlJLN05YZWV3a3JiRklTY051b1p6aDlFYk5nQkVfWWpiNWhTNkV5UHQ3TTM2RXF1MGxLSjJFZ1NQMGotSzk2dE1rR2ZMQXpvR1dXWFJXdVhyazlmTHhhVjJvVFdPVFdNeXJQQ1dBQWJ0M2l2R3dsVXBPa2d4R2lK?oc=5",
-     "t_id": "Analisis – Para ilmuwan mempelajari lebih lanjut tentang wabah virus Ebola yang langka di Kongo"
-    }
-   ],
-   "title_id": "Update wabah Ebola per 19 November"
   }
  ],
  "errors": []
