@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T04:50:53Z",
+ "updatedAt": "2026-11-22T05:05:32Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Russian cargo ship bursts into flames in Baltic Sea — as ballistic missile attack on Zelensky’s hometown kills 2, wounds 60",
    "src": "New York Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5",
-   "sources": 8,
+   "sources": 13,
    "recent6h": 0,
-   "score": 8.0,
+   "score": 13.0,
    "level": "besar",
    "first": "2026-11-21T04:38:09Z",
    "last": "2026-11-21T21:38:58Z",
@@ -31,16 +31,16 @@
      "t_id": "Rusia melancarkan serangan rudal balistik ke kampung halaman Zelensky di Ukraina tengah"
     },
     {
+     "t": "Russia launches deadly missile drone attack, Trump invites Putin to G20 Summit in Miami",
+     "src": "FOX 13 Seattle",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YUdkcGRMMER2R0ZvN1FtSHd3bV84eDFRRGY5NFRabmY0cmJtSjQ4ZERlQTZaYmFjRFI1aVFQUUVPcVNqTkZITDhwM1hJY2h0WDlvWkl6LXBaSXA4dXBHdWRELXRMd9IBa0FVX3lxTE82QVpEbFBpM1NLYU1JeUVSdjJoR01KTzh6RG15dHRjV1kwV1pYNHItd3hNS01VeENVNXhqeUhTS0hGWFNmcnpOeERyXzh0STZHZmFSYlVNcVhBMS12VVFITFBYMWtWTy1rN2s0?oc=5",
+     "t_id": "Rusia melancarkan serangan drone rudal mematikan, Trump mengundang Putin ke KTT G20 di Miami"
+    },
+    {
      "t": "Young boy one of two killed in ballistic missile attack on Zelensky’s home city",
      "src": "The Irish News",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXVPSmZXY0lkZmhzTHlzcUFubmxQb3lKTm41eWx4UW1iZHhQa2VzWGN3SVBCcWc3T0JuWE1yLW95VWotSHdXZzhlMl9hUURtaWNxRDdvb3hjVGNpamp5ZjhVY0dJMlhScFJTTzdDWEFnaWh2Y1FvWkpmNWhSSTlSS2xFMTRNQjN4Mk16enVWUk42ckdUUUZhLTBhT1FITkg3d05veGJFLTZfZGNwTnBIdEk3Wk5od2hSSWhGeVdpTm5DSjNuOXZtWUY3eTcyVDdDQ0lHLUJTZFNvaEU?oc=5",
      "t_id": "Bocah lelaki satu dari dua orang yang tewas dalam serangan rudal balistik di kota asal Zelensky"
-    },
-    {
-     "t": "Two killed, scores wounded as ballistic missile strikes Zelenskyy's hometown",
-     "src": "DW.com",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDE0OXRVa3lCemVzZ2NTdUNyMmYwYVRYLTBWRUNwcnBwSkxRNHIwRnF0SGRGcHk5dl93dldRNHMzOU5mekY1VHlSOC04YzBzSWhDMUVpTTYtMGZSbHViQnlVRm1zS1ZmaTNoSm9hbGZMLWhjX01xaW9ZYWEydG9kZndlMNIBgwFBVV95cUxNN1pRdEV2RktreFE2c3BlZFVTTlE2cFRoWHYyd3E2WlNCbnR4MXRtaUtYd18zTzNSczZDMFZvNjhMVVBsRHNsRUttaUFTVk03VnQ0aTNNclFYQjBDSFhPTnZITDE5RTR0czhFOEp0a3JKMVJkSmIwYnFhRGx1anFlNUk1MA?oc=5",
-     "t_id": "Dua orang tewas, puluhan orang terluka ketika rudal balistik menyerang kampung halaman Zelenskyy"
     }
    ],
    "title_id": "Kapal kargo Rusia terbakar di Laut Baltik — serangan rudal balistik di kampung halaman Zelensky menewaskan 2 orang, melukai 60 orang"
@@ -50,17 +50,22 @@
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Kerusuhan Usai Arema FC Hajar PSS Sleman 3-0, I.League: Memalukan dan Tak Bisa Dibiarkan",
-   "src": "Sumbawanews",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUR4Z0F5d2k3WlREUkg1N3NaREtJWlQ1b2JBdEhxN1ppR1pqQV9sd0RXam1CNHJJTmdXNjFUZkg2dDJIT2hoMHZiYVhOSVhRY2Y0OVJ3S0UtZjdrSFRmZGc0dmlGdDlKT2hFekxqdklPaElIZGhRTThuMnRnZEJlcTAwdF82amtjN01YOXpsRE1HRV9PWV9nZGFxRGx1TDhJemdhZzdaRlZqcW1vWVcySkVSMEdVYmhrYk1qWHdRY3huUTRtb2dv?oc=5",
-   "sources": 8,
+   "title": "I.League Desak PSSI Hukum Berat PSS Sleman Usai Kerusuhan",
+   "src": "cwibc.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KMS00SkFSa2ZQM3FEOVZTSm1aVC1tc21PbnBxZFNjM01xLW93OWdEQTkta3lfTkNNSDc5MUphVTJBMF9TRFc1TDRrMTY3RXpZaVF1V1RFd1hpVjhGaHlTZ3dR?oc=5",
+   "sources": 9,
    "recent6h": 0,
-   "score": 8.0,
+   "score": 9.0,
    "level": "besar",
    "first": "2026-11-20T21:33:14Z",
-   "last": "2026-11-21T14:52:22Z",
+   "last": "2026-11-21T15:38:13Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Kerusuhan Usai Arema FC Hajar PSS Sleman 3-0, I.League: Memalukan dan Tak Bisa Dibiarkan",
+     "src": "Sumbawanews",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUR4Z0F5d2k3WlREUkg1N3NaREtJWlQ1b2JBdEhxN1ppR1pqQV9sd0RXam1CNHJJTmdXNjFUZkg2dDJIT2hoMHZiYVhOSVhRY2Y0OVJ3S0UtZjdrSFRmZGc0dmlGdDlKT2hFekxqdklPaElIZGhRTThuMnRnZEJlcTAwdF82amtjN01YOXpsRE1HRV9PWV9nZGFxRGx1TDhJemdhZzdaRlZqcW1vWVcySkVSMEdVYmhrYk1qWHdRY3huUTRtb2dv?oc=5"
+    },
     {
      "t": "I.League Kecam Keras Kerusuhan Suporter PSS Sleman, Super Elja Terancam Sanksi Berat",
      "src": "Jawa Pos",
@@ -75,11 +80,6 @@
      "t": "I.League Desak PSSI Jatuhkan Sanksi Berat Usai Kerusuhan Sleman",
      "src": "Lensa Hukum",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FREg2bDJRUGVEb0x2ZThPZ1FWVHo3NHQ4eE1fWGRKRW5WeEJUcGlPdXRjVWdubnp1cWp6NktrcjhDWGdWNTZQMzdSdlJoX0ZrSGNOamVESXh0OWJURTJuZXM1bVpBMWs?oc=5"
-    },
-    {
-     "t": "I.League Kecam Kerusuhan PSS Sleman dan Dorong Sanksi Berat",
-     "src": "Peradaban.id",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRXdDemxNQVM2NlVXMDlOZGlpVHdSemNzSVdSSFJ4bFZkak9QZWE3SUVVRHJ2OUtWV29oU2NPM2lUall1dXM0MEdST3Rpc2ctaEMzeV9BNS1sT3I2ZkFEYkdKTkw4QQ?oc=5"
     }
    ]
   },
@@ -174,17 +174,22 @@
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Demo Gen Z Guncang 25 Negara Eropa, Anak Muda Protes Biaya Hidup hingga Belanja Militer",
-   "src": "NNC Netralnews",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNHk2WHhVcW1MR0tSby02cktTbE41QmJMTzJkWWY1Z1lhNGVIVUtIM1FXT2UxcVl0UXZWenhoOThrc0o4ZERKTVNpQWxpVFFjSGVnOXVtM1lTNWZVdkdpaVhDVG85YVF4V1RQM0xFUnFfQm1jVUlJbDhaejg4b291R21yRm40Z2pIeTY2YnAzMEZmU3F6QkNJenF5X3NuV3k1VmxqSGt5b1N4Y0QxeUlTdncwUmVCdGl4bFRBS1hvM2s3RW5z?oc=5",
+   "title": "Foto : Digawangi Gen Z, Gelombang Demo Kembali Mengguncang Eropa, Apa Tuntutannya? Halaman 1",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX1FabHBXeHo5eHJvdDNDYlA1X0ppLXN2QjRTU05OV2VfX2RFb0htUWdGSnJ3aV9kejM5aDUzNHNqT3lYT1VkNmczb0ZaV3BQLXl5ZmVCUzFwcmpsenA4NmYwcEFNamNTRTNnY0d2aUF5MFhEVW53YTBNVUUxZDNrN3BISXBpNzVUd25Jak9YbGd1ek1JTzdsNnhfaWVmTF9hcjZhRlNqaEIzbTR4MHRVNHh4TU5uaDg1TXV6SnF6TUhvb3BHUzJKSzNFOVAyNUxf?oc=5",
    "sources": 3,
-   "recent6h": 3,
-   "score": 4.5,
+   "recent6h": 5,
+   "score": 5.5,
    "level": "sedang",
    "first": "2026-11-21T03:35:00Z",
    "last": "2026-11-22T03:10:00Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Demo Gen Z Guncang 25 Negara Eropa, Anak Muda Protes Biaya Hidup hingga Belanja Militer",
+     "src": "NNC Netralnews",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNHk2WHhVcW1MR0tSby02cktTbE41QmJMTzJkWWY1Z1lhNGVIVUtIM1FXT2UxcVl0UXZWenhoOThrc0o4ZERKTVNpQWxpVFFjSGVnOXVtM1lTNWZVdkdpaVhDVG85YVF4V1RQM0xFUnFfQm1jVUlJbDhaejg4b291R21yRm40Z2pIeTY2YnAzMEZmU3F6QkNJenF5X3NuV3k1VmxqSGt5b1N4Y0QxeUlTdncwUmVCdGl4bFRBS1hvM2s3RW5z?oc=5"
+    },
     {
      "t": "Demo Gen Z Kembali Landa Eropa, Tuntut Anggaran Pendidikan dan Perumahan",
      "src": "Qoo Media",
@@ -196,9 +201,9 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDNWLXBvd0FaNldnUTVidTUtaUpmZkVWOTVaeFIzVDV6VURCSjE2T2JjY3VfR0hYU1c3Q3kxLTEzcHFkLTBfZmYzVWpTcVFmOWtyeXZ4eTF4NGFiRjlaZHljOEFoNFRXSFZlMEU1LWRpRjJROU9zZnBZZU5jdF9LZnJKczVhY0hRQkRSczRsRjVUa2N0ZlE?oc=5"
     },
     {
-     "t": "Tuntut perbaikan hidup, ribuan warga demo di seluruh Eropa",
-     "src": "IDNFinancials",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXVsNHZZY2E0TmhvS0wydi1Wei1YOU5vNkhJOFJDUHFaVzA1VXFuNDkzOUM0andOQWwtWGdfRnl0azNmV2NRalpxX0lrN3RsdkRGcFp0YktLb2hMY0QxampnY3k0aEFqbjVXeGxjT3lWdWVBalcxNU41Z2lpRW9UeFcxeFVRNUtSeEtLRmtwZ2k4YkZGUXI3dExWeTlEd3lMeXNV?oc=5"
+     "t": "Digawangi Gen Z, Gelombang Demo Kembali Mengguncang Eropa, Apa Tuntutannya?",
+     "src": "Kompas.com",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc0RRX25xWmNZYVBZWTdUeUEweTJKYlVZRF9sS1lybjN0eWZQanY3TXQ0UlkwcDJTSERJazBfdGxVbXFBYnFPZVRKR0otcE5fUU1CV1V6T0M3OFhldE9CVU92eG5TTGs2elM5TUpCdnd3aTA4enBmQU90dnU4TU1UM3d2RHFpZVJpVTRXX29TWmJ4NVRRd0JZaXIwR0EteHFkdUdtdWRYSzBydWNaUEtEZXZxNzRydnlvVUtDTmpqMGZDdFZiVUHSAcYBQVVfeXFMUFVKZDBieGgyMk9VQzhfemtfSzd2d3V4VEpEamRkYUxqdk02TXpQZEZXd3NOZzg5VUtiMHkzMFRnZGNhdXY4SF9IbXBkMmJfbExYZ1BHeTdHeElsanpZN05qaXE1ay05MlcwME5qZnZ5dXk4TUdDbjFkNUpwbzZfalQtU1NDVlNueG5SU3lBTy1zNTAxUVpQaDc4bThlMlMwRjNRT3E0NzJSMElYQ2FCaFA0ejBFX3hJdTk0blR3bFNZX3NiSHVR?oc=5"
     }
    ]
   },
@@ -231,37 +236,6 @@
      "t_id": "Bisakah Anda Selamat dari Pemadaman Bank? 10 Cara Melindungi Uang Anda Sebelum Uang Berikutnya"
     }
    ]
-  },
-  {
-   "id": "perang-202611210638-a98b",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russia launches deadly missile drone attack, Trump invites Putin to G20 Summit in Miami",
-   "src": "FOX 13 Seattle",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YUdkcGRMMER2R0ZvN1FtSHd3bV84eDFRRGY5NFRabmY0cmJtSjQ4ZERlQTZaYmFjRFI1aVFQUUVPcVNqTkZITDhwM1hJY2h0WDlvWkl6LXBaSXA4dXBHdWRELXRMd9IBa0FVX3lxTE82QVpEbFBpM1NLYU1JeUVSdjJoR01KTzh6RG15dHRjV1kwV1pYNHItd3hNS01VeENVNXhqeUhTS0hGWFNmcnpOeERyXzh0STZHZmFSYlVNcVhBMS12VVFITFBYMWtWTy1rN2s0?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-21T06:38:32Z",
-   "last": "2026-11-21T17:45:33Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Russia launches massive missile and drone attack on Ukraine, killing at least 8",
-     "src": "News Channel 5 Nashville",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0hBRWxjYWw1V1VPVlh3YUMxbFpLbW5jVDg0STZCUHpjRFAtdmo3LTFLeWc5eEplaGNUeTlZOHVSdU9oNEdveDczQmxuOE1aSXptVFpaT3lEUzhIS1FWSjRkVE0teE9XWE05N1VfbzBYQkVvSi1wRFNPa3ZNaU5MMTNsblE5T1hxTkdJSGNTSm5fT1lIX0hObHBFNmpHUC1yV3p6R0dXQk5OdmR3TWswY0xWSmVvZ19MU2EyVw?oc=5",
-     "t_id": "Rusia melancarkan serangan rudal dan drone besar-besaran ke Ukraina, menewaskan sedikitnya 8 orang"
-    },
-    {
-     "t": "Russian missile and drone attack causes two deaths in Kryvyi Rih",
-     "src": "Demócrata",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGhaTVFzaXh0dmtnSTI5dl9Ld3M2aEZVbTFwWmVQYldWTnUxSkRvdGx5S2ZoYVRHY3A3Z3M3SEE5YWx3Uy16WWJSU1FQNTY5UHh0SlVMVkF2Zi05XzVNdWpCLUlkcnJXN21GR2o2WUNxM0hHalFRR29haXJRWDh2RHU3ckRUSmtFZ0FWRGM1TnZ2eGpENWxydzZYWHpiX3VQbko2X2lRSUk4aEXSAbABQVVfeXFMTlRUTGNOZnpxVzJiNkxDNkFNZG5MQms1U2NXQ3MyUk50QzNLM1R4RU1EVGROSnhmSHpmWEdlY2U4Y05VSFBQcFlCY3E1QmUwSzBEbmczYWItY3hkbnFTem1TZVJPdHlNclh5dm9NbXkxQzR3N0tIbGlQbHhFSXZoc3ZkNUpTMU01VEpTcWdBbWx2UmxVeWMyUXBFcjFHX1VBYmVhMWFjVFE3bkc2aGx4cEE?oc=5",
-     "t_id": "Serangan rudal dan drone Rusia menyebabkan dua kematian di Kryvyi Rih"
-    }
-   ],
-   "title_id": "Rusia melancarkan serangan drone rudal mematikan, Trump mengundang Putin ke KTT G20 di Miami"
   },
   {
    "id": "perang-202611201901-9437",
@@ -370,8 +344,5 @@
    "title_id": "Basis data kejahatan FBI dan USDA dilaporkan diretas setelah pemadaman nasional selama seminggu"
   }
  ],
- "errors": [
-  "politik: HTTP Error 429: Too Many Requests",
-  "korporat: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
