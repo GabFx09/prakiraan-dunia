@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T08:01:28Z",
+ "updatedAt": "2026-11-22T08:16:03Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -46,21 +46,27 @@
    "title_id": "Dua tewas, 10 luka-luka akibat serangan rudal Rusia di Lviv, Ukraina"
   },
   {
-   "id": "perang-202611220153-7530",
+   "id": "perang-202611220153-2212",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Iran Attacks US Military Bases in Bahrain, Claims Two Patriot Radars Hit by Missiles and Drones",
-   "src": "Aktualita.co",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0Q1JzWjNGcXE3RnZSQ080UUt3MTJ3ZWF0MTMzVU5UbS1iUHNsdDlZTldnenk2T214dWI1dzVsdjhxMW91R3BjdWZ6cmxMMXFWMy1XcWJYc3JSTXAxRVpyVWJ2enpUalN6elBZcjZZUm1QZWxZNnc?oc=5",
-   "sources": 7,
-   "recent6h": 6,
-   "score": 10.0,
+   "title": "Iran Claims Missile, Drone Strikes on US Radars in Bahrain",
+   "src": "https://www.thetraveler.org/",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUlyWDNQSmtnaHZiR3U3ZzFxcjM5OXlIalAyOFVUSHFlM3hacFE0XzlEbmhuYWd5S09ZcFZlX1dGckpfVFlLcHg0eEdXVTJHMXgtRHZBcU5fMHlnQTJxNFpCTTFyX202cGUzV0ZLOEtMMDl5ajNwLVplNjl3bGVSbnJUdVhMa0V2NmUwNTRfNA?oc=5",
+   "sources": 8,
+   "recent6h": 7,
+   "score": 11.5,
    "level": "besar",
-   "first": "2026-11-22T01:25:17Z",
-   "last": "2026-11-22T06:41:00Z",
+   "first": "2026-11-22T01:53:56Z",
+   "last": "2026-11-22T08:10:26Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Iran Attacks US Military Bases in Bahrain, Claims Two Patriot Radars Hit by Missiles and Drones",
+     "src": "Aktualita.co",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0Q1JzWjNGcXE3RnZSQ080UUt3MTJ3ZWF0MTMzVU5UbS1iUHNsdDlZTldnenk2T214dWI1dzVsdjhxMW91R3BjdWZ6cmxMMXFWMy1XcWJYc3JSTXAxRVpyVWJ2enpUalN6elBZcjZZUm1QZWxZNnc?oc=5",
+     "t_id": "Iran Menyerang Pangkalan Militer AS di Bahrain, Klaim Dua Radar Patriot Terkena Rudal dan Drone"
+    },
     {
      "t": "Iran claims missile, drone strikes on US bases in Bahrain",
      "src": "Madhyamam",
@@ -78,15 +84,8 @@
      "src": "Mid-Day",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcE8tLS0tYnR2d1VCYVRlZEVHVVNydWNueDFZaExUUWt0WHl0b0RjMDZpbUswUWRrNDdYUkh4MmFvVk1MdXJZc00yMHhTSU9rMkliaWY0MkZyUm9vWmRmSVJ2QldNTTBFUUs4WndqRFVrcXpnZjdRX1RpeV9MUG45Nm9YN2pQSG1pektJSklMWjVyWUcycnVDS1hkRTFfWWFUTVNWU0ZHYTVNSVppMGFyNVdRbVI3aGxQeHN1UjNLRk1VVkpjRzEwVjF3UTk2WFRoR2N6V3N6Vjd6aThra29WNDRBRQ?oc=5",
      "t_id": "IRGC Iran mengklaim rudal dan drone menyerang posisi AS di dua pangkalan Bahrain"
-    },
-    {
-     "t": "Iran Claims Missile, Drone Strikes On US Patriot Radars At 2 Bahrain Bases Over Airspace Violations",
-     "src": "ABP Live English",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTlNrd0c4TTZFdDZQdUF5ekk4YlBMT2d1ZDhtd0dFNGduY0FlU1o2NWpSd2NSMTlScFdRa3hxdnQ2S0VGdFRPLWtaWDB2XzJIM0haTEZTcDBOYldwUEdPbGZUaWZtOEY1NnFTRDBoSjNKLXZOdnNiRnhYaGx5Rkc0QXdHZnpIRHh6NkpPazNrczQ2ejg3S2RhbU1OOXdaUnJrUTVuanlub3RYdDZYR1hCU0ROa200amNhNVFGajhiQmJzQTUxMklEYWlpTXpEMndZSzZYcE5ZNms2OGxIOFN3UHYtbi1uNlNOR0pBcmhQaDQ2dS11WkVDRmdEVi1jbTczTmlaY9IBigJBVV95cUxPRDdqX0JBSHM0VTFJUkplN2V2S3RJRVZ3Uk4yRmlVMEhkQS0xckFqdG43TFVnaElXUjhkS1NyUnR1Wjd0WVhBeFlRdlJiT050N014WkFBM09scUpQam85QjVBZ0c2b0JXdXVncUJKV0JlcG1hQkdOR3NRUFVWYUpzelgwYlh3V0lYX2VMUXZqMThTUUhlT3lHVVZ4dDZudXpwTXpaUmlSVGhUR0MzdEdBWUtXaF8wZzdYZl9wWFdWdWo1d3YzVGtVVFRDWXJkRjM0Mm5GRWxxdUMtYVVLaVRSWC0wczBSRnhPVUdxN1lPd3NtZzVMWWU0VE5GUWxfa1IxVnNpT3hWYjdGZw?oc=5",
-     "t_id": "Iran Mengklaim Rudal, Drone Menyerang Radar Patriot AS di 2 Pangkalan Bahrain Karena Pelanggaran Wilayah Udara"
     }
-   ],
-   "title_id": "Iran Menyerang Pangkalan Militer AS di Bahrain, Klaim Dua Radar Patriot Terkena Rudal dan Drone"
+   ]
   },
   {
    "id": "indonesia-202611210453-802e",
@@ -177,14 +176,19 @@
    "title": "Foto : Digawangi Gen Z, Gelombang Demo Kembali Mengguncang Eropa, Apa Tuntutannya? Halaman 1",
    "src": "Kompas.com",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX1FabHBXeHo5eHJvdDNDYlA1X0ppLXN2QjRTU05OV2VfX2RFb0htUWdGSnJ3aV9kejM5aDUzNHNqT3lYT1VkNmczb0ZaV3BQLXl5ZmVCUzFwcmpsenA4NmYwcEFNamNTRTNnY0d2aUF5MFhEVW53YTBNVUUxZDNrN3BISXBpNzVUd25Jak9YbGd1ek1JTzdsNnhfaWVmTF9hcjZhRlNqaEIzbTR4MHRVNHh4TU5uaDg1TXV6SnF6TUhvb3BHUzJKSzNFOVAyNUxf?oc=5",
-   "sources": 3,
-   "recent6h": 2,
-   "score": 4.0,
+   "sources": 4,
+   "recent6h": 3,
+   "score": 5.5,
    "level": "sedang",
    "first": "2026-11-21T03:35:00Z",
-   "last": "2026-11-22T03:10:00Z",
+   "last": "2026-11-22T07:58:17Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Ribuan Pemuda Swiss Demo Tolak Kenaikan Biaya Hidup dan Anggaran Pertahanan",
+     "src": "IDN Times",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2ppQ1VTM1k2MkgtNDJfN2stRlVfNDQyVDhNYzlTUXFxQXpqRGRQbGhXZkdVa2dJUnNHNHROQl95MjAzRldWdXlaSDZtOTRLa01XZmtFdnEzQlg1SWFPSDh6SXExeTVuZ0EwdlE2TGhTS1l5WEhQVU9OUmlVZmRSdU44dlYyYTdLV3cwaVBVRlhzLTRSVHJWOE83Q3I4eGVJeGM1RkptUzdCN3hXVjdEZdIBtgFBVV95cUxNekhIVXlXY3RLVzFzV2ZZOFFSQ29ENG55M25zRUoxTk9PcVhIOE4yZXFvbG43UU1peVpnLUk0WUNzV2h5VXlmcGtGYWhNNG1NUHBZNV9VXzh3Z0t1RE9rN2J1SG5FbFBNYXhVeVpNRjhYdnJBdEZlWm9BVW8zSFVkWTZYRWdhVjVfNnhIYkI2aVNHSy1SN0dxelJJaUVGRVR0RHd0S2FmdTBxVXRoUE8tZExGc1RKUQ?oc=5"
+    },
     {
      "t": "Demo Gen Z Guncang 25 Negara Eropa, Anak Muda Protes Biaya Hidup hingga Belanja Militer",
      "src": "NNC Netralnews",
@@ -199,11 +203,6 @@
      "t": "Demo Gen Z di Eropa Menguat, Massa Tuntut Upah, Perumahan, dan Anggaran Pendidikan",
      "src": "Qoo Media",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDNWLXBvd0FaNldnUTVidTUtaUpmZkVWOTVaeFIzVDV6VURCSjE2T2JjY3VfR0hYU1c3Q3kxLTEzcHFkLTBfZmYzVWpTcVFmOWtyeXZ4eTF4NGFiRjlaZHljOEFoNFRXSFZlMEU1LWRpRjJROU9zZnBZZU5jdF9LZnJKczVhY0hRQkRSczRsRjVUa2N0ZlE?oc=5"
-    },
-    {
-     "t": "Digawangi Gen Z, Gelombang Demo Kembali Mengguncang Eropa, Apa Tuntutannya?",
-     "src": "Kompas.com",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWHpwclRRRU1HZ1o4aGlaUVFVN0sxWHdkZGhYTDlZdmRreFc3Z1BuclE3U3RTUFZETkh6cVpDSXRXMWF6azdhdDVZbHZzb29kcXFGSUg0N1hnYUowT3FVZFR5ZWl0c2lnREpzUmpHbE9SWjhBQ01nblFkOEFqTGdPQmFnYm40U1ZHRGdfMTFmOXdMbHdqd0xENE9RY0c3Nk01RDhBS0Z6XzJ3VnY5dVZJdWJndkJkT1hBTzVqcEtualk2Q2FHMTN5a2RyWjlXYTBmSnfSAcYBQVVfeXFMUFVKZDBieGgyMk9VQzhfemtfSzd2d3V4VEpEamRkYUxqdk02TXpQZEZXd3NOZzg5VUtiMHkzMFRnZGNhdXY4SF9IbXBkMmJfbExYZ1BHeTdHeElsanpZN05qaXE1ay05MlcwME5qZnZ5dXk4TUdDbjFkNUpwbzZfalQtU1NDVlNueG5SU3lBTy1zNTAxUVpQaDc4bThlMlMwRjNRT3E0NzJSMElYQ2FCaFA0ejBFX3hJdTk0blR3bFNZX3NiSHVR?oc=5"
     }
    ]
   },
@@ -343,7 +342,5 @@
    "title_id": "Anatomi Ground Stop FAA: Satu Tulang Punggung, Satu Perubahan Buruk"
   }
  ],
- "errors": [
-  "bencana: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
