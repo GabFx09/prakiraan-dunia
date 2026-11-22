@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-22T08:30:26Z",
+ "updatedAt": "2026-11-22T08:45:05Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%: Market watch",
+   "src": "Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SXltejJLRGVoeExpQUFieUUzX1hDQlVhdDNZQlNjVHFkWi1wWF9yYUhjY0pwZXk2SDdvSEJVeTltWC1ENTU1QjlqZ0Y0OXAxSkV4Tlo3bldYX1hnMFdPQUdiWnBIRnltUC1xSlZjamdZeEY4?oc=5",
+   "time": "2026-11-22T08:39:51Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -25,14 +33,6 @@
    "src": "Robinhood",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS0lPank4anRXUEE5LWtHczRhUDZLS3dVUDA1QngzQW1QWDNZMVZOZ3pVeWE1dDR0N0JYMmJpSFBnNkdwUnpDMk1oVzBDV193NFJabnZ2aUw5UHZMMW9VVGZuM2loX1ptN0U0a0dkbnlZaHU5eUNPTHR4VnNOTjZHQ1ZPWmdfWm1VQmZiVEdCb1dxVGcyYUxjMGkxUExDdzI1S2czMmZJdHMyZENXTUwtTXozbl9GUQ?oc=5",
    "time": "2026-11-22T08:07:21Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin price rebounds from $55K after historic sell-off, is $72K next?",
-   "src": "Crypto News",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rZzVTU2xaTWZXcE5LOFI0RlBsZk84N0F5ekdWY0lONHljSWROaEVCS3BsYUd6QmlZR2RpSzBtZ2JSVVFKSVhydVBEd3lQSVVVekd5MGdPVmMwVU5PenJBcm1KZWtmT1M5Y1Z1cDkxaFdqREk?oc=5",
-   "time": "2026-11-22T08:01:17Z"
   },
   {
    "topic": "indonesia",
@@ -59,6 +59,14 @@
    "time": "2026-11-22T07:07:30Z"
   },
   {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Anjlok ke 5.146 Usai BI Naikkan Suku Bunga",
+   "src": "cwibc.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LYUdYQ0RyR19NcWN2LUNjWVl0bGdqU1ZqZ05raS00NGJhMUZJY0JSRjFrRzZYMDRGc0p5WFFlWHkxZlBxX3hfTFdtc0VuVEYwWVpQM2tXblNUR0d1ZGxITkc0WQ?oc=5",
+   "time": "2026-11-22T07:00:15Z"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Price Slump Wipes an Estimated $15 Trillion From Gold and Silver",
@@ -66,15 +74,6 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVBnVXdjMlluQVZwOUZhQWc0ZzhFSzNMR05DRElETVpKSEROQ09NeUlJV3lTUENnTWhTekw3aVdJU1VSTEJxNUlxVFJTTDBMd0dBUFVxWm1lb2VFYVU1YnlIbnhKeGptR0Q2VHJZWVJaTGNLb29HdWdRTXBMRnVvYTRreXE1VzBMRlpuekxpV2ZPejRvYXdQOEZVVXh2TkFLVmJr?oc=5",
    "time": "2026-11-22T06:21:04Z",
    "t_id": "Kemerosotan Harga Emas Menghapus Perkiraan $15 Triliun Dari Emas dan Perak"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Treasury Yields Fall, German Bunds’ Tick Higher",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
-   "time": "2026-11-22T06:15:26Z",
-   "t_id": "Imbal Hasil Treasury Turun, Bunds Jerman Meningkat"
   },
   {
    "topic": "indonesia",
@@ -101,15 +100,6 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmpGN3Q1djlGbU9lMXNhdkJMTEJUUVJxN2Y1bXRBZzdtdUhKLTZQY1NtVkxTS2lpWjZvVHpoTWJwbVpzUzJ1OXlvSXJVUDZTV3BtaTVUcDRVQ1pIS2NZa3RzVlRwdWZ4MnhzMzcxSUhSMnZrTnEyaS1LSGx6RU43alpWelE4REdILXdWS2QwLXVweGI4bndvaWl5bEw2QdIBowFBVV95cUxNSHhZN19NSl9YZFVoNWQtbVhEVEY1UVhFOTk5WXhNNnU1T1dyeTRqamw4cGNfWU16XzFjdjVKNHlucWpBaW00Z204Vnp2UW5odXhYSFVTd0RUdDkxQnJwQ2xWZVlYcjdyLUtMMWtVeUJIWVNteHRadHFUU2o1UmljM1BwdlVzdDh2ZXdQbi1aVVFUNnMzYVdBVzZiU1lHeWVhdEFN?oc=5",
    "time": "2026-11-22T04:46:30Z",
    "t_id": "Perkiraan Harga Emas: XAU/USD Menembus Tren Naik Multi-Tahun di Minggu Terburuk Sejak Maret"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "‘Line-breaker’ tanker signal near Hormuz was fake, tracking firm says",
-   "src": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NRS1FVjd4RlhoeGJTWTZxNnVKbW1FMS05Ull1WW9xWmRINVh2NEhNVXhFSF9IaEtHZHMtZUlzNzRTd0pGM1I4eHRxV3ViU2pWOGc?oc=5",
-   "time": "2026-11-22T04:14:00Z",
-   "t_id": "Sinyal kapal tanker 'pemutus garis' di dekat Hormuz palsu, kata perusahaan pelacak"
   },
   {
    "topic": "indonesia",
@@ -139,9 +129,9 @@
    "topic": "indonesia",
    "lang": "id",
    "t": "Chery Sebut Bunga Kredit Mobil Belum Naik Usai BI Rate 6 Persen",
-   "src": "Demokratis.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEajZFXy1YMl9zbXZzd2U2eWoxdl94cmMtNkp0MjQ3NllXc1BfZ2s2YUF5c29XY3VGLTRKZGxTM3RVdW5CVjBmT3phOGZ5RlN6UjQxY2dkV0xhWWtZUFpEcDZHUFpXaDVP?oc=5",
-   "time": "2026-11-22T03:24:25Z"
+   "src": "Limapagi",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbjVvMU5QeTIwc0pHSURkdTZkWlFmUThvRXlXZV81UGc5QW0zaTBWV0xNb01LUlNnN1RxYVd6N0oxc3p3aGwzRUxYb2NyNXNMalVZMjk5TGZqNldPY2Z5c1pTaFZPMEk?oc=5",
+   "time": "2026-11-22T03:24:57Z"
   },
   {
    "topic": "indonesia",
@@ -150,6 +140,15 @@
    "src": "kontan.co.id",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjE4RjdpVWNSUGFNclVFSF9ScVZLVlU5bjB4Z1BYYnl4em82RGxWOEh5bk04V19fNmxuSEcwcWxFVWhQSzUwVDVwMnJiMUxSYVJQTGtMYUVkbklDcHlyOVgxaFRPdU5aY05lSjF1TUxPNklmVTBYeXROMFlKeVZnb1c5X0p0Z0RvN3F5cFdINUNRUjRKa2pJUGJ5anZiYXEtNHpnZWVRdHBvR3VrY2fSAaYBQVVfeXFMUEVKcU9HZTdZVEN3QVpxVERaTXM0M19sX1ZlcFlHU00xZFloMzVUdlVlMDRSdnA3bnBWOTN5M3FzeHdhTlVLVmtxcGlWeW01VndWTFlidUZzMEJuWnh2QkJGQnJ1WUhsNXFrSGlDUDFGRDdhZ3FxMGlHZVljZmNRbmJCeGVuUG5uNVFQSlRucC1OUlk2NEJEZXRCeXAzYXRwRHh5SExIdw?oc=5",
    "time": "2026-11-22T03:19:04Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "CleanSpark Stock Slides On Bitcoin Weakness Ahead Of Earnings",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUVYbklyU0c2Z3NROG94WVZvWERNNGRKRTF1YUVKN05GXzhoSThXbEMzd01GemFOa1VRMlZRbmRQS0poMkh0c3h2Q3FzN19SMVQ0MmxiRktab0tJRnEwSUkzMDNya3JsSHRJYVo2amtUYlIyVGZBSnU3VWk3NEFXcGtJTlo2WmEtRW1nbi15bHRuUzZkVEh6akpUS09ZcGMyU0tUX2RtVFY?oc=5",
+   "time": "2026-11-22T03:10:00Z",
+   "t_id": "Saham CleanSpark Merosot Karena Kelemahan Bitcoin Menjelang Pendapatan"
   },
   {
    "topic": "indonesia",
@@ -233,6 +232,14 @@
    "time": "2026-11-21T23:10:18Z"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGI3Sng2eVpHTHVCWFlFamhHRWxSYXNtMkU1R0Y1amNNMHRNMXdMQ0RNbHBNSXhvdlVIRU42Z0N4V3RWRGdzYnp6UjdkeDZsY2pwU29iRG9GR29NakVMV1FYRjdvWjdhckM1N0dmSVUwYjNXWU5yVVZQZm92U2tzNlpQMlNJZVRGTzNJbm1KLUpfUQ?oc=5",
+   "time": "2026-11-21T22:50:00Z"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
@@ -290,8 +297,8 @@
    "topic": "saham-as",
    "lang": "en",
    "t": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2NoR0NPVmlhT0tLTnRIRHc2RTJsME1lYXF2WnJDeS1aeXFpU18waThxQ0ZBNlR0Z0ozRWtJSTcxWlJ4RFdNZXVGQTNEb3BLWm9fM0tvLUdvYUpwaVpOX2NoSlFHd3NBRGZjYW5yTG1NMmt5NUg5VkVyY2Q4R3JjT3VoMmlwX1EyN3AtTFFFZw?oc=5",
+   "src": "24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmx6VFBvcllRSmkwN1dKeFB1LUlrRkNicDNvTHplVTFZTWtyMGZTWnhURlZuZVFkekM0Y2dQVDlIU2luT3BLTWFHUlhCRC0xekIxai1iVTU4aTFPbUgxMWVLYzMtd1JqUmlyemxVajFjMlVTSlBfYWtwVUZHNjQ3WGIzSnNoRFFlT2JTTjlqY3lPak5qUnJnWEZWb3ZULUFSTTdnbDdOc29PdjgtcVpF?oc=5",
    "time": "2026-11-21T20:42:00Z",
    "t_id": "S&P 500 Kini Di Bawah Setiap Target Akhir Tahun Wall Street untuk tahun 2026"
   },
@@ -368,6 +375,15 @@
    "t_id": "U.A.E. Mengangkut Minyak Melewati Iran dalam Operasi Hormuz yang Berisiko"
   },
   {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street’s Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGcwWU5zUDZCMUNPeUcxdGVVWW9IUnE4T3BIbl80OVJMUXVRTXFZcEphQVE1QmRlMTdwZENsSVJwY05mM0doQ1YzOVB0ZDgwRXdpS0M0ZHliX2kwbnhOTXRfQ2RGSGg4VzlraHdTVXh3ai0wLXdzc3VZdTh4SVY4UVFRczFSLUNRX3U3d1NfSjByRGdmTUNN?oc=5",
+   "time": "2026-11-21T15:28:29Z",
+   "t_id": "Indeks Ketakutan Wall Street Baru Saja Mencapai 9,7. Sejarah Mengatakan S&P 500 Bisa Rally 10,5% dalam 3 Minggu"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Wall Street sell-off drives portfolio buying as AI stocks stumble",
@@ -413,13 +429,13 @@
    "t_id": "Serangan di Selat Hormuz telah meningkat ke tingkat tertinggi sejak perang Iran dimulai"
   },
   {
-   "topic": "saham-as",
+   "topic": "china",
    "lang": "en",
-   "t": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears",
-   "src": "Beinsure",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA?oc=5",
-   "time": "2026-11-21T09:58:33Z",
-   "t_id": "Perkiraan S&P 500 untuk tahun 2027: Wall Street memperkirakan rebound setelah penurunan 11,6% yang dipicu oleh ketakutan terhadap AI"
+   "t": "Exclusive | Deal on duty-free Swiss exports to China a boon for Hong Kong, top diplomat says",
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPelBrc3lOOVp2dEZkaUhoTktVWVk4dDZDN1J3MlNHT1RwaHVYRTNjUTVZZU5RdG1fQnVGUjQtZ0dXcHBRYmxWQTJCbS11ekdlZDNvS2gwQ1JiTEdDR0tQNGlYWkdCTm9SSFpGSDVDczI0bF82dmdKLWFiS0hLaXAwUHVMcnFjRjNUVWE3VFR0R053aDB6a1dNWTFuTEJ3a1p4SG1yWWl5THRLcUhuaV8zNDJXNHBqMzJxSTg3eDAweXZyM0E3LTJKdjV0ank4ZVdaT0840gHTAUFVX3lxTE8yaERqNTJIa2V4LW9RYm5fYlcyX1NEX3A2aWlCbEM2cVJOWVRWdVAzV3JxMXV2TjBfdHY0VTRWdG9qTGQ1VTRrdmhKa0JTUUZEeU0yWFlHMmlXWEMtTU5zb1JuLUlMS21wS3ZGRlJwRnc4UG9jbHI4eEVyQkhaMnVjaWVLbzhrR09GWU5ZeVdZRHdWT0I4NFFSVEVTZlFiYVdzdDJtcUVobWpVdF80ZEx4cXVReUJUc3NwQmpkcmYxOXlpYUV0X2ROYlV3bkRGQ1lPMXc?oc=5",
+   "time": "2026-11-21T05:08:48Z",
+   "t_id": "Eksklusif | Kesepakatan ekspor Swiss bebas bea ke Tiongkok merupakan keuntungan bagi Hong Kong, kata diplomat terkemuka"
   },
   {
    "topic": "saham-as",
@@ -429,6 +445,15 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGo2a2JDeFFQWXZZSUFuc1hYVkctMXBGZzVJWjhCSU4tV21qenB4bVNuLUJFTG1hakVYdGNlQ2tuRXFnOXlnSzFJVjZHWVg3V09EWVVhb1o5NVY3YWJpcHZ4MGFyYm9faWdPOGVsRERlakFST214NC1RZDA4UTBjdUZmYmZtOUdUOWZNNFE1M3dVdGVneWtKeWl4Sll0aFZFcW1qUUtFM2RfVUhkTGNJ0gG0AUFVX3lxTFBlZXlISGdZNkJyblRJX1V4NW9OQTFrYkNHWFZoazJzTDZZUHI4US1sT01jSkhtWVFxeUVqYkdJdzIwYmxjWFFsRTNMYWhUdk9wVWl3aVpUTmhvZi1IQ1ZJcFdKODc1TDdJb2tLZzZ0RzB6d3o4WERicXJ5OGNvcFZpTTl5RmhQRTRkWERGeUFPTmVUeU56dl9ObDNPcTgxeDU2bHlCaDFiSVdQaXlQMlozdzZ1Tw?oc=5",
    "time": "2026-11-21T01:28:00Z",
    "t_id": "Wall Street mengalami kerugian bersejarah karena Dow, S&P 500 terjun ke wilayah koreksi"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "time": "2026-11-20T22:39:32Z",
+   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
   },
   {
    "topic": "bank-sentral",
@@ -467,15 +492,6 @@
    "t_id": "Wall St berakhir melemah tajam karena aksi jual AI, S&P 500, dan Dow terkoreksi"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "How Michigan’s Economy Could Suffer From Proposed Canada Auto Deal Change",
-   "src": "Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHRxMjEtNmVkVXgwS1J3YWlfZUMzTzZfVWZBQldyTU1TNDhuSDhmQXkxM25uVGtEV182TFMwWkZYMWVfaVlPUXAyc1VpZGcySldXUlZBMXpZOHo1SUtFTVhmQUoxM2tlbDBxdlN3RkNfWW1YZHlmd05xYUhkUmI0dFlabXZLZ0N5UE5NQ1lIbllGbHJsUXVKcVF3ZmtDcFR4eDJUdTZ2aUw5UQ?oc=5",
-   "time": "2026-11-20T21:38:00Z",
-   "t_id": "Bagaimana Perekonomian Michigan Dapat Menderita Akibat Usulan Perubahan Kesepakatan Mobil Kanada"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "Current price of Bitcoin for November 20, 2026",
@@ -501,24 +517,6 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?oc=5",
    "time": "2026-11-20T20:59:33Z",
    "t_id": "Bagaimana Pergeseran Carney ke Tiongkok Dapat Menjadi Pengaruh dalam Perundingan Perdagangan AS yang Terhenti"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Closing Bell panel assesses sharp selloff as Nvidia, AI stocks tumble",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1g0UXZ5OXJuVHpnN1lqWUk1OURVWVRkdDZRemFXcS1hNk1GdTNQcHE1dDdyb0NxbDc4R0hTTDlFMG1IdnJWbThPSGNqTzVVWXJxR09Lamh6WGZaSWZvVm12X05zdGpaek1zZVRWcWhEYk1sM0lEblZjNURGOTVWdXVmaXdnMW5RWkdZY1dwTV9hdTcwTGVWWlY4UmNocWhGaUk5UHE0SWJxUTFiZUtSNQ?oc=5",
-   "time": "2026-11-20T20:55:00Z",
-   "t_id": "Panel Closing Bell menilai aksi jual tajam seiring anjloknya saham Nvidia dan AI"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "The Push and Pull of U.S.-China Trade Policy",
-   "src": "Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "time": "2026-11-20T18:52:08Z",
-   "t_id": "Dorongan dan Tarikan Kebijakan Perdagangan AS-Tiongkok"
   }
  ],
  "errors": []
