@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T05:05:32Z",
+ "updatedAt": "2026-11-22T05:20:17Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Russian cargo ship bursts into flames in Baltic Sea — as ballistic missile attack on Zelensky’s hometown kills 2, wounds 60",
    "src": "New York Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5",
-   "sources": 13,
+   "sources": 8,
    "recent6h": 0,
-   "score": 13.0,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-21T04:38:09Z",
    "last": "2026-11-21T21:38:58Z",
@@ -31,57 +31,19 @@
      "t_id": "Rusia melancarkan serangan rudal balistik ke kampung halaman Zelensky di Ukraina tengah"
     },
     {
-     "t": "Russia launches deadly missile drone attack, Trump invites Putin to G20 Summit in Miami",
-     "src": "FOX 13 Seattle",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YUdkcGRMMER2R0ZvN1FtSHd3bV84eDFRRGY5NFRabmY0cmJtSjQ4ZERlQTZaYmFjRFI1aVFQUUVPcVNqTkZITDhwM1hJY2h0WDlvWkl6LXBaSXA4dXBHdWRELXRMd9IBa0FVX3lxTE82QVpEbFBpM1NLYU1JeUVSdjJoR01KTzh6RG15dHRjV1kwV1pYNHItd3hNS01VeENVNXhqeUhTS0hGWFNmcnpOeERyXzh0STZHZmFSYlVNcVhBMS12VVFITFBYMWtWTy1rN2s0?oc=5",
-     "t_id": "Rusia melancarkan serangan drone rudal mematikan, Trump mengundang Putin ke KTT G20 di Miami"
-    },
-    {
      "t": "Young boy one of two killed in ballistic missile attack on Zelensky’s home city",
      "src": "The Irish News",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXVPSmZXY0lkZmhzTHlzcUFubmxQb3lKTm41eWx4UW1iZHhQa2VzWGN3SVBCcWc3T0JuWE1yLW95VWotSHdXZzhlMl9hUURtaWNxRDdvb3hjVGNpamp5ZjhVY0dJMlhScFJTTzdDWEFnaWh2Y1FvWkpmNWhSSTlSS2xFMTRNQjN4Mk16enVWUk42ckdUUUZhLTBhT1FITkg3d05veGJFLTZfZGNwTnBIdEk3Wk5od2hSSWhGeVdpTm5DSjNuOXZtWUY3eTcyVDdDQ0lHLUJTZFNvaEU?oc=5",
      "t_id": "Bocah lelaki satu dari dua orang yang tewas dalam serangan rudal balistik di kota asal Zelensky"
+    },
+    {
+     "t": "Two killed, scores wounded as ballistic missile strikes Zelenskyy's hometown",
+     "src": "DW.com",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDE0OXRVa3lCemVzZ2NTdUNyMmYwYVRYLTBWRUNwcnBwSkxRNHIwRnF0SGRGcHk5dl93dldRNHMzOU5mekY1VHlSOC04YzBzSWhDMUVpTTYtMGZSbHViQnlVRm1zS1ZmaTNoSm9hbGZMLWhjX01xaW9ZYWEydG9kZndlMNIBgwFBVV95cUxNN1pRdEV2RktreFE2c3BlZFVTTlE2cFRoWHYyd3E2WlNCbnR4MXRtaUtYd18zTzNSczZDMFZvNjhMVVBsRHNsRUttaUFTVk03VnQ0aTNNclFYQjBDSFhPTnZITDE5RTR0czhFOEp0a3JKMVJkSmIwYnFhRGx1anFlNUk1MA?oc=5",
+     "t_id": "Dua orang tewas, puluhan orang terluka ketika rudal balistik menyerang kampung halaman Zelenskyy"
     }
    ],
    "title_id": "Kapal kargo Rusia terbakar di Laut Baltik — serangan rudal balistik di kampung halaman Zelensky menewaskan 2 orang, melukai 60 orang"
-  },
-  {
-   "id": "indonesia-202611210453-802e",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "I.League Desak PSSI Hukum Berat PSS Sleman Usai Kerusuhan",
-   "src": "cwibc.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KMS00SkFSa2ZQM3FEOVZTSm1aVC1tc21PbnBxZFNjM01xLW93OWdEQTkta3lfTkNNSDc5MUphVTJBMF9TRFc1TDRrMTY3RXpZaVF1V1RFd1hpVjhGaHlTZ3dR?oc=5",
-   "sources": 9,
-   "recent6h": 0,
-   "score": 9.0,
-   "level": "besar",
-   "first": "2026-11-20T21:33:14Z",
-   "last": "2026-11-21T15:38:13Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Kerusuhan Usai Arema FC Hajar PSS Sleman 3-0, I.League: Memalukan dan Tak Bisa Dibiarkan",
-     "src": "Sumbawanews",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUR4Z0F5d2k3WlREUkg1N3NaREtJWlQ1b2JBdEhxN1ppR1pqQV9sd0RXam1CNHJJTmdXNjFUZkg2dDJIT2hoMHZiYVhOSVhRY2Y0OVJ3S0UtZjdrSFRmZGc0dmlGdDlKT2hFekxqdklPaElIZGhRTThuMnRnZEJlcTAwdF82amtjN01YOXpsRE1HRV9PWV9nZGFxRGx1TDhJemdhZzdaRlZqcW1vWVcySkVSMEdVYmhrYk1qWHdRY3huUTRtb2dv?oc=5"
-    },
-    {
-     "t": "I.League Kecam Keras Kerusuhan Suporter PSS Sleman, Super Elja Terancam Sanksi Berat",
-     "src": "Jawa Pos",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNXkxX3I3QllPTnJFNUJqZzFTZTRvMEN2aDdXU2t5ekcyUjc3cHdzQUNGY2ZEdGdpb3gyZzFBLVlRekxnd3NOd0wzN196dkdaamU0QkVOUlFzWTJjME9RZzlMd3A4ZDRHWGg2V2RNclI4ZWs3dTJPaXBKSkEyV3hFN2tPbFJuUGNEUDBXX1V4LVpER09hdmNfeXR1WGZLMC1yR0dKMEtTVTNQRGFrNmVQODFMZGUyV0M1T21pc0xScVhNZTJEelVVdWFsQ0UyTVNXSlBZNUt1aGVPbDNVLUxHRw?oc=5"
-    },
-    {
-     "t": "I.League Dorong Pelaku Kerusuhan di Laga PSS vs Arema Dipidanakan",
-     "src": "SKOR.id",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUFHbnJzNDdPbDNycmM5cDdHdnBNam1RTzVYaU1HVGNvYkpqT0dRUVlIRzhicTJ1Y2xOc2tyZXlPdTlJMWN1ckZMX0tkWTVDMUpYbDhrSVZtdk9WcG9hNkktVXlEdEVjOXZZRThWTXFaemtaemN2clhSd2JEZHVkZWFFempkRU04aW0yOGhTeExZajhDSjJKOXVn?oc=5"
-    },
-    {
-     "t": "I.League Desak PSSI Jatuhkan Sanksi Berat Usai Kerusuhan Sleman",
-     "src": "Lensa Hukum",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FREg2bDJRUGVEb0x2ZThPZ1FWVHo3NHQ4eE1fWGRKRW5WeEJUcGlPdXRjVWdubnp1cWp6NktrcjhDWGdWNTZQMzdSdlJoX0ZrSGNOamVESXh0OWJURTJuZXM1bVpBMWs?oc=5"
-    }
-   ]
   },
   {
    "id": "perang-202611220125-3d53",
@@ -170,6 +132,44 @@
    "title_id": "IRGC Iran mengklaim rudal dan drone menyerang posisi AS di dua pangkalan Bahrain"
   },
   {
+   "id": "indonesia-202611210453-802e",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Kerusuhan Usai Arema FC Hajar PSS Sleman 3-0, I.League: Memalukan dan Tak Bisa Dibiarkan",
+   "src": "Sumbawanews",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUR4Z0F5d2k3WlREUkg1N3NaREtJWlQ1b2JBdEhxN1ppR1pqQV9sd0RXam1CNHJJTmdXNjFUZkg2dDJIT2hoMHZiYVhOSVhRY2Y0OVJ3S0UtZjdrSFRmZGc0dmlGdDlKT2hFekxqdklPaElIZGhRTThuMnRnZEJlcTAwdF82amtjN01YOXpsRE1HRV9PWV9nZGFxRGx1TDhJemdhZzdaRlZqcW1vWVcySkVSMEdVYmhrYk1qWHdRY3huUTRtb2dv?oc=5",
+   "sources": 7,
+   "recent6h": 0,
+   "score": 7.0,
+   "level": "besar",
+   "first": "2026-11-20T21:33:14Z",
+   "last": "2026-11-21T14:52:22Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "I.League Kecam Keras Kerusuhan Suporter PSS Sleman, Super Elja Terancam Sanksi Berat",
+     "src": "Jawa Pos",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNXkxX3I3QllPTnJFNUJqZzFTZTRvMEN2aDdXU2t5ekcyUjc3cHdzQUNGY2ZEdGdpb3gyZzFBLVlRekxnd3NOd0wzN196dkdaamU0QkVOUlFzWTJjME9RZzlMd3A4ZDRHWGg2V2RNclI4ZWs3dTJPaXBKSkEyV3hFN2tPbFJuUGNEUDBXX1V4LVpER09hdmNfeXR1WGZLMC1yR0dKMEtTVTNQRGFrNmVQODFMZGUyV0M1T21pc0xScVhNZTJEelVVdWFsQ0UyTVNXSlBZNUt1aGVPbDNVLUxHRw?oc=5"
+    },
+    {
+     "t": "I.League Dorong Pelaku Kerusuhan di Laga PSS vs Arema Dipidanakan",
+     "src": "SKOR.id",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUFHbnJzNDdPbDNycmM5cDdHdnBNam1RTzVYaU1HVGNvYkpqT0dRUVlIRzhicTJ1Y2xOc2tyZXlPdTlJMWN1ckZMX0tkWTVDMUpYbDhrSVZtdk9WcG9hNkktVXlEdEVjOXZZRThWTXFaemtaemN2clhSd2JEZHVkZWFFempkRU04aW0yOGhTeExZajhDSjJKOXVn?oc=5"
+    },
+    {
+     "t": "I.League Desak PSSI Jatuhkan Sanksi Berat Usai Kerusuhan Sleman",
+     "src": "Lensa Hukum",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FREg2bDJRUGVEb0x2ZThPZ1FWVHo3NHQ4eE1fWGRKRW5WeEJUcGlPdXRjVWdubnp1cWp6NktrcjhDWGdWNTZQMzdSdlJoX0ZrSGNOamVESXh0OWJURTJuZXM1bVpBMWs?oc=5"
+    },
+    {
+     "t": "I.League Kecam Kerusuhan PSS Sleman dan Dorong Sanksi Berat",
+     "src": "Peradaban.id",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRXdDemxNQVM2NlVXMDlOZGlpVHdSemNzSVdSSFJ4bFZkak9QZWE3SUVVRHJ2OUtWV29oU2NPM2lUall1dXM0MEdST3Rpc2ctaEMzeV9BNS1sT3I2ZkFEYkdKTkw4QQ?oc=5"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611210335-9eba",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -208,34 +208,35 @@
    ]
   },
   {
-   "id": "siber-202611211007-e7d4",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "perang-202611210638-a98b",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
-   "src": "International Business Times Australia",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
+   "title": "Russia launches deadly missile drone attack, Trump invites Putin to G20 Summit in Miami",
+   "src": "FOX 13 Seattle",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YUdkcGRMMER2R0ZvN1FtSHd3bV84eDFRRGY5NFRabmY0cmJtSjQ4ZERlQTZaYmFjRFI1aVFQUUVPcVNqTkZITDhwM1hJY2h0WDlvWkl6LXBaSXA4dXBHdWRELXRMd9IBa0FVX3lxTE82QVpEbFBpM1NLYU1JeUVSdjJoR01KTzh6RG15dHRjV1kwV1pYNHItd3hNS01VeENVNXhqeUhTS0hGWFNmcnpOeERyXzh0STZHZmFSYlVNcVhBMS12VVFITFBYMWtWTy1rN2s0?oc=5",
    "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
+   "recent6h": 0,
+   "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-21T10:07:30Z",
-   "last": "2026-11-22T04:28:23Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "first": "2026-11-21T06:38:32Z",
+   "last": "2026-11-21T17:45:33Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Exactly What You Should Do NOW To Prepare For The Next Big Internet Outage",
-     "src": "AOL.com",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kd0hQWW9wYkpaREhZR0hXc0EycFg0OEl4YklOZUZPMy1UTkJMY0Y5dWhyLTNSM1NsY1VOQ2xmTmx2QzFWNkJVS0Z3LWZjNEEzZVF2YVlPX0w4c0MxcjNhQy1aRjhiRlBhNjFQNWkyOUhzanBfaE5MOE15Qlk?oc=5",
-     "t_id": "Apa yang Harus Anda Lakukan SEKARANG Untuk Mempersiapkan Diri Menghadapi Gangguan Internet Besar Berikutnya"
+     "t": "Russia launches massive missile and drone attack on Ukraine, killing at least 8",
+     "src": "News Channel 5 Nashville",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0hBRWxjYWw1V1VPVlh3YUMxbFpLbW5jVDg0STZCUHpjRFAtdmo3LTFLeWc5eEplaGNUeTlZOHVSdU9oNEdveDczQmxuOE1aSXptVFpaT3lEUzhIS1FWSjRkVE0teE9XWE05N1VfbzBYQkVvSi1wRFNPa3ZNaU5MMTNsblE5T1hxTkdJSGNTSm5fT1lIX0hObHBFNmpHUC1yV3p6R0dXQk5OdmR3TWswY0xWSmVvZ19MU2EyVw?oc=5",
+     "t_id": "Rusia melancarkan serangan rudal dan drone besar-besaran ke Ukraina, menewaskan sedikitnya 8 orang"
     },
     {
-     "t": "Could You Survive A Bank Outage? 10 Ways To Protect Your Money Before The Next One",
-     "src": "Black America Web",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxaU9vVFY2WXM0QklxQmFpRmpVZU5JMmd6NlhPZzVNb0dnOGlmRVBGVWczaHJvOWw3MHQ1SUlNcWdMcVZyZTQyeDJlQmxCazgyY3JXd0FwRXd0RkZYMG9WazItMXhYY19TcHJUWWVnTkFXbkR6Y09hTzh6cw?oc=5",
-     "t_id": "Bisakah Anda Selamat dari Pemadaman Bank? 10 Cara Melindungi Uang Anda Sebelum Uang Berikutnya"
+     "t": "Russian missile and drone attack causes two deaths in Kryvyi Rih",
+     "src": "Demócrata",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGhaTVFzaXh0dmtnSTI5dl9Ld3M2aEZVbTFwWmVQYldWTnUxSkRvdGx5S2ZoYVRHY3A3Z3M3SEE5YWx3Uy16WWJSU1FQNTY5UHh0SlVMVkF2Zi05XzVNdWpCLUlkcnJXN21GR2o2WUNxM0hHalFRR29haXJRWDh2RHU3ckRUSmtFZ0FWRGM1TnZ2eGpENWxydzZYWHpiX3VQbko2X2lRSUk4aEXSAbABQVVfeXFMTlRUTGNOZnpxVzJiNkxDNkFNZG5MQms1U2NXQ3MyUk50QzNLM1R4RU1EVGROSnhmSHpmWEdlY2U4Y05VSFBQcFlCY3E1QmUwSzBEbmczYWItY3hkbnFTem1TZVJPdHlNclh5dm9NbXkxQzR3N0tIbGlQbHhFSXZoc3ZkNUpTMU01VEpTcWdBbWx2UmxVeWMyUXBFcjFHX1VBYmVhMWFjVFE3bkc2aGx4cEE?oc=5",
+     "t_id": "Serangan rudal dan drone Rusia menyebabkan dua kematian di Kryvyi Rih"
     }
-   ]
+   ],
+   "title_id": "Rusia melancarkan serangan drone rudal mematikan, Trump mengundang Putin ke KTT G20 di Miami"
   },
   {
    "id": "perang-202611201901-9437",
@@ -294,6 +295,30 @@
    "title_id": "Rudal Rusia menghantam Polandia: Apa yang terjadi, dan dapatkah NATO meresponsnya?"
   },
   {
+   "id": "siber-202611211007-e7d4",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
+   "src": "International Business Times Australia",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-21T10:07:30Z",
+   "last": "2026-11-22T04:28:23Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Exactly What You Should Do NOW To Prepare For The Next Big Internet Outage",
+     "src": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kd0hQWW9wYkpaREhZR0hXc0EycFg0OEl4YklOZUZPMy1UTkJMY0Y5dWhyLTNSM1NsY1VOQ2xmTmx2QzFWNkJVS0Z3LWZjNEEzZVF2YVlPX0w4c0MxcjNhQy1aRjhiRlBhNjFQNWkyOUhzanBfaE5MOE15Qlk?oc=5",
+     "t_id": "Apa yang Harus Anda Lakukan SEKARANG Untuk Mempersiapkan Diri Menghadapi Gangguan Internet Besar Berikutnya"
+    }
+   ]
+  },
+  {
    "id": "transportasi-202611211212-706a",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -317,6 +342,29 @@
     }
    ],
    "title_id": "Anatomi Ground Stop FAA: Satu Tulang Punggung, Satu Perubahan Buruk"
+  },
+  {
+   "id": "indonesia-202611210748-01d0",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Polda DIY Tindak Tiga Personel yang Diduga Bermasalah saat Pengamanan Kerusuhan 10 November",
+   "src": "Tribratanews",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaE1JMUdTM2NIOGMzUzVxSDctRWRmOW94V3VfS21XdGNSMFZDcVhsM1Raclp1LW1CSjBjMHJ2REtqaElKejVPYS1NUDZZR2lCcVpwTXVkTDh1SGRNWHEzcFBFRDAtcG9pbXQ3VHZTMjhES2NzV2lVUzRYU0QwRmdlU3h2NlRXQ1VtblNFelFndGJRVmtkTktqYUxmSzhtYWQxdUxQV0JXcTlKZTdiLWJtXzI4V25MNFoyamtTTDZ5VFM2NzB2Y0dGVHZ4OEs?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-21T07:48:00Z",
+   "last": "2026-11-21T13:16:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Polda DIY: Tiga personel diduga melanggar saat kerusuhan 10 November",
+     "src": "Head Topics",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkpvbUZGRzBlNkUwVC1JM0xqamZjNU1iYXpLYVpCRDRsbF9KQl9jZldDNlNOZEpOT0FZS0RiMnJhSXRaOFB3UGlGS09BSWVCdENDQ0ptZ1FNakVqQWM3TVlUbkFUay1ub0ZBNzJiczZlQVpFdHZyYUVWVURwWjZrSk0yZ1d5cWZ3Nmp3STIzeHdHNHB5T0xGd2lFcDVGRFU?oc=5"
+    }
+   ]
   },
   {
    "id": "siber-202611210339-e752",
