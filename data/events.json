@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T06:58:39Z",
+ "updatedAt": "2026-11-22T07:02:51Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -96,9 +96,9 @@
    "title": "I.League Desak PSSI Hukum Berat PSS Sleman Usai Kerusuhan",
    "src": "cwibc.co.id",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KMS00SkFSa2ZQM3FEOVZTSm1aVC1tc21PbnBxZFNjM01xLW93OWdEQTkta3lfTkNNSDc5MUphVTJBMF9TRFc1TDRrMTY3RXpZaVF1V1RFd1hpVjhGaHlTZ3dR?oc=5",
-   "sources": 9,
+   "sources": 10,
    "recent6h": 0,
-   "score": 9.0,
+   "score": 10.0,
    "level": "besar",
    "first": "2026-11-20T21:33:14Z",
    "last": "2026-11-21T15:38:13Z",
@@ -270,6 +270,31 @@
    "title_id": "Serangan Rusia menewaskan dua orang, melukai 60 orang di kampung halaman Zelenskyy ketika ketegangan perang menyebar ke seluruh Eropa"
   },
   {
+   "id": "perang-202611200239-ebfb",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXJxS0Y2ZWlaREQtbEtfbmhwcFJibU9pOTdCalNJNGhlTElNSmFMZXN0Sy1YYTlVN2VfcGRpbFgtNFlKM0I3ZEtILWk1TTRTVG1KYkp1VmJqcldtNG1rVnY1cG5rMUppb29kekNKazBGUy1LMVRKeEtOcmd2cTdFNUQxVl9mS3Zld0VqbEpiSU9nQU82bGdqUUN3c0JlMHR6VHB4UHlxU2Fod9IBrwFBVV95cUxPWS1tWElsbWdpWUFTN3VyamFlYTd5UXhMLTI1R0NKa1NzamV5WVIwRndZRm5qOWgxclQwOEprdi1tb290VHFnZWZHMGtSTVJidmFZT3RJVWpKS3lscFl6N244akRLQ29UeDZGcVBiZjR4MkthYkdCRUxCdmhtZnd0eFl2ZWtaWDdEN3Ridy1nLUgzN2E3LXI1MnEyb2NxTHlMUllZcnd2MUlHYXIwS2tr?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-20T02:39:11Z",
+   "last": "2026-11-22T06:28:30Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Poland says Russian missiles hit its territory; Trump calls it a mistake",
+     "src": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5",
+     "t_id": "Polandia mengatakan rudal Rusia menghantam wilayahnya; Trump menyebutnya sebagai sebuah kesalahan"
+    }
+   ],
+   "title_id": "Rudal Rusia menghantam Polandia: Apa yang terjadi, dan dapatkah NATO meresponsnya?"
+  },
+  {
    "id": "perang-202611201901-9437",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -293,31 +318,6 @@
     }
    ],
    "title_id": "Dua tewas, 10 luka-luka akibat serangan rudal Rusia di Lviv, Ukraina"
-  },
-  {
-   "id": "perang-202611200239-ebfb",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXJxS0Y2ZWlaREQtbEtfbmhwcFJibU9pOTdCalNJNGhlTElNSmFMZXN0Sy1YYTlVN2VfcGRpbFgtNFlKM0I3ZEtILWk1TTRTVG1KYkp1VmJqcldtNG1rVnY1cG5rMUppb29kekNKazBGUy1LMVRKeEtOcmd2cTdFNUQxVl9mS3Zld0VqbEpiSU9nQU82bGdqUUN3c0JlMHR6VHB4UHlxU2Fod9IBrwFBVV95cUxPWS1tWElsbWdpWUFTN3VyamFlYTd5UXhMLTI1R0NKa1NzamV5WVIwRndZRm5qOWgxclQwOEprdi1tb290VHFnZWZHMGtSTVJidmFZT3RJVWpKS3lscFl6N244akRLQ29UeDZGcVBiZjR4MkthYkdCRUxCdmhtZnd0eFl2ZWtaWDdEN3Ridy1nLUgzN2E3LXI1MnEyb2NxTHlMUllZcnd2MUlHYXIwS2tr?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-20T02:39:11Z",
-   "last": "2026-11-22T05:29:33Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Poland says Russian missiles hit its territory; Trump calls it a mistake",
-     "src": "The Washington Post",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5",
-     "t_id": "Polandia mengatakan rudal Rusia menghantam wilayahnya; Trump menyebutnya sebagai sebuah kesalahan"
-    }
-   ],
-   "title_id": "Rudal Rusia menghantam Polandia: Apa yang terjadi, dan dapatkah NATO meresponsnya?"
   },
   {
    "id": "transportasi-202611211212-706a",
