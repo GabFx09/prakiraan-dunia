@@ -1,7 +1,27 @@
 {
- "updatedAt": "2026-11-21T18:28:36Z",
+ "updatedAt": "2026-11-22T00:11:21Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-spx-20261122-down",
+   "time": "2026-11-22T00:11:21Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "spx",
+   "title": "S&P 500 anjlok 3,7% dalam sehari",
+   "body": "Harga terakhir 6.910. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#spx"
+  },
+  {
+   "id": "px-gold-20261122-down",
+   "time": "2026-11-22T00:11:21Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "gold",
+   "title": "Emas anjlok 4,6% dalam sehari",
+   "body": "Harga terakhir 3.515. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#gold"
+  },
   {
    "id": "ev-indonesia-202611210453-802e",
    "time": "2026-11-21T18:28:36Z",
@@ -347,8 +367,10 @@
   "px-gold-20261119-down",
   "px-gold-20261120-down",
   "px-gold-20261121-down",
+  "px-gold-20261122-down",
   "px-spx-20261120-down",
   "px-spx-20261121-down",
+  "px-spx-20261122-down",
   "px-usdidr-20261119-up",
   "px-usdidr-20261120-up",
   "px-usdidr-20261121-up"
