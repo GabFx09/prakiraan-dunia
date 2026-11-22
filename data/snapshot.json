@@ -964,6 +964,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 4.912
+    },
+    {
+      "t": "2026-11-22T12:58:00Z",
+      "risk": 89,
+      "btc": 60806.03,
+      "gold": 3515.4,
+      "brent": 89.95,
+      "spx": 6910.39,
+      "ihsg": 5146.326,
+      "usdidr": 18260.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1542,10 +1553,10 @@
     },
     {
       "c": "neg",
-      "d": "Naik 0,1%, dekat low 2 tahun",
+      "d": "Naik 1,2%, dekat low 2 tahun",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$60.159"
+      "v": "$60.806"
     },
     {
       "c": "neg",
@@ -1578,8 +1589,8 @@
   "regimeText": "Aksi jual saham AI membawa S&P 500 ke zona koreksi dan Nvidia tertekan laporan pemeriksaan SEC, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Ketegangan Hormuz dan perang Rusia-Ukraina menjaga risiko geopolitik tinggi.",
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 89,
-  "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin bertahan di sekitar ~$58.968.",
-  "updatedAt": "2026-11-22T09:58:00Z",
+  "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin bertahan di sekitar ~$60.806.",
+  "updatedAt": "2026-11-22T12:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1915,9 +1926,10 @@
     "date": "2026-11-22",
     "points": [
       "Pasar masih tutup akhir pekan: Wall Street Jumat anjlok (S&P 500 -3,7% ke ~6.910, zona koreksi) dan Nvidia turun ~12% di tengah laporan pemeriksaan SEC (belum ada temuan pelanggaran).",
-      "Bitcoin ~$60.159 (dekat low 2 tahun); emas ~$3.515 (terendah >1 tahun); Rupiah dekat rekor terlemah ~Rp18.260 per dolar; IHSG 5.146 (tutup Jumat).",
+      "Bitcoin ~$60.806 (dekat low 2 tahun); emas ~$3.515 (terendah >1 tahun); Rupiah dekat rekor terlemah ~Rp18.260 per dolar; IHSG 5.146 (tutup Jumat).",
       "Geopolitik: Iran mengklaim menyerang radar AS di Bahrain, Houthi menembak ke Arab Saudi, dan serangan Rusia ke Ukraina berlanjut; Hormuz tetap sumber risiko utama.",
-      "Senin: pantau pembukaan IHSG dan Rupiah setelah aksi jual Wall Street dan kenaikan BI-Rate ke 6,00%; data PCE AS keluar Rabu (25/11)."
+      "Senin: pantau pembukaan IHSG dan Rupiah setelah aksi jual Wall Street dan kenaikan BI-Rate ke 6,00%; data PCE AS keluar Rabu (25/11).",
+      "Akhir pekan: pasar Asia tertekan aksi jual saham AI (Korea Selatan ikut anjlok); BI menyiapkan intervensi dan diskon hedging untuk menopang Rupiah."
     ]
   },
   "calendar": [
