@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T04:36:19Z",
+ "updatedAt": "2026-11-22T04:50:53Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Russian cargo ship bursts into flames in Baltic Sea — as ballistic missile attack on Zelensky’s hometown kills 2, wounds 60",
    "src": "New York Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5",
-   "sources": 15,
+   "sources": 8,
    "recent6h": 0,
-   "score": 15.0,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-21T04:38:09Z",
    "last": "2026-11-21T21:38:58Z",
@@ -31,16 +31,16 @@
      "t_id": "Rusia melancarkan serangan rudal balistik ke kampung halaman Zelensky di Ukraina tengah"
     },
     {
-     "t": "Russia launches deadly missile drone attack, Trump invites Putin to G20 Summit in Miami",
-     "src": "FOX 13 Seattle",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YUdkcGRMMER2R0ZvN1FtSHd3bV84eDFRRGY5NFRabmY0cmJtSjQ4ZERlQTZaYmFjRFI1aVFQUUVPcVNqTkZITDhwM1hJY2h0WDlvWkl6LXBaSXA4dXBHdWRELXRMd9IBa0FVX3lxTE82QVpEbFBpM1NLYU1JeUVSdjJoR01KTzh6RG15dHRjV1kwV1pYNHItd3hNS01VeENVNXhqeUhTS0hGWFNmcnpOeERyXzh0STZHZmFSYlVNcVhBMS12VVFITFBYMWtWTy1rN2s0?oc=5",
-     "t_id": "Rusia melancarkan serangan drone rudal mematikan, Trump mengundang Putin ke KTT G20 di Miami"
-    },
-    {
      "t": "Young boy one of two killed in ballistic missile attack on Zelensky’s home city",
      "src": "The Irish News",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXVPSmZXY0lkZmhzTHlzcUFubmxQb3lKTm41eWx4UW1iZHhQa2VzWGN3SVBCcWc3T0JuWE1yLW95VWotSHdXZzhlMl9hUURtaWNxRDdvb3hjVGNpamp5ZjhVY0dJMlhScFJTTzdDWEFnaWh2Y1FvWkpmNWhSSTlSS2xFMTRNQjN4Mk16enVWUk42ckdUUUZhLTBhT1FITkg3d05veGJFLTZfZGNwTnBIdEk3Wk5od2hSSWhGeVdpTm5DSjNuOXZtWUY3eTcyVDdDQ0lHLUJTZFNvaEU?oc=5",
      "t_id": "Bocah lelaki satu dari dua orang yang tewas dalam serangan rudal balistik di kota asal Zelensky"
+    },
+    {
+     "t": "Two killed, scores wounded as ballistic missile strikes Zelenskyy's hometown",
+     "src": "DW.com",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDE0OXRVa3lCemVzZ2NTdUNyMmYwYVRYLTBWRUNwcnBwSkxRNHIwRnF0SGRGcHk5dl93dldRNHMzOU5mekY1VHlSOC04YzBzSWhDMUVpTTYtMGZSbHViQnlVRm1zS1ZmaTNoSm9hbGZMLWhjX01xaW9ZYWEydG9kZndlMNIBgwFBVV95cUxNN1pRdEV2RktreFE2c3BlZFVTTlE2cFRoWHYyd3E2WlNCbnR4MXRtaUtYd18zTzNSczZDMFZvNjhMVVBsRHNsRUttaUFTVk03VnQ0aTNNclFYQjBDSFhPTnZITDE5RTR0czhFOEp0a3JKMVJkSmIwYnFhRGx1anFlNUk1MA?oc=5",
+     "t_id": "Dua orang tewas, puluhan orang terluka ketika rudal balistik menyerang kampung halaman Zelenskyy"
     }
    ],
    "title_id": "Kapal kargo Rusia terbakar di Laut Baltik — serangan rudal balistik di kampung halaman Zelensky menewaskan 2 orang, melukai 60 orang"
@@ -203,6 +203,67 @@
    ]
   },
   {
+   "id": "siber-202611211007-e7d4",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
+   "src": "International Business Times Australia",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-21T10:07:30Z",
+   "last": "2026-11-22T04:28:23Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Exactly What You Should Do NOW To Prepare For The Next Big Internet Outage",
+     "src": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kd0hQWW9wYkpaREhZR0hXc0EycFg0OEl4YklOZUZPMy1UTkJMY0Y5dWhyLTNSM1NsY1VOQ2xmTmx2QzFWNkJVS0Z3LWZjNEEzZVF2YVlPX0w4c0MxcjNhQy1aRjhiRlBhNjFQNWkyOUhzanBfaE5MOE15Qlk?oc=5",
+     "t_id": "Apa yang Harus Anda Lakukan SEKARANG Untuk Mempersiapkan Diri Menghadapi Gangguan Internet Besar Berikutnya"
+    },
+    {
+     "t": "Could You Survive A Bank Outage? 10 Ways To Protect Your Money Before The Next One",
+     "src": "Black America Web",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxaU9vVFY2WXM0QklxQmFpRmpVZU5JMmd6NlhPZzVNb0dnOGlmRVBGVWczaHJvOWw3MHQ1SUlNcWdMcVZyZTQyeDJlQmxCazgyY3JXd0FwRXd0RkZYMG9WazItMXhYY19TcHJUWWVnTkFXbkR6Y09hTzh6cw?oc=5",
+     "t_id": "Bisakah Anda Selamat dari Pemadaman Bank? 10 Cara Melindungi Uang Anda Sebelum Uang Berikutnya"
+    }
+   ]
+  },
+  {
+   "id": "perang-202611210638-a98b",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russia launches deadly missile drone attack, Trump invites Putin to G20 Summit in Miami",
+   "src": "FOX 13 Seattle",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YUdkcGRMMER2R0ZvN1FtSHd3bV84eDFRRGY5NFRabmY0cmJtSjQ4ZERlQTZaYmFjRFI1aVFQUUVPcVNqTkZITDhwM1hJY2h0WDlvWkl6LXBaSXA4dXBHdWRELXRMd9IBa0FVX3lxTE82QVpEbFBpM1NLYU1JeUVSdjJoR01KTzh6RG15dHRjV1kwV1pYNHItd3hNS01VeENVNXhqeUhTS0hGWFNmcnpOeERyXzh0STZHZmFSYlVNcVhBMS12VVFITFBYMWtWTy1rN2s0?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-21T06:38:32Z",
+   "last": "2026-11-21T17:45:33Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Russia launches massive missile and drone attack on Ukraine, killing at least 8",
+     "src": "News Channel 5 Nashville",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0hBRWxjYWw1V1VPVlh3YUMxbFpLbW5jVDg0STZCUHpjRFAtdmo3LTFLeWc5eEplaGNUeTlZOHVSdU9oNEdveDczQmxuOE1aSXptVFpaT3lEUzhIS1FWSjRkVE0teE9XWE05N1VfbzBYQkVvSi1wRFNPa3ZNaU5MMTNsblE5T1hxTkdJSGNTSm5fT1lIX0hObHBFNmpHUC1yV3p6R0dXQk5OdmR3TWswY0xWSmVvZ19MU2EyVw?oc=5",
+     "t_id": "Rusia melancarkan serangan rudal dan drone besar-besaran ke Ukraina, menewaskan sedikitnya 8 orang"
+    },
+    {
+     "t": "Russian missile and drone attack causes two deaths in Kryvyi Rih",
+     "src": "Demócrata",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGhaTVFzaXh0dmtnSTI5dl9Ld3M2aEZVbTFwWmVQYldWTnUxSkRvdGx5S2ZoYVRHY3A3Z3M3SEE5YWx3Uy16WWJSU1FQNTY5UHh0SlVMVkF2Zi05XzVNdWpCLUlkcnJXN21GR2o2WUNxM0hHalFRR29haXJRWDh2RHU3ckRUSmtFZ0FWRGM1TnZ2eGpENWxydzZYWHpiX3VQbko2X2lRSUk4aEXSAbABQVVfeXFMTlRUTGNOZnpxVzJiNkxDNkFNZG5MQms1U2NXQ3MyUk50QzNLM1R4RU1EVGROSnhmSHpmWEdlY2U4Y05VSFBQcFlCY3E1QmUwSzBEbmczYWItY3hkbnFTem1TZVJPdHlNclh5dm9NbXkxQzR3N0tIbGlQbHhFSXZoc3ZkNUpTMU01VEpTcWdBbWx2UmxVeWMyUXBFcjFHX1VBYmVhMWFjVFE3bkc2aGx4cEE?oc=5",
+     "t_id": "Serangan rudal dan drone Rusia menyebabkan dua kematian di Kryvyi Rih"
+    }
+   ],
+   "title_id": "Rusia melancarkan serangan drone rudal mematikan, Trump mengundang Putin ke KTT G20 di Miami"
+  },
+  {
    "id": "perang-202611201901-9437",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -284,31 +345,6 @@
    "title_id": "Anatomi Ground Stop FAA: Satu Tulang Punggung, Satu Perubahan Buruk"
   },
   {
-   "id": "siber-202611211007-e7d4",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Exactly What You Should Do NOW To Prepare For The Next Big Internet Outage",
-   "src": "AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kd0hQWW9wYkpaREhZR0hXc0EycFg0OEl4YklOZUZPMy1UTkJMY0Y5dWhyLTNSM1NsY1VOQ2xmTmx2QzFWNkJVS0Z3LWZjNEEzZVF2YVlPX0w4c0MxcjNhQy1aRjhiRlBhNjFQNWkyOUhzanBfaE5MOE15Qlk?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-21T10:07:30Z",
-   "last": "2026-11-21T16:30:02Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Could You Survive A Bank Outage? 10 Ways To Protect Your Money Before The Next One",
-     "src": "Black America Web",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxaU9vVFY2WXM0QklxQmFpRmpVZU5JMmd6NlhPZzVNb0dnOGlmRVBGVWczaHJvOWw3MHQ1SUlNcWdMcVZyZTQyeDJlQmxCazgyY3JXd0FwRXd0RkZYMG9WazItMXhYY19TcHJUWWVnTkFXbkR6Y09hTzh6cw?oc=5",
-     "t_id": "Bisakah Anda Selamat dari Pemadaman Bank? 10 Cara Melindungi Uang Anda Sebelum Uang Berikutnya"
-    }
-   ],
-   "title_id": "Apa yang Harus Anda Lakukan SEKARANG Untuk Mempersiapkan Diri Menghadapi Gangguan Internet Besar Berikutnya"
-  },
-  {
    "id": "siber-202611210339-e752",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -334,5 +370,8 @@
    "title_id": "Basis data kejahatan FBI dan USDA dilaporkan diretas setelah pemadaman nasional selama seminggu"
   }
  ],
- "errors": []
+ "errors": [
+  "politik: HTTP Error 429: Too Many Requests",
+  "korporat: HTTP Error 429: Too Many Requests"
+ ]
 }
