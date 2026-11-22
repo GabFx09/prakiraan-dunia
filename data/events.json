@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T20:42:36Z",
+ "updatedAt": "2026-11-22T20:57:15Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -134,14 +134,20 @@
    "title": "Mongolia heads for first snap presidential election after Khurelsukh resigns over corruption claims",
    "src": "The Insight International",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUXVyUGZpelg3ZTAySGNNRmhERGpFM2c5Q0JGaWo2MzR1aHhwTGFlZV9JVHV2UkZBZUQzcWw2TDFYUmxJVG1mR3FmSkRQQjVHakZzN3Nva3hPVXFwZ2dVeDRycDk3Njc1US05Q2lOWHpTTFE0bzNVbmxleFVEZVVJSWJLeUp4eGdhUEVNaDdLYmZNSFZyVklVQ2JUUzVvaGptVy1SZWZBREV4ZDgxWnk1em83Zjd1YXEtQjNOc2JRQS1sZFJiWEVlTWk0Zw?oc=5",
-   "sources": 4,
+   "sources": 5,
    "recent6h": 1,
-   "score": 4.5,
+   "score": 5.5,
    "level": "sedang",
    "first": "2026-11-22T00:00:07Z",
    "last": "2026-11-22T15:43:51Z",
    "assets": "Mata uang & obligasi negara terkait",
    "more": [
+    {
+     "t": "Spain’s snap election was a huge political gamble. Has Pedro Sanchez opened the door for the far-right?",
+     "src": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkY4d3k0ZzIwb1lBS3lEdThsQVIzNzFkeTRmV3ZZbE5CdUVtS3ZMOU5TTE1aaklmYTBGeFhkMkVLcUFSMTFzelRNSGw5NTN5YnFFMlNYS190a2lwZmJ4TnMxb0c0ak5QeTlzREw1azNvNEtEd3p1NGxKMmdpQU9iT0RUV0NueHpJRU50WmlSeC00MjBsMFU2bG5BRl95Vl95dHpBd3BZZw?oc=5",
+     "t_id": "Pemilu cepat di Spanyol merupakan pertaruhan politik yang besar. Apakah Pedro Sanchez membuka pintu bagi sayap kanan?"
+    },
     {
      "t": "Political round-up: Apologies, chainsaws and corruption jibes as Spain enters the final week before pivotal snap election",
      "src": "Olive Press News Spain",
@@ -162,6 +168,43 @@
     }
    ],
    "title_id": "Mongolia menuju pemilihan presiden cepat pertama setelah Khurelsukh mengundurkan diri karena tuduhan korupsi"
+  },
+  {
+   "id": "perang-202611212138-7314",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russian ship hit in Libyan port in suspected Ukrainian drone attack",
+   "src": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm40UThnaG9jbUJnelpLWGlJMHlUdTZkb1p0ZFUwa3NGSGJ5M2R1V0JqWjNTeWhoQTlLeE1ZbWtiVVR5WTFvVGoyUk94ZzR2LXZ5OXZBS3Y5WmdCRlFSYi1GSEZGbWw2RDd5dzZic09kbTBmLW5nOE1mUVM2N1NyR2ttUlZ5WDlOVnpSVzNWNXRYaFVKTWg4WGFkX2RSY0lnWnk3UzhiVQ?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-21T21:38:58Z",
+   "last": "2026-11-22T20:20:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Two killed, 10 injured as Russian missile strikes building in Ukraine’s Lviv",
+     "src": "ANI News",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGJydTlSVm9TTXdQa3ItcW9Bd3owOG9ENkFPMmMxSEtBekFTSjZDWlFHUERzeEtadFRWa2RQdnREcDZnYkxzV0pBRGxSWlQ0S1hhN2NJMVJQa016NUMxQkJ4dzhodGlHZmh3TUFVVm81Y3owTVNNenlDcERjejhUUVBiYnJhUFVJUE9XOHhtbTlveERTaG42N0ptbUZ0T0Z2a1lHZ0xmSm91X0k0MmNqSURKcWc5azl3RTM2aGlwTDdKcHJZMXlzdDBQYVZ3UQ?oc=5",
+     "t_id": "Dua tewas, 10 luka-luka akibat serangan rudal Rusia di Lviv, Ukraina"
+    },
+    {
+     "t": "Russian Missile Attack on Zelensky’s Hometown in Central Ukraine Kills Two, Wounds Dozens",
+     "src": "Breitbart News",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxIQkNZT3NodnN2Z2FFNVczeTlOMTlJR0xBU1A5WTdVMzhqNkVGd1V4OWJWUnVHZXlRb2xkMS1STkpkUFVTUzJDMFc3RmpMMzZLWTE5RTRiSjBiN04wVVJVYVRSY3pIOGxwUkhJM21JQ0ZDODJhQzlkYU5uSnU3bzNob1J4anktb0pNcmgzRW83aVR6VURlbHRmWWVsdVJINHl2c2k1c0FKaHJpVWdNRGFybEVWNExlTks2eW1IYWxNVDdCYXVvYlc1THg?oc=5",
+     "t_id": "Serangan Rudal Rusia terhadap Kampung Halaman Zelensky di Ukraina Tengah Tewaskan Dua Orang, Lukai Puluhan Orang"
+    },
+    {
+     "t": "Russian cargo ship bursts into flames in Baltic Sea — as ballistic missile attack on Zelensky’s hometown kills 2, wounds 60",
+     "src": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5",
+     "t_id": "Kapal kargo Rusia terbakar di Laut Baltik — serangan rudal balistik di kampung halaman Zelensky menewaskan 2 orang, melukai 60 orang"
+    }
+   ],
+   "title_id": "Kapal Rusia menyerang pelabuhan Libya karena dugaan serangan pesawat tak berawak Ukraina"
   },
   {
    "id": "indonesia-202611211801-0ee6",
@@ -245,62 +288,6 @@
    "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
   },
   {
-   "id": "perang-202611212019-4aa9",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Two killed, 10 injured as Russian missile strikes building in Ukraine’s Lviv",
-   "src": "ANI News",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGJydTlSVm9TTXdQa3ItcW9Bd3owOG9ENkFPMmMxSEtBekFTSjZDWlFHUERzeEtadFRWa2RQdnREcDZnYkxzV0pBRGxSWlQ0S1hhN2NJMVJQa016NUMxQkJ4dzhodGlHZmh3TUFVVm81Y3owTVNNenlDcERjejhUUVBiYnJhUFVJUE9XOHhtbTlveERTaG42N0ptbUZ0T0Z2a1lHZ0xmSm91X0k0MmNqSURKcWc5azl3RTM2aGlwTDdKcHJZMXlzdDBQYVZ3UQ?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-21T20:19:43Z",
-   "last": "2026-11-22T06:07:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Russian Missile Attack on Zelensky’s Hometown in Central Ukraine Kills Two, Wounds Dozens",
-     "src": "Breitbart News",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxIQkNZT3NodnN2Z2FFNVczeTlOMTlJR0xBU1A5WTdVMzhqNkVGd1V4OWJWUnVHZXlRb2xkMS1STkpkUFVTUzJDMFc3RmpMMzZLWTE5RTRiSjBiN04wVVJVYVRSY3pIOGxwUkhJM21JQ0ZDODJhQzlkYU5uSnU3bzNob1J4anktb0pNcmgzRW83aVR6VURlbHRmWWVsdVJINHl2c2k1c0FKaHJpVWdNRGFybEVWNExlTks2eW1IYWxNVDdCYXVvYlc1THg?oc=5",
-     "t_id": "Serangan Rudal Rusia terhadap Kampung Halaman Zelensky di Ukraina Tengah Tewaskan Dua Orang, Lukai Puluhan Orang"
-    },
-    {
-     "t": "Russian cargo ship bursts into flames in Baltic Sea — as ballistic missile attack on Zelensky’s hometown kills 2, wounds 60",
-     "src": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5",
-     "t_id": "Kapal kargo Rusia terbakar di Laut Baltik — serangan rudal balistik di kampung halaman Zelensky menewaskan 2 orang, melukai 60 orang"
-    }
-   ],
-   "title_id": "Dua tewas, 10 luka-luka akibat serangan rudal Rusia di Lviv, Ukraina"
-  },
-  {
-   "id": "siber-202611221057-dda9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "FAA lifts ground stop on Atlanta-bound Delta flights after system outage",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx0gGaAUFVX3lxTE5GbV8wMjFfSXVYOF9RQzF6UHZpWThoOEdrbU15Ym5BUTUxTlVKTEhscmtob193R1U2T0txX01fcWlQeGxKcmZhQTd0Z3lEeGx2N0NOcnZ1bThPbHRRRmc3TGtsY2NTcmRfdmpyRXRNVGFkVEd5QmUwVUFTLTZWeGRwVEN0ZklCSFFrc0VwR3VfbFlpUDdDNHBwQnc?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T16:53:24Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
-    }
-   ],
-   "title_id": "FAA mencabut ground stop pada penerbangan Delta menuju Atlanta setelah sistem padam"
-  },
-  {
    "id": "indonesia-202611220720-61fe",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -324,29 +311,29 @@
    ]
   },
   {
-   "id": "transportasi-202611212053-19c3",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "kesehatan-202611212104-5d3f",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Brussels flight cancelled by Monday's strike? Belgian trains are running; how to get there instead",
-   "src": "Nacionale",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc25IREtFR3RfY3F3M0p1MHZBWHZfYmZtOFRaOW91aDhtRG1lZjNNOEVaUHZKOEJRbUVvVzdWNDd0Nk10RU82WjdOc2lIb3MzcXFWVW9uZzdkdl9KaG1ic2l1NnNibDFicWowa3F4SUc0U2NRSlhzeFFNcHVrcWR0QmtqLThwYTJDaml6ZDVlbU9kaXBJMWQyQzlkVERZc2xKTVBWWWVnaUJoZmVwX3VuT052bGI3YXVTamtMTzc3THNBejJadTZv?oc=5",
+   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+   "src": "Kiowa County Press",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-21T20:53:32Z",
-   "last": "2026-11-22T12:44:15Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "first": "2026-11-21T21:04:29Z",
+   "last": "2026-11-22T12:00:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Brussels Airport Expects Most Flights Canceled Monday, Nov. 23, in Strike",
-     "src": "deeparrival.com",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2Q5ZlpUZ2J2bFJ6clpvTW8wdWVvZXQzZFZMeko0MnVHQk9sZ0d5cGtEaWRmQU91X2VTYkFrV1JNWU1rRFh4eDc3em95STlERUV3cThsMlc2aWFIU0pFdThhSGRtXzBhYWhtdU0zdjY0WDhDUG9NbURsc292a2FWZk52S3RablFPRXBJZ05yUTBvYWNOSlpuSE5rd0l5MlV1M3Vv?oc=5",
-     "t_id": "Bandara Brussel Diperkirakan Sebagian Besar Penerbangan Dibatalkan Senin, 23 November, di Mogok"
+     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
+     "src": "Hays Post",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3c0VXNmZvQWdVaVJ3Qm1KeDhrc3dHcm1Dc2k3d1hoa203dy1XTUsxLTJhcG1LdTBpZExPVjNBWjRXQzFxcTF6WERWb0xMbUlCVVNxZEhvclFiU0xnbHV2UTluTHlVck5FTTJrVXU2czA?oc=5",
+     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
     }
    ],
-   "title_id": "Penerbangan Brussels dibatalkan karena pemogokan hari Senin? Kereta api Belgia sedang berjalan; bagaimana menuju ke sana"
+   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
   },
   {
    "id": "perang-202611220254-5022",
