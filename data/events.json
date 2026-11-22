@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T22:39:48Z",
+ "updatedAt": "2026-11-22T22:54:27Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,20 +10,14 @@
    "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcndOTTl3bzZwNVZ4ZWstZXBZdnVkbUhPanQ5VlhUVEJaSTRVdnc1YzVUdEhEd2M0QXdFVGxzRFVLeThYd0FfaGEzMnQzbWIzemFuZzRqSGJCQ2M5LVBzV0dadVlwUXpXR1hfMTllR2NsWmNuRnk4RmRSVVlraElfS3NjNFlJa0FWTGNRRS1XQTFxM3JoTVRYZEluNkVJUXZSdk1TSmFfWUfSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
-   "sources": 18,
-   "recent6h": 3,
-   "score": 19.5,
+   "sources": 15,
+   "recent6h": 2,
+   "score": 16.0,
    "level": "besar",
    "first": "2026-11-22T00:54:04Z",
-   "last": "2026-11-22T20:20:00Z",
+   "last": "2026-11-22T20:02:17Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Russian ship hit in Libyan port in suspected Ukrainian drone attack",
-     "src": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm40UThnaG9jbUJnelpLWGlJMHlUdTZkb1p0ZFUwa3NGSGJ5M2R1V0JqWjNTeWhoQTlLeE1ZbWtiVVR5WTFvVGoyUk94ZzR2LXZ5OXZBS3Y5WmdCRlFSYi1GSEZGbWw2RDd5dzZic09kbTBmLW5nOE1mUVM2N1NyR2ttUlZ5WDlOVnpSVzNWNXRYaFVKTWg4WGFkX2RSY0lnWnk3UzhiVQ?oc=5",
-     "t_id": "Kapal Rusia menyerang pelabuhan Libya karena dugaan serangan pesawat tak berawak Ukraina"
-    },
     {
      "t": "Iran announces missile and drone attacks on U.S. bases in Bahrain",
      "src": "Informat.ro",
@@ -41,6 +35,12 @@
      "src": "EA WorldView",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
      "t_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-269 — Serangan Rudal Houthi di Arab Saudi"
+    },
+    {
+     "t": "Iran's IRGC Claims Missile and Drone Attacks on US Bases in Bahrain",
+     "src": "Ratopati",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjlLRHNCUWlwRUtma3Z6aG5LbU5Sbkl2bG8xSmZYaTd2ZkZQZFUyRHdnZTZfaC1HTnI1THhWVXIwd044WUdCMU5yWmMzVTBQbEc3UzVXNFlCejVqcDBZaVdBOENFZFBrRTlka19wUk5PNUlYM1U5aWx0b2xQd0MxdlFyR0VJVl9qa0h3SU92bzJVbGsyY1NQeVhTZVhiY2hZcWp6OTJxbXg5b21aMVhZN1hDVzg?oc=5",
+     "t_id": "IRGC Iran Mengklaim Serangan Rudal dan Drone di Pangkalan AS di Bahrain"
     }
    ],
    "title_id": "Arab Saudi mencegat drone dan rudal saat Houthi melaporkan serangan di Sanaa"
@@ -89,6 +89,49 @@
    "title_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
   },
   {
+   "id": "perang-202611220029-2c7f",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ballistic missile attack on Zelenskyy’s hometown in central Ukraine kills 2 and wounds dozens",
+   "src": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMzJpY29YVU1acVMxZ0xDblVfODRXdlYwZTZzMGZERmxwR3dUc2pQYXhydjBYNjMyT3Q1SDVLN3dxY0JKRTJoZzlONkd6cHhEZ01oNnl2Qmh6Y0ZhQ3U4aFUySHl2a3U4WnF0OW9ibmpiLVkzU2ttRXdUQnNWZ2hXdy05T2Z2bk1Oa3BHdXRsX1VNME5TOF9iSFNrZVp1anZCclk4VU9yc1RWS0lUZnRrdldhNEs0WWVKYzI4?oc=5",
+   "sources": 5,
+   "recent6h": 1,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-22T00:29:00Z",
+   "last": "2026-11-22T20:20:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Russian ship hit in Libyan port in suspected Ukrainian drone attack",
+     "src": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm40UThnaG9jbUJnelpLWGlJMHlUdTZkb1p0ZFUwa3NGSGJ5M2R1V0JqWjNTeWhoQTlLeE1ZbWtiVVR5WTFvVGoyUk94ZzR2LXZ5OXZBS3Y5WmdCRlFSYi1GSEZGbWw2RDd5dzZic09kbTBmLW5nOE1mUVM2N1NyR2ttUlZ5WDlOVnpSVzNWNXRYaFVKTWg4WGFkX2RSY0lnWnk3UzhiVQ?oc=5",
+     "t_id": "Kapal Rusia menyerang pelabuhan Libya karena dugaan serangan pesawat tak berawak Ukraina"
+    },
+    {
+     "t": "Russian missile, drone barrage kills 2 in Lviv; dashcam captures projectile strike",
+     "src": "prameyanews.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenBCV0tCUHZueTJHb3VNeXdTbTg3Wm5oTE9UQWJIblhSN1RPMGRzUXBsX2ZqTHN1LUFiOUQyRFdMZElTbzNlQkxHanp2NDRLcE45SGNOU2VudVJwQ3F2YnFtTC1VQnFlZ1hZVGpjRTctNWZJR01Kemgya05GdENLRnV5M080cFV0Unk2SlQ0YzRNV0ZScEp5cF9tLVFWVkJ3a3ZTdTE2RHNZSE5V?oc=5",
+     "t_id": "Rudal Rusia, serangan drone menewaskan 2 orang di Lviv; kamera dasbor menangkap serangan proyektil"
+    },
+    {
+     "t": "US Military Turns to Reinforced Concrete Bunkers to Protect Troops From Missile and Drone Attacks",
+     "src": "Tekedia",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQV9JbTJEbUhVX0o4bnVzaTNzTnlaYU1zbTZsLU91dTQ4TERFbkthOGtUZjZpRHMzd0tudHYyT3U1Tko1RTlPSUF4YWVaMXVrVEdadXBwcUJMdlJocUdWWXZPREpLOFQ5bXRqSVJkSVBLbElhSm96M2JNNkREMU5sNXJnOFpUb2lrUlAwM3pGRzZpWEF1UFN3TUFPbXFiQndnZy1Dc183YXNGWmQ3UVJtbVd5ZmJGMVZaVjJzblF5cw?oc=5",
+     "t_id": "Militer AS Beralih ke Bunker Beton Bertulang untuk Melindungi Pasukan Dari Serangan Rudal dan Drone"
+    },
+    {
+     "t": "Russia-Ukraine War Latest News: Russian Missile Attack Followed By Drone Strikes Kills Child And Paramedic In Kryvyi Rih, Nearly 60 Wounded; Zelenskyy Says No Military Facilities Were Nearby",
+     "src": "The Sunday Guardian",
+     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPaUVuYjFoSGszQjRBNUlGZVNES2xFOEFFY0JGNGpHaXdwNTkyZ2FwWDBkSm84WFRqTmFSNnpBeTN2aDh4VmhIZkdqZEJUWDNQeEtYQTVNc29LQ3d3TzM5LTJ2cGVvYVEyS2d3X0pFRjNnenhVaVRwMVRkeWV1TkhQOUV5Tm1mUlIzWl9wNnNZSTdURWVBRDNGeUJFN0twX1JIVC1vZUViSTFMeGx5T3lXemh6MEFVcnpob3VtSUl3NnprNmlONlJMbWFSRlFoczBYcFFPVWl3U0RkdGVtSmY1NTRHMG5fbS1Tdy1EbE9GQUhXRlFaX0RodDM2RE01VHVCdTlWN1Bldk91OUxqOWJNb2RSYlNialhsU2I0Mjc1VklvWXlTaXJyN2t3R3hYNVVYWE1NX0hxTHhFWE9veFFidll5Y2lrR1ZxY1l6dVhUWi1JcnhQZXdZ0gHXAkFVX3lxTE9pRW5iMWhIazNCNEE1SUZlU0RLbEU4QUVjQkY0akdpd3A1OTJnYXBYMGRKbzhYVGpOYVI2ekF5M3ZoOHhWaEhmR2pkQlRYM1B4S1hBNU1zb0tDd3dPMzktMnZwZW9hUTJLZ3dfSkVGM2d6eFVpVHAxVGR5ZXVOSFA5RXlObWZSUjNaX3A2c1lJN1RFZUFEM0Z5QkU3S3BfUkhULW9lRWJJMUx4bHlPeVd6aHowQVVyemhvdW1JSXc2ems2aU42UkxtYVJGUWhzMFhwUU9VaXdTRGR0ZW1KZjU1NEcwbl9tLVN3LURsT0ZBSFdGUVpfRGh0MzZETTVUdUJ1OVY3UGV2T3U5TGo5Yk1vZFJiU2JqWGxTYjQyNzVWSW9ZeVNpcnI3a3dHeFg1VVhYTU1fSHFMeEVYT294UWJ2WXljaWtHVnFjWXp1WFRaLUlyeFBld1k?oc=5",
+     "t_id": "Berita Terkini Perang Rusia-Ukraina: Serangan Rudal Rusia Diikuti Serangan Drone Tewaskan Anak-anak dan Paramedis di Kryvyi Rih, Hampir 60 Orang Terluka; Zelensky mengatakan tidak ada fasilitas militer di dekatnya"
+    }
+   ],
+   "title_id": "Serangan rudal balistik di kampung halaman Zelenskyy di Ukraina tengah menewaskan 2 orang dan melukai puluhan lainnya"
+  },
+  {
    "id": "indonesia-202611210335-9eba",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -123,6 +166,44 @@
      "t": "Demo Gen Z Kembali Landa Eropa, Tuntut Anggaran Pendidikan dan Perumahan",
      "src": "Qoo Media",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXb1JUclNZcnRXX2F6eHZMbEpFRERDdHhmcVdsMWpsX2ZRTGdwcV8yaHNsTE9OdjVmTzBJb2ZKVFJMYWRWM0FSdG5RNDJpSzZNVnFCOVYtckpaUmxfSE5fX2lSS2poN05hOGo4Znk0ZG93QTlKa240RW5lVUw?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611220314-568d",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "FIFA Minta PSSI Usut Tuntas Kerusuhan di PSS vs Arema FC",
+   "src": "CNN Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXpUWlpmem5DUVJUWU56d3FYaENiN29EVmZScGltUHJaeWlTZVNKN2tmbXdGWkRMQXJ4aVFBMXpIRlhqNk5ZMDB3TWJ4Um9BcUNORUxwQk9panFJOG91dVRGeGNsX3M5RzNUbWRtSVhTZkFrZnhILUtFUDBtb0RjTkVral9sa1dRQU9FdFI3MEJUNFg2NXlYTTEzOXJDbU92QmxsQzl2ZGdjUVowWlpIdk8xU0QxNzNjQXVrZEFn0gHDAUFVX3lxTFBjVnNKZl9LWUlmZ3c2cGFiWmFZRVdnM1dhelZ1bFQySkFjMWsxV1lvTUFCcVBMeGFrLXI1bm9hZ0FBRDBOcmMyeU8wWXVIb1ViVHB5ZWhZckJiWWxFdzdRLXA2Rm9NV0ZxbmJ2UzRfaEtJUkZpN2FLMUFNb0p4VUFjLUhEOFU0emZRRHlHMEVkaU4tUjFLeWppXzlKMVMwM2JKLW1UbFJvQ0dLOTM2bHVXRXJtYUk3YVFZNENUbDJ1WUxNQQ?oc=5",
+   "sources": 5,
+   "recent6h": 1,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-22T03:14:34Z",
+   "last": "2026-11-22T17:15:11Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Erick dihubungi FIFA terkait kerusuhan suporter di Sleman",
+     "src": "ANTARA News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejBXclV3aDhMVjN4VTBJUVVkck13Q0J2V19PQU1yVFExd3FjTmhrUGctMlg4RmJDeGs0TDc1RmM3ODVMOEJFZXhjUmgwTlE2cVF3c0kyYl92TUpjRHJfdTJWWjNnUnRvcktCV1Y2MFRERmVjNGV3cGxtM2lpc0NLendhUmh1T2dTYUV2bEFHUmNxNmx0S1FXTHk5UGt4R3BlNjlyWHlR0gGrAUFVX3lxTE45WDM0NTA1LW4yUjlUeGQ4dTdwN2VDdWdfXy1HbGg0YVVuSXJwOUl6LXdYR2JDak90ampERGlzUGFKRkhIUTJHYk1VREFPSGNITk5vQWJFNkdFeU9KZVVZcXM4LWZ2RjRpblZKZ1NfN051RHo4YUJIWFZpaUZBUkgtQzR6T2tsMDNyVmp5MHRNX09GQnItSkhxb0xEQ01fNld4cVozQ05oTE9XVQ?oc=5"
+    },
+    {
+     "t": "PSSI dan I.League Kompak Kecam Kerusuhan di Sleman, Suporter PSS Terancam Disanksi Berat Hingga Absen hingga Akhir Musim",
+     "src": "ThePhrase.id",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0NDSm1zRnhlbVp2cEFkQ2JydUN4dThZUkV5ZGtWMTkyRWlGTjRlbnE0X0lNY0F4enBVWmZmQUhiNVZqbGpyU3dHTTVSMzZMbk9WVUNlWk4zMDVWNWl6MHFEUVVmWGZFNWRHbG0wc2Uzdk13T0Q1cnNFazFCMEtjek9iaEE2c1ZPbnktMmcyQWdUVE5CWlhUb1hkU0hFWThPaFVLdzRjWXowZjZRLU1rQlRNQ2I5a1BiUkp1dVFTUkhVdUpyaFdxUU4xNWpzZTdBaE52ME9TYw?oc=5"
+    },
+    {
+     "t": "PSSI Siap Bantu Polri Usut Kerusuhan Usai PSS Sleman Kalah 0-3 dari Arema FC",
+     "src": "Sumbawanews",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTd4OEtBdE9WMXFIcng2V2doSXo5UTFHTlp3dE1vd2wtMm1EWUk3M0Rqbzlsb3p5dzI1WWZnN285ckdObEloZTNqb3BVMnNCZHdrbVhzU3VLVXRQMU9iZktEdmZkRWQ4eC1aRS0tSDNrUEhnQ2pLTFF5X3V4ZTdqWkd5ajRPXzhsYm11MmlHR0ppV2tZOUYza2pOTHdHaVQwNUdnaVF3eDZ3SEJld0NwOFdYVDF3RzVOX0E?oc=5"
+    },
+    {
+     "t": "PSSI dukung Polri usut tuntas kerusuhan di Maguwoharjo",
+     "src": "ANTARA News Makassar",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm5LVmpKZzZDQU1aeHdIaWVvQUk1aHdwV25ZNjMwZktuZG5yUzBFSThoZ2daNUt5Ml8zUGpLSHBMNXREblZmRVpBYjB3Q3JTN0F3bHBoSjVISVJlUUNHYUZiYm91Vi11RFRWWjBEbDhjT0dhdWthNDdGNGl5czJPaGhld3lrc2NuRkdVQmlLRDdEajUzZUVyRmljVjg5cWR0UlE?oc=5"
     }
    ]
   },
@@ -192,101 +273,6 @@
    "title_id": "Mongolia menuju pemilihan presiden cepat pertama setelah Khurelsukh mengundurkan diri karena tuduhan korupsi"
   },
   {
-   "id": "indonesia-202611211801-0ee6",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Erick dihubungi FIFA terkait kerusuhan suporter di Sleman",
-   "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejBXclV3aDhMVjN4VTBJUVVkck13Q0J2V19PQU1yVFExd3FjTmhrUGctMlg4RmJDeGs0TDc1RmM3ODVMOEJFZXhjUmgwTlE2cVF3c0kyYl92TUpjRHJfdTJWWjNnUnRvcktCV1Y2MFRERmVjNGV3cGxtM2lpc0NLendhUmh1T2dTYUV2bEFHUmNxNmx0S1FXTHk5UGt4R3BlNjlyWHlR0gGrAUFVX3lxTE45WDM0NTA1LW4yUjlUeGQ4dTdwN2VDdWdfXy1HbGg0YVVuSXJwOUl6LXdYR2JDak90ampERGlzUGFKRkhIUTJHYk1VREFPSGNITk5vQWJFNkdFeU9KZVVZcXM4LWZ2RjRpblZKZ1NfN051RHo4YUJIWFZpaUZBUkgtQzR6T2tsMDNyVmp5MHRNX09GQnItSkhxb0xEQ01fNld4cVozQ05oTE9XVQ?oc=5",
-   "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-21T18:01:00Z",
-   "last": "2026-11-22T15:11:20Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "PSSI dan I.League Kompak Kecam Kerusuhan di Sleman, Suporter PSS Terancam Disanksi Berat Hingga Absen hingga Akhir Musim",
-     "src": "ThePhrase.id",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0NDSm1zRnhlbVp2cEFkQ2JydUN4dThZUkV5ZGtWMTkyRWlGTjRlbnE0X0lNY0F4enBVWmZmQUhiNVZqbGpyU3dHTTVSMzZMbk9WVUNlWk4zMDVWNWl6MHFEUVVmWGZFNWRHbG0wc2Uzdk13T0Q1cnNFazFCMEtjek9iaEE2c1ZPbnktMmcyQWdUVE5CWlhUb1hkU0hFWThPaFVLdzRjWXowZjZRLU1rQlRNQ2I5a1BiUkp1dVFTUkhVdUpyaFdxUU4xNWpzZTdBaE52ME9TYw?oc=5"
-    },
-    {
-     "t": "PSSI Siap Bantu Polri Usut Kerusuhan Usai PSS Sleman Kalah 0-3 dari Arema FC",
-     "src": "Sumbawanews",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTd4OEtBdE9WMXFIcng2V2doSXo5UTFHTlp3dE1vd2wtMm1EWUk3M0Rqbzlsb3p5dzI1WWZnN285ckdObEloZTNqb3BVMnNCZHdrbVhzU3VLVXRQMU9iZktEdmZkRWQ4eC1aRS0tSDNrUEhnQ2pLTFF5X3V4ZTdqWkd5ajRPXzhsYm11MmlHR0ppV2tZOUYza2pOTHdHaVQwNUdnaVF3eDZ3SEJld0NwOFdYVDF3RzVOX0E?oc=5"
-    },
-    {
-     "t": "PSSI dukung Polri usut tuntas kerusuhan di Maguwoharjo",
-     "src": "ANTARA News Makassar",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm5LVmpKZzZDQU1aeHdIaWVvQUk1aHdwV25ZNjMwZktuZG5yUzBFSThoZ2daNUt5Ml8zUGpLSHBMNXREblZmRVpBYjB3Q3JTN0F3bHBoSjVISVJlUUNHYUZiYm91Vi11RFRWWjBEbDhjT0dhdWthNDdGNGl5czJPaGhld3lrc2NuRkdVQmlLRDdEajUzZUVyRmljVjg5cWR0UlE?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "kesehatan-202611212208-5d3f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-   "src": "cedarnews.net",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGlQZ1d5TUUxLVZvejlSVkVxNTBNMTBOWHRPdGtTUDdCMFRIMll1ZnU5cVlRVlNmOEZCM3NLaDE3ZEVtN3ljMURFU1dtWVhtY1FUeC1NX3VRMnljSUVxYmgwWUlES21wYzlZUWM3TmtPczlwQXQtdFdROVE2TG5ZaDZFNlhWWExqN1JaejVtWDhoQVV0?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-21T22:08:56Z",
-   "last": "2026-11-22T12:09:17Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-     "src": "Kiowa County Press",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
-     "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-    },
-    {
-     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
-     "src": "KAKE",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNWV0VkRtQXhvQTdTbTBGOFVUVkF3dVJDMl9FUmFsMDQ4MkFycGdiYVU3NXJMckVwZWNmR1JBVl9oakZGSmQ4c0NIVzZrVzZGM0lPbDhfWk1fcGlzS0pLYWhvUm1yejQ1eEdsanJ2cEs1M2N1TmFNQUlGaVkwZlA0em9BVy1Zd1JFTTQtNWhXNkY1alY3MmhvWTdzdzY2MzZndld3LXl0aWppdVlna2JGTnJyU2s3NFVYdEhkcms4NTFHeWRoV0NoTEpzUDRvVUdEb0tVdWNaSWdXYV9IQTRhZndKTXRVNnI2dURJ?oc=5",
-     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
-    }
-   ],
-   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-  },
-  {
-   "id": "kesehatan-202611220031-9955",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Congo Ebola Outbreak Linked to Spillover Clustered Near 1976 Lineage",
-   "src": "Bioengineer.org",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVNNcHpPTDl6RFBPQ0ZWUHZtcndMWXQzSXdMNGpEaXZudWY3YVdpZ2hPaDVGM2MwSlJpUy1kbUhjcHFTcEhrcFdCT3ZzVFVwc1l4ZEE4UFdha1NyYUwxSzIyalp6cE9kRW03VzY4VTFNb3lrNlhyZHN1aDFwYS1kdlpjeTRsQkFJSFdkODBSZjh1ZUdueklROQ?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-22T00:31:52Z",
-   "last": "2026-11-22T05:57:35Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Ebola outbreak update as of November 19",
-     "src": "Outbreak News Today",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFJPRm5TTkZuUklhMDN5R04tb0V1R0xlZk9sN1NZNzRvUk1saEsxSUYyM2tidThjMFlLdTRteldrbmYzaTAzdnU3MTUtZXRfOUhNQ3AtbTM4M3BWb0FkVnJnNlZlOTF0eFJWemdmRDlLVWIzU2xQSVRveEplOEszTnlBdEh4dDgt?oc=5",
-     "t_id": "Update wabah Ebola per 19 November"
-    },
-    {
-     "t": "Analysis – Scientists are learning more about the rare Ebola virus in Congo outbreak",
-     "src": "Sight Magazine",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1VBbVpwMUxDYVFwaDRJaHdQS0I5dWl3REhPWkRMMEhEMmFyTjczZURzSC02VGZQaGdEWnZVRHJYRlJLN05YZWV3a3JiRklTY051b1p6aDlFYk5nQkVfWWpiNWhTNkV5UHQ3TTM2RXF1MGxLSjJFZ1NQMGotSzk2dE1rR2ZMQXpvR1dXWFJXdVhyazlmTHhhVjJvVFdPVFdNeXJQQ1dBQWJ0M2l2R3dsVXBPa2d4R2lK?oc=5",
-     "t_id": "Analisis – Para ilmuwan mempelajari lebih lanjut tentang wabah virus Ebola yang langka di Kongo"
-    }
-   ],
-   "title_id": "Wabah Ebola di Kongo Terkait dengan Limpahan yang Berkelompok Dekat Garis Silsilah 1976"
-  },
-  {
    "id": "perang-202611211746-6444",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -320,8 +306,8 @@
    "src": "Fox News",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx0gGaAUFVX3lxTE5GbV8wMjFfSXVYOF9RQzF6UHZpWThoOEdrbU15Ym5BUTUxTlVKTEhscmtob193R1U2T0txX01fcWlQeGxKcmZhQTd0Z3lEeGx2N0NOcnZ1bThPbHRRRmc3TGtsY2NTcmRfdmpyRXRNVGFkVEd5QmUwVUFTLTZWeGRwVEN0ZklCSFFrc0VwR3VfbFlpUDdDNHBwQnc?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-22T10:57:19Z",
    "last": "2026-11-22T16:53:24Z",
@@ -360,6 +346,31 @@
    ]
   },
   {
+   "id": "kesehatan-202611212208-5d3f",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+   "src": "cedarnews.net",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGlQZ1d5TUUxLVZvejlSVkVxNTBNMTBOWHRPdGtTUDdCMFRIMll1ZnU5cVlRVlNmOEZCM3NLaDE3ZEVtN3ljMURFU1dtWVhtY1FUeC1NX3VRMnljSUVxYmgwWUlES21wYzlZUWM3TmtPczlwQXQtdFdROVE2TG5ZaDZFNlhWWExqN1JaejVtWDhoQVV0?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-21T22:08:56Z",
+   "last": "2026-11-22T12:09:17Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+     "src": "Kiowa County Press",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
+     "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
+    }
+   ],
+   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
+  },
+  {
    "id": "perang-202611220254-5022",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -385,29 +396,29 @@
    "title_id": "Perang Iran langsung: Bahrain melaporkan kerusakan pada fasilitas industri sipil setelah serangan"
   },
   {
-   "id": "perang-202611220037-4aa9",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "kesehatan-202611220031-e4d5",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Two killed, 10 injured as Russian missile strikes building in Ukraine’s Lviv",
-   "src": "ANI News",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGJydTlSVm9TTXdQa3ItcW9Bd3owOG9ENkFPMmMxSEtBekFTSjZDWlFHUERzeEtadFRWa2RQdnREcDZnYkxzV0pBRGxSWlQ0S1hhN2NJMVJQa016NUMxQkJ4dzhodGlHZmh3TUFVVm81Y3owTVNNenlDcERjejhUUVBiYnJhUFVJUE9XOHhtbTlveERTaG42N0ptbUZ0T0Z2a1lHZ0xmSm91X0k0MmNqSURKcWc5azl3RTM2aGlwTDdKcHJZMXlzdDBQYVZ3UQ?oc=5",
+   "title": "Ebola outbreak update as of November 19",
+   "src": "Outbreak News Today",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFJPRm5TTkZuUklhMDN5R04tb0V1R0xlZk9sN1NZNzRvUk1saEsxSUYyM2tidThjMFlLdTRteldrbmYzaTAzdnU3MTUtZXRfOUhNQ3AtbTM4M3BWb0FkVnJnNlZlOTF0eFJWemdmRDlLVWIzU2xQSVRveEplOEszTnlBdEh4dDgt?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-22T00:37:58Z",
-   "last": "2026-11-22T06:07:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-22T00:31:52Z",
+   "last": "2026-11-22T05:49:35Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Russian Missile Attack on Zelensky’s Hometown in Central Ukraine Kills Two, Wounds Dozens",
-     "src": "Breitbart News",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxIQkNZT3NodnN2Z2FFNVczeTlOMTlJR0xBU1A5WTdVMzhqNkVGd1V4OWJWUnVHZXlRb2xkMS1STkpkUFVTUzJDMFc3RmpMMzZLWTE5RTRiSjBiN04wVVJVYVRSY3pIOGxwUkhJM21JQ0ZDODJhQzlkYU5uSnU3bzNob1J4anktb0pNcmgzRW83aVR6VURlbHRmWWVsdVJINHl2c2k1c0FKaHJpVWdNRGFybEVWNExlTks2eW1IYWxNVDdCYXVvYlc1THg?oc=5",
-     "t_id": "Serangan Rudal Rusia terhadap Kampung Halaman Zelensky di Ukraina Tengah Tewaskan Dua Orang, Lukai Puluhan Orang"
+     "t": "Analysis – Scientists are learning more about the rare Ebola virus in Congo outbreak",
+     "src": "Sight Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1VBbVpwMUxDYVFwaDRJaHdQS0I5dWl3REhPWkRMMEhEMmFyTjczZURzSC02VGZQaGdEWnZVRHJYRlJLN05YZWV3a3JiRklTY051b1p6aDlFYk5nQkVfWWpiNWhTNkV5UHQ3TTM2RXF1MGxLSjJFZ1NQMGotSzk2dE1rR2ZMQXpvR1dXWFJXdVhyazlmTHhhVjJvVFdPVFdNeXJQQ1dBQWJ0M2l2R3dsVXBPa2d4R2lK?oc=5",
+     "t_id": "Analisis – Para ilmuwan mempelajari lebih lanjut tentang wabah virus Ebola yang langka di Kongo"
     }
    ],
-   "title_id": "Dua tewas, 10 luka-luka akibat serangan rudal Rusia di Lviv, Ukraina"
+   "title_id": "Update wabah Ebola per 19 November"
   }
  ],
  "errors": []
