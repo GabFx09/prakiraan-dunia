@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T21:58:27Z",
+ "updatedAt": "2026-11-22T22:10:30Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -50,17 +50,23 @@
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Delta flight delays spread after weight-and-balance system outage",
-   "src": "finchannel",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1pQN253cFpDQ0c2ZjhLOUpGOVMxYURPZ2RaZFduWW5WS2dQUXJUOVV4SDE0aEJyMGp5MmtJQk10bDdYbEQ3cGNhZFNIWC1MalRDb19STHBzS21zd3VNaGZRSHM0NHRqN2RyeHNnVWk4M1JiZTRDQV84Z3ZNVmlYNGlpSnBIdVlBQVJ4VW1mLUlnamdZNi11QUZVQVFJV3ZQQTNBSUtqQ0Z5NVZFRl9ZQTZkendDX3B0ZWE5T2Nn?oc=5",
-   "sources": 8,
-   "recent6h": 4,
-   "score": 10.0,
+   "title": "Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFRFaTNyYWprQlBYbnJBQTVnTVExUnhoc0lTRjlRYWc3Rk9oV084QlIxdkg4bFE1RnIzV3VvTXl6eXduMlV5RjgzRmRwRmp4X2tRc3lxYlptNXZZZmc3T3BzZjN0d0xlQ21OZjJQa3NzZWlOaWpFSmhoTERqcm14MVZQS2ZfNEh3bW1qSTUwYnFlUmpicjExbmxlOFlROTQ?oc=5",
+   "sources": 9,
+   "recent6h": 5,
+   "score": 11.5,
    "level": "besar",
    "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T21:35:10Z",
+   "last": "2026-11-22T21:49:00Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "Delta flight delays spread after weight-and-balance system outage",
+     "src": "finchannel",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1pQN253cFpDQ0c2ZjhLOUpGOVMxYURPZ2RaZFduWW5WS2dQUXJUOVV4SDE0aEJyMGp5MmtJQk10bDdYbEQ3cGNhZFNIWC1MalRDb19STHBzS21zd3VNaGZRSHM0NHRqN2RyeHNnVWk4M1JiZTRDQV84Z3ZNVmlYNGlpSnBIdVlBQVJ4VW1mLUlnamdZNi11QUZVQVFJV3ZQQTNBSUtqQ0Z5NVZFRl9ZQTZkendDX3B0ZWE5T2Nn?oc=5",
+     "t_id": "Penundaan penerbangan Delta menyebar setelah sistem berat dan keseimbangan padam"
+    },
     {
      "t": "Delta Flights Delayed Nationwide as Technical Outage Hits Atlanta Hub",
      "src": "Rus Tourism News",
@@ -78,15 +84,9 @@
      "src": "The Economic Times",
      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQdlpVVWhjRk02VTJvWVpDaGtWc2taZThjTTBQd21OM2hiTldmVXY3LWV4WlRtVHB2dFVfTVFVaDNTTXE0N04yanBzSzRzU1VXeDNXMk03Ukp5X1ZCa2ZtUExHa1lVeDZNYmYzR1RtbG5QbFZNc0txVUN1SERYWEd3TmV6bVMwcTNRVl9zS1ViQmp1b1YtQjNRQWtmbVpNOTBPMXFQc2Z4RllRY01ld1Bkc0ZVMG1Jd3hIMW5FZ0tKenZ0MUNiamVoZ0I3MzBjNjBJLTJyRTEtLUFOYlZDaGU3N185d2VjamtMdHpWSUR4WVdDaXB0ZlBSelViQllqd2MtbGU4a3RZanFmMGo4cEhybkZQRnFVcWREb0VKeXllQTlHTGZ2M18tV3NqRmVWWjVSSVAwa2IxRW9TVjh5b2RzSEt3OWxoVWotVnfSAcoCQVVfeXFMUHZaVVVoY0ZNNlUyb1laQ2hrVnNrWmU4Y00wUHdtTjNoYk5XZlV2Ny1leFpUbVRwdnRVX01RVWgzU01xNDdOMmpwc0s0c1NVV3gzVzJNN1JKeV9WQmtmbVBMR2tZVXg2TWJmM0dUbWxuUGxWTXNLcVVDdUhEWFhHd05lem1TMHEzUVZfc0tVYkJqdW9WLUIzUUFrZm1aTTkwTzFxUHNmeEZZUWNNZXdQZHNGVTBtSXd4SDFuRWdLSnp2dDFDYmplaGdCNzMwYzYwSS0yckUxLS1BTmJWQ2hlNzdfOXdlY2prTHR6VklEeFlXQ2lwdGZQUnpVYkJZandjLWxlOGt0WWpxZjBqOHBIcm5GUEZxVXFkRG9FSnl5ZUE5R0xmdjNfLVdzakZlVlo1UklQMGtiMUVvU1Y4eW9kc0hLdzlsaFVqLVZ3?oc=5",
      "t_id": "Penundaan penerbangan Delta: Apa yang menyebabkan 1.000+ penundaan setelah ground stop di Atlanta dicabut? Mengapa 30% Delta terbang"
-    },
-    {
-     "t": "Anatomy of the FAA Ground Stop: One Backbone, One Bad Change",
-     "src": "BankInfoSecurity",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUhfbFR4N3RVUXg2d2VHLXo5RUtFS3NQRXJmeU9PLUhVV0h3Znluemg3MFIzdllPS2g0NXQ5WTVqUGwxRGVEaE1NeEJxXzBaa0RLQUZYcG1SRXc0UGh4OUNGNW40REh6bVBnTGdqNGxTWFctSG9vQ2JTYWJjcUoxUFM0dFpkV1M0ZUZ0RUdZVkx6bF9JTnBv?oc=5",
-     "t_id": "Anatomi Ground Stop FAA: Satu Tulang Punggung, Satu Perubahan Buruk"
     }
    ],
-   "title_id": "Penundaan penerbangan Delta menyebar setelah sistem berat dan keseimbangan padam"
+   "title_id": "Delta Mengatasi Gangguan Otomatisasi yang Menyebabkan Lebih dari 1.000 Penundaan Penerbangan"
   },
   {
    "id": "indonesia-202611210335-9eba",
@@ -220,37 +220,6 @@
    ]
   },
   {
-   "id": "kesehatan-202611212208-5d3f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-   "src": "cedarnews.net",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGlQZ1d5TUUxLVZvejlSVkVxNTBNMTBOWHRPdGtTUDdCMFRIMll1ZnU5cVlRVlNmOEZCM3NLaDE3ZEVtN3ljMURFU1dtWVhtY1FUeC1NX3VRMnljSUVxYmgwWUlES21wYzlZUWM3TmtPczlwQXQtdFdROVE2TG5ZaDZFNlhWWExqN1JaejVtWDhoQVV0?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-21T22:08:56Z",
-   "last": "2026-11-22T12:09:17Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-     "src": "Kiowa County Press",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
-     "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-    },
-    {
-     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
-     "src": "Hutch Post",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WMzBDcXh2M3NzdVhoeFdlajNKdlZad3FXM2MwN1NXcmc5NWhLUDE1TmV6UWhyaUF6XzVMVzl6VkVRckNDZ2hNRkNoQ1RtREZRNDdFZUM5Yy1LRURsRXJBSFUxSTVwRWhrMGJVdV9GdHhJdw?oc=5",
-     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
-    }
-   ],
-   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-  },
-  {
    "id": "perang-202611211746-6444",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -322,6 +291,31 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHk3TU00bF9vY2NEdkEtRHpnU0s4dXIxd3FINVhScDlrTHA0enZGeVc3OFFSSzVOY1kyc3dsZGJoN3R2TXk5Ykdsc1pDZ1gzZk94dVFJM082MzNJaGJULWlCbjFJd3JYc2c4UTJSRFZRNVBIQ3hrMDVJRjJFeW5tazZUQVdPb21RakltMVl0bXZ0YWpnV2I5Y3BXbEdMQzF6YVlqWHpwUzY2d0dHTmJpak1rZmxacFlDbkE?oc=5"
     }
    ]
+  },
+  {
+   "id": "kesehatan-202611212208-5d3f",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+   "src": "cedarnews.net",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGlQZ1d5TUUxLVZvejlSVkVxNTBNMTBOWHRPdGtTUDdCMFRIMll1ZnU5cVlRVlNmOEZCM3NLaDE3ZEVtN3ljMURFU1dtWVhtY1FUeC1NX3VRMnljSUVxYmgwWUlES21wYzlZUWM3TmtPczlwQXQtdFdROVE2TG5ZaDZFNlhWWExqN1JaejVtWDhoQVV0?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-21T22:08:56Z",
+   "last": "2026-11-22T12:09:17Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+     "src": "Kiowa County Press",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
+     "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
+    }
+   ],
+   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
   },
   {
    "id": "perang-202611220254-5022",
