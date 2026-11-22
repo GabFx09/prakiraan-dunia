@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T23:09:04Z",
+ "updatedAt": "2026-11-22T23:23:45Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -46,21 +46,31 @@
    "title_id": "Arab Saudi mencegat drone dan rudal saat Houthi melaporkan serangan di Sanaa"
   },
   {
-   "id": "transportasi-202611221057-f90d",
+   "id": "transportasi-202611221057-dad9",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Delta Weight-and-Balance System Outage Prompts FAA Ground Stop for Atlanta-Bound Flights Ahead of Thanksgiving",
-   "src": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MlR5R2czR3QyVmItSkFSWlRoOEJPMjAtSl9IeG15TEYzaGx3amZFMGdCWjQwLUw1TWJfSlc5RXpTTEphOEFuYmIteGVUbkpQamVpWXNFWGpIUWc3bE5zbjJIM1Q4YWVrOU5oMzBJcU5sVk0?oc=5",
-   "sources": 8,
-   "recent6h": 6,
-   "score": 11.0,
+   "title": "Delta Flight Delays Exceed 1,800 Before Thanksgiving",
+   "src": "FTN news",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFN6STk5dFY3V2dFX2VEdk5BV003WEdreEI1eUpnY0VsY2ZiYnlDU3dod2RVazZnWndCYThzV2I1WXVDcV8zUzBhNTROVTMwb3Uzc1NIS1ZzRS0wSnJFUkZfdkdBQnpzYnF0RWduUURKN0dCZXZ4X3hpb1pGTjdMemt4RUVXQQ?oc=5",
+   "sources": 10,
+   "recent6h": 8,
+   "score": 14.0,
    "level": "besar",
    "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T22:55:08Z",
+   "last": "2026-11-22T23:13:17Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "Brussels Airport cancels flights as Belgium strike shuts air traffic control",
+     "src": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGZ1dzJJUnVTTWp3QTZ2cURKczVsVWZtUjROOUxWN01EWk13cndFU3pjY3VSYWpJb0I3VzNROU9LMVYybERDcDZVU2hzakYwNHFkLUl6MHpPV3Fhbk0xS1hTWXZSQ2ZWcGZDeEpVSkZPa0JFMkdIR3I0bHR4TW1mekxrZw?oc=5"
+    },
+    {
+     "t": "Delta Weight-and-Balance System Outage Prompts FAA Ground Stop for Atlanta-Bound Flights Ahead of Thanksgiving",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MlR5R2czR3QyVmItSkFSWlRoOEJPMjAtSl9IeG15TEYzaGx3amZFMGdCWjQwLUw1TWJfSlc5RXpTTEphOEFuYmIteGVUbkpQamVpWXNFWGpIUWc3bE5zbjJIM1Q4YWVrOU5oMzBJcU5sVk0?oc=5"
+    },
     {
      "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
      "src": "ABC News - Breaking News, Latest News and Videos",
@@ -72,18 +82,44 @@
      "src": "Latest news from Azerbaijan",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdFS3BHUGtXbWUzd19IUnRmOXJXNkQzemVkZHQ1WGlxN3Ixa3VyRnU1MXBSeTVmQkR0M3oyWlYyOXctTmh1NXZ3RTlEVXhnQ1BnS1psaE1NcEtOQVhORllMQW55S2NNZ19rRzU4ZUIxbDNUeEhFc2EyZUNZNVVZZ25iRHdwS01RUXVWUUNR?oc=5",
      "t_id": "Ratusan penerbangan Delta tertunda di AS karena kegagalan teknis"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611220314-0ee6",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Erick dihubungi FIFA terkait kerusuhan suporter di Sleman",
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejBXclV3aDhMVjN4VTBJUVVkck13Q0J2V19PQU1yVFExd3FjTmhrUGctMlg4RmJDeGs0TDc1RmM3ODVMOEJFZXhjUmgwTlE2cVF3c0kyYl92TUpjRHJfdTJWWjNnUnRvcktCV1Y2MFRERmVjNGV3cGxtM2lpc0NLendhUmh1T2dTYUV2bEFHUmNxNmx0S1FXTHk5UGt4R3BlNjlyWHlR0gGrAUFVX3lxTE45WDM0NTA1LW4yUjlUeGQ4dTdwN2VDdWdfXy1HbGg0YVVuSXJwOUl6LXdYR2JDak90ampERGlzUGFKRkhIUTJHYk1VREFPSGNITk5vQWJFNkdFeU9KZVVZcXM4LWZ2RjRpblZKZ1NfN051RHo4YUJIWFZpaUZBUkgtQzR6T2tsMDNyVmp5MHRNX09GQnItSkhxb0xEQ01fNld4cVozQ05oTE9XVQ?oc=5",
+   "sources": 5,
+   "recent6h": 1,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-22T03:14:34Z",
+   "last": "2026-11-22T23:00:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Imbas Kerusuhan PSS Vs Arema, Sepak Bola Indonesia Terancam Hukuman FIFA",
+     "src": "Warta Ekonomi",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbncxSFBfc1NOQ3BhbV9DZ3U2OVYwSW5vSndVYS1lU2ZKLW9tMVRIckJDRms0N2ZBY0ZwQUpHREpaVk5QczdkTTFPU0J2b0VaTG45TTFETFd4QW9aS3pGNElzNUZwMGUwQk1EaUJiQUg3OFBtZVlFcjE5bFcyb05vU1pxSmFwMEs0MkJ1ZTlNaVk3N19ZaURTalhuLUdLWk8yLTFNM0tjN1ZqdVFGOFHSAbMBQVVfeXFMTmtzSTdkbU5BTU9QLU9WdC1UWXJZOVdaV1l1akRRX21KWDVlcXZJSml4QnFTWmQ0VGFWTUlldHJVOVBSeUhBQVVWSUN6dk5ZX3lHelFfbWo0aEFEYW53QU5adjlFWklIZlhrOGJ1MHlfUlFCQXpDOU5wc3F6Z01hRGpYNzZNb3V4Ym9GOWFwYmhBVHZBcENUSGZmNW11eTRJenREb0dONW9WYUw5YUFwT1BvRVU?oc=5"
     },
     {
-     "t": "Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays",
-     "src": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFRFaTNyYWprQlBYbnJBQTVnTVExUnhoc0lTRjlRYWc3Rk9oV084QlIxdkg4bFE1RnIzV3VvTXl6eXduMlV5RjgzRmRwRmp4X2tRc3lxYlptNXZZZmc3T3BzZjN0d0xlQ21OZjJQa3NzZWlOaWpFSmhoTERqcm14MVZQS2ZfNEh3bW1qSTUwYnFlUmpicjExbmxlOFlROTQ?oc=5",
-     "t_id": "Delta Mengatasi Gangguan Otomatisasi yang Menyebabkan Lebih dari 1.000 Penundaan Penerbangan"
+     "t": "PSSI dan I.League Kompak Kecam Kerusuhan di Sleman, Suporter PSS Terancam Disanksi Berat Hingga Absen hingga Akhir Musim",
+     "src": "ThePhrase.id",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0NDSm1zRnhlbVp2cEFkQ2JydUN4dThZUkV5ZGtWMTkyRWlGTjRlbnE0X0lNY0F4enBVWmZmQUhiNVZqbGpyU3dHTTVSMzZMbk9WVUNlWk4zMDVWNWl6MHFEUVVmWGZFNWRHbG0wc2Uzdk13T0Q1cnNFazFCMEtjek9iaEE2c1ZPbnktMmcyQWdUVE5CWlhUb1hkU0hFWThPaFVLdzRjWXowZjZRLU1rQlRNQ2I5a1BiUkp1dVFTUkhVdUpyaFdxUU4xNWpzZTdBaE52ME9TYw?oc=5"
     },
     {
-     "t": "Delta Flights Delayed Nationwide as Technical Outage Hits Atlanta Hub",
-     "src": "Rus Tourism News",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmFyeTlHczBRRTExLXBEdG9tdk5HZjJNSW9FU29yS3RqVVRtRldINUxrSmgxbTA0cU9uV3pSRUVXandvRm9IT21VcUU4NWsyZDZ1a041Q3YxMFhLSzRoVktoOEZpb3UzbUlYZ0RBSmtTbENRLUZZZ0dQYkh3cEVsYndoMEx2UjhDd2F2UnJNbGpHVFpIa3dsNGI4aTczMFg2blRVLXF1T0JuaXBNRWwzLTZB?oc=5",
-     "t_id": "Penerbangan Delta Tertunda Secara Nasional karena Gangguan Teknis Menghantam Atlanta Hub"
+     "t": "PSSI Siap Bantu Polri Usut Kerusuhan Usai PSS Sleman Kalah 0-3 dari Arema FC",
+     "src": "Sumbawanews",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTd4OEtBdE9WMXFIcng2V2doSXo5UTFHTlp3dE1vd2wtMm1EWUk3M0Rqbzlsb3p5dzI1WWZnN285ckdObEloZTNqb3BVMnNCZHdrbVhzU3VLVXRQMU9iZktEdmZkRWQ4eC1aRS0tSDNrUEhnQ2pLTFF5X3V4ZTdqWkd5ajRPXzhsYm11MmlHR0ppV2tZOUYza2pOTHdHaVQwNUdnaVF3eDZ3SEJld0NwOFdYVDF3RzVOX0E?oc=5"
+    },
+    {
+     "t": "PSSI dukung Polri usut tuntas kerusuhan di Maguwoharjo",
+     "src": "ANTARA News Makassar",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm5LVmpKZzZDQU1aeHdIaWVvQUk1aHdwV25ZNjMwZktuZG5yUzBFSThoZ2daNUt5Ml8zUGpLSHBMNXREblZmRVpBYjB3Q3JTN0F3bHBoSjVISVJlUUNHYUZiYm91Vi11RFRWWjBEbDhjT0dhdWthNDdGNGl5czJPaGhld3lrc2NuRkdVQmlLRDdEajUzZUVyRmljVjg5cWR0UlE?oc=5"
     }
    ]
   },
@@ -165,44 +201,6 @@
      "t": "Demo Gen Z Kembali Landa Eropa, Tuntut Anggaran Pendidikan dan Perumahan",
      "src": "Qoo Media",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXb1JUclNZcnRXX2F6eHZMbEpFRERDdHhmcVdsMWpsX2ZRTGdwcV8yaHNsTE9OdjVmTzBJb2ZKVFJMYWRWM0FSdG5RNDJpSzZNVnFCOVYtckpaUmxfSE5fX2lSS2poN05hOGo4Znk0ZG93QTlKa240RW5lVUw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611220314-568d",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "FIFA Minta PSSI Usut Tuntas Kerusuhan di PSS vs Arema FC",
-   "src": "CNN Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXpUWlpmem5DUVJUWU56d3FYaENiN29EVmZScGltUHJaeWlTZVNKN2tmbXdGWkRMQXJ4aVFBMXpIRlhqNk5ZMDB3TWJ4Um9BcUNORUxwQk9panFJOG91dVRGeGNsX3M5RzNUbWRtSVhTZkFrZnhILUtFUDBtb0RjTkVral9sa1dRQU9FdFI3MEJUNFg2NXlYTTEzOXJDbU92QmxsQzl2ZGdjUVowWlpIdk8xU0QxNzNjQXVrZEFn0gHDAUFVX3lxTFBjVnNKZl9LWUlmZ3c2cGFiWmFZRVdnM1dhelZ1bFQySkFjMWsxV1lvTUFCcVBMeGFrLXI1bm9hZ0FBRDBOcmMyeU8wWXVIb1ViVHB5ZWhZckJiWWxFdzdRLXA2Rm9NV0ZxbmJ2UzRfaEtJUkZpN2FLMUFNb0p4VUFjLUhEOFU0emZRRHlHMEVkaU4tUjFLeWppXzlKMVMwM2JKLW1UbFJvQ0dLOTM2bHVXRXJtYUk3YVFZNENUbDJ1WUxNQQ?oc=5",
-   "sources": 5,
-   "recent6h": 1,
-   "score": 5.5,
-   "level": "sedang",
-   "first": "2026-11-22T03:14:34Z",
-   "last": "2026-11-22T17:15:11Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Erick dihubungi FIFA terkait kerusuhan suporter di Sleman",
-     "src": "ANTARA News",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejBXclV3aDhMVjN4VTBJUVVkck13Q0J2V19PQU1yVFExd3FjTmhrUGctMlg4RmJDeGs0TDc1RmM3ODVMOEJFZXhjUmgwTlE2cVF3c0kyYl92TUpjRHJfdTJWWjNnUnRvcktCV1Y2MFRERmVjNGV3cGxtM2lpc0NLendhUmh1T2dTYUV2bEFHUmNxNmx0S1FXTHk5UGt4R3BlNjlyWHlR0gGrAUFVX3lxTE45WDM0NTA1LW4yUjlUeGQ4dTdwN2VDdWdfXy1HbGg0YVVuSXJwOUl6LXdYR2JDak90ampERGlzUGFKRkhIUTJHYk1VREFPSGNITk5vQWJFNkdFeU9KZVVZcXM4LWZ2RjRpblZKZ1NfN051RHo4YUJIWFZpaUZBUkgtQzR6T2tsMDNyVmp5MHRNX09GQnItSkhxb0xEQ01fNld4cVozQ05oTE9XVQ?oc=5"
-    },
-    {
-     "t": "PSSI dan I.League Kompak Kecam Kerusuhan di Sleman, Suporter PSS Terancam Disanksi Berat Hingga Absen hingga Akhir Musim",
-     "src": "ThePhrase.id",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0NDSm1zRnhlbVp2cEFkQ2JydUN4dThZUkV5ZGtWMTkyRWlGTjRlbnE0X0lNY0F4enBVWmZmQUhiNVZqbGpyU3dHTTVSMzZMbk9WVUNlWk4zMDVWNWl6MHFEUVVmWGZFNWRHbG0wc2Uzdk13T0Q1cnNFazFCMEtjek9iaEE2c1ZPbnktMmcyQWdUVE5CWlhUb1hkU0hFWThPaFVLdzRjWXowZjZRLU1rQlRNQ2I5a1BiUkp1dVFTUkhVdUpyaFdxUU4xNWpzZTdBaE52ME9TYw?oc=5"
-    },
-    {
-     "t": "PSSI Siap Bantu Polri Usut Kerusuhan Usai PSS Sleman Kalah 0-3 dari Arema FC",
-     "src": "Sumbawanews",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTd4OEtBdE9WMXFIcng2V2doSXo5UTFHTlp3dE1vd2wtMm1EWUk3M0Rqbzlsb3p5dzI1WWZnN285ckdObEloZTNqb3BVMnNCZHdrbVhzU3VLVXRQMU9iZktEdmZkRWQ4eC1aRS0tSDNrUEhnQ2pLTFF5X3V4ZTdqWkd5ajRPXzhsYm11MmlHR0ppV2tZOUYza2pOTHdHaVQwNUdnaVF3eDZ3SEJld0NwOFdYVDF3RzVOX0E?oc=5"
-    },
-    {
-     "t": "PSSI dukung Polri usut tuntas kerusuhan di Maguwoharjo",
-     "src": "ANTARA News Makassar",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm5LVmpKZzZDQU1aeHdIaWVvQUk1aHdwV25ZNjMwZktuZG5yUzBFSThoZ2daNUt5Ml8zUGpLSHBMNXREblZmRVpBYjB3Q3JTN0F3bHBoSjVISVJlUUNHYUZiYm91Vi11RFRWWjBEbDhjT0dhdWthNDdGNGl5czJPaGhld3lrc2NuRkdVQmlLRDdEajUzZUVyRmljVjg5cWR0UlE?oc=5"
     }
    ]
   },
@@ -303,8 +301,8 @@
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-21T17:46:01Z",
    "last": "2026-11-22T17:15:08Z",
@@ -318,6 +316,31 @@
     }
    ],
    "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
+  },
+  {
+   "id": "siber-202611221057-dda9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "FAA lifts ground stop on Atlanta-bound Delta flights after system outage",
+   "src": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx0gGaAUFVX3lxTE5GbV8wMjFfSXVYOF9RQzF6UHZpWThoOEdrbU15Ym5BUTUxTlVKTEhscmtob193R1U2T0txX01fcWlQeGxKcmZhQTd0Z3lEeGx2N0NOcnZ1bThPbHRRRmc3TGtsY2NTcmRfdmpyRXRNVGFkVEd5QmUwVUFTLTZWeGRwVEN0ZklCSFFrc0VwR3VfbFlpUDdDNHBwQnc?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-22T10:57:19Z",
+   "last": "2026-11-22T16:53:24Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+    }
+   ],
+   "title_id": "FAA mencabut ground stop pada penerbangan Delta menuju Atlanta setelah sistem padam"
   },
   {
    "id": "indonesia-202611220720-61fe",
