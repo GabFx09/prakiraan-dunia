@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T15:58:49Z",
+ "updatedAt": "2026-11-22T16:25:21Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamU5NUdjNWxqd3J5bDdpLVBxYmIta3k1c2dYeFhrMVVXWkxmZ1Z0V0h1bFhJNFc0MmRaVjF1cmk5bWxxQlNVTEk5aWpsNVJPdVlyZHhTZFJ1dWlzc1lzNTZFWVlzQmt3cEVxVDd2MTROV2dmT0paLXJteXAzRHJvY29aYkJEVk5fX3F3QkNPbE9DLVVINkFDbzdlQXVnclFpNEl3RWhjMXVJdUN2S2fSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
-   "sources": 15,
+   "sources": 16,
    "recent6h": 3,
-   "score": 16.5,
+   "score": 17.5,
    "level": "besar",
    "first": "2026-11-21T22:32:14Z",
    "last": "2026-11-22T15:14:56Z",
@@ -347,6 +347,31 @@
     }
    ],
    "title_id": "Ketika Cloud Turun: Bagaimana Bisnis Dapat Mempersiapkan Diri untuk Menghadapi Gangguan TI Besar Berikutnya Sebelum Terjadi"
+  },
+  {
+   "id": "perang-202611220153-bef0",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russia launches deadly missile drone attack, Trump invites Putin to G20 Summit in Miami",
+   "src": "FOX 13 Seattle",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YUdkcGRMMER2R0ZvN1FtSHd3bV84eDFRRGY5NFRabmY0cmJtSjQ4ZERlQTZaYmFjRFI1aVFQUUVPcVNqTkZITDhwM1hJY2h0WDlvWkl6LXBaSXA4dXBHdWRELXRMd9IBa0FVX3lxTE82QVpEbFBpM1NLYU1JeUVSdjJoR01KTzh6RG15dHRjV1kwV1pYNHItd3hNS01VeENVNXhqeUhTS0hGWFNmcnpOeERyXzh0STZHZmFSYlVNcVhBMS12VVFITFBYMWtWTy1rN2s0?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-21T16:33:12Z",
+   "last": "2026-11-21T17:45:33Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "LIVE: Russia launches deadly missile barrage on Ukraine",
+     "src": "Latest news from Azerbaijan",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORWpJOUhWVVk2YUt3aVN5MG80YlBfYWpBQ1ZDSTRhWjZYZUJob3lXZlhMX1VkVUxHRno4TVRQUWZ3Smx5dk9vSkNpUGtXa1lwSmVqZzREcDlOVFlYRFg4N0hLaUJkcGFXWWVDcnV3dkZJNklGLWxxZlAtaUh2eE4wRQ?oc=5",
+     "t_id": "LANGSUNG: Rusia meluncurkan serangan rudal mematikan ke Ukraina"
+    }
+   ],
+   "title_id": "Rusia melancarkan serangan drone rudal mematikan, Trump mengundang Putin ke KTT G20 di Miami"
   }
  ],
  "errors": []
