@@ -942,6 +942,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 4.912
+    },
+    {
+      "t": "2026-11-22T07:00:00Z",
+      "risk": 89,
+      "btc": 58968.23,
+      "gold": 3515.4,
+      "brent": 89.95,
+      "spx": 6910.39,
+      "ihsg": 5146.326,
+      "usdidr": 18260.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1520,10 +1531,10 @@
     },
     {
       "c": "neg",
-      "d": "Naik 0,5%, dekat low 2 tahun",
+      "d": "Naik 0,3%, dekat low 2 tahun",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$59.108"
+      "v": "$58.968"
     },
     {
       "c": "neg",
@@ -1556,8 +1567,8 @@
   "regimeText": "Aksi jual saham AI membawa S&P 500 ke zona koreksi dan Nvidia tertekan laporan pemeriksaan SEC, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Ketegangan Hormuz dan perang Rusia-Ukraina menjaga risiko geopolitik tinggi.",
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 89,
-  "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin bertahan di sekitar ~$59.108.",
-  "updatedAt": "2026-11-22T03:57:43Z",
+  "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin bertahan di sekitar ~$58.968.",
+  "updatedAt": "2026-11-22T07:00:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1893,10 +1904,10 @@
     "date": "2026-11-22",
     "points": [
       "Pasar akhir pekan: Wall Street Jumat ditutup sangat lemah (S&P 500 -3,7% ke ~6.910, masuk koreksi) dan Nvidia anjlok ~12% setelah laporan SEC memeriksa akuntansinya (belum ada temuan pelanggaran).",
-      "Bitcoin ~$59.108 (dekat low 2 tahun); emas ~$3.515 (-4,6% Jumat); Rupiah dekat rekor terlemah ~Rp18.260 per dolar; IHSG 5.146.",
+      "Bitcoin ~$58.968 (dekat low 2 tahun); emas ~$3.515 (-4,6% Jumat, terendah >1 tahun); Rupiah dekat rekor terlemah ~Rp18.260 per dolar; IHSG 5.146.",
       "Geopolitik: serangan di Selat Hormuz disebut tertinggi sejak perang Iran dimulai; rudal Rusia mengenai Polandia dan Kharkiv/kota kelahiran Zelensky diserang.",
-      "Senin: pantau pembukaan IHSG dan Rupiah setelah aksi jual Wall Street dan kenaikan BI-Rate ke 6,00%.",
-      "Agenda berikut: PCE AS 25 Nov, OPEC+ 29 Nov, MSCI 30 Nov, payrolls AS 4 Des, FOMC 10 Des (WIB)."
+      "Pasar masih tutup akhir pekan: belum ada data harga baru sejak Jumat, jadi arah Senin bergantung pada reaksi terhadap aksi jual Wall Street.",
+      "Senin: pantau pembukaan IHSG dan Rupiah setelah aksi jual Wall Street dan kenaikan BI-Rate ke 6,00%."
     ]
   },
   "calendar": [
