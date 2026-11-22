@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T18:57:56Z",
+ "updatedAt": "2026-11-22T19:07:28Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -8,7 +8,17 @@
    "t": "AI Rout Turns Gold Into Source Of Cash: What Comes Next?",
    "src": "Benzinga",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEZCVGtjVFlkdkJ6b0E2RndiYWtqR3YzMVRJS05fVnpySW5NQU91VERtY3NuN050bV9Va042eU5LeDVqVGJ6YUJ1c2QtbnhWNEdLSVEwbmc4VjgtTGNZdVl1YkR0RUpSZUk1ZS0zNm1PX0pjc3NFWmY5WEVCX2g3NjJnR05kQldYYU1rUWFOLTdIeDRnc01mM0lvUThWZ2gyR3dHR3ZtZWlwWWRRSWJJalZVVlE?oc=5",
-   "time": "2026-11-22T18:30:07Z"
+   "time": "2026-11-22T18:30:07Z",
+   "t_id": "AI Rout Mengubah Emas Menjadi Sumber Uang Tunai: Apa Selanjutnya?"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
+   "src": "StoneX",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
+   "time": "2026-11-22T18:11:30Z",
+   "t_id": "Emas Rusak, Tapi Apakah Ini Pertanda Apa yang Akan Terjadi?"
   },
   {
    "topic": "kripto",
@@ -96,6 +106,15 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wNkNmY2FrMjRQSDB5bVlKSEl5Z0VvLXVscE9KQXpQSU9sNlRDcDdGV2NWQzE0WThhUWRCNzV3VG5DMmU0QlNEVGpHSlVYYXFBVXhFelJkSjE?oc=5",
    "time": "2026-11-22T16:48:49Z",
    "t_id": "Prediksi Harga Bitcoin Mendukung $50K karena Ketakutan Pasar Mendalam"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Price Short-term Outlook: XAU/USD Bears Face Critical Test at Yearly Lows",
+   "src": "StoneX",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT01LRy1TcHVtWVBnVGVSVUJSYTFDNHV5bVBpMGJRazAzSkd2Nno5MlkwNEFNTmFZd2pvM3U0YXJiOTF1b2FaaWhCNzRIY2VTOE9qSy1hRjZwSmhpOEFUcHM1T0VCWE95c0ItRVVwX3JPeWhud1RGdGpGWWdSSUJsWS1fWFdRU0lnbWVOVXZYQVNqWjQyOVRKVXRPaFg2Rzd5QjVONE1Wem90WlNKRWwzeXFXaUpGdERMZVRDYnBiZlp0ZHM?oc=5",
+   "time": "2026-11-22T16:40:56Z",
+   "t_id": "Prospek Jangka Pendek Harga Emas: Penjual XAU/USD Menghadapi Ujian Kritis di Terendah Tahunan"
   },
   {
    "topic": "geopolitik",
@@ -198,14 +217,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "BI Rate Naik, BPD DIY Waspadai Perlambatan Kredit Modal Kerja",
-   "src": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10TW5EMGRIelN0cUxKZ2ZSUmNvVUJCUFotV3JtQWJ4YUd0OE9sbzhDc21pLXRySGcyZnRPU1dPaFU5THFIYzUyNnY3a0JTUV9oRmtZZkFReEtGa0J4enp3c3dWbjNpZU0?oc=5",
-   "time": "2026-11-22T13:18:32Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Kenaikan BI Rate Tekan Harga Obligasi SUN Tenor 10 Tahun",
    "src": "Demokratis.co.id",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oRUJ2LV9paUpBVGtKbG9QZXd3STlLUjhSNU9tTUhQOER0N1dUMlRIX3l3SGxVRmhTQzBIYUo3ek9YajNVdTFzaXZGQVNoY2p0cWxuU19NR3JWU2U1Z2RZb09sT3pJNW1td04tQ1pzbmQzOXQ2?oc=5",
@@ -248,11 +259,11 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "Bitcoin Price Recovered Above $60,000 – Will This Hold?",
+   "t": "How Low Will Bitcoin Price Drop? Analysts Predict",
    "src": "BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9INFdlVUZyRHVyTXpJcUNEeGFiRk9jbjdla3NMbWVsaUtjQmdNRnlTc1IyRmR5ei0weHBKYkJSeG52Q3B1NkN0TjVoVjdWWGNTZzktRFdmTXd6WHZkeGd1UmgxRXpEd0FG?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fc21YUXdMcGt1OEdCcE90bDAtZkxsWnItQm15RkFfVHJzSmZCa3NCTmZXbU1DT0NGTjJmbU03cVFldk5sc0E0ZmhoalBPS0FOVlo4a3dFanJDZUFzZWpST1psWE4?oc=5",
    "time": "2026-11-22T11:23:26Z",
-   "t_id": "Harga Bitcoin Pulih Di Atas $60,000 – Akankah Ini Bertahan?"
+   "t_id": "Seberapa Rendah Harga Bitcoin Akan Turun? Analis Memprediksi"
   },
   {
    "topic": "indonesia",
@@ -367,15 +378,6 @@
    "t_id": "Apakah perusahaan minyak mendapat untung dari perang Iran? Para ahli menjelaskan"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Will Gold Prices Continue to Fall? 2027 Gold Price Trend Analysis and Forecast",
-   "src": "TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdDNCMkxUTElwOUpwaXg5Znd2aWRQQkN4ZHhhdDZ2TVJWVzdyM2YtcXkxaGgtSVd3b3V0dkR1MmgyWDhBYzJCQXUtQ1BaTTJOMkZPanhfZndDdW5IUzV5Z0RvUkR3NU5FdE8wNG53M042bjZabjlXcEVhTFVOR1Q5Ykhvc2dBM2h6VzUxc18wclpMY3dsZWpWY0RvemZUUHJwRWRPaUN1Q1g5dmF0QkR1dDljNWw?oc=5",
-   "time": "2026-11-22T09:06:31Z",
-   "t_id": "Akankah Harga Emas Terus Turun? Analisis dan Prakiraan Tren Harga Emas 2027"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Detikcom Awards 2026: Bank Indonesia Menjaga Kedaulatan Rupiah di Kancah Internasional",
@@ -400,13 +402,20 @@
    "time": "2026-11-22T07:00:15Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Price Slump Wipes an Estimated $15 Trillion From Gold and Silver",
-   "src": "CEOWORLD magazine",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVBnVXdjMlluQVZwOUZhQWc0ZzhFSzNMR05DRElETVpKSEROQ09NeUlJV3lTUENnTWhTekw3aVdJU1VSTEJxNUlxVFJTTDBMd0dBUFVxWm1lb2VFYVU1YnlIbnhKeGptR0Q2VHJZWVJaTGNLb29HdWdRTXBMRnVvYTRreXE1VzBMRlpuekxpV2ZPejRvYXdQOEZVVXh2TkFLVmJr?oc=5",
-   "time": "2026-11-22T06:46:11Z",
-   "t_id": "Kemerosotan Harga Emas Menghapus Perkiraan $15 Triliun Dari Emas dan Perak"
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Ekonom Beber Dampak Pelemahan BI Rate ke Sektor Riil - Market",
+   "src": "Bloomberg Technoz",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEFDVGlMQjl3bXpjb1BuUlhvNVNBTFhQaWl0WlJrcWV1NmtXMGZSX3E2SEpybzZFcE80SFd1WVJ0SGkwd1d2anRVT3I3YjYwTWVqanVpa210c3JRZFBvbk9jWlRueUNHVVBNbTRVejduczVacWxadkRRalpIU2p5b0c2NFk0RER3MWw4NHJqVHlHYXE1dVktQTZJeG5FWTBSU0tVYmtXMA?oc=5",
+   "time": "2026-11-22T04:00:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Rate Naik Jadi 6 Persen, BSI Bidik Pertumbuhan DPK dari Tabungan Haji",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFJBd2c5cVZhS3p1Q183dFF4X2FXTkpfVzNXSV9NeHVsektVQjNsNDltOFBaR0FyRFBMR2g5WGFHaWNnRlhhR1VKVXJwNzVwdE9HbndYZVNEY2g0LWtLai1rSjZXUFA4NWE3UUlXaUFmM0h5LUMwbV9tcUtqVXB6aHZVdVh6QmQ1c1FUQy1uWkp6U2QxVnpMTy1Lc0RXNlZtMTRCdTdkWGVwVUowbVhJdDNXQXRHYTRyVUcyb1E5dw?oc=5",
+   "time": "2026-11-22T04:00:00Z"
   },
   {
    "topic": "saham-as",
@@ -488,8 +497,8 @@
    "lang": "en",
    "t": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
    "src": "ABC7 Los Angeles",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUJ3VElJdEZIemNYeDlzaWxtVXJERjN4Skg5SlFiRnNtN1V1WU1QY2JyOVhKbThMeEFmUnhFVG42dUVqRFUza0xRd0pMemNVYVN0QjA3ZTR5SzZDTzFjQkIwNXhWYlBhN2stMXZrTnFXSGFQUFA3WlVfRXhOVTNFUVpxTmpsdWlWWjNENWhXbzQ5ZGp5dGfSAZsBQVVfeXFMT2dIZWVYaWpVN2NTMmt0LWh3Uk9qanlCbGh5SGY4aDcyanZxSnk3ZFF2ME15ZERONHhSZ1Jmc01zMnpHTGpFU0twVzg3Qkw4bnhpR2s1d3BHVmZpejZGYlo5RldHYXVpTWxJN0VPMWVYRDhUMmhrVks3Rm9fUzZDNUFTUzAzdHdpcjdzOU9RV0RCVEVvd2wtel9QU3M?oc=5",
-   "time": "2026-11-21T22:25:14Z",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0hlZVhpalU3Y1Mya3QtaHdST2pqeUJsaHlIZjhoNzJqdnFKeTdkUXYwTXlkRE40eFJnUmZzTXMyekdMakVTS3BXODdCTDhueGlHazV3cEdWZml6NkZiWjlGV0dhdWlNbEk3RU8xZVhEOFQyaGtWSzdGb19TNkM1QVNTMDN0d2lyN3M5T1FXREJURW93bC16X1BTc9IBmwFBVV95cUxPZ0hlZVhpalU3Y1Mya3QtaHdST2pqeUJsaHlIZjhoNzJqdnFKeTdkUXYwTXlkRE40eFJnUmZzTXMyekdMakVTS3BXODdCTDhueGlHazV3cEdWZml6NkZiWjlGV0dhdWlNbEk3RU8xZVhEOFQyaGtWSzdGb19TNkM1QVNTMDN0d2lyN3M5T1FXREJURW93bC16X1BTcw?oc=5",
+   "time": "2026-11-21T22:18:40Z",
    "t_id": "Trump berjanji untuk bekerja sama dengan Partai Demokrat untuk membatasi suku bunga kartu kredit sebesar 10%"
   },
   {
@@ -509,15 +518,6 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdEVWQ1doTGNKcmpDTV83S2lzNi00SUxwcC1VNVVMM091dkJSY2RyZzQxUHB2RmV6US1jSGdUR2JWR1lrb3NsQjc5UEE2V2FtRVVzZHprVm8wNkdsTUQxOTVZRVoxcndRQ2Q5cXlxS3ctQ05R?oc=5",
    "time": "2026-11-21T20:58:00Z",
    "t_id": "Bitcoin Memantul Dari Posisi Terendah Dua Tahun. Bisakah Crypto Menyelamatkan Saham pada hari Senin?"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejlycTNOTWVaLXBObmZzQ29NbHBmT0ZMMDhJUVB1Tm85VXhCRjRKRWdpUHlYM2Mxc0xPZHZacEt2a05BUEFLaHM1c3FqU3doWVN6anJJOW84QjVleU1aRGNzV2RKM0k2R2tvY1JUTk9kbWh0VEdrYzg4YS1nWEZGUTQ4WEV3NlU2T3NxQVdFWjg?oc=5",
-   "time": "2026-11-21T18:08:06Z",
-   "t_id": "3 Saham Chip AI yang Diperhatikan Investor Ritel Setelah Aksi Jual Nvidia"
   }
  ],
  "errors": []
