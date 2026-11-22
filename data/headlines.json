@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T14:27:56Z",
+ "updatedAt": "2026-11-22T14:42:36Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -18,6 +18,15 @@
    "src": "Jawa Pos",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0RsRGJ5ZTJPSVRtejd6SmN0Zkc0b21xQ05BZEk0RldSZ0FkRFVYZXVsWlozQ016NXJZcWZMYThNSXpGVFFkOG52T3JDeXZSTHpRZ1ZWX3ZtbmJGMU5wcWJoOHNTQWc0MmxPZ2VONHl1Qjh1dUE4VnQxUXhfVlJoRktqem1OYTZuQzN5OFZqZ2liaTI0VUJURTdhdFEwbmvSAaQBQVVfeXFMT0lBM3lMWkhEWHJ5Q0MzUzk3NnRCX2pKajZKNndEYUxMcDloNkJWSjNWQzNiT2llN2huZmliRG9zV19pR252ckI0cGxTdS1sbE9WNWt1N1I3d25SaDZCQWdfTWRQYjl5NF90QzlFam5RSzU1eWlFM2tkNDBfUUJ3NENkOFlVSWNTeXVud2M1THVUSEVXMlRCcVhyQVE1RC1fQV91eDE?oc=5",
    "time": "2026-11-22T13:45:03Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "7 reasons Bitcoin price crashed to $55K before rebounding to $60K",
+   "src": "Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NU0dheG5IMldNY0M0RUxjOWtVbm9HVEozd2dLVk1QUDBUdTdISE83bnpUcjd6Q1cteUVUWkM2TU9GR242OWR3ZnJMNUV5dm1fTjBZdWVXSDQ3NkRxMnNpVndLNjN5OHJzM0l4QUhKdzk1MlNvdTdhSTZPLV8?oc=5",
+   "time": "2026-11-22T13:24:37Z",
+   "t_id": "7 alasan harga Bitcoin jatuh ke $55K sebelum rebound ke $60K"
   },
   {
    "topic": "kripto",
@@ -52,15 +61,6 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84a3pDbGt1MWpuQ0NHeURtbnozUEZCaDN2QzB4cUMxbG5rTmUtTktxNDZRNWNIWDI3WTlpOFJIeDZQdmRFLVNIR0tlcXI2Ql9CVk9vMDNzaEpzS3NEUmxmS25UcHVmSWpWWGs5a2RseVBJTElyd3c?oc=5",
    "time": "2026-11-22T12:25:31Z",
    "t_id": "Bull Terbesar di Wall Street Mengatakan Investor Bereaksi Berlebihan"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Kraken BTC/CAD Print Hits C$24,250, 71% Below USD",
-   "src": "shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObEVOcllxSTE4elJSQU03QjBia3BBTHNUaFpPeFJhdXVFSm00NTE3bjhRMW92Z0FJUHJVbjJzaXlXTjRWSllGWko2b0xNZm5yQkhiZ2hYMkgwT0ZZenFGNGMxbjhmRU9vNHlUZnBZakZpcDlZdEoyd1ZiM0NHMzlCWFZFaW8?oc=5",
-   "time": "2026-11-22T12:04:24Z",
-   "t_id": "Cetakan Kraken BTC/CAD Mencapai C$24,250, 71% Di Bawah USD"
   },
   {
    "topic": "indonesia",
@@ -253,31 +253,13 @@
    "time": "2026-11-22T09:04:00Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%: Market watch",
-   "src": "Crypto News",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SXltejJLRGVoeExpQUFieUUzX1hDQlVhdDNZQlNjVHFkWi1wWF9yYUhjY0pwZXk2SDdvSEJVeTltWC1ENTU1QjlqZ0Y0OXAxSkV4Tlo3bldYX1hnMFdPQUdiWnBIRnltUC1xSlZjamdZeEY4?oc=5",
-   "time": "2026-11-22T08:39:51Z",
-   "t_id": "Harga Bitcoin terhenti mendekati $60K karena Pi Network rebound, VVV melonjak 20%: Pengawasan pasar"
-  },
-  {
    "topic": "emas",
    "lang": "en",
-   "t": "Cabral Gold Increases Gold Resource to 3.5 Million Ounces, Targets Self-Funded 2027 PEA",
-   "src": "Crux Investor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2JtRVVERWUzMFo1ejJNc20yRU4zY2N5OTM5cnc1NkhFSXZ2aS1MVDBudFBmZTVxY1Z1bEVkVlBnRkx3dlhMazgtTUl5bEdLeG1KOUpEUjBveVRvVDRyTUp2NW9qQV9CLXk3NlQ3eHF6dUNpYmNaRjBFcGtDRERIV0VncUVzaF80OXdaQVJCZGt5eGZ1Q3E0QjgwTVR3b29IZ1JWcUJ6cUFxUnpxOWZzV2dSc0FRRDVJWmV2SDBn?oc=5",
-   "time": "2026-11-22T08:36:28Z",
-   "t_id": "Cabral Gold Tingkatkan Sumber Daya Emas Hingga 3,5 Juta Ons, Targetkan PEA 2027 Dibiayai Sendiri"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Indian traders thank Modi for gold appeal as imports fall nearly 40%",
-   "src": "Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNclNOY3EyNDh3NFlHd2M2dkxpbTljM0N6NWZ5UW03eWFRZHlXXzdTZ2c1bk92cm9SZnF0aWZqRzRlZGhjNFlNVDZsanlsd1haaXdtRFJkWXFCbFA0WU5CcFF1Z3ZpVThTVzVZX1MydXNna1JLUWJnbHE3Zjh3WXFMOXg1WlFzbnlSOFBOeXJ6bWJzNnQ5MmJTQzhoSQ?oc=5",
-   "time": "2026-11-22T08:23:25Z",
-   "t_id": "Pedagang India berterima kasih kepada Modi atas daya tarik emas karena impor turun hampir 40%"
+   "t": "Gold prices slide in Visakhapatnam, but Andhra Pradesh buyers remain cautious: Check retail rates of 24K, 22K, 18K gold",
+   "src": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbGNGOWVVdXNybEhJbDlrSVpFejdoZDJ3NGFZaWx3eG5scG8ySjdHemI4TE5KLVk4Q0xtaUR5YUNmOGNnTm1JRkoxT1dHVmtKTHozQzFaTmhILXdsWFB3emFKaWlDazUyZWFSMGhzQ3VyM0ZUd2JSV1h6ZENTUHBYQ3pVNkF2VndFYUdYRWx3UldkdWlHODVRZ2NZUzRuRFRfLWJ5MHo4NWR2MHVaMHRYQ1lBLVRMU0RpZ2VwMTdWSWlzanZEcUNENGpxMWFkd2hQd2FHSDlfZUVUQlh2M2NNU2h2eWg0czRGbzFXeGZNaTJGNW1oWEl2akh5Qi1uazjSAYQCQVVfeXFMTzhveGVXU0EyNG1oRTRmQXlxcmVBVURienl5NTlpS0xFZl96c3Facjk3NmZ6Z1c2MmVxMk45Q0NJdjNHM0Jfa01MaVdORWVjbzBaRVJiOHFqOHdiX0ZRUy1EX21KUVVlVzJWZkphYjZWZjJ4N1IzSXpQcmdacXl2YzdHY2FGYm5hdDRxQW9xanZUQm50ZWh4WF9ocm9nNzNmc25VemdNUDhrTUNLX19oMVNjQkRYeWNMZ3VpYVZPS3B5WmZ3RkQ5WEhBdnJYTlBKamZPQVM1OTg5MWJIVkNmdVZCTnhtZjQtT3h5RG5aYkNVemplMXJheXZ3RFdKS21xMXo1TU0?oc=5",
+   "time": "2026-11-22T08:54:22Z",
+   "t_id": "Harga Emas Turun di Visakhapatnam, Namun Pembeli Andhra Pradesh Tetap Berhati-hati: Periksa Harga Eceran Emas 24K, 22K, 18K"
   },
   {
    "topic": "indonesia",
@@ -324,11 +306,11 @@
   {
    "topic": "emas",
    "lang": "en",
-   "t": "Gold and silver have crashed. Should investors buy the dip or wait?",
-   "src": "Livemint",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDlNbExZeVY0S3k1VVh1UlBRU19oNkI0T0dLajRTb2pQbGgxT056SmI3TTB0U21wY1h0YzlrSjJoM3ZIQ0JJaUtnWkVZUlZ1ZjdVdkRfZFl4ZzNNc1AyRUVmV1drbXRjRTdyNGlIaXowMFFHaVByaEo3Ym9IOExpOGFoMG9fcmpEdlhkTlY3MkZmMlg2WFFxX3U4RWQxWUZyMFRFaTI0X2kwdDRJeVJuLWE1WmNpVHpwYXfSAb8BQVVfeXFMTXYxZTZwY3JuUE1PMGtjQU9YTmcxVm5LLTA1N09aZjR2MnVzNDdnWkNkQ0IwVlVtUURHT3pHRDhvVnBPQ0hncUpmVmc2SnlwaXFjR2Y1UzJSdW1Gd0xrdFktUVZzV2FtYjFaeXRxcDBBMGVMZVU4OEdHMGRnU0E2eUhNV0dsd21WOFlkalphWmpDZkhTbUY2WmJDQ3N0VTVDNkJzdU4wYThOcnluLUNfVWJCb24wV0pvQXFvOXZoWTg?oc=5",
-   "time": "2026-11-22T06:40:32Z",
-   "t_id": "Emas dan perak telah jatuh. Haruskah investor membeli saat penurunan atau menunggu?"
+   "t": "Gold Rate Today in India, 22 Nov 2026 - Live 18K, 22K & 24K Gold Prices",
+   "src": "Kotak Neo",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
+   "time": "2026-11-22T05:26:48Z",
+   "t_id": "Harga Emas Hari Ini di India, 22 Nov 2026 - Harga Emas 18K, 22K & 24K Langsung"
   },
   {
    "topic": "geopolitik",
@@ -441,15 +423,6 @@
   {
    "topic": "emas",
    "lang": "en",
-   "t": "Goldman Sachs: Gold's $600 Collapse — When the Safe Haven Becomes the Source of Cash",
-   "src": "The Dark Side Of The Boom",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDRRUk1RWERXUTVJVDFmd3BhUkpwZjBKRnQyNEVQMW5BZC05enRpOFpnQUYtZDBYNnF3ckpsS3J0Tm4zQlVoUklseGpYTGZjS1FTTHprUUJ1Q0pQMFpEX3BLN2R1VDF6RE5sRmFjb1pubEcyZ3NqLVp2QWI0eEJWNnln?oc=5",
-   "time": "2026-11-21T23:01:55Z",
-   "t_id": "Goldman Sachs: Emas Runtuh $600 — Saat Safe Haven Menjadi Sumber Uang Tunai"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
    "t": "Gold Price Is Moving With the Stock Market, and That’s Bad",
    "src": "BeInCrypto",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZcXd5Sks4ZXdWUmhjWXFKUENzV2lnQ3VSSF91TFNmMG1KTzhPVVQ3U2FxQ0JraWpnN1dObnRPM2VsQ2N1V3dRSFNQLVkzc1cwMEJqOGlTcll3MmNxYUlsbzVXeVFZaGFycGc?oc=5",
@@ -518,6 +491,33 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
    "time": "2026-11-21T17:00:00Z",
    "t_id": "U.A.E. Mengangkut Minyak Melewati Iran dalam Operasi Hormuz yang Berisiko"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Wall Street sell-off drives portfolio buying as AI stocks stumble",
+   "src": "Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjZPVi1sVUJrcUFpWldjaDRRTTBic1Q5RklleWY0dG94NFpEdFNxdTl5RFRUWGg3OWdzOHYtNWFIZGNfdGtGSHpXTGowalprMUtNUUY1ZGZJV0RyRkJJRlVRb19PNzhCc1hULTRicnFUQW9KdXpVWmxwaXE3cW9NUjBXVDU5bnVGNDF5eXBqU21qVkMyOFE?oc=5",
+   "time": "2026-11-21T15:10:34Z",
+   "t_id": "Aksi jual di Wall Street mendorong pembelian portofolio karena saham AI anjlok"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT25tR284UTNyRzU1TFlqY2E2MzVHSE1OSEFmdHdpc0g5UHJjd3FORUcwVHlwODRtTHMxX1d6YXdxY0trYk42b1FqMmJOaEFIRDVKY3Q2TFFOeEJ4OUFqakhaYmN1UlpNYU55R1lrVUxVMnhyYTdVSjBiY0FhTHZZT1pzRmRMbjFnUE9ZSUlPVVZoNzEzdkRXbW1JSVdfX3A0dExHYl9pQ0dDWVXSAbABQVVfeXFMTXdLRTZWdnFuc1hSNkhCUC0tRUh3a1dLMW5KTG5kSmFwaW8yQW1aVGNyV3dKT0x4YlVDMnhJTkk1eTZzWHFMZ2Q4ZnplVzRSUWRGY3NCVTl6eHlUekcxNVZCdDNkblJ2bWh0MGdPQ1U3UWhsSHlPQ1hQM2JMZk1Fc24wWF92ME1xLWpvUk1SZnViX0MwZUtWNmotakI4dGlZNzd0amZVZ3FGQ25CS2RmRmI?oc=5",
+   "time": "2026-11-21T15:03:46Z",
+   "t_id": "Kapal tanker menyerang Selat Hormuz saat Iran memperketat cengkeramannya pada pelayaran"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "S&P 500 (^GSPC) Charts, Data & News - Yahoo Finance",
+   "src": "Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81dlEyYzk0cXJLODkyM3FNMlQwOWlLWmc3VHhUSUl5ZWNBdFg0Vm9LVnpMb0s0VjJtMTlFZXN2dXZ0eVRWLURta3VKZE55YjVMZmVQRmp3?oc=5",
+   "time": "2026-11-21T13:45:38Z",
+   "t_id": "Grafik, Data & Berita S&P 500 (^GSPC) - Yahoo Finance"
   }
  ],
  "errors": []
