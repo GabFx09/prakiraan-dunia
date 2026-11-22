@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-22T02:38:56Z",
+ "updatedAt": "2026-11-22T02:53:31Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Akui Rupiah Masih Sulit Menguat meski BI Rate Naik jadi 6 persen",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOU5GZE8xNDJkWWxhYjdndWk0bXEwY3IzZjRPWmZGZUM1dDY2YXROQ1Z3cENsRXhPMi1XLThtTW1iRlZDRHhqU3hHRG9pWHlnT0tzMVpNRncyWjRkV01CS0hsUVo5TlBUdE90TndWQ0dVa2JyX0hwdVBoa21HRmdXQ0hQLWVETk5wdC1oUl9maUlFWjB1ckdRVFhnZXlnX3o3eW4tMlRuYTQ5eW1XN1c4cko2dDEwN3VZbmc?oc=5",
+   "time": "2026-11-22T02:43:00Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -193,6 +201,15 @@
    "t_id": "Taiwan memperingatkan Carney dari Kanada bahwa hubungan yang lebih erat dengan Tiongkok mempunyai risiko"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkRNTmVJRC1mZzYtOE1lWkpzLUYybFdUbTdtRmItWjJCZFBlMXpNQkJ5cDdpX3Z0dlp3MFhaOTFCU1Rmczg1MWs1SUhOY3B1cVp5UDlQM0ZkQ3dWd2dsZldjdWo4cHQyQk5CWDZkWHlkRGp5RmJrNm5NSWRyZEJNLTlsVHhSbWd5akdWNVNzVlNUSGRFNVVtcHJDOVRSbWxScFJGWmFjdWx5ZkQyejhTNWxYYw?oc=5",
+   "time": "2026-11-21T19:03:20Z",
+   "t_id": "Perang Iran Dapat Secara Permanen Memotong Ketergantungan pada Hormuz, Kata IEA"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "President Trump vows to work with Democrats to cap credit card interest rates at 10%",
@@ -238,24 +255,6 @@
    "t_id": "Jika Fed Menaikkan Suku Bunga Tahun Ini, Saya Memuat 1 ETF Ini"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
-   "time": "2026-11-21T17:00:00Z",
-   "t_id": "U.A.E. Mengangkut Minyak Melewati Iran dalam Operasi Hormuz yang Berisiko"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Today, November 21, 2026: BTC Rebounds Above $60,000 as Solana Leads Crypto Gains",
-   "src": "Eurasia Business News",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX1piSlJxUXozY05JbW5HTklaY1gtN1lYcm16UjZPX2xKTVNiVlg4Yl93Q2tyNXcwMjQ4UVAzVjh5UjdHR2hpSDR4SUc1RG04SzI1WVVSNFRlcTN6cVYwSy1ka1FfYnN2ZXFqWlIxdXdGaTRpV0VOWWdqdkNyTlQ3elJ3azcxRHpDYWlpcGxQVE9wTjVPM183X250dnN4OHRKbUJVT0pmQkozYWZCSExmNzRmcDEtSjBBR0dhaWZucFFSYjhpTm9ERy03bWFITDQ?oc=5",
-   "time": "2026-11-21T15:37:51Z",
-   "t_id": "Harga Bitcoin Hari Ini, 21 November 2026: BTC Rebound Di Atas $60,000 karena Solana Memimpin Keuntungan Crypto"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Wall Street's Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks",
@@ -290,6 +289,14 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd045UnVGay1hWGVJME1yaEczSnBDd3pUdEpRVWRKbUpYeC1RWHIwY2Z1R0t4MVhoclZlQ1BOMmgwamtIazJCNEJab2MtemtzOEFCeFdoa3dlMmVJZzloVjE2cTRzaEJyR0FmaE1aREVNQk0zc3NvMzU0UlZ5UGltZ1lnV2RCTkdiUnBBendJbm7SAZYBQVVfeXFMTlFLemtKM2JKbW1fZEZBU2R0OWJGa3RMOFEyeE9tMDExM3JaQmR4bWR1NFNGZzBIR2hma1FtNUtOcklSYW1nUzhXcndGbWFodjlDWFczS0ZUVmoxcld0MkUwdlVKWllsTG94U0dwRFZ6dzE5UXhNMGZJbTlrTnRsclRScGM0bzBFUU0zVEJwdGwzeDV4cUZn?oc=5",
    "time": "2026-11-21T14:59:43Z",
    "t_id": "Penurunan sebesar 10% pada pasar saham memang mengerikan, namun hal ini bukan sesuatu yang aneh"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Selloff",
+   "src": "24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzh2ZF9CQ1FlWE1oRUVfNE5rdlBOTVMydU45UC1oM2J0dTJTaS1rdHpIX3RZUlBJZU10Y1k5WDRucV9Jd2lXZGtHUk5TTmlod3FNUXp6N1F3MW9KNXVrTkFBd1FOQVdYYUxnVTBKWWpza2dYeVpBcko4NWZOV1ozQVJHeFR2aV9GQVBqR1NDQ0xERUwtWmpLbEdDcndrUG5KU0xQTFl6QXBuR2lSbmh3N1VGMmhjNFQyS0VYT2hSaw?oc=5",
+   "time": "2026-11-21T14:44:00Z"
   },
   {
    "topic": "geopolitik",
@@ -342,6 +349,15 @@
    "src": "Langit7.id",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXdQSlo2OXFudVdyeHlOOGdxV00wTW5VOVV3eXV2V0JuTU5TaUxLY0JGX3lFeUw4aHk1VDdodHN5VEgwMTI5VGRjbTFFdnZtck1CTjJLNm82NDVwN3NGVXdPdzRMczBidmlSWjZueHF6RUpFN19aMHpDYnpjOEQyY3V3bzBoZGtQTDRwYmlES0g1cWdUendGWDRmQ2VIMm1uTWhwbkI4Q2MwQ09iSmtmQWZn0gG4AUFVX3lxTE5leExyZUloVmo0dHVlbE9vUE9MOEpmQlF5VzV2ajcza25Ca1NhM0tLdlhZcUVWZkRZaXhHNFVZanBvM19yVHJ3bTY0SW9mc1dOaHRNd01BNU10YUdMWmhyUG40MVhuS2pucFJ3Y1ZZU2g4bHNHeXd0Z1B6dzJsODg0cklaU2V3VGpjRENuTnd0OE9NT3lRakQ3RnBZVEk3V2pWVWRJOFdxZi01WVpQZ2U0MEFBaFpYM3U?oc=5",
    "time": "2026-11-21T10:34:57Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "src": "Yahoo Finance Australia",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vY3UycVZqZEJIblcwdHR4dFFWTkl0YTNSZUNDdXl5bk9zdjVockJaMVJUZlEzYmFDLWlTSUJyX0FHdmVnOFFodWhUZE9MMjRXYmlBVlJB?oc=5",
+   "time": "2026-11-21T10:30:31Z",
+   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
   },
   {
    "topic": "saham-as",
@@ -420,6 +436,15 @@
    "t_id": "Saham Nvidia anjlok karena Anthropic tidak dapat menghentikan aksi jual AI"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Current price of Bitcoin for November 20, 2026",
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XLVJPckowN01hZzNsTnpXNEx0LTJsSklMX2lCNEstUlVWaXhtM0VGQXowTzBoODZTV244cjFuVE5VSGpLalFMOGhsRVVZQldzOEc0QVJLTll1SjUyMHNhOVBrT1dzMVk?oc=5",
+   "time": "2026-11-20T21:37:46Z",
+   "t_id": "Harga Bitcoin saat ini untuk 20 November 2026"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off",
@@ -474,15 +499,6 @@
    "t_id": "Dorongan dan Tarikan Kebijakan Perdagangan AS-Tiongkok"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Fell More Than 20% in November. History Says This Happens Next.",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZG4tLTFGNkZhY1V4am9Qa2U3M3dsd3VuUUlDMkpoYWpzMV9iNlZRQWloTjQ3TUQyZHNiU2JvXzFfcXNpSWM0TmxRZ3p6ZnpaU1V0dnZOdExQMG5pZXpibFBsT1hVVlhnbVBseDFKd1g4NzNUaEZiRTRDM1RpXzVZb0JDTi01WGUtSUwwdndCVnpVVzhvcHlVRkl3?oc=5",
-   "time": "2026-11-20T17:35:02Z",
-   "t_id": "Bitcoin Turun Lebih Dari 20% di Bulan November. Sejarah Mengatakan Ini Terjadi Selanjutnya."
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970",
@@ -508,24 +524,6 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekpFRDQzd1hCdmJHYjc4VHNIOFJubVB5a3J6aU5ZODhRUEV2RjFDWEZETU1rd2hienViZTBCdjZJOGtDX3EwUEZnLWVBSDVwXzZLOHNsbXRPRElYSTlFYnR5UEdYbTRjOXRYNmhtS25kd2R5MjU0SUdsQmZTSEVRSEJMTkFHazhpcVc2b004WEZGWWRSbjIxdEZybEowM28?oc=5",
    "time": "2026-11-20T16:40:09Z",
    "t_id": "Emas jatuh ke posisi terendah yang belum pernah terjadi selama lebih dari setahun: 3 alasan mengapa logam mulia semakin terpuruk"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Sheinbaum Seeks US Trade Deal, Rules Out China FTA",
-   "src": "Mexico Business News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeU5YZ0haYjQzYjlSQkJrZVRnUGN5aWVpd3JkcXphQ2IwQ1kyZXNvUU4xR3dETWh6Q0tWZXhnYzZmSzBNNXMxR2FURmRqTlBlM2g0NTg0Ykw3XzVfTG1EU2wzZjg2WDdIOGVYZTNRN2swOE51NGJGdzA3VWpXTVh1ZEJnYjhLcTJTaTdoZUQyVDY5RGtMYnNlMmhxUkl0dTFSeDI4NmRR?oc=5",
-   "time": "2026-11-20T15:47:30Z",
-   "t_id": "Sheinbaum Mengupayakan Kesepakatan Dagang AS, Mengesampingkan FTA Tiongkok"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "The Stock Market Has Problems Even Anthropic Can’t Solve",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5",
-   "time": "2026-11-20T15:46:00Z",
-   "t_id": "Pasar Saham Memiliki Masalah yang Bahkan Anthropic Tidak Dapat Menyelesaikannya"
   }
  ],
  "errors": []
