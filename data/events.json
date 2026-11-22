@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T10:42:42Z",
+ "updatedAt": "2026-11-22T10:57:19Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Aftermath of Russian drone and missile attacks in Dymer",
    "src": "The Lufkin Daily News",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ08tWlpVX3BaSlVVNlNrczBWdF9waEdjVDBUSDY5SFVUTGkyaUlKX2NiOHNNNTVwRVF6WG5kT2NWMTRBVmFOdGlBNkdoQ0g3elRGcEtJVUxLMlBzaWJEWlpVNkFvWUEwQnpkUlhlRkhFY2lmTmhybnNOV19IanNaM0NlVUl4Wm9PNEM1cmRYaXVEb1laU2VYdlJLYWdiRVZObm4xMXVSVHZxOUF6RmVWZ1JEX25NTWhjcGJPRF84WERreEllRU9RRHZWU0x3Rmx4a0RUaUV4QTFLN0doYWNEdEgwcFNVbkhS?oc=5",
-   "sources": 14,
+   "sources": 15,
    "recent6h": 4,
-   "score": 16.0,
+   "score": 17.0,
    "level": "besar",
    "first": "2026-11-21T10:55:00Z",
    "last": "2026-11-22T08:59:38Z",
@@ -91,25 +91,20 @@
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
    "title": "I.League Desak PSSI Hukum Berat PSS Sleman Usai Kerusuhan",
-   "src": "cwibc.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KMS00SkFSa2ZQM3FEOVZTSm1aVC1tc21PbnBxZFNjM01xLW93OWdEQTkta3lfTkNNSDc5MUphVTJBMF9TRFc1TDRrMTY3RXpZaVF1V1RFd1hpVjhGaHlTZ3dR?oc=5",
-   "sources": 9,
+   "src": "bsinews.id",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tcXdxRHltNGtpMnJnSVRzaV96UFFCMW9oa1VwMFVzUHNZS1BQdHh4Y0M1X0RIY1UwV0pQUFdXVmNKNWthbWJEbThJaWJoZnJGVTE2RnFqQ0FTcGJnX0h3Tl9aMGwwNDVo?oc=5",
+   "sources": 5,
    "recent6h": 0,
-   "score": 9.0,
-   "level": "besar",
+   "score": 5.0,
+   "level": "sedang",
    "first": "2026-11-20T21:33:14Z",
-   "last": "2026-11-21T15:38:13Z",
+   "last": "2026-11-21T15:43:42Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Kerusuhan Usai Arema FC Hajar PSS Sleman 3-0, I.League: Memalukan dan Tak Bisa Dibiarkan",
-     "src": "Sumbawanews",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUR4Z0F5d2k3WlREUkg1N3NaREtJWlQ1b2JBdEhxN1ppR1pqQV9sd0RXam1CNHJJTmdXNjFUZkg2dDJIT2hoMHZiYVhOSVhRY2Y0OVJ3S0UtZjdrSFRmZGc0dmlGdDlKT2hFekxqdklPaElIZGhRTThuMnRnZEJlcTAwdF82amtjN01YOXpsRE1HRV9PWV9nZGFxRGx1TDhJemdhZzdaRlZqcW1vWVcySkVSMEdVYmhrYk1qWHdRY3huUTRtb2dv?oc=5"
-    },
-    {
-     "t": "I.League Desak PSSI Sanksi Tegas PSS Sleman Usai Kerusuhan",
-     "src": "Demokratis.co.id",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BQXRHQWFIVUNiYXZRa0IyYmtRdDY5Qmt0MmVhbGpjM0dVZUkxbVpGcWVpa0Q1SzNxb1ZrSzM1RHpGcXhzZVBnNGNucm0wNU5TS0tkNGZULXVtSkh1QmZ2dldrSFo3TEhN?oc=5"
+     "t": "I.League Desak PSSI Hukum Berat PSS Sleman Usai Kerusuhan",
+     "src": "cwibc.co.id",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KMS00SkFSa2ZQM3FEOVZTSm1aVC1tc21PbnBxZFNjM01xLW93OWdEQTkta3lfTkNNSDc5MUphVTJBMF9TRFc1TDRrMTY3RXpZaVF1V1RFd1hpVjhGaHlTZ3dR?oc=5"
     },
     {
      "t": "I.League Kecam Keras Kerusuhan Suporter PSS Sleman, Super Elja Terancam Sanksi Berat",
@@ -117,9 +112,14 @@
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNXkxX3I3QllPTnJFNUJqZzFTZTRvMEN2aDdXU2t5ekcyUjc3cHdzQUNGY2ZEdGdpb3gyZzFBLVlRekxnd3NOd0wzN196dkdaamU0QkVOUlFzWTJjME9RZzlMd3A4ZDRHWGg2V2RNclI4ZWs3dTJPaXBKSkEyV3hFN2tPbFJuUGNEUDBXX1V4LVpER09hdmNfeXR1WGZLMC1yR0dKMEtTVTNQRGFrNmVQODFMZGUyV0M1T21pc0xScVhNZTJEelVVdWFsQ0UyTVNXSlBZNUt1aGVPbDNVLUxHRw?oc=5"
     },
     {
-     "t": "I.League Dorong Pelaku Kerusuhan di Laga PSS vs Arema Dipidanakan",
-     "src": "SKOR.id",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUFHbnJzNDdPbDNycmM5cDdHdnBNam1RTzVYaU1HVGNvYkpqT0dRUVlIRzhicTJ1Y2xOc2tyZXlPdTlJMWN1ckZMX0tkWTVDMUpYbDhrSVZtdk9WcG9hNkktVXlEdEVjOXZZRThWTXFaemtaemN2clhSd2JEZHVkZWFFempkRU04aW0yOGhTeExZajhDSjJKOXVn?oc=5"
+     "t": "I.League Desak PSSI Jatuhkan Sanksi Berat Usai Kerusuhan Sleman",
+     "src": "Lensa Hukum",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FREg2bDJRUGVEb0x2ZThPZ1FWVHo3NHQ4eE1fWGRKRW5WeEJUcGlPdXRjVWdubnp1cWp6NktrcjhDWGdWNTZQMzdSdlJoX0ZrSGNOamVESXh0OWJURTJuZXM1bVpBMWs?oc=5"
+    },
+    {
+     "t": "I.League Desak PSSI Jatuhkan Sanksi Berat Usai Kerusuhan di Sleman",
+     "src": "SuaraGarut.ID",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XdGVaNDhKMTVjMEhCcjlVUlU1U0c1MnNTb2lTQXFuVGVWMXJjdVU2ZTJINXVsZnpRSU1VbzQydGh3VXVXM1lsYUs5eXdPSko2T1FzVVU5WmhFYXVXMW40aWp4NA?oc=5"
     }
    ]
   },
@@ -310,31 +310,6 @@
     }
    ],
    "title_id": "Anatomi Ground Stop FAA: Satu Tulang Punggung, Satu Perubahan Buruk"
-  },
-  {
-   "id": "perang-202611201901-9437",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russian strikes kill two, injure 60 in Zelenskyy’s hometown as war tensions spread across Europe",
-   "src": "Firstpost",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaDAzSDJKMENCcmJEaHZJUXd3VjZiWlBuRGdiMENtWWZyOEVYTTh4TVRRMHBLZ25zdm5OaGloVFhDSXlBeERfbW1sbXNVY3VkSTR0U1p0RlhOTV9KMDF3aXpobmFwT3NkUWdNUWxDbjk2c1RxUFhEc1ZLbDhtMzZfQWkycXhVOGxyU2lxTVE4NEhRVmZHYzVKNzlidHZqeWNaWC1CM2JSRmxIVXNObUgxNV9nLUM2TDVabllLQTA2MjFGRlI5MmJBb0JqcEI3X2lrOWRYRTNuQdIB3AFBVV95cUxNb0xpZkYxcTI1X0NrRFkzOWlKYllKcU5xcUdqcXZ2SXFLdUlQdy1zWE03WlkwZFc5bU9xVU9TWlcxV216T1RQemx6SWs0di1BUDFzMzczQ3lMWUh5V1Vhd0lvbXRxN3ZEWThMaE1jN2otQ3VJQ1NxbWVILTk1QlFod1BWZURrQXF6MkVVZG5OR1g0RDNTcjBQcFpIOHBrVWloQ3FiOTd5SzQ0eXFLSUh1WFJxWko1eWJWQ3VQc3pycXJleG4zeTRWOENNMHRPT2NRTW5IdXVMUkxNRHZS?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-20T19:01:21Z",
-   "last": "2026-11-21T14:49:44Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Russia strikes Zelenskyy's hometown as airstrike burns cargo ship | Daily Sabah",
-     "src": "Daily Sabah",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGlNOVlsbTJmZFFRZ2xsbGFaVzMzTElHdkh1ajUyQ2RXQVZaWTctbWNDOEs1YnJUNzFKeEVmNV9FWW5mZ01fNHVBY2JXcnc5em56RVlfT2R0eWt5alZIb011MWNQWEZJZ0oxWkEydUVjWkh0QllRQlpYUmFTS0JHeHhHS3ZFZWItZmlsUUw1eE93bWxMNXk1cVdVWU1EM25TSXNrVl9RVdIBrAFBVV95cUxPZ0o0UFhZaDdFcTBNMVFRajhabmRDZEpEa1ZtRDVzdjkzaEFKQ29DTXY3N3FCRnNybGlxVEZvaW1JWkVmYV9mNUtSV3JxaWxCZjMwOUUzN0xQc1E2NTd1U1dhSHZINzJCNWZmZFg1cm44SExHVTRsWEJKUEg1OWJhWFNUREswY08wSXQyNng3RTRJZ0dGTkpaX2h6OTJUcnFqbTAyTkQzZDQzblZU?oc=5",
-     "t_id": "Rusia menyerang kampung halaman Zelenskyy saat serangan udara membakar kapal kargo | Sabah Harian"
-    }
-   ],
-   "title_id": "Serangan Rusia menewaskan dua orang, melukai 60 orang di kampung halaman Zelenskyy ketika ketegangan perang menyebar ke seluruh Eropa"
   }
  ],
  "errors": []
