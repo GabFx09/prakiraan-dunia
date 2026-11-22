@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T21:11:59Z",
+ "updatedAt": "2026-11-22T21:26:36Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -288,37 +288,6 @@
    "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
   },
   {
-   "id": "kesehatan-202611212104-5d3f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-   "src": "cedarnews.net",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGlQZ1d5TUUxLVZvejlSVkVxNTBNMTBOWHRPdGtTUDdCMFRIMll1ZnU5cVlRVlNmOEZCM3NLaDE3ZEVtN3ljMURFU1dtWVhtY1FUeC1NX3VRMnljSUVxYmgwWUlES21wYzlZUWM3TmtPczlwQXQtdFdROVE2TG5ZaDZFNlhWWExqN1JaejVtWDhoQVV0?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-21T21:04:29Z",
-   "last": "2026-11-22T12:09:17Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-     "src": "Kiowa County Press",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
-     "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-    },
-    {
-     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
-     "src": "JC Post",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWGpYZWxGcjNzMm03YWE4dHVhdlpIWm5ZRy11VjRLX0tITGtpdDA3akhieXRzUkNUZGFSbXFKM0I5MEpXd0NqeEF0dFhmZDJZd1JHa2V2eXVxak9uX25KalFjX2ZqTGwwZ0tsdzNR?oc=5",
-     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
-    }
-   ],
-   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-  },
-  {
    "id": "siber-202611221057-dda9",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -365,6 +334,31 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHk3TU00bF9vY2NEdkEtRHpnU0s4dXIxd3FINVhScDlrTHA0enZGeVc3OFFSSzVOY1kyc3dsZGJoN3R2TXk5Ykdsc1pDZ1gzZk94dVFJM082MzNJaGJULWlCbjFJd3JYc2c4UTJSRFZRNVBIQ3hrMDVJRjJFeW5tazZUQVdPb21RakltMVl0bXZ0YWpnV2I5Y3BXbEdMQzF6YVlqWHpwUzY2d0dHTmJpak1rZmxacFlDbkE?oc=5"
     }
    ]
+  },
+  {
+   "id": "kesehatan-202611212104-5d3f",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+   "src": "Kiowa County Press",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-21T21:04:29Z",
+   "last": "2026-11-22T12:00:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
+     "src": "JC Post",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWGpYZWxGcjNzMm03YWE4dHVhdlpIWm5ZRy11VjRLX0tITGtpdDA3akhieXRzUkNUZGFSbXFKM0I5MEpXd0NqeEF0dFhmZDJZd1JHa2V2eXVxak9uX25KalFjX2ZqTGwwZ0tsdzNR?oc=5",
+     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
+    }
+   ],
+   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
   },
   {
    "id": "perang-202611220254-5022",
