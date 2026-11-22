@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T13:58:58Z",
+ "updatedAt": "2026-11-22T14:13:40Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "Ratopati",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjlLRHNCUWlwRUtma3Z6aG5LbU5Sbkl2bG8xSmZYaTd2ZkZQZFUyRHdnZTZfaC1HTnI1THhWVXIwd044WUdCMU5yWmMzVTBQbEc3UzVXNFlCejVqcDBZaVdBOENFZFBrRTlka19wUk5PNUlYM1U5aWx0b2xQd0MxdlFyR0VJVl9qa0h3SU92bzJVbGsyY1NQeVhTZVhiY2hZcWp6OTJxbXg5b21aMVhZN1hDVzg?oc=5",
    "sources": 9,
-   "recent6h": 2,
-   "score": 10.0,
+   "recent6h": 1,
+   "score": 9.5,
    "level": "besar",
    "first": "2026-11-21T13:55:50Z",
    "last": "2026-11-22T11:04:18Z",
@@ -21,7 +21,8 @@
     {
      "t": "Iran Claims Missile, Drone Strikes on US Radars in Bahrain",
      "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUlyWDNQSmtnaHZiR3U3ZzFxcjM5OXlIalAyOFVUSHFlM3hacFE0XzlEbmhuYWd5S09ZcFZlX1dGckpfVFlLcHg0eEdXVTJHMXgtRHZBcU5fMHlnQTJxNFpCTTFyX202cGUzV0ZLOEtMMDl5ajNwLVplNjl3bGVSbnJUdVhMa0V2NmUwNTRfNA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUlyWDNQSmtnaHZiR3U3ZzFxcjM5OXlIalAyOFVUSHFlM3hacFE0XzlEbmhuYWd5S09ZcFZlX1dGckpfVFlLcHg0eEdXVTJHMXgtRHZBcU5fMHlnQTJxNFpCTTFyX202cGUzV0ZLOEtMMDl5ajNwLVplNjl3bGVSbnJUdVhMa0V2NmUwNTRfNA?oc=5",
+     "t_id": "Iran Klaim Rudal dan Drone Menyerang Radar AS di Bahrain"
     },
     {
      "t": "Iran Attacks US Military Bases in Bahrain, Claims Two Patriot Radars Hit by Missiles and Drones",
@@ -41,7 +42,8 @@
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWpKWlJBWEFPZ3pQSVNja0hPc1BsdzNqeTh2b0I1Q204OTFsNGpiTXpsNlMyY2dycDN2ZjEyVzJENlF0MmNJLUdPZjFiY0xVNklKaXlPUjFBZ0dzNldmWm5nMmxDZkRmUHJvNEVGLTFfWDFrY0p0M3RNdDFmV1ZyMURxVURsNXRCdU1pYXV2OE0wVEtsUVUyTFFteGlJT0wtSkhzZDN3UjJXNVJGQzVMbTlPUXFfODRrOFdhOXVPZTZRcGMwVVFn?oc=5",
      "t_id": "IRGC meluncurkan serangan rudal dan drone terhadap dua radar pertahanan udara Patriot AS di Bahrain"
     }
-   ]
+   ],
+   "title_id": "IRGC Iran Mengklaim Serangan Rudal dan Drone di Pangkalan AS di Bahrain"
   },
   {
    "id": "perang-202611211355-fd1c",
@@ -62,17 +64,20 @@
     {
      "t": "Aftermath of a Russian drone and missile attacks in Dymer",
      "src": "The Lufkin Daily News",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdWJPYWk4VnlwbEp0c1ZmS05OYlFMSXhqOW5yaDB1TVdvdjMyXzhDcjRfaC1vemhFcmRmQVpmTTJnYVZjTXM5NzlLdkNiSU1xZ3VhdkxjX0Y3UjlYbEdzcHJEcjVQcmpLMG4tdDhWWHZUZW01ajU3TGt1em0wSTVld0FydzE5VmRYMjQwN1h0azFTRUxBUWJpZXlEY2M2UldkRlRERUY4TkNiaXVFcERaS3RIUnBYSEc4MVpXNnhYVjN0ekdka1ZzWDVNNVVSS2VRZlVOLUdYdnFlSXdJOWhENDl6blBSc19TWW1j?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdWJPYWk4VnlwbEp0c1ZmS05OYlFMSXhqOW5yaDB1TVdvdjMyXzhDcjRfaC1vemhFcmRmQVpmTTJnYVZjTXM5NzlLdkNiSU1xZ3VhdkxjX0Y3UjlYbEdzcHJEcjVQcmpLMG4tdDhWWHZUZW01ajU3TGt1em0wSTVld0FydzE5VmRYMjQwN1h0azFTRUxBUWJpZXlEY2M2UldkRlRERUY4TkNiaXVFcERaS3RIUnBYSEc4MVpXNnhYVjN0ekdka1ZzWDVNNVVSS2VRZlVOLUdYdnFlSXdJOWhENDl6blBSc19TWW1j?oc=5",
+     "t_id": "Buntut dari serangan drone dan rudal Rusia di Dymer"
     },
     {
      "t": "US Military Turns to Reinforced Concrete Bunkers to Protect Troops From Missile and Drone Attacks",
      "src": "Tekedia",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQV9JbTJEbUhVX0o4bnVzaTNzTnlaYU1zbTZsLU91dTQ4TERFbkthOGtUZjZpRHMzd0tudHYyT3U1Tko1RTlPSUF4YWVaMXVrVEdadXBwcUJMdlJocUdWWXZPREpLOFQ5bXRqSVJkSVBLbElhSm96M2JNNkREMU5sNXJnOFpUb2lrUlAwM3pGRzZpWEF1UFN3TUFPbXFiQndnZy1Dc183YXNGWmQ3UVJtbVd5ZmJGMVZaVjJzblF5cw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQV9JbTJEbUhVX0o4bnVzaTNzTnlaYU1zbTZsLU91dTQ4TERFbkthOGtUZjZpRHMzd0tudHYyT3U1Tko1RTlPSUF4YWVaMXVrVEdadXBwcUJMdlJocUdWWXZPREpLOFQ5bXRqSVJkSVBLbElhSm96M2JNNkREMU5sNXJnOFpUb2lrUlAwM3pGRzZpWEF1UFN3TUFPbXFiQndnZy1Dc183YXNGWmQ3UVJtbVd5ZmJGMVZaVjJzblF5cw?oc=5",
+     "t_id": "Militer AS Beralih ke Bunker Beton Bertulang untuk Melindungi Pasukan Dari Serangan Rudal dan Drone"
     },
     {
      "t": "Russia-Ukraine War Latest News: Russian Missile Attack Followed By Drone Strikes Kills Child And Paramedic In Kryvyi Rih, Nearly 60 Wounded; Zelenskyy Says No Military Facilities Were Nearby",
      "src": "The Sunday Guardian",
-     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPaUVuYjFoSGszQjRBNUlGZVNES2xFOEFFY0JGNGpHaXdwNTkyZ2FwWDBkSm84WFRqTmFSNnpBeTN2aDh4VmhIZkdqZEJUWDNQeEtYQTVNc29LQ3d3TzM5LTJ2cGVvYVEyS2d3X0pFRjNnenhVaVRwMVRkeWV1TkhQOUV5Tm1mUlIzWl9wNnNZSTdURWVBRDNGeUJFN0twX1JIVC1vZUViSTFMeGx5T3lXemh6MEFVcnpob3VtSUl3NnprNmlONlJMbWFSRlFoczBYcFFPVWl3U0RkdGVtSmY1NTRHMG5fbS1Tdy1EbE9GQUhXRlFaX0RodDM2RE01VHVCdTlWN1Bldk91OUxqOWJNb2RSYlNialhsU2I0Mjc1VklvWXlTaXJyN2t3R3hYNVVYWE1NX0hxTHhFWE9veFFidll5Y2lrR1ZxY1l6dVhUWi1JcnhQZXdZ0gHXAkFVX3lxTE9pRW5iMWhIazNCNEE1SUZlU0RLbEU4QUVjQkY0akdpd3A1OTJnYXBYMGRKbzhYVGpOYVI2ekF5M3ZoOHhWaEhmR2pkQlRYM1B4S1hBNU1zb0tDd3dPMzktMnZwZW9hUTJLZ3dfSkVGM2d6eFVpVHAxVGR5ZXVOSFA5RXlObWZSUjNaX3A2c1lJN1RFZUFEM0Z5QkU3S3BfUkhULW9lRWJJMUx4bHlPeVd6aHowQVVyemhvdW1JSXc2ems2aU42UkxtYVJGUWhzMFhwUU9VaXdTRGR0ZW1KZjU1NEcwbl9tLVN3LURsT0ZBSFdGUVpfRGh0MzZETTVUdUJ1OVY3UGV2T3U5TGo5Yk1vZFJiU2JqWGxTYjQyNzVWSW9ZeVNpcnI3a3dHeFg1VVhYTU1fSHFMeEVYT294UWJ2WXljaWtHVnFjWXp1WFRaLUlyeFBld1k?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPaUVuYjFoSGszQjRBNUlGZVNES2xFOEFFY0JGNGpHaXdwNTkyZ2FwWDBkSm84WFRqTmFSNnpBeTN2aDh4VmhIZkdqZEJUWDNQeEtYQTVNc29LQ3d3TzM5LTJ2cGVvYVEyS2d3X0pFRjNnenhVaVRwMVRkeWV1TkhQOUV5Tm1mUlIzWl9wNnNZSTdURWVBRDNGeUJFN0twX1JIVC1vZUViSTFMeGx5T3lXemh6MEFVcnpob3VtSUl3NnprNmlONlJMbWFSRlFoczBYcFFPVWl3U0RkdGVtSmY1NTRHMG5fbS1Tdy1EbE9GQUhXRlFaX0RodDM2RE01VHVCdTlWN1Bldk91OUxqOWJNb2RSYlNialhsU2I0Mjc1VklvWXlTaXJyN2t3R3hYNVVYWE1NX0hxTHhFWE9veFFidll5Y2lrR1ZxY1l6dVhUWi1JcnhQZXdZ0gHXAkFVX3lxTE9pRW5iMWhIazNCNEE1SUZlU0RLbEU4QUVjQkY0akdpd3A1OTJnYXBYMGRKbzhYVGpOYVI2ekF5M3ZoOHhWaEhmR2pkQlRYM1B4S1hBNU1zb0tDd3dPMzktMnZwZW9hUTJLZ3dfSkVGM2d6eFVpVHAxVGR5ZXVOSFA5RXlObWZSUjNaX3A2c1lJN1RFZUFEM0Z5QkU3S3BfUkhULW9lRWJJMUx4bHlPeVd6aHowQVVyemhvdW1JSXc2ems2aU42UkxtYVJGUWhzMFhwUU9VaXdTRGR0ZW1KZjU1NEcwbl9tLVN3LURsT0ZBSFdGUVpfRGh0MzZETTVUdUJ1OVY3UGV2T3U5TGo5Yk1vZFJiU2JqWGxTYjQyNzVWSW9ZeVNpcnI3a3dHeFg1VVhYTU1fSHFMeEVYT294UWJ2WXljaWtHVnFjWXp1WFRaLUlyeFBld1k?oc=5",
+     "t_id": "Berita Terkini Perang Rusia-Ukraina: Serangan Rudal Rusia Diikuti Serangan Drone Tewaskan Anak-anak dan Paramedis di Kryvyi Rih, Hampir 60 Orang Terluka; Zelensky mengatakan tidak ada fasilitas militer di dekatnya"
     },
     {
      "t": "Two killed, 10 injured as Russian missile strikes building in Ukraine’s Lviv",
@@ -80,7 +85,8 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGJydTlSVm9TTXdQa3ItcW9Bd3owOG9ENkFPMmMxSEtBekFTSjZDWlFHUERzeEtadFRWa2RQdnREcDZnYkxzV0pBRGxSWlQ0S1hhN2NJMVJQa016NUMxQkJ4dzhodGlHZmh3TUFVVm81Y3owTVNNenlDcERjejhUUVBiYnJhUFVJUE9XOHhtbTlveERTaG42N0ptbUZ0T0Z2a1lHZ0xmSm91X0k0MmNqSURKcWc5azl3RTM2aGlwTDdKcHJZMXlzdDBQYVZ3UQ?oc=5",
      "t_id": "Dua tewas, 10 luka-luka akibat serangan rudal Rusia di Lviv, Ukraina"
     }
-   ]
+   ],
+   "title_id": "Buntut dari serangan drone dan rudal Rusia di Dymer"
   },
   {
    "id": "perang-202611211405-ae1a",
@@ -118,12 +124,40 @@
     },
     {
      "t": "Russia launches massive missile and drone attack on Ukraine, killing at least 8",
-     "src": "News Channel 5 Nashville",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0hBRWxjYWw1V1VPVlh3YUMxbFpLbW5jVDg0STZCUHpjRFAtdmo3LTFLeWc5eEplaGNUeTlZOHVSdU9oNEdveDczQmxuOE1aSXptVFpaT3lEUzhIS1FWSjRkVE0teE9XWE05N1VfbzBYQkVvSi1wRFNPa3ZNaU5MMTNsblE5T1hxTkdJSGNTSm5fT1lIX0hObHBFNmpHUC1yV3p6R0dXQk5OdmR3TWswY0xWSmVvZ19MU2EyVw?oc=5",
+     "src": "KSHB 41 Kansas City",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWVwS1dsc205NElTV2lnaWlKVEQ2QU0xQXktOGcwN0dydzBKRHRmdWZDVFkzMmxKVTF6elAtazJNa1ZMTGxhS2x4dGRKOXNqd1dNMlo3RkhqRGo5MktmVmlwWFZsQzR1WUxkQTZqQzJkbC1oV3J0N0RnSVBQSmtuR0tSLS1xc3ZWSGxBTXhXV2s4SkJPUVhZLURvcVZ6elZpdGxTRkNpZW9YNEdmNGFZbm5R?oc=5",
      "t_id": "Rusia melancarkan serangan rudal dan drone besar-besaran ke Ukraina, menewaskan sedikitnya 8 orang"
     }
    ],
    "title_id": "Kapal kargo Rusia terbakar di Laut Baltik — serangan rudal balistik di kampung halaman Zelensky menewaskan 2 orang, melukai 60 orang"
+  },
+  {
+   "id": "indonesia-202611220720-61fe",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Buruh Jatim Mengamuk! UMP 2027 Rp2,73 Juta Ditolak, Demo Besar Menanti Khofifah",
+   "src": "Warta Ekonomi",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONl9zSTZaT01nRFoxbTlIbW15NlRVelhYbHB2T2RXWS1UcmVvN29BNFFZeGZ1RmNIS2g3R3A4TXN3VW9nQ0o2NUxQbkxUUmE3QzJBcVQyaXQzWTRGVmUxSEF2Nm9hX1RJRFl4ZVNjWHNEMzZuVDVISnJRakJsZjZ4Rmh2Q2VTUFpEUlVnU05tX1UteWNjTE8tNHU3cXlleEJyQlA3UDFBTW1mOG1MSGx6SnMwWGnSAboBQVVfeXFMUGo0OXBsTjV3Nk1ZcS1WbE05aVBJcTRUU0pfcV9CRldzUU5CeUFNa1R5T2dhdnB2NHN1b096ZmJLRUN0Z25DQkg5Zkpyc2FULS14SlVWOG40R2RqMFhEMHBuRTlOck90MlhKT2g5OTA0WXRCVE9IaHNmTmVnOUtFdThlNlBkeTJtQkgyWXlfZVp5NU1TZDI5bVk1Ni1UTVNuTDZla0ZvYVBKbklNNkI3ZS04UXdTQzM1SERB?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-22T07:20:59Z",
+   "last": "2026-11-22T13:40:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Buruh Jatim Bakal Kembali Gelar Demo Minta UMP Rp3,7 Juta",
+     "src": "IDN Times Jatim",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3M5SS05dWNPZFZOU0szUmtlekpJbnJsVnQzOFc2aENFMy1jZlVsREREZEhJdU0xTURwQXpNdndlSjlLaHp6X1EtR1VNX3Q5Y09WTDJRa3V5REVhQkhfeFVQQmd3c3JRYXBvU2tKME5wQ0k1NHZmUW15Q1hmbGVLU2ZVellWV0lBM29Mb1RGSDMyRm9RX2E4R3VsczY2dW00LXdQLS1mMnRkUnJHemFZdGlESjFpUFXSAbwBQVVfeXFMUFpqV0pKNkcwMHVlQmliMXRBNUhGSTdsS2kwQWtTSVVMSEh5NFYtS0xnNmtFV3BvbkhHLXk1QWZ1SWYteTd2b0lvemU2V240bmRJY2pzNWhuUXpiaWhnRWlGRkRyWkRlcVVqZ3U2WTc5RU91SDZIc2JreW9UNDVwT2hEbmJuaVFwMlRSY0NiNkhDcVBwcnBBLVUyd2xzWklrRERhOUthc21ZRTlacG5ROXNvRmhMQTZvWmNzVmw?oc=5"
+    },
+    {
+     "t": "Buruh Jatim Tolak UMP 2027, Ancam Demo Besar hingga Gugat ke PTUN",
+     "src": "Bisnis.com - Surabaya",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHk3TU00bF9vY2NEdkEtRHpnU0s4dXIxd3FINVhScDlrTHA0enZGeVc3OFFSSzVOY1kyc3dsZGJoN3R2TXk5Ykdsc1pDZ1gzZk94dVFJM082MzNJaGJULWlCbjFJd3JYc2c4UTJSRFZRNVBIQ3hrMDVJRjJFeW5tazZUQVdPb21RakltMVl0bXZ0YWpnV2I5Y3BXbEdMQzF6YVlqWHpwUzY2d0dHTmJpak1rZmxacFlDbkE?oc=5"
+    }
+   ]
   },
   {
    "id": "perang-202611211055-e1f0",
@@ -144,7 +178,8 @@
     {
      "t": "UPDATES: US War on Iran, Day 269 — Houthi Missile Attacks on Saudi Arabia",
      "src": "EA WorldView",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
+     "t_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-269 — Serangan Rudal Houthi di Arab Saudi"
     },
     {
      "t": "Saudi Arabia Intercepts Houthi Missile Near Mecca, Bahrain Blames Iran for Fire",
@@ -152,7 +187,8 @@
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QX0RKa1p6MFlyMnNucjgwclpGby1Dam1FRnp6VmxnanE5LTJqUjVLOG9tUDdDRTUwMVUzNmQzckNXYnhoZW5EWHJZVzhjdFY1Tmctcktuak5TejlQZlJQRnZySlJ6M0dISmJNRmU2OFc1d01hWGh0LQ?oc=5",
      "t_id": "Arab Saudi Cegat Rudal Houthi di Dekat Mekah, Bahrain Salahkan Iran atas Kebakaran"
     }
-   ]
+   ],
+   "title_id": "Arab Saudi mencegat drone dan rudal saat Houthi melaporkan serangan di Sanaa"
   },
   {
    "id": "politik-202611220000-4da4",
@@ -173,14 +209,17 @@
     {
      "t": "Video | Spain Protests | Protesters Demand Affordable Housing, Better Education Ahead Of Snap Election",
      "src": "NDTV",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbG1HVlFTc0VYNGUwVklleE1fOEk5cE4zNXhfSm1MLUdVcnNISmFuN1dJdE4zdm5fSzcyRVBZQ0sxajd3ZWtGVU5ILV9uNGxNTXVwNXFKWW5ZMVM1b0NoYU05a3VpRldTeVc0UF9jc1A5QUViaDdwaEttTm05ZzFEYlhUQTlEQVlhb0lXQTFzaVM0endEZUtkcVdNUGpZMmhIZGtWU1Ytcjk1VG9wRDY4WlVuNVJFQWdEam8za0RUNm9aTFhQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbG1HVlFTc0VYNGUwVklleE1fOEk5cE4zNXhfSm1MLUdVcnNISmFuN1dJdE4zdm5fSzcyRVBZQ0sxajd3ZWtGVU5ILV9uNGxNTXVwNXFKWW5ZMVM1b0NoYU05a3VpRldTeVc0UF9jc1A5QUViaDdwaEttTm05ZzFEYlhUQTlEQVlhb0lXQTFzaVM0endEZUtkcVdNUGpZMmhIZGtWU1Ytcjk1VG9wRDY4WlVuNVJFQWdEam8za0RUNm9aTFhQ?oc=5",
+     "t_id": "Video | Protes Spanyol | Para pengunjuk rasa menuntut perumahan yang terjangkau dan pendidikan yang lebih baik menjelang pemilu sela"
     },
     {
      "t": "Here is what to expect from Spain’s snap election",
      "src": "Investing.com",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkVrSkFsZVRwUXRtN3paNWYyUno1NUlFYWYtdnFsWmFtaFdZRFAydHFtVXROS2YyQldXM3IwWmFuamc2dDZiaHpmZ3dTVUh1b3NpN0UwNzhVQnFvNE8yN0FaZXVLeWZSeEMtVGR5SEtIVWtrU3MxbElVa0V1dUJjRk8xWUcwRUdhaS1sODFsWUx6dTVzSEpKX0lVRDAzd3o1Y01YaFRJZkY?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkVrSkFsZVRwUXRtN3paNWYyUno1NUlFYWYtdnFsWmFtaFdZRFAydHFtVXROS2YyQldXM3IwWmFuamc2dDZiaHpmZ3dTVUh1b3NpN0UwNzhVQnFvNE8yN0FaZXVLeWZSeEMtVGR5SEtIVWtrU3MxbElVa0V1dUJjRk8xWUcwRUdhaS1sODFsWUx6dTVzSEpKX0lVRDAzd3o1Y01YaFRJZkY?oc=5",
+     "t_id": "Inilah yang diharapkan dari pemilu cepat di Spanyol"
     }
-   ]
+   ],
+   "title_id": "Rangkuman politik: Permintaan maaf, gergaji mesin, dan sindiran korupsi saat Spanyol memasuki minggu terakhir sebelum pemilu sela yang penting"
   },
   {
    "id": "indonesia-202611210335-9eba",
@@ -254,27 +293,35 @@
    ]
   },
   {
-   "id": "indonesia-202611220720-61fe",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Buruh Jatim Mengamuk! UMP 2027 Rp2,73 Juta Ditolak, Demo Besar Menanti Khofifah",
-   "src": "Warta Ekonomi",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONl9zSTZaT01nRFoxbTlIbW15NlRVelhYbHB2T2RXWS1UcmVvN29BNFFZeGZ1RmNIS2g3R3A4TXN3VW9nQ0o2NUxQbkxUUmE3QzJBcVQyaXQzWTRGVmUxSEF2Nm9hX1RJRFl4ZVNjWHNEMzZuVDVISnJRakJsZjZ4Rmh2Q2VTUFpEUlVnU05tX1UteWNjTE8tNHU3cXlleEJyQlA3UDFBTW1mOG1MSGx6SnMwWGnSAboBQVVfeXFMUGo0OXBsTjV3Nk1ZcS1WbE05aVBJcTRUU0pfcV9CRldzUU5CeUFNa1R5T2dhdnB2NHN1b096ZmJLRUN0Z25DQkg5Zkpyc2FULS14SlVWOG40R2RqMFhEMHBuRTlOck90MlhKT2g5OTA0WXRCVE9IaHNmTmVnOUtFdThlNlBkeTJtQkgyWXlfZVp5NU1TZDI5bVk1Ni1UTVNuTDZla0ZvYVBKbklNNkI3ZS04UXdTQzM1SERB?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-22T07:20:59Z",
-   "last": "2026-11-22T13:40:00Z",
-   "assets": "IHSG, rupiah, SBN",
+   "id": "siber-202611211630-de4f",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
+   "src": "International Business Times Australia",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-21T16:30:02Z",
+   "last": "2026-11-22T04:28:23Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Buruh Jatim Tolak UMP 2027, Ancam Demo Besar hingga Gugat ke PTUN",
-     "src": "Bisnis.com - Surabaya",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHk3TU00bF9vY2NEdkEtRHpnU0s4dXIxd3FINVhScDlrTHA0enZGeVc3OFFSSzVOY1kyc3dsZGJoN3R2TXk5Ykdsc1pDZ1gzZk94dVFJM082MzNJaGJULWlCbjFJd3JYc2c4UTJSRFZRNVBIQ3hrMDVJRjJFeW5tazZUQVdPb21RakltMVl0bXZ0YWpnV2I5Y3BXbEdMQzF6YVlqWHpwUzY2d0dHTmJpak1rZmxacFlDbkE?oc=5"
+     "t": "Could You Survive A Bank Outage? 10 Ways To Protect Your Money Before The Next One",
+     "src": "The Rickey Smiley Morning Show",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNekVaaDB5eFpOMWJCVEF6QjE1NWxWaWdhUHJXNnlmY0pZdUNFeTBZTW55amFoYkFLRmdUSXozT2ZSaGh3UGZuczV3YXRURXFJb25yMGNHMzM0UktpTGVYU0szcFVqYWxYR2VrZEtXVDEtbnBkRTQwX3VHTDhxZHo3SzhB?oc=5",
+     "t_id": "Bisakah Anda Selamat dari Pemadaman Bank? 10 Cara Melindungi Uang Anda Sebelum Uang Berikutnya"
+    },
+    {
+     "t": "Exactly What You Should Do NOW To Prepare For The Next Big Internet Outage",
+     "src": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kd0hQWW9wYkpaREhZR0hXc0EycFg0OEl4YklOZUZPMy1UTkJMY0Y5dWhyLTNSM1NsY1VOQ2xmTmx2QzFWNkJVS0Z3LWZjNEEzZVF2YVlPX0w4c0MxcjNhQy1aRjhiRlBhNjFQNWkyOUhzanBfaE5MOE15Qlk?oc=5",
+     "t_id": "Apa yang Harus Anda Lakukan SEKARANG Untuk Mempersiapkan Diri Menghadapi Gangguan Internet Besar Berikutnya"
     }
-   ]
+   ],
+   "title_id": "Ketika Cloud Turun: Bagaimana Bisnis Dapat Mempersiapkan Diri untuk Menghadapi Gangguan TI Besar Berikutnya Sebelum Terjadi"
   },
   {
    "id": "transportasi-202611212053-19c3",
@@ -295,34 +342,11 @@
     {
      "t": "Brussels Airport Expects Most Flights Canceled Monday, Nov. 23, in Strike",
      "src": "deeparrival.com",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2Q5ZlpUZ2J2bFJ6clpvTW8wdWVvZXQzZFZMeko0MnVHQk9sZ0d5cGtEaWRmQU91X2VTYkFrV1JNWU1rRFh4eDc3em95STlERUV3cThsMlc2aWFIU0pFdThhSGRtXzBhYWhtdU0zdjY0WDhDUG9NbURsc292a2FWZk52S3RablFPRXBJZ05yUTBvYWNOSlpuSE5rd0l5MlV1M3Vv?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611211630-de4f",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
-   "src": "International Business Times Australia",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-21T16:30:02Z",
-   "last": "2026-11-22T04:28:23Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Exactly What You Should Do NOW To Prepare For The Next Big Internet Outage",
-     "src": "AOL.com",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kd0hQWW9wYkpaREhZR0hXc0EycFg0OEl4YklOZUZPMy1UTkJMY0Y5dWhyLTNSM1NsY1VOQ2xmTmx2QzFWNkJVS0Z3LWZjNEEzZVF2YVlPX0w4c0MxcjNhQy1aRjhiRlBhNjFQNWkyOUhzanBfaE5MOE15Qlk?oc=5",
-     "t_id": "Apa yang Harus Anda Lakukan SEKARANG Untuk Mempersiapkan Diri Menghadapi Gangguan Internet Besar Berikutnya"
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2Q5ZlpUZ2J2bFJ6clpvTW8wdWVvZXQzZFZMeko0MnVHQk9sZ0d5cGtEaWRmQU91X2VTYkFrV1JNWU1rRFh4eDc3em95STlERUV3cThsMlc2aWFIU0pFdThhSGRtXzBhYWhtdU0zdjY0WDhDUG9NbURsc292a2FWZk52S3RablFPRXBJZ05yUTBvYWNOSlpuSE5rd0l5MlV1M3Vv?oc=5",
+     "t_id": "Bandara Brussel Diperkirakan Sebagian Besar Penerbangan Dibatalkan Senin, 23 November, di Mogok"
     }
    ],
-   "title_id": "Ketika Cloud Turun: Bagaimana Bisnis Dapat Mempersiapkan Diri untuk Menghadapi Gangguan TI Besar Berikutnya Sebelum Terjadi"
+   "title_id": "Penerbangan Brussels dibatalkan karena pemogokan hari Senin? Kereta api Belgia sedang berjalan; bagaimana menuju ke sana"
   }
  ],
  "errors": []
