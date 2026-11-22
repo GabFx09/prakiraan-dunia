@@ -975,6 +975,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 4.912
+    },
+    {
+      "t": "2026-11-22T15:59:00Z",
+      "risk": 89,
+      "btc": 60892.68,
+      "gold": 3515.4,
+      "brent": 89.95,
+      "spx": 6910.39,
+      "ihsg": 5146.326,
+      "usdidr": 18158.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1553,10 +1564,10 @@
     },
     {
       "c": "neg",
-      "d": "Naik 1,2%, dekat low 2 tahun",
+      "d": "Naik 1,3%, rebound dari ~$55 ribu",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$60.806"
+      "v": "$60.893"
     },
     {
       "c": "neg",
@@ -1574,10 +1585,10 @@
     },
     {
       "c": "neg",
-      "d": "Naik 0,7%, rekor terlemah",
+      "d": "Naik 0,1%, dekat rekor terlemah",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.260"
+      "v": "18.158"
     },
     {
       "c": "neu",
@@ -1590,7 +1601,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 89,
   "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin bertahan di sekitar ~$60.806.",
-  "updatedAt": "2026-11-22T12:58:00Z",
+  "updatedAt": "2026-11-22T15:59:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1926,8 +1937,8 @@
     "date": "2026-11-22",
     "points": [
       "Pasar masih tutup akhir pekan: Wall Street Jumat anjlok (S&P 500 -3,7% ke ~6.910, zona koreksi) dan Nvidia turun ~12% di tengah laporan pemeriksaan SEC (belum ada temuan pelanggaran).",
-      "Bitcoin ~$60.806 (dekat low 2 tahun); emas ~$3.515 (terendah >1 tahun); Rupiah dekat rekor terlemah ~Rp18.260 per dolar; IHSG 5.146 (tutup Jumat).",
-      "Geopolitik: Iran mengklaim menyerang radar AS di Bahrain, Houthi menembak ke Arab Saudi, dan serangan Rusia ke Ukraina berlanjut; Hormuz tetap sumber risiko utama.",
+      "Bitcoin ~$60.893 (sempat ~$55 ribu lalu rebound); emas ~$3.515 (terendah >1 tahun); Rupiah ~Rp18.158 per dolar, dekat rekor terlemah; IHSG 5.146 (tutup Jumat).",
+      "Geopolitik: serangan Iran di Selat Hormuz tercatat tertinggi sejak konflik dimulai; Iran mengklaim menyerang pangkalan AS di Bahrain dan serangan Rusia ke Ukraina berlanjut.",
       "Senin: pantau pembukaan IHSG dan Rupiah setelah aksi jual Wall Street dan kenaikan BI-Rate ke 6,00%; data PCE AS keluar Rabu (25/11).",
       "Akhir pekan: pasar Asia tertekan aksi jual saham AI (Korea Selatan ikut anjlok); BI menyiapkan intervensi dan diskon hedging untuk menopang Rupiah."
     ]
