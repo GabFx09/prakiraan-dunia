@@ -1,7 +1,16 @@
 {
- "updatedAt": "2026-11-22T01:53:09Z",
+ "updatedAt": "2026-11-22T02:07:47Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price on Nov 21, 2026 at 10pm EST Crypto Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSnRQb0lURUdsOEtXQXBYZ19VMkVZNlZHTDJRbFhwRXFueGpKdTNOR3NMVGxlZUtWb3dSLUh6Q1hldGtkWlItSUw5RVhzVmZhZW1aQlNsaVRsbWpkTEhXMHNqSVA0ZzFiWkJTTVpMTDFjUmQyTUlXZ1VyN1pSWFRDWGpzWjQycnRQZlBtWGQzT2hzeHg4M3V2TUVGTnhCZ2wybHN0dlZjdWdGcl9yNWNN?oc=5",
+   "time": "2026-11-22T02:04:26Z",
+   "t_id": "Harga BTC pada 21 November 2026 pukul 10 malam EST Pasar Prediksi Kripto"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -17,15 +26,6 @@
    "src": "Gaza Media",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zVG0tZWhRS2drZFdEeDFPRWxzalB6VE1BUE1Wbmwxd29mVDZQYzRkcnpja1hxSnJkdXpQU2NTZm5aSkFYbC1VU2ItREJzWndmSk5EV1ZmWEdGNmtvRmh6TTU1ZFUyVXVmN0w4Z1dNM0RrSDlROEwteTgwQk96dw?oc=5",
    "time": "2026-11-22T00:07:47Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price on Nov 21, 2026 at 8pm EST Crypto Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDk1U2poOEUxRXRwTXdfalZlVEt6WmZVNUNucFhld0lJLUhDUG5IWnV2Vl81U3VsMThpbm12eDZwNnpyZUxQam1mOEczMGV3Z0tfRlRja2plSUtGd2s3QmlzUmp4WkdseDhmT2pmbkFLNHZZTFpaRXhXTklpUmN4dXMyR2RYcHNHaW1kRFZkbUh0aE5QSzZBWnJyWmV6aUREUm9laV9xeHVocFZ4RXc?oc=5",
-   "time": "2026-11-22T00:03:15Z",
-   "t_id": "Harga BTC pada 21 November 2026 pukul 8 malam EST Pasar Prediksi Kripto"
   },
   {
    "topic": "saham-as",
@@ -141,6 +141,15 @@
    "t_id": "Bitcoin Memantul Dari Posisi Terendah Dua Tahun. Bisakah Crypto Menyelamatkan Saham pada hari Senin?"
   },
   {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2NoR0NPVmlhT0tLTnRIRHc2RTJsME1lYXF2WnJDeS1aeXFpU18waThxQ0ZBNlR0Z0ozRWtJSTcxWlJ4RFdNZXVGQTNEb3BLWm9fM0tvLUdvYUpwaVpOX2NoSlFHd3NBRGZjYW5yTG1NMmt5NUg5VkVyY2Q4R3JjT3VoMmlwX1EyN3AtTFFFZw?oc=5",
+   "time": "2026-11-21T20:42:00Z",
+   "t_id": "S&P 500 Kini Di Bawah Setiap Target Akhir Tahun Wall Street untuk tahun 2026"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Iran prepares oil tanker convoy to break US naval blockade, threatens Gulf facilities - report",
@@ -224,20 +233,20 @@
   {
    "topic": "kripto",
    "lang": "en",
+   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "src": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yOVM0ZTRBWjRWRW9KcFF1czB4bV9VbHNOYnZqSTRlXzk2SHBHTEo5RnIzR0xkNklES1Z6ZnZZSTRhM2tjZEFnQ3VEd1BCUDFPcFRBSlhB?oc=5",
+   "time": "2026-11-21T16:10:26Z",
+   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
    "t": "Bitcoin Price Today, November 21, 2026: BTC Rebounds Above $60,000 as Solana Leads Crypto Gains",
    "src": "Eurasia Business News",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX1piSlJxUXozY05JbW5HTklaY1gtN1lYcm16UjZPX2xKTVNiVlg4Yl93Q2tyNXcwMjQ4UVAzVjh5UjdHR2hpSDR4SUc1RG04SzI1WVVSNFRlcTN6cVYwSy1ka1FfYnN2ZXFqWlIxdXdGaTRpV0VOWWdqdkNyTlQ3elJ3azcxRHpDYWlpcGxQVE9wTjVPM183X250dnN4OHRKbUJVT0pmQkozYWZCSExmNzRmcDEtSjBBR0dhaWZucFFSYjhpTm9ERy03bWFITDQ?oc=5",
    "time": "2026-11-21T15:37:51Z",
    "t_id": "Harga Bitcoin Hari Ini, 21 November 2026: BTC Rebound Di Atas $60,000 karena Solana Memimpin Keuntungan Crypto"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall Street’s Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGcwWU5zUDZCMUNPeUcxdGVVWW9IUnE4T3BIbl80OVJMUXVRTXFZcEphQVE1QmRlMTdwZENsSVJwY05mM0doQ1YzOVB0ZDgwRXdpS0M0ZHliX2kwbnhOTXRfQ2RGSGg4VzlraHdTVXh3ai0wLXdzc3VZdTh4SVY4UVFRczFSLUNRX3U3d1NfSjByRGdmTUNN?oc=5",
-   "time": "2026-11-21T15:28:29Z",
-   "t_id": "Indeks Ketakutan Wall Street Baru Saja Mencapai 9,7. Sejarah Mengatakan S&P 500 Bisa Rally 10,5% dalam 3 Minggu"
   },
   {
    "topic": "saham-as",
@@ -328,15 +337,6 @@
    "time": "2026-11-21T10:34:57Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "src": "Yahoo Finance Australia",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vY3UycVZqZEJIblcwdHR4dFFWTkl0YTNSZUNDdXl5bk9zdjVockJaMVJUZlEzYmFDLWlTSUJyX0FHdmVnOFFodWhUZE9MMjRXYmlBVlJB?oc=5",
-   "time": "2026-11-21T10:30:31Z",
-   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears",
@@ -364,19 +364,26 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "Kantongi Peringkat idAAA, Saham BNI Tawarkan Valuasi Paling Atraktif di Tengah Tekanan IHSG",
+   "src": "Stabilitas.id",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX214TWs3QWpVVkpyNms5VXZ0RWlmQlI3RlJQSlBkcDZOMnFDeDJIdWx4cE9zSDBuWDdYeWJraU50SlZXeDFJWnU5bDh4a0pkRE05Q0Q5QllUa2FObUUyX1U2QUpzN2VweXVRU0Y4UGU5ZURnRmJQWGdpQVV5VUo4dmdscXZaVFR4Ty1NMlY5bTJDVTNsYXpvdWItYXJEck1RNW9EdmZST0dudGNGbHhpcDQwVTVJcDFI?oc=5",
+   "time": "2026-11-21T07:33:36Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "Video: Efek Kebijakan The Fed & BI Rate ke Sektor Perbankan - Tambang",
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUlzc3BtcjhOeDh6SE1hQWEzVXB5eUlJdi11Wi1Dc2JIYWZyVUNFNVl1Q0JnV0t0VzZhZW5iZ0JWMXhlQXcxR3p6QXRQRExxMlhwVy03UzFVVzlVdjdNakdHcmJ2UkFPTlhpRDJkZW5LdzJSc2JkcUI5akVNQVdfLVQ4TnQzUHVob19uZDJhRjZxRkMwSFRVcGtPRGx2d0FFRUVleVptUE5KaFEtcWEzY3lBUHI3VnFSWnl0LUVvY3NCM09TRHc?oc=5",
    "time": "2026-11-21T06:00:03Z"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia Shakeup Sends AI Stocks Tumbling",
-   "src": "Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHMwSl9JYy1Oa3VaNG0zOTNlUzZNbHUyR0REeFFZekFrQ1JwbHdPYnh5aWNxbkI5VjNCdlFHeGc0UlRZUW92Tk1nek5DamVBX1RhbU9teHJzVmlCOW9ScHAzb0tCOUQ5aHl6XzEzcHhaNXFHQ01WYVpCd2JyanRDS0tIaHNyYWkxcGc?oc=5",
-   "time": "2026-11-20T23:28:23Z",
-   "t_id": "Nvidia Shakeup Membuat Saham AI Jatuh"
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Terjun 3,71 Persen, Kapitalisasi Pasar Menguap Rp322 Triliun! Asing Terus Kabur dari Bursa",
+   "src": "Aktual.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXJoaDVTWDROdFMzcmNNMnU5LWNTZGhRdDFEdkNCSnlNQi1RVEhQMUtsQlZLQVkzLW9zMDNsUlg3Y1NzVE1ONGNuN1NEOTBmVWFxZW53M3prZUxjWEFRM2tZaG1KNDdMOUJvWlhETXREdDQ1SS1ma01kT0YtQlVaTGtETjBQQWJRNERjcHRRaEFxTWotYlZXTFlzNlJHajVzclNQNXZGdW9PY1RjQ0tmN1pB?oc=5",
+   "time": "2026-11-21T05:45:15Z"
   },
   {
    "topic": "bank-sentral",
@@ -395,15 +402,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHJUSEpNa0JZMndrUTZhcTdiQjkzTUU0bkJqSmF5ZGNJYV8xSGozbjJTQ3FwUEpNUUdvd0JjYWJHMy1vRGI5YlNrUmNlUF9vNVFiYkRyT3YwWmdhRWlFMVl5bGVPcUcyeTNVRDNENzJlTVYwT3hWSHV0UUwybF9wZEFmQjE4LWc4OVBUVUx3SzJEREJmUXNhTU5ETTQ1Rl92dmFtQS1B0gGrAUFVX3lxTE5WbHZmMnMxbl9oRlU5S0JsbFFBVF9RaldTc1RfSmk1dEZRNEw3SEJhZkw0S19HQ1dfNlNiZjZ6T05UWDNYZ1BRMkNQRWhxWGt6U2JnRkZ2emQ0NmFfdWN5ZFdQdHV2NXhncWpJc05qWU1kQnJYSVBOM2NTeGRfWkE2TFduRWpWX1FmQ0pOSU1OOWkyUXpiNFFWWERBVnNJakdHUzM2VjR0VEhYYw?oc=5",
    "time": "2026-11-20T22:32:00Z",
    "t_id": "Trump kembali mendesak Fed untuk menurunkan suku bunga"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia, Anthropic shares sink as AI stock selloff deepens",
-   "src": "Traders Union",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU16dVUyeEt6cWdJYzlRbEZQcC1HeU8xbXdLTU50OXdwRzJzUnFiS1lvWjNfME54SmlpUU1hN3VWdGNXUExyM0JLUGxKdlZvdDYyNlAtemtvcEJOYzIwVlBGYjByMzhjaFFhS1dGU1dLTHVIM1hzaFZLN2FNdFBnVzg2UGpwbjV4OF83QQ?oc=5",
-   "time": "2026-11-20T22:10:39Z",
-   "t_id": "Saham Nvidia dan Anthropic tenggelam karena aksi jual saham AI yang semakin dalam"
   },
   {
    "topic": "ai-teknologi",
@@ -469,15 +467,6 @@
    "t_id": "Dorongan dan Tarikan Kebijakan Perdagangan AS-Tiongkok"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
-   "time": "2026-11-20T18:23:00Z",
-   "t_id": "Gubernur Fed Lisa Cook Mengatakan Perbedaan Pendapatnya di Bulan Oktober Mencerminkan Urgensi Perang Inflasi"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970",
@@ -523,13 +512,21 @@
    "t_id": "Pasar Saham Memiliki Masalah yang Bahkan Anthropic Tidak Dapat Menyelesaikannya"
   },
   {
-   "topic": "kripto",
+   "topic": "bank-sentral",
    "lang": "en",
-   "t": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
+   "t": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
    "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmZadko1d2NDa3h3cVJUNGZTbHZjcUZGd1ZNYkxOWlBwLWd3Rk9KcHFuVWdVcUVWMUVNQW5iSklCZkEtaC13bGZWZlpKQl9JUmNzSlFBdjViaGZENDBGdWU2Z3FPQk5hZGRNUlVmckQ2aUtOWkIxQlhVa1AwVXFkd2JkYVVva2czQk1NUtIBkgFBVV95cUxPWHg0Ym8yVHNqV2lITW81aDhBSzZyN2M4ekMzelRIQ003YVVGZWkxRjhHMGl1TXBoVWEwUnF0aG9zZ0JFTnFjWWxjQWFnWVhiS2Y3R3ZfallHd2RwczdSQWFoaDYtdmxKSVRiX2ZNeHJqcGVTdldlcjQ3RHpqQWlOVFpjOHU3NHNCWjEzaGZmbFdkdw?oc=5",
-   "time": "2026-11-20T14:29:45Z",
-   "t_id": "Kasus regulasi Bitcoin telah selesai. Apa yang bisa mendorong keuntungan kripto ke depan"
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZGVYYlZTODBOZUpYNkFCQWloR3JjOGhRTWwxR3N5R3diQ3Y0Ql9lcm5HYS1jUl9ld2lKbF9PaC04bXZDN3EyWV9pOTdka0pZNVJJRWxsMDV3SVZBcWlOTEotc3Q1QmhkWXA4dHNjNTAzOXE2RUp1ODlSa0x1bGfSAYQBQVVfeXFMT0ptTzRIZzNaUW9ZSkY1akd4VWx6QjBXaE5jN3BTckZ6WElXWE1iQW9ieURtMmptenhNbm1BeFBDTE5FdVM4UkpDSVQ1NEJwRkE1Ym5fUnRiRHNmWUNPcUdzdC1XRlRVREg1N05jZ09GaDI5clM5UVlweGtabWFKYWNRNERH?oc=5",
+   "time": "2026-11-20T14:58:46Z",
+   "t_id": "Warsh ingin para pejabat Fed mengurangi pembicaraan. Sebaliknya, mereka lebih banyak berbicara"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Rebound ke 6.538, Sinyal Beli Mulai Muncul?",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Fa2k5ejlTWmdja2MzWkE3TkJZcHlER0pDbkQ2NzdEOXNCMUV4QjdXYV95WFZRcERrUHRjaW83TnVHQzdDazBmTTZFbEQ0TnRuY3RNQlZlUkU3eDRSaDJZSHpFVDRQdw?oc=5",
+   "time": "2026-11-20T14:39:45Z"
   }
  ],
  "errors": []
