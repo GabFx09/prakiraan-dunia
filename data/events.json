@@ -1,50 +1,7 @@
 {
- "updatedAt": "2026-11-22T19:22:24Z",
+ "updatedAt": "2026-11-22T19:37:02Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
-  {
-   "id": "perang-202611220153-bef0",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcndOTTl3bzZwNVZ4ZWstZXBZdnVkbUhPanQ5VlhUVEJaSTRVdnc1YzVUdEhEd2M0QXdFVGxzRFVLeThYd0FfaGEzMnQzbWIzemFuZzRqSGJCQ2M5LVBzV0dadVlwUXpXR1hfMTllR2NsWmNuRnk4RmRSVVlraElfS3NjNFlJa0FWTGNRRS1XQTFxM3JoTVRYZEluNkVJUXZSdk1TSmFfWUfSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
-   "sources": 16,
-   "recent6h": 1,
-   "score": 16.5,
-   "level": "besar",
-   "first": "2026-11-21T16:33:12Z",
-   "last": "2026-11-22T15:14:56Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "UPDATES: US War on Iran, Day 269 — Houthi Missile Attacks on Saudi Arabia",
-     "src": "EA WorldView",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
-     "t_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-269 — Serangan Rudal Houthi di Arab Saudi"
-    },
-    {
-     "t": "Iran's IRGC Claims Missile and Drone Attacks on US Bases in Bahrain",
-     "src": "Ratopati",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjlLRHNCUWlwRUtma3Z6aG5LbU5Sbkl2bG8xSmZYaTd2ZkZQZFUyRHdnZTZfaC1HTnI1THhWVXIwd044WUdCMU5yWmMzVTBQbEc3UzVXNFlCejVqcDBZaVdBOENFZFBrRTlka19wUk5PNUlYM1U5aWx0b2xQd0MxdlFyR0VJVl9qa0h3SU92bzJVbGsyY1NQeVhTZVhiY2hZcWp6OTJxbXg5b21aMVhZN1hDVzg?oc=5",
-     "t_id": "IRGC Iran Mengklaim Serangan Rudal dan Drone di Pangkalan AS di Bahrain"
-    },
-    {
-     "t": "Iran Claims Missile, Drone Strikes on US Radars in Bahrain",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUlyWDNQSmtnaHZiR3U3ZzFxcjM5OXlIalAyOFVUSHFlM3hacFE0XzlEbmhuYWd5S09ZcFZlX1dGckpfVFlLcHg0eEdXVTJHMXgtRHZBcU5fMHlnQTJxNFpCTTFyX202cGUzV0ZLOEtMMDl5ajNwLVplNjl3bGVSbnJUdVhMa0V2NmUwNTRfNA?oc=5",
-     "t_id": "Iran Klaim Rudal dan Drone Menyerang Radar AS di Bahrain"
-    },
-    {
-     "t": "Iran Attacks US Military Bases in Bahrain, Claims Two Patriot Radars Hit by Missiles and Drones",
-     "src": "Aktualita.co",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0Q1JzWjNGcXE3RnZSQ080UUt3MTJ3ZWF0MTMzVU5UbS1iUHNsdDlZTldnenk2T214dWI1dzVsdjhxMW91R3BjdWZ6cmxMMXFWMy1XcWJYc3JSTXAxRVpyVWJ2enpUalN6elBZcjZZUm1QZWxZNnc?oc=5",
-     "t_id": "Iran Menyerang Pangkalan Militer AS di Bahrain, Klaim Dua Radar Patriot Terkena Rudal dan Drone"
-    }
-   ],
-   "title_id": "Arab Saudi mencegat drone dan rudal saat Houthi melaporkan serangan di Sanaa"
-  },
   {
    "id": "perang-202611211746-6444",
    "cat": "perang",
@@ -53,14 +10,20 @@
    "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
-   "sources": 10,
-   "recent6h": 2,
-   "score": 11.0,
+   "sources": 15,
+   "recent6h": 3,
+   "score": 16.5,
    "level": "besar",
    "first": "2026-11-21T17:46:01Z",
-   "last": "2026-11-22T15:56:55Z",
+   "last": "2026-11-22T17:15:08Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "DW News. . Rescuers in Ukraine are searching for people trapped under the rubble of an apartment building in the Kyiv region after a Russian drone attack. #DWNews",
+     "src": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVC1IdzF4RXJHa1NhcnJqSnF2NG5IZndoSE5CQW01MXpsQVQtTVlQMFVoUUFzeExlRmZRc0l0c1FKUDNwTTFEbXpvU1BDNWN4d1I0RV9WWVhuanM4QU8xd1lmQ1ByV0ItTUdDa2kzbzZ4Tnd4MzhsNVlGdVdvbzMwbHMtMlU3SnJYZHlCQm0wY3NBeE1ZQnBHSWF5M1JvQlJLNWNvWFhWOFF1OW5KZ29OdjNpeWF5ZS1qSWlDalV6UGo2MERLV0p4UUdmR3FmMzZiN01MQ3p3d3BfS3g1bDZPWXhR?oc=5",
+     "t_id": "Berita DW. . Tim penyelamat di Ukraina sedang mencari orang-orang yang terperangkap di bawah reruntuhan gedung apartemen di wilayah Kyiv setelah serangan pesawat tak berawak Rusia. #DWBerita"
+    },
     {
      "t": "Russian missile, drone barrage kills 2 in Lviv; dashcam captures projectile strike",
      "src": "prameyanews.com",
@@ -74,16 +37,10 @@
      "t_id": "Buntut dari serangan drone dan rudal Rusia di Dymer"
     },
     {
-     "t": "Aftermath of Russian drone and missile attacks in Dymer",
-     "src": "The Lufkin Daily News",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ08tWlpVX3BaSlVVNlNrczBWdF9waEdjVDBUSDY5SFVUTGkyaUlKX2NiOHNNNTVwRVF6WG5kT2NWMTRBVmFOdGlBNkdoQ0g3elRGcEtJVUxLMlBzaWJEWlpVNkFvWUEwQnpkUlhlRkhFY2lmTmhybnNOV19IanNaM0NlVUl4Wm9PNEM1cmRYaXVEb1laU2VYdlJLYWdiRVZObm4xMXVSVHZxOUF6RmVWZ1JEX25NTWhjcGJPRF84WERreEllRU9RRHZWU0x3Rmx4a0RUaUV4QTFLN0doYWNEdEgwcFNVbkhS?oc=5",
-     "t_id": "Buntut dari serangan drone dan rudal Rusia di Dymer"
-    },
-    {
-     "t": "US Military Turns to Reinforced Concrete Bunkers to Protect Troops From Missile and Drone Attacks",
-     "src": "Tekedia",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQV9JbTJEbUhVX0o4bnVzaTNzTnlaYU1zbTZsLU91dTQ4TERFbkthOGtUZjZpRHMzd0tudHYyT3U1Tko1RTlPSUF4YWVaMXVrVEdadXBwcUJMdlJocUdWWXZPREpLOFQ5bXRqSVJkSVBLbElhSm96M2JNNkREMU5sNXJnOFpUb2lrUlAwM3pGRzZpWEF1UFN3TUFPbXFiQndnZy1Dc183YXNGWmQ3UVJtbVd5ZmJGMVZaVjJzblF5cw?oc=5",
-     "t_id": "Militer AS Beralih ke Bunker Beton Bertulang untuk Melindungi Pasukan Dari Serangan Rudal dan Drone"
+     "t": "Iran's IRGC Claims Missile and Drone Attacks on US Bases in Bahrain",
+     "src": "Ratopati",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjlLRHNCUWlwRUtma3Z6aG5LbU5Sbkl2bG8xSmZYaTd2ZkZQZFUyRHdnZTZfaC1HTnI1THhWVXIwd044WUdCMU5yWmMzVTBQbEc3UzVXNFlCejVqcDBZaVdBOENFZFBrRTlka19wUk5PNUlYM1U5aWx0b2xQd0MxdlFyR0VJVl9qa0h3SU92bzJVbGsyY1NQeVhTZVhiY2hZcWp6OTJxbXg5b21aMVhZN1hDVzg?oc=5",
+     "t_id": "IRGC Iran Mengklaim Serangan Rudal dan Drone di Pangkalan AS di Bahrain"
     }
    ],
    "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
@@ -132,47 +89,41 @@
    "title_id": "Mongolia menuju pemilihan presiden cepat pertama setelah Khurelsukh mengundurkan diri karena tuduhan korupsi"
   },
   {
-   "id": "perang-202611220254-5022",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "transportasi-202611221057-706a",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Iran war live: Bahrain reports damage to civilian industrial facility following attack",
-   "src": "Arabian Business",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-   "sources": 6,
-   "recent6h": 0,
-   "score": 6.0,
-   "level": "besar",
-   "first": "2026-11-22T01:25:17Z",
-   "last": "2026-11-22T09:00:05Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "title": "Anatomy of the FAA Ground Stop: One Backbone, One Bad Change",
+   "src": "BankInfoSecurity",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUhfbFR4N3RVUXg2d2VHLXo5RUtFS3NQRXJmeU9PLUhVV0h3Znluemg3MFIzdllPS2g0NXQ5WTVqUGwxRGVEaE1NeEJxXzBaa0RLQUZYcG1SRXc0UGh4OUNGNW40REh6bVBnTGdqNGxTWFctSG9vQ2JTYWJjcUoxUFM0dFpkV1M0ZUZ0RUdZVkx6bF9JTnBv?oc=5",
+   "sources": 4,
+   "recent6h": 3,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-22T10:57:19Z",
+   "last": "2026-11-22T15:43:12Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "US-Israel-Iran War Latest Live Updates: Iranian Attacks Target US Bases In Bahrain As Civilian Industrial Facility Suffers Damage, Strait Of Hormuz Reports Fresh Tanker Incidents",
-     "src": "The Sunday Guardian",
-     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbDlUWF9XVmg2dFdNbnotZW5tbl9OdFNRVjJCS1JYSlFZbXYzTHlLLVhGSVdFYU1kUmxZOUs1Ym5NUVg1eEdyR1NXYzYzX0laOXF3a2swQWNfa3J4SERNcVh0Wld5RkN1N3ZFQ1plbTVmZFdtN0ZVN1Zrdms5elBtemFCQlVSR2lPbTRIb1hGd2JXMVdMbzU5Q2RpaU0tWXUyblZyY0VZbGdFRzlyR3h6X29zS0N0TEVZYkxvMHp5TUdIaHFLWnVkRVJzSWloZVVEc2FaTFZadHBua0JZcGhYejVBOUJ5bzlKUEh5VDlHWURVV0xLb2tuMXFvRFJMRkp6X3hnN2xqd1RXS2tQUDZXQUhCSmNXRnQ2S21qeE51WDZteHJyS21MVVZFUmRDenM1eVFqQjQtbXpfYzBfNXIwMk5lSdIByAJBVV95cUxPVV9IeUJpd1pGYVJSS1JnRlRSc3JjbXczY0JHT1hJZTRGUXJ2NU10R3V5NWlEUlEtOXJXQVQycm80c1ZJc2VPU1RDM3pnemdwNk9Ob0IzOVdoa2N2UWNKVS1MQnlxd0ZybFdqcE9EMnZpNVVzQkVhUHVBTEVRRzlNd3h6VGEzbkZmVEphTzFVX1Z6VkZLbjVQTVY5ZWZmWF9hQ2hUV2xiOEVkT3RHdW1XQWk5cGtrRWpObTQtQVRTOFlvS2RJM1FtTlFESzl3LUNXZ0VCTlBqUkJrYTE0ZnBPUVlKdERnTTkxOEFfS3cwZmtMdHdKc19mbzRBanJlMVB4ZzhtMk8tR2oyZFdoS1VLalZQbXRPV21KTUlILUFDV1BlYTBFUjRIVlFjbTdfVUxmcGFkYUJiY0d2Sm5VRUhGX1R0SEZieF9l?oc=5",
-     "t_id": "Pembaruan Langsung Terkini Perang AS-Israel-Iran: Serangan Iran Menargetkan Pangkalan AS di Bahrain Saat Fasilitas Industri Sipil Mengalami Kerusakan, Selat Hormuz Laporkan Insiden Kapal Tanker Baru"
+     "t": "3,500 Delta Air Lines flights delayed at multiple airports due to yet another outage",
+     "src": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4waS05RnpyQ3U4YjNpeTlhS2owcHhhWU44M25haUo3Q0ZhWnJBOWlWN1Q4cE9CV2hTVkhHQlBnSklDRldtY3BFbUNXdEZjQlJRNWotY3U3a181SXlPSFNXckJPbXlGU0Fsdkg5OXBVSGhKUzhwUnc?oc=5",
+     "t_id": "3.500 penerbangan Delta Air Lines tertunda di beberapa bandara karena pemadaman lagi"
     },
     {
-     "t": "Bahrain Attacked Again As Iranian Missile-Drone Attack Targets US Military Positions, Civilian Industrial Facility Hit",
-     "src": "The Daily Jagran",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbUt6d1hZZTZwakNlQ0Qtc25wRnJOdVFwa1VKay1OREF3U1VFQlBqTjktQUFIcWw2OThqWTQ2NFBjb1N5Q2MwUmJjVTRZOHgxaWpuSE1CQTEzUHJLcGRfZGkyOWtfRWxtYl9tY0l1SlczZjZEMG45ZWwxUzVZNDJ3UDFrOHUwRTlPMWF6LVBRUFJZbjZKaWZmelEzZUFmY0Y3Q205bERjaHBjbkJIekJZcGMzQWUxSThscHlRVGZpY3FDc29Vck1weTlMV0ZXTWdNN2Z1Nkg5blU3ZVRmdnk0WmhQNU9jTGU5UF9RUkZIZ0RPWFRpLXBFN9IB_wFBVV95cUxQOTBMTGtrZktNVnd6TXpHeWp6NG1DR2h0Rzl6NWVWZjVWQTkwLWJOTlQ5M3MtR18zNXpveFRHTkNyNDdLSW5ManozdGpvTjlfdmpONEgzTndrdFJwN2ZhektQTFJqQnB2bG1JUE0xWTQwMzlaNHp0SFJxdDZENWg2TXJKSlRWaEtxYzlJSjdmTVhOZWllNjZPdVVEWEIzWG5sYU9zZkl4Z3l4YVRIeFNqYTIzRUozcVFveEhla0V1ZkRaWndfMHBZZVNtNmt0eWdiX3RzVTZQZlljT1NxczQ3eWduVEl2a1lWams2RjI5akJuQ3JuZkVydG9IUG80UEk?oc=5",
-     "t_id": "Bahrain Menyerang Lagi Saat Serangan Rudal-Drone Iran Menargetkan Posisi Militer AS, Fasilitas Industri Sipil Terkena"
+     "t": "Ground stop in effect at Hartsfield-Jackson for all Delta Air Lines flights, FAA reports",
+     "src": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0c2T2lsTmpUazlZMUlDMEZDV1JzT0MyMnU0Nl84ZS1aNjJQd2RwUnQzS2NkSzVEcUNRaUhpTlRUbE42TldNSER4ZzlBNlVTTFpKS3JSRmxBS2hlVnFwSXVwa25iQUN1d1pLdzlQYUVrWnJoaHI3cGZvelQyR1AxVVVPY0IzOXo2N3EtN1BaT1VRNml6ckE?oc=5",
+     "t_id": "Ground stop berlaku di Hartsfield-Jackson untuk semua penerbangan Delta Air Lines, FAA melaporkan"
     },
     {
-     "t": "Iran's Revolutionary Guard launched missile-and-drone attack on US Bahrain bases",
-     "src": "NewsBytes",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWZ4SER5Q0VsRS1wOG1laVFmNDFpVDFLSVd6MUMwZG0xZ3JCbUZGcTRTa0EwWktIR3k2aEVUY3RMSnNBazBRcU5SUFBhRDRkb0NzdUpwT1JxdktyRzlmdGFFeG9BbkxFU3FkdW9lclNkdGo2Ni1LTXFwaGNsdlZNa3RMV3o2TlRjaElOcW0yMXhHU1JKWTNBN2x2dU0wQ0wyRGJ6MWpsaVpSajBxRmlBazBLaXJaSURNTjAyelpXYXdJdw?oc=5",
-     "t_id": "Garda Revolusi Iran melancarkan serangan rudal dan drone ke pangkalan AS di Bahrain"
-    },
-    {
-     "t": "Iran Attacks US Bases In Bahrain With Missiles, Drones; Manama Reports Strike On Civilian Facility",
-     "src": "News18",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTDhWMS1ZdXVXdWMtcm84ZXU5LV9Bd0pVSVVXMDJLV3NCYXFrdjVsNHBlWGFLUnpRUEpldTNCWXhKMGR0V1RRWS05R0hqY2dTR0xHSHA0SFZLb21SUjdMdU41YnpRRnh5Qkc0SGkxcS1TblZHelNmTzJ4NW4tWjlzazloS0g3emlRaDRuZVlYQkhYOFdiVHh1WGlDUjdRR0FhMVZ3Nm84SW9qdE55WWfSAa4BQVVfeXFMTkw4VjEtWXV1V3VjLXJvOGV1OS1fQXdKVUlVVzAyS1dzQmFxa3Y1bDRwZVhhS1J6UVBKZXUzQll4SjBkdFdUUVktOUdIamNnU0dMR0hwNEhWS29tUlI3THVONWJ6UUZ4eUJHNEhpMXEtU25WR3pTZk8yeDVuLVo5c2s5aEtIN3ppUWg0bmVZWEJIWDhXYlR4dVhpQ1I3UUdBYTFWdzZvOElvanROeVln?oc=5",
-     "t_id": "Iran Menyerang Pangkalan AS di Bahrain dengan Rudal dan Drone; Laporan Manama Menyerang Fasilitas Sipil"
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
     }
    ],
-   "title_id": "Perang Iran langsung: Bahrain melaporkan kerusakan pada fasilitas industri sipil setelah serangan"
+   "title_id": "Anatomi Ground Stop FAA: Satu Tulang Punggung, Satu Perubahan Buruk"
   },
   {
    "id": "indonesia-202611211801-0ee6",
@@ -206,6 +157,37 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm5LVmpKZzZDQU1aeHdIaWVvQUk1aHdwV25ZNjMwZktuZG5yUzBFSThoZ2daNUt5Ml8zUGpLSHBMNXREblZmRVpBYjB3Q3JTN0F3bHBoSjVISVJlUUNHYUZiYm91Vi11RFRWWjBEbDhjT0dhdWthNDdGNGl5czJPaGhld3lrc2NuRkdVQmlLRDdEajUzZUVyRmljVjg5cWR0UlE?oc=5"
     }
    ]
+  },
+  {
+   "id": "transportasi-202611211945-2d64",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Delta Flight Delays Hit Hundreds After System Outage",
+   "src": "Financial-News.co.uk",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0dJOWZQRVItdzl3Q05GYjNWRVBSNnBSV216ckZid1VnXzJhTkh0UzFSYXNydWlpVUFwcFo3TjRBcnk1SjB6UUZlaFk3SjZzYWpnNnFFRzM2RVRHVWVNSVU1VUZlN3VpZGtZUWlwczRVVlcyNUFLRDdoTE9JTWduay13OGpickNTUXNKNlV0cw?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-21T19:45:05Z",
+   "last": "2026-11-22T18:35:54Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Delta flight delays: What caused 1,000+ delays after Atlanta ground stop lifted? Why were 30% of Delta fli",
+     "src": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQdlpVVWhjRk02VTJvWVpDaGtWc2taZThjTTBQd21OM2hiTldmVXY3LWV4WlRtVHB2dFVfTVFVaDNTTXE0N04yanBzSzRzU1VXeDNXMk03Ukp5X1ZCa2ZtUExHa1lVeDZNYmYzR1RtbG5QbFZNc0txVUN1SERYWEd3TmV6bVMwcTNRVl9zS1ViQmp1b1YtQjNRQWtmbVpNOTBPMXFQc2Z4RllRY01ld1Bkc0ZVMG1Jd3hIMW5FZ0tKenZ0MUNiamVoZ0I3MzBjNjBJLTJyRTEtLUFOYlZDaGU3N185d2VjamtMdHpWSUR4WVdDaXB0ZlBSelViQllqd2MtbGU4a3RZanFmMGo4cEhybkZQRnFVcWREb0VKeXllQTlHTGZ2M18tV3NqRmVWWjVSSVAwa2IxRW9TVjh5b2RzSEt3OWxoVWotVnfSAcoCQVVfeXFMUHZaVVVoY0ZNNlUyb1laQ2hrVnNrWmU4Y00wUHdtTjNoYk5XZlV2Ny1leFpUbVRwdnRVX01RVWgzU01xNDdOMmpwc0s0c1NVV3gzVzJNN1JKeV9WQmtmbVBMR2tZVXg2TWJmM0dUbWxuUGxWTXNLcVVDdUhEWFhHd05lem1TMHEzUVZfc0tVYkJqdW9WLUIzUUFrZm1aTTkwTzFxUHNmeEZZUWNNZXdQZHNGVTBtSXd4SDFuRWdLSnp2dDFDYmplaGdCNzMwYzYwSS0yckUxLS1BTmJWQ2hlNzdfOXdlY2prTHR6VklEeFlXQ2lwdGZQUnpVYkJZandjLWxlOGt0WWpxZjBqOHBIcm5GUEZxVXFkRG9FSnl5ZUE5R0xmdjNfLVdzakZlVlo1UklQMGtiMUVvU1Y4eW9kc0hLdzlsaFVqLVZ3?oc=5",
+     "t_id": "Penundaan penerbangan Delta: Apa yang menyebabkan 1.000+ penundaan setelah ground stop di Atlanta dicabut? Mengapa 30% Delta terbang"
+    },
+    {
+     "t": "Asian Hubs See Elevated Flight Disruption After US Ground Stop",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjdxTTQzSVlDUldEWmRRcjY2cTAxRFU3WVQ3TjJ6TzU5RmgwV1Z2WjRhOExZV3BnNGJNU1BGY2cwQXZwcEtmQklvaWNfQWhTQl96TGZoRWlCY0JUSDNtWVN4RFByR3JXYmRNSnVmNHJ4eDVmMXMwT09LUmMzblM2Um5hdDMxZE53U3B3N0tWWURmRnQtNUE?oc=5",
+     "t_id": "Hub di Asia Melihat Peningkatan Gangguan Penerbangan Setelah Ground Stop di AS"
+    }
+   ],
+   "title_id": "Penundaan Penerbangan Delta Mencapai Ratusan Setelah Sistem Padam"
   },
   {
    "id": "indonesia-202611210335-9eba",
@@ -246,85 +228,72 @@
    ]
   },
   {
-   "id": "siber-202611221524-7334",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Equipment outage in Atlanta causes over 1,300 Delta flight delays",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWRfMUlqa2NON3pHbWVBT3NuRDBNajZQYklJRlBlNTdrT2J6cGpxWU5FODBmU29sSnJ5QlhpaVRJY3dpSFN6dEVCcVlVWTVkcWVfSU5XS1l2MWNfUXl0ckZObS11ckVhV0Rsb0ZGcXBHN0NmZ2MxbUxRNmlZRHNfbW9XYkJUZFpmaXMxbDBadWRFRnJHajNCc2hSSDZkaVnSAaQBQVVfeXFMTXVUSGQ5N2Q1MWRVdGRyLTdITHVfWlNtdzhWSWwzZ1dYVzJiTnJuRzlTOEY4MDNTM2p5MUlMcGZvZnVTU3FOV0RMTEpDcUFqbnVrbms5UXlwb2IzUEE4SXZJU0RQZEtjYUtnbGRUZjBjUkF5aS1yUXRBenZsR215WEJZWWZHRUI3NWdXZ1RqYmxEZEhGS3ZaZHQtTGdZUUtjSDdNczM?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-22T15:24:58Z",
-   "last": "2026-11-22T19:07:48Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Delta Air Lines Facing Widespread Delays After System-Wide Computer Outage",
-     "src": "PYOK",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3VleTl5VDJZOFZiQnVOZEFPYU1yNnVaTzJpaFE2U0xHV2pQcEFnQkVTT2xRUEg1NE1TUlpTWEtZWS1URmZtQ0tXejluLVdqVlNCcnB3bkJIMnhMSTQ5b0poc3JneWF4QVZVaDFmaVlmSG9YM19sRElXNkZjbzVpbHFqdEpHYWNTTUJlai05WnRRQVRXQTB5ci1EYjNLYWcyeVhMd09zd1pPd054MDVnRmFKWUlPTEpOb3Z3VlZB?oc=5",
-     "t_id": "Delta Air Lines Menghadapi Penundaan yang Meluas Setelah Pemadaman Komputer di Seluruh Sistem"
-    }
-   ],
-   "title_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.300 penundaan penerbangan Delta"
-  },
-  {
-   "id": "perang-202611221649-ea98",
+   "id": "perang-202611212019-4aa9",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Airstrikes, Houthi Drone Attack Kill 5, Injure 18 Across Yemen: Sources",
-   "src": "Ommcom News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkJEVHQ0OXkyQmVWZmVOWEoxNzU0bXVHYm9DdW1DeWx5dll6UU5lTWJJOWJibzhXaWlXbkZOcldFNE9WajZLeEpmNWhBUmxrOTIxelFDOWJNVjBVcGlvZzVnSkg3NlY3b1RHVlBCWmJlSWFOOER6dDV5MnRYS2lGS0ZoZjdaNnhsb3hvSE1BVFdjM2xsSGswcmQxY002X0o5dy1LQ1NR?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-22T16:49:47Z",
-   "last": "2026-11-22T16:56:16Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Airstrikes, Houthi drone attack kill 5, injure 18 across Yemen: sources",
-     "src": "Social News XYZ",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1E2eTRmWnZXZFRtR1J4N00tamlfU0c0ZU02bXpuSF9wWnRKOTBuUFNwNzJmSUpxdkRZanFUOWhVN2JnZ253WmdlRWpHbnY1WHV0eldjSi1qQWg0VWVVRHI1ZURTZE5reEg2QWgtS0EwSV85ZkdlSnloSkVIYVhtNzJzX095OU5rT2NUS2xVRmdDb0FKS3ZCbktZRXlEaTNDeVlYZUdrektDQ2_SAasBQVVfeXFMTjdRNnk0Zlp2V2RUbUdSeDdNLWppX1NHNGVNNm16bkhfcFp0SjkwblBTcDcyZklKcXZEWWpxVDloVTdiZ2dud1pnZUVqR252NVh1dHpXY0otakFoNFVlVURyNWVEU2ROa3hINkFoLUtBMElfOWZHZUp5aEpFSGFYbTcyc19PeTlOa09jVEtsVUZnQ29BSkt2Qm5LWUV5RGkzQ3lZWGVHa3pLQ0Nv?oc=5",
-     "t_id": "Serangan udara, serangan pesawat tak berawak Houthi membunuh 5 orang, melukai 18 orang di seluruh Yaman: sumber"
-    }
-   ],
-   "title_id": "Serangan Udara, Serangan Drone Houthi Tewaskan 5 Orang, Luka-luka 18 Di Seluruh Yaman: Sumber"
-  },
-  {
-   "id": "perang-202611220229-ce24",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Saudi Airstrikes Hit Yemen's Hodeidah Amid Escalating Cross-Border Attacks",
-   "src": "Lokmat Times",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVreEJOSHlsX2RvOG1kWHdXc2lmMmJjcVZwdkpiQ1RFWTNVd08zdjJZUFpwNXZDVmFSeEtaYnNIRlRfdnhpT0FaaGJTNFdGOFV6cVdvVEMyQ3NSazRqTFVrUUlMVVM3dV8zLUk1Q2FTX2xidGF1dHZGN1hkQ0xrVFZXVWZvVnNvSVVoZlpzaWhNQ21GMGREeHM4LWRsRGhMeWdsT19ldDNBTjdPUlRScnBfQ2FtYUp2VE9FbnhlUVBxUdIByAFBVV95cUxNMzlEME1iaFZIdjlRM1pfRmgzeXhoZEhwQkFlUDJBRnZLNWluNWVMQmwzbE81SFBoR2plSmM0MWNISUNKT3kyclZCRk1TNUdzNVJ0bXh5elZ5Rlh5UWxZc0VPeXdUVElUSHlxLW5XWkxWLXNSaGF6RHpXOU1XTS1NeUNWcktuUEliQTFld2NXdmRtOW9Kd2UzcVpUWjJpTWh6b0dadVpLb1p3OGlJZHlGYXY4anBFeWZ4dE0xYlNXbU5GUy03TjlKaw?oc=5",
-   "sources": 3,
+   "title": "Two killed, 10 injured as Russian missile strikes building in Ukraine’s Lviv",
+   "src": "ANI News",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGJydTlSVm9TTXdQa3ItcW9Bd3owOG9ENkFPMmMxSEtBekFTSjZDWlFHUERzeEtadFRWa2RQdnREcDZnYkxzV0pBRGxSWlQ0S1hhN2NJMVJQa016NUMxQkJ4dzhodGlHZmh3TUFVVm81Y3owTVNNenlDcERjejhUUVBiYnJhUFVJUE9XOHhtbTlveERTaG42N0ptbUZ0T0Z2a1lHZ0xmSm91X0k0MmNqSURKcWc5azl3RTM2aGlwTDdKcHJZMXlzdDBQYVZ3UQ?oc=5",
+   "sources": 4,
    "recent6h": 0,
-   "score": 3.0,
+   "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-22T02:29:12Z",
-   "last": "2026-11-22T03:03:27Z",
+   "first": "2026-11-21T20:19:43Z",
+   "last": "2026-11-22T06:07:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Saudi airstrikes hit Yemen’s Hodeidah amid escalating cross-border attacks",
-     "src": "Telangana Today",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUJET3BreUxjMXNBZ1BOWkxiODJYUndKS1YxMzZha256LUJ3Q1k1NDNUWFRUemtKd1pIVmpTOGN0Q1czc21iV081RnhLSGFjNGhZX0tmaWNHN2tCd0RITjVvVFY0Rjc4ZldoLU50SlZkejNUdnVBbm1PVzh1Ynh6Q3p5bElYS2lsdlk4ejM2aG1LeEJ0Ymlydm1VYXhUaWwxaEE?oc=5",
-     "t_id": "Serangan udara Saudi menghantam Hodeidah Yaman di tengah meningkatnya serangan lintas batas"
+     "t": "Russian Missile Attack on Zelensky’s Hometown in Central Ukraine Kills Two, Wounds Dozens",
+     "src": "Breitbart News",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxIQkNZT3NodnN2Z2FFNVczeTlOMTlJR0xBU1A5WTdVMzhqNkVGd1V4OWJWUnVHZXlRb2xkMS1STkpkUFVTUzJDMFc3RmpMMzZLWTE5RTRiSjBiN04wVVJVYVRSY3pIOGxwUkhJM21JQ0ZDODJhQzlkYU5uSnU3bzNob1J4anktb0pNcmgzRW83aVR6VURlbHRmWWVsdVJINHl2c2k1c0FKaHJpVWdNRGFybEVWNExlTks2eW1IYWxNVDdCYXVvYlc1THg?oc=5",
+     "t_id": "Serangan Rudal Rusia terhadap Kampung Halaman Zelensky di Ukraina Tengah Tewaskan Dua Orang, Lukai Puluhan Orang"
     },
     {
-     "t": "Saudi airstrikes hit Yemen’s Hodeidah amid escalating cross-border attacks",
-     "src": "Social News XYZ",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXY2N3dpdVdhU1ZwY1BqX1dYUDljckpYT1QxZFlpT3lQaDYxSnRUVWVvX3pPNDhyeHJaVFRhWVBzdVRUdGZ4WUxISk5Bd0ZzNWtCaWRFbEhLSDJWeVlWampKTWpWdzBIMnZTYmN0Z00yTXlnN1hLUWNrTHhaTlFNNUxEX19POHVkaFNMeDZYSnhkT1dFQTY3Q3Z3QlkyVHNaQUNuUmtIZmdPUExJdm04ancxUXlKSknSAbcBQVVfeXFMUEF2Njd3aXVXYVNWcGNQal9XWFA5Y3JKWE9UMWRZaU95UGg2MUp0VFVlb196TzQ4cnhyWlRUYVlQc3VUVHRmeFlMSEpOQXdGczVrQmlkRWxIS0gyVnlZVmpqSk1qVncwSDJ2U2JjdGdNMk15ZzdYS1Fja0x4Wk5RTTVMRF9fTzh1ZGhTTHg2WEp4ZE9XRUE2N0N2d0JZMlRzWkFDblJrSGZnT1BMSXZtOGp3MVF5SkpJ?oc=5",
-     "t_id": "Serangan udara Saudi menghantam Hodeidah Yaman di tengah meningkatnya serangan lintas batas"
+     "t": "Russian cargo ship bursts into flames in Baltic Sea — as ballistic missile attack on Zelensky’s hometown kills 2, wounds 60",
+     "src": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5",
+     "t_id": "Kapal kargo Rusia terbakar di Laut Baltik — serangan rudal balistik di kampung halaman Zelensky menewaskan 2 orang, melukai 60 orang"
+    },
+    {
+     "t": "Young boy one of two killed in ballistic missile attack on Zelensky’s home city",
+     "src": "Alloa Advertiser",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXo1REk1OFNWR2xRTWQwUTRRdmxsc0tLWkJEbXpyQ2lWS1dSSGxsSTg0QmtxU21zMlhRcFoyZzJfdkYxNGtHZ0V4X1Vma2ZoTk91TDdyQkg0OHFaOWs5d3hQRkNteGgxMDhjdFVKWEY0VXowUzYtOWF3OUtuQVhWNHd0T1RVWFRoc3NmSFpsVHJva3R4dFkxYlFKRnc4RldKRUhjU0wyU1RUYVk2bzl1ZlI2WFI1eE5Gbm04LU5jYlBlaWM?oc=5",
+     "t_id": "Bocah lelaki satu dari dua orang yang tewas dalam serangan rudal balistik di kota asal Zelensky"
     }
    ],
-   "title_id": "Serangan Udara Saudi Menghantam Hodeidah Yaman Di Tengah Meningkatnya Serangan Lintas Batas"
+   "title_id": "Dua tewas, 10 luka-luka akibat serangan rudal Rusia di Lviv, Ukraina"
+  },
+  {
+   "id": "perang-202611220153-bef0",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcndOTTl3bzZwNVZ4ZWstZXBZdnVkbUhPanQ5VlhUVEJaSTRVdnc1YzVUdEhEd2M0QXdFVGxzRFVLeThYd0FfaGEzMnQzbWIzemFuZzRqSGJCQ2M5LVBzV0dadVlwUXpXR1hfMTllR2NsWmNuRnk4RmRSVVlraElfS3NjNFlJa0FWTGNRRS1XQTFxM3JoTVRYZEluNkVJUXZSdk1TSmFfWUfSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-21T16:33:12Z",
+   "last": "2026-11-22T15:14:56Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "UPDATES: US War on Iran, Day 269 — Houthi Missile Attacks on Saudi Arabia",
+     "src": "EA WorldView",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
+     "t_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-269 — Serangan Rudal Houthi di Arab Saudi"
+    },
+    {
+     "t": "Saudi Arabia Intercepts Houthi Missile Near Mecca, Bahrain Blames Iran for Fire",
+     "src": "https://houseofsaud.com/",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QX0RKa1p6MFlyMnNucjgwclpGby1Dam1FRnp6VmxnanE5LTJqUjVLOG9tUDdDRTUwMVUzNmQzckNXYnhoZW5EWHJZVzhjdFY1Tmctcktuak5TejlQZlJQRnZySlJ6M0dISmJNRmU2OFc1d01hWGh0LQ?oc=5",
+     "t_id": "Arab Saudi Cegat Rudal Houthi di Dekat Mekah, Bahrain Salahkan Iran atas Kebakaran"
+    }
+   ],
+   "title_id": "Arab Saudi mencegat drone dan rudal saat Houthi melaporkan serangan di Sanaa"
   },
   {
    "id": "siber-202611221057-dda9",
@@ -398,6 +367,31 @@
     }
    ],
    "title_id": "Penerbangan Brussels dibatalkan karena pemogokan hari Senin? Kereta api Belgia sedang berjalan; bagaimana menuju ke sana"
+  },
+  {
+   "id": "perang-202611220254-5022",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Iran war live: Bahrain reports damage to civilian industrial facility following attack",
+   "src": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-22T01:25:17Z",
+   "last": "2026-11-22T09:00:05Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Bahrain Attacked Again As Iranian Missile-Drone Attack Targets US Military Positions, Civilian Industrial Facility Hit",
+     "src": "The Daily Jagran",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbUt6d1hZZTZwakNlQ0Qtc25wRnJOdVFwa1VKay1OREF3U1VFQlBqTjktQUFIcWw2OThqWTQ2NFBjb1N5Q2MwUmJjVTRZOHgxaWpuSE1CQTEzUHJLcGRfZGkyOWtfRWxtYl9tY0l1SlczZjZEMG45ZWwxUzVZNDJ3UDFrOHUwRTlPMWF6LVBRUFJZbjZKaWZmelEzZUFmY0Y3Q205bERjaHBjbkJIekJZcGMzQWUxSThscHlRVGZpY3FDc29Vck1weTlMV0ZXTWdNN2Z1Nkg5blU3ZVRmdnk0WmhQNU9jTGU5UF9RUkZIZ0RPWFRpLXBFN9IB_wFBVV95cUxQOTBMTGtrZktNVnd6TXpHeWp6NG1DR2h0Rzl6NWVWZjVWQTkwLWJOTlQ5M3MtR18zNXpveFRHTkNyNDdLSW5ManozdGpvTjlfdmpONEgzTndrdFJwN2ZhektQTFJqQnB2bG1JUE0xWTQwMzlaNHp0SFJxdDZENWg2TXJKSlRWaEtxYzlJSjdmTVhOZWllNjZPdVVEWEIzWG5sYU9zZkl4Z3l4YVRIeFNqYTIzRUozcVFveEhla0V1ZkRaWndfMHBZZVNtNmt0eWdiX3RzVTZQZlljT1NxczQ3eWduVEl2a1lWams2RjI5akJuQ3JuZkVydG9IUG80UEk?oc=5",
+     "t_id": "Bahrain Menyerang Lagi Saat Serangan Rudal-Drone Iran Menargetkan Posisi Militer AS, Fasilitas Industri Sipil Terkena"
+    }
+   ],
+   "title_id": "Perang Iran langsung: Bahrain melaporkan kerusakan pada fasilitas industri sipil setelah serangan"
   },
   {
    "id": "kesehatan-202611220031-e4d5",
