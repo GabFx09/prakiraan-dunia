@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T20:57:15Z",
+ "updatedAt": "2026-11-22T21:04:50Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcndOTTl3bzZwNVZ4ZWstZXBZdnVkbUhPanQ5VlhUVEJaSTRVdnc1YzVUdEhEd2M0QXdFVGxzRFVLeThYd0FfaGEzMnQzbWIzemFuZzRqSGJCQ2M5LVBzV0dadVlwUXpXR1hfMTllR2NsWmNuRnk4RmRSVVlraElfS3NjNFlJa0FWTGNRRS1XQTFxM3JoTVRYZEluNkVJUXZSdk1TSmFfWUfSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
    "sources": 16,
-   "recent6h": 3,
-   "score": 17.5,
+   "recent6h": 2,
+   "score": 17.0,
    "level": "besar",
    "first": "2026-11-22T00:54:04Z",
    "last": "2026-11-22T20:02:17Z",
@@ -288,6 +288,62 @@
    "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
   },
   {
+   "id": "kesehatan-202611212104-5d3f",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+   "src": "cedarnews.net",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGlQZ1d5TUUxLVZvejlSVkVxNTBNMTBOWHRPdGtTUDdCMFRIMll1ZnU5cVlRVlNmOEZCM3NLaDE3ZEVtN3ljMURFU1dtWVhtY1FUeC1NX3VRMnljSUVxYmgwWUlES21wYzlZUWM3TmtPczlwQXQtdFdROVE2TG5ZaDZFNlhWWExqN1JaejVtWDhoQVV0?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-21T21:04:29Z",
+   "last": "2026-11-22T12:09:17Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+     "src": "Kiowa County Press",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
+     "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
+    },
+    {
+     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
+     "src": "JC Post",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWGpYZWxGcjNzMm03YWE4dHVhdlpIWm5ZRy11VjRLX0tITGtpdDA3akhieXRzUkNUZGFSbXFKM0I5MEpXd0NqeEF0dFhmZDJZd1JHa2V2eXVxak9uX25KalFjX2ZqTGwwZ0tsdzNR?oc=5",
+     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
+    }
+   ],
+   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
+  },
+  {
+   "id": "siber-202611221057-dda9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "FAA lifts ground stop on Atlanta-bound Delta flights after system outage",
+   "src": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx0gGaAUFVX3lxTE5GbV8wMjFfSXVYOF9RQzF6UHZpWThoOEdrbU15Ym5BUTUxTlVKTEhscmtob193R1U2T0txX01fcWlQeGxKcmZhQTd0Z3lEeGx2N0NOcnZ1bThPbHRRRmc3TGtsY2NTcmRfdmpyRXRNVGFkVEd5QmUwVUFTLTZWeGRwVEN0ZklCSFFrc0VwR3VfbFlpUDdDNHBwQnc?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-22T10:57:19Z",
+   "last": "2026-11-22T16:53:24Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+    }
+   ],
+   "title_id": "FAA mencabut ground stop pada penerbangan Delta menuju Atlanta setelah sistem padam"
+  },
+  {
    "id": "indonesia-202611220720-61fe",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -309,31 +365,6 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHk3TU00bF9vY2NEdkEtRHpnU0s4dXIxd3FINVhScDlrTHA0enZGeVc3OFFSSzVOY1kyc3dsZGJoN3R2TXk5Ykdsc1pDZ1gzZk94dVFJM082MzNJaGJULWlCbjFJd3JYc2c4UTJSRFZRNVBIQ3hrMDVJRjJFeW5tazZUQVdPb21RakltMVl0bXZ0YWpnV2I5Y3BXbEdMQzF6YVlqWHpwUzY2d0dHTmJpak1rZmxacFlDbkE?oc=5"
     }
    ]
-  },
-  {
-   "id": "kesehatan-202611212104-5d3f",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-   "src": "Kiowa County Press",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-21T21:04:29Z",
-   "last": "2026-11-22T12:00:00Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "New bird flu cases appear in dairy herds as state ag, vet officials seek vaccine urgency",
-     "src": "Hays Post",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3c0VXNmZvQWdVaVJ3Qm1KeDhrc3dHcm1Dc2k3d1hoa203dy1XTUsxLTJhcG1LdTBpZExPVjNBWjRXQzFxcTF6WERWb0xMbUlCVVNxZEhvclFiU0xnbHV2UTluTHlVck5FTTJrVXU2czA?oc=5",
-     "t_id": "Kasus-kasus baru flu burung muncul di peternakan sapi perah ketika pejabat negara bagian dan dokter hewan mengupayakan urgensi pemberian vaksin"
-    }
-   ],
-   "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
   },
   {
    "id": "perang-202611220254-5022",
