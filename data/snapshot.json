@@ -986,6 +986,17 @@
       "ihsg": 5146.326,
       "usdidr": 18158.0,
       "ust10": 4.912
+    },
+    {
+      "t": "2026-11-22T18:57:18Z",
+      "risk": 89,
+      "btc": 60619.14,
+      "gold": 3515.4,
+      "brent": 89.95,
+      "spx": 6910.39,
+      "ihsg": 5146.326,
+      "usdidr": 18158.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1564,10 +1575,10 @@
     },
     {
       "c": "neg",
-      "d": "Naik 1,3%, rebound dari ~$55 ribu",
+      "d": "Naik 0,9%, rebound dari ~$55 ribu",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$60.893"
+      "v": "$60.619"
     },
     {
       "c": "neg",
@@ -1600,8 +1611,8 @@
   "regimeText": "Aksi jual saham AI membawa S&P 500 ke zona koreksi dan Nvidia tertekan laporan pemeriksaan SEC, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Ketegangan Hormuz dan perang Rusia-Ukraina menjaga risiko geopolitik tinggi.",
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 89,
-  "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin bertahan di sekitar ~$60.806.",
-  "updatedAt": "2026-11-22T15:59:00Z",
+  "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin bertahan di sekitar ~$60.600.",
+  "updatedAt": "2026-11-22T18:57:18Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1917,14 +1928,6 @@
   ],
   "alerts": [
     {
-      "id": "2026111807-bi-rate-naik-6",
-      "time": "2026-11-18T07:00:00Z",
-      "level": "penting",
-      "title": "BI kejutkan pasar: BI-Rate naik 25 bps ke 6,00%",
-      "body": "Bank Indonesia menaikkan BI-Rate dari 5,75% ke 6,00%, di atas ekspektasi, demi menjaga rupiah. IHSG ditutup -1,07%; rupiah, SBN, deposito dan saham perbankan terdampak.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcklSTERhZ09JZnJaRnJzZUpNVk5fSTB3Vld2Z1NOU2RwUWFaM1JYbHNBckZjcHNrQmhlMndFd3NFcVNFT1lPTDUzYk5ncVEzaFJTZnAtQXdGazJVbHRpSFc2YmhaTmVRXzFIZHlQdGtzaDlYcE41M21ZeUh6R2h5V0JGd1NvQ2gtbGFta2J5UjdHR01idVJNRHUyTFJPbzlNU2c?oc=5"
-    },
-    {
       "id": "2026112021-wallstreet-koreksi-nvidia",
       "time": "2026-11-20T21:00:00Z",
       "level": "penting",
@@ -1934,13 +1937,12 @@
     }
   ],
   "brief": {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "points": [
-      "Pasar masih tutup akhir pekan: Wall Street Jumat anjlok (S&P 500 -3,7% ke ~6.910, zona koreksi) dan Nvidia turun ~12% di tengah laporan pemeriksaan SEC (belum ada temuan pelanggaran).",
-      "Bitcoin ~$60.893 (sempat ~$55 ribu lalu rebound); emas ~$3.515 (terendah >1 tahun); Rupiah ~Rp18.158 per dolar, dekat rekor terlemah; IHSG 5.146 (tutup Jumat).",
-      "Geopolitik: serangan Iran di Selat Hormuz tercatat tertinggi sejak konflik dimulai; Iran mengklaim menyerang pangkalan AS di Bahrain dan serangan Rusia ke Ukraina berlanjut.",
-      "Senin: pantau pembukaan IHSG dan Rupiah setelah aksi jual Wall Street dan kenaikan BI-Rate ke 6,00%; data PCE AS keluar Rabu (25/11).",
-      "Akhir pekan: pasar Asia tertekan aksi jual saham AI (Korea Selatan ikut anjlok); BI menyiapkan intervensi dan diskon hedging untuk menopang Rupiah."
+      "Pasar global masih tutup akhir pekan: S&P 500 Jumat anjlok 3,7% ke ~6.910 (zona koreksi) dan Nvidia turun ~12% di tengah laporan pemeriksaan SEC (belum ada temuan pelanggaran).",
+      "Bitcoin ~$60.619 (sempat ~$55 ribu lalu rebound); emas ~$3.515 (terendah lebih dari setahun); Rupiah ~Rp18.158 per dolar, dekat rekor terlemah; IHSG 5.146 (tutup Jumat).",
+      "Geopolitik: serangan Iran di Selat Hormuz tertinggi sejak konflik dimulai; Trump mengancam serangan lanjutan ke Pulau Kharg, sementara serangan Rusia ke Ukraina berlanjut.",
+      "Senin: pantau pembukaan IHSG dan Rupiah setelah aksi jual Wall Street dan kenaikan BI-Rate ke 6,00%; data PCE AS keluar Rabu (25/11)."
     ]
   },
   "calendar": [
