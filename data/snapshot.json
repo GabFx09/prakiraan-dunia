@@ -953,6 +953,17 @@
       "ihsg": 5146.326,
       "usdidr": 18260.0,
       "ust10": 4.912
+    },
+    {
+      "t": "2026-11-22T09:58:00Z",
+      "risk": 89,
+      "btc": 60158.67,
+      "gold": 3515.4,
+      "brent": 89.95,
+      "spx": 6910.39,
+      "ihsg": 5146.326,
+      "usdidr": 18260.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1531,10 +1542,10 @@
     },
     {
       "c": "neg",
-      "d": "Naik 0,3%, dekat low 2 tahun",
+      "d": "Naik 0,1%, dekat low 2 tahun",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$58.968"
+      "v": "$60.159"
     },
     {
       "c": "neg",
@@ -1568,7 +1579,7 @@
   "regimeTitle": "Stagflasi, risiko tinggi",
   "risk": 89,
   "riskNote": "Risiko sangat tinggi: S&P 500 koreksi, emas terendah >1 tahun, rupiah rekor terlemah ~Rp18.260, serangan kapal di Hormuz berlanjut; Bitcoin bertahan di sekitar ~$58.968.",
-  "updatedAt": "2026-11-22T07:00:00Z",
+  "updatedAt": "2026-11-22T09:58:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1903,11 +1914,10 @@
   "brief": {
     "date": "2026-11-22",
     "points": [
-      "Pasar akhir pekan: Wall Street Jumat ditutup sangat lemah (S&P 500 -3,7% ke ~6.910, masuk koreksi) dan Nvidia anjlok ~12% setelah laporan SEC memeriksa akuntansinya (belum ada temuan pelanggaran).",
-      "Bitcoin ~$58.968 (dekat low 2 tahun); emas ~$3.515 (-4,6% Jumat, terendah >1 tahun); Rupiah dekat rekor terlemah ~Rp18.260 per dolar; IHSG 5.146.",
-      "Geopolitik: serangan di Selat Hormuz disebut tertinggi sejak perang Iran dimulai; rudal Rusia mengenai Polandia dan Kharkiv/kota kelahiran Zelensky diserang.",
-      "Pasar masih tutup akhir pekan: belum ada data harga baru sejak Jumat, jadi arah Senin bergantung pada reaksi terhadap aksi jual Wall Street.",
-      "Senin: pantau pembukaan IHSG dan Rupiah setelah aksi jual Wall Street dan kenaikan BI-Rate ke 6,00%."
+      "Pasar masih tutup akhir pekan: Wall Street Jumat anjlok (S&P 500 -3,7% ke ~6.910, zona koreksi) dan Nvidia turun ~12% di tengah laporan pemeriksaan SEC (belum ada temuan pelanggaran).",
+      "Bitcoin ~$60.159 (dekat low 2 tahun); emas ~$3.515 (terendah >1 tahun); Rupiah dekat rekor terlemah ~Rp18.260 per dolar; IHSG 5.146 (tutup Jumat).",
+      "Geopolitik: Iran mengklaim menyerang radar AS di Bahrain, Houthi menembak ke Arab Saudi, dan serangan Rusia ke Ukraina berlanjut; Hormuz tetap sumber risiko utama.",
+      "Senin: pantau pembukaan IHSG dan Rupiah setelah aksi jual Wall Street dan kenaikan BI-Rate ke 6,00%; data PCE AS keluar Rabu (25/11)."
     ]
   },
   "calendar": [
@@ -2000,6 +2010,18 @@
       "time": "2026-11-19T13:05:54Z",
       "src": "EUalive",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWg2OHFoUWpoV3VLclpGOGgtMWZTUktsOC1NWXNBeTJXUWdvNEhvZkl3Z3N6WUwtZlZfaHQ3ejBkNWNwVVBpQVNEd3FhLThhdHhRYllXUnNic3hYV3hYWHgteTRtNU1IQm16RVJ1cXc0SWFEVkptWThDNXFYZlBVd1ZjMXBGQ0ZXTDlmXzB4X2ROdWptaEVNMUtPQkNmcTEyM1pEWXdPRnpwa0hiM2N0Nk0xbw?oc=5"
+    },
+    {
+      "t": "Iran klaim serang radar AS di Bahrain dengan rudal dan drone",
+      "what": "Iran mengklaim serangan rudal dan drone ke radar militer AS di Bahrain; sejumlah media melaporkan serangan lanjutan di Teluk, sementara Houthi juga menembakkan rudal ke Arab Saudi. Klaim ini belum seluruhnya dikonfirmasi pihak AS.",
+      "impact": "Eskalasi di Teluk menjaga harga minyak tetap sensitif dan menambah tekanan pada Rupiah sebagai mata uang importir minyak.",
+      "assets": "Minyak, emas, dolar AS, Rupiah",
+      "sev": "tinggi",
+      "status": "berlangsung",
+      "cat": "perang",
+      "time": "2026-11-21T22:32:14Z",
+      "src": "EA WorldView",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5"
     },
     {
       "t": "Wall Street masuk koreksi: S&P 500 -3,7%, Nvidia anjlok 12% di tengah laporan penyelidikan SEC",
@@ -2120,18 +2142,6 @@
       "time": "2026-11-20T21:33:14Z",
       "src": "cwibc.co.id",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KMS00SkFSa2ZQM3FEOVZTSm1aVC1tc21PbnBxZFNjM01xLW93OWdEQTkta3lfTkNNSDc5MUphVTJBMF9TRFc1TDRrMTY3RXpZaVF1V1RFd1hpVjhGaHlTZ3dR?oc=5"
-    },
-    {
-      "t": "Basis data kejahatan FBI dan USDA dilaporkan diretas setelah sepekan gangguan layanan di AS",
-      "what": "Sejumlah media melaporkan basis data FBI dan USDA diretas menyusul rangkaian gangguan layanan nasional sepanjang pekan. Skala dan pelaku belum dikonfirmasi.",
-      "impact": "Dampak pasar kecil; menambah sorotan risiko siber.",
-      "assets": "Saham teknologi dan keamanan siber AS",
-      "sev": "rendah",
-      "status": "berlangsung",
-      "cat": "siber",
-      "time": "2026-11-21T03:39:15Z",
-      "src": "Irish Star",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2EtcU4zVjhlYjFPNHpuMURvR282azhRUjF1RkVqa1BYRkl3eEFiRm02SUVycXZkdkdLRXA1QzJqMWlsb0E1WURkbUZhWGhQQmpvTFczeWxxYTVEYjdpUnhacG94SnU5d3pNcjRzT3QtOGxYU2pMdTVsQ3pwRThfYUFESE5JZVdwRWfSAY8BQVVfeXFMTU1RRnJNZFRleGl4QS1ieGdtYzhBOS1Eb2phWDkzaGwwOXZZbVZJbDBWOURsSXp0TlRDU19VMS1WQnpGaUZYLUlXZGd6Sm5YcENTWldDWjJUWTNWUXlhWGdLVGJzUDZHN0pFOGNqVDFuc0ptNmhxUkdlc0hoZnB1QUNsSnNZVkhkUWtuXzRYLU0?oc=5"
     }
   ]
 }
