@@ -1,7 +1,23 @@
 {
- "updatedAt": "2026-11-22T16:54:27Z",
+ "updatedAt": "2026-11-22T17:09:05Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Naikkan Suku Bunga Acuan Jadi 6 Persen",
+   "src": "Peradaban.id",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IUUNySXZzSG02Z3BUZlNKdkJKWHd0R2t6N0JMWlVtY3lqSmxhdjAtb3lsNmQyblN5QXREYnBiTngySUlGTDBsVE9SVlMzRmZzRG5Qb0JPOGFmdFhLRmM5R0pXVDFPdmE3S0ZsdjV4Yw?oc=5",
+   "time": "2026-11-22T17:02:00Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Predictions Favor $50K as Market Fear Deepens",
+   "src": "Cryptonews.net",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wNkNmY2FrMjRQSDB5bVlKSEl5Z0VvLXVscE9KQXpQSU9sNlRDcDdGV2NWQzE0WThhUWRCNzV3VG5DMmU0QlNEVGpHSlVYYXFBVXhFelJkSjE?oc=5",
+   "time": "2026-11-22T16:48:49Z"
+  },
   {
    "topic": "emas",
    "lang": "en",
@@ -10,14 +26,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT01LRy1TcHVtWVBnVGVSVUJSYTFDNHV5bVBpMGJRazAzSkd2Nno5MlkwNEFNTmFZd2pvM3U0YXJiOTF1b2FaaWhCNzRIY2VTOE9qSy1hRjZwSmhpOEFUcHM1T0VCWE95c0ItRVVwX3JPeWhud1RGdGpGWWdSSUJsWS1fWFdRU0lnbWVOVXZYQVNqWjQyOVRKVXRPaFg2Rzd5QjVONE1Wem90WlNKRWwzeXFXaUpGdERMZVRDYnBiZlp0ZHM?oc=5",
    "time": "2026-11-22T16:40:56Z",
    "t_id": "Prospek Jangka Pendek Harga Emas: Penjual XAU/USD Menghadapi Ujian Kritis di Terendah Tahunan"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Prediction: How Low Can BTC Go as ETF Buyers Sit 30% Underwater?",
-   "src": "Cryptonews.net",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzRmM3VGNRVmhjLVk1eG5VVHotRWFOeTFuV2h0RllqZ3hvRTRyVFc0Zm5XWTFXS2FWSmFIbHBRbEYwcWd1eWJOWl9sei1yRDllZGVEWVRBbDI?oc=5",
-   "time": "2026-11-22T16:39:34Z"
   },
   {
    "topic": "emas",
@@ -31,19 +39,19 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEhGa045V054T0pYTUNZTHMyZFFuYmkxM2w5V0dYOFFYZHVlbzcyel96TGc0Yzh4c3hUMnhtOC04QkotYVhpV2pzOW8xZEFnbTR1dHh6cmtFS3dHcFhFaEQ5aVVhQlplR2YwRTREREYtcjR5Rk85dFFVVEdjN2EzZUNRdHZnSFJmbmxZTFhKTkM1MVUxZmNqWW5ZNk1vQk9RaEx3Zw?oc=5",
-   "time": "2026-11-22T15:37:00Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
    "t": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
    "src": "CNN",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3?oc=5",
    "time": "2026-11-22T15:13:28Z",
    "t_id": "Serangan Iran di Selat Hormuz berada pada tingkat tertinggi sejak konflik dimulai"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Taiwan warns Carney of risks of Chinese ties",
+   "src": "The Lewiston Tribune",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEM0VXl4SUl3Q0paajlSelFzckh4d0RodmhZTmZrT3hWVElzXzJlekd6VklacDdHSjI0ZFd1LU1EU21IR2lTNERRR0Y5SkRycGd4S0UwakJmaDNDWHdyRGxQVDZSVjg0UWd6VVVnSER4Wmh6R1N6SVQweS1wSWxGX2FtN2l2Wm1qQzUxQQ?oc=5",
+   "time": "2026-11-22T14:58:49Z"
   },
   {
    "topic": "ai-teknologi",
@@ -124,12 +132,12 @@
    "t_id": "Bull Terbesar di Wall Street Mengatakan Investor Bereaksi Berlebihan"
   },
   {
-   "topic": "geopolitik",
+   "topic": "saham-as",
    "lang": "en",
-   "t": "What’s behind Iran’s escalation of attacks in the Gulf?",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
-   "time": "2026-11-22T11:49:36Z"
+   "t": "Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRxak5ZYUFPNWxVbzlJdy1Mcm9xMTRVZ0ctY205NFVGVEFtcDdFNG1Iem05TjVBcnYzWUVUeXcyWndZNlpnR25GMW5GdkJ2blJjeUdXdlhvZ1VqNWpVSGdYX1RsQ1F3eUhkRUFaX0lxQTNnVFNySmphdG1KM2Y0NTZrdGRoTWxEaE0ybmVSUnBtdDB2VW9tWGtrYkZfUmZUaUdxWDUyUEZGZ2tSajBqSTJydzNhb2xwaTctX21xQmxmXzFyZ1BIWE80ZF8?oc=5",
+   "time": "2026-11-22T12:22:12Z"
   },
   {
    "topic": "indonesia",
@@ -278,6 +286,24 @@
    "t_id": "Tracker mengatakan kapal tanker Iran yang dilaporkan di Selat Hormuz palsu"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
+   "time": "2026-11-22T09:42:37Z",
+   "t_id": "Tiga Kapal Tampak Keluar dari Hormuz melalui Rute Pantai Oman Baru"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Are oil companies profiting from the Iran war? Experts explain",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUV9YajZLcHUxLVFKVzBCLW41WS1vUGNuankwUmtqMWhRVEFLY3pxZmVCN3dMNUpIZlViQnR1dDVRazdxdExGelJnbjZfWFNVVEM4Q01KZjV3ZEM3UElMd3Z3bm52Nl9yck9FNWhBWXBLMGJMZ3ZhR1dNMmpyUFZqQWhHaDduNk9hWGxmaDY5ZlJiYzVQcnlRNEhXbjXSAaIBQVVfeXFMTjR2MEhxN0ROWG5zR0FWbGdCMHptdG5UVG10dmZwVE94S2xEdzdJeVJEeDBTaXNGbk4yWEF3bnIzUENPSzZJcnZoRzhJQUFRMk45VTB2aWVhMEdoa0ZlWExDcklnU0hpdkgya0hCLXczOU01aTEzci1Qb1pFY0hMMTJ4cVhabDRSM3dPU0xkc3RKV3B5RG9ZYl8wbkEyQVVYaDJB?oc=5",
+   "time": "2026-11-22T09:32:58Z",
+   "t_id": "Apakah perusahaan minyak mendapat untung dari perang Iran? Para ahli menjelaskan"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Will Gold Prices Continue to Fall? 2027 Gold Price Trend Analysis and Forecast",
@@ -301,15 +327,6 @@
    "src": "Infobanknews",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXZRSG81RFFvcjlfRnZOWW05b0hWWllDRkh3U2ZnZlJUZmdJLW03dmFNUmgtd1M0b29EWTQ3bGJzMUU5SUQ1SXFDOVMyX210Y3BYcnpzN0ZEdWVwRmpiSkwxeFFPSm5kTXZkU2RGWlAxalF4Nno3Uml0UmQzUjlndUFTQkEzSHZB?oc=5",
    "time": "2026-11-22T08:19:00Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain.",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHNBeWZmdmgyeDJLV2FtWXRCNkdid0pVVE9ncnl5MHZfb1NBOFI1Rks2V1V3Mm53OGpJbERpa0pYcFVMSlJUSHc3VmhXdXh5V25tcUNhR2pxdGVZZlV0d0pYRmtXR050Rl9hbnNhcmNHLWFjNWpoN0V6a3BDMURacA?oc=5",
-   "time": "2026-11-22T07:46:16Z",
-   "t_id": "Nvidia dan Anthropic Benar-Benar Akan Menguji Pasar Saham. Hanya Satu Hal yang Pasti."
   },
   {
    "topic": "indonesia",
@@ -414,14 +431,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "BI Naikkan Suku Bunga Jadi 6 Persen Saat Rupiah Melemah",
-   "src": "Limapagi",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HcjJIZ1FSQXFMcmgzaW5qWWZLYjVNUG5xUm92LVFFQ2VaVnY3U3ZwcGZ0cndRTC1IUzBYNmNLSjktSnNOb2stdkt4MEpRelNFck53OUFQUEhKUzkyZVc1eE1qNUhsNGFnVUUyQw?oc=5",
-   "time": "2026-11-22T02:52:55Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "BI Akui Rupiah Masih Sulit Menguat meski BI Rate Naik jadi 6 persen",
    "src": "Kompas.com",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOU5GZE8xNDJkWWxhYjdndWk0bXEwY3IzZjRPWmZGZUM1dDY2YXROQ1Z3cENsRXhPMi1XLThtTW1iRlZDRHhqU3hHRG9pWHlnT0tzMVpNRncyWjRkV01CS0hsUVo5TlBUdE90TndWQ0dVa2JyX0hwdVBoa21HRmdXQ0hQLWVETk5wdC1oUl9maUlFWjB1ckdRVFhnZXlnX3o3eW4tMlRuYTQ5eW1XN1c4cko2dDEwN3VZbmc?oc=5",
@@ -433,7 +442,7 @@
    "t": "Surge in apple exports to China after tariff scrapped",
    "src": "News24",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHRPTFBrS2ZnU3gtVDQ3a0RqZkRxcGVEdGhfdVIyOUx4QUFWczRYU0w5Q0tDeTBKaHQxRmhjSXFiX2FyRVd5TmhCb0dtRUlUTXhmTXhXWnJGM1c5Sm9peEgwdUlsZ01XZjh0T1pidUxqSWpYanl5TWM2SWNNUnVTbWN6NXdCLVRNX0x0a1hqcW9teDNyRE5lZ21DYUhySFhZZ0ZmTnpHek9ERXZYTGZR?oc=5",
-   "time": "2026-11-22T02:13:05Z",
+   "time": "2026-11-22T02:38:37Z",
    "t_id": "Lonjakan ekspor apel ke Tiongkok setelah penghapusan tarif"
   },
   {
@@ -490,24 +499,6 @@
    "t_id": "Bitcoin naik 9% dari level terendah dua tahun, mendapatkan kembali $60,000 karena penjualan paksa mereda"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
-   "time": "2026-11-21T19:36:53Z",
-   "t_id": "Taiwan memperingatkan Carney dari Kanada bahwa hubungan yang lebih erat dengan Tiongkok mempunyai risiko"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
-   "src": "New York Post",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0VzSEdkMFJlclR3UnhCVFVBa0dKWVF4SEd2Zzk3M0t1NW5GZWI4U2Q4T28xS1dtNXdVTl90VzJfQ0RCVE9rdENDWk93MHpTTGtzaU9lQ29BS2ZaVklnZzhMY2tYeTBhV3hnWlhNYmdWRE1yd0N5X1hELTNubmtiU2k4bXI5T3BHTGlONjRyajFsckY0MVZUSmFicWhQazBuM1dkRlU2OEI0MXpUWUZvM2tkVWpWUUxzR2U3TUJR?oc=5",
-   "time": "2026-11-21T18:57:02Z",
-   "t_id": "Dua kapal tanker menyerang di Selat Hormuz ketika kelompok garis keras menekan Trump untuk melanjutkan serangan terhadap Iran"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff",
@@ -515,6 +506,15 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejlycTNOTWVaLXBObmZzQ29NbHBmT0ZMMDhJUVB1Tm85VXhCRjRKRWdpUHlYM2Mxc0xPZHZacEt2a05BUEFLaHM1c3FqU3doWVN6anJJOW84QjVleU1aRGNzV2RKM0k2R2tvY1JUTk9kbWh0VEdrYzg4YS1nWEZGUTQ4WEV3NlU2T3NxQVdFWjg?oc=5",
    "time": "2026-11-21T18:08:06Z",
    "t_id": "3 Saham Chip AI yang Diperhatikan Investor Ritel Setelah Aksi Jual Nvidia"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
+   "time": "2026-11-21T17:01:21Z",
+   "t_id": "U.A.E. Mengangkut Minyak Melewati Iran dalam Operasi Hormuz yang Berisiko"
   }
  ],
  "errors": []
