@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-22T00:25:17Z",
+ "updatedAt": "2026-11-22T00:40:00Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Setelah Bank Indonesia Menaikkan Suku Bunga Acuan",
+   "src": "Tempo.co",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0NmWmxHZXA3TTkyODR2Vk5ibGxMTWpQN05LNnEzWVU0MFhjYjIzWVhCbVBLVFNXS3EwcmxhU2dJRVQwREcxRXRKYlpwZVpDajRDdTRWQ0lHSks0Z2gzVVhQQVhHZ2lERUVqd2dYWld0YjBRZzRBc01xQzIzOG5DYlJCRXgtcmczVFIxa25YNA?oc=5",
+   "time": "2026-11-22T00:30:00Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -9,6 +17,14 @@
    "src": "Gaza Media",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zVG0tZWhRS2drZFdEeDFPRWxzalB6VE1BUE1Wbmwxd29mVDZQYzRkcnpja1hxSnJkdXpQU2NTZm5aSkFYbC1VU2ItREJzWndmSk5EV1ZmWEdGNmtvRmh6TTU1ZFUyVXVmN0w4Z1dNM0RrSDlROEwteTgwQk96dw?oc=5",
    "time": "2026-11-22T00:07:47Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price on Nov 21, 2026 at 8pm EST Crypto Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDk1U2poOEUxRXRwTXdfalZlVEt6WmZVNUNucFhld0lJLUhDUG5IWnV2Vl81U3VsMThpbm12eDZwNnpyZUxQam1mOEczMGV3Z0tfRlRja2plSUtGd2s3QmlzUmp4WkdseDhmT2pmbkFLNHZZTFpaRXhXTklpUmN4dXMyR2RYcHNHaW1kRFZkbUh0aE5QSzZBWnJyWmV6aUREUm9laV9xeHVocFZ4RXc?oc=5",
+   "time": "2026-11-22T00:03:15Z"
   },
   {
    "topic": "saham-as",
@@ -25,6 +41,14 @@
    "src": "kontan.co.id",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1haM3BaRnBnYVIzSDZ4V2QweDNVM1NMc3dyNE1adlJxRjRDd0VBVXNKd2RzdmRWOFhRZFVfcVFKdjlVWVI0X2duNGNRTi1XVXJubE1iUUo1aVFIaE93MmNjX2dTLU5CN19IUDVwSGgxZktUNGxiaTE3SUdaZWpWeUF1TlVUQ3VOLWVOQVBycWdyVVlXUWh3eWhkYmVSc2w3bmxBUTJEd3pNODI4RnfSAacBQVVfeXFMTnhnQTBBOHROb0oxcEVodWhBX0NoS2hGSFdGR2VfdXJvcnVxMXVjLUVwS1lRU3lfc3Y4VG54UDd2dlZNLXI3VXFsdXBIR3E2T19aa1ExVFl4R0pTeE9pd0hxWEhjQ3drSnlLUUVNM1h0TnV3UTFndmQ3ZDBnUHhkS0dDN2hfTjNmdm85ajg3bV94VHh3LXJ3OXNRV1BXeDRyU2tFTjRWMm8?oc=5",
    "time": "2026-11-21T23:35:30Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "AI Boom Cracks, Unleashing US Stock Selloff as S&P 500 and Dow Both Slip Below Correction Line",
+   "src": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NR1VZR0dEaVJFS1ZrV2pNQWhjeTAyN1lKM3JVeTdvLWx5TlEzcVV0em1EV20tLTlxYUI0Rm5kU2Y0V0pTN1M2WURzNzV4eVByZzZPdGExNTdVOUVuUWo5Y3lzdkMwOGNmUXhyZ1hLTkdGeGxKT0E?oc=5",
+   "time": "2026-11-21T23:35:00Z"
   },
   {
    "topic": "geopolitik",
@@ -61,28 +85,11 @@
   {
    "topic": "bank-sentral",
    "lang": "en",
-   "t": "Trump says he'll work with Democrats to cap credit card interest rates",
-   "src": "KATU",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcEZKLWtFSUdjRGZlN2NLVHVGandzd3VmaWhZVmhmemtac2RWSFAxaWliWVh2S1ZKU000RHZDTGh2UmFlTFNwS1ZXQUZDZG8zT0RQMllocnhpTkt2MHVma2Q2YVdQcUZaT0F1VEcxLXo3SWJxaEExU3BMejc3S09GUXctUE1LaV9NdDM4bmlhM01Pa0dmbFg2a3c1UW40Y3BBNXVrTnI2c3V6MTY2dWpKZjFEeHRaZkZMWW9PeS02YXpGTnRnX21yTVhKZ2lCazVNSXNwNi1LU2hGTVZGa2t1VFp3Vm9GM3ZVZWdELQ?oc=5",
-   "time": "2026-11-21T22:58:33Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
    "t": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
    "src": "ABC7 Los Angeles",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0hlZVhpalU3Y1Mya3QtaHdST2pqeUJsaHlIZjhoNzJqdnFKeTdkUXYwTXlkRE40eFJnUmZzTXMyekdMakVTS3BXODdCTDhueGlHazV3cEdWZml6NkZiWjlGV0dhdWlNbEk3RU8xZVhEOFQyaGtWSzdGb19TNkM1QVNTMDN0d2lyN3M5T1FXREJURW93bC16X1BTc9IBmwFBVV95cUxPZ0hlZVhpalU3Y1Mya3QtaHdST2pqeUJsaHlIZjhoNzJqdnFKeTdkUXYwTXlkRE40eFJnUmZzTXMyekdMakVTS3BXODdCTDhueGlHazV3cEdWZml6NkZiWjlGV0dhdWlNbEk3RU8xZVhEOFQyaGtWSzdGb19TNkM1QVNTMDN0d2lyN3M5T1FXREJURW93bC16X1BTcw?oc=5",
    "time": "2026-11-21T22:18:40Z",
    "t_id": "Trump berjanji untuk bekerja sama dengan Partai Demokrat untuk membatasi suku bunga kartu kredit sebesar 10%"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price range on Nov 21, 2026 at 6pm EST Crypto Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU1TS3N0elFxV0NhOUxrTzYyeGNCcFlHTHVFVWpLQ0kwcjJxVHNJUGo3ZEp6WERaeENjYkdIai1hWWxSNXB2dFBseXNubUFlOHdCZ294VGpwZXMtS3pCMjhvVzBfdW1uZnJhMDUyR1VSV3lRNjk3aGlJalJwUDJrNnEycDU3aThuXzVzOC1FdUhmckV6NkdJQUxlOVBKbGFiQ3p4MURIekYyT3ZpMnZ1NnljWmFxQQ?oc=5",
-   "time": "2026-11-21T22:06:48Z",
-   "t_id": "Kisaran harga BTC pada 21 November 2026 pukul 6 sore EST Pasar Prediksi Kripto"
   },
   {
    "topic": "kripto",
@@ -173,6 +180,14 @@
    "t_id": "Perang Iran Dapat Secara Permanen Memotong Ketergantungan pada Hormuz, Kata IEA"
   },
   {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "President Trump vows to work with Democrats to cap credit card interest rates at 10%",
+   "src": "WUSA9",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTC1mS2pRSENHdEx0X29SUVJ2eWZYLTZWNUpfWXRsUEJDbk4wUXNzU0s2S0hqTjRnazNVYVlQUXlPdE45QndOZnhlRWRHWE5yWkNVM1V2QU5lUVB4TzFFRW9ReFR4dHJUZTJpOUNiN2dKejNHWmJ2dF8wbjJBeFFOMGw1OTc3R3ZwWXAwV2RVQVdOZk9PRDVnTDlDa2dFc3JNbXFpOVBXbWJtQVN0NXZ3RENMZGplcUUtUXZTU2VYaDNIazFnN01HWFd2RGVESk42ZnZkWHd4aGM4aXJH?oc=5",
+   "time": "2026-11-21T18:59:00Z"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
@@ -200,6 +215,15 @@
    "t_id": "Trump mengatakan dia akan bekerja sama dengan Partai Demokrat untuk membatasi suku bunga kartu kredit"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold prices slip and slide to lowest this year",
+   "src": "Elko Daily Free Press",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDNpYnJXdjJBTWtSQUp2WWFWU2dBN0swZG9LTld1T1pUMXplVkR6MUEwRlZ0ZWFrUzFtckR6ZUhkRmZNQUtaZFU4eDNDRWNhN2ktNlV6MGdTemJCaEp4Z1A3cUh4eGJhR25OR0ZkRjI2dEhMekRZeHhjY2VGSXg0Zy00Vi1meFNnS1g1WVRiTVlmNnRDbGhxNFZQTVhJQWs?oc=5",
+   "time": "2026-11-21T18:30:00Z",
+   "t_id": "Harga emas tergelincir dan merosot ke level terendah tahun ini"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff",
@@ -216,15 +240,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFVoRnRfUVh3Ry1IOF9uellsamlrVDJNMHZnQWFnQlhVZkhhZ0lKMXJaTXNSM3Q4TW41aEU3Tm93UnNhX3VoNm15d2JSanRhV0JOMk40UlMxVmVRaFYyTTFFUUVPMktHQkVwZFY3R3c3b3d0Ql9LTDdILUtqV3dRQklWLW03VFp1cHI1OEdCVS03T3BSU0pCcXVhV1d3S2FGN0hkVDRn?oc=5",
    "time": "2026-11-21T18:08:01Z",
    "t_id": "Jika Fed Menaikkan Suku Bunga Tahun Ini, Saya Memuat 1 ETF Ini"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "src": "Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yOVM0ZTRBWjRWRW9KcFF1czB4bV9VbHNOYnZqSTRlXzk2SHBHTEo5RnIzR0xkNklES1Z6ZnZZSTRhM2tjZEFnQ3VEd1BCUDFPcFRBSlhB?oc=5",
-   "time": "2026-11-21T16:10:26Z",
-   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
   },
   {
    "topic": "kripto",
@@ -315,6 +330,15 @@
    "time": "2026-11-21T10:34:57Z"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "src": "Yahoo Finance Australia",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vY3UycVZqZEJIblcwdHR4dFFWTkl0YTNSZUNDdXl5bk9zdjVockJaMVJUZlEzYmFDLWlTSUJyX0FHdmVnOFFodWhUZE9MMjRXYmlBVlJB?oc=5",
+   "time": "2026-11-21T10:30:31Z",
+   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears",
@@ -340,15 +364,6 @@
    "time": "2026-11-21T08:04:52Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold (XAU/USD) Price Forecast: Deepening Selloff Nears Major Support",
-   "src": "FXEmpire",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEZjQ2ZoWURweVpkOHVUUk92cmlKM2lyeXV2ZFdma2tjemIwYU54Q1hxQ2p2ODlxOTdjMGQtUGJrNWdJYzc5OTZrWk1XZnJIblB0U2d2TjdmaS1uSGREVVNHY2JpQTQzS2RPNEVQdU9WZ0VHc1VrLWVZa0hlazlBUlZDSUhPX0RLQjRjYVdaLW9WajQ5MkwtLXRrcUhJQTBBNlFrSTlSUXlPU0dLbGRZYWVtMTBuRzQ?oc=5",
-   "time": "2026-11-21T06:08:00Z",
-   "t_id": "Perkiraan Harga Emas (XAU/USD): Aksi Jual Mendalam Mendekati Support Utama"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Video: Efek Kebijakan The Fed & BI Rate ke Sektor Perbankan - Tambang",
@@ -363,6 +378,15 @@
    "src": "Aktual.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXJoaDVTWDROdFMzcmNNMnU5LWNTZGhRdDFEdkNCSnlNQi1RVEhQMUtsQlZLQVkzLW9zMDNsUlg3Y1NzVE1ONGNuN1NEOTBmVWFxZW53M3prZUxjWEFRM2tZaG1KNDdMOUJvWlhETXREdDQ1SS1ma01kT0YtQlVaTGtETjBQQWJRNERjcHRRaEFxTWotYlZXTFlzNlJHajVzclNQNXZGdW9PY1RjQ0tmN1pB?oc=5",
    "time": "2026-11-21T05:45:15Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia Shakeup Sends AI Stocks Tumbling",
+   "src": "Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHMwSl9JYy1Oa3VaNG0zOTNlUzZNbHUyR0REeFFZekFrQ1JwbHdPYnh5aWNxbkI5VjNCdlFHeGc0UlRZUW92Tk1nek5DamVBX1RhbU9teHJzVmlCOW9ScHAzb0tCOUQ5aHl6XzEzcHhaNXFHQ01WYVpCd2JyanRDS0tIaHNyYWkxcGc?oc=5",
+   "time": "2026-11-20T23:28:23Z",
+   "t_id": "Nvidia Shakeup Membuat Saham AI Jatuh"
   },
   {
    "topic": "bank-sentral",
@@ -426,15 +450,6 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1g0UXZ5OXJuVHpnN1lqWUk1OURVWVRkdDZRemFXcS1hNk1GdTNQcHE1dDdyb0NxbDc4R0hTTDlFMG1IdnJWbThPSGNqTzVVWXJxR09Lamh6WGZaSWZvVm12X05zdGpaek1zZVRWcWhEYk1sM0lEblZjNURGOTVWdXVmaXdnMW5RWkdZY1dwTV9hdTcwTGVWWlY4UmNocWhGaUk5UHE0SWJxUTFiZUtSNQ?oc=5",
    "time": "2026-11-20T20:55:00Z",
    "t_id": "Panel Closing Bell menilai aksi jual tajam seiring anjloknya saham Nvidia dan AI"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "S&P 500 sinks 3.7%, Nasdaq goes negative for the year",
-   "src": "Inquirer.com",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGNaOXFXdEFWX3R6ZEFackpuUG5TanRYT3FGbk5JcXM1M0F0WUFlVjBZckhDdFdJb20tMDZXQUpCczBBUllnTnJ6cGtoeE1ZVG1xR1VFU25fZkMxYWo1ekxZS0xTOExRWTVQQ21Kb3liWlZubVl5cWFFNUZiX1ZzVmdJeFNib3FvSFZfRkE2VkdrNGQ1a1FKNENDdy1xMnVF?oc=5",
-   "time": "2026-11-20T19:59:05Z",
-   "t_id": "S&P 500 tenggelam 3,7%, Nasdaq menjadi negatif untuk tahun ini"
   },
   {
    "topic": "china",
@@ -507,24 +522,6 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmZadko1d2NDa3h3cVJUNGZTbHZjcUZGd1ZNYkxOWlBwLWd3Rk9KcHFuVWdVcUVWMUVNQW5iSklCZkEtaC13bGZWZlpKQl9JUmNzSlFBdjViaGZENDBGdWU2Z3FPQk5hZGRNUlVmckQ2aUtOWkIxQlhVa1AwVXFkd2JkYVVva2czQk1NUtIBkgFBVV95cUxPWHg0Ym8yVHNqV2lITW81aDhBSzZyN2M4ekMzelRIQ003YVVGZWkxRjhHMGl1TXBoVWEwUnF0aG9zZ0JFTnFjWWxjQWFnWVhiS2Y3R3ZfallHd2RwczdSQWFoaDYtdmxKSVRiX2ZNeHJqcGVTdldlcjQ3RHpqQWlOVFpjOHU3NHNCWjEzaGZmbFdkdw?oc=5",
    "time": "2026-11-20T14:29:45Z",
    "t_id": "Kasus regulasi Bitcoin telah selesai. Apa yang bisa mendorong keuntungan kripto ke depan"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
-   "time": "2026-11-20T13:16:47Z",
-   "t_id": "Ketegangan perdagangan AS-Tiongkok, Taiwan, dan teknologi masih belum terselesaikan seiring kembalinya Trump dari Asia"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Tariffs keeping essential baby products costly despite U.S.-China deal",
-   "src": "Kiowa County Press",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblBfakVfSm1MVDVibWV2UnFCVkowbGl0eTVpVlBkenZXRFRDT04xMU9FRDZtTV84U0tWNkU3SGlscUZDSlFRMHlTbnZuV08yaUVmOTFPa29zeUlTZUhfaGMyOUcyU0YyMjd5VzZ5bVlkdXlGMjVVaUlfYW12VnVoWC1SWGxWY0UyTDM3N2d2SjVjUkR3aE93WmJldDZWMW1SbGIzak8zdFk?oc=5",
-   "time": "2026-11-20T12:19:39Z",
-   "t_id": "Tarif membuat produk-produk kebutuhan bayi tetap mahal meskipun ada kesepakatan AS-Tiongkok"
   }
  ],
  "errors": []
