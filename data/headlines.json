@@ -1,7 +1,32 @@
 {
- "updatedAt": "2026-11-22T09:43:45Z",
+ "updatedAt": "2026-11-22T09:57:50Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Tracker says Iranian tanker reported in Strait of Hormuz is fake",
+   "src": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVRCYVIyR0tZVjg3NE9uV0ZCaWdIR0p1bzE5OE13U2E5blhjdjk1eHdMTnp2N1ZoZ1BMOUt1X0tORVptaWhnamdUdHd2NkxoendrbURLVXc3c3J4b3MyOFNVWTNCR0F0WWV1aUZyUEVtcDZydzAtMmJldnNTSnl6ajNUN0FPTmpCR2JCM1NxQ1FiRGxxUXdMWV83ZkcxOFVwZlhERS1JZjhXOXk1RzhXYk8yNm1MWnpQTFZBbmhVMlhxR1d2?oc=5",
+   "time": "2026-11-22T09:54:50Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Detikcom Awards 2026: Bank Indonesia Menjaga Kedaulatan Rupiah di Kancah Internasional",
+   "src": "20detik",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVVEdE12SFpaQ28xcm5wc0VCS1RvbTlLRVNmeGlyR3F0QTAtSnJ1TzNyenhKYlZWYTNRLWxtYW5Lemg3eTRkMEJNb1ZMbDZQZjFBM2Fnd3Z4WlZZbnpQNkVhVUVqSXREeXZPZVFvcUN3Zkd5Mm5scGg4d1YtWlV2eWh2SjFtQlRkeDJXUi1wbGNJaXY2Y3A3SzRDdVUwN2R3M3l0di1vdTRIY1ItNTNRWmI3YUpHc3BqcTk1RzBzeTZBYzU2RUNRRURkYXV5TExCbUN4WkU5Nk5oUQ?oc=5",
+   "time": "2026-11-22T09:04:00Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "src": "Yahoo Finance Australia",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vY3UycVZqZEJIblcwdHR4dFFWTkl0YTNSZUNDdXl5bk9zdjVockJaMVJUZlEzYmFDLWlTSUJyX0FHdmVnOFFodWhUZE9MMjRXYmlBVlJB?oc=5",
+   "time": "2026-11-22T08:52:17Z",
+   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -49,6 +74,15 @@
    "src": "Emitennews.com",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFVyMFRFWl80SzJYV3FCa1Mwa1RXUFhPaVU2bkxubWQtb09HdE0tcHdpTGhRMzB0SFV0QXNmVjVzVlY3MzQ0aW5teGRnSWRLeURLUFpWUVpUQmFZRWFwZ193dDkwaFZHTFlCT2lQVU5vbGFIWVFPcHJzcWNHRFNCbHdrWWJ0VlJpRHA2MjljWGF3Z2NURFhWREpvRmt4X28?oc=5",
    "time": "2026-11-22T08:00:00Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain.",
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHNBeWZmdmgyeDJLV2FtWXRCNkdid0pVVE9ncnl5MHZfb1NBOFI1Rks2V1V3Mm53OGpJbERpa0pYcFVMSlJUSHc3VmhXdXh5V25tcUNhR2pxdGVZZlV0d0pYRmtXR050Rl9hbnNhcmNHLWFjNWpoN0V6a3BDMURacA?oc=5",
+   "time": "2026-11-22T07:46:16Z",
+   "t_id": "Nvidia dan Anthropic Benar-Benar Akan Menguji Pasar Saham. Hanya Satu Hal yang Pasti."
   },
   {
    "topic": "bank-sentral",
@@ -142,6 +176,15 @@
    "time": "2026-11-22T04:00:00Z"
   },
   {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June",
+   "src": "New Castle News",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYlJkRF9weDYwX1J5Smh4alZaNkdySk5iUnpPaE1wdHQyVjd4N1JZYzh3U040c2dFVlR0dFktVV85THN1NmphZzlCQVJSTy1CQkdROUt5Rm9iUFN5cmVjeFN3bHhvbk94ODFvbmlRQTNwczIyLWM2Q3BLWHhzWTNpb1ZiZUdSbmppWTdKS2kxSFd3QWc1RnlKa2xVQ3Z2bzFzWl9saEUxNFpPQ2Z5X2hEd2dmakRRS3pnT2JlQkpCQmFUYjZSTWc2TXFWZDVOVGlYcFhPZTE2NW5odVc5MlhBRmJqR1ozR1hwVjktSjVSRWJzVGxsV3c?oc=5",
+   "time": "2026-11-22T03:56:11Z",
+   "t_id": "Penurunan kelima berturut-turut pada S&P 500 menyeret Wall Street ke penurunan beruntun terpanjang sejak Juni"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold, silver prices today, 22 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore",
@@ -165,14 +208,6 @@
    "src": "Demokratis.co.id",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEajZFXy1YMl9zbXZzd2U2eWoxdl94cmMtNkp0MjQ3NllXc1BfZ2s2YUF5c29XY3VGLTRKZGxTM3RVdW5CVjBmT3phOGZ5RlN6UjQxY2dkV0xhWWtZUFpEcDZHUFpXaDVP?oc=5",
    "time": "2026-11-22T03:24:25Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Rupiah Tertekan Dolar AS Meski BI Naikkan Suku Bunga",
-   "src": "Demokratis.co.id",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2lYbDNLWEZiM0pQUTQtOWFWNnVRQXNYeDY2Q3NWd2p5MlZwRkk1c1lFM0p5aWZ3R3hQSmx1NDFaNTlkM3owVjV2VExpaEJqNm9NN3Q0X3lBSHBORTlXc2lvUzJxTGlNNFpNMzFEYmdtdmV3a254YXNBUlRvWV9QRWFja3YwdkNUTHQ2bnExTWwzdw?oc=5",
-   "time": "2026-11-22T03:21:33Z"
   },
   {
    "topic": "indonesia",
@@ -445,13 +480,12 @@
    "t_id": "Serangan di Selat Hormuz telah meningkat ke tingkat tertinggi sejak perang Iran dimulai"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "src": "Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yOVM0ZTRBWjRWRW9KcFF1czB4bV9VbHNOYnZqSTRlXzk2SHBHTEo5RnIzR0xkNklES1Z6ZnZZSTRhM2tjZEFnQ3VEd1BCUDFPcFRBSlhB?oc=5",
-   "time": "2026-11-21T06:23:10Z",
-   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Video: Efek Kebijakan The Fed & BI Rate ke Sektor Perbankan - Tambang",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUlzc3BtcjhOeDh6SE1hQWEzVXB5eUlJdi11Wi1Dc2JIYWZyVUNFNVl1Q0JnV0t0VzZhZW5iZ0JWMXhlQXcxR3p6QXRQRExxMlhwVy03UzFVVzlVdjdNakdHcmJ2UkFPTlhpRDJkZW5LdzJSc2JkcUI5akVNQVdfLVQ4TnQzUHVob19uZDJhRjZxRkMwSFRVcGtPRGx2d0FFRUVleVptUE5KaFEtcWEzY3lBUHI3VnFSWnl0LUVvY3NCM09TRHc?oc=5",
+   "time": "2026-11-21T06:00:03Z"
   },
   {
    "topic": "china",
@@ -461,24 +495,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPelBrc3lOOVp2dEZkaUhoTktVWVk4dDZDN1J3MlNHT1RwaHVYRTNjUTVZZU5RdG1fQnVGUjQtZ0dXcHBRYmxWQTJCbS11ekdlZDNvS2gwQ1JiTEdDR0tQNGlYWkdCTm9SSFpGSDVDczI0bF82dmdKLWFiS0hLaXAwUHVMcnFjRjNUVWE3VFR0R053aDB6a1dNWTFuTEJ3a1p4SG1yWWl5THRLcUhuaV8zNDJXNHBqMzJxSTg3eDAweXZyM0E3LTJKdjV0ank4ZVdaT0840gHTAUFVX3lxTE8yaERqNTJIa2V4LW9RYm5fYlcyX1NEX3A2aWlCbEM2cVJOWVRWdVAzV3JxMXV2TjBfdHY0VTRWdG9qTGQ1VTRrdmhKa0JTUUZEeU0yWFlHMmlXWEMtTU5zb1JuLUlMS21wS3ZGRlJwRnc4UG9jbHI4eEVyQkhaMnVjaWVLbzhrR09GWU5ZeVdZRHdWT0I4NFFSVEVTZlFiYVdzdDJtcUVobWpVdF80ZEx4cXVReUJUc3NwQmpkcmYxOXlpYUV0X2ROYlV3bkRGQ1lPMXc?oc=5",
    "time": "2026-11-21T05:08:48Z",
    "t_id": "Eksklusif | Kesepakatan ekspor Swiss bebas bea ke Tiongkok merupakan keuntungan bagi Hong Kong, kata diplomat terkemuka"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-   "src": "Fox Business",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGo2a2JDeFFQWXZZSUFuc1hYVkctMXBGZzVJWjhCSU4tV21qenB4bVNuLUJFTG1hakVYdGNlQ2tuRXFnOXlnSzFJVjZHWVg3V09EWVVhb1o5NVY3YWJpcHZ4MGFyYm9faWdPOGVsRERlakFST214NC1RZDA4UTBjdUZmYmZtOUdUOWZNNFE1M3dVdGVneWtKeWl4Sll0aFZFcW1qUUtFM2RfVUhkTGNJ0gG0AUFVX3lxTFBlZXlISGdZNkJyblRJX1V4NW9OQTFrYkNHWFZoazJzTDZZUHI4US1sT01jSkhtWVFxeUVqYkdJdzIwYmxjWFFsRTNMYWhUdk9wVWl3aVpUTmhvZi1IQ1ZJcFdKODc1TDdJb2tLZzZ0RzB6d3o4WERicXJ5OGNvcFZpTTl5RmhQRTRkWERGeUFPTmVUeU56dl9ObDNPcTgxeDU2bHlCaDFiSVdQaXlQMlozdzZ1Tw?oc=5",
-   "time": "2026-11-21T01:28:00Z",
-   "t_id": "Wall Street mengalami kerugian bersejarah karena Dow, S&P 500 terjun ke wilayah koreksi"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "time": "2026-11-20T22:39:32Z",
-   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
   },
   {
    "topic": "bank-sentral",
@@ -497,24 +513,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHJUSEpNa0JZMndrUTZhcTdiQjkzTUU0bkJqSmF5ZGNJYV8xSGozbjJTQ3FwUEpNUUdvd0JjYWJHMy1vRGI5YlNrUmNlUF9vNVFiYkRyT3YwWmdhRWlFMVl5bGVPcUcyeTNVRDNENzJlTVYwT3hWSHV0UUwybF9wZEFmQjE4LWc4OVBUVUx3SzJEREJmUXNhTU5ETTQ1Rl92dmFtQS1B0gGrAUFVX3lxTE5WbHZmMnMxbl9oRlU5S0JsbFFBVF9RaldTc1RfSmk1dEZRNEw3SEJhZkw0S19HQ1dfNlNiZjZ6T05UWDNYZ1BRMkNQRWhxWGt6U2JnRkZ2emQ0NmFfdWN5ZFdQdHV2NXhncWpJc05qWU1kQnJYSVBOM2NTeGRfWkE2TFduRWpWX1FmQ0pOSU1OOWkyUXpiNFFWWERBVnNJakdHUzM2VjR0VEhYYw?oc=5",
    "time": "2026-11-20T22:32:00Z",
    "t_id": "Trump kembali mendesak Fed untuk menurunkan suku bunga"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia shares plunge as Anthropic can't stop the AI selloff",
-   "src": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5",
-   "time": "2026-11-20T22:03:13Z",
-   "t_id": "Saham Nvidia anjlok karena Anthropic tidak dapat menghentikan aksi jual AI"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
-   "src": "Virginia Business",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDJTQ1VRUXQxSndxRXJpTnRjNUVZTFpJSlRaYW92VVZHcjBPbHNuMERVeUZRNHZHUS1PcUJaNUVFUzZvVWlpdndtQm45Ukcxczd0eUpMSFkxTXV3RTdWV3RDWkVORHNvdndfMzVXZ1VtTkg1czI2eUhLOUF4dWFvSUJCNzlCNzB0?oc=5",
-   "time": "2026-11-20T21:58:41Z",
-   "t_id": "Wall St berakhir melemah tajam karena aksi jual AI, S&P 500, dan Dow terkoreksi"
   }
  ],
  "errors": []
