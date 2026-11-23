@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-23T23:05:18Z",
+ "updatedAt": "2026-11-23T23:19:57Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price at 6 PM CST on Nov 23, 2026",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVlvbmVpcFlmOXB6NkhFTExtbVdTcks1T2ozZnNUcW1jcVZoWENETDdMV2JaV2hsQlFoUW5vZ0dFSnVhdURwdGlMdXVNc2h2WW9rZmoxRnJDR3RUdFJJMGdtV1RHNWhvRVMxekFSNWdfWGtMMUtuTktPb3hYOHVGcGNPd3V3bGlYQkxrR0RvdjhLdnNFcHN2dmpUZ3ZTeGNDVmxLa0oyVWNVSUJSei1V?oc=5",
+   "time": "2026-11-23T23:08:04Z"
+  },
   {
    "topic": "saham-as",
    "lang": "en",
@@ -17,6 +25,14 @@
    "src": "The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2hQWkFUb3FTN0M5NFBTZkFqRXUyWkpjd2VfQXhFeHhralRhLWRLaFpnRThDaVluT0hadm5wVUt6NTVkYmw5REVLbjJtOGFZZ21SOHJEWVp5Ty10aUNXQVJHTktfTkRSSjY4dmtnNDlaSkF6TUV5X3AyeTZ3UkpzckgxLVVlLUZFbEhRa0pGWW5EN211WjhPb1dpQnNiNmVnTXNTREFjNlZtYlZKUzRYMk9KVHh1WGpNSnNkaUl0aFdjTFV5N29N?oc=5",
    "time": "2026-11-23T22:28:53Z"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Trump seeks another $100 bln in tariffs against China",
+   "src": "Yeni Safak English",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1ZkQTEwNWhuMV9vTEZFYm1NTzFsWHlBWnJWMTRsc3dvVUs1MzlicFk2RXNGNnVBMGQ5dU1mM1ZQQmN6ZnpaemNuZWFhN001MmVPamhlNWs4OS1sUDh4MlBsd0JpdkVjcXBaQU5IaWR6Y1NqUUxZYi1BbVRHdjBJak4teHRXcVQ5Z3loQ3lMWjVBZHBBZUE?oc=5",
+   "time": "2026-11-23T22:28:33Z"
   },
   {
    "topic": "saham-as",
@@ -84,14 +100,6 @@
    "time": "2026-11-23T21:47:00Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold price today: XAU/USD rebounds as banks assess 2027 outlook",
-   "src": "Beinsure",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nRnY3U3BWSGlpcXVMckdxVC03RHppZU1fdlU5MlNna19ZbmVqQjVfZEN5d0FodFM1VHdkcGV3b2dGVUdrVlhnZFZsYUZlR19XbjgwY0NmNTFuYVVHTk9zVURhLUY?oc=5",
-   "time": "2026-11-23T21:39:10Z"
-  },
-  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "How Fed Monetary Policy Shapes the Housing Market Today",
@@ -107,15 +115,6 @@
    "src": "Asset Securitization Report",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcU9KckRLaEg5cXdKSjIxWHVrbW84Rjg5bERZbng0TFNxVDBrWkVUcGdiWk80UnpZaUpIZmZ4bDBaaG1DNmtYRkYyT0FlbXNPaGFNRmUtemh0S1p3THhjYjg0RDdrTHRJdG5vbmRqOFpaVVEyS1NRc0xUTU5XQ2daUFd1RVZDZ0tLeGczMEFFVWtNVjdRQUNYSVJ0eEZmTll4S1hnNHZ1TXgzYk9rRERzY0lRMHM?oc=5",
    "time": "2026-11-23T21:27:38Z"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
-   "time": "2026-11-23T21:23:00Z",
-   "t_id": "Saham Melonjak Setelah Jensen Huang Diangkat Kembali sebagai CEO Nvidia"
   },
   {
    "topic": "saham-as",
@@ -235,13 +234,13 @@
    "t_id": "Cek fakta: Apakah lebih banyak minyak yang melewati Selat Hormuz dibandingkan sebelum perang Iran?"
   },
   {
-   "topic": "kripto",
+   "topic": "emas",
    "lang": "en",
-   "t": "BTC price range on Nov 23, 2026 at 3pm EST Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHUwTFY5c2J1WVJDLUxIRmVZSEJrdkhfRUdUZjlmaXRBQmVXSVVzWG5qOER3ZmV3ajJFU1pFWmlGZWZrXzBaalBXXzVsS0IwNlJJN1Q3N3B6TUpqYU81czY0TTVPVFdfb0FmeDJMNWRUZFJ1eEFWaFM1Z1FGeEd1QmpMbDZsMXNDYmxoY2dxVjZjTjdIcjFIUHdfNWVhUUJ4R3ZCUFN1RkZUSTZNVmQyZWRYUlFjdw?oc=5",
-   "time": "2026-11-23T19:03:00Z",
-   "t_id": "Kisaran harga BTC pada 23 November 2026 pukul 15.00 EST Prediction Market"
+   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
+   "src": "StoneX",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
+   "time": "2026-11-23T19:03:44Z",
+   "t_id": "Emas Rusak, Tapi Apakah Ini Pertanda Apa yang Akan Terjadi?"
   },
   {
    "topic": "china",
@@ -253,12 +252,13 @@
    "t_id": "Bagaimana Nilai Tambah dalam Perdagangan Memperumit Gambaran Tarif"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Tok! BI Kerek Suku Bunga Acuan Jadi 6 Persen pada November 2026",
-   "src": "Infobanknews",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUtMQXUxeG43TFhzWGhqS2ljTF9MSWdENDR6eHA2UWVTV0tvTnRyN3IzRFk0ZWJ3aXk5d3g2anRZaWRmMFZiUUY0TXBfLVMzWTNXV21kN2RCd05SRHA1dk5JNzJJTi1JTmFzNWhwMTZqTTZWalU5SWVXUzFuSnFHN3IzN0JmSVBuanJpbERVMEo?oc=5",
-   "time": "2026-11-23T18:45:08Z"
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Amazon Makes AI Chip Move; Stock Climbs Alongside Nvidia Relief Rally",
+   "src": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGNWcWFkazVXMUhqYkdVOXN3UUJFbVppRWw4RUZaVFA1ci1TLWlXUk5xOG1pUWJ0X1VKZEN4SVRpYUpzbVlsSnVhVW1fM3dDdGp3NHFiMXVraHVvUXZBOUExZy0yVWdscE5wZWNUd256d1U0bzh6b0Uwell0NXRqekVVOEo?oc=5",
+   "time": "2026-11-23T18:31:00Z",
+   "t_id": "Amazon Membuat Chip AI Bergerak; Saham Naik Seiring Reli Bantuan Nvidia"
   },
   {
    "topic": "geopolitik",
@@ -314,6 +314,14 @@
    "t_id": "Kembalinya Nvidia (NVDA) memicu rebound perdagangan AI, tetapi harga bitcoin (BTC) kesulitan untuk mengimbanginya"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Goldman forecasts gold price to take two years to recapture all-time highs",
+   "src": "Mining.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclNUWUNnSmN3V1BqSnJobnN5T3QwZGdVZG1uX2xETDB0a0FvckVUTkFfVndDcGN0SGJOTVB0M2tyeUZ5RVFfRU5UVW8xY214bWljTDAzeDFlNUpFUjY1TGFWanJWTTlUYWxLcVMxSzFsOEhob1NlblR5ZUFCNFNLS0VvdG5IeGJEbVpyeTNTUEZ1MXlGbDNRMU95VkJBNnItaU5qLQ?oc=5",
+   "time": "2026-11-23T17:22:50Z"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
@@ -321,14 +329,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5",
    "time": "2026-11-23T17:15:06Z",
    "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Taiwan Warns Chinese EVs Could Threaten Canadian Manufacturers",
-   "src": "Manufacturing.net",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUxFcklYT1JIbjRteV9vRGg3c25mWGpOdEVWTUYwaHlRbXJMSktBYTl3UmN0bzNtNEJFMkVWdXpRYmRpLXVteUx1ekVKZ2hOTUY4T1lMOV9VOVcyRnNGSkFxa3RwQWlIUHRtSXlVUVlOQWdEYUI1Q3JCS0hjdTZBLTlmdnR2RXRnNW0yZThFb3RPWWhRZ2llc0tDT2NEMlpidXluZlBva0xWWldvR2lqR0pYTWdNdVYy?oc=5",
-   "time": "2026-11-23T16:59:13Z"
   },
   {
    "topic": "kripto",
@@ -374,15 +374,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZamZzX09EaWptay0tYmdmSk1fbG4wWUJ6X0V0cTdmNGFnd2x6Y3VNZmxnUlRISTJXWTFlTFJ1ZkpucS1LT2EzZE8yNW50d19sSlE2LTczRDNEUWM4RGREMHV5TlJiMXc?oc=5",
    "time": "2026-11-23T14:54:10Z",
    "t_id": "Harga Bitcoin saat ini untuk 23 November 2026"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold price rallies above $3,600 as AI selloff reshapes Fed outlook - Kitco AM Report",
-   "src": "Kitco",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenF6LTV0TWdncXg5WDBQNS1Dc2lSVEUwNmpsRzR0UGg4a0VOM21NN2hTNnN1Mk1fZDhmcWs1WU41UW9qcUFieEJnemYyRTdhZy1hakhLbHRXemltSTFVTnBFaEhLdDR5LTYyeElnTjBKdEVNeUFXRnFEQlh5bWllNU1vOEw3eHlaRXZBZzV1WlNXUWd6R3BHdmlTajdyZUJueU5vNTlCUmhvclZtLVRlamJyel9USGM?oc=5",
-   "time": "2026-11-23T14:18:04Z",
-   "t_id": "Harga emas reli di atas $3.600 karena aksi jual AI membentuk kembali prospek Fed - Laporan Kitco AM"
   },
   {
    "topic": "emas",
@@ -458,6 +449,22 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "Rupiah Tertekan, BI Andalkan Kenaikan Suku Bunga untuk Tahan Arus Modal Keluar",
+   "src": "InvestorTrust",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmdpOU1CRElzTXVBRFI3VktZdWJJYTZCV2tmZnNENWR2Z0V6NmxWNEV3dWppUnBBVmNNRmF5d29IbXBOc1J4elFISTBUdFpOY2hVWnJkenBOQkJGTDY4RzFmcVdSZUJYYTl0OWVaZ21WcjVhZFlVSE50RmR4RFJ0dkNYcVFsS3lDX21qRXRCQlBfR2p1RGp4ZnlGYnpNUWw1LVNlZkNYb05tM0VJVmNTWnoyMEpvZw?oc=5",
+   "time": "2026-11-23T12:32:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Jurus Bank Danamon (BDMN) Jaga Margin di Tengah Kenaikan BI Rate",
+   "src": "Bisnis.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ3lQR1l3UFowVm41cFh5STFkMGFFaHMyS09sNHNCWlloMGF0bm9XUUxZSlBFaWNxdTdiUEFUbGRuSjh3eDNQUDdBYkY0b1lERldiQ3pkM0Z5MGI0Tk9NeElERFZrc2ZiOTREenVwLTYwLWVjN3plMDl0Nlc3RmY4Rm83OTFsbjB2Z2FsTGN6SnVWeTNnelF5ck1OX0t2SVFDNUtJbE9oQkh6YVpwOHBtZzBxSkpoX2M?oc=5",
+   "time": "2026-11-23T12:30:27Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "IHSG Menguat setelah Turun Sepekan Terakhir (Senin, 23 November 2026)",
    "src": "Databoks",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1EzZk1tbW4tQm5adnVIaGxLUmw4R2JVc3R4am9uLU4tVTBoZVVNVENnYUtGc216b1RpblBSN3g0UHZBUU1wVmFNZERLUE1ucVV6SFZwZHlQbHRyNGJEVGFhYXpfQVlyN2lfVzhVSmkwY1RlSmdoWnNRUmduOUpVTkVFQ09oYXdUTzhIVmttbEdlTTZHYUZnUmhKNnZqRjhqWWtVZXg1aXRNaWdBdE9oMndpM1VHSUR4YktOQzd4LThpc2lYVEcw?oc=5",
@@ -514,14 +521,6 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaEVjbkpKbnFVV2laS2hNQWNuR05vS1R4QjRVYkZTdnRudHc2LUYtR2VwS2RNYVAzelJ3Z0hjOTFCb0g0MmlGQk9WTVF0YkFQSUE1bzFFUGFEUWs1ZGkxckJWZVMtOUgzdmJiS25DUUZLQXdJVjJtZGFfdVBhaS1lblVTakFLLTVKMFhBSg?oc=5",
    "time": "2026-11-23T10:00:00Z",
    "t_id": "Taiwan: Tiongkok memberikan risiko bagi Kanada"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Ditutup ke Level 5.215, IHSG Awal Pekan Berhasil Menguat 1,35 Persen",
-   "src": "Pasardana",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWF4RmRMeGt6TVpfalRaT0puVmVOSk96U0d1cURSWmZHanVNYVF2XzdhdHNiNlYyc2gwOFkxVVc3SVJzNnJyNXE4dUhqVzkxdk9OYXRWMmxPLU1feHlYbkpsdWtkM3dwYVRXWmFObV85blJmelhQOW1pZHh1SE5GWlVnRUhYczRJa2w2UGdyM2xrODZaM2pzMEpmNDFNcHBsSHpNR29NRQ?oc=5",
-   "time": "2026-11-23T09:58:00Z"
   }
  ],
  "errors": []
