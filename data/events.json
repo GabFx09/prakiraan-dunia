@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T02:40:44Z",
+ "updatedAt": "2026-11-23T02:55:25Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
-   "sources": 21,
+   "sources": 18,
    "recent6h": 2,
-   "score": 22.0,
+   "score": 19.0,
    "level": "besar",
    "first": "2026-11-21T17:46:01Z",
    "last": "2026-11-23T02:25:15Z",
@@ -50,17 +50,23 @@
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "US intelligence chief warns of more tech outages as ageing systems are upgraded",
-   "src": "Business Upturn",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1otcnNGeV9pT19fUTZoNVQzcWdldjBKS0dRUDE1UXRwZzIyVngwX1lYOGt5aVpVNkY2cEdkX1N2SU5mQTN5RkdDeXlXOVU1MXJpNWkwaWFZajl0WUZIdEJ6b3pJaTZNZk1FWlFrSnVYWWp5UkVBUnBrVnpIbXYwZDZSc0poMk9GTVAwenlPdmtmZzIyZThnVnFSTFBhNTlrYnVKSm9Wc1RIN3BFRzZodWFPMjVsNHAzdFE?oc=5",
-   "sources": 7,
-   "recent6h": 4,
-   "score": 9.0,
+   "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
+   "src": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzlzVnM3d21XaHZjRnVNQjFTSkZ4dmpVYnc2Rm1vSzJlelhiUkUwNDJIemJ5TWpvNGlURElGdjJjanBYR0NzSmFtREhZVDc1RlB0RWZiOTU3Ul8tUFpwTUpmdVZQcU84TF9sU1p5T0JGVHRGUXhMM0NfOTE3dF9wSWJsa0dxVnJ1RFBWOG41QUhSUFpxTXlHU0UtLWVsVExMQ29tTTVSWTBNZnFKdjF6dmk2ZFdWUkdlajlOT2VpNUpJQmNWOG9LWEtjdjVYZjRvM0NuN2xUMVl0UldGbnk4SDZ6aXR5Z3JkdU040gHkAUFVX3lxTFA5WFZ0YzF4a2RwYmtXYjlXUEZ0SUVMMnBUdXI5dUFhQS1uTnVCeWdwTWQ4aXZlVE5PdUpadmRMVVpPNWVyMjk5Zjg0d1phUXJ2YkFwLXdlejhSQzZrd0F0NHE0dF9FVFNWT1ZRUXk3RnVrYzM5a2tyYS0zRmFKWTJITG1BUWhKU0l2cFk2UjdNM09Vd0RPSF9NZGFuX3loakNxcFVUN2VCN1p5Z3dTMXc1VzdVYzYtWEh6OEE2V3d1WTBBX3BHWGtsZ2N0UVVtbEZDUTYtLWhsTHVUWkFzLXdfQ1EyXw?oc=5",
+   "sources": 8,
+   "recent6h": 5,
+   "score": 10.5,
    "level": "besar",
    "first": "2026-11-22T17:13:38Z",
-   "last": "2026-11-23T00:35:19Z",
+   "last": "2026-11-23T02:46:51Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "US intelligence chief warns of more tech outages as ageing systems are upgraded",
+     "src": "Business Upturn",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1otcnNGeV9pT19fUTZoNVQzcWdldjBKS0dRUDE1UXRwZzIyVngwX1lYOGt5aVpVNkY2cEdkX1N2SU5mQTN5RkdDeXlXOVU1MXJpNWkwaWFZajl0WUZIdEJ6b3pJaTZNZk1FWlFrSnVYWWp5UkVBUnBrVnpIbXYwZDZSc0poMk9GTVAwenlPdmtmZzIyZThnVnFSTFBhNTlrYnVKSm9Wc1RIN3BFRzZodWFPMjVsNHAzdFE?oc=5",
+     "t_id": "Kepala intelijen AS memperingatkan akan lebih banyak pemadaman teknologi seiring dengan peningkatan sistem yang sudah tua"
+    },
     {
      "t": "Americans should expect more technology outages and disruptions as companies and government agencies replace aging systems, the top US intelligence official said on Sunday. Read more: https://www.gmanetwork.com/news/topstories/world/1010445/us-i",
      "src": "Facebook",
@@ -78,15 +84,9 @@
      "src": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa19EX0szUDlDYm1fbElCUEYzQUpDZlBKeGxMUHhKYzE2V3NzZmVvTFl5V19XLUMwWkhiLU9YczFuNnZ6SUFPNkR5ZzM2dzRrVkdMMENJaUNlWlA1bXl2QXBmZVhidVdvUmdvSkVMbkdXa2ZseHhyNTFzbUQ1REhpaUVNSG9rZU5xZThPTGs1RlFQRlc0XzlVYXRnY1UyUQ?oc=5",
      "t_id": "Presiden Microsoft Memperingatkan akan Lebih Banyak Gangguan Teknologi dalam Beberapa Bulan Mendatang"
-    },
-    {
-     "t": "Director of National Intelligence Jay Clayton warns US tech outages could continue amid ongoing system upgr...",
-     "src": "Firstpost",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNczVBNHluWTlnNHpMTU5TY0dBU2FNRlQ1dllPMXZHNFFfdXZXWDV6aW5zYnI1SDlWb0RyaTA0LWhEQnRVeHNPUlBrT2NuQ2xtb2RRLVBrRnByZUFmSnR3MktOU2E4eXNZc2c3UVdzWFF3SnlTang2LS1pNDFzMURyTGhuQzZVOEUxN0Y0UkxnaGpfY0otTlpXd3RvS2dINnhvZUZKTUp0Rk0tT0dCQ1g5SUtNcE01X2pfOUVIbl92Q3gzcHZpd1V5VEJzRUdGSlpxWjRMWFlEQk92VndhZ3BtNUE5MlhKT0s1djlxV9IB8gFBVV95cUxPREZqeFF0dDlDeEw2UC04UkNBVXRicllhUlFrZVBaS2tIcnEybEl3TGY0eGNHWG9leVBjZzBqRkVlZ2pEV0xMb0R0MDFyLXdoaHZsM1htUUFDeGdQNjBDd0ZSQ3A4VVJZX3U3ZFV4QkthRmpKd3ZFa0pWdDh5V09qYlZ3ZTBLLXZoRGdwbzMyQ2lhQWc0c2lwSXo4NGxpLWNBd2NteFpMR3U3OU5ZLXA2QlpDZW9MaHNNY1Vmc1dzNkR0SlBxZmI4S3JsWnBZVWpVUGY2d0I5cE80cTBDcTlMWE5CX01zOXo5Vng0M0hiUGVTZw?oc=5",
-     "t_id": "Direktur Intelijen Nasional Jay Clayton memperingatkan pemadaman teknologi AS dapat terus berlanjut di tengah peningkatan sistem yang sedang berlangsung..."
     }
    ],
-   "title_id": "Kepala intelijen AS memperingatkan akan lebih banyak pemadaman teknologi seiring dengan peningkatan sistem yang sudah tua"
+   "title_id": "Kepala intelijen AS memperkirakan akan lebih banyak pemadaman teknologi seiring dengan peningkatan sistem"
   },
   {
    "id": "transportasi-202611221445-a75c",
@@ -241,43 +241,6 @@
    ]
   },
   {
-   "id": "siber-202611221057-79f3",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Delta baggage system outage delays flights across US as Thanksgiving travel rush approaches",
-   "src": "Firstpost",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTHZVV3pMc2NmNGQ0RFVHTnRmQndpT1FjdXBjQkdCb2dtVWw0ZDZyckdLdFZ3VWl5bTZ0dHRDMjNMdFFDUkgtVkhuaGJDejlIUTg4MHJ1eTlnWTE4S0cydWlNc1BKUVJmTkYteVk4YmlwWjk5cVRQOEotMnZwZXl4Y1pKRmVwa2trbXFOYS1EcWFxaUxWR2FzZ2RlWDROZ1g0V1B5OGh3S3k2RU5YSDV5bGM5WjdpbHNoNkVQSjdZZTZIeDhkUFBZRWthalFqQ01nMkN2YTBOUdIB1wFBVV95cUxQTHZVV3pMc2NmNGQ0RFVHTnRmQndpT1FjdXBjQkdCb2dtVWw0ZDZyckdLdFZ3VWl5bTZ0dHRDMjNMdFFDUkgtVkhuaGJDejlIUTg4MHJ1eTlnWTE4S0cydWlNc1BKUVJmTkYteVk4YmlwWjk5cVRQOEotMnZwZXl4Y1pKRmVwa2trbXFOYS1EcWFxaUxWR2FzZ2RlWDROZ1g0V1B5OGh3S3k2RU5YSDV5bGM5WjdpbHNoNkVQSjdZZTZIeDhkUFBZRWthalFqQ01nMkN2YTBOUQ?oc=5",
-   "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T19:53:36Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "What Caused the Delta Outage? Inside the 'Weight and Balance' System Behind Sunday's Delays",
-     "src": "Men's Journal",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWxfTThxVmNMZDlocHY1NVlBVF9tM0p2ZEdISG5tY2MxZ0JZVVpUTExaTmdLd2ZGV195MUUtWHR2WER3MF82bS1KQ0wza3VIOWZnVmJJQ2FQNkwzQkpQSzBBYmxLZy1ib1BIUTN0cG85cjZka0lCd3A1OUFwaHFVOXRKeHMteEU0?oc=5",
-     "t_id": "Apa yang Menyebabkan Pemadaman Delta? Di Dalam Sistem 'Berat dan Keseimbangan' di Balik Penundaan Hari Minggu"
-    },
-    {
-     "t": "FAA lifts ground stop on Atlanta-bound Delta flights after system outage",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx0gGaAUFVX3lxTE5GbV8wMjFfSXVYOF9RQzF6UHZpWThoOEdrbU15Ym5BUTUxTlVKTEhscmtob193R1U2T0txX01fcWlQeGxKcmZhQTd0Z3lEeGx2N0NOcnZ1bThPbHRRRmc3TGtsY2NTcmRfdmpyRXRNVGFkVEd5QmUwVUFTLTZWeGRwVEN0ZklCSFFrc0VwR3VfbFlpUDdDNHBwQnc?oc=5",
-     "t_id": "FAA mencabut ground stop pada penerbangan Delta menuju Atlanta setelah sistem padam"
-    },
-    {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
-    }
-   ],
-   "title_id": "Pemadaman sistem bagasi Delta menunda penerbangan di seluruh AS saat kesibukan perjalanan Thanksgiving semakin dekat"
-  },
-  {
    "id": "politik-202611220000-f137",
    "cat": "politik",
    "label": "Guncangan politik",
@@ -309,29 +272,29 @@
    "title_id": "Mongolia menuju pemilihan presiden cepat pertama setelah Khurelsukh mengundurkan diri karena tuduhan korupsi"
   },
   {
-   "id": "transportasi-202611221057-2784",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "siber-202611221057-79f3",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Brussels Airport cancels flights as Belgium strike shuts air traffic control",
-   "src": "Beinsure",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGZ1dzJJUnVTTWp3QTZ2cURKczVsVWZtUjROOUxWN01EWk13cndFU3pjY3VSYWpJb0I3VzNROU9LMVYybERDcDZVU2hzakYwNHFkLUl6MHpPV3Fhbk0xS1hTWXZSQ2ZWcGZDeEpVSkZPa0JFMkdIR3I0bHR4TW1mekxrZw?oc=5",
+   "title": "Delta baggage system outage delays flights across US as Thanksgiving travel rush approaches",
+   "src": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTHZVV3pMc2NmNGQ0RFVHTnRmQndpT1FjdXBjQkdCb2dtVWw0ZDZyckdLdFZ3VWl5bTZ0dHRDMjNMdFFDUkgtVkhuaGJDejlIUTg4MHJ1eTlnWTE4S0cydWlNc1BKUVJmTkYteVk4YmlwWjk5cVRQOEotMnZwZXl4Y1pKRmVwa2trbXFOYS1EcWFxaUxWR2FzZ2RlWDROZ1g0V1B5OGh3S3k2RU5YSDV5bGM5WjdpbHNoNkVQSjdZZTZIeDhkUFBZRWthalFqQ01nMkN2YTBOUdIB1wFBVV95cUxQTHZVV3pMc2NmNGQ0RFVHTnRmQndpT1FjdXBjQkdCb2dtVWw0ZDZyckdLdFZ3VWl5bTZ0dHRDMjNMdFFDUkgtVkhuaGJDejlIUTg4MHJ1eTlnWTE4S0cydWlNc1BKUVJmTkYteVk4YmlwWjk5cVRQOEotMnZwZXl4Y1pKRmVwa2trbXFOYS1EcWFxaUxWR2FzZ2RlWDROZ1g0V1B5OGh3S3k2RU5YSDV5bGM5WjdpbHNoNkVQSjdZZTZIeDhkUFBZRWthalFqQ01nMkN2YTBOUQ?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T23:08:38Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "last": "2026-11-22T19:53:36Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+     "t": "FAA lifts ground stop on Atlanta-bound Delta flights after system outage",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx0gGaAUFVX3lxTE5GbV8wMjFfSXVYOF9RQzF6UHZpWThoOEdrbU15Ym5BUTUxTlVKTEhscmtob193R1U2T0txX01fcWlQeGxKcmZhQTd0Z3lEeGx2N0NOcnZ1bThPbHRRRmc3TGtsY2NTcmRfdmpyRXRNVGFkVEd5QmUwVUFTLTZWeGRwVEN0ZklCSFFrc0VwR3VfbFlpUDdDNHBwQnc?oc=5",
+     "t_id": "FAA mencabut ground stop pada penerbangan Delta menuju Atlanta setelah sistem padam"
     }
    ],
-   "title_id": "Bandara Brussels membatalkan penerbangan karena serangan Belgia menutup kontrol lalu lintas udara"
+   "title_id": "Pemadaman sistem bagasi Delta menunda penerbangan di seluruh AS saat kesibukan perjalanan Thanksgiving semakin dekat"
   },
   {
    "id": "indonesia-202611220720-02ac",
@@ -380,31 +343,6 @@
     }
    ],
    "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
-  },
-  {
-   "id": "perang-202611220254-5022",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Iran war live: Bahrain reports damage to civilian industrial facility following attack",
-   "src": "Arabian Business",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-22T02:54:00Z",
-   "last": "2026-11-22T09:00:05Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Bahrain Attacked Again As Iranian Missile-Drone Attack Targets US Military Positions, Civilian Industrial Facility Hit",
-     "src": "The Daily Jagran",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbUt6d1hZZTZwakNlQ0Qtc25wRnJOdVFwa1VKay1OREF3U1VFQlBqTjktQUFIcWw2OThqWTQ2NFBjb1N5Q2MwUmJjVTRZOHgxaWpuSE1CQTEzUHJLcGRfZGkyOWtfRWxtYl9tY0l1SlczZjZEMG45ZWwxUzVZNDJ3UDFrOHUwRTlPMWF6LVBRUFJZbjZKaWZmelEzZUFmY0Y3Q205bERjaHBjbkJIekJZcGMzQWUxSThscHlRVGZpY3FDc29Vck1weTlMV0ZXTWdNN2Z1Nkg5blU3ZVRmdnk0WmhQNU9jTGU5UF9RUkZIZ0RPWFRpLXBFN9IB_wFBVV95cUxQOTBMTGtrZktNVnd6TXpHeWp6NG1DR2h0Rzl6NWVWZjVWQTkwLWJOTlQ5M3MtR18zNXpveFRHTkNyNDdLSW5ManozdGpvTjlfdmpONEgzTndrdFJwN2ZhektQTFJqQnB2bG1JUE0xWTQwMzlaNHp0SFJxdDZENWg2TXJKSlRWaEtxYzlJSjdmTVhOZWllNjZPdVVEWEIzWG5sYU9zZkl4Z3l4YVRIeFNqYTIzRUozcVFveEhla0V1ZkRaWndfMHBZZVNtNmt0eWdiX3RzVTZQZlljT1NxczQ3eWduVEl2a1lWams2RjI5akJuQ3JuZkVydG9IUG80UEk?oc=5",
-     "t_id": "Bahrain Menyerang Lagi Saat Serangan Rudal-Drone Iran Menargetkan Posisi Militer AS, Fasilitas Industri Sipil Terkena"
-    }
-   ],
-   "title_id": "Perang Iran langsung: Bahrain melaporkan kerusakan pada fasilitas industri sipil setelah serangan"
   }
  ],
  "errors": []
