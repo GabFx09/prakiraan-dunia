@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T17:11:12Z",
+ "updatedAt": "2026-11-23T17:25:45Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -69,24 +69,6 @@
    "time": "2026-11-23T15:51:55Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Rebounds After Sharpest Weekly Decline Since March",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1lDUDJKYnppMTFtNDdCYUoyWkVjdTBJYWpOaWY3OHFRUTMxT0VSUTR0UWN4SEFQVVZJUlhqNjU4OFlDeXdHZkh4ZUFFSTNzWXhEcWpRQ0h0eVk3Q1ZmU2I5OURqdnhEc1hlQmRDcGVVLXZ5YW8yTWQ4dWYwRHE4V0dLTGZhd0p2S3A1V0l6MUs4M3RXaFh0TlJDZUdQYkdPRWNoclFEMl9sY2JTQzNZcDJn?oc=5",
-   "time": "2026-11-23T15:51:23Z",
-   "t_id": "Emas Rebound Setelah Penurunan Mingguan Tertajam Sejak Maret"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "US stocks soar and recover more than half of last week’s plunge after Jensen Huang returns to Nvidia",
-   "src": "The Boston Globe",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmWnlmYlN3MEt4bE1IaWx5U2l0VDdtRWJqX0d1UDNFdnV3N3FDdnlKRkE0ZUFsQ0R5bElmeURrSFhjVlNOejc1Qms5UkcxMk5HU3hsR21uMk1RMlkxU1V5d3JYSjRVUURHZlFNX3NFQlhtSDlZdTN2T2tLa3lkUQ?oc=5",
-   "time": "2026-11-23T15:51:01Z",
-   "t_id": "Saham AS melonjak dan memulihkan lebih dari setengah penurunan minggu lalu setelah Jensen Huang kembali ke Nvidia"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Anthropic Shares Churn, Defying AI Trade Rally on Huang’s Return",
@@ -112,6 +94,14 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mYUhVU09pZkpOYUR0TEl5M0xtRHZMS082M0Z3LVZrWWJ1NWdTZUlYc25kY1l6N3JtSmliYm52OEdDSy1yUWh0MUtIcWo4Vk1aZWphWmZyTHNMc2pKTnN3TA?oc=5",
    "time": "2026-11-23T15:23:47Z",
    "t_id": "Bandingkan Suku Bunga KPR Saat Ini"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Wall St roars back as Jensen Huang returns to Nvidia as CEO",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTV0QmI2TEUybTlKQU5JLXpfWEFXbDh2SVF0SkYxS216UVJpYTNRS2I4ODF3RnlLWk5Ic2ExNVlKVEl3MTdtOG9VMWg1UnVqNzNsbmZWdGg2TjQ0WllYSVpmWnlBb0RBRUNNMnd2YlBDT0J3X2EwT2t4WFBPdEwwZ1ZubjJESzdrcnNjeHRoSUZ0anY4SDladmFwb1gtU3M?oc=5",
+   "time": "2026-11-23T15:03:06Z"
   },
   {
    "topic": "china",
@@ -156,6 +146,23 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkRyU2c3WTFzQmdXYVEyNDZuYTYtYi1jaUk2TzFvNDJSZnFTMms0dUJUczhvS0lETE5PSDQxS2FzaHhpSTdiYjFTVWpEQU9WWGNnQVB5N2dvWUVvTzdkblhaZ3R1ZXc2c20zck1VaEk0dXRNdExlcmdDNTV3b2liRUd0a0pKUTNSNk56QWh3UjlUdUk?oc=5",
    "time": "2026-11-23T14:44:39Z",
    "t_id": "Akankah harga Bitcoin bangkit kembali saat Jensen Huang kembali sebagai CEO Nvidia?"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Rebounds After Sharpest Weekly Decline Since March",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1lDUDJKYnppMTFtNDdCYUoyWkVjdTBJYWpOaWY3OHFRUTMxT0VSUTR0UWN4SEFQVVZJUlhqNjU4OFlDeXdHZkh4ZUFFSTNzWXhEcWpRQ0h0eVk3Q1ZmU2I5OURqdnhEc1hlQmRDcGVVLXZ5YW8yTWQ4dWYwRHE4V0dLTGZhd0p2S3A1V0l6MUs4M3RXaFh0TlJDZUdQYkdPRWNoclFEMl9sY2JTQzNZcDJn?oc=5",
+   "time": "2026-11-23T14:44:00Z",
+   "t_id": "Emas Rebound Setelah Penurunan Mingguan Tertajam Sejak Maret"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO",
+   "src": "Bitcoin Magazine",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xWDZrY2dwOXIzTzlBSXZGdUNfLXU2V1pqRklMYUFSM1pzOTlLQTFKZUJnWVRqalN4OUFuNWJwZlQzZ3B5R0JhSk1JYjdNMXhvaG9YZnRMUVhoYVlCS1pXYXA0Q254WkdsNUNXLUx0ZVlhaUdPVGtIdQ?oc=5",
+   "time": "2026-11-23T14:33:18Z"
   },
   {
    "topic": "saham-as",
@@ -237,21 +244,13 @@
    "t_id": "Grafik, Data & Berita S&P 500 (^GSPC) - Yahoo Finance"
   },
   {
-   "topic": "kripto",
+   "topic": "bank-sentral",
    "lang": "en",
    "t": "Serious U.S. Treasury Secretary Warning To The Fed Puts Bitcoin And Crypto On The Brink Of A Surprise Price Shock",
    "src": "Forbes",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQb2w0dG40TTRoWktfekRsLURMTWF6THE5Qi1BWk5zOUNhTC1lVEFOVHdhbTZYMWstbGJYRU5Vckxxekc4S1lnNERuRjVzbk5PYlFHV1F2anNQbUdocXU2V21ScXlBZl9zYklYeDBJeHIxSDJqLTJqUDd1c0VlWWp4MkFiU1FSWGtXTkRncW9uWVBIUUxaQmNlMGQ4bTBwQW4tSngzQTZLQ21PSExlcEw4VWVtTHVCdC1Sc2x5QS1HTVQ5V2YzUTB6Yy01Q2JFX1NMUU5Zc1F6Nnlsb3o4d1p4UzJfMHpUR0FHQTJkQWpNMnhEb1lHTjA4REMyMA?oc=5",
    "time": "2026-11-23T13:35:29Z",
    "t_id": "Peringatan Serius Menteri Keuangan AS kepada The Fed Menempatkan Bitcoin dan Kripto di Ambang Kejutan Harga yang Mengejutkan"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "U.S. Trade Rep Says Deal With Canada ‘Fairly Close’",
-   "src": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVZvYWNqVG5kS2RyZTh5c2hmYTFXaGVDbm5zcmhyTVpwNV9fRld4QjlFSFNlTUVxcHlHZDlGZXR6aFFsdzdrS3BTT1F1elNrOWYzWXZleEZMMHd2UGtHLUd5MjVLalc2c3AwelYwakFJS0UzcW50cXUzNC1CZkNoSF9pUEZfUWgteV9salJvaFF1SzRKY0hqQTRDN3N3WmgxM3Q3cHRaUDRIUzlK?oc=5",
-   "time": "2026-11-23T13:33:00Z"
   },
   {
    "topic": "geopolitik",
@@ -342,6 +341,15 @@
    "t_id": "Harga emas hari ini, Senin 23 November 2026: Harga emas dibuka pada titik terendah sejak 25/9/25"
   },
   {
+   "topic": "china",
+   "lang": "en",
+   "t": "China’s Zero-tariff Window Puts Nigeria’s Export Capacity to Test as Trade Hits $17.4bn",
+   "src": "THISDAYLIVE",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXB4WVF6TktBTXAtTUtOZVB4ZVZFcUVaR1NuVXlSV3VhaGI0Vy1kNTNpNDlRVDN6ZERLTzhkaEhYdjAyMXhkMi0wSnlxbEMtczRjWjRVWk5rVXdOLU5hdFBlU2FXTUF4dkdTMGlSMnpFazV0NXRzaHZMNWJod21hWnFmak9Ua0lmSnU1dmZfcXZPLW9sbHVydmZDSjl0QmNTb05QY1lrSDd6RmI3T3gwZnB1Szl3LWZibFhOWmdXYW1WZw?oc=5",
+   "time": "2026-11-23T11:53:34Z",
+   "t_id": "Jendela Tarif Nol Tiongkok Menguji Kapasitas Ekspor Nigeria saat Perdagangan Mencapai $17,4 miliar"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "Bitcoin (BTC) price rebounds from 2-year low as Wall Street futures recover: Crypto Markets Today",
@@ -366,14 +374,6 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55SjFMdklaSk1tSmJJeFlFQ21MX1k0SFVfVXhCVk5hOEl0MzBFSW5JOV84RnVaMkxGNDBLYTBuV0tKRU05S3d0ckhCdE9nZ2M2NTgzMDVEUHpRN3lyUFBUajFCQVdIbXhXcUtEb1FB?oc=5",
    "time": "2026-11-23T11:26:06Z",
    "t_id": "Saham Nvidia melonjak lebih dari 30% setelah Huang diangkat kembali sebagai CEO"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "PKP pastikan belum ada perubahan bunga perumahan meski BI rate naik",
-   "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVlvOXhyZ2ZHM3JDdkNPNDFDUEhtZEI4dnE2cVNFUHEyM1BVZlIzUFczRFpHdzc4SmJ4YlRGOThCQ3BGS3pZbHpDMWZ3UXlzN2M4SmFyS1NyVW5VZ0tPeWJybmpUUjVYZVZLUDYxVlN6ODFuZ080Q3hGTzN3b3NZRnpfYXRLM0pydEtueFp0WHhkWTZrR3JyOXk1X3AzTTN5U2t1WV8yNWRrT1JPeUHSAbABQVVfeXFMUDNrY1RQTi1YTFRnbDdNUWhkVll2Qm9pdkRacnlfbnU0WDloQldHY3N2Q2JfOEZOTGFXQkVuV3V3eVc4QXpFNTZBZzc3WnAxTXVuU1FYdFJDNy0teXJTa3U0RVg0OWhxMzFWREZFa1ZOOTl6b0JVdWQ0OE9BeUV2ajB3UE84dS1HYVRuQ2JxbnE1UnhZSWY5NmFIdnBlWDVQZXBIY3ZoSnU3OS15SlJ0bzE?oc=5",
-   "time": "2026-11-23T11:21:05Z"
   },
   {
    "topic": "indonesia",
@@ -495,15 +495,6 @@
    "time": "2026-11-23T09:21:00Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Recovered Above $60,000 – Will This Hold?",
-   "src": "BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9INFdlVUZyRHVyTXpJcUNEeGFiRk9jbjdla3NMbWVsaUtjQmdNRnlTc1IyRmR5ei0weHBKYkJSeG52Q3B1NkN0TjVoVjdWWGNTZzktRFdmTXd6WHZkeGd1UmgxRXpEd0FG?oc=5",
-   "time": "2026-11-23T09:18:11Z",
-   "t_id": "Harga Bitcoin Pulih Di Atas $60,000 – Akankah Ini Bertahan?"
-  },
-  {
    "topic": "china",
    "lang": "en",
    "t": "Chinese state media hits out at ‘deflation trap’ warnings, defends economy",
@@ -519,6 +510,14 @@
    "src": "cwibc.co.id",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2a3JFTUVsaTctU3RWSFdhd0RSbi1yaEd4OUQ1d3poa25JamxVU28tbUIweHFBMjc1VExkSWYyYkFZLWNZckpZUUsyX0N4aGpKZm12cHRuWHVZaEZJTTRB?oc=5",
    "time": "2026-11-23T07:22:02Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Bank Indonesia Naikkan BI Rate Menjadi 6 Persen",
+   "src": "Demokratis.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAySjdLOWtMWUxmbkotdzFQY284ZWMtSXZTS2hPOVhZbWl2OVlteUhDMzhOSXNYUGJ1YXJrOG9lQlRISk0wRFNERFBQaF91YkdicUNqYkNiaGdzdnNSUzhpY01ZQUJ2dw?oc=5",
+   "time": "2026-11-23T07:13:42Z"
   }
  ],
  "errors": []
