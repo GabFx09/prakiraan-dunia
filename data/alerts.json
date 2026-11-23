@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-22T22:25:44Z",
+ "updatedAt": "2026-11-23T00:08:19Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-spx-20261123-down",
+   "time": "2026-11-23T00:08:19Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "spx",
+   "title": "S&P 500 anjlok 3,7% dalam sehari",
+   "body": "Harga terakhir 6.910. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#spx"
+  },
   {
    "id": "ev-transportasi-202611221057-4a3a",
    "time": "2026-11-22T22:25:44Z",
@@ -382,6 +392,7 @@
   "px-spx-20261120-down",
   "px-spx-20261121-down",
   "px-spx-20261122-down",
+  "px-spx-20261123-down",
   "px-usdidr-20261119-up",
   "px-usdidr-20261120-up",
   "px-usdidr-20261121-up"
