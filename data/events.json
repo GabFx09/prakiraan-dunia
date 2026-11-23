@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T20:37:54Z",
+ "updatedAt": "2026-11-23T20:52:31Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -100,10 +100,10 @@
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Images Show Before and After Ukrainian Drone Attack on Russian Warship",
+     "t": "Satellite images capture Ukrainian naval drone strike on a Russian warship in Libya, over 1,000 miles away from the war",
      "src": "Business Insider",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
-     "t_id": "Gambar Menunjukkan Sebelum dan Sesudah Serangan Drone Ukraina terhadap Kapal Perang Rusia"
+     "t_id": "Citra satelit menangkap serangan drone angkatan laut Ukraina terhadap kapal perang Rusia di Libya, lebih dari 1.000 mil jauhnya dari lokasi perang"
     },
     {
      "t": "Ukraine Just Pulled Off a Drone Attack For the History Books: Kyiv Hit a Russian Navy Warship All the Way in Libya",
@@ -272,6 +272,31 @@
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXFzZ3NEbmN3c2NCVV9IbjNNLVREczlxR3M1VXJ6X2FvcTVkVDhkTm45TEJRbEpLUlhwNkJqaVNONVFfV05ZTDhLZzQ0YUs5Um1xSUh1Q2tHT01UVmlnU1pSNUtIR3JzWDI5REpiRWlsQm8xWXRHTGg5bmdMUTFqNnNaLTI3d1lTbUF2aUhMeVhodw?oc=5"
     }
    ]
+  },
+  {
+   "id": "kesehatan-202611230839-7ec2",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Ebola outbreak poses significant threat in DRC",
+   "src": "The Herald Insight",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yTlBBVklPazRkSlJMbkx3eEhtcFNiTi10SHZONlBYcDJMNmpVaHNQMTEtYmRzbWVuYmEtN1g4RFNlcS1NQXhxdGpkd2g4N2owcWVpSUZ1VzI1d3ZuQWlhZHdxaXYxb2JPN1gyUl9Vd0Y?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-23T08:39:10Z",
+   "last": "2026-11-23T12:07:47Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "DRC Ebola outbreak 'growing exponentially,' UN says",
+     "src": "DW.com",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MV2lHX3IwbjVBZWZiR0FTbEpuOEJTdFo0SThSbC1XZm5oSEc4RHhIaFJvaU8zVF9Ma2FhQ28tNjRkdzVaQkR6OWZiRkJzTXN6QnpsaXVhR3QzN240RG1KeWhIb3dDeGdXM1Rv0gFrQVVfeXFMTmJlSVlWaDE2elVYbEttRXN4V3RKbVNYSVY2WlctMjA2VGlzUGp3QzNSeHc5VnBCYlo3alJZc0VtcWR6bG1yb1BMd2lKTVc2WEFTai1IOWRpajhkX25VWUtjWUlXdWxLNERKTW8?oc=5",
+     "t_id": "Kongo Wabah Ebola 'meningkat secara eksponensial,' kata PBB"
+    }
+   ],
+   "title_id": "Wabah Ebola menimbulkan ancaman signifikan di Kongo"
   },
   {
    "id": "siber-202611222118-8140",
