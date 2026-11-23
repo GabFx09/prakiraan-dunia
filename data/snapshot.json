@@ -1030,6 +1030,17 @@
    "ihsg": 5222.821,
    "usdidr": 18158.0,
    "ust10": 4.912
+  },
+  {
+   "t": "2026-11-23T06:59:00Z",
+   "risk": 85,
+   "btc": 61379.58,
+   "gold": 3622.4,
+   "brent": 89.86,
+   "spx": 6910.39,
+   "ihsg": 5221.48,
+   "usdidr": 18190.0,
+   "ust10": 4.912
   }
  ],
  "horizons": [
@@ -1476,6 +1487,30 @@
  },
  "news": [
   {
+   "t": "IHSG melesat ~1,6% di sesi I meski asing jual saham BUMN",
+   "src": "IDNFinancials",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWndNdHU2TllGLXVTWDRtUDBVMTlGT1I5bzRUZFZIQ09wc0p3VGs3UjFjSnpoTmt5Y21ZSXd4VjY5UVJnZmZKNE45THVTWHVKQ0wySldQalA3YVVZUkFjUUdNbTI0cXlua08zdy14R1QwSk1JNThWblBjZHFtZDZkMWgzQlZTUFhNckhSRENXQ0U4X0RrV2lCVg?oc=5",
+   "time": "2026-11-23T06:40:00Z",
+   "impact": "naik",
+   "assets": "IHSG, saham BUMN"
+  },
+  {
+   "t": "BI: aliran dana asing ke SRBI tembus US$1 miliar, rupiah sempat menguat",
+   "src": "kumparan",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdTBIV29LaWtFSk5ncTdyVUtkb2VsdUF5UFdqQ0t6emtYcC00OGp0dm02Nk1hUzlNVjgtdTVIb0hZWVBNWGEteTZILXA0MW1fOG1jRmhtYk9XZ09aU1lVckw1ekxhcmxPQzBWYjNja2ladDFySFI2RnAwRjMtQUVhV3RBbEt6NHdlTTNmRGxzTXlQOWk5bndXUUdOVmpJbk1rMGNjSG5hWlJ1R3BNLVpWMWwzMzNnOFhVc0lqUEVQNXo2V0U20gHMAUFVX3lxTFBUWXBTb055bjZ1bHZWT2xMVUE0ckR6RVhGVGhpSmFZOHJWWF92RFpqejJ5dWFJQlc4eHZmVVdXQzdXUkduVEtMYVpWQzRCQS00b0tROGpMUG93U2dBZGNTSy02WURVemctUWRPaV9yVkZUdU9zVnBRNlV0SjEyem9sd05pYlBTek42V0xncm8tTldYUDJ5MC1aOGZqMWpqTzdjYk1ya0pTVXJEYWM3dXBzN05HTWdsYzNOWFBBeFRPZk9ZV3Fra1ZZVWhNWA?oc=5",
+   "time": "2026-11-23T06:39:00Z",
+   "impact": "naik",
+   "assets": "Rupiah, SBN"
+  },
+  {
+   "t": "China turunkan syarat margin saham ke 80% untuk menambah likuiditas pasar",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0lsWGMtQzFaN3pHeFA3ZFVNLWdHN0lDcVZESDA4UFZUVlVpXzhTdllpOHhTZDBzX2pvT3dEdDNZS1laUnh0bzVWZS16WXZyYlVvTW5qU3VVOXVzSzFVTlRWbzB2eFhoS0VVVk14WGU0aGQxLUxaOG1Gb01lTURmMERJaDhEVkVoNXdxdFNLTVZLdXFGWjZ4WWJWajV4NmZaTEhuUmFLY1BzVHQxQTRoZ1l4WQ?oc=5",
+   "time": "2026-11-23T06:19:00Z",
+   "impact": "naik",
+   "assets": "Saham Asia, Yuan"
+  },
+  {
    "t": "Rupiah tertekan dolar meski BI naikkan BI-Rate ke 6%; ruang pelemahan dinilai terbatas",
    "src": "cwibc.co.id",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zWkFZcG5qYndwX3AzQVJmUkJrcDh4eDhwdnlVUlBHRkVfOWdKWTJmUnJCVjcyeTM2ODhqaklOd1A3eVVncVJtVHRQLWwtNGw2WXNXVGNfMA?oc=5",
@@ -1546,30 +1581,6 @@
    "time": "2026-11-20T20:21:19Z",
    "impact": "turun",
    "assets": "Saham teknologi AS, S&P 500, Bitcoin"
-  },
-  {
-   "t": "Analis: emas bisa turun sekitar $300 bila level $3.500 per ons ditembus.",
-   "src": "Kitco",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1gxakxUOS1VZGh6VUEwdDhhdDAySkdGT3JQU2pUMnVXN2RiNFRHV3g1MEtsaEtfQUVVNGNPRnJTSVJiSGdVTmRFVVVGLTZhcG1jenZPb2JKYWtweUltNi1fLWlFSXVlVWFPNEU2aHlPSkNkUFQyaDEyZlAwVy1waVFZY0dtSGtGTUVUOWw4eUFTRTJ5RENUVUw4Qk9nMFJKbGNTamNHU3F6NDEydHZHU3RLMUhXb2NGd2Jz?oc=5",
-   "time": "2026-11-20T20:12:13Z",
-   "impact": "turun",
-   "assets": "Emas"
-  },
-  {
-   "t": "Negosiasi damai Hormuz buntu dan serangan terhadap kapal terus berlanjut.",
-   "src": "IndustryWeek",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
-   "time": "2026-11-20T19:07:34Z",
-   "impact": "naik",
-   "assets": "Minyak Brent, emas, rupiah"
-  },
-  {
-   "t": "Bitcoin mendekati level terendah 2026 di tengah kekhawatiran bunga Fed dan aksi jual aset berisiko.",
-   "src": "CoinDesk",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRKV3BfU3ZHQ2s5SUFweDJXRXdvdHdiaHA5R2ZjQXZzS3JpTG1ieXYwbXR1NGl0bWw0cTY5c1RMUmpseFZaTHlfVnFyWEYxd2RBY3NwNldRdDg5RU5mZWUxWl9xellrX1NUamN3MzF4dkwzYkNXcFdDdkhob3BoaFZITjM2eThQSzVvNlBXWndWREVpT0NWb2FJLU9WZzFJTnNPSUhUWGVuTW1nVmd2Z2tiWmZYVEhnX3VnYzY5ZXh2UWRoYXAweWR3?oc=5",
-   "time": "2026-11-20T18:13:52Z",
-   "impact": "turun",
-   "assets": "Bitcoin, kripto"
   }
  ],
  "readings": [
@@ -1594,24 +1605,24 @@
   },
   {
    "c": "neu",
-   "d": "Turun 3,1%, risiko Hormuz tetap",
+   "d": "Turun 2,9%, risiko Hormuz tetap",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$89,72"
+   "v": "$89,86"
   },
   {
    "c": "neu",
-   "d": "Rebound 2,6% dari terendah 14 bln",
+   "d": "Rebound 3,0% dari terendah 14 bln",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.606"
+   "v": "$3.622"
   },
   {
    "c": "neg",
-   "d": "Naik 1,8%, di bawah rata-rata 200 hari",
+   "d": "Naik 2,1%, di bawah rata-rata 200 hari",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$61.174"
+   "v": "$61.380"
   },
   {
    "c": "neg",
@@ -1622,17 +1633,17 @@
   },
   {
    "c": "neg",
-   "d": "Naik 1,5% setelah BI-Rate naik",
+   "d": "Naik 1,5% usai BI-Rate naik",
    "h": "ihsg",
    "k": "IHSG",
-   "v": "5.223"
+   "v": "5.221"
   },
   {
    "c": "neg",
-   "d": "Naik 0,1%, dekat rekor terlemah",
+   "d": "Naik 0,3%, dekat rekor terlemah",
    "h": "usdidr",
    "k": "USD/IDR",
-   "v": "18.158"
+   "v": "18.190"
   },
   {
    "c": "neu",
@@ -1643,9 +1654,9 @@
  ],
  "regimeText": "Aksi jual saham AI membawa S&P 500 ke zona koreksi dan Nvidia tertekan laporan pemeriksaan SEC, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Ketegangan Hormuz dan perang Rusia-Ukraina menjaga risiko geopolitik tinggi.",
  "regimeTitle": "Stagflasi, risiko tinggi",
- "risk": 86,
- "riskNote": "Risiko tetap sangat tinggi; rebound kontrak berjangka AS dan IHSG belum cukup untuk menyatakan stabil.",
- "updatedAt": "2026-11-23T03:58:00Z",
+ "risk": 85,
+ "riskNote": "Risiko tetap sangat tinggi; rebound kontrak berjangka AS, IHSG dan emas belum cukup untuk menyatakan stabil.",
+ "updatedAt": "2026-11-23T06:59:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -1945,18 +1956,18 @@
   },
   {
    "k": "Valuasi saham",
-   "v": 87,
+   "v": 86,
    "note": "S&P 500 koreksi, rebound futures rapuh"
   },
   {
    "k": "Likuiditas & dolar",
-   "v": 87,
+   "v": 86,
    "note": "Dolar kuat, emas rebound, BTC <MA200"
   },
   {
    "k": "Indonesia",
-   "v": 79,
-   "note": "Rupiah dekat rekor lemah, IHSG rebound"
+   "v": 78,
+   "note": "Rupiah dekat rekor lemah, SRBI tarik asing"
   }
  ],
  "alerts": [
@@ -1972,10 +1983,10 @@
  "brief": {
   "date": "2026-11-23",
   "points": [
-   "Wall Street Jumat anjlok (S&P 500 -3,7% ke 6.910, zona koreksi); awal pekan kontrak berjangka AS rebound kuat (Dow +800 poin, Nasdaq +3% menurut media), tetapi belum menandakan pemulihan.",
-   "IHSG ~5.223 (+1,5%) setelah BI-Rate naik ke 6,00%; rupiah ~Rp18.158 per dolar, tetap dekat rekor terlemah.",
-   "Emas rebound ke ~$3.606 dari level terendah 14 bulan; Bitcoin ~$61.174; Brent turun ke ~$89,72 meski serangan Iran/Houthi di Teluk berlanjut.",
-   "Geopolitik: serangan Iran di sekitar Hormuz dan Houthi ke Arab Saudi berlanjut; Rusia terus menyerang Ukraina (4 tewas di wilayah Kyiv).",
+   "Wall Street Jumat anjlok (S&P 500 -3,7% ke 6.910, zona koreksi); kontrak berjangka AS rebound di awal pekan, tetapi belum tentu menandakan pemulihan.",
+   "IHSG menguat ~1,5% ke ~5.221 setelah BI-Rate naik ke 6,00%; BI menyebut aliran dana asing ke SRBI >US$1 miliar. Rupiah ~Rp18.190 per dolar, masih dekat rekor terlemah.",
+   "Emas rebound ~3% ke ~$3.622 dari terendah 14 bulan; Bitcoin ~$61.380; Brent turun ke ~$89,86 meski ketegangan Hormuz berlanjut; imbal hasil UST 10 th turun ke ~4,91%.",
+   "Geopolitik: serangan di sekitar Hormuz dan ke Arab Saudi berlanjut; Rusia terus menyerang Ukraina. China menurunkan syarat margin saham ke 80%.",
    "Pantau: pembukaan Wall Street, PCE AS (25/11), rapat OPEC+ 29/11, dan perkembangan laporan SEC soal Nvidia."
   ]
  },
@@ -2064,7 +2075,7 @@
    "impact": "Dampak ke pasar keuangan kecil; hanya relevan bagi saham maskapai AS.",
    "assets": "Saham maskapai AS",
    "sev": "rendah",
-   "status": "mereda",
+   "status": "selesai",
    "cat": "transportasi",
    "time": "2026-11-22T21:35:00Z",
    "src": "Google News",
