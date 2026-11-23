@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-23T02:55:58Z",
+ "updatedAt": "2026-11-23T05:51:55Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-gold-20261123-up",
+   "time": "2026-11-23T05:51:55Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "gold",
+   "title": "Emas melonjak 3,1% dalam sehari",
+   "body": "Harga terakhir 3.624. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#gold"
+  },
   {
    "id": "ev-siber-202611222123-81e9",
    "time": "2026-11-23T02:55:58Z",
@@ -400,6 +410,7 @@
   "px-gold-20261120-down",
   "px-gold-20261121-down",
   "px-gold-20261122-down",
+  "px-gold-20261123-up",
   "px-spx-20261120-down",
   "px-spx-20261121-down",
   "px-spx-20261122-down",
