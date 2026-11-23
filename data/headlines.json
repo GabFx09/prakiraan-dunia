@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T12:56:26Z",
+ "updatedAt": "2026-11-23T12:59:16Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -75,15 +75,6 @@
    "time": "2026-11-23T12:21:00Z"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices",
-   "src": "Kotak Neo",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
-   "time": "2026-11-23T12:03:18Z",
-   "t_id": "Harga Emas Hari Ini di India, 23 Nov 2026 - Harga Emas 18K, 22K & 24K Langsung"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Wall Street Set to Bounce Back After Tech Sell-Off",
@@ -111,10 +102,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Menguat 1,35% ke 5.215, Kabar Pembicaraan Prabowo–MSCI Jadi Sorotan",
-   "src": "www.fxstreet-id.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSlVORmRBdWZiSEljaTJ4MWV0dGpwS2tURHZrZW9HQ25HRElWa2w4MW15ZUhxbVZxZE5KNmI5UkFlS3VRTXlKTGx5T0RYODNYV3ZkUzZMWkhpenR2TW4yb05mdy1YUm5LY0dDdV93b0VuSEdGSGF4YU1zZXNmd2hkZlo1RFBscGExaHFFUjh1aXc1U1FZLV9kb3BDbnNGZWdLbnI1SkkxamN3NVhodzNoU29vN2tDUQ?oc=5",
-   "time": "2026-11-23T11:18:10Z"
+   "t": "IHSG Menguat setelah Turun Sepekan Terakhir (Senin, 23 November 2026)",
+   "src": "Databoks",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1EzZk1tbW4tQm5adnVIaGxLUmw4R2JVc3R4am9uLU4tVTBoZVVNVENnYUtGc216b1RpblBSN3g0UHZBUU1wVmFNZERLUE1ucVV6SFZwZHlQbHRyNGJEVGFhYXpfQVlyN2lfVzhVSmkwY1RlSmdoWnNRUmduOUpVTkVFQ09oYXdUTzhIVmttbEdlTTZHYUZnUmhKNnZqRjhqWWtVZXg1aXRNaWdBdE9oMndpM1VHSUR4YktOQzd4LThpc2lYVEcw?oc=5",
+   "time": "2026-11-23T11:28:46Z"
   },
   {
    "topic": "emas",
@@ -148,6 +139,15 @@
    "src": "kontan.co.id",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjh0S3FnQncyMWtrVkNfQW9rY0JhMlRwOW05N0Q0Q0hQdlVJaE50TDV3aUVRTnNzdkFZcVAxNWlHQ3dnS1VVS2Zqa1JvUTk3Vy1LUWtCYXNVcGlZVzVoUE9xV2NCamltcjh3YmlZSG53TXRUNldhLVQ4ZVRyS2JtX2ZKRnR5QWlHUGRUS2hTSDVrcFQ1SDBmQTNJVFhCYmdDeUg40gGcAUFVX3lxTFBrUl9ldTVDdkRhQ1B3dFJ4V1Y2UmtIODlHMjBvUEJOa3d1SmFPRjRfSGE2QTB3RFU5U0wyUzljaE54WjJBdVVTVTZ0Q3RpRXJhelVPM19MYUJHbkk0NXFHbGdmaWFuNVBZaUlfYzNLZmp5RXJ2anlUbTBCVnFxOGVtdGxDMWFXaUtmQ0RtTWZtTHhlSmc2dnVHd1BkVA?oc=5",
    "time": "2026-11-23T10:56:52Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "U.S. Stocks Extend Slide on Nvidia, China Fears",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg?oc=5",
+   "time": "2026-11-23T10:50:41Z",
+   "t_id": "Saham AS Memperpanjang Penurunan karena Kekhawatiran Nvidia dan Tiongkok"
   },
   {
    "topic": "saham-as",
@@ -193,6 +193,15 @@
    "t_id": "Antropis, saham Nvidia naik dalam perdagangan pra-pasar setelah aksi jual besar-besaran di bidang teknologi"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
+   "src": "StoneX",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
+   "time": "2026-11-23T10:30:21Z",
+   "t_id": "Emas Rusak, Tapi Apakah Ini Pertanda Apa yang Akan Terjadi?"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Get ready for 3 consecutive rate hikes starting next month, bank economist warns",
@@ -209,24 +218,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFYwUF85MUc1TlkxNWxTOW1DYjFSc2pJcGZIOTBMY19taHAwMjI3d3NJaEtOVUdTYU8wYkNodUpXeTFOMDFBZGtRZTExdDFvcUljZ05WQ2pTTE91R2hadDBvMmk3TjNDNjZvdDNDUk9GWlRCNXZFZzBnbzgzaEpmWWRFWDBGVk5tdy1jUDJGdDZhVWNVX2JGdGpTQUtJMUFnaTdYLUp2UXhqdUwydno2U2hJODkySExVYjJj?oc=5",
    "time": "2026-11-23T10:27:01Z",
    "t_id": "Perkiraan Harga Emas dan Perak: Dolar Kuat Membatasi Rebound Sebelum PCE"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise After Friday’s AI Rout — ORCL, ZS, ZM in Focus",
-   "src": "Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQkdKYWdvMkZIcGM5V3dMbjEwem4yRmhpVVZ6S2dPRnBLUzh3SFdUMmNEdW84NDZVZDJfV0NJU0Z3WmFLNWh5eC1Ba0dxb0tBcXhxN0ZkdTZwU19hNjdGX0t5Q3h6LVFIOTdEQnZHaGVnM19HMDRpQ3p6TDl1LXR0QWxpRHBxMmZJZjl0OHRwM09FNEJMS1J5aGhYdTZ1M2pXNzF4WE1ZZjZfZjZhbmd6ZWppdUQ2ZGtVYXlLNnVIdGNZZURIYWxwdUUwT1ltTHZPT21CZ1l2ZGtRcFlTeHJSc2tqOHhaUjAwMkhvMGRmOA?oc=5",
-   "time": "2026-11-23T10:26:46Z",
-   "t_id": "Pasar Saham Hari Ini: Dow Jones, S&P 500, Nasdaq 100 Futures Naik Setelah Kekalahan AI pada Hari Jumat — ORCL, ZS, ZM dalam Fokus"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Treasury Yields Fall, German Bunds’ Tick Higher",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
-   "time": "2026-11-23T10:06:46Z",
-   "t_id": "Imbal Hasil Treasury Turun, Bunds Jerman Meningkat"
   },
   {
    "topic": "geopolitik",
@@ -423,9 +414,9 @@
    "topic": "indonesia",
    "lang": "id",
    "t": "BI: Rupiah tetap terjaga di tengah risk-off dan ketidakpastian global",
-   "src": "ANTARA News Jambi",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGFwTnp3dHd5T2FrYmxsczctTkhTdVFjUF95bnVGYm4zcnMxSzduMmJqNkZReVhPd1I0Y1RPOUV2WEtrZ2U4dkxPZGtJYmpyNmtHZWtwem94ME41RjU0WUZNYUIyOEN3YlgzWXE2Sm1NdEdFYnFKRE1pQWd6LWNaUU44XzlQYmdWMUg0am5UdmNIVWFITHB6Um9DNzEwYmZmMnpNVW1uZ3ZYSjBlLXJ3Rjlyd3ZUd9IBtgFBVV95cUxNaGFwTnp3dHd5T2FrYmxsczctTkhTdVFjUF95bnVGYm4zcnMxSzduMmJqNkZReVhPd1I0Y1RPOUV2WEtrZ2U4dkxPZGtJYmpyNmtHZWtwem94ME41RjU0WUZNYUIyOEN3YlgzWXE2Sm1NdEdFYnFKRE1pQWd6LWNaUU44XzlQYmdWMUg0am5UdmNIVWFITHB6Um9DNzEwYmZmMnpNVW1uZ3ZYSjBlLXJ3Rjlyd3ZUdw?oc=5",
-   "time": "2026-11-23T07:02:45Z"
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0VXcG52TU5YakY3Z1EzckFWZmtoOVpaMFFwejlrdkUwREg0Nk9iNEFTRE5pTzZld0ZCdHRaXzdSZzY4eEFRUUNHenZPdk5iTXNpZzcxcVZHdlZJQy0tU2NmV25HQW9JMmVVUFE3dFVBTURKeS1iWnR3bGVIX2ZlSWRHdFdMMWg1eDRtUW42MHA1QnU4eTBMaUYyTXhjT2hVSS1PNW8tbDctWGszVGl0R1hB0gGyAUFVX3lxTE03RVdwbnZNTlhqRjdnUTNyQVZma2g5WlowUXB6OWt2RTBESDQ2T2I0QVNETmlPNmV3RkJ0dFpfN1JnNjh4QVFRQ0d6dk92TmJNc2lnNzFxVkd2VklDLS1TY2ZXbkdBb0kyZVVQUTd0VUFNREp5LWJadHdsZUhfZmVJZEd0V0wxaDV4NG1RbjYwcDVCdTh5MExpRjJNeGNPaFVJLU81by1sNy1YazNUaXRHWEE?oc=5",
+   "time": "2026-11-23T06:57:32Z"
   },
   {
    "topic": "kripto",
@@ -478,13 +469,12 @@
    "time": "2026-11-23T06:26:43Z"
   },
   {
-   "topic": "emas",
+   "topic": "bank-sentral",
    "lang": "en",
-   "t": "What is the Real Reason Behind the Gold Price Crash?",
-   "src": "Frontline Magazine",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVNoZF8yYl9DUk9wNVpwNHY1QWtrd0hwZE04Y2Z0SHZ6TnhOVTlxZE5UTjZ6cU9VQ0dtTzZSVjFHa1BPQ0ZtZmE5Z3llME9TLUw0UkJGRnpfRnlxcUktcjU3ZmhjRFlYRTNKZkUwMFVaTUZaWWllcVFmUEs0RXZzNFNmNjZoVjRCMkp5dlpwcGlKYmxTNjVYYtIBnwFBVV95cUxPOGJYSnpTeDdXSEdrZTc2U19NOTVzV201cHpLRE50emtuMy13aVRUVEFYbFg5RDlncTFuMWRncTJPUk5FQm0tT1BSMVh2TGJHalVHVy1YcUFWSmJER3U2OUt3YmUyUWxtbi1Lc1IwWU52bUp3b1Z2bVlicHhDOURsRVlzQjlLWUdXVlVhV1QxQU5NVUJmbEZ0WGEzVjg1XzQ?oc=5",
-   "time": "2026-11-23T05:47:38Z",
-   "t_id": "Apa Alasan Sebenarnya Dibalik Anjloknya Harga Emas?"
+   "t": "Gold climbs more than 2% as dollar rally pauses",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5",
+   "time": "2026-11-23T05:49:00Z"
   },
   {
    "topic": "kripto",
@@ -512,6 +502,14 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ0allURzByRktqOG9jVVR3Mlc4elhCeVMyWTQ3eHQ1YUdlOXhIa29ZWU5kY2JmRTlyVW5QeEpSN1lROWxMdWM0bDdjbGtpZUJwc0F1RTRJbm1CVjhxdndULVJiZzF1X0h0aUh0eDMwM0ZyZy1XY0xscFQ0SUVHNEhDSWxvZ1BoRkZnUUprcVEtWm5DVG9mUHFnSHBvY1Rza3RqdUdlM3RMYVJJazU3eWlpQjA?oc=5",
    "time": "2026-11-23T05:05:58Z",
    "t_id": "Perkiraan Suku Bunga: Taruhan Kenaikan Suku Bunga Fed Desember Mendukung Dolar AS"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Kebijakan BI-Rate dan Strategi Bank Sentral Jaga Daya Beli Masyarakat - kumparan.com",
+   "src": "kumparan",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdS10aTF3TXQ0UG1yb0xvTFRBenYyTUlYSGdrZ09FaHdmZEFHQjBkcTZWWGtFeE9rS1p2bE5WNk9vZ2kxNndtOUhPVEl4bUJXaV9Yc0k3QXpNY0N5anZzWUxMcFplX2ZmSjU2ZE9JTXNja3huNmZxbW9mZ0lwWTJzRkt2LWZZcVBMOHhmTjMtcGM2TkpGdC1xMHVKTG1tTVI5elhHeWhFLWJCRXdiU0xTSkUwOW9QLUtp0gHAAUFVX3lxTFBnM1JJYkJCTmR6MU1EdjJ1Vk9DRmItQTJlTVNWbWhWYkwzdFhSZ0xJNDNKZEg3RHZ1ZUkyTGJIRGwwaXVXX19UZHV3WTU1Q1BFYlc1em9FdS11SkhoS3FBbi1yZ21SdElyUWlCX2FOWnpwMDdQNXlPS3pKbFRTdkRfSlZhWGF6WDM4cU9BZUx5Q0l0aUpXRC1sY2oxXzdOSi1wUVV5SmY4X2VsUkdVYm96b2FubUJUcGhId1dtVThGTA?oc=5",
+   "time": "2026-11-23T04:00:00Z"
   }
  ],
  "errors": []
