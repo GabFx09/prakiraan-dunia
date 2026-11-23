@@ -1052,6 +1052,17 @@
       "ihsg": 5215.85,
       "usdidr": 18195.0,
       "ust10": 4.912
+    },
+    {
+      "t": "2026-11-23T12:59:00Z",
+      "risk": 84,
+      "btc": 61197.07,
+      "gold": 3615.3,
+      "brent": 88.62,
+      "spx": 6910.39,
+      "ihsg": 5215.85,
+      "usdidr": 18195.0,
+      "ust10": 4.912
     }
   ],
   "horizons": [
@@ -1616,24 +1627,24 @@
     },
     {
       "c": "neu",
-      "d": "Turun 3,5%, risiko Hormuz tetap",
+      "d": "Turun 4,3%, risiko Hormuz tetap",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$89,38"
+      "v": "$88,62"
     },
     {
       "c": "neu",
       "d": "Rebound 2,8% dari terendah 14 bln",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.614"
+      "v": "$3.615"
     },
     {
       "c": "neg",
-      "d": "Naik 0,4%, di bawah rata-rata 200 hari",
+      "d": "Naik tipis, di bawah rata-rata 200 hari",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$61.392"
+      "v": "$61.197"
     },
     {
       "c": "neg",
@@ -1644,7 +1655,7 @@
     },
     {
       "c": "neg",
-      "d": "Naik 1,4% usai BI-Rate naik",
+      "d": "Naik 1,35% usai BI-Rate naik",
       "h": "ihsg",
       "k": "IHSG",
       "v": "5.216"
@@ -1665,9 +1676,9 @@
   ],
   "regimeText": "Aksi jual saham AI membawa S&P 500 ke zona koreksi dan Nvidia tertekan laporan pemeriksaan SEC, sementara dolar kuat dan bunga Fed yang condong naik menekan emas, Bitcoin dan rupiah. Ketegangan Hormuz dan perang Rusia-Ukraina menjaga risiko geopolitik tinggi.",
   "regimeTitle": "Stagflasi, risiko tinggi",
-  "risk": 85,
-  "riskNote": "Risiko tetap sangat tinggi; rebound kontrak berjangka AS, IHSG dan emas belum cukup untuk menyatakan stabil.",
-  "updatedAt": "2026-11-23T10:05:00Z",
+  "risk": 84,
+  "riskNote": "Risiko tetap tinggi: rebound kontrak berjangka AS belum terkonfirmasi, sementara serangan di Hormuz dan rupiah lemah masih membebani.",
+  "updatedAt": "2026-11-23T12:59:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1996,8 +2007,8 @@
     "points": [
       "Wall Street Jumat anjlok (S&P 500 -3,7% ke 6.910, zona koreksi); kontrak berjangka AS rebound, terutama Nasdaq, tetapi pemulihan belum terkonfirmasi.",
       "IHSG menguat ~1,4% ke ~5.216 setelah BI-Rate naik ke 6,00%; BI menyebut dana asing ke SRBI >US$1 miliar. MSCI disebut membuka peluang mempertahankan status pasar saham RI. Rupiah ~Rp18.195 per dolar, dekat rekor terlemah.",
-      "Emas ~$3.614 rebound dari terendah 14 bulan; Bitcoin ~$61.390; Brent ~$89,38 turun meski serangan di sekitar Hormuz mencapai level tertinggi sejak perang dimulai; UST 10 th ~4,91%.",
-      "China menurunkan syarat margin saham ke 80% untuk menambah likuiditas; pemeriksaan SEC atas Nvidia masih jadi sorotan pasar AI.",
+      "Emas ~$3.615 rebound dari terendah 14 bulan; Bitcoin ~$61.200; Brent ~$88,62 turun meski serangan di sekitar Hormuz mencapai level tertinggi sejak perang dimulai; UST 10 th ~4,91%.",
+      "Kontrak berjangka AS naik setelah aksi jual saham AI, tetapi analis menilai dasar pasar belum terbentuk; pemeriksaan SEC atas Nvidia dan margin saham China (80%) tetap jadi sorotan.",
       "Pantau: PCE AS (25/11), rapat OPEC+ 29/11, kabar MSCI soal Indonesia, dan pembukaan Wall Street."
     ]
   },
