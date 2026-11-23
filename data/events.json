@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T06:35:20Z",
+ "updatedAt": "2026-11-23T06:50:01Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
-   "sources": 10,
-   "recent6h": 2,
-   "score": 11.0,
+   "sources": 14,
+   "recent6h": 3,
+   "score": 15.5,
    "level": "besar",
    "first": "2026-11-22T06:41:00Z",
    "last": "2026-11-23T06:00:23Z",
@@ -25,6 +25,12 @@
      "t_id": "Trump mengklaim Iran melancarkan serangan drone dan rudal dalam jumlah tertinggi dalam setahun"
     },
     {
+     "t": "Ukraine-Russia war latest: Satellite images shows sunken Russian warship after suspected Ukrainian strike off Libya",
+     "src": "Yahoo News UK",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42eXNJMlpiblIyR3dVcDY1TDJYcXB0d0psNllyQlBZTjB1a1BvcElMT3pvVXRXa1g3NHFLTWMyTDh4WUZBVUZzMHlBRzZCbk1fcHdfcG0zTVJROGZDVkZmdE4ydl9mdmQ2Sm00akdUdC1sUjl0VFFLMnMyYw?oc=5",
+     "t_id": "Perang Ukraina-Rusia terbaru: Gambar satelit menunjukkan kapal perang Rusia yang tenggelam setelah dugaan serangan Ukraina di Libya"
+    },
+    {
      "t": "UPDATES: US War on Iran, Day 269 — Houthi Missile Attacks on Saudi Arabia",
      "src": "EA WorldView",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
@@ -35,12 +41,6 @@
      "src": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNGZHR2QzdtY0JPMXh2Q2t2RzF5aFZkRTB2MEQySnE0WXNDTDZ3QlphR0M3dThYSHIyU2ltUkVhNTZsbFVGTGhjLXRNZEk0M01pUnR1OWVNUWRlUEpQeUNLQnJmaGZ2aUNEcDVpMEVsd19McFhmeVhuTkx5dEYxR2xxYWhMcHV0anFQNGthaDVieEhw0gGaAUFVX3lxTE84Qm9RcWFQZl9HN2hlWU8zRUU3dDZtREFoaWdJRDNwLXhDWmo2cVVmekdnYlZsMHczUFlIVDU4RXV2RWtfNzUxNTM1WUJQNEFPTkRNWnZmV1l6ZTIxVnpiWU52YUd0dHpQY1U2c2xGdFg0OWlpM09SWVBGTzRqY3ltUVF3SDdkd1V2Z1EzYi1xZ0JCUEtWTkRIQkE?oc=5",
      "t_id": "Trump mengatakan Iran melepaskan rudal dan drone setelah pemilu paruh waktu"
-    },
-    {
-     "t": "Iran announces missile and drone attacks on U.S. bases in Bahrain",
-     "src": "Informat.ro",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQmFIaFhfSjNfejF6c0xpM29FYmRFamlLN0lHTVJtckIzdjRLdmRvV19SaTVjeTZZR19qRk9rUnpsUkVFbm1ZU002SGJDNzdrX1pNSXczelNKWEhOZ05YNEo2TzdUSE83MElLeGc5QWlaWXRDenc4Zmh5X3lTaF9DS3UtQ0FUSzE4bWVHU1NqX0pFa2VzcDdGSWNMZjBlNWp1V0Jzc2R6LTh2QVU?oc=5",
-     "t_id": "Iran mengumumkan serangan rudal dan drone terhadap pangkalan AS di Bahrain"
     }
    ],
    "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
@@ -89,49 +89,6 @@
    "title_id": "Penundaan penerbangan Delta Air Lines semakin parah meskipun masalah teknis telah teratasi"
   },
   {
-   "id": "perang-202611220710-bef0",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcndOTTl3bzZwNVZ4ZWstZXBZdnVkbUhPanQ5VlhUVEJaSTRVdnc1YzVUdEhEd2M0QXdFVGxzRFVLeThYd0FfaGEzMnQzbWIzemFuZzRqSGJCQ2M5LVBzV0dadVlwUXpXR1hfMTllR2NsWmNuRnk4RmRSVVlraElfS3NjNFlJa0FWTGNRRS1XQTFxM3JoTVRYZEluNkVJUXZSdk1TSmFfWUfSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
-   "sources": 9,
-   "recent6h": 1,
-   "score": 9.5,
-   "level": "besar",
-   "first": "2026-11-22T07:10:42Z",
-   "last": "2026-11-23T03:07:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukraine-Russia war latest: Satellite images shows sunken Russian warship after suspected Ukrainian strike off Libya",
-     "src": "Yahoo News UK",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42eXNJMlpiblIyR3dVcDY1TDJYcXB0d0psNllyQlBZTjB1a1BvcElMT3pvVXRXa1g3NHFLTWMyTDh4WUZBVUZzMHlBRzZCbk1fcHdfcG0zTVJROGZDVkZmdE4ydl9mdmQ2Sm00akdUdC1sUjl0VFFLMnMyYw?oc=5",
-     "t_id": "Perang Ukraina-Rusia terbaru: Gambar satelit menunjukkan kapal perang Rusia yang tenggelam setelah dugaan serangan Ukraina di Libya"
-    },
-    {
-     "t": "Russian ship sinks in Libyan port in suspected Ukrainian drone attack",
-     "src": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm40UThnaG9jbUJnelpLWGlJMHlUdTZkb1p0ZFUwa3NGSGJ5M2R1V0JqWjNTeWhoQTlLeE1ZbWtiVVR5WTFvVGoyUk94ZzR2LXZ5OXZBS3Y5WmdCRlFSYi1GSEZGbWw2RDd5dzZic09kbTBmLW5nOE1mUVM2N1NyR2ttUlZ5WDlOVnpSVzNWNXRYaFVKTWg4WGFkX2RSY0lnWnk3UzhiVQ?oc=5",
-     "t_id": "Kapal Rusia tenggelam di pelabuhan Libya karena dugaan serangan pesawat tak berawak Ukraina"
-    },
-    {
-     "t": "Vladimir Putin's £150million warship Merkury 'blown apart near Benghazi' after Ukraine sea drone attack",
-     "src": "The Mirror",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTVjaTFYeUhjdXN4TkNyWjRscl96QXdkaFdSZFhmMmF3Y1VadkJoQ0tBeUJwQ05XdWRKZTRsNmxBOGJ5OGY0NXlKLTMxQ3g4dnZJQTdTcTFqOUViVHJiNnZjTkw2Y1dPU254QmdzMVdXZjJHS0JNNVgwaWQxRkFSMzBvb3VYc2IwYUJvTGZWY9IBlAFBVV95cUxQMTdyekRLNzdGOEZnTDA5N3JwcGhPTk85SkVGNUx3ZGlQZThGck5zaWJRcHZzTDhUQXNyUkJXYWZPVTRUTEhOMXprZlhTLTJQd3NUZE40amt2ZkE5b3NOZGcxc0ZJcDBxYXVhaXYyNmJzYkNGbDllYkE3YW5CVkppQS0tR1RTMEhnU1JKQW9veVlNM3BO?oc=5",
-     "t_id": "Kapal perang Merkury milik Vladimir Putin senilai £150 juta 'meledak di dekat Benghazi' setelah serangan drone laut Ukraina"
-    },
-    {
-     "t": "DW News. . Rescuers in Ukraine are searching for people trapped under the rubble of an apartment building in the Kyiv region after a Russian drone attack. #DWNews",
-     "src": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVC1IdzF4RXJHa1NhcnJqSnF2NG5IZndoSE5CQW01MXpsQVQtTVlQMFVoUUFzeExlRmZRc0l0c1FKUDNwTTFEbXpvU1BDNWN4d1I0RV9WWVhuanM4QU8xd1lmQ1ByV0ItTUdDa2kzbzZ4Tnd4MzhsNVlGdVdvbzMwbHMtMlU3SnJYZHlCQm0wY3NBeE1ZQnBHSWF5M1JvQlJLNWNvWFhWOFF1OW5KZ29OdjNpeWF5ZS1qSWlDalV6UGo2MERLV0p4UUdmR3FmMzZiN01MQ3p3d3BfS3g1bDZPWXhR?oc=5",
-     "t_id": "Berita DW. . Tim penyelamat di Ukraina sedang mencari orang-orang yang terperangkap di bawah reruntuhan gedung apartemen di wilayah Kyiv setelah serangan pesawat tak berawak Rusia. #DWBerita"
-    }
-   ],
-   "title_id": "Arab Saudi mencegat drone dan rudal saat Houthi melaporkan serangan di Sanaa"
-  },
-  {
    "id": "indonesia-202611220314-0ee6",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -150,7 +107,7 @@
     {
      "t": "FIFA Turun Tangan! Kerusuhan PSS vs Arema Ancam Poin dan Suporter",
      "src": "Metro Pekalongan",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTVvRXJ6TmJOY3g1SkZHd1Z3M09zZXBtc2FjUHoxQnhWaVljR0pMamFGa3hwZE16UWl1TWxOcTB4dWhKdjN6bWZjN1BjYXppTldMT2hoekhNQVkyM2prTmJYOURnUUhxemFPTU9BaVE4RGlQOE4zSmNtaVMxenFQMDd1N3JNOXRGbVh3N1NpeWlXNmRUcmNZcFljdW9HUGRERGllY2dleE1QS1cyRC1sOUFEdEJuZk1ZTEN3UdIBwgFBVV95cUxQcFgxelJGUzR6U2JCS0hGcFdQbE11dGFEUk92LVRRcGVtODlydzQ2SDFWaFNUTkJJQURnb0NmV3dNN1pTVFZ3NUV1Z2tyZHNGVnVOVHM5WnkzZ1RkYkZxZnB1S0c3RmFNN19aZXIxZXBiV3FCaHJvTm9iWTd3MV9va1BzQ0VUR0JRa2xRYmEtTzRrMW1DX085SnF1NnZwNmthUzhSYzlpNHpPOVVONUJva29LTUFRS0VxdUFwUUF6bnBjdw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFgxelJGUzR6U2JCS0hGcFdQbE11dGFEUk92LVRRcGVtODlydzQ2SDFWaFNUTkJJQURnb0NmV3dNN1pTVFZ3NUV1Z2tyZHNGVnVOVHM5WnkzZ1RkYkZxZnB1S0c3RmFNN19aZXIxZXBiV3FCaHJvTm9iWTd3MV9va1BzQ0VUR0JRa2xRYmEtTzRrMW1DX085SnF1NnZwNmthUzhSYzlpNHpPOVVONUJva29LTUFRS0VxdUFwUUF6bnBjd9IBwgFBVV95cUxQcFgxelJGUzR6U2JCS0hGcFdQbE11dGFEUk92LVRRcGVtODlydzQ2SDFWaFNUTkJJQURnb0NmV3dNN1pTVFZ3NUV1Z2tyZHNGVnVOVHM5WnkzZ1RkYkZxZnB1S0c3RmFNN19aZXIxZXBiV3FCaHJvTm9iWTd3MV9va1BzQ0VUR0JRa2xRYmEtTzRrMW1DX085SnF1NnZwNmthUzhSYzlpNHpPOVVONUJva29LTUFRS0VxdUFwUUF6bnBjdw?oc=5"
     },
     {
      "t": "Imbas Kerusuhan PSS Vs Arema, Sepak Bola Indonesia Terancam Hukuman FIFA",
@@ -207,23 +164,17 @@
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "US intelligence chief warns of more tech outages as ageing systems are upgraded",
-   "src": "Business Upturn",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1otcnNGeV9pT19fUTZoNVQzcWdldjBKS0dRUDE1UXRwZzIyVngwX1lYOGt5aVpVNkY2cEdkX1N2SU5mQTN5RkdDeXlXOVU1MXJpNWkwaWFZajl0WUZIdEJ6b3pJaTZNZk1FWlFrSnVYWWp5UkVBUnBrVnpIbXYwZDZSc0poMk9GTVAwenlPdmtmZzIyZThnVnFSTFBhNTlrYnVKSm9Wc1RIN3BFRzZodWFPMjVsNHAzdFE?oc=5",
-   "sources": 5,
+   "title": "Americans should expect more technology outages and disruptions as companies and government agencies replace aging systems, the top US intelligence official said on Sunday. Read more: https://www.gmanetwork.com/news/topstories/world/1010445/us-i",
+   "src": "Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazlmV3lsQXd2UmpvYkxVVzlTV0FqNFFJSDJmdzRwZ0NzQXFjQUowUkJKZHNYVzkxTGRZZnAzem1UOTc4RWhHWHNkQTNhMmVEcnRDZG11dzVaS01vZXMtVy1zVXcxLTc2SHpPNTExYnN4TnJOMmxhb01SM2VLWlAtNElINHJTQVVQQ2pmMF9aN2l0V3ZsUEFsTXVfbFpoTmJnbVFTUVRlTzZqbERnRDZaWHpQOWRfNW9ZQVpnYjRzWWlJeDBRZ0lyZEdzSmp3SlJmVzVuVA?oc=5",
+   "sources": 4,
    "recent6h": 0,
-   "score": 5.0,
+   "score": 4.0,
    "level": "sedang",
    "first": "2026-11-22T17:13:38Z",
-   "last": "2026-11-23T00:35:19Z",
+   "last": "2026-11-22T22:55:21Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
-    {
-     "t": "Americans should expect more technology outages and disruptions as companies and government agencies replace aging systems, the top US intelligence official said on Sunday. Read more: https://www.gmanetwork.com/news/topstories/world/1010445/us-i",
-     "src": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazlmV3lsQXd2UmpvYkxVVzlTV0FqNFFJSDJmdzRwZ0NzQXFjQUowUkJKZHNYVzkxTGRZZnAzem1UOTc4RWhHWHNkQTNhMmVEcnRDZG11dzVaS01vZXMtVy1zVXcxLTc2SHpPNTExYnN4TnJOMmxhb01SM2VLWlAtNElINHJTQVVQQ2pmMF9aN2l0V3ZsUEFsTXVfbFpoTmJnbVFTUVRlTzZqbERnRDZaWHpQOWRfNW9ZQVpnYjRzWWlJeDBRZ0lyZEdzSmp3SlJmVzVuVA?oc=5",
-     "t_id": "Warga Amerika diperkirakan akan mengalami lebih banyak pemadaman dan gangguan teknologi ketika perusahaan dan lembaga pemerintah menggantikan sistem yang sudah tua, kata pejabat tinggi intelijen AS pada hari Minggu. Baca selengkapnya: https://www.gmanetwork.com/news/topstories/world/1010445/us-i"
-    },
     {
      "t": "Intelligence chief Jay Clayton tells Americans to expect more 'bumps in the road' as systems are upgraded after the wave of outages",
      "src": "MLQ.ai",
@@ -243,7 +194,7 @@
      "t_id": "Ketika AI mendeteksi kelemahan dalam sistem komputer, apakah AI menyebabkan lebih banyak pemadaman dan gangguan teknologi?"
     }
    ],
-   "title_id": "Kepala intelijen AS memperingatkan akan lebih banyak pemadaman teknologi seiring dengan peningkatan sistem yang sudah tua"
+   "title_id": "Warga Amerika diperkirakan akan mengalami lebih banyak pemadaman dan gangguan teknologi ketika perusahaan dan lembaga pemerintah menggantikan sistem yang sudah tua, kata pejabat tinggi intelijen AS pada hari Minggu. Baca selengkapnya: https://www.gmanetwork.com/news/topstories/world/1010445/us-i"
   },
   {
    "id": "indonesia-202611222019-859a",
@@ -277,31 +228,6 @@
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vTEY0OHAwaVgzOXAwU3JSZ0EwM19FeE5UZFJHUlFlS0lTejRCNnFvbHBNdUlxWjZUbW1EYVJVMjg2SkNPVE1fS095TkY0WElQUnd2VjhXancxNWVoSDhVQnBwVGZtSzVKMVRlYS1KUkJSZFZGR3dF?oc=5"
     }
    ]
-  },
-  {
-   "id": "siber-202611230044-e2d6",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft 365 Down Again? Users Report New Problems Sunday Night, Days After Global Outlook and Teams Outage",
-   "src": "International Business Times Australia",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWGhfYjYwQlZKZ3pXZmt2SWp0YnhRanJVdEVuSnZSUnRkMDBTckxvVUtDZ0h2bmRHalZIMDBtZmJPelkwUHBGM19ZWHVEXzJuMDd0b05FaDVjUGo5ZG9mUzN6dENLam1rdEp1QWFhTG9wMExTQjBubldYSzdQWk0?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-23T00:44:36Z",
-   "last": "2026-11-23T04:00:22Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft outage cause revealed: It was a perfect storm of problems",
-     "src": "Mashable",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
-     "t_id": "Penyebab pemadaman Microsoft terungkap: Itu adalah badai masalah yang sempurna"
-    }
-   ],
-   "title_id": "Microsoft 365 Down Lagi? Pengguna Melaporkan Masalah Baru Minggu Malam, Beberapa Hari Setelah Outlook Global dan Pemadaman Tim"
   },
   {
    "id": "indonesia-202611220300-45d6",
@@ -375,7 +301,7 @@
    "score": 2.5,
    "level": "kecil",
    "first": "2026-11-22T23:31:18Z",
-   "last": "2026-11-23T06:17:31Z",
+   "last": "2026-11-23T06:17:22Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
@@ -388,35 +314,54 @@
    "title_id": "Bandara Brussel menghentikan penerbangan hingga jam 9 malam pada hari Senin"
   },
   {
-   "id": "perang-202611221432-84d3",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "siber-202611230044-e2d6",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Airstrikes, Houthi drone attack kill 5, injure 18 across Yemen: sources",
-   "src": "Social News XYZ",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1E2eTRmWnZXZFRtR1J4N00tamlfU0c0ZU02bXpuSF9wWnRKOTBuUFNwNzJmSUpxdkRZanFUOWhVN2JnZ253WmdlRWpHbnY1WHV0eldjSi1qQWg0VWVVRHI1ZURTZE5reEg2QWgtS0EwSV85ZkdlSnloSkVIYVhtNzJzX095OU5rT2NUS2xVRmdDb0FKS3ZCbktZRXlEaTNDeVlYZUdrektDQ2_SAasBQVVfeXFMTjdRNnk0Zlp2V2RUbUdSeDdNLWppX1NHNGVNNm16bkhfcFp0SjkwblBTcDcyZklKcXZEWWpxVDloVTdiZ2dud1pnZUVqR252NVh1dHpXY0otakFoNFVlVURyNWVEU2ROa3hINkFoLUtBMElfOWZHZUp5aEpFSGFYbTcyc19PeTlOa09jVEtsVUZnQ29BSkt2Qm5LWUV5RGkzQ3lZWGVHa3pLQ0Nv?oc=5",
+   "title": "Microsoft 365 Down Again? Users Report New Problems Sunday Night, Days After Global Outlook and Teams Outage",
+   "src": "International Business Times Australia",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWGhfYjYwQlZKZ3pXZmt2SWp0YnhRanJVdEVuSnZSUnRkMDBTckxvVUtDZ0h2bmRHalZIMDBtZmJPelkwUHBGM19ZWHVEXzJuMDd0b05FaDVjUGo5ZG9mUzN6dENLam1rdEp1QWFhTG9wMExTQjBubldYSzdQWk0?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-22T14:32:11Z",
-   "last": "2026-11-23T04:49:47Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-23T00:44:36Z",
+   "last": "2026-11-23T04:00:22Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Yemen: Airstrikes, Houthi Attacks Claim 5 Lives, Injure 18 Amid Escalating Conflict",
-     "src": "Lokmat Times",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcE1RUDZHOXlKY05iNHdBQ1kyUmdtMkMtejUxM1EySDIxOU9UcEkxRjFYWi1ieXdCSjFsUG5Qb214cEMydUZoU0FsVV8tZUVpN1E3bmIxNVVxVjRxSDZtLTJDdUFjNVp1cGpNdUVqRDUwV21GNGxsMlhkTy1FS1pWS0s3eW5IMDA0MWNmaEpGZHE2aWEwMG9pRm83eUlSYXFuSGV2ZFZCSEdJb29GVE9Jbi1uOTRPWFM5c01LR1VzR1NiNE5Iem1iLTBCb9IB0gFBVV95cUxOUU41SHJWeXVtc1Npc0pvQnk1aTlkRXpaWGpFcW95ZUN0V21JenM4SDJwek4tT2VfMVFCMlU0WjgtOFd6YTF6dlhSUmFkblJnNEZMVU1iUzFNN2o2dkJ2SHNnWExiWWw1U3EwT2VKR2t1NlBUZVA0YTBwN0p4bTVaQjVjSW5VZzNONzgzOVo0OFVZOXpNcU9kZmF5VEJtTnFNc0ZkTmtwSlItdGlhNkR0RllfU181TTktMTAycVJnckwzNW82MFEtZ19jRW5LNjRxSVE?oc=5",
-     "t_id": "Yaman: Serangan Udara dan Serangan Houthi renggut 5 nyawa dan 18 luka-luka di tengah meningkatnya konflik"
-    },
-    {
-     "t": "Saudi airstrikes hit Yemen’s Hodeidah amid escalating cross-border attacks",
-     "src": "Social News XYZ",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON3daVWRxcmF1b1p0VVV0N2U0MU9EUmxzcmJNcUNCcGRBTkZoVGdIRF9uNGtic1F0aVZFNXQyZkxQaTB3LXRLTkVnSDdMWkZBSGdnR0ZKZEFqb3EzdGtQOENIZWVfUm9fRE9PZVdEUGlqc3BvMTFCcXRoZVFsa2Q1QzBqbGdSTkpWbFExOVV1aDdfYTdaWDc3ZHEwWUluYk9GLXZaZndpM19rQXQzaUp4ZEdB0gGyAUFVX3lxTE43d1pVZHFyYXVvWnRVVXQ3ZTQxT0RSbHNyYk1xQ0JwZEFORmhUZ0hEX240a2JzUXRpVkU1dDJmTFBpMHctdEtORWdIN0xaRkFIZ2dHRkpkQWpvcTN0a1A4Q0hlZV9Sb19ET09lV0RQaWpzcG8xMUJxdGhlUWxrZDVDMGpsZ1JOSlZsUTE5VXVoN19hN1pYNzdkcTBZSW5iT0Ytdlpmd2kzX2tBdDNpSnhkR0E?oc=5",
-     "t_id": "Serangan udara Saudi menghantam Hodeidah Yaman di tengah meningkatnya serangan lintas batas"
+     "t": "Microsoft outage cause revealed: It was a perfect storm of problems",
+     "src": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
+     "t_id": "Penyebab pemadaman Microsoft terungkap: Itu adalah badai masalah yang sempurna"
     }
    ],
-   "title_id": "Serangan udara, serangan pesawat tak berawak Houthi membunuh 5 orang, melukai 18 orang di seluruh Yaman: sumber"
+   "title_id": "Microsoft 365 Down Lagi? Pengguna Melaporkan Masalah Baru Minggu Malam, Beberapa Hari Setelah Outlook Global dan Pemadaman Tim"
+  },
+  {
+   "id": "politik-202611221145-f137",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Mongolia heads for first snap presidential election after Khurelsukh resigns over corruption claims",
+   "src": "The Insight International",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUXVyUGZpelg3ZTAySGNNRmhERGpFM2c5Q0JGaWo2MzR1aHhwTGFlZV9JVHV2UkZBZUQzcWw2TDFYUmxJVG1mR3FmSkRQQjVHakZzN3Nva3hPVXFwZ2dVeDRycDk3Njc1US05Q2lOWHpTTFE0bzNVbmxleFVEZVVJSWJLeUp4eGdhUEVNaDdLYmZNSFZyVklVQ2JUUzVvaGptVy1SZWZBREV4ZDgxWnk1em83Zjd1YXEtQjNOc2JRQS1sZFJiWEVlTWk0Zw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-22T11:45:00Z",
+   "last": "2026-11-22T15:43:51Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Political round-up: Apologies, chainsaws and corruption jibes as Spain enters the final week before pivotal snap election",
+     "src": "Olive Press News Spain",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2NmNVU1eGp6M3kxdUU3YlFHcG5MdXpIWVYydkpqWFVOR1NvUTBsd0RkdTRXQzY3MjVCaXkxQlc3Mi1lWjk2Y1k5WEx1WDd0cjRsUXY0clcxM0twd2M0azMyekpmcktVeTFvcDVySVpod1FPeG1IMFBsRGhTa1pMNEVod1hJOF85SU9LQjRFUjQ?oc=5",
+     "t_id": "Rangkuman politik: Permintaan maaf, gergaji mesin, dan sindiran korupsi saat Spanyol memasuki minggu terakhir sebelum pemilu sela yang penting"
+    }
+   ],
+   "title_id": "Mongolia menuju pemilihan presiden cepat pertama setelah Khurelsukh mengundurkan diri karena tuduhan korupsi"
   },
   {
    "id": "kesehatan-202611221200-5d3f",
