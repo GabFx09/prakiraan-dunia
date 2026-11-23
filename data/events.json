@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T10:15:32Z",
+ "updatedAt": "2026-11-23T10:29:04Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "Travel Tourister",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTy1ZUElWT1JGS0hNdUUtQTg2Z2VIU0l0WmpPYXRFUHNaa2FrcS1SeFFaamJSSnlvTmh4X3BHNWdLUm9YWDZtOWRac1NsdXJkdXpvSUJlS3lwblg4WkJwZmxPQTdwY0VXMHVpN0pTLU9HNXpGM1c3akFMb2ZrYS1vQ0NWZ1ExdFFOMGt2VmpFTmdEZXFUNEJXVkZScjRTREJ5Q2J5WFVfWGpfRU1oUmFSMDkyYTRfbkVZSGItU0c3Z0xoLTd1RjRuTldtQlUyX1FOU2pUR2pRZFBoX21ScHVyS1ZiQnlYQ2hT?oc=5",
    "sources": 9,
-   "recent6h": 3,
-   "score": 10.5,
+   "recent6h": 2,
+   "score": 10.0,
    "level": "besar",
    "first": "2026-11-22T15:10:00Z",
    "last": "2026-11-23T07:44:16Z",
@@ -45,6 +45,49 @@
    ]
   },
   {
+   "id": "siber-202611221713-81e9",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "More US Tech Outages Ahead? Microsoft and Intelligence Chief Warn of Months of Disruptions",
+   "src": "International Business Times, Singapore Edition",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUNmN3JMa1A3cDNzZV9GVFNaTUczLWxYV09ZQTM1cWZNOE9ZR2ExQ0VwcE1iNzB2TXF2elk2LU9mQk0yc1pxNEY0Si1IQzFKWEdrRFNvRkJpTjI0ODZXdFlZOVZUVG9ocm5fQTFrVkVVdG1zODVYbkU1aHZWVkg2Q0c1SGxQU0FRS0tZUHVISXdnY3Nhb0FkenBXbkFlMTIzNTE4Qk0tdF9mYWxS?oc=5",
+   "sources": 8,
+   "recent6h": 1,
+   "score": 8.5,
+   "level": "besar",
+   "first": "2026-11-22T17:13:38Z",
+   "last": "2026-11-23T07:54:14Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "US intelligence chief warns of more tech outages as ageing systems are upgraded",
+     "src": "Business Upturn",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlpiOTZ1bTJZdnFmS2d5aEJ2UTRxWlpYTkZuVjJxSFE3WTM0cFJOTHZ0bE4zVjhIQi1JWkJfVGRGT3hSaWxwVDlFWnc0cmRfV3FVM0J3TkhsZlplQnpoSUxJY3lhY0J6Zzd5eDZIZWJUb1RjZWZtalhvaVl6aWw0T0RVZXQ4RVJuMUdKNkJzcHhCUnZTel9aSFN6QWh4RGs4M2FvMllFMGIyYVQyQVRrLV9COEVYV2l5TndwYzVEQQ?oc=5",
+     "t_id": "Kepala intelijen AS memperingatkan akan lebih banyak pemadaman teknologi seiring dengan peningkatan sistem yang sudah tua"
+    },
+    {
+     "t": "Americans should expect more technology outages and disruptions as companies and government agencies replace aging systems, the top US intelligence official said on Sunday. Read more: https://www.gmanetwork.com/news/topstories/world/1010445/us-i",
+     "src": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazlmV3lsQXd2UmpvYkxVVzlTV0FqNFFJSDJmdzRwZ0NzQXFjQUowUkJKZHNYVzkxTGRZZnAzem1UOTc4RWhHWHNkQTNhMmVEcnRDZG11dzVaS01vZXMtVy1zVXcxLTc2SHpPNTExYnN4TnJOMmxhb01SM2VLWlAtNElINHJTQVVQQ2pmMF9aN2l0V3ZsUEFsTXVfbFpoTmJnbVFTUVRlTzZqbERnRDZaWHpQOWRfNW9ZQVpnYjRzWWlJeDBRZ0lyZEdzSmp3SlJmVzVuVA?oc=5",
+     "t_id": "Warga Amerika diperkirakan akan mengalami lebih banyak pemadaman dan gangguan teknologi ketika perusahaan dan lembaga pemerintah menggantikan sistem yang sudah tua, kata pejabat tinggi intelijen AS pada hari Minggu. Baca selengkapnya: https://www.gmanetwork.com/news/topstories/world/1010445/us-i"
+    },
+    {
+     "t": "Intelligence chief Jay Clayton tells Americans to expect more 'bumps in the road' as systems are upgraded after the wave of outages",
+     "src": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTzl3UmY2T2h3ZWFwRlFPSEQ5cWF5MkNCOW55cFpFazNrZ3lHQlJHOExIWnBjN2x4am5DZnIyWlRseS1ZNDBFYnNhcktSU1lXSnBSc2xqTExYbDlVeWpPdlJfX1M1MEZScnVxdzZkMlkxbUxoWURIMlJ5WlJ1SGRqcnViNUtOVHNWOV9zeVlhQ1Z4dzB4X0JIejVWV2luZ2theGN5dkdUTU91MUVuNkE3WGt5RE40Vk5QZkJxcWRnbHd5UUVkdTkxazNCU0lRdFJSTjJpMUE2eWdEZEVRbDhxUzdzMng?oc=5",
+     "t_id": "Kepala intelijen Jay Clayton mengatakan kepada masyarakat Amerika bahwa akan ada lebih banyak 'benjolan di jalan' seiring dengan peningkatan sistem setelah gelombang pemadaman listrik"
+    },
+    {
+     "t": "Microsoft President Warns of More Tech Outages in Coming Months",
+     "src": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa19EX0szUDlDYm1fbElCUEYzQUpDZlBKeGxMUHhKYzE2V3NzZmVvTFl5V19XLUMwWkhiLU9YczFuNnZ6SUFPNkR5ZzM2dzRrVkdMMENJaUNlWlA1bXl2QXBmZVhidVdvUmdvSkVMbkdXa2ZseHhyNTFzbUQ1REhpaUVNSG9rZU5xZThPTGs1RlFQRlc0XzlVYXRnY1UyUQ?oc=5",
+     "t_id": "Presiden Microsoft Memperingatkan akan Lebih Banyak Gangguan Teknologi dalam Beberapa Bulan Mendatang"
+    }
+   ],
+   "title_id": "Lebih Banyak Gangguan Teknologi AS di Masa Depan? Microsoft dan Kepala Intelijen Memperingatkan akan Gangguan Selama Berbulan-bulan"
+  },
+  {
    "id": "perang-202611221111-e41d",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -52,9 +95,9 @@
    "title": "US Acknowledges Unprecedented Iranian Missile and Drone Attacks; Trump Threatens to Resume War After New Year",
    "src": "نورنیوز",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNODVZTVFWOUNZeWh1WlZwRTNYaDBOa3BOS0d2YjdrS1FwMkxzOXRpbk1sTVBrZDJQMU03bWdfVEpYV2RsUGR0eDFxVUloVzR2eXVlSWJxRXhPbjdwaFNCUlQ2cjJ5NjVSMFpYT0pZT3A3TEM5bElfcExwOXZ2d0twTlhLY2ZmX0JpZDBMdzdKVnVIWEtqam1YcF9QSHlZZVV4YU0wQU5vRkt1Tm9ITG1rZGZEUTViTEdYVG9TV2hGczBzSDd3a1VkT0w1N1c5cW1xdjZkZWNDOVlNMG8?oc=5",
-   "sources": 7,
+   "sources": 6,
    "recent6h": 2,
-   "score": 8.0,
+   "score": 7.0,
    "level": "besar",
    "first": "2026-11-22T11:11:01Z",
    "last": "2026-11-23T07:34:00Z",
@@ -95,9 +138,9 @@
    "title": "Erick dihubungi FIFA terkait kerusuhan suporter di Sleman",
    "src": "ANTARA News",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejBXclV3aDhMVjN4VTBJUVVkck13Q0J2V19PQU1yVFExd3FjTmhrUGctMlg4RmJDeGs0TDc1RmM3ODVMOEJFZXhjUmgwTlE2cVF3c0kyYl92TUpjRHJfdTJWWjNnUnRvcktCV1Y2MFRERmVjNGV3cGxtM2lpc0NLendhUmh1T2dTYUV2bEFHUmNxNmx0S1FXTHk5UGt4R3BlNjlyWHlR0gGrAUFVX3lxTE45WDM0NTA1LW4yUjlUeGQ4dTdwN2VDdWdfXy1HbGg0YVVuSXJwOUl6LXdYR2JDak90ampERGlzUGFKRkhIUTJHYk1VREFPSGNITk5vQWJFNkdFeU9KZVVZcXM4LWZ2RjRpblZKZ1NfN051RHo4YUJIWFZpaUZBUkgtQzR6T2tsMDNyVmp5MHRNX09GQnItSkhxb0xEQ01fNld4cVozQ05oTE9XVQ?oc=5",
-   "sources": 5,
+   "sources": 4,
    "recent6h": 3,
-   "score": 6.5,
+   "score": 5.5,
    "level": "sedang",
    "first": "2026-11-22T03:14:34Z",
    "last": "2026-11-23T08:55:49Z",
@@ -117,87 +160,8 @@
      "t": "FIFA Turun Tangan! Kerusuhan PSS vs Arema Ancam Poin dan Suporter",
      "src": "Metro Pekalongan",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFgxelJGUzR6U2JCS0hGcFdQbE11dGFEUk92LVRRcGVtODlydzQ2SDFWaFNUTkJJQURnb0NmV3dNN1pTVFZ3NUV1Z2tyZHNGVnVOVHM5WnkzZ1RkYkZxZnB1S0c3RmFNN19aZXIxZXBiV3FCaHJvTm9iWTd3MV9va1BzQ0VUR0JRa2xRYmEtTzRrMW1DX085SnF1NnZwNmthUzhSYzlpNHpPOVVONUJva29LTUFRS0VxdUFwUUF6bnBjd9IBwgFBVV95cUxQcFgxelJGUzR6U2JCS0hGcFdQbE11dGFEUk92LVRRcGVtODlydzQ2SDFWaFNUTkJJQURnb0NmV3dNN1pTVFZ3NUV1Z2tyZHNGVnVOVHM5WnkzZ1RkYkZxZnB1S0c3RmFNN19aZXIxZXBiV3FCaHJvTm9iWTd3MV9va1BzQ0VUR0JRa2xRYmEtTzRrMW1DX085SnF1NnZwNmthUzhSYzlpNHpPOVVONUJva29LTUFRS0VxdUFwUUF6bnBjdw?oc=5"
-    },
-    {
-     "t": "PSSI dan I.League Kompak Kecam Kerusuhan di Sleman, Suporter PSS Terancam Disanksi Berat Hingga Absen hingga Akhir Musim",
-     "src": "ThePhrase.id",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0NDSm1zRnhlbVp2cEFkQ2JydUN4dThZUkV5ZGtWMTkyRWlGTjRlbnE0X0lNY0F4enBVWmZmQUhiNVZqbGpyU3dHTTVSMzZMbk9WVUNlWk4zMDVWNWl6MHFEUVVmWGZFNWRHbG0wc2Uzdk13T0Q1cnNFazFCMEtjek9iaEE2c1ZPbnktMmcyQWdUVE5CWlhUb1hkU0hFWThPaFVLdzRjWXowZjZRLU1rQlRNQ2I5a1BiUkp1dVFTUkhVdUpyaFdxUU4xNWpzZTdBaE52ME9TYw?oc=5"
     }
    ]
-  },
-  {
-   "id": "perang-202611221256-6444",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-22T12:56:47Z",
-   "last": "2026-11-23T08:00:19Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "The destruction of a Russian missile corvette at an African base may have resulted from a drone attack, for which no one has claimed responsibility",
-     "src": "Business Insider Africa",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1M1bTR3Yi1qSTl2dnNPRXNwa2ExekFHczVhYk1GV0VTcXR0Z2JyQjdzZjk0Rk9tWlRUd05lUHRJbkptMHBBSXpBMFI0SE9Lck4tamExblgyRE5GNFdCbk5uMTB3TWY3SXRDeXFoNmpuRlEtS1hsUTFDNFZ5dWFBVGV0NTJCUDZWdUU3X1NFQlBILXM1M2hGejNpSDF6TnduRUJ4eV9SRi1SVjh2aGMtanA5bmQwQ2lWVmhYV0Exd3V5RmtpTDk0VFZIMDJaX01LOVZCaDVB?oc=5",
-     "t_id": "Penghancuran korvet rudal Rusia di pangkalan Afrika mungkin disebabkan oleh serangan pesawat tak berawak, yang belum ada pihak yang mengaku bertanggung jawab."
-    },
-    {
-     "t": "Russian ship sinks in Libyan port in suspected Ukrainian drone attack",
-     "src": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm40UThnaG9jbUJnelpLWGlJMHlUdTZkb1p0ZFUwa3NGSGJ5M2R1V0JqWjNTeWhoQTlLeE1ZbWtiVVR5WTFvVGoyUk94ZzR2LXZ5OXZBS3Y5WmdCRlFSYi1GSEZGbWw2RDd5dzZic09kbTBmLW5nOE1mUVM2N1NyR2ttUlZ5WDlOVnpSVzNWNXRYaFVKTWg4WGFkX2RSY0lnWnk3UzhiVQ?oc=5",
-     "t_id": "Kapal Rusia tenggelam di pelabuhan Libya karena dugaan serangan pesawat tak berawak Ukraina"
-    },
-    {
-     "t": "Search-and-rescue underway in Kyiv following Russian drone attack",
-     "src": "AOL.co.uk",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMm1HdlI3VGpSc1hoQkJUeDNyTmJXNnRCWUJxUmE0bXFWdnhaazkxb18waVc5c1RHek5FWHR0VXdwMDdCQVdydVQ2enk3d2dVdzZEbThDeTJOc2UteU9RcHZBTERCYUZvbTc5MldpTVFIeHJoY1VwMFpMNHhRRzlRUkJSbGlReVFzM1Ew?oc=5",
-     "t_id": "Pencarian dan penyelamatan sedang dilakukan di Kyiv setelah serangan pesawat tak berawak Rusia"
-    }
-   ],
-   "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
-  },
-  {
-   "id": "siber-202611221713-81e9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Americans should expect more technology outages and disruptions as companies and government agencies replace aging systems, the top US intelligence official said on Sunday. Read more: https://www.gmanetwork.com/news/topstories/world/1010445/us-i",
-   "src": "Facebook",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazlmV3lsQXd2UmpvYkxVVzlTV0FqNFFJSDJmdzRwZ0NzQXFjQUowUkJKZHNYVzkxTGRZZnAzem1UOTc4RWhHWHNkQTNhMmVEcnRDZG11dzVaS01vZXMtVy1zVXcxLTc2SHpPNTExYnN4TnJOMmxhb01SM2VLWlAtNElINHJTQVVQQ2pmMF9aN2l0V3ZsUEFsTXVfbFpoTmJnbVFTUVRlTzZqbERnRDZaWHpQOWRfNW9ZQVpnYjRzWWlJeDBRZ0lyZEdzSmp3SlJmVzVuVA?oc=5",
-   "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-22T17:13:38Z",
-   "last": "2026-11-22T22:55:21Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Intelligence chief Jay Clayton tells Americans to expect more 'bumps in the road' as systems are upgraded after the wave of outages",
-     "src": "MLQ.ai",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTzl3UmY2T2h3ZWFwRlFPSEQ5cWF5MkNCOW55cFpFazNrZ3lHQlJHOExIWnBjN2x4am5DZnIyWlRseS1ZNDBFYnNhcktSU1lXSnBSc2xqTExYbDlVeWpPdlJfX1M1MEZScnVxdzZkMlkxbUxoWURIMlJ5WlJ1SGRqcnViNUtOVHNWOV9zeVlhQ1Z4dzB4X0JIejVWV2luZ2theGN5dkdUTU91MUVuNkE3WGt5RE40Vk5QZkJxcWRnbHd5UUVkdTkxazNCU0lRdFJSTjJpMUE2eWdEZEVRbDhxUzdzMng?oc=5",
-     "t_id": "Kepala intelijen Jay Clayton mengatakan kepada masyarakat Amerika bahwa akan ada lebih banyak 'benjolan di jalan' seiring dengan peningkatan sistem setelah gelombang pemadaman listrik"
-    },
-    {
-     "t": "U.S. can expect more tech outages as systems undergo upgrades, intelligence chief says",
-     "src": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeUY5dUI0dWQtOEQ0Y1FlR21TV2xBdXlXTnIxamc1UWh6Nks3RG53Q0FuVHJIT3VyRjY3UGM4eHk3WGxGekZQcUdBbUxLeUp1MzFaemhfNzdSN3ZibWtjbG5pUkJmNWVkUWsyYmdMTkhwT3NONmZGTW5ld1FScjhMV3ppV2g?oc=5",
-     "t_id": "AS mungkin akan mengalami lebih banyak pemadaman teknologi seiring dengan peningkatan sistem, kata kepala intelijen"
-    },
-    {
-     "t": "As AI detects flaws in computer systems, is it causing more tech outages and disruptions?",
-     "src": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3V6c1ZoWkw5RzJuZEFSdHJkby1RMnVtc29rMjZxcDRxV0Q1YVRLX0VZY1lLN1hJclpneEp5NlA1amZuWUNQVkVEWUo0cmtfU3g0LVNkSV9FYU9TQlEycU5LdWFRVXpSbnlEd1JTTGlZbnBOdDNhSDlHTFZhcUdxSFRpakZpYWRjY1M0RGc1X1hiR1ZtZldHN1NYOEtLSTNpVkphbF9fdmFYa1RUU3V1ak5sWm0wZ19XT0tES0EzOWw?oc=5",
-     "t_id": "Ketika AI mendeteksi kelemahan dalam sistem komputer, apakah AI menyebabkan lebih banyak pemadaman dan gangguan teknologi?"
-    }
-   ],
-   "title_id": "Warga Amerika diperkirakan akan mengalami lebih banyak pemadaman dan gangguan teknologi ketika perusahaan dan lembaga pemerintah menggantikan sistem yang sudah tua, kata pejabat tinggi intelijen AS pada hari Minggu. Baca selengkapnya: https://www.gmanetwork.com/news/topstories/world/1010445/us-i"
   },
   {
    "id": "kesehatan-202611221150-5d3f",
@@ -226,6 +190,67 @@
      "src": "Kiowa County Press",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3M2ZGkwc01qaFY0VHdWRjZEaFdJRE11dy1HeFdUOXlhanZVMUpnMzMyd3Z0UTBOUmFnNWdTcktJRXdOOFo1am1Sbkhkc0MtUWxMV1Frc3dzZlBoTDg4aVNGRnNGVDM4YUt0a2RoX196OXFtS1N1emtrMVl6OW10OGNIbm1scEpGQzNFQkc1VGhrT2NWbFVZelhSQVlydTBlb1VVdVdLeVVNQ3RfM2ZZ?oc=5",
      "t_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
+    }
+   ]
+  },
+  {
+   "id": "perang-202611221256-6444",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-22T12:56:47Z",
+   "last": "2026-11-23T08:00:19Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "The destruction of a Russian missile corvette at an African base may have resulted from a drone attack, for which no one has claimed responsibility",
+     "src": "Business Insider Africa",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1M1bTR3Yi1qSTl2dnNPRXNwa2ExekFHczVhYk1GV0VTcXR0Z2JyQjdzZjk0Rk9tWlRUd05lUHRJbkptMHBBSXpBMFI0SE9Lck4tamExblgyRE5GNFdCbk5uMTB3TWY3SXRDeXFoNmpuRlEtS1hsUTFDNFZ5dWFBVGV0NTJCUDZWdUU3X1NFQlBILXM1M2hGejNpSDF6TnduRUJ4eV9SRi1SVjh2aGMtanA5bmQwQ2lWVmhYV0Exd3V5RmtpTDk0VFZIMDJaX01LOVZCaDVB?oc=5",
+     "t_id": "Penghancuran korvet rudal Rusia di pangkalan Afrika mungkin disebabkan oleh serangan pesawat tak berawak, yang belum ada pihak yang mengaku bertanggung jawab."
+    },
+    {
+     "t": "Search-and-rescue underway in Kyiv following Russian drone attack",
+     "src": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMm1HdlI3VGpSc1hoQkJUeDNyTmJXNnRCWUJxUmE0bXFWdnhaazkxb18waVc5c1RHek5FWHR0VXdwMDdCQVdydVQ2enk3d2dVdzZEbThDeTJOc2UteU9RcHZBTERCYUZvbTc5MldpTVFIeHJoY1VwMFpMNHhRRzlRUkJSbGlReVFzM1Ew?oc=5",
+     "t_id": "Pencarian dan penyelamatan sedang dilakukan di Kyiv setelah serangan pesawat tak berawak Rusia"
+    }
+   ],
+   "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
+  },
+  {
+   "id": "siber-202611221524-f1b0",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Delta Outage: What Caused Sunday’s Nationwide Delays",
+   "src": "The Aviation Hub",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXpRSnlmRE92WFRCU0lQX09FWnhQVHJrMEZEZWhpaS1PRlgxN1pBaTZZUk9HdXRXQTV0OGVieFJvYzJ2SkNkbjVvWm9ub05paktqamYxRFVCN210Z3VKdlVZeEFCVkJGVUhjeWR2Wm1RR2tHcGVpNkxSZXdTNFJ5eVhoMzIzV00?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-22T15:24:58Z",
+   "last": "2026-11-23T08:00:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "What Caused the Delta Outage? Inside the 'Weight and Balance' System Behind Sunday's Delays",
+     "src": "Men's Journal",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWxfTThxVmNMZDlocHY1NVlBVF9tM0p2ZEdISG5tY2MxZ0JZVVpUTExaTmdLd2ZGV195MUUtWHR2WER3MF82bS1KQ0wza3VIOWZnVmJJQ2FQNkwzQkpQSzBBYmxLZy1ib1BIUTN0cG85cjZka0lCd3A1OUFwaHFVOXRKeHMteEU0?oc=5",
+     "t_id": "Apa yang Menyebabkan Pemadaman Delta? Di Dalam Sistem 'Berat dan Keseimbangan' di Balik Penundaan Hari Minggu"
+    },
+    {
+     "t": "Delta Air Lines Facing Widespread Delays After System-Wide Computer Outage",
+     "src": "PYOK",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3VleTl5VDJZOFZiQnVOZEFPYU1yNnVaTzJpaFE2U0xHV2pQcEFnQkVTT2xRUEg1NE1TUlpTWEtZWS1URmZtQ0tXejluLVdqVlNCcnB3bkJIMnhMSTQ5b0poc3JneWF4QVZVaDFmaVlmSG9YM19sRElXNkZjbzVpbHFqdEpHYWNTTUJlai05WnRRQVRXQTB5ci1EYjNLYWcyeVhMd09zd1pPd054MDVnRmFKWUlPTEpOb3Z3VlZB?oc=5",
+     "t_id": "Delta Air Lines Menghadapi Penundaan yang Meluas Setelah Pemadaman Komputer di Seluruh Sistem"
     }
    ]
   },
@@ -338,31 +363,6 @@
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXFzZ3NEbmN3c2NCVV9IbjNNLVREczlxR3M1VXJ6X2FvcTVkVDhkTm45TEJRbEpLUlhwNkJqaVNONVFfV05ZTDhLZzQ0YUs5Um1xSUh1Q2tHT01UVmlnU1pSNUtIR3JzWDI5REpiRWlsQm8xWXRHTGg5bmdMUTFqNnNaLTI3d1lTbUF2aUhMeVhodw?oc=5"
     }
    ]
-  },
-  {
-   "id": "siber-202611221713-81e9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "More US Tech Outages Ahead? Microsoft and Intelligence Chief Warn of Months of Disruptions",
-   "src": "International Business Times, Singapore Edition",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUNmN3JMa1A3cDNzZV9GVFNaTUczLWxYV09ZQTM1cWZNOE9ZR2ExQ0VwcE1iNzB2TXF2elk2LU9mQk0yc1pxNEY0Si1IQzFKWEdrRFNvRkJpTjI0ODZXdFlZOVZUVG9ocm5fQTFrVkVVdG1zODVYbkU1aHZWVkg2Q0c1SGxQU0FRS0tZUHVISXdnY3Nhb0FkenBXbkFlMTIzNTE4Qk0tdF9mYWxS?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-22T17:13:38Z",
-   "last": "2026-11-23T07:54:14Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft President Warns of More Tech Outages in Coming Months",
-     "src": "Newsweek",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa19EX0szUDlDYm1fbElCUEYzQUpDZlBKeGxMUHhKYzE2V3NzZmVvTFl5V19XLUMwWkhiLU9YczFuNnZ6SUFPNkR5ZzM2dzRrVkdMMENJaUNlWlA1bXl2QXBmZVhidVdvUmdvSkVMbkdXa2ZseHhyNTFzbUQ1REhpaUVNSG9rZU5xZThPTGs1RlFQRlc0XzlVYXRnY1UyUQ?oc=5",
-     "t_id": "Presiden Microsoft Memperingatkan akan Lebih Banyak Gangguan Teknologi dalam Beberapa Bulan Mendatang"
-    }
-   ],
-   "title_id": "Lebih Banyak Gangguan Teknologi AS di Masa Depan? Microsoft dan Kepala Intelijen Memperingatkan akan Gangguan Selama Berbulan-bulan"
   },
   {
    "id": "transportasi-202611222331-fe39",
