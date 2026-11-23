@@ -1085,6 +1085,17 @@
       "ihsg": 5215.85,
       "usdidr": 18158.0,
       "ust10": 4.938
+    },
+    {
+      "t": "2026-11-23T22:00:00Z",
+      "risk": 77,
+      "btc": 61134.61,
+      "gold": 3633.1,
+      "brent": 86.73,
+      "spx": 7237.17,
+      "ihsg": 5215.85,
+      "usdidr": 18158.0,
+      "ust10": 4.918
     }
   ],
   "horizons": [
@@ -1531,6 +1542,22 @@
   },
   "news": [
     {
+      "t": "IRGC Iran klaim ranjau membakar tiga kapal tanker di Selat Hormuz (belum terverifikasi independen)",
+      "src": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ1pJdmpCMEdJUzFpbmtZX1VlQ2tXUDVhS1ZPZGM2ZXdPT3huNjJ2TkQ4MDJpaWVVTFBpNmQ5bFBMalVEa0Noa0ZkdzhRVzlxUGRvWVF1X3R1MEF4dDgxM25DUkJQMlQ4UlJyRThQX0I5cG9tcEc1RkVyTjlBSW5uMzZkY3NQVDlWV01IVzF5UldBMVBhVFlfLWpxOS16QU9lcWJkMWdpMWgxMHdwTFdrOVVyZjdCX044eENlY2pBMEp3dmVFVnBCLU4zUnBZR1duRS1YbHYtMjN2Y2F6?oc=5",
+      "time": "2026-11-23T21:49:27Z",
+      "impact": "naik",
+      "assets": "Minyak Brent, emas, rupiah"
+    },
+    {
+      "t": "Pejabat Fed John Williams: suku bunga kemungkinan naik \"seiring waktu\" untuk menekan inflasi",
+      "src": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEpFREZWNnVpcVBFY3pxbHBnbkFJTWRxZjlBOHNLdFkxb1JEVWdUX2VfWlJhU0dwZEFJc0RUY2w2THFBaWVjbkxpSGRubWxQdHdSYWJFdmc2VVhUX0F1S1gwYXYxcUlsQUY0T0pIQnhhNkNFRXFCWHA3M2xVZWRITtIBhgFBVV95cUxNN0wxOFpVd01FWG9EWlppMC02d1RtcG5wZ1V1a3N1bklHZGFHWDYzUk80cnMwa00yblpXZUdfQV9SMk1fVVRrM0c0OWZuSDlGWjQtN0hUWW1mMTNHVTZObmhSeTllcDZIUE85S2duamlXdE5hNExsamtsaDU2LUJveEF0Q1ZIQQ?oc=5",
+      "time": "2026-11-23T21:00:01Z",
+      "impact": "turun",
+      "assets": "Obligasi AS, dolar, saham, emas"
+    },
+    {
       "t": "Nvidia mengangkat kembali Jensen Huang sebagai CEO; Nasdaq-100 diperkirakan menambah sekitar $2 triliun",
       "src": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWk01bk9iRUpaaEhTQ1RKTXVXdEQyblBoSjRFb1FBZjBjbzJZdi03REh0RHpKTnFBSnQzRGdoMXNSLWMyVEtQaDBjN2dMVS1zR2otTXhPRzVQeWJaRmZiaXZ6R1dkcUFFSGRYTTRMSWtsWGhEQmhrUmgyaGgtZWRjbjQ5MUl2T3ZuSEhFUDVOY2pNbHRaWG5KMmJydmk3UmZib3djVnV4QXlEcnh2ZUE?oc=5",
@@ -1609,28 +1636,12 @@
       "time": "2026-11-22T23:49:34Z",
       "impact": "turun",
       "assets": "Bitcoin"
-    },
-    {
-      "t": "Analis: aksi jual emas menyerupai 2022 saat kekhawatiran kenaikan bunga Fed menguat",
-      "src": "FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeldGOUZfc0ZTLUtjTkpuLUN3c2lpYnB1SEIwRS1aVnZ2bGNQQndUblBPdG5yZ0NIZDZLMGNxWFRYSDdEaWNXZGVLUmhMWnRWWVoxYVJJck9qZkFaRVB0VzRMajA4Slk1Z2lsVWdOQTZfWmlFbFRFXzY0NndkVUJfaHIxeERYT0IxaDJGRmI4M20zdWRyQXZxcUxsS0w0MGJzYzE2UzF6U096eUROM1ZJRjl1MA?oc=5",
-      "time": "2026-11-22T23:18:54Z",
-      "impact": "turun",
-      "assets": "Emas, Dolar AS"
-    },
-    {
-      "t": "Serangan Iran di Selat Hormuz capai level tertinggi sejak konflik dimulai",
-      "src": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3?oc=5",
-      "time": "2026-11-22T15:13:28Z",
-      "impact": "naik",
-      "assets": "Minyak, Emas"
     }
   ],
   "readings": [
     {
       "c": "neg",
-      "d": "JPMorgan: naik di 3 rapat ke depan",
+      "d": "Williams: bunga naik \"seiring waktu\"",
       "k": "Suku bunga Fed",
       "v": "3,75–4,00%"
     },
@@ -1645,35 +1656,35 @@
       "d": "Naik 0,5%, imbal hasil tinggi",
       "h": "ust10",
       "k": "Obligasi AS 10 thn",
-      "v": "4,94%"
+      "v": "4,92%"
     },
     {
       "c": "neu",
-      "d": "Turun 5,6%, risiko Hormuz tetap",
+      "d": "Turun 6,3%, risiko Hormuz tetap",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$87,35"
+      "v": "$86,73"
     },
     {
       "c": "pos",
-      "d": "Naik 3,8% dari terendah 14 bln",
+      "d": "Naik 3,4% dari terendah 14 bln",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.649"
+      "v": "$3.633"
     },
     {
       "c": "neu",
       "d": "Tertinggal dari reli saham AS",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$61.308"
+      "v": "$61.135"
     },
     {
       "c": "pos",
       "d": "Naik 4,7% setelah Huang kembali",
       "h": "spx",
       "k": "S&P 500",
-      "v": "7.233"
+      "v": "7.237"
     },
     {
       "c": "pos",
@@ -1699,8 +1710,8 @@
   "regimeText": "Rebound saham AI setelah Jensen Huang kembali memimpin Nvidia meredakan tekanan pasar, tetapi inflasi AS 3,7% dan bunga Fed yang condong naik tetap menahan emas, Bitcoin dan rupiah. Ketegangan Hormuz menjaga risiko geopolitik tinggi.",
   "regimeTitle": "Stagflasi, risiko tinggi tapi mereda",
   "risk": 77,
-  "riskNote": "Risiko turun karena rebound Wall Street, namun belum terkonfirmasi sebagai dasar pasar dan Hormuz masih rawan.",
-  "updatedAt": "2026-11-23T19:00:00Z",
+  "riskNote": "Rebound saham meredakan tekanan, tetapi klaim serangan ranjau di Hormuz dan sinyal Fed yang hawkish menjaga risiko tinggi.",
+  "updatedAt": "2026-11-23T22:00:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -1996,7 +2007,7 @@
     {
       "k": "Inflasi & suku bunga",
       "v": 85,
-      "note": "Fed condong naik bunga, UST 10 th ~4,95%"
+      "note": "Fed Williams: bunga naik, UST ~4,92%"
     },
     {
       "k": "Valuasi saham",
@@ -2033,13 +2044,13 @@
     }
   ],
   "brief": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "points": [
-      "Saham AS rebound tajam setelah Nvidia mengangkat kembali Jensen Huang sebagai CEO; S&P 500 sekitar 7.233 (+4,7%), memulihkan lebih dari separuh kerugian pekan lalu.",
-      "IHSG menguat 1,35% ke 5.216 setelah BI-Rate naik ke 6,00%. Rupiah ~Rp18.158 per dolar, masih dekat rekor terlemah; dana asing ke SRBI >US$1 miliar.",
-      "Emas ~$3.649 (+3,8%), Bitcoin ~$61.300 tertinggal dari reli saham, Brent ~$87 (-5,6%) meski Hormuz berisiko; UST 10 th ~4,94%.",
-      "Risiko turun tipis karena rebound saham, tetapi Hormuz, inflasi AS 3,7% dan peluang Fed menaikkan bunga Desember masih menjaga tekanan.",
-      "Pantau: PCE AS (25/11), rapat OPEC+ 29/11, efek MSCI 30/11, dan apakah rebound Wall Street bertahan."
+      "Wall Street ditutup melonjak: S&P 500 naik 4,7% ke sekitar 7.237 dan Nvidia naik lebih dari 31% setelah Jensen Huang kembali menjadi CEO.",
+      "IRGC Iran mengklaim ranjau meledakkan tiga kapal tanker di Selat Hormuz (klaim belum terverifikasi independen). Brent tetap turun ke ~$86,7, tetapi risikonya tinggi.",
+      "Pejabat Fed John Williams menyebut suku bunga perlu bertindak \"seiring waktu\" untuk menekan inflasi, sehingga tekanan imbal hasil AS (~4,92%) dan dolar bertahan; USD/IDR ~18.158.",
+      "Emas ~$3.633 dan Bitcoin ~$61.100 tertinggal dari reli saham; IHSG ditutup 5.216 (+1,35%) setelah BI-Rate naik ke 6,00%.",
+      "Pantau: PCE AS (25/11), rapat OPEC+ 29/11, efek MSCI 30/11, dan apakah reli Wall Street bertahan."
     ]
   },
   "calendar": [
@@ -2135,7 +2146,7 @@
     },
     {
       "t": "UAE alihkan ekspor minyak melewati Iran di Selat Hormuz",
-      "what": "UAE memperbesar upaya mengirim minyak lewat Selat Hormuz dengan operasi berisiko di tengah blokade AS atas Iran dan serangan di sekitar jalur itu.",
+      "what": "UAE memperbesar upaya mengirim minyak lewat Selat Hormuz dengan operasi berisiko di tengah blokade AS atas Iran dan serangan di sekitar jalur itu. IRGC Iran kemudian mengklaim ranjau membakar tiga kapal tanker di Hormuz (klaim belum terverifikasi independen).",
       "impact": "Kelancaran pasokan menekan harga minyak, tetapi insiden kapal dapat memicu lonjakan harga dan menekan rupiah.",
       "assets": "Minyak, Rupiah, Emas",
       "sev": "tinggi",
