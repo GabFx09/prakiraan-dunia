@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-23T13:58:23Z",
+ "updatedAt": "2026-11-23T14:45:25Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-spx-20261123-up",
+   "time": "2026-11-23T14:45:25Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "spx",
+   "title": "S&P 500 melonjak 3,9% dalam sehari",
+   "body": "Harga terakhir 7.182. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#spx"
+  },
   {
    "id": "px-brent-20261123-down",
    "time": "2026-11-23T13:58:23Z",
@@ -426,6 +436,7 @@
   "px-spx-20261121-down",
   "px-spx-20261122-down",
   "px-spx-20261123-down",
+  "px-spx-20261123-up",
   "px-usdidr-20261119-up",
   "px-usdidr-20261120-up",
   "px-usdidr-20261121-up"
