@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T07:04:36Z",
+ "updatedAt": "2026-11-23T07:19:17Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -230,6 +230,34 @@
    ]
   },
   {
+   "id": "indonesia-202611220300-45d6",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Gen Z Thailand Pakai Telinga Kucing Tuntut Reformasi Pendidikan dan Politik",
+   "src": "Qoo Media",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjlJeDZHcmpkTnNuVjk2Nm82c25ZZVdSZXBMMVEzZ0huMEJReDhSdzA4QkZYQWx3czE2SnI5elZzaExTdkNVcDVqcnc2ekROMVJ2S2hBOFJzQVRlcjJzNHdsVHJFcGhVWm9oU09WMElydy12Q3ZtN1pGeXFxV3ZKelItRHJsUVl2STlpSVVBcGpYNzcy?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-22T03:00:37Z",
+   "last": "2026-11-23T02:36:27Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Demo Gen Z Thailand Pakai Telinga Kucing Tuntut Reformasi Pendidikan",
+     "src": "gadget.qoo10.co.id",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXFzZ3NEbmN3c2NCVV9IbjNNLVREczlxR3M1VXJ6X2FvcTVkVDhkTm45TEJRbEpLUlhwNkJqaVNONVFfV05ZTDhLZzQ0YUs5Um1xSUh1Q2tHT01UVmlnU1pSNUtIR3JzWDI5REpiRWlsQm8xWXRHTGg5bmdMUTFqNnNaLTI3d1lTbUF2aUhMeVhodw?oc=5"
+    },
+    {
+     "t": "Pelajar Thailand Demo Tuntut Reformasi, Acungkan Salam Tiga Jari",
+     "src": "IDN Times",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3g5VVZldEl5cl9Jb05SV0FKOVp4aDM2d0hRalB0Q3JMVk9KcnFLNVFtaUN1cjg0czNtV0xtWENhS1hySFBZQVpQZkJJRTdGREc1NTMtckJCaFN4NVRpSnhBekpOZTNNRk9qQmRUbFRiejZCVUYycjlXcXBnNE9pWVd4YjRRUXpaNERfNnd2QUdfZVBTWmNCWUpwUnBfdzlqZ0dNLTNQeHJ3c1NCR3hoWHJteDktUdIBuwFBVV95cUxPTWs3SUdLUzdLWUNIZGdYS3hKM3NaMk9RRTFqYXdrZk9BZ0tOT0pRZ3MyMmstRjJFREpFaEk2bzlQNi1zT1hDckpVcVV4bDNOTjVxbG9WVGFWNGpDZ0YxZk5kTXNTMUhVQURvU1Jwb1I5Z2tPUGt3X1pBTFdhakRzdDFpQmhFcnhlbXllbW9EVmQ5RVlrNVluSVpTMTYwTjZZVEI4MnJmV1hoQUdkOFhGczlyMVVFai1hQm5J?oc=5"
+    }
+   ]
+  },
+  {
    "id": "siber-202611221524-2d2b",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -309,29 +337,6 @@
     }
    ],
    "title_id": "Microsoft 365 Down Lagi? Pengguna Melaporkan Masalah Baru Minggu Malam, Beberapa Hari Setelah Outlook Global dan Pemadaman Tim"
-  },
-  {
-   "id": "indonesia-202611220300-45d6",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Gen Z Thailand Pakai Telinga Kucing Tuntut Reformasi Pendidikan",
-   "src": "Qoo Media",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXFzZ3NEbmN3c2NCVV9IbjNNLVREczlxR3M1VXJ6X2FvcTVkVDhkTm45TEJRbEpLUlhwNkJqaVNONVFfV05ZTDhLZzQ0YUs5Um1xSUh1Q2tHT01UVmlnU1pSNUtIR3JzWDI5REpiRWlsQm8xWXRHTGg5bmdMUTFqNnNaLTI3d1lTbUF2aUhMeVhodw?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-22T03:00:37Z",
-   "last": "2026-11-23T01:13:39Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Pelajar Thailand Demo Tuntut Reformasi, Acungkan Salam Tiga Jari",
-     "src": "IDN Times",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3g5VVZldEl5cl9Jb05SV0FKOVp4aDM2d0hRalB0Q3JMVk9KcnFLNVFtaUN1cjg0czNtV0xtWENhS1hySFBZQVpQZkJJRTdGREc1NTMtckJCaFN4NVRpSnhBekpOZTNNRk9qQmRUbFRiejZCVUYycjlXcXBnNE9pWVd4YjRRUXpaNERfNnd2QUdfZVBTWmNCWUpwUnBfdzlqZ0dNLTNQeHJ3c1NCR3hoWHJteDktUdIBuwFBVV95cUxPTWs3SUdLUzdLWUNIZGdYS3hKM3NaMk9RRTFqYXdrZk9BZ0tOT0pRZ3MyMmstRjJFREpFaEk2bzlQNi1zT1hDckpVcVV4bDNOTjVxbG9WVGFWNGpDZ0YxZk5kTXNTMUhVQURvU1Jwb1I5Z2tPUGt3X1pBTFdhakRzdDFpQmhFcnhlbXllbW9EVmQ5RVlrNVluSVpTMTYwTjZZVEI4MnJmV1hoQUdkOFhGczlyMVVFai1hQm5J?oc=5"
-    }
-   ]
   },
   {
    "id": "politik-202611220935-be58",
