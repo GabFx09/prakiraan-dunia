@@ -1,29 +1,106 @@
 {
- "updatedAt": "2026-11-23T18:11:18Z",
+ "updatedAt": "2026-11-23T18:25:52Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
-   "id": "perang-202611230307-a110",
+   "id": "siber-202611221953-b54c",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Delta Outage Delays 1,600+ Flights Before Thanksgiving",
+   "src": "shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
+   "sources": 8,
+   "recent6h": 3,
+   "score": 9.5,
+   "level": "besar",
+   "first": "2026-11-22T19:53:36Z",
+   "last": "2026-11-23T16:01:47Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
+     "src": "localmemphis.com",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbHBUYV9hUFpTY2NDUlJiTndlTGJmX2xrVW9JS29oME05dEJyd20wSU1sbVdxeG93VjRuRmc1SDdxeGJGYUJWdlZib29EVEpXZXJxOWUtQTRCOEZMRENpXzlCRjJDOTgwSkFMbjVpTVJMTjZvZENlejhSUWRlaUlhdVktcXpPc1dZM2lpRWZrZXpsVzREWTA5N0hhZFAtSnJRRTRJVjV5dEhEVXoxVUxvdkVZOENnbWlNWHBLc0JETU5sbnlTQUhwXzRCMmxpY3l3b1hqX3lfaEZjUkY3QWVPNUpfazR5LVVCanB5ZkNCVXgySFljclFnSFVTbWdNdzFpbng0?oc=5",
+     "t_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
+    },
+    {
+     "t": "All the recent mass outages in US as Delta issue snarls Thanksgiving travel",
+     "src": "Yahoo News UK",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iZlBTSDR4N0tBOEZWaWJlc0UxSlZXaTRFMnBCdkp2LXpFQ3N2MnZvbkYwZUphSHlBUm1PWExoMTRZQkRQRHM5WmhKOUxwSXJZazYySFlpRGRWTDlXajh1cTZPOHhrczl0dFk1eDBRM1BkbWZ3dlE?oc=5"
+    },
+    {
+     "t": "Video Delta outage causes nationwide delays as holiday travel takes off",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ORXhseHVmSlU4MU5MYXdZbUtNNkp3aERUSzlaVXpoeGdueWFXVlEyUzhaSHYzc2xRSGM3WFdHMVdPMTJhVkNOajA3T18?oc=5",
+     "t_id": "Pemadaman Video Delta menyebabkan penundaan secara nasional saat perjalanan liburan dimulai"
+    },
+    {
+     "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
+     "src": "Everett Post",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUlHNWRaYkpXSzAzY2xpYTlWSWFBWXNLeXVJY2xCMVBtRDg1YkQ5N3VDMFJtYVVKalJBLTZ2S0N2U0F1Ym9CcGh2NTRPYlZUZkw3dEs3QlE2cFlRckVxMmU4RGJzeUptcE9nNVJab3FaOHAzYjREdjd4M0dFSllCRXNRWFB4YmJCNnFtQXJwem9IRzFGcTBkdkRoZlotb0pheUFiLQ?oc=5",
+     "t_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611221828-20a3",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "U.S. Intelligence Chief Warns of More Tech Outages",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEo0SE5ZYzRhTE03aUY2TXZUa3Y4OV9PbnZBaHZkSC1rcmVVUkdZR3BSNDFnTC1CNy1lTU5IZFZ6Y1ozZUpxa2lWWGFFTkJlWGRMZ1FpVUlvOVA2U3NsQ0ppaVNQb0lNd3VuZnhHcFVWdVFKZjJNMl9VZEZTa19VcFZVaXd2SloybVlCb3lHQTNHMlFLMWlCX3M3OGFDTktGS0E?oc=5",
+   "sources": 8,
+   "recent6h": 1,
+   "score": 8.5,
+   "level": "besar",
+   "first": "2026-11-22T18:28:21Z",
+   "last": "2026-11-23T16:25:45Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Is AI behind recent tech outages? Microsoft and US officials predict more disruptions",
+     "src": "The Financial Express",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVQR21qRWttMDVuVDctTXpYUlJhU3duZDdURl9fU0ZwRnhHZlZxLVc1NFhna2xvQmhDVDNhcjRPV1lNeHZIU3NRT1F4empXX3BEcER2VEtXbjV2dEVqdExXekRMdUtqSTlwVFdRbzc3ajg3d3VPYmFhTDgwUHNFS1BTc3NSZXVtRWh6OVQzdnF0LVh0elFZQlRQbE1lZUwxR3FScE9NdWg5OVFBM0xiejBrRlFoNFFKQV9MYVhCR1BGal90cW9xX0RLNlk5MzVxYnlhUUxHRXNWQTFzNFHSAeQBQVVfeXFMTmw4eF9mNktqbEQzUWpBSHlMU2J4TE9VRGVQMTY5MmZHTDFaYjZaRzJOUG5LckgyclhjelRTclhWRHNKc0N3Y1pPN1VQd1RHdHBrdTVPeFZrZWtLYVVSc2N1eFlEN2ZFVXlLdTMyYlZoN3Q1SFlCWllZTUx2U3o3NHYzOW10R0Exdm9tbU41V0JvNk1VUnI4eXNISGtCLWw5V0FFSmd2ald2dUhtR1gyZ0pXdHZrcTcyUE5uVE1SUkxsNDU4YllhZ2lKSkRvZ0lZNWU1VVhpZ3VrZEhieE5CSlcweTN2?oc=5",
+     "t_id": "Apakah AI berada di balik gangguan teknologi baru-baru ini? Pejabat Microsoft dan AS memperkirakan akan ada lebih banyak gangguan"
+    },
+    {
+     "t": "Jay Clayton Warns of Technology Outages During System Upgrades",
+     "src": "Demokratis.co.id",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BUTd4eDJMSTZDYlU5d1JkX1NIeEMyS1g4YmdDTzZQZXNQQ0ZKWWpWYjd1OTByVXVyZWdFQU9TU2J5Ri1RT09IRjdMQXNXUE9rZFJDc3czMFQ5bkJSWUpKUGtYblZhSFh4OUVRMnFR?oc=5",
+     "t_id": "Jay Clayton Memperingatkan Gangguan Teknologi Selama Peningkatan Sistem"
+    },
+    {
+     "t": "US intelligence chief warns of more tech outages as ageing systems are upgraded",
+     "src": "Business Upturn",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlpiOTZ1bTJZdnFmS2d5aEJ2UTRxWlpYTkZuVjJxSFE3WTM0cFJOTHZ0bE4zVjhIQi1JWkJfVGRGT3hSaWxwVDlFWnc0cmRfV3FVM0J3TkhsZlplQnpoSUxJY3lhY0J6Zzd5eDZIZWJUb1RjZWZtalhvaVl6aWw0T0RVZXQ4RVJuMUdKNkJzcHhCUnZTel9aSFN6QWh4RGs4M2FvMllFMGIyYVQyQVRrLV9COEVYV2l5TndwYzVEQQ?oc=5",
+     "t_id": "Kepala intelijen AS memperingatkan akan lebih banyak pemadaman teknologi seiring dengan peningkatan sistem yang sudah tua"
+    },
+    {
+     "t": "Intelligence chief Jay Clayton tells Americans to expect more 'bumps in the road' as systems are upgraded after the wave of outages",
+     "src": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTzl3UmY2T2h3ZWFwRlFPSEQ5cWF5MkNCOW55cFpFazNrZ3lHQlJHOExIWnBjN2x4am5DZnIyWlRseS1ZNDBFYnNhcktSU1lXSnBSc2xqTExYbDlVeWpPdlJfX1M1MEZScnVxdzZkMlkxbUxoWURIMlJ5WlJ1SGRqcnViNUtOVHNWOV9zeVlhQ1Z4dzB4X0JIejVWV2luZ2theGN5dkdUTU91MUVuNkE3WGt5RE40Vk5QZkJxcWRnbHd5UUVkdTkxazNCU0lRdFJSTjJpMUE2eWdEZEVRbDhxUzdzMng?oc=5",
+     "t_id": "Kepala intelijen Jay Clayton mengatakan kepada masyarakat Amerika bahwa akan ada lebih banyak 'benjolan di jalan' seiring dengan peningkatan sistem setelah gelombang pemadaman listrik"
+    }
+   ]
+  },
+  {
+   "id": "perang-202611230307-1176",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "How Ukraine drone attacks on Russian ships unfolded",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tSU1HN19rSUJoSi1qV0FsMnlmVC0wX0p2cklMYTJDZlFFRV8tSm1xejRlMWFpYXRQdU9DTmpjOGNNeE9pUWN6X0c4MVdZOXh4WjRyR3NxZlk?oc=5",
-   "sources": 6,
-   "recent6h": 5,
+   "title": "Images Show Before and After Ukrainian Drone Attack on Russian Warship",
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
+   "sources": 7,
+   "recent6h": 3,
    "score": 8.5,
    "level": "besar",
    "first": "2026-11-23T03:07:00Z",
    "last": "2026-11-23T16:09:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Satellite images capture Ukrainian naval drone strike on a Russian warship in Libya, over 1,000 miles away from the war",
-     "src": "Business Insider",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
-     "t_id": "Citra satelit menangkap serangan drone angkatan laut Ukraina terhadap kapal perang Rusia di Libya, lebih dari 1.000 mil jauhnya dari lokasi perang"
-    },
     {
      "t": "Fire Spreads to Residential Building in Central Kyiv After Drone Attack",
      "src": "Kyiv Post",
@@ -37,13 +114,18 @@
      "t_id": "Ukraina Baru Saja Melakukan Serangan Drone Untuk Buku Sejarah: Kyiv Menabrak Kapal Perang Angkatan Laut Rusia Sepanjang Jalan di Libya"
     },
     {
-     "t": "Ukrainian drones strike Russian warship at Libya naval base, Zelenskyy says",
-     "src": "PennLive.com",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1FURDEtN0xmMGxCRV9pYjFaV3VfSG4xaEN2QjJzN1RIS3ByQjFzMU1IcDBFRFdZbXJMTklISk53VnBFWUFrUkYzMmhfai1PazJfMkRldzFacUs0Q1FsdVpqQUtzNHNOWVpLRllHOWtiLTJ4Z0ZEazFMN0poZl8xbXRWbG1BUTdHTzVtenp4UlB3dGlMamItdTBWa0Y5QzNseGIwdi1HWWJpRTFYYnJYNTIxM2czNHphdVlQenpPY0FvblU?oc=5",
-     "t_id": "Drone Ukraina menyerang kapal perang Rusia di pangkalan angkatan laut Libya, kata Zelenskyy"
+     "t": "Zelenskyy confirms Ukraine was behind drone attack on Russian warship",
+     "src": "Stuff",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXFVaXFqWmYxWXdRZ0VIQ19tTFhqWVdDbjBuMWdHUmJmakxDb200SG5EVE95Y3ZJOHlVYjdSRmN3clBPeUFEYlNlME02Z1JjYUUzODhNbks2b2duTDZGY09WNmxLSGMzWG5mQTdwbDlnV2o3aE5rbDZnWnVHVzktVHZ6RFdaODNXVUlTUzl6cmJ6aExaY1lQOU84bUdSNWdGOXc?oc=5"
+    },
+    {
+     "t": "The destruction of a Russian missile corvette at an African base may have resulted from a drone attack, for which no one has claimed responsibility",
+     "src": "Business Insider Africa",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1M1bTR3Yi1qSTl2dnNPRXNwa2ExekFHczVhYk1GV0VTcXR0Z2JyQjdzZjk0Rk9tWlRUd05lUHRJbkptMHBBSXpBMFI0SE9Lck4tamExblgyRE5GNFdCbk5uMTB3TWY3SXRDeXFoNmpuRlEtS1hsUTFDNFZ5dWFBVGV0NTJCUDZWdUU3X1NFQlBILXM1M2hGejNpSDF6TnduRUJ4eV9SRi1SVjh2aGMtanA5bmQwQ2lWVmhYV0Exd3V5RmtpTDk0VFZIMDJaX01LOVZCaDVB?oc=5",
+     "t_id": "Penghancuran korvet rudal Rusia di pangkalan Afrika mungkin disebabkan oleh serangan pesawat tak berawak, yang belum ada pihak yang mengaku bertanggung jawab."
     }
    ],
-   "title_id": "Bagaimana serangan drone Ukraina terhadap kapal Rusia terjadi"
+   "title_id": "Gambar Menunjukkan Sebelum dan Sesudah Serangan Drone Ukraina terhadap Kapal Perang Rusia"
   },
   {
    "id": "indonesia-202611231318-2267",
@@ -80,90 +162,6 @@
      "t": "Polri Sebut Jenderal Listyo Sigit dan Lima Perwira Terlibat Aksi Demo Besar di Indonesia",
      "src": "Inilah.com",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakNHTFFjME5KQjBYbDAyc2I2YTJzQmVTZllJX3gzM0dfQlVtN2tOR2pjVmFVaU4ybkQyemczaG9ualJKRmFBcktOeWYySXNRMGdLMVFTMUoxZzE5TFNTaU1Va2JGVVFfTDJiNklvdFdhelJWUHZTV3lyMDI4ZTB6SldUZHZKZUQzcEVQV0V3c3dtdnphYTl0MDJaQUNzeHhQdy1IZHlWWUJiakh5TlVvZw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611221828-20a3",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "US Intelligence Chief issues warning to Americans to prepare for more tech outages",
-   "src": "UNILAD Tech",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2g2Zmo3bWJmcERHdkJpUzhGdlc0bklHTzZ2N2Y0VnRxMWprLWMwZjU2emFIMjU1dUk0SUdvQkJyRUlVcmlSUkEwODRiZkt6SDBRMjBNN3BraWNtZXBLaGlnNG9WLUR0TmY5dmMzLVlCLVBSbXpCMV9BaEktUV9rSVA1ZW5sc1dBWUVIazJqWmhtcmxsa2hQVFhhQW9PRUxSX1h1SWdZNzV0ZWtld3UzdFc3d3Y4Tkk?oc=5",
-   "sources": 7,
-   "recent6h": 1,
-   "score": 7.5,
-   "level": "besar",
-   "first": "2026-11-22T18:28:21Z",
-   "last": "2026-11-23T16:11:34Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Is AI behind recent tech outages? Microsoft and US officials predict more disruptions",
-     "src": "The Financial Express",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVQR21qRWttMDVuVDctTXpYUlJhU3duZDdURl9fU0ZwRnhHZlZxLVc1NFhna2xvQmhDVDNhcjRPV1lNeHZIU3NRT1F4empXX3BEcER2VEtXbjV2dEVqdExXekRMdUtqSTlwVFdRbzc3ajg3d3VPYmFhTDgwUHNFS1BTc3NSZXVtRWh6OVQzdnF0LVh0elFZQlRQbE1lZUwxR3FScE9NdWg5OVFBM0xiejBrRlFoNFFKQV9MYVhCR1BGal90cW9xX0RLNlk5MzVxYnlhUUxHRXNWQTFzNFHSAeQBQVVfeXFMTmw4eF9mNktqbEQzUWpBSHlMU2J4TE9VRGVQMTY5MmZHTDFaYjZaRzJOUG5LckgyclhjelRTclhWRHNKc0N3Y1pPN1VQd1RHdHBrdTVPeFZrZWtLYVVSc2N1eFlEN2ZFVXlLdTMyYlZoN3Q1SFlCWllZTUx2U3o3NHYzOW10R0Exdm9tbU41V0JvNk1VUnI4eXNISGtCLWw5V0FFSmd2ald2dUhtR1gyZ0pXdHZrcTcyUE5uVE1SUkxsNDU4YllhZ2lKSkRvZ0lZNWU1VVhpZ3VrZEhieE5CSlcweTN2?oc=5",
-     "t_id": "Apakah AI berada di balik gangguan teknologi baru-baru ini? Pejabat Microsoft dan AS memperkirakan akan ada lebih banyak gangguan"
-    },
-    {
-     "t": "Jay Clayton Warns of Technology Outages During System Upgrades",
-     "src": "Demokratis.co.id",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BUTd4eDJMSTZDYlU5d1JkX1NIeEMyS1g4YmdDTzZQZXNQQ0ZKWWpWYjd1OTByVXVyZWdFQU9TU2J5Ri1RT09IRjdMQXNXUE9rZFJDc3czMFQ5bkJSWUpKUGtYblZhSFh4OUVRMnFR?oc=5",
-     "t_id": "Jay Clayton Memperingatkan Gangguan Teknologi Selama Peningkatan Sistem"
-    },
-    {
-     "t": "Intelligence chief Jay Clayton tells Americans to expect more 'bumps in the road' as systems are upgraded after the wave of outages",
-     "src": "MLQ.ai",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTzl3UmY2T2h3ZWFwRlFPSEQ5cWF5MkNCOW55cFpFazNrZ3lHQlJHOExIWnBjN2x4am5DZnIyWlRseS1ZNDBFYnNhcktSU1lXSnBSc2xqTExYbDlVeWpPdlJfX1M1MEZScnVxdzZkMlkxbUxoWURIMlJ5WlJ1SGRqcnViNUtOVHNWOV9zeVlhQ1Z4dzB4X0JIejVWV2luZ2theGN5dkdUTU91MUVuNkE3WGt5RE40Vk5QZkJxcWRnbHd5UUVkdTkxazNCU0lRdFJSTjJpMUE2eWdEZEVRbDhxUzdzMng?oc=5",
-     "t_id": "Kepala intelijen Jay Clayton mengatakan kepada masyarakat Amerika bahwa akan ada lebih banyak 'benjolan di jalan' seiring dengan peningkatan sistem setelah gelombang pemadaman listrik"
-    },
-    {
-     "t": "Microsoft President Warns of More Tech Outages in Coming Months",
-     "src": "Newsweek",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa19EX0szUDlDYm1fbElCUEYzQUpDZlBKeGxMUHhKYzE2V3NzZmVvTFl5V19XLUMwWkhiLU9YczFuNnZ6SUFPNkR5ZzM2dzRrVkdMMENJaUNlWlA1bXl2QXBmZVhidVdvUmdvSkVMbkdXa2ZseHhyNTFzbUQ1REhpaUVNSG9rZU5xZThPTGs1RlFQRlc0XzlVYXRnY1UyUQ?oc=5",
-     "t_id": "Presiden Microsoft Memperingatkan akan Lebih Banyak Gangguan Teknologi dalam Beberapa Bulan Mendatang"
-    }
-   ],
-   "title_id": "Kepala Intelijen AS mengeluarkan peringatan kepada warga Amerika untuk bersiap menghadapi pemadaman teknologi lebih lanjut"
-  },
-  {
-   "id": "siber-202611221953-b54c",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Delta Outage Delays 1,600+ Flights Before Thanksgiving",
-   "src": "shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
-   "sources": 6,
-   "recent6h": 2,
-   "score": 7.0,
-   "level": "besar",
-   "first": "2026-11-22T19:53:36Z",
-   "last": "2026-11-23T16:01:47Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
-     "src": "localmemphis.com",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbHBUYV9hUFpTY2NDUlJiTndlTGJmX2xrVW9JS29oME05dEJyd20wSU1sbVdxeG93VjRuRmc1SDdxeGJGYUJWdlZib29EVEpXZXJxOWUtQTRCOEZMRENpXzlCRjJDOTgwSkFMbjVpTVJMTjZvZENlejhSUWRlaUlhdVktcXpPc1dZM2lpRWZrZXpsVzREWTA5N0hhZFAtSnJRRTRJVjV5dEhEVXoxVUxvdkVZOENnbWlNWHBLc0JETU5sbnlTQUhwXzRCMmxpY3l3b1hqX3lfaEZjUkY3QWVPNUpfazR5LVVCanB5ZkNCVXgySFljclFnSFVTbWdNdzFpbng0?oc=5",
-     "t_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
-    },
-    {
-     "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
-     "src": "Everett Post",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUlHNWRaYkpXSzAzY2xpYTlWSWFBWXNLeXVJY2xCMVBtRDg1YkQ5N3VDMFJtYVVKalJBLTZ2S0N2U0F1Ym9CcGh2NTRPYlZUZkw3dEs3QlE2cFlRckVxMmU4RGJzeUptcE9nNVJab3FaOHAzYjREdjd4M0dFSllCRXNRWFB4YmJCNnFtQXJwem9IRzFGcTBkdkRoZlotb0pheUFiLQ?oc=5",
-     "t_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
-    },
-    {
-     "t": "Delta Air Lines restores flight system after outage delays over 1,600 flights during Thanksgiving rush",
-     "src": "شبكة تواصل الإخبارية",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRXZBaWlOWEd3Wmpvc210TEM5MmpNLVRJYXRiYThrOTJHMkhMTUJILXl6NXV2anRNUVJURGpFZVExcGRka2VzTTk0YWdZZnJxcmpz?oc=5"
-    },
-    {
-     "t": "Delta Outage: What Caused Sunday’s Nationwide Delays",
-     "src": "The Aviation Hub",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXpRSnlmRE92WFRCU0lQX09FWnhQVHJrMEZEZWhpaS1PRlgxN1pBaTZZUk9HdXRXQTV0OGVieFJvYzJ2SkNkbjVvWm9ub05paktqamYxRFVCN210Z3VKdlVZeEFCVkJGVUhjeWR2Wm1RR2tHcGVpNkxSZXdTNFJ5eVhoMzIzV00?oc=5",
-     "t_id": "Pemadaman Delta: Penyebab Penundaan Nasional pada Hari Minggu"
     }
    ]
   },
@@ -303,6 +301,29 @@
      "t": "Tolak UMP 2027, Buruh Jatim Siap Gelar Demo Besar 25 November",
      "src": "BeritaSatu.com",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG9RRUdwcm1qT0ZPUG5CNFNQZ0I5a0paV0dxVFdqUWpfMEN5aUtyV1FxcG5peHgtMHd2Ri1tVlJEUmh2bm83azdaYWREOGNWMjgzQTVRRE9PUDVZbzU5end0eUJnWTd1ZTJybWxnS2NTYWsxQ1NfQkw0YmVwZDhRY2poS3hlTlJKdE5yaFZMRnlLbEJxQXowdVVITXlma0NWa2hR?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611230150-ab1f",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "US races to shield air traffic network ahead of Thanksgiving rush, sets up elite team to prevent outages",
+   "src": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORnZCTnpEU0MyQ1RGN0JuY3k2OVB3bUVXd2NfSW41U19jU2JFNmZFbkIyUTZ2Qk0yMlJneXhjMXJCRlYtVmdfUXluTFluZkJ3cmZBUzBON3hEa24wVUlVOVR0a3p2aFJKaVhfMmlIaGRXbmgxQU9kSFlCVHFYa2wyakwtS083VVV5LXgxZnh3QlN1aUotYkxyVnM0eU5JMkRjbkNHbWgtOUtjekpaRFR4WWZLWF9ickgxLVRGNHV4ZkdNSGpNMElUXzl2VzIzbFdEaUFEYzBIdVpQbVRnZFdidGwyZnVlQ1gzRVB5ZmZNbnlhTVhuWlFLOW5SNFFoZl9VaFpPcGF1dW9ndXZvYjJSOENXaWh0Zw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-23T01:50:01Z",
+   "last": "2026-11-23T02:13:24Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "The White House has assembled a \"Transportation Technology Transformation Tiger Team\" of FAA, Pentagon and intelligence officials to prevent air traffic outages ahead of Thanksgiving, meeting daily this week, officials told The Daily Wire. Full details in the",
+     "src": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVFRuTjhLRmdIUTY0Xy1QSFlvaXA1LWpHTU5ISUVWWWwtSjMtZmw0bU0xVW5ydnRTeGhMNEx2OC1YOWJ4b0N3SzYzZkRzTU0zVUdyOEZySTBjUUVOWkd6N2Z1UG1hLTU5cUVqbVNhcl9yYUJOX0xRNzZHNHY2dEZhQW9yN2Y2QkJwNDAzUEJTcEVESTNMa2wwcUNpUGlhZmFDN1QxRGlKLVR4OEhvNlhpOTZ2U3dmVVE0TjJFRmVqNmtsOVVCODVRRXh0elloQmJiMHprRnZadXlDUWJDZldDblJR?oc=5"
     }
    ]
   }
