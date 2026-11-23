@@ -1,66 +1,29 @@
 {
- "updatedAt": "2026-11-23T00:22:18Z",
+ "updatedAt": "2026-11-23T00:36:57Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
-   "id": "transportasi-202611221057-2784",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Brussels Airport cancels flights as Belgium strike shuts air traffic control",
-   "src": "Beinsure",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGZ1dzJJUnVTTWp3QTZ2cURKczVsVWZtUjROOUxWN01EWk13cndFU3pjY3VSYWpJb0I3VzNROU9LMVYybERDcDZVU2hzakYwNHFkLUl6MHpPV3Fhbk0xS1hTWXZSQ2ZWcGZDeEpVSkZPa0JFMkdIR3I0bHR4TW1mekxrZw?oc=5",
-   "sources": 12,
-   "recent6h": 9,
-   "score": 16.5,
-   "level": "besar",
-   "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T23:08:37Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Delta Weight-and-Balance System Outage Prompts FAA Ground Stop for Atlanta-Bound Flights Ahead of Thanksgiving",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MlR5R2czR3QyVmItSkFSWlRoOEJPMjAtSl9IeG15TEYzaGx3amZFMGdCWjQwLUw1TWJfSlc5RXpTTEphOEFuYmIteGVUbkpQamVpWXNFWGpIUWc3bE5zbjJIM1Q4YWVrOU5oMzBJcU5sVk0?oc=5",
-     "t_id": "Pemadaman Sistem Berat dan Keseimbangan Delta Mendorong FAA Ground Stop untuk Penerbangan Tujuan Atlanta Menjelang Thanksgiving"
-    },
-    {
-     "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWRfMUlqa2NON3pHbWVBT3NuRDBNajZQYklJRlBlNTdrT2J6cGpxWU5FODBmU29sSnJ5QlhpaVRJY3dpSFN6dEVCcVlVWTVkcWVfSU5XS1l2MWNfUXl0ckZObS11ckVhV0Rsb0ZGcXBHN0NmZ2MxbUxRNmlZRHNfbW9XYkJUZFpmaXMxbDBadWRFRnJHajNCc2hSSDZkaVnSAaQBQVVfeXFMTXVUSGQ5N2Q1MWRVdGRyLTdITHVfWlNtdzhWSWwzZ1dYVzJiTnJuRzlTOEY4MDNTM2p5MUlMcGZvZnVTU3FOV0RMTEpDcUFqbnVrbms5UXlwb2IzUEE4SXZJU0RQZEtjYUtnbGRUZjBjUkF5aS1yUXRBenZsR215WEJZWWZHRUI3NWdXZ1RqYmxEZEhGS3ZaZHQtTGdZUUtjSDdNczM?oc=5",
-     "t_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
-    },
-    {
-     "t": "Hundreds of Delta flights delayed in US due to technical failure",
-     "src": "Latest news from Azerbaijan",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdFS3BHUGtXbWUzd19IUnRmOXJXNkQzemVkZHQ1WGlxN3Ixa3VyRnU1MXBSeTVmQkR0M3oyWlYyOXctTmh1NXZ3RTlEVXhnQ1BnS1psaE1NcEtOQVhORllMQW55S2NNZ19rRzU4ZUIxbDNUeEhFc2EyZUNZNVVZZ25iRHdwS01RUXVWUUNR?oc=5",
-     "t_id": "Ratusan penerbangan Delta tertunda di AS karena kegagalan teknis"
-    },
-    {
-     "t": "Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays",
-     "src": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFRFaTNyYWprQlBYbnJBQTVnTVExUnhoc0lTRjlRYWc3Rk9oV084QlIxdkg4bFE1RnIzV3VvTXl6eXduMlV5RjgzRmRwRmp4X2tRc3lxYlptNXZZZmc3T3BzZjN0d0xlQ21OZjJQa3NzZWlOaWpFSmhoTERqcm14MVZQS2ZfNEh3bW1qSTUwYnFlUmpicjExbmxlOFlROTQ?oc=5",
-     "t_id": "Delta Mengatasi Gangguan Otomatisasi yang Menyebabkan Lebih dari 1.000 Penundaan Penerbangan"
-    }
-   ],
-   "title_id": "Bandara Brussels membatalkan penerbangan karena serangan Belgia menutup kontrol lalu lintas udara"
-  },
-  {
-   "id": "perang-202611220054-bef0",
+   "id": "perang-202611211746-6444",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcndOTTl3bzZwNVZ4ZWstZXBZdnVkbUhPanQ5VlhUVEJaSTRVdnc1YzVUdEhEd2M0QXdFVGxzRFVLeThYd0FfaGEzMnQzbWIzemFuZzRqSGJCQ2M5LVBzV0dadVlwUXpXR1hfMTllR2NsWmNuRnk4RmRSVVlraElfS3NjNFlJa0FWTGNRRS1XQTFxM3JoTVRYZEluNkVJUXZSdk1TSmFfWUfSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
-   "sources": 15,
-   "recent6h": 2,
-   "score": 16.0,
+   "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
+   "sources": 23,
+   "recent6h": 3,
+   "score": 24.5,
    "level": "besar",
-   "first": "2026-11-22T00:54:04Z",
-   "last": "2026-11-22T20:02:17Z",
+   "first": "2026-11-21T17:46:01Z",
+   "last": "2026-11-22T20:20:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Russian ship sinks in Libyan port in suspected Ukrainian drone attack",
+     "src": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm40UThnaG9jbUJnelpLWGlJMHlUdTZkb1p0ZFUwa3NGSGJ5M2R1V0JqWjNTeWhoQTlLeE1ZbWtiVVR5WTFvVGoyUk94ZzR2LXZ5OXZBS3Y5WmdCRlFSYi1GSEZGbWw2RDd5dzZic09kbTBmLW5nOE1mUVM2N1NyR2ttUlZ5WDlOVnpSVzNWNXRYaFVKTWg4WGFkX2RSY0lnWnk3UzhiVQ?oc=5",
+     "t_id": "Kapal Rusia tenggelam di pelabuhan Libya karena dugaan serangan pesawat tak berawak Ukraina"
+    },
     {
      "t": "Iran announces missile and drone attacks on U.S. bases in Bahrain",
      "src": "Informat.ro",
@@ -74,100 +37,55 @@
      "t_id": "IRGC Iran Mengatakan Mereka Menargetkan Pangkalan AS di Bahrain Dengan Serangan Drone dan Rudal"
     },
     {
-     "t": "UPDATES: US War on Iran, Day 269 — Houthi Missile Attacks on Saudi Arabia",
-     "src": "EA WorldView",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
-     "t_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-269 — Serangan Rudal Houthi di Arab Saudi"
-    },
-    {
-     "t": "Iran's IRGC Claims Missile and Drone Attacks on US Bases in Bahrain",
-     "src": "Ratopati",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjlLRHNCUWlwRUtma3Z6aG5LbU5Sbkl2bG8xSmZYaTd2ZkZQZFUyRHdnZTZfaC1HTnI1THhWVXIwd044WUdCMU5yWmMzVTBQbEc3UzVXNFlCejVqcDBZaVdBOENFZFBrRTlka19wUk5PNUlYM1U5aWx0b2xQd0MxdlFyR0VJVl9qa0h3SU92bzJVbGsyY1NQeVhTZVhiY2hZcWp6OTJxbXg5b21aMVhZN1hDVzg?oc=5",
-     "t_id": "IRGC Iran Mengklaim Serangan Rudal dan Drone di Pangkalan AS di Bahrain"
-    }
-   ],
-   "title_id": "Arab Saudi mencegat drone dan rudal saat Houthi melaporkan serangan di Sanaa"
-  },
-  {
-   "id": "perang-202611211746-6444",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
-   "sources": 8,
-   "recent6h": 1,
-   "score": 8.5,
-   "level": "besar",
-   "first": "2026-11-21T17:46:01Z",
-   "last": "2026-11-22T20:20:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Russian ship sinks in Libyan port in suspected Ukrainian drone attack",
-     "src": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm40UThnaG9jbUJnelpLWGlJMHlUdTZkb1p0ZFUwa3NGSGJ5M2R1V0JqWjNTeWhoQTlLeE1ZbWtiVVR5WTFvVGoyUk94ZzR2LXZ5OXZBS3Y5WmdCRlFSYi1GSEZGbWw2RDd5dzZic09kbTBmLW5nOE1mUVM2N1NyR2ttUlZ5WDlOVnpSVzNWNXRYaFVKTWg4WGFkX2RSY0lnWnk3UzhiVQ?oc=5",
-     "t_id": "Kapal Rusia tenggelam di pelabuhan Libya karena dugaan serangan pesawat tak berawak Ukraina"
-    },
-    {
      "t": "DW News. . Rescuers in Ukraine are searching for people trapped under the rubble of an apartment building in the Kyiv region after a Russian drone attack. #DWNews",
      "src": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVC1IdzF4RXJHa1NhcnJqSnF2NG5IZndoSE5CQW01MXpsQVQtTVlQMFVoUUFzeExlRmZRc0l0c1FKUDNwTTFEbXpvU1BDNWN4d1I0RV9WWVhuanM4QU8xd1lmQ1ByV0ItTUdDa2kzbzZ4Tnd4MzhsNVlGdVdvbzMwbHMtMlU3SnJYZHlCQm0wY3NBeE1ZQnBHSWF5M1JvQlJLNWNvWFhWOFF1OW5KZ29OdjNpeWF5ZS1qSWlDalV6UGo2MERLV0p4UUdmR3FmMzZiN01MQ3p3d3BfS3g1bDZPWXhR?oc=5",
      "t_id": "Berita DW. . Tim penyelamat di Ukraina sedang mencari orang-orang yang terperangkap di bawah reruntuhan gedung apartemen di wilayah Kyiv setelah serangan pesawat tak berawak Rusia. #DWBerita"
-    },
-    {
-     "t": "Russian missile, drone barrage kills 2 in Lviv; dashcam captures projectile strike",
-     "src": "prameyanews.com",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenBCV0tCUHZueTJHb3VNeXdTbTg3Wm5oTE9UQWJIblhSN1RPMGRzUXBsX2ZqTHN1LUFiOUQyRFdMZElTbzNlQkxHanp2NDRLcE45SGNOU2VudVJwQ3F2YnFtTC1VQnFlZ1hZVGpjRTctNWZJR01Kemgya05GdENLRnV5M080cFV0Unk2SlQ0YzRNV0ZScEp5cF9tLVFWVkJ3a3ZTdTE2RHNZSE5V?oc=5",
-     "t_id": "Rudal Rusia, serangan drone menewaskan 2 orang di Lviv; kamera dasbor menangkap serangan proyektil"
-    },
-    {
-     "t": "Search-and-rescue underway in Kyiv following Russian drone attack",
-     "src": "AOL.co.uk",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMm1HdlI3VGpSc1hoQkJUeDNyTmJXNnRCWUJxUmE0bXFWdnhaazkxb18waVc5c1RHek5FWHR0VXdwMDdCQVdydVQ2enk3d2dVdzZEbThDeTJOc2UteU9RcHZBTERCYUZvbTc5MldpTVFIeHJoY1VwMFpMNHhRRzlRUkJSbGlReVFzM1Ew?oc=5",
-     "t_id": "Pencarian dan penyelamatan sedang dilakukan di Kyiv setelah serangan pesawat tak berawak Rusia"
     }
    ],
    "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
   },
   {
-   "id": "indonesia-202611210335-9eba",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Foto : Digawangi Gen Z, Gelombang Demo Kembali Mengguncang Eropa, Apa Tuntutannya? Halaman 1",
-   "src": "Kompas.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX1FabHBXeHo5eHJvdDNDYlA1X0ppLXN2QjRTU05OV2VfX2RFb0htUWdGSnJ3aV9kejM5aDUzNHNqT3lYT1VkNmczb0ZaV3BQLXl5ZmVCUzFwcmpsenA4NmYwcEFNamNTRTNnY0d2aUF5MFhEVW53YTBNVUUxZDNrN3BISXBpNzVUd25Jak9YbGd1ek1JTzdsNnhfaWVmTF9hcjZhRlNqaEIzbTR4MHRVNHh4TU5uaDg1TXV6SnF6TUhvb3BHUzJKSzNFOVAyNUxf?oc=5",
-   "sources": 6,
-   "recent6h": 2,
-   "score": 7.0,
+   "id": "transportasi-202611221057-dad9",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "More Than 1,800 Delta Flights Delayed Before Thanksgiving",
+   "src": "FTN news",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFN6STk5dFY3V2dFX2VEdk5BV003WEdreEI1eUpnY0VsY2ZiYnlDU3dod2RVazZnWndCYThzV2I1WXVDcV8zUzBhNTROVTMwb3Uzc1NIS1ZzRS0wSnJFUkZfdkdBQnpzYnF0RWduUURKN0dCZXZ4X3hpb1pGTjdMemt4RUVXQQ?oc=5",
+   "sources": 7,
+   "recent6h": 4,
+   "score": 9.0,
    "level": "besar",
-   "first": "2026-11-21T03:35:00Z",
-   "last": "2026-11-22T20:20:00Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-22T10:57:19Z",
+   "last": "2026-11-22T23:15:00Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Kerusuhan Warnai Demo Marseille, 10 Orang Ditangkap",
-     "src": "Limapagi",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFNzdJLTRKTVJmZ0dzUnNiMzRvdWhFTEFMd0Z5cGVaQWN5dm5uUDdmbktGejQzamFBdnBTd0lvUnN5RzBkdzdzWlJHc2lJN0lESWVDLVdjWlNiTXpUQ2lJbTB2WmllMzZfZXFFN3l3?oc=5"
+     "t": "Delta Weight-and-Balance System Outage Prompts FAA Ground Stop for Atlanta-Bound Flights Ahead of Thanksgiving",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MlR5R2czR3QyVmItSkFSWlRoOEJPMjAtSl9IeG15TEYzaGx3amZFMGdCWjQwLUw1TWJfSlc5RXpTTEphOEFuYmIteGVUbkpQamVpWXNFWGpIUWc3bE5zbjJIM1Q4YWVrOU5oMzBJcU5sVk0?oc=5",
+     "t_id": "Pemadaman Sistem Berat dan Keseimbangan Delta Mendorong FAA Ground Stop untuk Penerbangan Tujuan Atlanta Menjelang Thanksgiving"
     },
     {
-     "t": "Kerusuhan Warnai Aksi Protes Biaya Hidup di Marseille",
-     "src": "BeritaJejaring.co.id",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BUmlfeG9vSXZQLTR2NjhwWU1fQVRrdHJ0Nk5FRndvd2RsSDhwXzlpaXFmVnhEV3JJc2s5dHZ3SVVwV21Ob1B4MFVQeU5WRWp4b2R4VEdkSXRHYnlRY2NyVFlkX09jcS11dVpYcnNtaUIwSmRBbUJB?oc=5"
+     "t": "Hundreds of Delta flights delayed in US due to technical failure",
+     "src": "Latest news from Azerbaijan",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdFS3BHUGtXbWUzd19IUnRmOXJXNkQzemVkZHQ1WGlxN3Ixa3VyRnU1MXBSeTVmQkR0M3oyWlYyOXctTmh1NXZ3RTlEVXhnQ1BnS1psaE1NcEtOQVhORllMQW55S2NNZ19rRzU4ZUIxbDNUeEhFc2EyZUNZNVVZZ25iRHdwS01RUXVWUUNR?oc=5",
+     "t_id": "Ratusan penerbangan Delta tertunda di AS karena kegagalan teknis"
     },
     {
-     "t": "Ribuan Pemuda Swiss Demo Tolak Kenaikan Biaya Hidup dan Anggaran Pertahanan",
-     "src": "IDN Times",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2ppQ1VTM1k2MkgtNDJfN2stRlVfNDQyVDhNYzlTUXFxQXpqRGRQbGhXZkdVa2dJUnNHNHROQl95MjAzRldWdXlaSDZtOTRLa01XZmtFdnEzQlg1SWFPSDh6SXExeTVuZ0EwdlE2TGhTS1l5WEhQVU9OUmlVZmRSdU44dlYyYTdLV3cwaVBVRlhzLTRSVHJWOE83Q3I4eGVJeGM1RkptUzdCN3hXVjdEZdIBtgFBVV95cUxNekhIVXlXY3RLVzFzV2ZZOFFSQ29ENG55M25zRUoxTk9PcVhIOE4yZXFvbG43UU1peVpnLUk0WUNzV2h5VXlmcGtGYWhNNG1NUHBZNV9VXzh3Z0t1RE9rN2J1SG5FbFBNYXhVeVpNRjhYdnJBdEZlWm9BVW8zSFVkWTZYRWdhVjVfNnhIYkI2aVNHSy1SN0dxelJJaUVGRVR0RHd0S2FmdTBxVXRoUE8tZExGc1RKUQ?oc=5"
+     "t": "Delta Flights Delayed Nationwide as Technical Outage Hits Atlanta Hub",
+     "src": "Rus Tourism News",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmFyeTlHczBRRTExLXBEdG9tdk5HZjJNSW9FU29yS3RqVVRtRldINUxrSmgxbTA0cU9uV3pSRUVXandvRm9IT21VcUU4NWsyZDZ1a041Q3YxMFhLSzRoVktoOEZpb3UzbUlYZ0RBSmtTbENRLUZZZ0dQYkh3cEVsYndoMEx2UjhDd2F2UnJNbGpHVFpIa3dsNGI4aTczMFg2blRVLXF1T0JuaXBNRWwzLTZB?oc=5",
+     "t_id": "Penerbangan Delta Tertunda Secara Nasional karena Gangguan Teknis Menghantam Atlanta Hub"
     },
     {
-     "t": "Demo Gen Z Guncang 25 Negara Eropa, Anak Muda Protes Biaya Hidup hingga Belanja Militer",
-     "src": "NNC Netralnews",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNHk2WHhVcW1MR0tSby02cktTbE41QmJMTzJkWWY1Z1lhNGVIVUtIM1FXT2UxcVl0UXZWenhoOThrc0o4ZERKTVNpQWxpVFFjSGVnOXVtM1lTNWZVdkdpaVhDVG85YVF4V1RQM0xFUnFfQm1jVUlJbDhaejg4b291R21yRm40Z2pIeTY2YnAzMEZmU3F6QkNJenF5X3NuV3k1VmxqSGt5b1N4Y0QxeUlTdncwUmVCdGl4bFRBS1hvM2s3RW5z?oc=5"
+     "t": "Delta Air Lines flight delays hit Atlanta as system outage affects 364 flights",
+     "src": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTdZWml2MENubWM0dzYta3FFYVlBUUM4WjVzbFpHbmE1TTh0bWd4Wk5PMEQ4dWJPR3VYelFuY3BGT0hsaDk3dy00MEVCTXNCbTJRMVVyQklaMFZvYmpvNkZwWHNvcWlaTTRoU0FoZnUxNklqR245UE9SNjEyOUJ2NFpVU1FodjJ2YTBDdVA0dmdwdw?oc=5"
     }
-   ]
+   ],
+   "title_id": "Lebih dari 1.800 Penerbangan Delta Tertunda Sebelum Thanksgiving"
   },
   {
    "id": "indonesia-202611220314-0ee6",
@@ -208,6 +126,44 @@
    ]
   },
   {
+   "id": "indonesia-202611210335-9eba",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Foto : Digawangi Gen Z, Gelombang Demo Kembali Mengguncang Eropa, Apa Tuntutannya? Halaman 1",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX1FabHBXeHo5eHJvdDNDYlA1X0ppLXN2QjRTU05OV2VfX2RFb0htUWdGSnJ3aV9kejM5aDUzNHNqT3lYT1VkNmczb0ZaV3BQLXl5ZmVCUzFwcmpsenA4NmYwcEFNamNTRTNnY0d2aUF5MFhEVW53YTBNVUUxZDNrN3BISXBpNzVUd25Jak9YbGd1ek1JTzdsNnhfaWVmTF9hcjZhRlNqaEIzbTR4MHRVNHh4TU5uaDg1TXV6SnF6TUhvb3BHUzJKSzNFOVAyNUxf?oc=5",
+   "sources": 5,
+   "recent6h": 1,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-21T03:35:00Z",
+   "last": "2026-11-22T20:19:02Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Kerusuhan Warnai Aksi Protes Biaya Hidup di Marseille",
+     "src": "BeritaJejaring.co.id",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BUmlfeG9vSXZQLTR2NjhwWU1fQVRrdHJ0Nk5FRndvd2RsSDhwXzlpaXFmVnhEV3JJc2s5dHZ3SVVwV21Ob1B4MFVQeU5WRWp4b2R4VEdkSXRHYnlRY2NyVFlkX09jcS11dVpYcnNtaUIwSmRBbUJB?oc=5"
+    },
+    {
+     "t": "Ribuan Pemuda Swiss Demo Tolak Kenaikan Biaya Hidup dan Anggaran Pertahanan",
+     "src": "IDN Times",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2ppQ1VTM1k2MkgtNDJfN2stRlVfNDQyVDhNYzlTUXFxQXpqRGRQbGhXZkdVa2dJUnNHNHROQl95MjAzRldWdXlaSDZtOTRLa01XZmtFdnEzQlg1SWFPSDh6SXExeTVuZ0EwdlE2TGhTS1l5WEhQVU9OUmlVZmRSdU44dlYyYTdLV3cwaVBVRlhzLTRSVHJWOE83Q3I4eGVJeGM1RkptUzdCN3hXVjdEZdIBtgFBVV95cUxNekhIVXlXY3RLVzFzV2ZZOFFSQ29ENG55M25zRUoxTk9PcVhIOE4yZXFvbG43UU1peVpnLUk0WUNzV2h5VXlmcGtGYWhNNG1NUHBZNV9VXzh3Z0t1RE9rN2J1SG5FbFBNYXhVeVpNRjhYdnJBdEZlWm9BVW8zSFVkWTZYRWdhVjVfNnhIYkI2aVNHSy1SN0dxelJJaUVGRVR0RHd0S2FmdTBxVXRoUE8tZExGc1RKUQ?oc=5"
+    },
+    {
+     "t": "Demo Gen Z Guncang 25 Negara Eropa, Anak Muda Protes Biaya Hidup hingga Belanja Militer",
+     "src": "NNC Netralnews",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNHk2WHhVcW1MR0tSby02cktTbE41QmJMTzJkWWY1Z1lhNGVIVUtIM1FXT2UxcVl0UXZWenhoOThrc0o4ZERKTVNpQWxpVFFjSGVnOXVtM1lTNWZVdkdpaVhDVG85YVF4V1RQM0xFUnFfQm1jVUlJbDhaejg4b291R21yRm40Z2pIeTY2YnAzMEZmU3F6QkNJenF5X3NuV3k1VmxqSGt5b1N4Y0QxeUlTdncwUmVCdGl4bFRBS1hvM2s3RW5z?oc=5"
+    },
+    {
+     "t": "Demo Gen Z Kembali Landa Eropa, Tuntut Anggaran Pendidikan dan Perumahan",
+     "src": "Qoo Media",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXb1JUclNZcnRXX2F6eHZMbEpFRERDdHhmcVdsMWpsX2ZRTGdwcV8yaHNsTE9OdjVmTzBJb2ZKVFJMYWRWM0FSdG5RNDJpSzZNVnFCOVYtckpaUmxfSE5fX2lSS2poN05hOGo4Znk0ZG93QTlKa240RW5lVUw?oc=5"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611222019-859a",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -236,81 +192,6 @@
    ]
   },
   {
-   "id": "siber-202611222123-4552",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Americans should expect more technology outages and disruptions as companies and government agencies replace aging systems, the top US intelligence official said on Sunday. Read more: https://www.gmanetwork.com/news/topstories/world/1010445/us-i",
-   "src": "Facebook",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazlmV3lsQXd2UmpvYkxVVzlTV0FqNFFJSDJmdzRwZ0NzQXFjQUowUkJKZHNYVzkxTGRZZnAzem1UOTc4RWhHWHNkQTNhMmVEcnRDZG11dzVaS01vZXMtVy1zVXcxLTc2SHpPNTExYnN4TnJOMmxhb01SM2VLWlAtNElINHJTQVVQQ2pmMF9aN2l0V3ZsUEFsTXVfbFpoTmJnbVFTUVRlTzZqbERnRDZaWHpQOWRfNW9ZQVpnYjRzWWlJeDBRZ0lyZEdzSmp3SlJmVzVuVA?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-22T21:23:34Z",
-   "last": "2026-11-22T22:55:21Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Intelligence chief Jay Clayton tells Americans to expect more 'bumps in the road' as systems are upgraded after the wave of outages",
-     "src": "MLQ.ai",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTzl3UmY2T2h3ZWFwRlFPSEQ5cWF5MkNCOW55cFpFazNrZ3lHQlJHOExIWnBjN2x4am5DZnIyWlRseS1ZNDBFYnNhcktSU1lXSnBSc2xqTExYbDlVeWpPdlJfX1M1MEZScnVxdzZkMlkxbUxoWURIMlJ5WlJ1SGRqcnViNUtOVHNWOV9zeVlhQ1Z4dzB4X0JIejVWV2luZ2theGN5dkdUTU91MUVuNkE3WGt5RE40Vk5QZkJxcWRnbHd5UUVkdTkxazNCU0lRdFJSTjJpMUE2eWdEZEVRbDhxUzdzMng?oc=5",
-     "t_id": "Kepala intelijen Jay Clayton mengatakan kepada masyarakat Amerika bahwa akan ada lebih banyak 'benjolan di jalan' seiring dengan peningkatan sistem setelah gelombang pemadaman listrik"
-    }
-   ],
-   "title_id": "Warga Amerika diperkirakan akan mengalami lebih banyak pemadaman dan gangguan teknologi ketika perusahaan dan lembaga pemerintah menggantikan sistem yang sudah tua, kata pejabat tinggi intelijen AS pada hari Minggu. Baca selengkapnya: https://www.gmanetwork.com/news/topstories/world/1010445/us-i"
-  },
-  {
-   "id": "transportasi-202611221057-dad9",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "More Than 1,800 Delta Flights Delayed Before Thanksgiving",
-   "src": "FTN news",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFN6STk5dFY3V2dFX2VEdk5BV003WEdreEI1eUpnY0VsY2ZiYnlDU3dod2RVazZnWndCYThzV2I1WXVDcV8zUzBhNTROVTMwb3Uzc1NIS1ZzRS0wSnJFUkZfdkdBQnpzYnF0RWduUURKN0dCZXZ4X3hpb1pGTjdMemt4RUVXQQ?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T23:16:16Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Thousands of flights delayed across the country after Delta outage triggers chaos ahead of Thanksgiving",
-     "src": "Daily Mail",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjRTdU1Kb0dkYWdPNkM0QXZzbEJYanpZLWs4WDVDVm93cjBIMmZMenZpdnhTaVBUZUViVGlxVURGYUROMjNLWkpGT2FYVzFSd1lvT0Jtak9PVDktelczRlZISWV4NVNVQ29tNGdEd01vSWRtNEtFeW1Ka194NkYyUkVQRzRfSU03anVRNEhFZldGYjjSAZgBQVVfeXFMTm1hYUZTRXRGNG9XaHNCZkJXLWtjQ19TOHpTQUpPMzVuWHpCN3hROXRrTmhuNmxfY0c3OG5rNG8xQW5LUmdrWUo1amkzNXgtQ0dsMV9CMDFVcGUxb08zeGVMTW9MVjJsNjdITGVFVHJyUHlfcFJaak9JMXhqNkwwZWVuY3ZMQUwxOTdJc1lKUDd6X1lYeXBVelU?oc=5",
-     "t_id": "Ribuan penerbangan tertunda di seluruh negeri setelah pemadaman Delta memicu kekacauan menjelang Thanksgiving"
-    }
-   ],
-   "title_id": "Lebih dari 1.800 Penerbangan Delta Tertunda Sebelum Thanksgiving"
-  },
-  {
-   "id": "siber-202611221057-dda9",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "FAA lifts ground stop on Atlanta-bound Delta flights after system outage",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx0gGaAUFVX3lxTE5GbV8wMjFfSXVYOF9RQzF6UHZpWThoOEdrbU15Ym5BUTUxTlVKTEhscmtob193R1U2T0txX01fcWlQeGxKcmZhQTd0Z3lEeGx2N0NOcnZ1bThPbHRRRmc3TGtsY2NTcmRfdmpyRXRNVGFkVEd5QmUwVUFTLTZWeGRwVEN0ZklCSFFrc0VwR3VfbFlpUDdDNHBwQnc?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T16:53:24Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
-    }
-   ],
-   "title_id": "FAA mencabut ground stop pada penerbangan Delta menuju Atlanta setelah sistem padam"
-  },
-  {
    "id": "politik-202611220000-f137",
    "cat": "politik",
    "label": "Guncangan politik",
@@ -318,14 +199,20 @@
    "title": "Mongolia heads for first snap presidential election after Khurelsukh resigns over corruption claims",
    "src": "The Insight International",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUXVyUGZpelg3ZTAySGNNRmhERGpFM2c5Q0JGaWo2MzR1aHhwTGFlZV9JVHV2UkZBZUQzcWw2TDFYUmxJVG1mR3FmSkRQQjVHakZzN3Nva3hPVXFwZ2dVeDRycDk3Njc1US05Q2lOWHpTTFE0bzNVbmxleFVEZVVJSWJLeUp4eGdhUEVNaDdLYmZNSFZyVklVQ2JUUzVvaGptVy1SZWZBREV4ZDgxWnk1em83Zjd1YXEtQjNOc2JRQS1sZFJiWEVlTWk0Zw?oc=5",
-   "sources": 2,
+   "sources": 3,
    "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
+   "score": 3.0,
+   "level": "sedang",
    "first": "2026-11-22T00:00:07Z",
    "last": "2026-11-22T15:43:51Z",
    "assets": "Mata uang & obligasi negara terkait",
    "more": [
+    {
+     "t": "Spain’s snap election was a huge political gamble. Has Pedro Sanchez opened the door for the far-right?",
+     "src": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkY4d3k0ZzIwb1lBS3lEdThsQVIzNzFkeTRmV3ZZbE5CdUVtS3ZMOU5TTE1aaklmYTBGeFhkMkVLcUFSMTFzelRNSGw5NTN5YnFFMlNYS190a2lwZmJ4TnMxb0c0ak5QeTlzREw1azNvNEtEd3p1NGxKMmdpQU9iT0RUV0NueHpJRU50WmlSeC00MjBsMFU2bG5BRl95Vl95dHpBd3BZZw?oc=5",
+     "t_id": "Pemilu cepat di Spanyol merupakan pertaruhan politik yang besar. Apakah Pedro Sanchez membuka pintu bagi sayap kanan?"
+    },
     {
      "t": "Political round-up: Apologies, chainsaws and corruption jibes as Spain enters the final week before pivotal snap election",
      "src": "Olive Press News Spain",
@@ -334,6 +221,31 @@
     }
    ],
    "title_id": "Mongolia menuju pemilihan presiden cepat pertama setelah Khurelsukh mengundurkan diri karena tuduhan korupsi"
+  },
+  {
+   "id": "transportasi-202611221057-2784",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Brussels Airport cancels flights as Belgium strike shuts air traffic control",
+   "src": "Beinsure",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGZ1dzJJUnVTTWp3QTZ2cURKczVsVWZtUjROOUxWN01EWk13cndFU3pjY3VSYWpJb0I3VzNROU9LMVYybERDcDZVU2hzakYwNHFkLUl6MHpPV3Fhbk0xS1hTWXZSQ2ZWcGZDeEpVSkZPa0JFMkdIR3I0bHR4TW1mekxrZw?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-22T10:57:19Z",
+   "last": "2026-11-22T23:08:37Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
+     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+    }
+   ],
+   "title_id": "Bandara Brussels membatalkan penerbangan karena serangan Belgia menutup kontrol lalu lintas udara"
   },
   {
    "id": "indonesia-202611220720-61fe",
@@ -407,32 +319,9 @@
     }
    ],
    "title_id": "Perang Iran langsung: Bahrain melaporkan kerusakan pada fasilitas industri sipil setelah serangan"
-  },
-  {
-   "id": "kesehatan-202611220031-e4d5",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Ebola outbreak update as of November 19",
-   "src": "Outbreak News Today",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFJPRm5TTkZuUklhMDN5R04tb0V1R0xlZk9sN1NZNzRvUk1saEsxSUYyM2tidThjMFlLdTRteldrbmYzaTAzdnU3MTUtZXRfOUhNQ3AtbTM4M3BWb0FkVnJnNlZlOTF0eFJWemdmRDlLVWIzU2xQSVRveEplOEszTnlBdEh4dDgt?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-22T00:31:52Z",
-   "last": "2026-11-22T05:49:35Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Analysis – Scientists are learning more about the rare Ebola virus in Congo outbreak",
-     "src": "Sight Magazine",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1VBbVpwMUxDYVFwaDRJaHdQS0I5dWl3REhPWkRMMEhEMmFyTjczZURzSC02VGZQaGdEWnZVRHJYRlJLN05YZWV3a3JiRklTY051b1p6aDlFYk5nQkVfWWpiNWhTNkV5UHQ3TTM2RXF1MGxLSjJFZ1NQMGotSzk2dE1rR2ZMQXpvR1dXWFJXdVhyazlmTHhhVjJvVFdPVFdNeXJQQ1dBQWJ0M2l2R3dsVXBPa2d4R2lK?oc=5",
-     "t_id": "Analisis – Para ilmuwan mempelajari lebih lanjut tentang wabah virus Ebola yang langka di Kongo"
-    }
-   ],
-   "title_id": "Update wabah Ebola per 19 November"
   }
  ],
- "errors": []
+ "errors": [
+  "siber: HTTP Error 429: Too Many Requests"
+ ]
 }
