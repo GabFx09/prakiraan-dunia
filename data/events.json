@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T23:34:58Z",
+ "updatedAt": "2026-11-23T23:49:36Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -87,28 +87,28 @@
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Delta Outage Delays 1,600+ Flights Before Thanksgiving",
-   "src": "shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
+   "title": "Delta flights in and out of Atlanta delayed due to system outage",
+   "src": "Bundle",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1gtMUp1Qm04TVZxbDRnWjhOT2hDU1RzaUpCODZHRWd5RURZRDdrclR1Q21oSTg4UkE4bGlUaTQtNFFJcFB2NVVWa19kX3dnVjRuZEllOEZkUmJkT3VISUxGNjkwZjkzeGkzSENhcFlwVWgzTmpPWHduY1BVNzc3eE9BNHVUX0FqUEhHY3VRbXFEWmhHeU1rQTRZNnJUTmx5NDJYb0EyVDRXVjQyMzVTZlVPYXY0dFpJWHNBTUVUbEdNR1NQMVFqRzdCaXo0Zw?oc=5",
    "sources": 6,
    "recent6h": 0,
    "score": 6.0,
    "level": "besar",
    "first": "2026-11-22T19:53:36Z",
-   "last": "2026-11-23T16:01:47Z",
+   "last": "2026-11-23T16:16:08Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "Delta Outage Delays 1,600+ Flights Before Thanksgiving",
+     "src": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
+     "t_id": "Delta Outage Menunda 1.600+ Penerbangan Sebelum Thanksgiving"
+    },
     {
      "t": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
      "src": "localmemphis.com",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbHBUYV9hUFpTY2NDUlJiTndlTGJmX2xrVW9JS29oME05dEJyd20wSU1sbVdxeG93VjRuRmc1SDdxeGJGYUJWdlZib29EVEpXZXJxOWUtQTRCOEZMRENpXzlCRjJDOTgwSkFMbjVpTVJMTjZvZENlejhSUWRlaUlhdVktcXpPc1dZM2lpRWZrZXpsVzREWTA5N0hhZFAtSnJRRTRJVjV5dEhEVXoxVUxvdkVZOENnbWlNWHBLc0JETU5sbnlTQUhwXzRCMmxpY3l3b1hqX3lfaEZjUkY3QWVPNUpfazR5LVVCanB5ZkNCVXgySFljclFnSFVTbWdNdzFpbng0?oc=5",
      "t_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
-    },
-    {
-     "t": "Video Delta outage causes nationwide delays as holiday travel takes off",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ORXhseHVmSlU4MU5MYXdZbUtNNkp3aERUSzlaVXpoeGdueWFXVlEyUzhaSHYzc2xRSGM3WFdHMVdPMTJhVkNOajA3T18?oc=5",
-     "t_id": "Pemadaman Video Delta menyebabkan penundaan secara nasional saat perjalanan liburan dimulai"
     },
     {
      "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
@@ -122,8 +122,7 @@
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRXZBaWlOWEd3Wmpvc210TEM5MmpNLVRJYXRiYThrOTJHMkhMTUJILXl6NXV2anRNUVJURGpFZVExcGRka2VzTTk0YWdZZnJxcmpz?oc=5",
      "t_id": "Delta Air Lines memulihkan sistem penerbangan setelah pemadaman listrik menunda lebih dari 1.600 penerbangan selama kesibukan Thanksgiving"
     }
-   ],
-   "title_id": "Delta Outage Menunda 1.600+ Penerbangan Sebelum Thanksgiving"
+   ]
   },
   {
    "id": "indonesia-202611230529-d687",
@@ -159,67 +158,6 @@
    ]
   },
   {
-   "id": "kesehatan-202611230839-04fc",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti",
-   "src": "Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPejdIaUpEbUdBOFFNdnJONkJWR2ZrLWlJRTBRZkZGbDhJUkdYdnRhZm5iaWdZd29fZ1JDaTduU3lUZ2VXM1pNRTIzdmZseVphYWdtdll1cHhZWWVxNVlEV1V2R3dQSmJpYUNZaElmU1Y3Z2lVZUtSd0hIdE5HWENaZ3dDNmdRNzRUeXBWYjdXYzRTakd4V1cwZQ?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-23T08:39:10Z",
-   "last": "2026-11-23T16:01:06Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Ebola outbreak poses significant threat in DRC",
-     "src": "The Herald Insight",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yTlBBVklPazRkSlJMbkx3eEhtcFNiTi10SHZONlBYcDJMNmpVaHNQMTEtYmRzbWVuYmEtN1g4RFNlcS1NQXhxdGpkd2g4N2owcWVpSUZ1VzI1d3ZuQWlhZHdxaXYxb2JPN1gyUl9Vd0Y?oc=5",
-     "t_id": "Wabah Ebola menimbulkan ancaman signifikan di Kongo"
-    },
-    {
-     "t": "DRC Ebola outbreak 'growing exponentially,' UN says",
-     "src": "DW.com",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MV2lHX3IwbjVBZWZiR0FTbEpuOEJTdFo0SThSbC1XZm5oSEc4RHhIaFJvaU8zVF9Ma2FhQ28tNjRkdzVaQkR6OWZiRkJzTXN6QnpsaXVhR3QzN240RG1KeWhIb3dDeGdXM1Rv0gFrQVVfeXFMTmJlSVlWaDE2elVYbEttRXN4V3RKbVNYSVY2WlctMjA2VGlzUGp3QzNSeHc5VnBCYlo3alJZc0VtcWR6bG1yb1BMd2lKTVc2WEFTai1IOWRpajhkX25VWUtjWUlXdWxLNERKTW8?oc=5",
-     "t_id": "Kongo Wabah Ebola 'meningkat secara eksponensial,' kata PBB"
-    }
-   ]
-  },
-  {
-   "id": "politik-202611222344-e09b",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "The leaders vying for power in Spain’s snap election",
-   "src": "Macau Business",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGNfb1c0TVhXak5RUzRka2VwSnJXVmtiUFh3RFdocnFiTWZ2anZ0OFMtSWN0VGJfOHZMdkhTTVRiZmx4al9sNVFfTkJJNmdyN1M2SVBxVEQ3MnlJUDFjR1hCQjJqSjJBdlBDcVgxcndKYWlrSVlJM291UmQwWkxaWWlmUFQxams?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-22T23:44:18Z",
-   "last": "2026-11-23T15:27:34Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Spain faces snap election with far-right coalition in prospect",
-     "src": "Chosunbiz",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzNXTjNybnh4bUlQVmk2UmJ2SlJVNmcwTDFUc3ozNk9SM1ZLTzRpSHN6eTdSbG9rcDFRT1BlbHYyMmlDQ085YjF2ZmlwMmtzZWxRWkFzSGxnbDFMa1hTRTRJNEhHazZDY0ZpSkZmUGVjaktnanJndmhmaWx6MjNoR1UtQmI0aVhS0gGcAUFVX3lxTFA1Q05fdk1TSjVCbDNnQmI2OFg0ZkFFcWJwZFpsN2dVeGUtdjU0NGJoQ2t3SEhqdGdZS0dnWVhjSm5NOGtFUGFoOElkLUVURFUzZ09UbjQ4UTFfS3p3SnlIUzNQaTNhdzZoOUhEZ3Fyd1NyZ0syN3hnc0dKNlJ0dkh6MTVoa2JndVpad2JUVU9acEdtUmc1SGtidWQtWA?oc=5",
-     "t_id": "Spanyol menghadapi pemilu cepat dengan kemungkinan adanya koalisi sayap kanan"
-    },
-    {
-     "t": "Why Pedro Sanchez Is Betting Everything On Spain's Upcoming Snap Election",
-     "src": "ИФЗ РАН",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVd1eWNSZ0JQRzYxOEJpX3dIQ01Ybk5fMklMbHJoYTVla2xwenZYZDZlbW1QckFXWjFUWUI1NjY5RWFZdkxyMnEtR2xFYnBCcEpDX0lWOURvN2JfdmlMd2ZjNnlyMFBPMjN1dFJ0dHpUdHJ5R1VsUjRYTFhSRmlQUzN5NWU1VExkZkFSQ1Nhbk0?oc=5",
-     "t_id": "Mengapa Pedro Sanchez Mempertaruhkan Segalanya Pada Pemilu Spanyol Mendatang"
-    }
-   ],
-   "title_id": "Para pemimpin bersaing untuk mendapatkan kekuasaan dalam pemilu cepat di Spanyol"
-  },
-  {
    "id": "siber-202611231403-3ee9",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -227,14 +165,20 @@
    "title": "How to Prepare for Thanksgiving Travel as Mass Outages Put US on Edge",
    "src": "Newsweek",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlFWUW9yb2otb2NYMzc4ZFMtOUZ2NExOdnkzNlFmWFdxOVlDMVYtQmxjU3pIZ2ZITjhrUWVOd1V2NGlNcEVyRE4zcU5wM2xXVHEzZVBab3RKM2I1d2FlSnR0bDNqdGJKODFGMXN2bUs4dXNtNS1oUlRsNWQyOUgwTm5GZHphV2NxT2hURjdJOXR1amZtODJBR1NremN2WW5oQlhHZXRR?oc=5",
-   "sources": 2,
+   "sources": 3,
    "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
+   "score": 3.5,
+   "level": "sedang",
    "first": "2026-11-23T14:03:11Z",
    "last": "2026-11-23T19:51:00Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "All the recent mass outages in US as Delta issue snarls Thanksgiving travel",
+     "src": "NewsBreak: Local News & Alerts",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVFZMRXViRDRkS2ZVQkdtMzM5MHdmaFJxRFRRVWlYVklMN0dDaV9zQldkUUhOZEg4Q19fMGgyMzJuZm16dnZSZUNUQVlhRk5aV3ZlaXhreE5vS2s5akVaeURZcnpSOXlNMTliVzlURkN2OTN2R1gwaUV6Mkk5RjVuZ01kZjdvTTlZd0gwdzhoZzdmTlBpM1FnRVpXV3V5dEQ4WnJma0ZUZkk5aUExbUJ4R1RGc1Rvcjl1ekoyX3ZQZUNNZzVHOVlpNHRoQWx0blJUb21OTA?oc=5",
+     "t_id": "Semua pemadaman massal baru-baru ini di AS karena isu Delta mengganggu perjalanan Thanksgiving"
+    },
     {
      "t": "All the recent mass outages in US as Delta issue snarls Thanksgiving travel",
      "src": "Yahoo News UK",
@@ -243,6 +187,67 @@
     }
    ],
    "title_id": "Bagaimana Mempersiapkan Perjalanan Thanksgiving Saat Pemadaman Massal Membuat AS Kecemasan"
+  },
+  {
+   "id": "kesehatan-202611230839-7ec2",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Ebola outbreak poses significant threat in DRC",
+   "src": "The Herald Insight",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yTlBBVklPazRkSlJMbkx3eEhtcFNiTi10SHZONlBYcDJMNmpVaHNQMTEtYmRzbWVuYmEtN1g4RFNlcS1NQXhxdGpkd2g4N2owcWVpSUZ1VzI1d3ZuQWlhZHdxaXYxb2JPN1gyUl9Vd0Y?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-23T08:39:10Z",
+   "last": "2026-11-23T12:07:47Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "The current Ebola outbreak is growing faster than any outbreak of the disease ever. How can it be stopped?",
+     "src": "Scientific American",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzd1WnNWbkRqWnJZLWNybnhTOW1zLXdQZTF2ckN1c3lueXdQck1FWUVKa25FaUlEZkJpcFp3V3d0by03RGFaVlpWQVJUcGRYTmRmMVpkTXhMUEpiSU4zMW0zc1pIWWR3MWtkLTlwYVMtRnhnNWtnNS1VQTVhczhfbDRMQjZnbExJRDR3?oc=5",
+     "t_id": "Wabah Ebola saat ini berkembang lebih cepat dibandingkan wabah penyakit lainnya. Bagaimana cara menghentikannya?"
+    },
+    {
+     "t": "DRC Ebola outbreak 'growing exponentially,' UN says",
+     "src": "DW.com",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MV2lHX3IwbjVBZWZiR0FTbEpuOEJTdFo0SThSbC1XZm5oSEc4RHhIaFJvaU8zVF9Ma2FhQ28tNjRkdzVaQkR6OWZiRkJzTXN6QnpsaXVhR3QzN240RG1KeWhIb3dDeGdXM1Rv0gFrQVVfeXFMTmJlSVlWaDE2elVYbEttRXN4V3RKbVNYSVY2WlctMjA2VGlzUGp3QzNSeHc5VnBCYlo3alJZc0VtcWR6bG1yb1BMd2lKTVc2WEFTai1IOWRpajhkX25VWUtjWUlXdWxLNERKTW8?oc=5",
+     "t_id": "Kongo Wabah Ebola 'meningkat secara eksponensial,' kata PBB"
+    }
+   ],
+   "title_id": "Wabah Ebola menimbulkan ancaman signifikan di Kongo"
+  },
+  {
+   "id": "transportasi-202611230009-2b9b",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Delta System Outage: 1,600+ Flight Delays Hit Thanksgiving Travel",
+   "src": "Travel Tourister",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTy1ZUElWT1JGS0hNdUUtQTg2Z2VIU0l0WmpPYXRFUHNaa2FrcS1SeFFaamJSSnlvTmh4X3BHNWdLUm9YWDZtOWRac1NsdXJkdXpvSUJlS3lwblg4WkJwZmxPQTdwY0VXMHVpN0pTLU9HNXpGM1c3akFMb2ZrYS1vQ0NWZ1ExdFFOMGt2VmpFTmdEZXFUNEJXVkZScjRTREJ5Q2J5WFVfWGpfRU1oUmFSMDkyYTRfbkVZSGItU0c3Z0xoLTd1RjRuTldtQlUyX1FOU2pUR2pRZFBoX21ScHVyS1ZiQnlYQ2hT?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-23T00:09:30Z",
+   "last": "2026-11-23T07:44:16Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving",
+     "src": "Yahoo! Finance Canada",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWGRYa2RlbC02YXVKdzFyNzNsaU1sdEZxLXZzQjh2ZVZ3cU5sZW50aWpvcEM1Q2ZtdVoweVFFdWw4TElNU2c5SlI3ZDNiaW5WVHJiNXB1dHA1WG41ODlObkZ2UmJDSzgzTmoxY2trblluWFY2X0g0dDluektUbG5FMERGSUpSeWkzNXJrOFFn?oc=5"
+    },
+    {
+     "t": "Delta Fixes Equipment Glitch Behind Flight Delays",
+     "src": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHNwNGVvOEM2TG5LcVZ1cnpyeWNXbzlnb2tzZG40aF9oUmJaSW5ITlVfLUFjMGVuUXQzTG12eEwtY0VjWmhhdEwwVzVOYUNCYVFVQTNUcnNqRm1wLWZMaFNYc0dyZWtUbnFpemt4R3RIVTMzRUl0Y1dHY1cxcUEtdUlUUS1LcVdUSjRwT1lJdUFHcVk?oc=5",
+     "t_id": "Delta Memperbaiki Kesalahan Peralatan di Balik Penundaan Penerbangan"
+    }
+   ],
+   "title_id": "Pemadaman Sistem Delta: 1.600+ Penundaan Penerbangan Terjadi pada Perjalanan Thanksgiving"
   },
   {
    "id": "indonesia-202611230113-0703",
@@ -322,6 +327,31 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVBudG5DMGdIVXZxbnlSYmhPMWZLNVVlR2J4ZzJhcUR6SEp4RHg4WnU3TEdpV3plakxGOVBnd3J4N2I1ME1idGtVUURhd1Zvbk9SOFhUTXFfaENSODlCYUwyM2ZfRzRqV1BmYTFZYXVwZjRjVWVCZWc1c2tUbDE1YWpB?oc=5"
     }
    ]
+  },
+  {
+   "id": "politik-202611222344-e09b",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "The leaders vying for power in Spain’s snap election",
+   "src": "Macau Business",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGNfb1c0TVhXak5RUzRka2VwSnJXVmtiUFh3RFdocnFiTWZ2anZ0OFMtSWN0VGJfOHZMdkhTTVRiZmx4al9sNVFfTkJJNmdyN1M2SVBxVEQ3MnlJUDFjR1hCQjJqSjJBdlBDcVgxcndKYWlrSVlJM291UmQwWkxaWWlmUFQxams?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-22T23:44:18Z",
+   "last": "2026-11-23T15:27:34Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain faces snap election with far-right coalition in prospect",
+     "src": "Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzNXTjNybnh4bUlQVmk2UmJ2SlJVNmcwTDFUc3ozNk9SM1ZLTzRpSHN6eTdSbG9rcDFRT1BlbHYyMmlDQ085YjF2ZmlwMmtzZWxRWkFzSGxnbDFMa1hTRTRJNEhHazZDY0ZpSkZmUGVjaktnanJndmhmaWx6MjNoR1UtQmI0aVhS0gGcAUFVX3lxTFA1Q05fdk1TSjVCbDNnQmI2OFg0ZkFFcWJwZFpsN2dVeGUtdjU0NGJoQ2t3SEhqdGdZS0dnWVhjSm5NOGtFUGFoOElkLUVURFUzZ09UbjQ4UTFfS3p3SnlIUzNQaTNhdzZoOUhEZ3Fyd1NyZ0syN3hnc0dKNlJ0dkh6MTVoa2JndVpad2JUVU9acEdtUmc1SGtidWQtWA?oc=5",
+     "t_id": "Spanyol menghadapi pemilu cepat dengan kemungkinan adanya koalisi sayap kanan"
+    }
+   ],
+   "title_id": "Para pemimpin bersaing untuk mendapatkan kekuasaan dalam pemilu cepat di Spanyol"
   },
   {
    "id": "transportasi-202611222331-fe39",
