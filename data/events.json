@@ -1,28 +1,66 @@
 {
- "updatedAt": "2026-11-22T23:53:01Z",
+ "updatedAt": "2026-11-23T00:07:39Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
-   "id": "perang-202611211746-6444",
+   "id": "transportasi-202611221057-2784",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Brussels Airport cancels flights as Belgium strike shuts air traffic control",
+   "src": "Beinsure",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGZ1dzJJUnVTTWp3QTZ2cURKczVsVWZtUjROOUxWN01EWk13cndFU3pjY3VSYWpJb0I3VzNROU9LMVYybERDcDZVU2hzakYwNHFkLUl6MHpPV3Fhbk0xS1hTWXZSQ2ZWcGZDeEpVSkZPa0JFMkdIR3I0bHR4TW1mekxrZw?oc=5",
+   "sources": 12,
+   "recent6h": 9,
+   "score": 16.5,
+   "level": "besar",
+   "first": "2026-11-22T10:57:19Z",
+   "last": "2026-11-22T23:08:37Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Delta Weight-and-Balance System Outage Prompts FAA Ground Stop for Atlanta-Bound Flights Ahead of Thanksgiving",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MlR5R2czR3QyVmItSkFSWlRoOEJPMjAtSl9IeG15TEYzaGx3amZFMGdCWjQwLUw1TWJfSlc5RXpTTEphOEFuYmIteGVUbkpQamVpWXNFWGpIUWc3bE5zbjJIM1Q4YWVrOU5oMzBJcU5sVk0?oc=5",
+     "t_id": "Pemadaman Sistem Berat dan Keseimbangan Delta Mendorong FAA Ground Stop untuk Penerbangan Tujuan Atlanta Menjelang Thanksgiving"
+    },
+    {
+     "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWRfMUlqa2NON3pHbWVBT3NuRDBNajZQYklJRlBlNTdrT2J6cGpxWU5FODBmU29sSnJ5QlhpaVRJY3dpSFN6dEVCcVlVWTVkcWVfSU5XS1l2MWNfUXl0ckZObS11ckVhV0Rsb0ZGcXBHN0NmZ2MxbUxRNmlZRHNfbW9XYkJUZFpmaXMxbDBadWRFRnJHajNCc2hSSDZkaVnSAaQBQVVfeXFMTXVUSGQ5N2Q1MWRVdGRyLTdITHVfWlNtdzhWSWwzZ1dYVzJiTnJuRzlTOEY4MDNTM2p5MUlMcGZvZnVTU3FOV0RMTEpDcUFqbnVrbms5UXlwb2IzUEE4SXZJU0RQZEtjYUtnbGRUZjBjUkF5aS1yUXRBenZsR215WEJZWWZHRUI3NWdXZ1RqYmxEZEhGS3ZaZHQtTGdZUUtjSDdNczM?oc=5",
+     "t_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
+    },
+    {
+     "t": "Hundreds of Delta flights delayed in US due to technical failure",
+     "src": "Latest news from Azerbaijan",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdFS3BHUGtXbWUzd19IUnRmOXJXNkQzemVkZHQ1WGlxN3Ixa3VyRnU1MXBSeTVmQkR0M3oyWlYyOXctTmh1NXZ3RTlEVXhnQ1BnS1psaE1NcEtOQVhORllMQW55S2NNZ19rRzU4ZUIxbDNUeEhFc2EyZUNZNVVZZ25iRHdwS01RUXVWUUNR?oc=5",
+     "t_id": "Ratusan penerbangan Delta tertunda di AS karena kegagalan teknis"
+    },
+    {
+     "t": "Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays",
+     "src": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFRFaTNyYWprQlBYbnJBQTVnTVExUnhoc0lTRjlRYWc3Rk9oV084QlIxdkg4bFE1RnIzV3VvTXl6eXduMlV5RjgzRmRwRmp4X2tRc3lxYlptNXZZZmc3T3BzZjN0d0xlQ21OZjJQa3NzZWlOaWpFSmhoTERqcm14MVZQS2ZfNEh3bW1qSTUwYnFlUmpicjExbmxlOFlROTQ?oc=5",
+     "t_id": "Delta Mengatasi Gangguan Otomatisasi yang Menyebabkan Lebih dari 1.000 Penundaan Penerbangan"
+    }
+   ],
+   "title_id": "Bandara Brussels membatalkan penerbangan karena serangan Belgia menutup kontrol lalu lintas udara"
+  },
+  {
+   "id": "perang-202611220054-bef0",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
-   "sources": 21,
-   "recent6h": 3,
-   "score": 22.5,
+   "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcndOTTl3bzZwNVZ4ZWstZXBZdnVkbUhPanQ5VlhUVEJaSTRVdnc1YzVUdEhEd2M0QXdFVGxzRFVLeThYd0FfaGEzMnQzbWIzemFuZzRqSGJCQ2M5LVBzV0dadVlwUXpXR1hfMTllR2NsWmNuRnk4RmRSVVlraElfS3NjNFlJa0FWTGNRRS1XQTFxM3JoTVRYZEluNkVJUXZSdk1TSmFfWUfSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
+   "sources": 15,
+   "recent6h": 2,
+   "score": 16.0,
    "level": "besar",
-   "first": "2026-11-21T17:46:01Z",
-   "last": "2026-11-22T20:20:00Z",
+   "first": "2026-11-22T00:54:04Z",
+   "last": "2026-11-22T20:02:17Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Russian ship sinks in Libyan port in suspected Ukrainian drone attack",
-     "src": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm40UThnaG9jbUJnelpLWGlJMHlUdTZkb1p0ZFUwa3NGSGJ5M2R1V0JqWjNTeWhoQTlLeE1ZbWtiVVR5WTFvVGoyUk94ZzR2LXZ5OXZBS3Y5WmdCRlFSYi1GSEZGbWw2RDd5dzZic09kbTBmLW5nOE1mUVM2N1NyR2ttUlZ5WDlOVnpSVzNWNXRYaFVKTWg4WGFkX2RSY0lnWnk3UzhiVQ?oc=5"
-    },
     {
      "t": "Iran announces missile and drone attacks on U.S. bases in Bahrain",
      "src": "Informat.ro",
@@ -40,92 +78,58 @@
      "src": "EA WorldView",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
      "t_id": "PEMBARUAN: Perang AS terhadap Iran, Hari ke-269 — Serangan Rudal Houthi di Arab Saudi"
+    },
+    {
+     "t": "Iran's IRGC Claims Missile and Drone Attacks on US Bases in Bahrain",
+     "src": "Ratopati",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjlLRHNCUWlwRUtma3Z6aG5LbU5Sbkl2bG8xSmZYaTd2ZkZQZFUyRHdnZTZfaC1HTnI1THhWVXIwd044WUdCMU5yWmMzVTBQbEc3UzVXNFlCejVqcDBZaVdBOENFZFBrRTlka19wUk5PNUlYM1U5aWx0b2xQd0MxdlFyR0VJVl9qa0h3SU92bzJVbGsyY1NQeVhTZVhiY2hZcWp6OTJxbXg5b21aMVhZN1hDVzg?oc=5",
+     "t_id": "IRGC Iran Mengklaim Serangan Rudal dan Drone di Pangkalan AS di Bahrain"
     }
    ],
-   "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
+   "title_id": "Arab Saudi mencegat drone dan rudal saat Houthi melaporkan serangan di Sanaa"
   },
   {
-   "id": "transportasi-202611221057-dad9",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "More Than 1,800 Delta Flights Delayed Before Thanksgiving",
-   "src": "FTN news",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFN6STk5dFY3V2dFX2VEdk5BV003WEdreEI1eUpnY0VsY2ZiYnlDU3dod2RVazZnWndCYThzV2I1WXVDcV8zUzBhNTROVTMwb3Uzc1NIS1ZzRS0wSnJFUkZfdkdBQnpzYnF0RWduUURKN0dCZXZ4X3hpb1pGTjdMemt4RUVXQQ?oc=5",
-   "sources": 7,
-   "recent6h": 4,
-   "score": 9.0,
-   "level": "besar",
-   "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T23:16:16Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Delta Weight-and-Balance System Outage Prompts FAA Ground Stop for Atlanta-Bound Flights Ahead of Thanksgiving",
-     "src": "Avi-Go",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MlR5R2czR3QyVmItSkFSWlRoOEJPMjAtSl9IeG15TEYzaGx3amZFMGdCWjQwLUw1TWJfSlc5RXpTTEphOEFuYmIteGVUbkpQamVpWXNFWGpIUWc3bE5zbjJIM1Q4YWVrOU5oMzBJcU5sVk0?oc=5"
-    },
-    {
-     "t": "Hundreds of Delta flights delayed in US due to technical failure",
-     "src": "Latest news from Azerbaijan",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdFS3BHUGtXbWUzd19IUnRmOXJXNkQzemVkZHQ1WGlxN3Ixa3VyRnU1MXBSeTVmQkR0M3oyWlYyOXctTmh1NXZ3RTlEVXhnQ1BnS1psaE1NcEtOQVhORllMQW55S2NNZ19rRzU4ZUIxbDNUeEhFc2EyZUNZNVVZZ25iRHdwS01RUXVWUUNR?oc=5",
-     "t_id": "Ratusan penerbangan Delta tertunda di AS karena kegagalan teknis"
-    },
-    {
-     "t": "Delta Flights Delayed Nationwide as Technical Outage Hits Atlanta Hub",
-     "src": "Rus Tourism News",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmFyeTlHczBRRTExLXBEdG9tdk5HZjJNSW9FU29yS3RqVVRtRldINUxrSmgxbTA0cU9uV3pSRUVXandvRm9IT21VcUU4NWsyZDZ1a041Q3YxMFhLSzRoVktoOEZpb3UzbUlYZ0RBSmtTbENRLUZZZ0dQYkh3cEVsYndoMEx2UjhDd2F2UnJNbGpHVFpIa3dsNGI4aTczMFg2blRVLXF1T0JuaXBNRWwzLTZB?oc=5",
-     "t_id": "Penerbangan Delta Tertunda Secara Nasional karena Gangguan Teknis Menghantam Atlanta Hub"
-    },
-    {
-     "t": "Delta Air Lines flight delays hit Atlanta as system outage affects 364 flights",
-     "src": "Beinsure",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTdZWml2MENubWM0dzYta3FFYVlBUUM4WjVzbFpHbmE1TTh0bWd4Wk5PMEQ4dWJPR3VYelFuY3BGT0hsaDk3dy00MEVCTXNCbTJRMVVyQklaMFZvYmpvNkZwWHNvcWlaTTRoU0FoZnUxNklqR245UE9SNjEyOUJ2NFpVU1FodjJ2YTBDdVA0dmdwdw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "perang-202611220254-5022",
+   "id": "perang-202611211746-6444",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Iran war live: Bahrain reports damage to civilian industrial facility following attack",
-   "src": "Arabian Business",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-   "sources": 6,
-   "recent6h": 0,
-   "score": 6.0,
+   "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
+   "sources": 8,
+   "recent6h": 1,
+   "score": 8.5,
    "level": "besar",
-   "first": "2026-11-22T01:25:17Z",
-   "last": "2026-11-22T09:00:05Z",
+   "first": "2026-11-21T17:46:01Z",
+   "last": "2026-11-22T20:20:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "US-Israel-Iran War Latest Live Updates: Iranian Attacks Target US Bases In Bahrain As Civilian Industrial Facility Suffers Damage, Strait Of Hormuz Reports Fresh Tanker Incidents",
-     "src": "The Sunday Guardian",
-     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbDlUWF9XVmg2dFdNbnotZW5tbl9OdFNRVjJCS1JYSlFZbXYzTHlLLVhGSVdFYU1kUmxZOUs1Ym5NUVg1eEdyR1NXYzYzX0laOXF3a2swQWNfa3J4SERNcVh0Wld5RkN1N3ZFQ1plbTVmZFdtN0ZVN1Zrdms5elBtemFCQlVSR2lPbTRIb1hGd2JXMVdMbzU5Q2RpaU0tWXUyblZyY0VZbGdFRzlyR3h6X29zS0N0TEVZYkxvMHp5TUdIaHFLWnVkRVJzSWloZVVEc2FaTFZadHBua0JZcGhYejVBOUJ5bzlKUEh5VDlHWURVV0xLb2tuMXFvRFJMRkp6X3hnN2xqd1RXS2tQUDZXQUhCSmNXRnQ2S21qeE51WDZteHJyS21MVVZFUmRDenM1eVFqQjQtbXpfYzBfNXIwMk5lSdIByAJBVV95cUxPVV9IeUJpd1pGYVJSS1JnRlRSc3JjbXczY0JHT1hJZTRGUXJ2NU10R3V5NWlEUlEtOXJXQVQycm80c1ZJc2VPU1RDM3pnemdwNk9Ob0IzOVdoa2N2UWNKVS1MQnlxd0ZybFdqcE9EMnZpNVVzQkVhUHVBTEVRRzlNd3h6VGEzbkZmVEphTzFVX1Z6VkZLbjVQTVY5ZWZmWF9hQ2hUV2xiOEVkT3RHdW1XQWk5cGtrRWpObTQtQVRTOFlvS2RJM1FtTlFESzl3LUNXZ0VCTlBqUkJrYTE0ZnBPUVlKdERnTTkxOEFfS3cwZmtMdHdKc19mbzRBanJlMVB4ZzhtMk8tR2oyZFdoS1VLalZQbXRPV21KTUlILUFDV1BlYTBFUjRIVlFjbTdfVUxmcGFkYUJiY0d2Sm5VRUhGX1R0SEZieF9l?oc=5",
-     "t_id": "Pembaruan Langsung Terkini Perang AS-Israel-Iran: Serangan Iran Menargetkan Pangkalan AS di Bahrain Saat Fasilitas Industri Sipil Mengalami Kerusakan, Selat Hormuz Laporkan Insiden Kapal Tanker Baru"
+     "t": "Russian ship sinks in Libyan port in suspected Ukrainian drone attack",
+     "src": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm40UThnaG9jbUJnelpLWGlJMHlUdTZkb1p0ZFUwa3NGSGJ5M2R1V0JqWjNTeWhoQTlLeE1ZbWtiVVR5WTFvVGoyUk94ZzR2LXZ5OXZBS3Y5WmdCRlFSYi1GSEZGbWw2RDd5dzZic09kbTBmLW5nOE1mUVM2N1NyR2ttUlZ5WDlOVnpSVzNWNXRYaFVKTWg4WGFkX2RSY0lnWnk3UzhiVQ?oc=5",
+     "t_id": "Kapal Rusia tenggelam di pelabuhan Libya karena dugaan serangan pesawat tak berawak Ukraina"
     },
     {
-     "t": "Bahrain Attacked Again As Iranian Missile-Drone Attack Targets US Military Positions, Civilian Industrial Facility Hit",
-     "src": "The Daily Jagran",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbUt6d1hZZTZwakNlQ0Qtc25wRnJOdVFwa1VKay1OREF3U1VFQlBqTjktQUFIcWw2OThqWTQ2NFBjb1N5Q2MwUmJjVTRZOHgxaWpuSE1CQTEzUHJLcGRfZGkyOWtfRWxtYl9tY0l1SlczZjZEMG45ZWwxUzVZNDJ3UDFrOHUwRTlPMWF6LVBRUFJZbjZKaWZmelEzZUFmY0Y3Q205bERjaHBjbkJIekJZcGMzQWUxSThscHlRVGZpY3FDc29Vck1weTlMV0ZXTWdNN2Z1Nkg5blU3ZVRmdnk0WmhQNU9jTGU5UF9RUkZIZ0RPWFRpLXBFN9IB_wFBVV95cUxQOTBMTGtrZktNVnd6TXpHeWp6NG1DR2h0Rzl6NWVWZjVWQTkwLWJOTlQ5M3MtR18zNXpveFRHTkNyNDdLSW5ManozdGpvTjlfdmpONEgzTndrdFJwN2ZhektQTFJqQnB2bG1JUE0xWTQwMzlaNHp0SFJxdDZENWg2TXJKSlRWaEtxYzlJSjdmTVhOZWllNjZPdVVEWEIzWG5sYU9zZkl4Z3l4YVRIeFNqYTIzRUozcVFveEhla0V1ZkRaWndfMHBZZVNtNmt0eWdiX3RzVTZQZlljT1NxczQ3eWduVEl2a1lWams2RjI5akJuQ3JuZkVydG9IUG80UEk?oc=5",
-     "t_id": "Bahrain Menyerang Lagi Saat Serangan Rudal-Drone Iran Menargetkan Posisi Militer AS, Fasilitas Industri Sipil Terkena"
+     "t": "DW News. . Rescuers in Ukraine are searching for people trapped under the rubble of an apartment building in the Kyiv region after a Russian drone attack. #DWNews",
+     "src": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVC1IdzF4RXJHa1NhcnJqSnF2NG5IZndoSE5CQW01MXpsQVQtTVlQMFVoUUFzeExlRmZRc0l0c1FKUDNwTTFEbXpvU1BDNWN4d1I0RV9WWVhuanM4QU8xd1lmQ1ByV0ItTUdDa2kzbzZ4Tnd4MzhsNVlGdVdvbzMwbHMtMlU3SnJYZHlCQm0wY3NBeE1ZQnBHSWF5M1JvQlJLNWNvWFhWOFF1OW5KZ29OdjNpeWF5ZS1qSWlDalV6UGo2MERLV0p4UUdmR3FmMzZiN01MQ3p3d3BfS3g1bDZPWXhR?oc=5",
+     "t_id": "Berita DW. . Tim penyelamat di Ukraina sedang mencari orang-orang yang terperangkap di bawah reruntuhan gedung apartemen di wilayah Kyiv setelah serangan pesawat tak berawak Rusia. #DWBerita"
     },
     {
-     "t": "Iran's Revolutionary Guard launched missile-and-drone attack on US Bahrain bases",
-     "src": "NewsBytes",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWZ4SER5Q0VsRS1wOG1laVFmNDFpVDFLSVd6MUMwZG0xZ3JCbUZGcTRTa0EwWktIR3k2aEVUY3RMSnNBazBRcU5SUFBhRDRkb0NzdUpwT1JxdktyRzlmdGFFeG9BbkxFU3FkdW9lclNkdGo2Ni1LTXFwaGNsdlZNa3RMV3o2TlRjaElOcW0yMXhHU1JKWTNBN2x2dU0wQ0wyRGJ6MWpsaVpSajBxRmlBazBLaXJaSURNTjAyelpXYXdJdw?oc=5",
-     "t_id": "Garda Revolusi Iran melancarkan serangan rudal dan drone ke pangkalan AS di Bahrain"
+     "t": "Russian missile, drone barrage kills 2 in Lviv; dashcam captures projectile strike",
+     "src": "prameyanews.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenBCV0tCUHZueTJHb3VNeXdTbTg3Wm5oTE9UQWJIblhSN1RPMGRzUXBsX2ZqTHN1LUFiOUQyRFdMZElTbzNlQkxHanp2NDRLcE45SGNOU2VudVJwQ3F2YnFtTC1VQnFlZ1hZVGpjRTctNWZJR01Kemgya05GdENLRnV5M080cFV0Unk2SlQ0YzRNV0ZScEp5cF9tLVFWVkJ3a3ZTdTE2RHNZSE5V?oc=5",
+     "t_id": "Rudal Rusia, serangan drone menewaskan 2 orang di Lviv; kamera dasbor menangkap serangan proyektil"
     },
     {
-     "t": "Iran Attacks US Bases In Bahrain With Missiles, Drones; Manama Reports Strike On Civilian Facility",
-     "src": "News18",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdU5TYThvem8tb1ZRel95TlhXdEJTaXJWakYzXzFqaW1yTHVUQ1JBekxZd2t4Vmx1bEdaZVdLdVpNeTkwbGZwV2NfQmZVeXdlcFZ2OHI2alVGUFJWRTVPYXBVZHpsOEFmRmFBUGx2Vk9EMTBDS3dxcllSMzNucW1ZNnJQTlBJblBLZ1pjNm1DTExFaURZZE1XLUN3eXFwZi1YRnBtNWplbXDSAa4BQVVfeXFMTkw4VjEtWXV1V3VjLXJvOGV1OS1fQXdKVUlVVzAyS1dzQmFxa3Y1bDRwZVhhS1J6UVBKZXUzQll4SjBkdFdUUVktOUdIamNnU0dMR0hwNEhWS29tUlI3THVONWJ6UUZ4eUJHNEhpMXEtU25WR3pTZk8yeDVuLVo5c2s5aEtIN3ppUWg0bmVZWEJIWDhXYlR4dVhpQ1I3UUdBYTFWdzZvOElvanROeVln?oc=5",
-     "t_id": "Iran Menyerang Pangkalan AS di Bahrain dengan Rudal dan Drone; Laporan Manama Menyerang Fasilitas Sipil"
+     "t": "Search-and-rescue underway in Kyiv following Russian drone attack",
+     "src": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMm1HdlI3VGpSc1hoQkJUeDNyTmJXNnRCWUJxUmE0bXFWdnhaazkxb18waVc5c1RHek5FWHR0VXdwMDdCQVdydVQ2enk3d2dVdzZEbThDeTJOc2UteU9RcHZBTERCYUZvbTc5MldpTVFIeHJoY1VwMFpMNHhRRzlRUkJSbGlReVFzM1Ew?oc=5",
+     "t_id": "Pencarian dan penyelamatan sedang dilakukan di Kyiv setelah serangan pesawat tak berawak Rusia"
     }
    ],
-   "title_id": "Perang Iran langsung: Bahrain melaporkan kerusakan pada fasilitas industri sipil setelah serangan"
+   "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
   },
   {
    "id": "indonesia-202611220314-0ee6",
@@ -260,42 +264,13 @@
      "t_id": "Video | Protes Spanyol | Para pengunjuk rasa menuntut perumahan yang terjangkau dan pendidikan yang lebih baik menjelang pemilu sela"
     },
     {
-     "t": "Here is what to expect from Spain’s snap election",
-     "src": "Investing.com",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkVrSkFsZVRwUXRtN3paNWYyUno1NUlFYWYtdnFsWmFtaFdZRFAydHFtVXROS2YyQldXM3IwWmFuamc2dDZiaHpmZ3dTVUh1b3NpN0UwNzhVQnFvNE8yN0FaZXVLeWZSeEMtVGR5SEtIVWtrU3MxbElVa0V1dUJjRk8xWUcwRUdhaS1sODFsWUx6dTVzSEpKX0lVRDAzd3o1Y01YaFRJZkY?oc=5",
-     "t_id": "Inilah yang diharapkan dari pemilu cepat di Spanyol"
+     "t": "Here is what to expect from Spain’s snap election By Investing.com",
+     "src": "Investing.com Nigeria",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzlaUnBsMTFSZ2xVaGxFRWxjb3F0aHZ1Wm5nR040TTlqV1VpcVp1WmRaOUNuWHNoR05pUzZ3R1M5eXd0Y0ROamg0b1FzcVQzTGppcG4zdG5LQXF4QjMwWFZqemNKYWtrazhRNkZvblFEOUNxS1RsQjZCUW50NGlhRFZFRS1vNFNuTW13Vk5Da1ZyaVF3N1J2UVhrakFMU0xmUEdyLUJPcw?oc=5",
+     "t_id": "Inilah yang diharapkan dari pemilu cepat di Spanyol Oleh Investing.com"
     }
    ],
    "title_id": "Mongolia menuju pemilihan presiden cepat pertama setelah Khurelsukh mengundurkan diri karena tuduhan korupsi"
-  },
-  {
-   "id": "perang-202611220710-5c3c",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Vladimir Putin's £150million warship Merkury 'blown apart near Benghazi' after Ukraine sea drone attack",
-   "src": "The Mirror",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTVjaTFYeUhjdXN4TkNyWjRscl96QXdkaFdSZFhmMmF3Y1VadkJoQ0tBeUJwQ05XdWRKZTRsNmxBOGJ5OGY0NXlKLTMxQ3g4dnZJQTdTcTFqOUViVHJiNnZjTkw2Y1dPU254QmdzMVdXZjJHS0JNNVgwaWQxRkFSMzBvb3VYc2IwYUJvTGZWY9IBlAFBVV95cUxQMTdyekRLNzdGOEZnTDA5N3JwcGhPTk85SkVGNUx3ZGlQZThGck5zaWJRcHZzTDhUQXNyUkJXYWZPVTRUTEhOMXprZlhTLTJQd3NUZE40amt2ZkE5b3NOZGcxc0ZJcDBxYXVhaXYyNmJzYkNGbDllYkE3YW5CVkppQS0tR1RTMEhnU1JKQW9veVlNM3BO?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-22T07:10:42Z",
-   "last": "2026-11-22T20:07:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "DW News. . Rescuers in Ukraine are searching for people trapped under the rubble of an apartment building in the Kyiv region after a Russian drone attack. #DWNews",
-     "src": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVC1IdzF4RXJHa1NhcnJqSnF2NG5IZndoSE5CQW01MXpsQVQtTVlQMFVoUUFzeExlRmZRc0l0c1FKUDNwTTFEbXpvU1BDNWN4d1I0RV9WWVhuanM4QU8xd1lmQ1ByV0ItTUdDa2kzbzZ4Tnd4MzhsNVlGdVdvbzMwbHMtMlU3SnJYZHlCQm0wY3NBeE1ZQnBHSWF5M1JvQlJLNWNvWFhWOFF1OW5KZ29OdjNpeWF5ZS1qSWlDalV6UGo2MERLV0p4UUdmR3FmMzZiN01MQ3p3d3BfS3g1bDZPWXhR?oc=5",
-     "t_id": "Berita DW. . Tim penyelamat di Ukraina sedang mencari orang-orang yang terperangkap di bawah reruntuhan gedung apartemen di wilayah Kyiv setelah serangan pesawat tak berawak Rusia. #DWBerita"
-    },
-    {
-     "t": "Russian drone attack devastates five-story apartment building near Kyiv, people may be trapped",
-     "src": "RBC-Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGlPNm5XZTJ3cnN0R2dENy1aNHQ2QjZsdF9hNWhRX1Zhb24yeHZKcHRKU0RSaFJfQTYzOG9BZ2xxU2hvamR0aWdPWEVfSHlrWVB0QVUzUHBPRE5TdVlvRWtPN0Exbk50NEVTbEk2R1FzOVgyN2VyTERpMjJVLWg0bDFfUEpSMnZFZklfVUhpWnZPbWNl?oc=5"
-    }
-   ]
   },
   {
    "id": "siber-202611222123-4552",
@@ -316,100 +291,36 @@
     {
      "t": "Intelligence chief Jay Clayton tells Americans to expect more 'bumps in the road' as systems are upgraded after the wave of outages",
      "src": "MLQ.ai",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTzl3UmY2T2h3ZWFwRlFPSEQ5cWF5MkNCOW55cFpFazNrZ3lHQlJHOExIWnBjN2x4am5DZnIyWlRseS1ZNDBFYnNhcktSU1lXSnBSc2xqTExYbDlVeWpPdlJfX1M1MEZScnVxdzZkMlkxbUxoWURIMlJ5WlJ1SGRqcnViNUtOVHNWOV9zeVlhQ1Z4dzB4X0JIejVWV2luZ2theGN5dkdUTU91MUVuNkE3WGt5RE40Vk5QZkJxcWRnbHd5UUVkdTkxazNCU0lRdFJSTjJpMUE2eWdEZEVRbDhxUzdzMng?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "perang-202611220229-9463",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Yemen: Airstrikes, Houthi Attacks Claim 5 Lives, Injure 18 Amid Escalating Conflict",
-   "src": "Lokmat Times",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcE1RUDZHOXlKY05iNHdBQ1kyUmdtMkMtejUxM1EySDIxOU9UcEkxRjFYWi1ieXdCSjFsUG5Qb214cEMydUZoU0FsVV8tZUVpN1E3bmIxNVVxVjRxSDZtLTJDdUFjNVp1cGpNdUVqRDUwV21GNGxsMlhkTy1FS1pWS0s3eW5IMDA0MWNmaEpGZHE2aWEwMG9pRm83eUlSYXFuSGV2ZFZCSEdJb29GVE9Jbi1uOTRPWFM5c01LR1VzR1NiNE5Iem1iLTBCb9IB0gFBVV95cUxOUU41SHJWeXVtc1Npc0pvQnk1aTlkRXpaWGpFcW95ZUN0V21JenM4SDJwek4tT2VfMVFCMlU0WjgtOFd6YTF6dlhSUmFkblJnNEZMVU1iUzFNN2o2dkJ2SHNnWExiWWw1U3EwT2VKR2t1NlBUZVA0YTBwN0p4bTVaQjVjSW5VZzNONzgzOVo0OFVZOXpNcU9kZmF5VEJtTnFNc0ZkTmtwSlItdGlhNkR0RllfU181TTktMTAycVJnckwzNW82MFEtZ19jRW5LNjRxSVE?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-22T02:29:12Z",
-   "last": "2026-11-22T17:26:45Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Saudi Airstrikes Hit Yemen's Hodeidah Amid Escalating Cross-Border Attacks",
-     "src": "Lokmat Times",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVreEJOSHlsX2RvOG1kWHdXc2lmMmJjcVZwdkpiQ1RFWTNVd08zdjJZUFpwNXZDVmFSeEtaYnNIRlRfdnhpT0FaaGJTNFdGOFV6cVdvVEMyQ3NSazRqTFVrUUlMVVM3dV8zLUk1Q2FTX2xidGF1dHZGN1hkQ0xrVFZXVWZvVnNvSVVoZlpzaWhNQ21GMGREeHM4LWRsRGhMeWdsT19ldDNBTjdPUlRScnBfQ2FtYUp2VE9FbnhlUVBxUdIByAFBVV95cUxNMzlEME1iaFZIdjlRM1pfRmgzeXhoZEhwQkFlUDJBRnZLNWluNWVMQmwzbE81SFBoR2plSmM0MWNISUNKT3kyclZCRk1TNUdzNVJ0bXh5elZ5Rlh5UWxZc0VPeXdUVElUSHlxLW5XWkxWLXNSaGF6RHpXOU1XTS1NeUNWcktuUEliQTFld2NXdmRtOW9Kd2UzcVpUWjJpTWh6b0dadVpLb1p3OGlJZHlGYXY4anBFeWZ4dE0xYlNXbU5GUy03TjlKaw?oc=5",
-     "t_id": "Serangan Udara Saudi Menghantam Hodeidah Yaman Di Tengah Meningkatnya Serangan Lintas Batas"
-    },
-    {
-     "t": "Saudi airstrikes hit Yemen’s Hodeidah amid escalating cross-border attacks",
-     "src": "Telangana Today",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUJET3BreUxjMXNBZ1BOWkxiODJYUndKS1YxMzZha256LUJ3Q1k1NDNUWFRUemtKd1pIVmpTOGN0Q1czc21iV081RnhLSGFjNGhZX0tmaWNHN2tCd0RITjVvVFY0Rjc4ZldoLU50SlZkejNUdnVBbm1PVzh1Ynh6Q3p5bElYS2lsdlk4ejM2aG1LeEJ0Ymlydm1VYXhUaWwxaEE?oc=5",
-     "t_id": "Serangan udara Saudi menghantam Hodeidah Yaman di tengah meningkatnya serangan lintas batas"
-    },
-    {
-     "t": "Saudi airstrikes hit Yemen’s Hodeidah amid escalating cross-border attacks",
-     "src": "Social News XYZ",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXY2N3dpdVdhU1ZwY1BqX1dYUDljckpYT1QxZFlpT3lQaDYxSnRUVWVvX3pPNDhyeHJaVFRhWVBzdVRUdGZ4WUxISk5Bd0ZzNWtCaWRFbEhLSDJWeVlWampKTWpWdzBIMnZTYmN0Z00yTXlnN1hLUWNrTHhaTlFNNUxEX19POHVkaFNMeDZYSnhkT1dFQTY3Q3Z3QlkyVHNaQUNuUmtIZmdPUExJdm04ancxUXlKSknSAbcBQVVfeXFMUEF2Njd3aXVXYVNWcGNQal9XWFA5Y3JKWE9UMWRZaU95UGg2MUp0VFVlb196TzQ4cnhyWlRUYVlQc3VUVHRmeFlMSEpOQXdGczVrQmlkRWxIS0gyVnlZVmpqSk1qVncwSDJ2U2JjdGdNMk15ZzdYS1Fja0x4Wk5RTTVMRF9fTzh1ZGhTTHg2WEp4ZE9XRUE2N0N2d0JZMlRzWkFDblJrSGZnT1BMSXZtOGp3MVF5SkpJ?oc=5",
-     "t_id": "Serangan udara Saudi menghantam Hodeidah Yaman di tengah meningkatnya serangan lintas batas"
-    }
-   ]
-  },
-  {
-   "id": "kesehatan-202611220031-9955",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Congo Ebola Outbreak Linked to Spillover Clustered Near 1976 Lineage",
-   "src": "Bioengineer.org",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVNNcHpPTDl6RFBPQ0ZWUHZtcndMWXQzSXdMNGpEaXZudWY3YVdpZ2hPaDVGM2MwSlJpUy1kbUhjcHFTcEhrcFdCT3ZzVFVwc1l4ZEE4UFdha1NyYUwxSzIyalp6cE9kRW03VzY4VTFNb3lrNlhyZHN1aDFwYS1kdlpjeTRsQkFJSFdkODBSZjh1ZUdueklROQ?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-22T00:31:52Z",
-   "last": "2026-11-22T05:57:35Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Ebola outbreak update as of November 19",
-     "src": "Outbreak News Today",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFJPRm5TTkZuUklhMDN5R04tb0V1R0xlZk9sN1NZNzRvUk1saEsxSUYyM2tidThjMFlLdTRteldrbmYzaTAzdnU3MTUtZXRfOUhNQ3AtbTM4M3BWb0FkVnJnNlZlOTF0eFJWemdmRDlLVWIzU2xQSVRveEplOEszTnlBdEh4dDgt?oc=5",
-     "t_id": "Update wabah Ebola per 19 November"
-    },
-    {
-     "t": "Analysis – Scientists are learning more about the rare Ebola virus in Congo outbreak",
-     "src": "Sight Magazine",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1VBbVpwMUxDYVFwaDRJaHdQS0I5dWl3REhPWkRMMEhEMmFyTjczZURzSC02VGZQaGdEWnZVRHJYRlJLN05YZWV3a3JiRklTY051b1p6aDlFYk5nQkVfWWpiNWhTNkV5UHQ3TTM2RXF1MGxLSjJFZ1NQMGotSzk2dE1rR2ZMQXpvR1dXWFJXdVhyazlmTHhhVjJvVFdPVFdNeXJQQ1dBQWJ0M2l2R3dsVXBPa2d4R2lK?oc=5",
-     "t_id": "Analisis – Para ilmuwan mempelajari lebih lanjut tentang wabah virus Ebola yang langka di Kongo"
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTzl3UmY2T2h3ZWFwRlFPSEQ5cWF5MkNCOW55cFpFazNrZ3lHQlJHOExIWnBjN2x4am5DZnIyWlRseS1ZNDBFYnNhcktSU1lXSnBSc2xqTExYbDlVeWpPdlJfX1M1MEZScnVxdzZkMlkxbUxoWURIMlJ5WlJ1SGRqcnViNUtOVHNWOV9zeVlhQ1Z4dzB4X0JIejVWV2luZ2theGN5dkdUTU91MUVuNkE3WGt5RE40Vk5QZkJxcWRnbHd5UUVkdTkxazNCU0lRdFJSTjJpMUE2eWdEZEVRbDhxUzdzMng?oc=5",
+     "t_id": "Kepala intelijen Jay Clayton mengatakan kepada masyarakat Amerika bahwa akan ada lebih banyak 'benjolan di jalan' seiring dengan peningkatan sistem setelah gelombang pemadaman listrik"
     }
    ],
-   "title_id": "Wabah Ebola di Kongo Terkait dengan Limpahan yang Berkelompok Dekat Garis Silsilah 1976"
+   "title_id": "Warga Amerika diperkirakan akan mengalami lebih banyak pemadaman dan gangguan teknologi ketika perusahaan dan lembaga pemerintah menggantikan sistem yang sudah tua, kata pejabat tinggi intelijen AS pada hari Minggu. Baca selengkapnya: https://www.gmanetwork.com/news/topstories/world/1010445/us-i"
   },
   {
-   "id": "transportasi-202611221057-2784",
+   "id": "transportasi-202611221057-dad9",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Brussels Airport cancels flights as Belgium strike shuts air traffic control",
-   "src": "Beinsure",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGZ1dzJJUnVTTWp3QTZ2cURKczVsVWZtUjROOUxWN01EWk13cndFU3pjY3VSYWpJb0I3VzNROU9LMVYybERDcDZVU2hzakYwNHFkLUl6MHpPV3Fhbk0xS1hTWXZSQ2ZWcGZDeEpVSkZPa0JFMkdIR3I0bHR4TW1mekxrZw?oc=5",
+   "title": "More Than 1,800 Delta Flights Delayed Before Thanksgiving",
+   "src": "FTN news",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFN6STk5dFY3V2dFX2VEdk5BV003WEdreEI1eUpnY0VsY2ZiYnlDU3dod2RVazZnWndCYThzV2I1WXVDcV8zUzBhNTROVTMwb3Uzc1NIS1ZzRS0wSnJFUkZfdkdBQnpzYnF0RWduUURKN0dCZXZ4X3hpb1pGTjdMemt4RUVXQQ?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
    "first": "2026-11-22T10:57:19Z",
-   "last": "2026-11-22T23:08:37Z",
+   "last": "2026-11-22T23:16:16Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxNYXBMVkhCZnI0NVlPS1ZsSE9QZU9fb1BHSnlrTlprQ0hhSExMYk9QOG51bm9LdldzS2ZqSS0wUjc5ZTE2NXROZk51aGE5MUpJSjh3RXprelhrc2lSZHpGZDY0MXdBbmMyUExNMERZS0dwalc3NG9rVTI0eEdUMDgtNk1ZdGd3UDFsWU9JUVBGLW5uenUzdWNreTF3Y3g0T2lJajd30gGrAUFVX3lxTE1kR3VPemxYbmc2a3VYV25vQjhDTDE2bWJVV2VzWmljZmJLaWtrcllnZVdjTU14Q0hOaUdmb1p4bUI2VHl6c1M5cXdMZ3JXd3N5al9wc3c4cEtScEE5ZzRSWEFTVnVOQ1ZYRjV0alc3Qml2YUJyQTh6VUY0U1hyamc3VFE5V2piangzbWM0NHBYRTVRRGUyMzFuTGdIQmtYU21heEdydUM1ZkYwRQ?oc=5",
-     "t_id": "Penerbangan dihentikan di seluruh Midwest setelah pemadaman sementara di fasilitas kontrol lalu lintas udara Minnesota: FAA"
+     "t": "Thousands of flights delayed across the country after Delta outage triggers chaos ahead of Thanksgiving",
+     "src": "Daily Mail",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjRTdU1Kb0dkYWdPNkM0QXZzbEJYanpZLWs4WDVDVm93cjBIMmZMenZpdnhTaVBUZUViVGlxVURGYUROMjNLWkpGT2FYVzFSd1lvT0Jtak9PVDktelczRlZISWV4NVNVQ29tNGdEd01vSWRtNEtFeW1Ka194NkYyUkVQRzRfSU03anVRNEhFZldGYjjSAZgBQVVfeXFMTm1hYUZTRXRGNG9XaHNCZkJXLWtjQ19TOHpTQUpPMzVuWHpCN3hROXRrTmhuNmxfY0c3OG5rNG8xQW5LUmdrWUo1amkzNXgtQ0dsMV9CMDFVcGUxb08zeGVMTW9MVjJsNjdITGVFVHJyUHlfcFJaak9JMXhqNkwwZWVuY3ZMQUwxOTdJc1lKUDd6X1lYeXBVelU?oc=5",
+     "t_id": "Ribuan penerbangan tertunda di seluruh negeri setelah pemadaman Delta memicu kekacauan menjelang Thanksgiving"
     }
-   ]
+   ],
+   "title_id": "Lebih dari 1.800 Penerbangan Delta Tertunda Sebelum Thanksgiving"
   },
   {
    "id": "siber-202611221057-dda9",
@@ -435,30 +346,6 @@
     }
    ],
    "title_id": "FAA mencabut ground stop pada penerbangan Delta menuju Atlanta setelah sistem padam"
-  },
-  {
-   "id": "perang-202611220628-81a1",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "What We Know About the Russian Missiles and Drone That Fell in Poland",
-   "src": "Around Prague",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNODA5NWZ1aWNXcEZZRGcxVzJQWFdQMmJHMkI5REtwTFJPYkZpd0xRSEtKR3ZFVkVlRUNqREFoOTV2Z1dBTU5nU1JZY0lST2x1dWJOOG9QSm5saFpjc2xHRk5HRzNfZ0VPUEYwWjh5dVhLUWh2RTRpYTBxUFQ0aWFsRFlUMzdHQjV0NVNjbGdDTHAyM0h4ZUZkS0VGdmlod29xUzcyOXJmRFl3Z0k?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-22T06:28:30Z",
-   "last": "2026-11-22T14:54:27Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Poland says Russian missiles hit its territory; Trump calls it a mistake",
-     "src": "The Washington Post",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5",
-     "t_id": "Polandia mengatakan rudal Rusia menghantam wilayahnya; Trump menyebutnya sebagai sebuah kesalahan"
-    }
-   ]
   },
   {
    "id": "indonesia-202611220720-61fe",
@@ -509,29 +396,54 @@
    "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
   },
   {
-   "id": "perang-202611220037-4aa9",
+   "id": "perang-202611220254-5022",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Two killed, 10 injured as Russian missile strikes building in Ukraine’s Lviv",
-   "src": "ANI News",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGJydTlSVm9TTXdQa3ItcW9Bd3owOG9ENkFPMmMxSEtBekFTSjZDWlFHUERzeEtadFRWa2RQdnREcDZnYkxzV0pBRGxSWlQ0S1hhN2NJMVJQa016NUMxQkJ4dzhodGlHZmh3TUFVVm81Y3owTVNNenlDcERjejhUUVBiYnJhUFVJUE9XOHhtbTlveERTaG42N0ptbUZ0T0Z2a1lHZ0xmSm91X0k0MmNqSURKcWc5azl3RTM2aGlwTDdKcHJZMXlzdDBQYVZ3UQ?oc=5",
+   "title": "Iran war live: Bahrain reports damage to civilian industrial facility following attack",
+   "src": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-22T00:37:58Z",
-   "last": "2026-11-22T06:07:00Z",
+   "first": "2026-11-22T01:25:17Z",
+   "last": "2026-11-22T09:00:05Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Russian Missile Attack on Zelensky’s Hometown in Central Ukraine Kills Two, Wounds Dozens",
-     "src": "Breitbart News",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxIQkNZT3NodnN2Z2FFNVczeTlOMTlJR0xBU1A5WTdVMzhqNkVGd1V4OWJWUnVHZXlRb2xkMS1STkpkUFVTUzJDMFc3RmpMMzZLWTE5RTRiSjBiN04wVVJVYVRSY3pIOGxwUkhJM21JQ0ZDODJhQzlkYU5uSnU3bzNob1J4anktb0pNcmgzRW83aVR6VURlbHRmWWVsdVJINHl2c2k1c0FKaHJpVWdNRGFybEVWNExlTks2eW1IYWxNVDdCYXVvYlc1THg?oc=5",
-     "t_id": "Serangan Rudal Rusia terhadap Kampung Halaman Zelensky di Ukraina Tengah Tewaskan Dua Orang, Lukai Puluhan Orang"
+     "t": "Bahrain Attacked Again As Iranian Missile-Drone Attack Targets US Military Positions, Civilian Industrial Facility Hit",
+     "src": "The Daily Jagran",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbUt6d1hZZTZwakNlQ0Qtc25wRnJOdVFwa1VKay1OREF3U1VFQlBqTjktQUFIcWw2OThqWTQ2NFBjb1N5Q2MwUmJjVTRZOHgxaWpuSE1CQTEzUHJLcGRfZGkyOWtfRWxtYl9tY0l1SlczZjZEMG45ZWwxUzVZNDJ3UDFrOHUwRTlPMWF6LVBRUFJZbjZKaWZmelEzZUFmY0Y3Q205bERjaHBjbkJIekJZcGMzQWUxSThscHlRVGZpY3FDc29Vck1weTlMV0ZXTWdNN2Z1Nkg5blU3ZVRmdnk0WmhQNU9jTGU5UF9RUkZIZ0RPWFRpLXBFN9IB_wFBVV95cUxQOTBMTGtrZktNVnd6TXpHeWp6NG1DR2h0Rzl6NWVWZjVWQTkwLWJOTlQ5M3MtR18zNXpveFRHTkNyNDdLSW5ManozdGpvTjlfdmpONEgzTndrdFJwN2ZhektQTFJqQnB2bG1JUE0xWTQwMzlaNHp0SFJxdDZENWg2TXJKSlRWaEtxYzlJSjdmTVhOZWllNjZPdVVEWEIzWG5sYU9zZkl4Z3l4YVRIeFNqYTIzRUozcVFveEhla0V1ZkRaWndfMHBZZVNtNmt0eWdiX3RzVTZQZlljT1NxczQ3eWduVEl2a1lWams2RjI5akJuQ3JuZkVydG9IUG80UEk?oc=5",
+     "t_id": "Bahrain Menyerang Lagi Saat Serangan Rudal-Drone Iran Menargetkan Posisi Militer AS, Fasilitas Industri Sipil Terkena"
     }
    ],
-   "title_id": "Dua tewas, 10 luka-luka akibat serangan rudal Rusia di Lviv, Ukraina"
+   "title_id": "Perang Iran langsung: Bahrain melaporkan kerusakan pada fasilitas industri sipil setelah serangan"
+  },
+  {
+   "id": "kesehatan-202611220031-e4d5",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Ebola outbreak update as of November 19",
+   "src": "Outbreak News Today",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFJPRm5TTkZuUklhMDN5R04tb0V1R0xlZk9sN1NZNzRvUk1saEsxSUYyM2tidThjMFlLdTRteldrbmYzaTAzdnU3MTUtZXRfOUhNQ3AtbTM4M3BWb0FkVnJnNlZlOTF0eFJWemdmRDlLVWIzU2xQSVRveEplOEszTnlBdEh4dDgt?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-22T00:31:52Z",
+   "last": "2026-11-22T05:49:35Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Analysis – Scientists are learning more about the rare Ebola virus in Congo outbreak",
+     "src": "Sight Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1VBbVpwMUxDYVFwaDRJaHdQS0I5dWl3REhPWkRMMEhEMmFyTjczZURzSC02VGZQaGdEWnZVRHJYRlJLN05YZWV3a3JiRklTY051b1p6aDlFYk5nQkVfWWpiNWhTNkV5UHQ3TTM2RXF1MGxLSjJFZ1NQMGotSzk2dE1rR2ZMQXpvR1dXWFJXdVhyazlmTHhhVjJvVFdPVFdNeXJQQ1dBQWJ0M2l2R3dsVXBPa2d4R2lK?oc=5",
+     "t_id": "Analisis – Para ilmuwan mempelajari lebih lanjut tentang wabah virus Ebola yang langka di Kongo"
+    }
+   ],
+   "title_id": "Update wabah Ebola per 19 November"
   }
  ],
  "errors": []
