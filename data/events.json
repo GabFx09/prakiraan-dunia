@@ -1,49 +1,7 @@
 {
- "updatedAt": "2026-11-23T17:40:43Z",
+ "updatedAt": "2026-11-23T17:55:24Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
-  {
-   "id": "transportasi-202611221510-2b9b",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Delta flight delays add to concerns about US air travel systems",
-   "src": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3duTmV4V1lXY0d1bWJtWE9PdG9ZeVJIcy04MUNsN1VlUlU5bFlwdHJhczN2OFZHNTVzN1pXcER2S1lYUFZpTlVFYmVQYVBJRkJJVG9UUVFFbmVvVll5UFRqYl9XbTF4Qnh2MVZRbVdleXJyZG5wSlc2YnBvV0s0c0JzLXA?oc=5",
-   "sources": 10,
-   "recent6h": 1,
-   "score": 10.5,
-   "level": "besar",
-   "first": "2026-11-22T14:45:15Z",
-   "last": "2026-11-23T17:35:59Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Delta Air Lines Battles Operational Disruption After Weight-and-Balance System Outage, Nearly 2,100 Flights Delayed Ahead of Thanksgiving",
-     "src": "FL360aero",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONUswY1dVaENVZmZhQXRiZ2M5XzVfTDFYOTA5Ty1uQ0ZlXzFqR0phalVQMDFRVmNKVTh2bkxVVzFxSzA1dGNROUVDOHh6b0NEdm11Q2RISldLMzZKWWN1aVN4Z3JKbWJ0UDNiM0VrSG1iVW1Md25PUmxYZnNqT0dHWFNzU29vZkIyWkJ6OWY5YVpCcWtSV0pBcVhlWUhUVWxBcGxnc0s4Z0V2c3hXdWdIdFJkTDdPenJqZW5mb0c2Rlk1QWoxazY1NktHTnV2ZWJkNV96djNZYzRNNk5QN0pobmQySFdNUHdRM1FLbzAwZDBpeGxDM1VES1lJckJWdUU?oc=5"
-    },
-    {
-     "t": "Delta System Outage: 1,600+ Flight Delays Hit Thanksgiving Travel",
-     "src": "Travel Tourister",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTy1ZUElWT1JGS0hNdUUtQTg2Z2VIU0l0WmpPYXRFUHNaa2FrcS1SeFFaamJSSnlvTmh4X3BHNWdLUm9YWDZtOWRac1NsdXJkdXpvSUJlS3lwblg4WkJwZmxPQTdwY0VXMHVpN0pTLU9HNXpGM1c3akFMb2ZrYS1vQ0NWZ1ExdFFOMGt2VmpFTmdEZXFUNEJXVkZScjRTREJ5Q2J5WFVfWGpfRU1oUmFSMDkyYTRfbkVZSGItU0c3Z0xoLTd1RjRuTldtQlUyX1FOU2pUR2pRZFBoX21ScHVyS1ZiQnlYQ2hT?oc=5",
-     "t_id": "Pemadaman Sistem Delta: 1.600+ Penundaan Penerbangan Terjadi pada Perjalanan Thanksgiving"
-    },
-    {
-     "t": "Delta Air Lines flight delay worsens though technical issue resolve",
-     "src": "chinadailyhk",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xTFduN0E3X3pRTVJNSTRNQnBhX0ZjaTlTa3lQUVJERVVKSEF1Znh2NUVfTkk4ZG0xcUtPMWZ2eU9GZ0dtT0ZXM243dV9qZGpQTFU1SElLX0Q?oc=5",
-     "t_id": "Penundaan penerbangan Delta Air Lines semakin parah meskipun masalah teknis telah teratasi"
-    },
-    {
-     "t": "Hundreds Of Delta Air Lines Flight Delayed Due To Technical Issue",
-     "src": "BusinessToday Malaysia",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWpvY0k5TzBiSUpLRG1aMmFTb3lzVUpadTlJbmVFZUFWeTRGY3FDemd2SDQ5eWF3UFdzM0tWVTJFTExiUW9EVFpKQXJMQVktR1g4QnhnendnWnJ2dkt1N214M2JVTXdOTnU5NXBxNWY1ZnpWeFRkUGpXbzF4UGZfcVFOeUM0WmJMQVo3VkxqUGtaQnkyWExmM1I4UkNYd1NpU1o1NUplWlhGLUZtMTVF?oc=5",
-     "t_id": "Penerbangan Ratusan Delta Air Lines Tertunda Karena Masalah Teknis"
-    }
-   ],
-   "title_id": "Penundaan penerbangan Delta menambah kekhawatiran terhadap sistem perjalanan udara AS"
-  },
   {
    "id": "perang-202611230307-a110",
    "cat": "perang",
@@ -63,7 +21,8 @@
     {
      "t": "Satellite images capture Ukrainian naval drone strike on a Russian warship in Libya, over 1,000 miles away from the war",
      "src": "Business Insider",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
+     "t_id": "Citra satelit menangkap serangan drone angkatan laut Ukraina terhadap kapal perang Rusia di Libya, lebih dari 1.000 mil jauhnya dari lokasi perang"
     },
     {
      "t": "Fire Spreads to Residential Building in Central Kyiv After Drone Attack",
@@ -82,6 +41,45 @@
      "src": "PennLive.com",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1FURDEtN0xmMGxCRV9pYjFaV3VfSG4xaEN2QjJzN1RIS3ByQjFzMU1IcDBFRFdZbXJMTklISk53VnBFWUFrUkYzMmhfai1PazJfMkRldzFacUs0Q1FsdVpqQUtzNHNOWVpLRllHOWtiLTJ4Z0ZEazFMN0poZl8xbXRWbG1BUTdHTzVtenp4UlB3dGlMamItdTBWa0Y5QzNseGIwdi1HWWJpRTFYYnJYNTIxM2czNHphdVlQenpPY0FvblU?oc=5",
      "t_id": "Drone Ukraina menyerang kapal perang Rusia di pangkalan angkatan laut Libya, kata Zelenskyy"
+    }
+   ],
+   "title_id": "Bagaimana serangan drone Ukraina terhadap kapal Rusia terjadi"
+  },
+  {
+   "id": "indonesia-202611231318-2267",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Bareskrim Ungkap Temuan Mengejutkan di Kasus Makar, Eks Kapolri Listyo Sigit Cs Bekingi Demo Besar",
+   "src": "VIVA.co.id",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTjdmeEhYeDJtZmNKVE9MYnppYnM5MEEtR1BXbUs3dTBOcWJlY1FtVi1XWl9abXlEZXkxTDV4SGZzQm9lZjFLV1hNYmlzMGs3TGlsVDl6YTAzQXBQcHVHVUUzRDQ5anlBZ0VSTWszRE9FNGpCbE5fSDlhM3Izc19IWnBibTczWXpjcF9DM2s5Q3VoZ1dndDEyZ28tVC1TektsODlWbFg5a1ZXVVExdGtsM290SlVpaklVeGN3YzQ0UVdpbjRJQ3czbjdOcTVkME1KMEM5SlFlVFg0NC1k0gHiAUFVX3lxTFB4VEFlWllReWZtYlB1LTB2OThfY01qZEhPWm45QzVoY19QOG9hc25CX0pqeURvT3publEzYjZxa1VCLUhqT014UEFqcHFrX3NYTXVxMUk3ekJYRWV5bGxvLXVIZlB5WXVnVnFtV3NmYkxCWTVUUjZTTDZiMkxsbEtSWmYwcFkyQWJJS3pVZHNxMjVUOHRnczNfbzRvRmZfTlZzT2xvMEx1SGdQdDUzUG1mUjZneDl3bG5hRUNLQjlDUFgtakt6Z3U0TE1XaG9KbU1xUjZEaHA2QURwMkZEczN3aUE?oc=5",
+   "sources": 5,
+   "recent6h": 5,
+   "score": 7.5,
+   "level": "sedang",
+   "first": "2026-11-23T13:18:00Z",
+   "last": "2026-11-23T17:50:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Listyo Sigit Terhubung dengan Demo Besar, Ahrie Sonta Gerakkan Massa, Iman Pesan Kaos Salam 3 Jari",
+     "src": "Tribunnews.com",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWnNsUHZmSF8wZXJLVzE3TlZnVmoxaEw4bjJYeEtjYmh4VDhMVnpiTVBLcXdBUmctdm1mSDRVelBIdlVTclFyUVlucnNxYzNtbDVhLVVRZnpKYnJOSWtGbnY1VTJQc19taHRjeUMxYmwyVmZyMlJjZWVKdmpfanhJQnZMN0toN0VIeThnbldpbEZkTFo0NTRjbVhNcVd6NWQ1Z1ZtQmhjclcya0FrdEtfRFN3VDVwR25jQk92cDU0Q0pNbnFnMGFCekdqYWVfWWRpUzU0TnlDTQ?oc=5"
+    },
+    {
+     "t": "Listyo Sigit Cs Diduga Terlibat Sejumlah Aksi Demo Besar, Ini Penjelasan Polri",
+     "src": "PEWARTA",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmJQWUVIRzdHREU0NXBWMmVyWWpxTlBfbkVyc0E1NFdaWldJWjZaNmgtVmg2d2tyclFmVXZNVU9vdzZ2WWtuZk1CSVhVZGhONEhlZDNDY2ZkeDQxazJSTDlKcW5LZDJXTDRVVXBhQTQwTXNaTmRQZF8weFhCT0NqYjZCcGphN2NidGpOOFpwTlhkSUU1OEhBbzZMRGlJQ0NWNlRpbWV5aGJjeVBVa04tYjEyaEgwN1U?oc=5"
+    },
+    {
+     "t": "6 Tersangka Makar Disebut Terlibat Demo Besar, Nama Listyo Sigit Masuk Daftar",
+     "src": "MerahPutih",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDdvaEs2QzhrVENLRko4Y0kyclBrVmJlZkhsMy1pVEk1RDFGUlNlUkdBMTl3N3VUYmdzbmowT1hnN2tDbk11STQtLXNmQ19hX2otc09fck8xUW9pZEpweEhuYlR5eHd3Mk1wVmtJYXlHRlpQSnNwNkloYnhNX0REbk1OOUNXX0ZLMnFiVGhmZG03ZEpUWU85NmFMU1d5SFJ3UkNJd09ydGk4SkpjYVNndUR6NNIBsgFBVV95cUxQQzI4ZFFQUXd6VllTNzQ1SzVvMnotQk1ybHhBc1ZhdHZzUnBrRjRuenB4Ti1kV1NzWExESk4yV3B3TGp6T0hrNXA1ay1JVEFIbGItOHJYeXNTSURaX0J1WU50Sm1NVzhTTXVuTXVhMENrVng0VWRBVlluMGpnTXBEMzZYZjh6UmgwLURsd0Y2dlN3YlBZUW1tM2JpbWw4ZEhjV29OOTF6dWNRSkJrS3VlZWV3?oc=5"
+    },
+    {
+     "t": "Polri Sebut Jenderal Listyo Sigit dan Lima Perwira Terlibat Aksi Demo Besar di Indonesia",
+     "src": "Inilah.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakNHTFFjME5KQjBYbDAyc2I2YTJzQmVTZllJX3gzM0dfQlVtN2tOR2pjVmFVaU4ybkQyemczaG9ualJKRmFBcktOeWYySXNRMGdLMVFTMUoxZzE5TFNTaU1Va2JGVVFfTDJiNklvdFdhelJWUHZTV3lyMDI4ZTB6SldUZHZKZUQzcEVQV0V3c3dtdnphYTl0MDJaQUNzeHhQdy1IZHlWWUJiakh5TlVvZw?oc=5"
     }
    ]
   },
@@ -125,76 +123,51 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa19EX0szUDlDYm1fbElCUEYzQUpDZlBKeGxMUHhKYzE2V3NzZmVvTFl5V19XLUMwWkhiLU9YczFuNnZ6SUFPNkR5ZzM2dzRrVkdMMENJaUNlWlA1bXl2QXBmZVhidVdvUmdvSkVMbkdXa2ZseHhyNTFzbUQ1REhpaUVNSG9rZU5xZThPTGs1RlFQRlc0XzlVYXRnY1UyUQ?oc=5",
      "t_id": "Presiden Microsoft Memperingatkan akan Lebih Banyak Gangguan Teknologi dalam Beberapa Bulan Mendatang"
     }
-   ]
+   ],
+   "title_id": "Kepala Intelijen AS mengeluarkan peringatan kepada warga Amerika untuk bersiap menghadapi pemadaman teknologi lebih lanjut"
   },
   {
-   "id": "indonesia-202611231318-2267",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Listyo Sigit Terhubung dengan Demo Besar, Ahrie Sonta Gerakkan Massa, Iman Pesan Kaos Salam 3 Jari",
-   "src": "Tribunnews.com",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWnNsUHZmSF8wZXJLVzE3TlZnVmoxaEw4bjJYeEtjYmh4VDhMVnpiTVBLcXdBUmctdm1mSDRVelBIdlVTclFyUVlucnNxYzNtbDVhLVVRZnpKYnJOSWtGbnY1VTJQc19taHRjeUMxYmwyVmZyMlJjZWVKdmpfanhJQnZMN0toN0VIeThnbldpbEZkTFo0NTRjbVhNcVd6NWQ1Z1ZtQmhjclcya0FrdEtfRFN3VDVwR25jQk92cDU0Q0pNbnFnMGFCekdqYWVfWWRpUzU0TnlDTQ?oc=5",
-   "sources": 4,
-   "recent6h": 4,
-   "score": 6.0,
-   "level": "sedang",
-   "first": "2026-11-23T13:18:00Z",
-   "last": "2026-11-23T17:29:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Listyo Sigit Cs Diduga Terlibat Sejumlah Aksi Demo Besar, Ini Penjelasan Polri",
-     "src": "PEWARTA",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmJQWUVIRzdHREU0NXBWMmVyWWpxTlBfbkVyc0E1NFdaWldJWjZaNmgtVmg2d2tyclFmVXZNVU9vdzZ2WWtuZk1CSVhVZGhONEhlZDNDY2ZkeDQxazJSTDlKcW5LZDJXTDRVVXBhQTQwTXNaTmRQZF8weFhCT0NqYjZCcGphN2NidGpOOFpwTlhkSUU1OEhBbzZMRGlJQ0NWNlRpbWV5aGJjeVBVa04tYjEyaEgwN1U?oc=5"
-    },
-    {
-     "t": "6 Tersangka Makar Disebut Terlibat Demo Besar, Nama Listyo Sigit Masuk Daftar",
-     "src": "MerahPutih",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDdvaEs2QzhrVENLRko4Y0kyclBrVmJlZkhsMy1pVEk1RDFGUlNlUkdBMTl3N3VUYmdzbmowT1hnN2tDbk11STQtLXNmQ19hX2otc09fck8xUW9pZEpweEhuYlR5eHd3Mk1wVmtJYXlHRlpQSnNwNkloYnhNX0REbk1OOUNXX0ZLMnFiVGhmZG03ZEpUWU85NmFMU1d5SFJ3UkNJd09ydGk4SkpjYVNndUR6NNIBsgFBVV95cUxQQzI4ZFFQUXd6VllTNzQ1SzVvMnotQk1ybHhBc1ZhdHZzUnBrRjRuenB4Ti1kV1NzWExESk4yV3B3TGp6T0hrNXA1ay1JVEFIbGItOHJYeXNTSURaX0J1WU50Sm1NVzhTTXVuTXVhMENrVng0VWRBVlluMGpnTXBEMzZYZjh6UmgwLURsd0Y2dlN3YlBZUW1tM2JpbWw4ZEhjV29OOTF6dWNRSkJrS3VlZWV3?oc=5"
-    },
-    {
-     "t": "Polri Sebut Jenderal Listyo Sigit dan Lima Perwira Terlibat Aksi Demo Besar di Indonesia",
-     "src": "Inilah.com",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakNHTFFjME5KQjBYbDAyc2I2YTJzQmVTZllJX3gzM0dfQlVtN2tOR2pjVmFVaU4ybkQyemczaG9ualJKRmFBcktOeWYySXNRMGdLMVFTMUoxZzE5TFNTaU1Va2JGVVFfTDJiNklvdFdhelJWUHZTV3lyMDI4ZTB6SldUZHZKZUQzcEVQV0V3c3dtdnphYTl0MDJaQUNzeHhQdy1IZHlWWUJiakh5TlVvZw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611221653-0242",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "transportasi-202611221900-5254",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Delta Outage Delays 1,600+ Flights Before Thanksgiving",
-   "src": "shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
-   "sources": 4,
-   "recent6h": 3,
-   "score": 5.5,
-   "level": "sedang",
-   "first": "2026-11-22T16:53:24Z",
-   "last": "2026-11-23T16:01:47Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "title": "Delta Air Lines Battles Operational Disruption After Weight-and-Balance System Outage, Nearly 2,100 Flights Delayed Ahead of Thanksgiving",
+   "src": "FL360aero",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONUswY1dVaENVZmZhQXRiZ2M5XzVfTDFYOTA5Ty1uQ0ZlXzFqR0phalVQMDFRVmNKVTh2bkxVVzFxSzA1dGNROUVDOHh6b0NEdm11Q2RISldLMzZKWWN1aVN4Z3JKbWJ0UDNiM0VrSG1iVW1Md25PUmxYZnNqT0dHWFNzU29vZkIyWkJ6OWY5YVpCcWtSV0pBcVhlWUhUVWxBcGxnc0s4Z0V2c3hXdWdIdFJkTDdPenJqZW5mb0c2Rlk1QWoxazY1NktHTnV2ZWJkNV96djNZYzRNNk5QN0pobmQySFdNUHdRM1FLbzAwZDBpeGxDM1VES1lJckJWdUU?oc=5",
+   "sources": 6,
+   "recent6h": 1,
+   "score": 6.5,
+   "level": "besar",
+   "first": "2026-11-22T19:00:08Z",
+   "last": "2026-11-23T17:35:59Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
-     "src": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzVHbXI1MkdQTjhQRHZXNmpTcC1UZHlGcWRJWnZiUkhEZmotR2xZbUU4c0ZHRmh3Z0Uzdkt4eGxGakczam9zYzA2RnpBWmpzTnNPNE42cWxIYl92bFA4c1lDNUNpWUNaY0h2eUREdG9DT25qSnhEM0NFV2hCRjBpaS1rUHctb0ZmaDlyZm5ibmFlOFV4VVpz?oc=5",
-     "t_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
+     "t": "Delta Air Lines flight delay worsens though technical issue resolve",
+     "src": "chinadailyhk",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xTFduN0E3X3pRTVJNSTRNQnBhX0ZjaTlTa3lQUVJERVVKSEF1Znh2NUVfTkk4ZG0xcUtPMWZ2eU9GZ0dtT0ZXM243dV9qZGpQTFU1SElLX0Q?oc=5",
+     "t_id": "Penundaan penerbangan Delta Air Lines semakin parah meskipun masalah teknis telah teratasi"
     },
     {
-     "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
-     "src": "Everett Post",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUlHNWRaYkpXSzAzY2xpYTlWSWFBWXNLeXVJY2xCMVBtRDg1YkQ5N3VDMFJtYVVKalJBLTZ2S0N2U0F1Ym9CcGh2NTRPYlZUZkw3dEs3QlE2cFlRckVxMmU4RGJzeUptcE9nNVJab3FaOHAzYjREdjd4M0dFSllCRXNRWFB4YmJCNnFtQXJwem9IRzFGcTBkdkRoZlotb0pheUFiLQ?oc=5",
-     "t_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
+     "t": "Hundreds Of Delta Air Lines Flight Delayed Due To Technical Issue",
+     "src": "BusinessToday Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWpvY0k5TzBiSUpLRG1aMmFTb3lzVUpadTlJbmVFZUFWeTRGY3FDemd2SDQ5eWF3UFdzM0tWVTJFTExiUW9EVFpKQXJMQVktR1g4QnhnendnWnJ2dkt1N214M2JVTXdOTnU5NXBxNWY1ZnpWeFRkUGpXbzF4UGZfcVFOeUM0WmJMQVo3VkxqUGtaQnkyWExmM1I4UkNYd1NpU1o1NUplWlhGLUZtMTVF?oc=5",
+     "t_id": "Penerbangan Ratusan Delta Air Lines Tertunda Karena Masalah Teknis"
     },
     {
-     "t": "Delta Outage: What Caused Sunday’s Nationwide Delays",
-     "src": "The Aviation Hub",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXpRSnlmRE92WFRCU0lQX09FWnhQVHJrMEZEZWhpaS1PRlgxN1pBaTZZUk9HdXRXQTV0OGVieFJvYzJ2SkNkbjVvWm9ub05paktqamYxRFVCN210Z3VKdlVZeEFCVkJGVUhjeWR2Wm1RR2tHcGVpNkxSZXdTNFJ5eVhoMzIzV00?oc=5",
-     "t_id": "Pemadaman Delta: Penyebab Penundaan Nasional pada Hari Minggu"
+     "t": "More Than 1,800 Delta Flights Delayed Before Thanksgiving",
+     "src": "FTN news",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFN6STk5dFY3V2dFX2VEdk5BV003WEdreEI1eUpnY0VsY2ZiYnlDU3dod2RVazZnWndCYThzV2I1WXVDcV8zUzBhNTROVTMwb3Uzc1NIS1ZzRS0wSnJFUkZfdkdBQnpzYnF0RWduUURKN0dCZXZ4X3hpb1pGTjdMemt4RUVXQQ?oc=5",
+     "t_id": "Lebih dari 1.800 Penerbangan Delta Tertunda Sebelum Thanksgiving"
+    },
+    {
+     "t": "Delta Weight-and-Balance System Outage Prompts FAA Ground Stop for Atlanta-Bound Flights Ahead of Thanksgiving",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MlR5R2czR3QyVmItSkFSWlRoOEJPMjAtSl9IeG15TEYzaGx3amZFMGdCWjQwLUw1TWJfSlc5RXpTTEphOEFuYmIteGVUbkpQamVpWXNFWGpIUWc3bE5zbjJIM1Q4YWVrOU5oMzBJcU5sVk0?oc=5",
+     "t_id": "Pemadaman Sistem Berat dan Keseimbangan Delta Mendorong FAA Ground Stop untuk Penerbangan Tujuan Atlanta Menjelang Thanksgiving"
     }
-   ]
+   ],
+   "title_id": "Delta Air Lines Memerangi Gangguan Operasional Setelah Sistem Weight-and-Balance Padam, Hampir 2,100 Penerbangan Tertunda Menjelang Thanksgiving"
   },
   {
    "id": "politik-202611222344-e09b",
@@ -257,6 +230,68 @@
     }
    ],
    "title_id": "Bandara Brussels Tutup Hari Ini: Air Canada Menawarkan Fleksibilitas, Tidak Ada Penerbangan BEL"
+  },
+  {
+   "id": "perang-202611222002-7543",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Is it safe to travel to Saudi Arabia? The latest advice as the kingdom continues to face drone and missile attacks",
+   "src": "Condé Nast Traveller Middle East",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaE93ejFzNUN5Y05ESzF3ckh6bW1oYnBmMElkeTEyT1lTZUVNSE9lZl9FMnFSMC04TmlZOG9BOEZfd2FRM1QwZVhhd1A1bjRwYnAxNDVrNDV4dUt5c1ZMbW1HMGlmZWdEUGRjbXRIZkhPTlgxc21qZEJfRHZHNkc2R2xjUktTV3BwMk12Zk9PWXU3UXg0QWxjZzdvb2Z0eUYwZC02U0ROTHNFVGVMTWhVb0tyWDdLM2VPREpoeE11Y3ZZVDUyV1JYT3ZnSTd3NWdyNTNMRmNFZ3pzNzNGZ3E2T2ZCMA?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-22T20:02:17Z",
+   "last": "2026-11-23T09:25:22Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Trump says Iran unleashed missile, drone surge after midterms",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNGZHR2QzdtY0JPMXh2Q2t2RzF5aFZkRTB2MEQySnE0WXNDTDZ3QlphR0M3dThYSHIyU2ltUkVhNTZsbFVGTGhjLXRNZEk0M01pUnR1OWVNUWRlUEpQeUNLQnJmaGZ2aUNEcDVpMEVsd19McFhmeVhuTkx5dEYxR2xxYWhMcHV0anFQNGthaDVieEhw0gGaAUFVX3lxTE84Qm9RcWFQZl9HN2hlWU8zRUU3dDZtREFoaWdJRDNwLXhDWmo2cVVmekdnYlZsMHczUFlIVDU4RXV2RWtfNzUxNTM1WUJQNEFPTkRNWnZmV1l6ZTIxVnpiWU52YUd0dHpQY1U2c2xGdFg0OWlpM09SWVBGTzRqY3ltUVF3SDdkd1V2Z1EzYi1xZ0JCUEtWTkRIQkE?oc=5",
+     "t_id": "Trump mengatakan Iran melepaskan rudal dan drone setelah pemilu paruh waktu"
+    },
+    {
+     "t": "Iran announces missile and drone attacks on U.S. bases in Bahrain",
+     "src": "Informat.ro",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQmFIaFhfSjNfejF6c0xpM29FYmRFamlLN0lHTVJtckIzdjRLdmRvV19SaTVjeTZZR19qRk9rUnpsUkVFbm1ZU002SGJDNzdrX1pNSXczelNKWEhOZ05YNEo2TzdUSE83MElLeGc5QWlaWXRDenc4Zmh5X3lTaF9DS3UtQ0FUSzE4bWVHU1NqX0pFa2VzcDdGSWNMZjBlNWp1V0Jzc2R6LTh2QVU?oc=5",
+     "t_id": "Iran mengumumkan serangan rudal dan drone terhadap pangkalan AS di Bahrain"
+    }
+   ],
+   "title_id": "Apakah aman melakukan perjalanan ke Arab Saudi? Saran terbaru ini ketika kerajaan terus menghadapi serangan drone dan rudal"
+  },
+  {
+   "id": "transportasi-202611221510-2b9b",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Delta flight delays add to concerns about US air travel systems",
+   "src": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3duTmV4V1lXY0d1bWJtWE9PdG9ZeVJIcy04MUNsN1VlUlU5bFlwdHJhczN2OFZHNTVzN1pXcER2S1lYUFZpTlVFYmVQYVBJRkJJVG9UUVFFbmVvVll5UFRqYl9XbTF4Qnh2MVZRbVdleXJyZG5wSlc2YnBvV0s0c0JzLXA?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-22T14:45:15Z",
+   "last": "2026-11-23T07:44:16Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Delta System Outage: 1,600+ Flight Delays Hit Thanksgiving Travel",
+     "src": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTy1ZUElWT1JGS0hNdUUtQTg2Z2VIU0l0WmpPYXRFUHNaa2FrcS1SeFFaamJSSnlvTmh4X3BHNWdLUm9YWDZtOWRac1NsdXJkdXpvSUJlS3lwblg4WkJwZmxPQTdwY0VXMHVpN0pTLU9HNXpGM1c3akFMb2ZrYS1vQ0NWZ1ExdFFOMGt2VmpFTmdEZXFUNEJXVkZScjRTREJ5Q2J5WFVfWGpfRU1oUmFSMDkyYTRfbkVZSGItU0c3Z0xoLTd1RjRuTldtQlUyX1FOU2pUR2pRZFBoX21ScHVyS1ZiQnlYQ2hT?oc=5",
+     "t_id": "Pemadaman Sistem Delta: 1.600+ Penundaan Penerbangan Terjadi pada Perjalanan Thanksgiving"
+    },
+    {
+     "t": "Delta Fixes Equipment Glitch Behind Flight Delays",
+     "src": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHNwNGVvOEM2TG5LcVZ1cnpyeWNXbzlnb2tzZG40aF9oUmJaSW5ITlVfLUFjMGVuUXQzTG12eEwtY0VjWmhhdEwwVzVOYUNCYVFVQTNUcnNqRm1wLWZMaFNYc0dyZWtUbnFpemt4R3RIVTMzRUl0Y1dHY1cxcUEtdUlUUS1LcVdUSjRwT1lJdUFHcVk?oc=5",
+     "t_id": "Delta Memperbaiki Kesalahan Peralatan di Balik Penundaan Penerbangan"
+    }
+   ],
+   "title_id": "Penundaan penerbangan Delta menambah kekhawatiran terhadap sistem perjalanan udara AS"
   },
   {
    "id": "indonesia-202611230113-0703",
