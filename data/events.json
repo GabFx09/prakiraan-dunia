@@ -1,7 +1,49 @@
 {
- "updatedAt": "2026-11-23T19:39:13Z",
+ "updatedAt": "2026-11-23T19:53:52Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
+  {
+   "id": "perang-202611230307-1176",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Images Show Before and After Ukrainian Drone Attack on Russian Warship",
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
+   "sources": 7,
+   "recent6h": 2,
+   "score": 8.0,
+   "level": "besar",
+   "first": "2026-11-23T03:07:00Z",
+   "last": "2026-11-23T16:09:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Fire Spreads to Residential Building in Central Kyiv After Drone Attack",
+     "src": "Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQzRYYlRBbFRtdzVRd3gtRzk5dW9VcVhOUVc1QWZsMDJWdHRmZ1JnRlpJMG1oRnZJcktTUVRiX1JhaXBqbFdpd3ZIRQ?oc=5",
+     "t_id": "Api Menyebar ke Gedung Perumahan di Kyiv Tengah Setelah Serangan Drone"
+    },
+    {
+     "t": "Ukraine Just Pulled Off a Drone Attack For the History Books: Kyiv Hit a Russian Navy Warship All the Way in Libya",
+     "src": "National Security Journal",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOFhoYWJreUpmaktSR2dBOFB1WFdiV0NPWGtYYmNNQzlqRmFGMzFzcm15OVZfdGdvQm1vUGtENkNXUFNld1NBUzFpbVNkb1VVbm9EV21iQzE2RTN3VktzLXJmNkdCVTd0UjZCQmduLVpwakN6czRTdE4xYms3RzJLdVJWcFJNbGN1UXJoTDFYTmpDS0xwYnRfcFF0Nmw5T1FfdUJzS1VVVk9TbHd4NG9DRDFEc1E4WUMtakNEMF9FbU4tSi1TN0twZ2FXVk5FTVl5aGRKVFdrc3JEYWU2b0dkdWdYcWg?oc=5",
+     "t_id": "Ukraina Baru Saja Melakukan Serangan Drone Untuk Buku Sejarah: Kyiv Menabrak Kapal Perang Angkatan Laut Rusia Sepanjang Jalan di Libya"
+    },
+    {
+     "t": "Zelenskyy confirms Ukraine was behind drone attack on Russian warship",
+     "src": "Stuff",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXFVaXFqWmYxWXdRZ0VIQ19tTFhqWVdDbjBuMWdHUmJmakxDb200SG5EVE95Y3ZJOHlVYjdSRmN3clBPeUFEYlNlME02Z1JjYUUzODhNbks2b2duTDZGY09WNmxLSGMzWG5mQTdwbDlnV2o3aE5rbDZnWnVHVzktVHZ6RFdaODNXVUlTUzl6cmJ6aExaY1lQOU84bUdSNWdGOXc?oc=5"
+    },
+    {
+     "t": "The destruction of a Russian missile corvette at an African base may have resulted from a drone attack, for which no one has claimed responsibility",
+     "src": "Business Insider Africa",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1M1bTR3Yi1qSTl2dnNPRXNwa2ExekFHczVhYk1GV0VTcXR0Z2JyQjdzZjk0Rk9tWlRUd05lUHRJbkptMHBBSXpBMFI0SE9Lck4tamExblgyRE5GNFdCbk5uMTB3TWY3SXRDeXFoNmpuRlEtS1hsUTFDNFZ5dWFBVGV0NTJCUDZWdUU3X1NFQlBILXM1M2hGejNpSDF6TnduRUJ4eV9SRi1SVjh2aGMtanA5bmQwQ2lWVmhYV0Exd3V5RmtpTDk0VFZIMDJaX01LOVZCaDVB?oc=5",
+     "t_id": "Penghancuran korvet rudal Rusia di pangkalan Afrika mungkin disebabkan oleh serangan pesawat tak berawak, yang belum ada pihak yang mengaku bertanggung jawab."
+    }
+   ],
+   "title_id": "Gambar Menunjukkan Sebelum dan Sesudah Serangan Drone Ukraina terhadap Kapal Perang Rusia"
+  },
   {
    "id": "siber-202611221953-b54c",
    "cat": "siber",
@@ -10,9 +52,9 @@
    "title": "Delta Outage Delays 1,600+ Flights Before Thanksgiving",
    "src": "shattered.io",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
-   "sources": 7,
-   "recent6h": 3,
-   "score": 8.5,
+   "sources": 6,
+   "recent6h": 2,
+   "score": 7.0,
    "level": "besar",
    "first": "2026-11-22T19:53:36Z",
    "last": "2026-11-23T16:01:47Z",
@@ -25,9 +67,10 @@
      "t_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
     },
     {
-     "t": "All the recent mass outages in US as Delta issue snarls Thanksgiving travel",
-     "src": "Yahoo News UK",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iZlBTSDR4N0tBOEZWaWJlc0UxSlZXaTRFMnBCdkp2LXpFQ3N2MnZvbkYwZUphSHlBUm1PWExoMTRZQkRQRHM5WmhKOUxwSXJZazYySFlpRGRWTDlXajh1cTZPOHhrczl0dFk1eDBRM1BkbWZ3dlE?oc=5"
+     "t": "Video Delta outage causes nationwide delays as holiday travel takes off",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ORXhseHVmSlU4MU5MYXdZbUtNNkp3aERUSzlaVXpoeGdueWFXVlEyUzhaSHYzc2xRSGM3WFdHMVdPMTJhVkNOajA3T18?oc=5",
+     "t_id": "Pemadaman Video Delta menyebabkan penundaan secara nasional saat perjalanan liburan dimulai"
     },
     {
      "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
@@ -51,8 +94,8 @@
    "src": "VIVA.co.id",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTjdmeEhYeDJtZmNKVE9MYnppYnM5MEEtR1BXbUs3dTBOcWJlY1FtVi1XWl9abXlEZXkxTDV4SGZzQm9lZjFLV1hNYmlzMGs3TGlsVDl6YTAzQXBQcHVHVUUzRDQ5anlBZ0VSTWszRE9FNGpCbE5fSDlhM3Izc19IWnBibTczWXpjcF9DM2s5Q3VoZ1dndDEyZ28tVC1TektsODlWbFg5a1ZXVVExdGtsM290SlVpaklVeGN3YzQ0UVdpbjRJQ3czbjdOcTVkME1KMEM5SlFlVFg0NC1k0gHiAUFVX3lxTFB4VEFlWllReWZtYlB1LTB2OThfY01qZEhPWm45QzVoY19QOG9hc25CX0pqeURvT3publEzYjZxa1VCLUhqT014UEFqcHFrX3NYTXVxMUk3ekJYRWV5bGxvLXVIZlB5WXVnVnFtV3NmYkxCWTVUUjZTTDZiMkxsbEtSWmYwcFkyQWJJS3pVZHNxMjVUOHRnczNfbzRvRmZfTlZzT2xvMEx1SGdQdDUzUG1mUjZneDl3bG5hRUNLQjlDUFgtakt6Z3U0TE1XaG9KbU1xUjZEaHA2QURwMkZEczN3aUE?oc=5",
    "sources": 5,
-   "recent6h": 4,
-   "score": 7.0,
+   "recent6h": 3,
+   "score": 6.5,
    "level": "sedang",
    "first": "2026-11-23T13:18:00Z",
    "last": "2026-11-23T17:50:00Z",
@@ -79,49 +122,6 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakNHTFFjME5KQjBYbDAyc2I2YTJzQmVTZllJX3gzM0dfQlVtN2tOR2pjVmFVaU4ybkQyemczaG9ualJKRmFBcktOeWYySXNRMGdLMVFTMUoxZzE5TFNTaU1Va2JGVVFfTDJiNklvdFdhelJWUHZTV3lyMDI4ZTB6SldUZHZKZUQzcEVQV0V3c3dtdnphYTl0MDJaQUNzeHhQdy1IZHlWWUJiakh5TlVvZw?oc=5"
     }
    ]
-  },
-  {
-   "id": "perang-202611230307-1176",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Images Show Before and After Ukrainian Drone Attack on Russian Warship",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
-   "sources": 5,
-   "recent6h": 2,
-   "score": 6.0,
-   "level": "sedang",
-   "first": "2026-11-23T03:07:00Z",
-   "last": "2026-11-23T16:09:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Fire Spreads to Residential Building in Central Kyiv After Drone Attack",
-     "src": "Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQzRYYlRBbFRtdzVRd3gtRzk5dW9VcVhOUVc1QWZsMDJWdHRmZ1JnRlpJMG1oRnZJcktTUVRiX1JhaXBqbFdpd3ZIRQ?oc=5",
-     "t_id": "Api Menyebar ke Gedung Perumahan di Kyiv Tengah Setelah Serangan Drone"
-    },
-    {
-     "t": "Ukraine Just Pulled Off a Drone Attack For the History Books: Kyiv Hit a Russian Navy Warship All the Way in Libya",
-     "src": "National Security Journal",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOFhoYWJreUpmaktSR2dBOFB1WFdiV0NPWGtYYmNNQzlqRmFGMzFzcm15OVZfdGdvQm1vUGtENkNXUFNld1NBUzFpbVNkb1VVbm9EV21iQzE2RTN3VktzLXJmNkdCVTd0UjZCQmduLVpwakN6czRTdE4xYms3RzJLdVJWcFJNbGN1UXJoTDFYTmpDS0xwYnRfcFF0Nmw5T1FfdUJzS1VVVk9TbHd4NG9DRDFEc1E4WUMtakNEMF9FbU4tSi1TN0twZ2FXVk5FTVl5aGRKVFdrc3JEYWU2b0dkdWdYcWg?oc=5",
-     "t_id": "Ukraina Baru Saja Melakukan Serangan Drone Untuk Buku Sejarah: Kyiv Menabrak Kapal Perang Angkatan Laut Rusia Sepanjang Jalan di Libya"
-    },
-    {
-     "t": "Ukrainian drones strike Russian warship at Libya naval base, Zelenskyy says",
-     "src": "PennLive.com",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1FURDEtN0xmMGxCRV9pYjFaV3VfSG4xaEN2QjJzN1RIS3ByQjFzMU1IcDBFRFdZbXJMTklISk53VnBFWUFrUkYzMmhfai1PazJfMkRldzFacUs0Q1FsdVpqQUtzNHNOWVpLRllHOWtiLTJ4Z0ZEazFMN0poZl8xbXRWbG1BUTdHTzVtenp4UlB3dGlMamItdTBWa0Y5QzNseGIwdi1HWWJpRTFYYnJYNTIxM2czNHphdVlQenpPY0FvblU?oc=5",
-     "t_id": "Drone Ukraina menyerang kapal perang Rusia di pangkalan angkatan laut Libya, kata Zelenskyy"
-    },
-    {
-     "t": "Ukraine-Russia war latest: Satellite images shows sunken Russian warship after suspected Ukrainian strike off Libya",
-     "src": "Yahoo News UK",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42eXNJMlpiblIyR3dVcDY1TDJYcXB0d0psNllyQlBZTjB1a1BvcElMT3pvVXRXa1g3NHFLTWMyTDh4WUZBVUZzMHlBRzZCbk1fcHdfcG0zTVJROGZDVkZmdE4ydl9mdmQ2Sm00akdUdC1sUjl0VFFLMnMyYw?oc=5",
-     "t_id": "Perang Ukraina-Rusia terbaru: Gambar satelit menunjukkan kapal perang Rusia yang tenggelam setelah dugaan serangan Ukraina di Libya"
-    }
-   ],
-   "title_id": "Gambar Menunjukkan Sebelum dan Sesudah Serangan Drone Ukraina terhadap Kapal Perang Rusia"
   },
   {
    "id": "siber-202611221828-20a3",
