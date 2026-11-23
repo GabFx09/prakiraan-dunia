@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T19:24:37Z",
+ "updatedAt": "2026-11-23T19:39:13Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -160,49 +160,6 @@
    ]
   },
   {
-   "id": "transportasi-202611221510-2b9b",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Delta flight delays add to concerns about US air travel systems",
-   "src": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3duTmV4V1lXY0d1bWJtWE9PdG9ZeVJIcy04MUNsN1VlUlU5bFlwdHJhczN2OFZHNTVzN1pXcER2S1lYUFZpTlVFYmVQYVBJRkJJVG9UUVFFbmVvVll5UFRqYl9XbTF4Qnh2MVZRbVdleXJyZG5wSlc2YnBvV0s0c0JzLXA?oc=5",
-   "sources": 5,
-   "recent6h": 0,
-   "score": 5.0,
-   "level": "sedang",
-   "first": "2026-11-22T14:45:15Z",
-   "last": "2026-11-23T07:44:16Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Delta System Outage: 1,600+ Flight Delays Hit Thanksgiving Travel",
-     "src": "Travel Tourister",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTy1ZUElWT1JGS0hNdUUtQTg2Z2VIU0l0WmpPYXRFUHNaa2FrcS1SeFFaamJSSnlvTmh4X3BHNWdLUm9YWDZtOWRac1NsdXJkdXpvSUJlS3lwblg4WkJwZmxPQTdwY0VXMHVpN0pTLU9HNXpGM1c3akFMb2ZrYS1vQ0NWZ1ExdFFOMGt2VmpFTmdEZXFUNEJXVkZScjRTREJ5Q2J5WFVfWGpfRU1oUmFSMDkyYTRfbkVZSGItU0c3Z0xoLTd1RjRuTldtQlUyX1FOU2pUR2pRZFBoX21ScHVyS1ZiQnlYQ2hT?oc=5",
-     "t_id": "Pemadaman Sistem Delta: 1.600+ Penundaan Penerbangan Terjadi pada Perjalanan Thanksgiving"
-    },
-    {
-     "t": "Delta Air Lines flight delay worsens though technical issue resolve",
-     "src": "chinadailyhk",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xTFduN0E3X3pRTVJNSTRNQnBhX0ZjaTlTa3lQUVJERVVKSEF1Znh2NUVfTkk4ZG0xcUtPMWZ2eU9GZ0dtT0ZXM243dV9qZGpQTFU1SElLX0Q?oc=5",
-     "t_id": "Penundaan penerbangan Delta Air Lines semakin parah meskipun masalah teknis telah teratasi"
-    },
-    {
-     "t": "Hundreds Of Delta Air Lines Flight Delayed Due To Technical Issue",
-     "src": "BusinessToday Malaysia",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWpvY0k5TzBiSUpLRG1aMmFTb3lzVUpadTlJbmVFZUFWeTRGY3FDemd2SDQ5eWF3UFdzM0tWVTJFTExiUW9EVFpKQXJMQVktR1g4QnhnendnWnJ2dkt1N214M2JVTXdOTnU5NXBxNWY1ZnpWeFRkUGpXbzF4UGZfcVFOeUM0WmJMQVo3VkxqUGtaQnkyWExmM1I4UkNYd1NpU1o1NUplWlhGLUZtMTVF?oc=5",
-     "t_id": "Penerbangan Ratusan Delta Air Lines Tertunda Karena Masalah Teknis"
-    },
-    {
-     "t": "Delta Fixes Equipment Glitch Behind Flight Delays",
-     "src": "Wisevoter",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHNwNGVvOEM2TG5LcVZ1cnpyeWNXbzlnb2tzZG40aF9oUmJaSW5ITlVfLUFjMGVuUXQzTG12eEwtY0VjWmhhdEwwVzVOYUNCYVFVQTNUcnNqRm1wLWZMaFNYc0dyZWtUbnFpemt4R3RIVTMzRUl0Y1dHY1cxcUEtdUlUUS1LcVdUSjRwT1lJdUFHcVk?oc=5",
-     "t_id": "Delta Memperbaiki Kesalahan Peralatan di Balik Penundaan Penerbangan"
-    }
-   ],
-   "title_id": "Penundaan penerbangan Delta menambah kekhawatiran terhadap sistem perjalanan udara AS"
-  },
-  {
    "id": "politik-202611222344-e09b",
    "cat": "politik",
    "label": "Guncangan politik",
@@ -311,6 +268,31 @@
     }
    ],
    "title_id": "Apakah AI berada di balik gangguan teknologi baru-baru ini? Pejabat Microsoft dan AS memperkirakan akan ada lebih banyak gangguan"
+  },
+  {
+   "id": "transportasi-202611221510-2b9b",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Delta Air Lines flight delay worsens though technical issue resolve",
+   "src": "chinadailyhk",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xTFduN0E3X3pRTVJNSTRNQnBhX0ZjaTlTa3lQUVJERVVKSEF1Znh2NUVfTkk4ZG0xcUtPMWZ2eU9GZ0dtT0ZXM243dV9qZGpQTFU1SElLX0Q?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-22T14:45:15Z",
+   "last": "2026-11-23T06:13:48Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Hundreds Of Delta Air Lines Flight Delayed Due To Technical Issue",
+     "src": "BusinessToday Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWpvY0k5TzBiSUpLRG1aMmFTb3lzVUpadTlJbmVFZUFWeTRGY3FDemd2SDQ5eWF3UFdzM0tWVTJFTExiUW9EVFpKQXJMQVktR1g4QnhnendnWnJ2dkt1N214M2JVTXdOTnU5NXBxNWY1ZnpWeFRkUGpXbzF4UGZfcVFOeUM0WmJMQVo3VkxqUGtaQnkyWExmM1I4UkNYd1NpU1o1NUplWlhGLUZtMTVF?oc=5",
+     "t_id": "Penerbangan Ratusan Delta Air Lines Tertunda Karena Masalah Teknis"
+    }
+   ],
+   "title_id": "Penundaan penerbangan Delta Air Lines semakin parah meskipun masalah teknis telah teratasi"
   },
   {
    "id": "indonesia-202611230408-c415",
