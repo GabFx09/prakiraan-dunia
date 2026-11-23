@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T08:03:14Z",
+ "updatedAt": "2026-11-23T08:17:54Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -139,14 +139,14 @@
    "score": 5.5,
    "level": "sedang",
    "first": "2026-11-22T06:41:00Z",
-   "last": "2026-11-23T03:07:00Z",
+   "last": "2026-11-23T08:00:19Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Ukraine-Russia war latest: Satellite images shows sunken Russian warship after suspected Ukrainian strike off Libya",
-     "src": "Yahoo News UK",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42eXNJMlpiblIyR3dVcDY1TDJYcXB0d0psNllyQlBZTjB1a1BvcElMT3pvVXRXa1g3NHFLTWMyTDh4WUZBVUZzMHlBRzZCbk1fcHdfcG0zTVJROGZDVkZmdE4ydl9mdmQ2Sm00akdUdC1sUjl0VFFLMnMyYw?oc=5",
-     "t_id": "Perang Ukraina-Rusia terbaru: Gambar satelit menunjukkan kapal perang Rusia yang tenggelam setelah dugaan serangan Ukraina di Libya"
+     "t": "The destruction of a Russian missile corvette at an African base may have resulted from a drone attack, for which no one has claimed responsibility",
+     "src": "Business Insider Africa",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1M1bTR3Yi1qSTl2dnNPRXNwa2ExekFHczVhYk1GV0VTcXR0Z2JyQjdzZjk0Rk9tWlRUd05lUHRJbkptMHBBSXpBMFI0SE9Lck4tamExblgyRE5GNFdCbk5uMTB3TWY3SXRDeXFoNmpuRlEtS1hsUTFDNFZ5dWFBVGV0NTJCUDZWdUU3X1NFQlBILXM1M2hGejNpSDF6TnduRUJ4eV9SRi1SVjh2aGMtanA5bmQwQ2lWVmhYV0Exd3V5RmtpTDk0VFZIMDJaX01LOVZCaDVB?oc=5",
+     "t_id": "Penghancuran korvet rudal Rusia di pangkalan Afrika mungkin disebabkan oleh serangan pesawat tak berawak, yang belum ada pihak yang mengaku bertanggung jawab."
     },
     {
      "t": "Russian ship sinks in Libyan port in suspected Ukrainian drone attack",
@@ -168,6 +168,43 @@
     }
    ],
    "title_id": "Setidaknya 4 orang tewas dalam serangan pesawat tak berawak Rusia di wilayah Kyiv, kata para pejabat"
+  },
+  {
+   "id": "politik-202611220935-be58",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Spain faces snap election with far-right coalition in prospect",
+   "src": "Chosunbiz",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzNXTjNybnh4bUlQVmk2UmJ2SlJVNmcwTDFUc3ozNk9SM1ZLTzRpSHN6eTdSbG9rcDFRT1BlbHYyMmlDQ085YjF2ZmlwMmtzZWxRWkFzSGxnbDFMa1hTRTRJNEhHazZDY0ZpSkZmUGVjaktnanJndmhmaWx6MjNoR1UtQmI0aVhS0gGcAUFVX3lxTFA1Q05fdk1TSjVCbDNnQmI2OFg0ZkFFcWJwZFpsN2dVeGUtdjU0NGJoQ2t3SEhqdGdZS0dnWVhjSm5NOGtFUGFoOElkLUVURFUzZ09UbjQ4UTFfS3p3SnlIUzNQaTNhdzZoOUhEZ3Fyd1NyZ0syN3hnc0dKNlJ0dkh6MTVoa2JndVpad2JUVU9acEdtUmc1SGtidWQtWA?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-22T09:35:24Z",
+   "last": "2026-11-23T06:55:00Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Why Pedro Sanchez Is Betting Everything On Spain's Upcoming Snap Election",
+     "src": "ИФЗ РАН",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVd1eWNSZ0JQRzYxOEJpX3dIQ01Ybk5fMklMbHJoYTVla2xwenZYZDZlbW1QckFXWjFUWUI1NjY5RWFZdkxyMnEtR2xFYnBCcEpDX0lWOURvN2JfdmlMd2ZjNnlyMFBPMjN1dFJ0dHpUdHJ5R1VsUjRYTFhSRmlQUzN5NWU1VExkZkFSQ1Nhbk0?oc=5",
+     "t_id": "Mengapa Pedro Sanchez Mempertaruhkan Segalanya Pada Pemilu Spanyol Mendatang"
+    },
+    {
+     "t": "Spain’s snap election was a huge political gamble. Has Pedro Sanchez opened the door for the far-right?",
+     "src": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkY4d3k0ZzIwb1lBS3lEdThsQVIzNzFkeTRmV3ZZbE5CdUVtS3ZMOU5TTE1aaklmYTBGeFhkMkVLcUFSMTFzelRNSGw5NTN5YnFFMlNYS190a2lwZmJ4TnMxb0c0ak5QeTlzREw1azNvNEtEd3p1NGxKMmdpQU9iT0RUV0NueHpJRU50WmlSeC00MjBsMFU2bG5BRl95Vl95dHpBd3BZZw?oc=5",
+     "t_id": "Pemilu cepat di Spanyol merupakan pertaruhan politik yang besar. Apakah Pedro Sanchez membuka pintu bagi sayap kanan?"
+    },
+    {
+     "t": "Political round-up: Apologies, chainsaws and corruption jibes as Spain enters the final week before pivotal snap election",
+     "src": "Olive Press News Spain",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2NmNVU1eGp6M3kxdUU3YlFHcG5MdXpIWVYydkpqWFVOR1NvUTBsd0RkdTRXQzY3MjVCaXkxQlc3Mi1lWjk2Y1k5WEx1WDd0cjRsUXY0clcxM0twd2M0azMyekpmcktVeTFvcDVySVpod1FPeG1IMFBsRGhTa1pMNEVod1hJOF85SU9LQjRFUjQ?oc=5",
+     "t_id": "Rangkuman politik: Permintaan maaf, gergaji mesin, dan sindiran korupsi saat Spanyol memasuki minggu terakhir sebelum pemilu sela yang penting"
+    }
+   ],
+   "title_id": "Spanyol menghadapi pemilu cepat dengan kemungkinan adanya koalisi sayap kanan"
   },
   {
    "id": "indonesia-202611220720-02ac",
@@ -268,37 +305,6 @@
    ]
   },
   {
-   "id": "politik-202611220935-be58",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Spain faces snap election with far-right coalition in prospect",
-   "src": "Chosunbiz",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzNXTjNybnh4bUlQVmk2UmJ2SlJVNmcwTDFUc3ozNk9SM1ZLTzRpSHN6eTdSbG9rcDFRT1BlbHYyMmlDQ085YjF2ZmlwMmtzZWxRWkFzSGxnbDFMa1hTRTRJNEhHazZDY0ZpSkZmUGVjaktnanJndmhmaWx6MjNoR1UtQmI0aVhS0gGcAUFVX3lxTFA1Q05fdk1TSjVCbDNnQmI2OFg0ZkFFcWJwZFpsN2dVeGUtdjU0NGJoQ2t3SEhqdGdZS0dnWVhjSm5NOGtFUGFoOElkLUVURFUzZ09UbjQ4UTFfS3p3SnlIUzNQaTNhdzZoOUhEZ3Fyd1NyZ0syN3hnc0dKNlJ0dkh6MTVoa2JndVpad2JUVU9acEdtUmc1SGtidWQtWA?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-22T09:35:24Z",
-   "last": "2026-11-23T06:55:00Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Why Pedro Sanchez Is Betting Everything On Spain's Upcoming Snap Election",
-     "src": "ИФЗ РАН",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVd1eWNSZ0JQRzYxOEJpX3dIQ01Ybk5fMklMbHJoYTVla2xwenZYZDZlbW1QckFXWjFUWUI1NjY5RWFZdkxyMnEtR2xFYnBCcEpDX0lWOURvN2JfdmlMd2ZjNnlyMFBPMjN1dFJ0dHpUdHJ5R1VsUjRYTFhSRmlQUzN5NWU1VExkZkFSQ1Nhbk0?oc=5",
-     "t_id": "Mengapa Pedro Sanchez Mempertaruhkan Segalanya Pada Pemilu Spanyol Mendatang"
-    },
-    {
-     "t": "Video | Spain Protests | Protesters Demand Affordable Housing, Better Education Ahead Of Snap Election",
-     "src": "NDTV",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbG1HVlFTc0VYNGUwVklleE1fOEk5cE4zNXhfSm1MLUdVcnNISmFuN1dJdE4zdm5fSzcyRVBZQ0sxajd3ZWtGVU5ILV9uNGxNTXVwNXFKWW5ZMVM1b0NoYU05a3VpRldTeVc0UF9jc1A5QUViaDdwaEttTm05ZzFEYlhUQTlEQVlhb0lXQTFzaVM0endEZUtkcVdNUGpZMmhIZGtWU1Ytcjk1VG9wRDY4WlVuNVJFQWdEam8za0RUNm9aTFhQ?oc=5",
-     "t_id": "Video | Protes Spanyol | Para pengunjuk rasa menuntut perumahan yang terjangkau dan pendidikan yang lebih baik menjelang pemilu sela"
-    }
-   ],
-   "title_id": "Spanyol menghadapi pemilu cepat dengan kemungkinan adanya koalisi sayap kanan"
-  },
-  {
    "id": "siber-202611221524-2d2b",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -380,6 +386,31 @@
    "title_id": "Microsoft 365 Down Lagi? Pengguna Melaporkan Masalah Baru Minggu Malam, Beberapa Hari Setelah Outlook Global dan Pemadaman Tim"
   },
   {
+   "id": "perang-202611221638-b51e",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukrainian drones sink Russian warship in North Africa",
+   "src": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamhUZkJwenh5LXdfUnM3WDZZZTNMak93ZWhPTzNUXzBoQlhJMlNXdUdWemVYdFRHVGxCVE8wNEZlT1czaElmQ2JuZ05JV1VfNVVsZzZEMFNpcEc0MEk2YUY2UTByeFRxWTZUWFh0UEt5WlA5WE1SZzIzLWVjUGszQWZIcDhPSkRrUlBsUzRJMA?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-22T16:38:33Z",
+   "last": "2026-11-23T03:07:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Ukraine-Russia war latest: Satellite images shows sunken Russian warship after suspected Ukrainian strike off Libya",
+     "src": "Yahoo News UK",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42eXNJMlpiblIyR3dVcDY1TDJYcXB0d0psNllyQlBZTjB1a1BvcElMT3pvVXRXa1g3NHFLTWMyTDh4WUZBVUZzMHlBRzZCbk1fcHdfcG0zTVJROGZDVkZmdE4ydl9mdmQ2Sm00akdUdC1sUjl0VFFLMnMyYw?oc=5",
+     "t_id": "Perang Ukraina-Rusia terbaru: Gambar satelit menunjukkan kapal perang Rusia yang tenggelam setelah dugaan serangan Ukraina di Libya"
+    }
+   ],
+   "title_id": "Drone Ukraina menenggelamkan kapal perang Rusia di Afrika Utara"
+  },
+  {
    "id": "kesehatan-202611221200-5d3f",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -405,5 +436,7 @@
    "title_id": "Wabah flu burung di perusahaan susu negara bagian Washington terkait dengan virus yang ditularkan dari Idaho"
   }
  ],
- "errors": []
+ "errors": [
+  "kerusuhan: HTTP Error 429: Too Many Requests"
+ ]
 }
