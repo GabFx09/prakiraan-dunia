@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-23T00:51:24Z",
+ "updatedAt": "2026-11-23T01:00:08Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Awal Pekan Masih Dibayangi Tekanan Jual",
+   "src": "KONTAN",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWliRTByNjVFMFlCT1pkTW9tRHJIMmg0NFdEazdVd0drOUlVQ2lHUTA3X0lEUUVhUmhYUTVMZnJJUkRVdGVPdk5DWmRBMVVNcFBHaWo4Smh3U1RjR3o4SHY4OEZ5Tk1Cb3hYQkNtNFVXNlBUbUJyMXczWFRjYmFMakluZ2o?oc=5",
+   "time": "2026-11-23T00:50:57Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -13,7 +21,7 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Kalender Ekonomi: Inflasi AS, Manuver Bank Sentral Asia & Rupiah",
+   "t": "Kalender Ekonomi: Inflasi AS, Manuver Bank Sentral Asia & Rupiah - Market",
    "src": "Bloomberg Technoz",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWxZR2ZaWWEta3BPUE1qNElaZlo3dUtDQktGQ1hQb3FtcW9FY0llR1JpVTFic0JOaWItWERQM0V4WnhtUk5zM2tzT1c4M3lhaFFFTkpMN3QxUmlKNXlZaU1pbGk5RktROUdkLU5aUHlYOTV0aGNNN01tMFlVekF1QUtPd1ducjRMWmktSnFMTHpOdC1QUHhfU1ZTTWx5dXpCS2ZoVXVZejJobWl5XzZMVEFn?oc=5",
    "time": "2026-11-23T00:36:30Z"
@@ -74,14 +82,6 @@
    "src": "cwibc.co.id",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mWlZNa1V6dER0VlBQUmlRbEVJSGptc0dnX2gydlEyY1pTVmRZeGFUakNWUzRNMFFRbXQtYzJMUW9nWmFXbS1hR1Y3ekk1dTNfNkFERDZtQURYRWNtZmxUd25R?oc=5",
    "time": "2026-11-22T23:50:00Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin Price Falls Below 200-Day Average to Lowest Since August",
-   "src": "CoinMarketCap",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObjd4UzlNXzBWZTd5SmpIbjlZOXdvNTE5ZGNtOHFWTVFnemV3VWo5UlRtQUhKQUs2NWx3RHZVN3VZLTNMSkNlc3J6amV5OW1iQlNsZEF5emNNanpTMGU0M3ZLcjhsZEF0UTFwZ21kTC16aHMzOUtmTHpqaE5OSm5WUzFfSjVuVnJMSjJR?oc=5",
-   "time": "2026-11-22T23:49:34Z"
   },
   {
    "topic": "indonesia",
@@ -146,12 +146,13 @@
    "t_id": "Bisakah Emas dan Bitcoin Memberi Tahu Kita Saat Pasar Saham Telah Mencapai Titik Terbawahnya?"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG Diproyeksi Unjuk Gigi Awali Pekan Ini",
-   "src": "CNN Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3ZWbjRZMEhiLXp4SU9lSXJhaGlYbnZoTFRKRU43VDBORE1XdHZGTTNNbXdJZGJMOGYteU5KbzZEV3RrR2E1QVpaMVI4WVJiZzZKbkdleTQ3OEZlUEhSbXNhY1I3NFhxT0xWM1hxdExFYUROckhYeWVyZ0tfS0p5bndNQTAwdERuQV9sY2ZhN0xHVWNVbzdPU0NSTmN1TW8wZ2cyQTJiclfSAa4BQVVfeXFMTWY1OFB0M3dnNEQ5RVJjWnBUQno3RGdJNkRwTzRTRlBMN0ZrWUpTX3kwV0RUYVVyUTN5Mlo1X2hSZEh6b0g0b0RIVHhSVl9Hd3J5eFUwS0c1b3E1Q09nOVlEZDVVR1hwRzUySlNqN21EM1BwUld6SXl2N24zV1Z6Z2h5Vk1BRTBiVFlEbzhyYXhGR3JRVmJ4RFYtbUN3ak1UZmNjaGRPYmJXVFJmbnFB?oc=5",
-   "time": "2026-11-22T23:15:10Z"
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price at 6 PM CST on Nov 22, 2026",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3ZFSlBpV1NNZkM4djM0T18yaHI5RWdqT1JaYy1yUjVQcWpYdTB0dTRaZnJuZzhvTlItcUpOcFpaUE1OdjF0VWYzVE1JTV9uN3FXMWZVYnRTRmhZWjVPWWZLUHpvaHN2dER1bjFsakYycEF0eHVPQzJrSUc5TmJ3R280VmozVXd4dEhtcE82aWx0S0xtTGpvUzJWMjhyMW1Hdy1tLWZyNEtDZnFPdkNn?oc=5",
+   "time": "2026-11-22T23:03:32Z",
+   "t_id": "Harga BTC pada pukul 18.00 CST pada 22 November 2026"
   },
   {
    "topic": "indonesia",
@@ -194,6 +195,15 @@
    "src": "Bloomberg Technoz",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkxpSHVMQ2NaMUNyLXVPOEV1ajJuMkhRS3JQZS1KY01JXzRKMXJsN2hNZWNsSm9YMEFyaDZKZFFGUjlhTjFPclZMV2d2a3pNbEdacXRqWFdqejZXSmJDdlpDT2JHODNRckxVR1NuNTNtWmdkbTNCRVdIRWk5dHo2Z252QTktanpZSGF1NVRYVXpfQkhyajlIX0J2eUNaclFuZjE1cXNYYWc?oc=5",
    "time": "2026-11-22T22:00:00Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Strategy hints at more Bitcoin purchases after $33M buy",
+   "src": "Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5dXJNdno4R2kwYVNVZ2Z4dk1YbVEwVXc5RDljQ1lqVWpXUFpXckdiekZ5dXZraENuMmNFLUJ0aWNWaHh1eU91dURBQS14dGN1STJxV3lfM0JVbVg2Uk9OcmJPVlVhU2ZJa2I4d3FQQU1CS2c?oc=5",
+   "time": "2026-11-22T21:56:37Z",
+   "t_id": "Strategi mengisyaratkan lebih banyak pembelian Bitcoin setelah pembelian $33 juta"
   },
   {
    "topic": "kripto",
@@ -265,14 +275,6 @@
    "t_id": "Warga Inggris berenang di sepanjang Selat Hormuz untuk menyoroti dampak perang terhadap lingkungan"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price range on Nov 22, 2026 at 4pm EST Prediction Market",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHhXanFrX2Z5ZWRGMVNCOWVWZTU5a3pzRXk1R3JNazhUNWREb095OFljV2JNQ1MwdFJVU0FaWmhzN2tva29Sa2xIdmhxblNCZGhJTkpLUGl0ZFdLSm55eDdmOFdDMGxHcTJwWHNFVlJuUWpYWlVQWHVPdlgxbV9tUVJqXzQyZFhFQXA2YU1UUXZXQ1Z5S3hoT2VFVWhyT0Z4NF9CQzNwaWd5di1Gb183YjFlMmZHdw?oc=5",
-   "time": "2026-11-22T20:04:50Z"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Wall Street Strategists See Silver Lining for Stock Market",
@@ -291,13 +293,22 @@
    "t_id": "Harga emas Mesir turun EGP 500 dalam satu minggu di tengah kerugian pasar global"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
+   "src": "Los Angeles Times",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkRmTS12NTBQMFlmZ2ZkVFJ5WDY2Uk1uOUdiMFo5cDFUQXpzb0ZxOXVsVjJnQ1Z2cnVhQjVaUGtmN0E3UXZ0Z0lKWjlBbVF1MlJFNjhxa2pfVENrQUVrdmRVN2UzVS1tYkJyQjhjdlhLY3N5U3diSDZlcFBZRzh6X09EWkZ1bDB2cnR4TnZ4TjlXTTNOUENJZFpNN2p6OUlOT1p6bUVLUlN4UjFYOElVQlVvb0gtZU1NOTViV2xGQWJVTWo1UF93bXpCM200Uno2MXllQzV3?oc=5",
+   "time": "2026-11-22T18:56:40Z",
+   "t_id": "Atlet ketahanan berenang di Selat Hormuz untuk menyoroti dampak perang Iran terhadap satwa liar"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
-   "t": "How Low Will Bitcoin Price Drop? Analysts Predict",
+   "t": "3 Events That Could Shake Bitcoin Prices During Thanksgiving Week",
    "src": "BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fc21YUXdMcGt1OEdCcE90bDAtZkxsWnItQm15RkFfVHJzSmZCa3NCTmZXbU1DT0NGTjJmbU03cVFldk5sc0E0ZmhoalBPS0FOVlo4a3dFanJDZUFzZWpST1psWE4?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1laHB5X2xmTVVVWEtlLTh1MHZEY0dKRXpCVFVpeWJaS1VBb3NrbXhEdm5DSWhtdFZ2NmdMMzFTamtlMHRRc3JvUU9XN2RJeUppdFI0NVZ5WnRGdl9FRmkxS0xQMWVCb2hPMGdHTFN4eG0xd1lER0E?oc=5",
    "time": "2026-11-22T18:50:38Z",
-   "t_id": "Seberapa Rendah Harga Bitcoin Akan Turun? Analis Memprediksi"
+   "t_id": "3 Peristiwa yang Bisa Mengguncang Harga Bitcoin Selama Pekan Thanksgiving"
   },
   {
    "topic": "emas",
@@ -346,6 +357,14 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "BI Naikkan Suku Bunga Acuan Jadi 6 Persen",
+   "src": "Peradaban.id",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IUUNySXZzSG02Z3BUZlNKdkJKWHd0R2t6N0JMWlVtY3lqSmxhdjAtb3lsNmQyblN5QXREYnBiTngySUlGTDBsVE9SVlMzRmZzRG5Qb0JPOGFmdFhLRmM5R0pXVDFPdmE3S0ZsdjV4Yw?oc=5",
+   "time": "2026-11-22T17:02:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "Kenaikan BI Rate Dinilai Perkuat Pertahanan Rupiah",
    "src": "detikFinance",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdG5LN0thWE5SNVRqc1BvYmZtSkNHVC1nWGZwWUpfekFPcThzcGFIb1lNYmhpc0dCR3lBbVpLeUZFU0FhSEMtbXlST0JNTXpnQ3NiY0xkZFdETzJLWTdwOENONVR4SXBIeXkxZ2dPYzBSTzl3d3RvYkFjUDUwbzYwYWN3eURaYUNNaFY0ZDhERTU0RU9ZTVMwWFRUOGRhaWZCTjdtdlN3V28zbjBLdmc?oc=5",
@@ -359,15 +378,6 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03bHg4RENIZ195b2tybGh5MnVlZTBqMnVMSmF3clNXYWtHRzQ5dTJxU1kyUmlIZk5CUWlvYks1RlNGSF90Z0FHa1lVSHVob3R4UGY3a2p5Sk8zV0wtZnZUaWdn?oc=5",
    "time": "2026-11-22T16:52:07Z",
    "t_id": "Tekanan Tembaga Shanghai Semakin Dalam karena Tarif Perdagangan AS Mengalihkan Pasokan"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "time": "2026-11-22T16:19:13Z",
-   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
   },
   {
    "topic": "china",
@@ -387,6 +397,15 @@
    "time": "2026-11-22T15:57:41Z"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil Tankers Steer Clear of Hormuz Ahead of US Blockade",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNU9IeGx0OVc2ODAzSWhONFFRTE5BYUZyX0NFZERkWUcyem1pTTNnVTNIeTVVTENCYlcxT0lQaTZMR3RRb1M5SnlFZ2R3ZlB6dDlWUHBoeF92bWpQNlpSSkloVlRjY24tYzJnYmxjS0tGNGNZS2lqT1c4QzdZUl81TGZuc1N2aXkyWEdKZjRn?oc=5",
+   "time": "2026-11-22T15:57:14Z",
+   "t_id": "Kapal Tanker Minyak Menjauhi Hormuz Menjelang Blokade AS"
+  },
+  {
    "topic": "china",
    "lang": "en",
    "t": "Taiwan Warns Canada of Risk in Closer China Trade Ties",
@@ -394,15 +413,6 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTW8yQ2NINllaaXNDbTF3Qm9xSzZkeGtEZlBWUWxucTEzWVRwZ3dYaFVlZ3U0eVZ2NTJjSWJ5S25xLUpjSHJFX09DTVQzZEptSmZCZHpUU1FaSW5VazRFdWpOWEx3SThtaVdiem9Uek5NV2lsZTRUbVBHcVF5eVVCa3ZqcWJFVHZYRnQ0?oc=5",
    "time": "2026-11-22T15:50:19Z",
    "t_id": "Taiwan Memperingatkan Kanada akan Risiko dalam Hubungan Dagang yang Lebih Dekat dengan Tiongkok"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcThLY0szV3pPS2IxUHRPYm5NSDNZU25MRWJYZkplcU43YjhEb2JSRm5kdmR2ZWYyN2pDMzhOb2RjUUdiMjFBbFZRMDlDNTZVZDRjYWluVmQ3WElhaFVMNkwzZUxGQ2dBSEI2MU4yTlZ2NDFacEdtUUF2aUYyZm9RZl9JSnBvd2Y2UFhpSmdsNDBSRFUtVDJ5ejJSSXZ3cTAwbEtfYzJFR1ZmWGFYQTBrZTNnUQ?oc=5",
-   "time": "2026-11-22T15:18:13Z",
-   "t_id": "Yardeni Pangkas Target S&P 500 Lagi, Mengatakan Pasar Beruang Tidak Mungkin Terjadi"
   },
   {
    "topic": "geopolitik",
@@ -503,20 +513,12 @@
    "t_id": "Tracker mengatakan kapal tanker Iran yang dilaporkan di Selat Hormuz palsu"
   },
   {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "Bitcoin Steady as Fed Keeps Interest Rates Unchanged Following FOMC",
-   "src": "CoinMarketCap",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWVrMTRXWGRGcjNQclBocllNYkdpcTFqblc0UDV0cTZRT25rT2JyR3RWak9WcUd4YTJMVS1Fa3lOclhLdHBBWktESlVqTzBzRXEtOV92NFkzbm0tTUVVOF9Rb3BJY3F4STIwNFVSb2paVmZzMHBjYzR4RWhVN3dIY2tHcXJXVUx1VzNwQng4Z1ZuMWZDXzZwZ3Y3WUlEZ0o2UU9SMC1xbFlRN0Vvd2c?oc=5",
-   "time": "2026-11-22T07:52:44Z"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
-   "t": "BI Akui Rupiah Masih Sulit Menguat meski BI Rate Naik jadi 6 persen",
-   "src": "Kompas.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOU5GZE8xNDJkWWxhYjdndWk0bXEwY3IzZjRPWmZGZUM1dDY2YXROQ1Z3cENsRXhPMi1XLThtTW1iRlZDRHhqU3hHRG9pWHlnT0tzMVpNRncyWjRkV01CS0hsUVo5TlBUdE90TndWQ0dVa2JyX0hwdVBoa21HRmdXQ0hQLWVETk5wdC1oUl9maUlFWjB1ckdRVFhnZXlnX3o3eW4tMlRuYTQ5eW1XN1c4cko2dDEwN3VZbmc?oc=5",
-   "time": "2026-11-22T02:43:00Z"
+   "t": "Detikcom Awards 2026: Bank Indonesia Menjaga Kedaulatan Rupiah di Kancah Internasional",
+   "src": "20detik",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVVEdE12SFpaQ28xcm5wc0VCS1RvbTlLRVNmeGlyR3F0QTAtSnJ1TzNyenhKYlZWYTNRLWxtYW5Lemg3eTRkMEJNb1ZMbDZQZjFBM2Fnd3Z4WlZZbnpQNkVhVUVqSXREeXZPZVFvcUN3Zkd5Mm5scGg4d1YtWlV2eWh2SjFtQlRkeDJXUi1wbGNJaXY2Y3A3SzRDdVUwN2R3M3l0di1vdTRIY1ItNTNRWmI3YUpHc3BqcTk1RzBzeTZBYzU2RUNRRURkYXV5TExCbUN4WkU5Nk5oUQ?oc=5",
+   "time": "2026-11-22T09:04:00Z"
   }
  ],
  "errors": []
