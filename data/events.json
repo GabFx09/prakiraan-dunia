@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T06:33:01Z",
+ "updatedAt": "2026-11-24T06:47:42Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Media Asing Sorot Listyo Sigit Tersangka Makar, Dalang Aksi Demo Besar",
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1RIV3Q3cTJPb1JpTk5NaWRVdV9xSHpoUnhTVzY4el9CUWh2dm14Vm9JZFFGSEo2RmFZOEdTZTIwZm00N3RkWGUyVEgyLXFMODRDakFaS3pyQ28zQ2ZCTmN4b1ZqOG96WktDaWpSampheXBhNUJDbmNMTTEwRlJ3OV9idVdQRlV2bzFhVDZlMkVRWFcwZ1VfSXFCX01mdmU3UVFjT0tKZmpOUXZpOG9VLTA4ZC14NjZIVXF0YjdpRXdHaVV5TkFN0gHMAUFVX3lxTE9fUTV2QlI4TWVZSFdqVGpNdDluUjM4UWhEdkhFWC1LM0g4NElDcWVuUkF6eHVLei1FMXJBblhnR3FaenV2M09LZzVMa09NUV92ZzFjRGZNRHM3cUpsSkhzWGNDQUhQT1NoVDdWVFd1eFVScFk5ZUxDSlY4ajd5STZvWXlyR0hod1BpUjN1YnExSi1ISHBQQTI3NHhrek1GNWdCMlMyNXYxQ0pYc3gwUzV6dktvN1RMU2V3VXBWSEFmd1JhdGQ4QXhtcFdZeg?oc=5",
-   "sources": 19,
-   "recent6h": 12,
-   "score": 25.0,
+   "sources": 18,
+   "recent6h": 10,
+   "score": 23.0,
    "level": "besar",
    "first": "2026-11-23T09:00:00Z",
    "last": "2026-11-24T05:25:06Z",
@@ -45,17 +45,23 @@
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Delta Outage Delays 1,600+ Flights: Check Your Status Now",
-   "src": "shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
+   "title": "Delta flights in and out of Atlanta delayed due to system outage",
+   "src": "Bundle",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1gtMUp1Qm04TVZxbDRnWjhOT2hDU1RzaUpCODZHRWd5RURZRDdrclR1Q21oSTg4UkE4bGlUaTQtNFFJcFB2NVVWa19kX3dnVjRuZEllOEZkUmJkT3VISUxGNjkwZjkzeGkzSENhcFlwVWgzTmpPWHduY1BVNzc3eE9BNHVUX0FqUEhHY3VRbXFEWmhHeU1rQTRZNnJUTmx5NDJYb0EyVDRXVjQyMzVTZlVPYXY0dFpJWHNBTUVUbEdNR1NQMVFqRzdCaXo0Zw?oc=5",
    "sources": 7,
    "recent6h": 0,
    "score": 7.0,
    "level": "besar",
    "first": "2026-11-22T19:53:36Z",
-   "last": "2026-11-23T16:07:40Z",
+   "last": "2026-11-23T16:16:08Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "Delta Outage Delays 1,600+ Flights: Check Your Status Now",
+     "src": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
+     "t_id": "Delta Outage Menunda 1.600+ Penerbangan: Periksa Status Anda Sekarang"
+    },
     {
      "t": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
      "src": "Yahoo",
@@ -69,36 +75,36 @@
      "t_id": "Pemadaman listrik Delta mengganggu perjalanan Thanksgiving dalam masalah teknologi terbaru yang melanda AS"
     },
     {
-     "t": "Video Delta outage causes nationwide delays as holiday travel takes off",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ORXhseHVmSlU4MU5MYXdZbUtNNkp3aERUSzlaVXpoeGdueWFXVlEyUzhaSHYzc2xRSGM3WFdHMVdPMTJhVkNOajA3T18?oc=5",
-     "t_id": "Pemadaman Video Delta menyebabkan penundaan secara nasional saat perjalanan liburan dimulai"
-    },
-    {
      "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
      "src": "Everett Post",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUlHNWRaYkpXSzAzY2xpYTlWSWFBWXNLeXVJY2xCMVBtRDg1YkQ5N3VDMFJtYVVKalJBLTZ2S0N2U0F1Ym9CcGh2NTRPYlZUZkw3dEs3QlE2cFlRckVxMmU4RGJzeUptcE9nNVJab3FaOHAzYjREdjd4M0dFSllCRXNRWFB4YmJCNnFtQXJwem9IRzFGcTBkdkRoZlotb0pheUFiLQ?oc=5",
      "t_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
     }
    ],
-   "title_id": "Delta Outage Menunda 1.600+ Penerbangan: Periksa Status Anda Sekarang"
+   "title_id": "Penerbangan Delta masuk dan keluar Atlanta tertunda karena pemadaman sistem"
   },
   {
-   "id": "perang-202611230824-72e7",
+   "id": "perang-202611230824-a110",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "US Citizen Among 5 Hospitalized After Russian Drone Attack on Kyiv",
-   "src": "Kyiv Post",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQzRYYlRBbFRtdzVRd3gtRzk5dW9VcVhOUVc1QWZsMDJWdHRmZ1JnRlpJMG1oRnZJcktTUVRiX1JhaXBqbFdpd3ZIRQ?oc=5",
-   "sources": 5,
+   "title": "How Ukraine drone attacks on Russian ships unfolded",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tSU1HN19rSUJoSi1qV0FsMnlmVC0wX0p2cklMYTJDZlFFRV8tSm1xejRlMWFpYXRQdU9DTmpjOGNNeE9pUWN6X0c4MVdZOXh4WjRyR3NxZlk?oc=5",
+   "sources": 6,
    "recent6h": 0,
-   "score": 5.0,
-   "level": "sedang",
+   "score": 6.0,
+   "level": "besar",
    "first": "2026-11-23T08:24:54Z",
    "last": "2026-11-23T18:45:55Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "US Citizen Among 5 Hospitalized After Russian Drone Attack on Kyiv",
+     "src": "Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQzRYYlRBbFRtdzVRd3gtRzk5dW9VcVhOUVc1QWZsMDJWdHRmZ1JnRlpJMG1oRnZJcktTUVRiX1JhaXBqbFdpd3ZIRQ?oc=5",
+     "t_id": "Warga AS Di antara 5 Orang yang Dirawat di Rumah Sakit Setelah Serangan Drone Rusia di Kyiv"
+    },
     {
      "t": "Satellite images capture Ukrainian naval drone strike on a Russian warship in Libya, over 1,000 miles away from the war",
      "src": "Business Insider",
@@ -116,15 +122,9 @@
      "src": "National Security Journal",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOFhoYWJreUpmaktSR2dBOFB1WFdiV0NPWGtYYmNNQzlqRmFGMzFzcm15OVZfdGdvQm1vUGtENkNXUFNld1NBUzFpbVNkb1VVbm9EV21iQzE2RTN3VktzLXJmNkdCVTd0UjZCQmduLVpwakN6czRTdE4xYms3RzJLdVJWcFJNbGN1UXJoTDFYTmpDS0xwYnRfcFF0Nmw5T1FfdUJzS1VVVk9TbHd4NG9DRDFEc1E4WUMtakNEMF9FbU4tSi1TN0twZ2FXVk5FTVl5aGRKVFdrc3JEYWU2b0dkdWdYcWg?oc=5",
      "t_id": "Ukraina Baru Saja Melakukan Serangan Drone Untuk Buku Sejarah: Kyiv Menabrak Kapal Perang Angkatan Laut Rusia Sepanjang Jalan di Libya"
-    },
-    {
-     "t": "Five Russian Ships Hit in Just 12 Days as Drone Attacks Sweep From Baltic to Mediterranean Seas",
-     "src": "UNITED24 Media",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeDgwZjVmWDNZa3BjLVBwdWY1NHk5cTJzQjdackpqZTNDTFdpVWJvby12ck80SVRZTGRDNG5adlR2Y0lwVEtDRXRXcml0U2VtVTdRbWI2V0ZrallWZ2VCQUEzVEFGVUpNRFNmQnZwZlJFWkFCXzE3TjluSVRScmlxbE44Y1NrSEgzWDV2aERrNU9EVW9BMklLd0ZXRndONHpTQTMwRkRHSU9Sa2NhN3g2WGhJdXZtMk42MFVIMXJ1RFJSRi1wVWRIWDRxRW9zbWQzOTdlT2FweWhrUQ?oc=5",
-     "t_id": "Lima Kapal Rusia Menabrak Hanya dalam 12 Hari Saat Serangan Drone Menyapu Laut Baltik hingga Mediterania"
     }
    ],
-   "title_id": "Warga AS Di antara 5 Orang yang Dirawat di Rumah Sakit Setelah Serangan Drone Rusia di Kyiv"
+   "title_id": "Bagaimana serangan drone Ukraina terhadap kapal Rusia terjadi"
   },
   {
    "id": "transportasi-202611230744-daae",
@@ -132,8 +132,8 @@
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
    "title": "Thanksgiving travel: How to prepare for flight delays after a string of airline outages",
-   "src": "WMUR",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjFrX0xYb21wZkVneGVPNV9Tay11T3otdmdsbC1CLVlTeG5ieDdIUVVuY3ZLZy1hbnUxMklRMGZ3TkViaHVjeTNMaDRvM3FxMTVwN21wbEUxSXR6OXZIWWo1dlFycFk0QUNmaHpkX0xtU2xFeE1UWkozYXRPdjlQOERNdmlvVGxkVEFRcFFYQkhlU3Y3TTExbnl2TXNGWFd1Z0ZrX192aHJMdVFvR0t4RkphOWNRakx4YVpZVUVIU3laZw?oc=5",
+   "src": "KSBW",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnhqMXBrNGluQTlLbGZhdDktSGhJanFLVWhyVEswalRmREtoUGt2eEFjamUyLXJyYnNOaGtNWTRnYnI2OXRfYUVGcGZmZlhQcGtucGtNckZiRHYzbVNVN0NJZUtuRFF5a2VHUldmUy1wZEQwZjFpVWsyQ2c5SkZRWVE0UkVNRDAtam1xR3c0bUhTY1gzVTB0QUVncThYM2VPYW1pT2hpX21pd2kwNUNXQ3htQVdCU0x6MFkzbUUwMnFZQQ?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
@@ -186,6 +186,54 @@
     }
    ],
    "title_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+  },
+  {
+   "id": "energi-202611232306-c4a3",
+   "cat": "energi",
+   "label": "Gangguan energi & pasokan",
+   "lang": "en",
+   "title": "Armed group shut Libya's Sharara pipeline, state oil company says",
+   "src": "streamlinefeed.co.ke",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejRYZFlLTGl6Z3hsNGczZW9ndGV0ZzhLdm1BNEl2MGhTeDdYNjJGN0JzQ3dqUXJCQ0NRR3BKV2pCcDNfOVVXX1hUbEJONlRDaFlCYjE2WlFvZVpQQW9HSThQSDJMaXRIUTQ3V3RCcnRCcVJjSGxuUld0anJSamVpV3JhSVFONUVub1A0dndyVlRaOHlRZ1J6QVBiQ3Q4QQ?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-23T23:06:50Z",
+   "last": "2026-11-24T06:35:49Z",
+   "assets": "Minyak, gas, rupiah, inflasi",
+   "more": [
+    {
+     "t": "Attacks Cut Saudi Oil Output and East-West Pipeline Flow, State News Agency Says",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVc4TmVyYlFMNUNfM0FiaXgyREtWcUtCQnNmWlVYMEJUYWZoVXBGMVMxS2lkZmNnN2d3NUp4VW9HUlZTTmlKUmpacFZmNzE3YmFqV21aeEtPQVVocTMxZGtQdnlJOEowZjdKQVFlTHdxckJHM3FZenRUTXN0Q0p0ZG1fR2N2eTAtN0pWTk0zbnhCeHAzZjhVWGQxd0hUWDBwaTlWaVQxRVlSRm9jY0RV?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "siber-202611231611-bdce",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "U.S. Intelligence Chief Warns Americans to Brace for More Tech Outages",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEo0SE5ZYzRhTE03aUY2TXZUa3Y4OV9PbnZBaHZkSC1rcmVVUkdZR3BSNDFnTC1CNy1lTU5IZFZ6Y1ozZUpxa2lWWGFFTkJlWGRMZ1FpVUlvOVA2U3NsQ0ppaVNQb0lNd3VuZnhHcFVWdVFKZjJNMl9VZEZTa19VcFZVaXd2SloybVlCb3lHQTNHMlFLMWlCX3M3OGFDTktGS0E?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-23T16:11:34Z",
+   "last": "2026-11-23T16:25:45Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "US Intelligence Chief issues warning to Americans to prepare for more tech outages",
+     "src": "UNILAD Tech",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2g2Zmo3bWJmcERHdkJpUzhGdlc0bklHTzZ2N2Y0VnRxMWprLWMwZjU2emFIMjU1dUk0SUdvQkJyRUlVcmlSUkEwODRiZkt6SDBRMjBNN3BraWNtZXBLaGlnNG9WLUR0TmY5dmMzLVlCLVBSbXpCMV9BaEktUV9rSVA1ZW5sc1dBWUVIazJqWmhtcmxsa2hQVFhhQW9PRUxSX1h1SWdZNzV0ZWtld3UzdFc3d3Y4Tkk?oc=5",
+     "t_id": "Kepala Intelijen AS mengeluarkan peringatan kepada warga Amerika untuk bersiap menghadapi pemadaman teknologi lebih lanjut"
+    }
+   ],
+   "title_id": "Kepala Intelijen AS Peringatkan Warga AS untuk Bersiap Menghadapi Lebih Banyak Gangguan Teknologi"
   },
   {
    "id": "politik-202611222344-e09b",
