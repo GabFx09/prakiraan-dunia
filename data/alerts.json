@@ -1,7 +1,37 @@
 {
- "updatedAt": "2026-11-23T18:26:31Z",
+ "updatedAt": "2026-11-24T00:04:55Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-spx-20261124-up",
+   "time": "2026-11-24T00:04:55Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "spx",
+   "title": "S&P 500 melonjak 4,7% dalam sehari",
+   "body": "Harga terakhir 7.237. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#spx"
+  },
+  {
+   "id": "px-brent-20261124-down",
+   "time": "2026-11-24T00:04:55Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "brent",
+   "title": "Minyak Brent anjlok 6,2% dalam sehari",
+   "body": "Harga terakhir 86,81. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#brent"
+  },
+  {
+   "id": "px-gold-20261124-up",
+   "time": "2026-11-24T00:04:55Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "gold",
+   "title": "Emas melonjak 3,1% dalam sehari",
+   "body": "Harga terakhir 3.624. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#gold"
+  },
   {
    "id": "ev-siber-202611221953-b54c",
    "time": "2026-11-23T18:26:31Z",
@@ -445,6 +475,7 @@
   "news-2026112311-nvidia-huang-kembali",
   "px-brent-20261118-down",
   "px-brent-20261123-down",
+  "px-brent-20261124-down",
   "px-btc-20261115-down",
   "px-btc-20261121-down",
   "px-gold-20261118-down",
@@ -453,11 +484,13 @@
   "px-gold-20261121-down",
   "px-gold-20261122-down",
   "px-gold-20261123-up",
+  "px-gold-20261124-up",
   "px-spx-20261120-down",
   "px-spx-20261121-down",
   "px-spx-20261122-down",
   "px-spx-20261123-down",
   "px-spx-20261123-up",
+  "px-spx-20261124-up",
   "px-usdidr-20261119-up",
   "px-usdidr-20261120-up",
   "px-usdidr-20261121-up"
