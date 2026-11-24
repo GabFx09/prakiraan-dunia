@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T12:56:38Z",
+ "updatedAt": "2026-11-24T12:58:47Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -84,49 +84,6 @@
    "title_id": "Kapal perang Rusia dihantam drone Ukraina di Libya, kata Zelensky"
   },
   {
-   "id": "transportasi-202611232310-49e4",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Brief ground stop at Chicago O’Hare heightens holiday travel jitters",
-   "src": "https://www.thetraveler.org/",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDNQank4bHI3cG9UWEFSWUhMN2liWTdKdUt5UUlhcHJZTHUyT2xsR0MwcUQzVVM2ZGhZUnRIQjBVS2ZQMFdEdENtZmZWSG42QTBMS2FHUS01Y25aYW43dnpPZVdVczJRWU5JR2lJcEZtdGZCbDZFUjQ5aEl3bUhwSFJNb0gwWjdnLXRqT2lWY2N2Q0NzQWhWQjhTT1A?oc=5",
-   "sources": 3,
-   "recent6h": 3,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-23T23:08:00Z",
-   "last": "2026-11-24T12:30:39Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Delta restores weight system after Atlanta ground stop disrupts travel",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWhjTkU3NDBqUXh1UWVxNEpXV0lGM0ZpTlV1MWJDVzFrNkw3YTJ1b2JBZjVpYWxvMlpUUDJFTGhQVGxsMmJuU3hOeVdTSlFLX0c2UXEtQ1FwdVE4TVI0bkVtQ2lyc0ZvVWVQV291M2hVeC04VFFMMGtGVFNqcWdPODZ2ZWJScTQ0RHVWem5KUE1jQm1wTEhtWmJCckRRQTk5?oc=5",
-     "t_id": "Delta memulihkan sistem berat badan setelah penghentian di Atlanta mengganggu perjalanan"
-    },
-    {
-     "t": "Schiphol Flight Delays as Freezing Fog Hits Dutch Airports",
-     "src": "FTN news",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmVyRG1QVDgzMUVIWGtxaEFWTTZfLTlkbGlFbU0zWk5DdGtjSW9TUVhRM1d4bmppSURRNFVuME9ib0dnYjVlaFVGcDdTZFo4LVJUTHpfdGFYVGNNZ2wzakVteVVwaTd5UnU0UDFMRUhWQmRxNGk2bnhMaG9qcHNWaHBuNzdIaWZjbnZj?oc=5",
-     "t_id": "Penerbangan Schiphol Tertunda karena Kabut Dingin Menerpa Bandara Belanda"
-    },
-    {
-     "t": "Delta tech outage fuels 1,300+ U.S. flight delays as holidays begin",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXl3cmR4RXptNF8zaHZ0eXNlOHNaemx1YW9PelFTb1JFOThFWWt4WWMydHVlRDBFa2l1eHpVdzNzc1U0Ukw4TlRQZzlOZ3lqa2dWOWtKNVh5R21Od3RFSmxiWWgtb2dSVVBSS05VZUNqVUJIRGVrTzVhNGtlTDFOVTVSa1czdW85OUhIQmlTblRMRXVCdjhIbGlR?oc=5",
-     "t_id": "Pemadaman teknologi Delta memicu 1.300+ penundaan penerbangan di AS saat liburan dimulai"
-    },
-    {
-     "t": "Delta flight delays ease after weight system glitch hits Thanksgiving rush",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnpQZXJVbU0wdkp4eGVtaDdVakRsczVkMy1lNGdqTkFzek1pR3ljSmtVMXIxcklWZXpGdVI2U080dm9hMDFCZnh5cWtyNGlkeDM4TkJTZjF2Sm1OYm1sanhxRE96VUVlYXQwVHJROXdfX2lPMUh1NU9Icm5ZN2NVVV8xSEJBWlJZNFdXV3ZQY2tidjVlSTE0ZUhlOEVvbGZhb25GZzlB?oc=5",
-     "t_id": "Penundaan penerbangan Delta mereda setelah kesalahan sistem berat melanda kesibukan Thanksgiving"
-    }
-   ],
-   "title_id": "Perhentian singkat di Chicago O'Hare meningkatkan kegelisahan perjalanan liburan"
-  },
-  {
    "id": "politik-202611231527-08cd",
    "cat": "politik",
    "label": "Guncangan politik",
@@ -193,6 +150,37 @@
     }
    ],
    "title_id": "Penerbangan Delta masuk dan keluar Atlanta tertunda karena pemadaman sistem"
+  },
+  {
+   "id": "transportasi-202611241145-0ba4",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Delta restores weight-and-balance system after Atlanta flight delays",
+   "src": "www.thetraveler.org",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb01PY3lWR0tTQVBua18wMS1tc2tKbzZ6Z2hMOXg2ZDdobFdVWnZQdzRmSHVLbG5ObW9mSzZJUEFfWkZZZURUdGpmeWxVTnE5UXZJbC1OeHZYb0NOeUUyeEhMNEloeV9Lb05LbXNKMk9vMUdhU2ZLdmpBZkgxNmFjSmxYa2pZcVR1ak1EZlRIUVNPcEk5eERsdzFlbGNFdw?oc=5",
+   "sources": 2,
+   "recent6h": 3,
+   "score": 3.5,
+   "level": "kecil",
+   "first": "2026-11-24T11:45:39Z",
+   "last": "2026-11-24T12:57:09Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Brief ground stop at Chicago O’Hare heightens holiday travel jitters",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDNQank4bHI3cG9UWEFSWUhMN2liWTdKdUt5UUlhcHJZTHUyT2xsR0MwcUQzVVM2ZGhZUnRIQjBVS2ZQMFdEdENtZmZWSG42QTBMS2FHUS01Y25aYW43dnpPZVdVczJRWU5JR2lJcEZtdGZCbDZFUjQ5aEl3bUhwSFJNb0gwWjdnLXRqT2lWY2N2Q0NzQWhWQjhTT1A?oc=5",
+     "t_id": "Perhentian singkat di Chicago O'Hare meningkatkan kegelisahan perjalanan liburan"
+    },
+    {
+     "t": "Delta restores weight system after Atlanta ground stop disrupts travel",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWhjTkU3NDBqUXh1UWVxNEpXV0lGM0ZpTlV1MWJDVzFrNkw3YTJ1b2JBZjVpYWxvMlpUUDJFTGhQVGxsMmJuU3hOeVdTSlFLX0c2UXEtQ1FwdVE4TVI0bkVtQ2lyc0ZvVWVQV291M2hVeC04VFFMMGtGVFNqcWdPODZ2ZWJScTQ0RHVWem5KUE1jQm1wTEhtWmJCckRRQTk5?oc=5",
+     "t_id": "Delta memulihkan sistem berat badan setelah penghentian di Atlanta mengganggu perjalanan"
+    }
+   ],
+   "title_id": "Delta memulihkan sistem berat dan keseimbangan setelah penundaan penerbangan di Atlanta"
   },
   {
    "id": "siber-202611241223-3d15",
@@ -324,29 +312,6 @@
     }
    ],
    "title_id": "Harga minyak turun karena ekspektasi surplus pasokan dan pembukaan kembali pipa Libya"
-  },
-  {
-   "id": "indonesia-202611231326-e6b8",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo di Belgia Lumpuhkan Transportasi, Seluruh Penerbangan Keberangkatan Dibatalkan",
-   "src": "NTVNews.id",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVB5OHdDS0tXdkJZU3g1SlBWS3psMnNHYW9lbndpLW81SnNsR21RZ1U2ZWIzM3FNOUxnbTY2cWYtM3dzNWtpQ1JoNm5nTE53YlYxSnR1MGpjVEM3ZHBlbkw5YlNZNTJsUDRod08wOFVMNFE2RE9NdlpiMXRZcEozNVFhTmNXU0lqRXR6VldxalRmYmg1MnlwSk1zZnNIN2FoR3JtWHRyYVF2RWJ3TWZkZmdDWkk0emh4akNJ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-23T13:26:48Z",
-   "last": "2026-11-24T01:37:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Layanan Transportasi di Belgia Lumpuh Akibat Pekerja Demo Besar-besaran",
-     "src": "MetroTVNews.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT25YOGI1bjBWUmJYVURrdGFvNWNXUzM1bUhPUzZpaEdPVzlSdTB3UjRqWXRvSTBvQ2JTTnE3STF1RkZyLXIxUGtUSEVOSk9TNllIZ2dpd0thUmFqY3UwcWxJdGw4MUlxVm1FX21TNmRyenpFTklnNXJ0ZTlfSkNLbExOdGdrNXZ4UFg3VGNqMHJkWkNPRnBOTmtRYUJXZno1N3E5ZmdzaGp0bjVWOG1MSHlzRQ?oc=5"
-    }
-   ]
   },
   {
    "id": "transportasi-202611231735-b894",
