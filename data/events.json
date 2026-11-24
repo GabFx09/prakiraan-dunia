@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T21:39:52Z",
+ "updatedAt": "2026-11-24T21:54:26Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -41,42 +41,47 @@
    ]
   },
   {
-   "id": "indonesia-202611241011-7bd7",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Berujung Ricuh, Buruh Garmen Tuntut Kenaikan Upah",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRy1hRzhKZjVvdTREa2VrZ3NYLWluanZJbnJIMFNGYmhjQkVUUVZPVlRWSjRUNy1ZN3pSVnpZX3lqam5wVmtVb2JNbGtxbHp5elJTVExyRnRZREVjUG9WTHBVdS1uZENER2VNSjUwdmxSMEg0SV9RNzVDaUxuSTlPSEhPckxGalVaZXNTTUZpMGtycm92aFZEQ0VqQ3c3c3VhSC1MeDdvZTM2U0NFT3hidzV30gG3AUFVX3lxTE52NkIwdUlNcVphUXlqYl9aSmI5eFU0ZDF4Z2paN0JyaHVaa0hWWXI0NDN2aUEybGlXM1gzR3lEQkFCQ0lnYWllT3piNkE2aTRzVTVuSUpiZDJCX2FzQzNvdmVUVTUxTXdEa3J4bG9xd1VER1cwUm8wLXl1d01LYkFGZ1lxUHdWMzY4ZUZWRFVmcGhNV3UwT1I5YnFBcTJrZ3lHRk1XaEFQdEhoWk9UTzVKNVVmZk1ZVQ?oc=5",
+   "id": "politik-202611241022-acb3",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
    "sources": 5,
-   "recent6h": 0,
-   "score": 5.0,
+   "recent6h": 1,
+   "score": 5.5,
    "level": "sedang",
-   "first": "2026-11-24T10:11:13Z",
-   "last": "2026-11-24T15:36:14Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-24T10:22:33Z",
+   "last": "2026-11-24T17:36:25Z",
+   "assets": "Mata uang & obligasi negara terkait",
    "more": [
     {
-     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
-     "src": "Republika Online",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
+     "t": "Spain’s progressive leader called a snap election. But will the far-right benefit?",
+     "src": "GZERO Media",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUG0xcGwzM0NjS3FDMzNxa1VBWVZMT1k0ZkYzY0gwVWtIUEJEeFpOR05vWmJZUlRtejNBei02YkdEU1NyRThDc0wycXBOWW0xaXNzclVzelhDUzh6YWJfQTllSDY5RUtXcldSM3lfMFBST2I0X2tlT0VSTDlCMXV3TFF5al9TTFF2YnJvbEJVazZCWS0zVkdLelE5Y1Q0a1U5dFBDUWZ6aFZnZVZPTGNMamtVMVRHakE5UExzZw?oc=5",
+     "t_id": "Pemimpin progresif Spanyol menyerukan pemilu cepat. Namun apakah kelompok sayap kanan akan mendapatkan keuntungan?"
     },
     {
-     "t": "Kapolda DIY Bantah Mutasi Besar Terkait Kericuhan Jogja",
-     "src": "MediaKompeten",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaTAzdjN1WkV6V0poY2Q3bi1FVHFOSlNaNUN5TEZidGhLVUtwTVBCd2o2NWtLOWZjWjZZTDhrUVk0b0d0a3NMTGZNWk1YVGZTTlZKc1BxWC0tUm9TQW9jZTRHcU9qYzZGek9qcE1ydHdhSWhTMnd1RkR3bTVEQQ?oc=5"
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "inkl",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFBoR1RYWDZYVGMzYnAyM0xjQUFnTHZPalc5RFpURGJGcmVtbjg4eHBFNjZnUVlTSnFOVVVJUDB5UVVlMDlScEFScVBjNExQYnBTN2xEYy1GZXRNVUVKTGZQRnJTLXZCdXpIejcySmVSQ2pRZ3hjS01wY21yN09Ldm5Ba0x2MXYtNUh4Tzc5SVlheTVzNklGV3dIYjc1bnNsZFc3OGlHTDVkMWlIREdPaVZn?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
     },
     {
-     "t": "Kapolda dan Pejabat Polda DIY Dimutasi Besar-besaran, Abioso Bantah Terkait Demo Berujung Ricuh",
-     "src": "Suarajogja.id",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUxsQTEtbTNBZFBXVEdpTkRTc2M3akZjMjZPdW9uckhOOXhkTldibkhjRlBvRTFpUVpRN3h6X2I0blBuLXBldWJnTDM1VmMtR24yMTVvSFA3N2Z5TGFvellGN0pYQzZDU3FQWUhha1pGSEVsZFJWU243YlE1RHRxSlFoS3J0WnFwSUhvVjROTDRIZVQ5MWs3c1BhM0pneDAteDRjN0RVaF9wZG54TFFobkNUSXBsVGVNQWdpazVZTDhwWExpMDFmVGNpSFRSOGxoSzFmWXVPNVPSAd4BQVVfeXFMTVpWRmZEUVF1cTA3Vkw0MFI1dFdUSWo0X1oyckRsQ3NkU25ISm4tS1ZvemxLX2ZXWUpqRVF2X1BETXhXSXdGVm1hTDZQUjRiX2RsaHkwaENFcDBhNVhuLWVXRVZWV1JyQm9DeVdRNXZBbXFlOS16VzBMd1o3czZVNTRra21EMWliS08tZnRsNjg3aUh3YlM3S0NWM1R2YWRUQkZJZ0JuellDRVFVcWxYanVaVGN4eGlFOXdUd2Q3SFJFR3lBVjRabktiM3hxWmtNTFhMSDRMdGRyQ0lFck1B?oc=5"
+     "t": "Why Spain's Snap Election Could Put Vox In Power",
+     "src": "ИФЗ РАН",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
+     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
     },
     {
-     "t": "Kapolda Bantah Mutasi Besar-besaran di DIY Terkait Ricuh Demo Yogya",
-     "src": "CNN Indonesia",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1c5TV9mUVF1dWZrcGJXLWpIYmlVbHk4VE5qa0pCV0VWTDNWaXRMNEJYajVMOXhoN081WHhEenNUZC0zNzZiVVFSQTdtcmdjeXFvS3RLMVFKeVRiU2Y4ZWU2TnEyaUoxaUxDR1RGMjdjTHp5SlpLWmE5dHBBSWt2NFg3TTVkOFI4MEtNaTRuRWtmQzExeUN1Q0JoX1pQdjVLNGNudUp4SXhfZE1FWmVxZ3RYZ081S3RPVTZ2M1k0QnFvQ3FxMEtjMFBaWdIB0AFBVV95cUxPZm9jOUF4Njd3Z1E5ZmVmU0FtamF6X2NydlVHYnRvbG5oMGlEYWEwdmJuZUhuWEZRdGg1TmFnRlBUaVFuVTdZYXU3MDFDckw2WnJuTF9vMkZpcnR6QmxnOTl5eUtkejZEUnNiYzJKZ1ZDcFdTWVdrS2IxNXBWZDdmTnZtaDZ5VXFtSWZmQzl3eU5MeG9sSXlJWllESFJ5dXYxa2NQc0dHcGlnWjJvdlRsM2x0U0VpeGNPb0ZrZm5WeWtWNmw3ZnlXMWMwVnZ2ZzRZ?oc=5"
+     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
+     "src": "EUobserver",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
+     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
     }
-   ]
+   ],
+   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
   },
   {
    "id": "siber-202611241814-6268",
@@ -141,35 +146,32 @@
    "title_id": "AS mengingatkan warganya untuk tidak melakukan perjalanan ke Ukraina di tengah serangan rudal dan drone Rusia"
   },
   {
-   "id": "politik-202611241022-acb3",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
+   "id": "indonesia-202611241011-916f",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Kapolda Bantah Mutasi Besar-besaran di DIY Terkait Ricuh Demo Yogya",
+   "src": "CNN Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1c5TV9mUVF1dWZrcGJXLWpIYmlVbHk4VE5qa0pCV0VWTDNWaXRMNEJYajVMOXhoN081WHhEenNUZC0zNzZiVVFSQTdtcmdjeXFvS3RLMVFKeVRiU2Y4ZWU2TnEyaUoxaUxDR1RGMjdjTHp5SlpLWmE5dHBBSWt2NFg3TTVkOFI4MEtNaTRuRWtmQzExeUN1Q0JoX1pQdjVLNGNudUp4SXhfZE1FWmVxZ3RYZ081S3RPVTZ2M1k0QnFvQ3FxMEtjMFBaWdIB0AFBVV95cUxPZm9jOUF4Njd3Z1E5ZmVmU0FtamF6X2NydlVHYnRvbG5oMGlEYWEwdmJuZUhuWEZRdGg1TmFnRlBUaVFuVTdZYXU3MDFDckw2WnJuTF9vMkZpcnR6QmxnOTl5eUtkejZEUnNiYzJKZ1ZDcFdTWVdrS2IxNXBWZDdmTnZtaDZ5VXFtSWZmQzl3eU5MeG9sSXlJWllESFJ5dXYxa2NQc0dHcGlnWjJvdlRsM2x0U0VpeGNPb0ZrZm5WeWtWNmw3ZnlXMWMwVnZ2ZzRZ?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-24T10:22:33Z",
-   "last": "2026-11-24T12:22:00Z",
-   "assets": "Mata uang & obligasi negara terkait",
+   "first": "2026-11-24T10:11:13Z",
+   "last": "2026-11-24T15:36:14Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Why Spain's Snap Election Could Put Vox In Power",
-     "src": "ИФЗ РАН",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
-     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
+     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
+     "src": "Republika Online",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
     },
     {
-     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
-     "src": "EUobserver",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
-     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
+     "t": "Kapolda DIY Bantah Mutasi Besar Terkait Kericuhan Jogja",
+     "src": "MediaKompeten",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaTAzdjN1WkV6V0poY2Q3bi1FVHFOSlNaNUN5TEZidGhLVUtwTVBCd2o2NWtLOWZjWjZZTDhrUVk0b0d0a3NMTGZNWk1YVGZTTlZKc1BxWC0tUm9TQW9jZTRHcU9qYzZGek9qcE1ydHdhSWhTMnd1RkR3bTVEQQ?oc=5"
     }
-   ],
-   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+   ]
   },
   {
    "id": "perang-202611231416-a110",
@@ -194,10 +196,10 @@
      "t_id": "Serangan pesawat tak berawak Ukraina terhadap kapal perang Rusia berisiko mengalami ‘eskalasi serius’: resmi"
     },
     {
-     "t": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
-     "src": "San Mateo Daily Journal",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUXVGeUk0UUd6TXdiTl96dm5wU3A0eUxxdTJwa0xpdXNXNW9lZkdicUtqMFlkaS04WGxIbTZjTnBKR1cwVlZibWNiOURTUXhQcFR0UUtNY2hUeF9OS0JvU2U2bjlYQi1GSTBTRGR3ZWlwa1B2WmZFQnNtc1pPWlpxdE9LRjB3MDVJTnlHSk1CR1IxZHd6X3RrOFFIZjJpV0pvYU4ydWNWajVxZFF2dE5NOHpqdVJld3VvWEhIM2U4aTJjSVJ0NkhMNko1eWRrT2N6UnZMNloyX3pMYXlYNF90bFNKZ0ZTcU1mR0xoaUltQm1xclo4bmEzOEI3Z3E5YmZWbzJfR2tZbw?oc=5",
-     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
+     "t": "Ukraine says it sank Russian warship in drone attack at Libyan port",
+     "src": "WRTV",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMjF2VXczRkp4dGlob2xDcXVDb3BxbDZNT2NTNnp2eFhXeGJQN3E4VzAxQnViS0xnUlFnQ3FqZWQtOHVzRWJxRy1EVDg0aGk2VEwzTDNvelBybXV1T2RUUHVfWmRvbjVENkhMaTB1VkVpMnhfWDhBb0wyWk9BZDg2M0NfZUpia3hzaGJhVzkyaDRqVjF2VDdOZXlOeS1IYjJlV0JFS1BWX0NyN3ZZ?oc=5",
+     "t_id": "Ukraina mengatakan pihaknya menenggelamkan kapal perang Rusia dalam serangan pesawat tak berawak di pelabuhan Libya"
     }
    ],
    "title_id": "Ukraina menenggelamkan kapal perang Rusia, menyerang kapal kargo dari Mediterania hingga Baltik"
@@ -264,8 +266,8 @@
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDN6R0pjNFo5VFRaOGNYNGplaE1zcnFCeWlCdDVXY2dQOGM4bngxMTZMTktuNmhOWDVGTzJ4aWR1azVFV0xYUXJzV1FBOTFHOEJUSFZPTzE4VW05QnRtcHBiX1VTZnlJVHh0TlY1N0k0SXpCcDhNMkF5WVRiX1RsX0dsQXczck5wRjZtNEtrbE1OdFB0YVFqY3VB?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-24T13:05:17Z",
    "last": "2026-11-24T15:40:07Z",
