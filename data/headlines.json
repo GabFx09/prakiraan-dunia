@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-24T18:42:30Z",
+ "updatedAt": "2026-11-24T18:57:06Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "US preparing to raise tariffs on China, EU and a dozen other countries",
+   "src": "EL PAÍS English",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1hGZllMX3hJd0QyV3k3aVJ1eVhYMnY4M3JLQzN4blkwdDM0YzJGRjRfNENEdlc3akt5dDdFSk1ZTVczNjlxdGtyNkJ5QmZidFFLbDM2OWs3QzdrbDZJVmthNkZQRS03di0tYlJ1dVVsYmNkeW1jVEp2d0doN0IzTTJVYVVjakVQYXBoNzUwQUhKeEROWlVvOEtFVm53MV9STUZkSHVuUFdNeE5aWlZpODBRRHg3UnNheVVqbjhTVVowNDBNUzhodjlKRVJDd9IB4gFBVV95cUxQX1VXTW5NVHdydjFTb3BEVzNtVWlNNW9HUGJYTHhSVjhsQzFnRmVNS0JqUTJuTUxBVk5mQkZhV2NMOG5BX3Fiek82X0VHQlFDbUVjOFR3OEVhWXRMZEN0YVIzWEJ3QU9ySmNZSTZkV3I2TTF1Z2J1eV9iSWFMbENUWkhfLW4xcHpaeU9sbjVsYnBGOFRka29iZjRfa21EWEZVdFpnUVJfclAyWWsxNi1LWG50dmJqVFR4S2ZRdmdUdmVWNk9PM3czZ3VzcTJlOU9OWTZHekZFZGRJSF9VTENHbjhn?oc=5",
+   "time": "2026-11-24T18:33:06Z"
+  },
   {
    "topic": "geopolitik",
    "lang": "en",
@@ -9,6 +17,15 @@
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDNSNndVNkJ1ZmxnQVNJUUhiYi1PRnEwU0gtY3hpM2dVcjJkaElablVWTVB3RTRjNTRjUnU2NnF4U2JkSTlwbTV4MkNhdUJ4a3g3akVhcWxEQm1XSjFhRURJTU5kU2FRUk1wOXVSWUhnSVJQTmUtdVN6SzJIemRsbGRQZjNoc0pMYXVodW5TRjktaUQyWUt2SExZV3Bfc1FBZURBNzNheGx6eHVxRGtuaXFCYklHUQ?oc=5",
    "time": "2026-11-24T17:54:34Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5",
+   "time": "2026-11-24T17:34:00Z",
+   "t_id": "Nasdaq Melanjutkan Aksi Jual karena Nvidia, Saham Antropis Merosot"
   },
   {
    "topic": "geopolitik",
@@ -64,24 +81,6 @@
    "t_id": "Saham Nvidia, Anthropic, dan AI lainnya kembali anjlok dan menyeret pasar AS lebih rendah"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
-   "time": "2026-11-24T16:52:08Z",
-   "t_id": "Saham AS Sebagian Besar Turun Setelah Pendapatan Nvidia Gagal Menenangkan Ketegangan"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Canada and China Draw Closer with Expanded Trade Pact",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
-   "time": "2026-11-24T16:49:12Z",
-   "t_id": "Kanada dan Tiongkok Semakin Dekat dengan Perluasan Pakta Perdagangan"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "Current price of Bitcoin for November 24, 2026",
@@ -123,6 +122,14 @@
    "src": "Ajaib",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdHhHRS1Ub19aWDFTWTBfVkQ1SkFmQ2d0NmlMNjJlNkZjWDdETHktUzVWRzJYX0FVdEpCQmRHZWRJajhlVlJ2SUtrdjZZaFgzZjg3SVBoVUtLeWxPSHhucXRqZTcxOWtSRS00SmFyajZRVk52cV9waVB2bnZIWGpkeDRHbWtpZXMwNzZlaGp6aHY?oc=5",
    "time": "2026-11-24T16:07:30Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Copper price erases Nvidia rebound as investors steer clear of metals",
+   "src": "Mining.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXBYVF9scFBNOGttbk9RaVRXYU9hb2o2bXRnc1RUTDNhQkpocG9jTWR5TU1GU2pBTjdBT0JhRktVS0swR0lnLWN1NTlxX2NseEpqZVBuRVhvVlFlMVZ0bEFJM0xDRkpnRVRxNlRCb0dYU3NITTZWOFBKaXpkOGF3RWVmNmdtbmR2SVNsZHU1Q3NMY2VCZ0EydQ?oc=5",
+   "time": "2026-11-24T16:02:17Z"
   },
   {
    "topic": "kripto",
@@ -170,6 +177,15 @@
    "t_id": "Harga emas menguji support di dekat $3.600 karena Kepercayaan Konsumen AS mengalami kenaikan tajam di bulan November"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Rate Today in India, 24 Nov 2026 - Live 18K, 22K & 24K Gold Prices",
+   "src": "Kotak Neo",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
+   "time": "2026-11-24T14:57:20Z",
+   "t_id": "Harga Emas Hari Ini di India, 24 Nov 2026 - Harga Emas 18K, 22K & 24K Langsung"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "Bitcoin Price Nears $60K Despite Saylor’s BTC Buy: Is the Bottom In?",
@@ -177,15 +193,6 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR3RFT2VoT2dBZF9QR1JlWnM4YmRmYkNERXNVaGVHZE94am0tX1M0MTBsS3drZXVQeXAxbUVyVnJNX0ZtRngxWVkzQXFnNjhVMXZpR1Aya0lzMmNhUDkxNFdNcXh1UTZOX0VKeDRXTGZwbmRQcndQTnVaMDVWQUExVnBIcms3QUIzS0t2QXZXYnlZWldLTWxOMnRJX00?oc=5",
    "time": "2026-11-24T14:57:14Z",
    "t_id": "Harga Bitcoin Mendekati $60K Meskipun Saylor Membeli BTC: Apakah Bagian Bawahnya Masuk?"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Current price of gold: Month Day, Year",
-   "src": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXYlFJN3VuWGRqdkF0ZVhSbFlKQlNKR3VVRUVBUlhLNU1MT1NMeGVqSmVEVGxOQzRYYnRtVjExeGVneERhbDBDR0J2SzB5dGQ5YmdRZktmQnVmLXVrWnlCM3QwbnI1aGdKLUpj?oc=5",
-   "time": "2026-11-24T14:55:00Z",
-   "t_id": "Harga emas saat ini: Bulan Hari, Tahun"
   },
   {
    "topic": "china",
@@ -266,15 +273,6 @@
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeTI2NXZONWZrdFg0M2tMeVNDMzZXM05MS0FMVUZKWERhUkVqalBUVklCN19hYzVGMXMtOUlibWpJajRwa2FNYkhhekN2XzY0YnhjMk05NmpfN2dSOXp2RE1qQnA0VGI4eWttcWVqT3kwMGlYMTRuVnkxcmlEaG5HRDhrUFU1RDlsdDl4TTlhX3dHVUN4dkhzUzZHWEZhbXp2bFl4ZVNZdERld2tzR1pISzE2WGZUYTNMNGk5QzFOc1J1SmJZRVFoRmpuUFBzYlREODRKemg0eDNtTURkSzBLc09fXzdQY2VHeEJhaUlQYm8zLWNKQzVnbmIxaFpjUlVsdVA2WXFkN0VvRHhmXy1iWkdVdVQ2dw?oc=5",
    "time": "2026-11-24T13:22:00Z",
    "t_id": "Pasar Saham Hari Ini: Dow Jones, S&P 500, Nasdaq 100 Futures Jatuh Setelah Scott Bessent Mengungkapkan Berita Iran Baru"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "America Readies New Tariffs on China. Will Bitcoin and Stocks Sink Again?",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHpybUl5dlI1U2NvZTQ3aktLUkF3dTNISXVUWTduc195TlJVeTk3S0pILVR1QTg3dG42aVZBTnZnTzJUcGtmYkwwUmhUb01PZDE3QnlIUXk1cFdsaTlnNUxDakt1TGRJQjQ2YU9kWWpxQzVER3lQZlNhSXlPM09obnNOSWNwTzJIS3RHOEJwVEhCOUxWY0gxUlJGM1dnVjdlNjJwdQ?oc=5",
-   "time": "2026-11-24T13:19:55Z",
-   "t_id": "Amerika Siapkan Tarif Baru untuk Tiongkok. Akankah Bitcoin dan Saham Turun Lagi?"
   },
   {
    "topic": "geopolitik",
@@ -417,10 +415,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Menguat 0,49% ke 5.241, Saham Perbankan Menopang di Tengah Klarifikasi MSCI",
-   "src": "www.fxstreet-id.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTZoVHNFcmVFNzZ0ZEc4OHhtVmhBX0wzYy1mVHNWQnB4ZlVpUkYzU0lKNDd0Qll5NlJGNjlfU2ZZWVJmRlNlQkNTckQ4VEdvQzVSOE0tX0ZJbjdTVDMwQVE2RUNQSEV1bGgxNUFPZlJlQ3loM2E4aXBNbWdHaVM4dF94Z29VbmNPOFRnODVyMFRXazlNYWozQUxZUXl2NlR5SnhPVWQxYUUzWWdkWGVRbWFnT0JmOTlaYnpPYUZyWEw?oc=5",
-   "time": "2026-11-24T10:00:12Z"
+   "t": "IHSG Ditutup Naik 0,49% ke Level 5.241 (Selasa, 24 November 2026)",
+   "src": "Databoks",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnFFV3dWZTA0R0NFSmI3VldxeHZ3UjZEdWJfUFl1S1pkSXZhdzBfN25MemVGTl9DTXAxWDVncmlRRWMtLUZ5bWVKTDVWUFZSUDczNVdJVEZ6clJqcUhvdTdhQlhGWmFHOTJpazdMemIxR09Mel9yTVVoSWQyQTNqWkhtR3FULXpQR0lMUXVBRDlIYlRIbTE0c3JEeW1RWEpTeGxFWnRYd09Fa3QteEYxMjVnNUs?oc=5",
+   "time": "2026-11-24T10:08:58Z"
   },
   {
    "topic": "indonesia",
@@ -429,15 +427,6 @@
    "src": "SWA.co.id",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mYklrZG5WeWtjM1lyaldzblRmUWxldzMwdUlzZ2EtZzNwTGd3cFlSN096LVZiUFJWSHNyWDRNa3lsUmxpUWVoX2lIajRQUzlaMlNSV1pQSk9RSDRjSGln?oc=5",
    "time": "2026-11-24T10:00:00Z"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
-   "src": "StoneX",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
-   "time": "2026-11-24T09:54:33Z",
-   "t_id": "Emas Rusak, Tapi Apakah Ini Pertanda Apa yang Akan Terjadi?"
   },
   {
    "topic": "geopolitik",
@@ -475,14 +464,6 @@
    "time": "2026-11-24T09:36:26Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Rupiah melemah dipengaruhi kekhawatiran atas kelebihan pasokan minyak",
-   "src": "ANTARA News Jambi",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHRxem5HNjUzdThCazZxOHBYLXZCZl9UdWV2UnRVN1NaTDg0Y1oyck4zVHk0OGZCeTNLSjhlc3k2OHkxUy1GOG1hbnotX2VkTEloaGtCUm1qTG1FcXNIMkpaVXZibThKWFN5bHY2R2lhZi1Yek1fbGJWejUybXZ0VmFmS3R5Zjd2NlJDMUFfRlY1VkVibUszQkVqdnZzOTFTbjFMRzZsRUJZbVRmLVI4TFp30gG3AUFVX3lxTE5yQm9sRmVXWENZOTRocndCM013ZWNIWWtvbHBoTjByZE56WUs4Zk1PTG5EZnhQR0RUVmgxcHBhRmRCakpsQy03bFNyTHRQQTY0TXRJWkZCTWVybGNvQm1Rem5jbEtQTnd4Z3lydmQ3REFROWw0WlBtWHJWWGRLbllJZmpYN090NE9MMUZlQVVzdlhiM25EZlVrWUhZelhBZDVXSzBUSnBoNUdLcGhTaTZLa1A4VkZFMA?oc=5",
-   "time": "2026-11-24T09:24:49Z"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -490,6 +471,23 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52aUdsdjBXTkFjSkg1UVpmamJ6cXNsRWxPSGRGZXNMOFNuRWFHZEdudVdnQ2pRS0xKbFJvRUJmYldqSEl6UzFseHJWZzdENkNrbEdXd05yWEpyU3NOQjM3TVNjZUcyYVlKZ0RGTFlPVWF2T2hvX0tUVdIBfkFVX3lxTE9jTGJUVzdZamlIUjdnZlVNYkVhaDJ4MzY5MmpTZUpGMl9GRjZDSTNGR2FGenRsN0djalZxbjlrWUNCUXFOME9HdHdVTzdPTE9KT28wei1iTXl3bUxLSTZKRm1VWGhXVlhFQUpRMTV4ak9tUUtGdXZ6b29YNWhCQQ?oc=5",
    "time": "2026-11-24T09:12:05Z",
    "t_id": "Saham Nvidia jatuh lebih dari 5% setelah kembalinya Huang"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "China approves 2-month suspension extension for select US export restrictions",
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGJjU0RFbHBrM1lxR0JTVFdxR3Yza3RwUkZFdmp1c1JBc3NpTlFRdUFYTzJ3RXJKMVo1N040VE9FZTNPLXNHVU9uVW9ndnpWOGlUQ2FYOTQzOXpJMy05Z1cxRS1qVmZKcWtxRU9RY05lS3l1R2N4WmY0YlRzWnRRVW9MdlNZaDJKTHBnbzJnU2F0Y3lkTkdadVZxOFU4Wlg5ZC16MEV2aHZFN1hDaDZqRjczeUlYakMwWTlqOGtPMNIBvwFBVV95cUxNZlJJWkx3Qm55NVVONEpMTkEzWE1iLTNaZmR2LUZEdXNSbG1KRDhJZy1jaDJERjlVTXZfNXVaTUZwYVM1MHdpZktSa0J6UE40ZnVualM0VjdHVE03YnhTZmFEeTY0UDUzcmp1cTNqcXlaSnRsX3dxd1JaZFJwbGdhLUxwOG9CVnVFSmVQSzJLWkJVVjVObTBabkF1Ry1DXy1LdGpsbm9jU2pwdFhPZGoybVlsS05xNXczdzBQVDV0SQ?oc=5",
+   "time": "2026-11-24T09:01:45Z",
+   "t_id": "Tiongkok menyetujui perpanjangan penangguhan selama 2 bulan untuk beberapa pembatasan ekspor AS"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Kaltim gandeng Polda dan Botasupal musnahkan 11.295 lembar upal",
+   "src": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmhzbFdxRWVuVFU4UEVPVkhpR1RYbHR3WkJFNUJCTG5qcGVIRlZLcF82cTkzLVY3ZmNSSVY2LUN0VUZRdXQ1OE5CSnhPTnZJYjRmWC1hbVozSWd3R0h1WDk4MklKSGJ5U0p6Rk5IM1VNRk0wYlE1QWJaaDJTcHFmbjhVLUVQWGhOa0U0UXBHY0syWUZSMU1VeWFjTXlCLUJHdjV0YUZsaWJaR3dsbGfSAbMBQVVfeXFMTURlZTFMaWxCMWJIbkZoTlkzckFSV291TVp0LVhkcTdKenFXTjZNQ1JkTzJXTzlscnBnZjl5d3RkdUNFaGVkR0FocVNURFRXRFE5Rk1RSFQ2NWczRElOU2JNemNDQTdvRklQZnJJbUt2cFNKZmVoUkxudWVwZC1RMHpKTHlqdDlYWUZFc0tqcGJOVVd3SV9qejlZbGptWFpxUl9sR2xmSkZaeXA5MWVmb2cxUkE?oc=5",
+   "time": "2026-11-24T07:58:19Z"
   },
   {
    "topic": "indonesia",
