@@ -1,7 +1,25 @@
 {
- "updatedAt": "2026-11-24T14:26:49Z",
+ "updatedAt": "2026-11-24T14:41:28Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street's sugar high quickly disappears as Nvidia and other AI stocks tumble again",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTy16QmNiMlZLeEFzUlFFMGdpNzlmbXZnY2JtdldRekJ3QjdrTEplQkNXVERGVzJLU1YtdmNfN3Y1dHpBOENIZHZQMjZKSHN2WEZnMGhFMHI3VG9Sb2lXUUpxYnMyTWVjejlTWWZIRnFOMHA2Q0tMZ0wwZVJyWFhkNl9tUk8zNWM2TWZUXzdTM05tSkJYQVo1ckZhZjM0NkUxcWRhRHBmWWVaaXVtbGt5SkFqckdCZDlFSlRqaTVmUjFKMnhERW9J?oc=5",
+   "time": "2026-11-24T14:40:12Z",
+   "t_id": "Kenaikan harga di Wall Street dengan cepat menghilang karena Nvidia dan saham AI lainnya kembali anjlok"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin ETF Outflows Hit A Record $4.71 Billion",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2JQYm8yR2p5YTBDS0plT1lPczNzS0hIeVBxeXFfczJuS3R4M25NZUFVX21zbU5pMEhYQUMxb1llWWFNT3N2ZExZblhqRVo5Y0dLY2RpSDVOV05GQmxrT2VjZ3lGaWtBT0I4bHA0YXh0UDlvY2tDMGF2Z1ZnM1h4UDBrMzk0X183NTZIM00xeHJmUEoySWlaNTYwTnk?oc=5",
+   "time": "2026-11-24T14:24:00Z",
+   "t_id": "Arus Keluar Bitcoin ETF Mencapai Rekor $4.71 Miliar"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -18,6 +36,15 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWlrYU1IUF92dDZ4ZGI3dXZ1Q0RMTzFzNlZicTkxSWZuUlRCRVZ5YmVGYWxFZVpNc3JmNTc4UzdTWWFDSlRYQ1BFZWxVUlNZM2pteXVIbWZJRWV3aDhwVUhyZ1NsOE1UVUVaNGxUT3pCRDhQOHpyd2RDczZJenhTQWh2WWNPOS1zTGc5UG5YaDVHZlR0aU5SdlBhclN3TzJDMkNOcDBVMXpRTDJSSzNhVmhueHpZaTQ?oc=5",
    "time": "2026-11-24T14:09:07Z",
    "t_id": "Kisaran harga BTC pada 24 November 2026 pukul 10 pagi EST Prediction Market"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Trump Is Bringing Tariffs Back, and China Will Likely Get Hit Hardest: WSJ",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTkwck9aVXRkSFRvWlVoM1NSVjlXTlcwc2pmOGRZb0xwVXVQV1dZUTFpdlhibjJVRnpXUkpzYW9fUU4xbklFY3VYbUgyZHlJZ2R3ekd3bTQtRGdXYy0tZ0w4V0JBVHg4STFmVWZKVXBHemo1WGJMamp2TGFEYjRNZl9Gam9mbWZ0eGtfLXRobm5yVlN0cWZjS3NqR0dLVXc?oc=5",
+   "time": "2026-11-24T13:47:52Z",
+   "t_id": "Trump Mengembalikan Tarif, dan Tiongkok Kemungkinan Akan Paling Terkena Dampaknya: WSJ"
   },
   {
    "topic": "kripto",
@@ -38,13 +65,22 @@
    "t_id": "Emas kesulitan untuk memperpanjang rebound karena taruhan kenaikan suku bunga Fed menekan perak - Laporan Kitco AM"
   },
   {
-   "topic": "geopolitik",
+   "topic": "kripto",
    "lang": "en",
-   "t": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWtaYWl0aXk3bE1SVS1CWDdMUy1NSmNQTUxHbTFRbFlFemVOS0FkZDE4TjVZWDNUODUycDJHTXpfaGp6SWwya2gxWVhJUlk1bWUxTmpjSk5UZm5wME5ZYWc5SkJsM1I2Vmx2c2paS3owWTdPX0pDN0ZXUUtQck11OHFfSVhwd18yakNEM3NBaTBPbmtTRjVNSnNISklHTUE3ZkJLclh4LXQzbUNZOGx3dC1n0gG3AUFVX3lxTE9yaW03aWdDZFBjTUh0YXhVMk5hdy0ybmpGQXZ5UVkwN3N3M0NrQkRTTVVwQkpEY3BBQ3ZxS0c2cmdyMUlNSlZrbmNWUzQzc05SN29ZS2h4dXJuVzdyWVFOcGVmbEFfaWxPNlpTT1JVdDJqdHRkaTE4QTZMZkFqNFl5RURUOHB6SWR5WmFTSldZcWhSa25SSVBjYkJhT09Od2Jvb2gzQzktYjZJWUxObGFoaW1kbjN1cw?oc=5",
-   "time": "2026-11-24T13:35:20Z",
-   "t_id": "Lalu lintas minyak Hormuz turun 40 persen: Apakah serangan kapal tanker Iran berhasil?"
+   "t": "Current price of Bitcoin for November 24, 2026",
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ud2Y1S2QxQXpadTZmeDEzZHZuclFzNENuYkRfNW9TV3F0aWdQNk1nY0FORXVwUEg3R1RaQk5PUTI4aXI1dVVMdjB0eU90YXg1akNQRm4weTZvT2pnV294cWV6d0t6Tmc?oc=5",
+   "time": "2026-11-24T13:31:37Z",
+   "t_id": "Harga Bitcoin saat ini untuk 24 November 2026"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall After Scott Bessent Unveils Fresh Iran Sa",
+   "src": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeTI2NXZONWZrdFg0M2tMeVNDMzZXM05MS0FMVUZKWERhUkVqalBUVklCN19hYzVGMXMtOUlibWpJajRwa2FNYkhhekN2XzY0YnhjMk05NmpfN2dSOXp2RE1qQnA0VGI4eWttcWVqT3kwMGlYMTRuVnkxcmlEaG5HRDhrUFU1RDlsdDl4TTlhX3dHVUN4dkhzUzZHWEZhbXp2bFl4ZVNZdERld2tzR1pISzE2WGZUYTNMNGk5QzFOc1J1SmJZRVFoRmpuUFBzYlREODRKemg0eDNtTURkSzBLc09fXzdQY2VHeEJhaUlQYm8zLWNKQzVnbmIxaFpjUlVsdVA2WXFkN0VvRHhmXy1iWkdVdVQ2dw?oc=5",
+   "time": "2026-11-24T13:22:00Z",
+   "t_id": "Pasar Saham Hari Ini: Dow Jones, S&P 500, Nasdaq 100 Futures Jatuh Setelah Scott Bessent Mengungkapkan Berita Iran Baru"
   },
   {
    "topic": "geopolitik",
@@ -56,22 +92,13 @@
    "t_id": "Harga minyak berayun karena fokus pada diplomasi perang Iran"
   },
   {
-   "topic": "ai-teknologi",
+   "topic": "bank-sentral",
    "lang": "en",
-   "t": "Opinion | Nvidia proves nobody knows anything about the stock market",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi03OVRQelFBa2FKOS1ray10bDRKZUtnekpoQl9qdjBXOUNrR2FVMFZ1OElzaE4xRlp4RDBBTGdhTmt3TVVYY3ZkdmtOTDM4cnJhdk9vUDlqM1haSGxLV29ySHFzLVk5OHBMY2wzRHZNaFpoUzdEQURVTWMtWXE5WmR3MFl3NVVOZHBmOGxwdnN1cjFRNkVYVnJ6TG02STNzWFJQMW1SRTdOZw?oc=5",
-   "time": "2026-11-24T13:16:50Z",
-   "t_id": "Opini | Nvidia membuktikan tidak ada yang tahu apa-apa tentang pasar saham"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNzAwNUxMLVhwWjVNV0FCN3VrS0ZaMy1DS1Q3Q1dzOVVPM19LRXNhN3djeWpQMlg4dUR1enNmaHNQV1duekxwZ1lSLVpTT3lMN281cE80VHlja0NuSG1SXzdDdU1SbWEzRWhuQmR1NzM5d0FvaE9qazJVUFJTT2M?oc=5",
-   "time": "2026-11-24T13:14:53Z",
-   "t_id": "Pasar Saham Tergelincir seiring Nvidia dan A.I. Saham Menghapus Beberapa Reli di Hari Senin"
+   "t": "Compare Today's Mortgage Interest Rates",
+   "src": "NerdWallet",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mYUhVU09pZkpOYUR0TEl5M0xtRHZMS082M0Z3LVZrWWJ1NWdTZUlYc25kY1l6N3JtSmliYm52OEdDSy1yUWh0MUtIcWo4Vk1aZWphWmZyTHNMc2pKTnN3TA?oc=5",
+   "time": "2026-11-24T13:16:36Z",
+   "t_id": "Bandingkan Suku Bunga KPR Saat Ini"
   },
   {
    "topic": "china",
@@ -79,7 +106,7 @@
    "t": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries",
    "src": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
-   "time": "2026-11-24T13:08:00Z",
+   "time": "2026-11-24T13:08:58Z",
    "t_id": "Eksklusif | AS Bersiap Menaikkan Tarif terhadap Tiongkok dan Negara Lain"
   },
   {
@@ -108,30 +135,12 @@
    "time": "2026-11-24T12:56:00Z"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "US futures, European stocks slip as Nvidia rally cools",
-   "src": "Euronext Markets: Real-time Stock Market Data | live",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkEzZzFGeDFmbDBHeTBfQUJvMmRfWjNaN2FzNi0tRlhtcnQ5aTBNMS1WRlFpWktwVEp2U0hhaTl2Um1vSmV0ZktiV1lGMU5vWVJuT3ZVVERwcUM4ZUxqRU1aQ29kcDlTSUlidTFxaFZBQ1czRnNxUXEzT2t2RzBGLW9lS1lfTmJnWVM1MVhUQndlaGJvRVRmSlRB?oc=5",
-   "time": "2026-11-24T12:45:25Z",
-   "t_id": "Kontrak berjangka AS dan saham Eropa tergelincir karena reli Nvidia mereda"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "Maruarar Sebut Bunga KPR Subsidi Tetap 5% Meski BI Rate Naik",
    "src": "Bisnis.com - Ekonomi",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1A5RkNFRm1PTF83em1BY1I3bjNQTjJubG9TQVcyNzNRaU9vOUVCWXR5ZVBVemd5MVRHZ2NqeWhGX0djVkoweFg0dVZ1a2pJZVNiM0dzMFA0a2IzdEpST3BQaUJpV3U5V2VvMUsxWklDVjU5ODFWNTFtTEgzM0NWQ2lMb0tmM1ZTbm45aWlHRG5CdjREV3gwSDdsd0FQSjQ3OEdaU0ZONFFUblBhbnhTRQ?oc=5",
    "time": "2026-11-24T12:45:00Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia Rally Can’t Hide the Market’s AI Problems",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTVXeDMzNFJyRzhZbktqU1lHaTBRZHV2RzdRQTZISDRZbDRuNkE5UFAyVWVDZE5ZeEVaNnhnZm1LdzR1aFNQbWNuMTBsbE8yWmQtT2MwRGZzN0JsTFMxekdrVFJuY0xNUm5YYlhTd1FsMElwUUJCYW1oakE2MUI5ZQ?oc=5",
-   "time": "2026-11-24T12:33:00Z",
-   "t_id": "Nvidia Rally Tidak Dapat Menyembunyikan Masalah AI Pasar"
   },
   {
    "topic": "kripto",
@@ -171,11 +180,11 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "Oil Traders Double Down on Iran Deal Bet as Odds Worsen: Bousso",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajVpLXlaRFBsU2lRRXhDbkZZbndWZDVKYURVY1VwVHhxUEhnNUZvYWtIMkdyU3h0T0E5dmk2c2w0aXJPRGNVeGVVQmk4NGMxS1NEbVpqTHB0S3l4WEdRVk0yR09vek1WczVrbG5ZU3Nqdk1pR2ZPREU1aE5YekFDY204Q2ROQ2lJZjI0Z2wxVURWNTZwanpmMQ?oc=5",
-   "time": "2026-11-24T11:59:47Z",
-   "t_id": "Pedagang Minyak Menggandakan Taruhan Kesepakatan Iran saat Peluang Memburuk: Bousso"
+   "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "src": "EnergyNow",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzRueW14dHJOMjRZQk91MVVmMlI3QmdrRjJMRHFmb0tPbnhkcUxBVDFDdmtPRTBNODVIMWtGa3FYcXZsU2lLZnpMQWlNQ3VfSHNTbDhjd1E4ek9FX25UeXNRQ0cwSUJ6RW1nTFgyZXg3V05aalI2cXVKTHRjdi1icVhfcksxOXd3WTB1ZmVOZGozTWhsSWxJc2syNUMwY0dNbWRseWdaelM?oc=5",
+   "time": "2026-11-24T11:54:25Z",
+   "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
   },
   {
    "topic": "bank-sentral",
@@ -205,15 +214,6 @@
    "t_id": "Harga Bitcoin Turun Di Bawah $60,000 Karena Pasar Crypto Menghapus Keuntungan Dari Reli Nvidia"
   },
   {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "World stocks are mixed after Wall Street’s rebound as Jensen Huang returns as Nvidia’s CEO",
-   "src": "The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEhLVHV6bHFYVlRsRkJQWE5WalZ3TkRzVmhmdTB5V0MzUlJnMElBNm4wVGR3NmxhcUdwNGs3SzlGeUFHQ2R6U0VEdnIzcE04MWd5Yjl4R3I3WkpYb2pwZmNtYU85RkRHMXRtRzJKbHZwcHFIdlRwSFZVOUN3V004X0lOLTQtYkpQU2JvQy1EYlpxdy1INGZTTmNTQUVkQ1owTVFSRWVHbENCX2pObGRFWjR0SVF5Sm1RVkZxY09PMA?oc=5",
-   "time": "2026-11-24T11:11:17Z",
-   "t_id": "Saham dunia beragam setelah Wall Street rebound seiring kembalinya Jensen Huang sebagai CEO Nvidia"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Price Today on November 24, 2026",
@@ -241,6 +241,15 @@
    "t_id": "Kontrak berjangka Wall St merosot karena saham-saham chip mendingin setelah reli yang dipicu oleh Nvidia"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Fury Gold Mines Targets Eau Claire PFS by Q2 2027, Producer Backing & Underused Mill Next Door",
+   "src": "Crux Investor",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1pBeGR3UDNPZzRncDRkQnM5SXAtZm0zNXZwSk1QTVpHOVlWSm1Wdk5NQU5zZ1JTUDN5LUxIYTNjcGl2X2hSNzllZUpZXzRFMUY4V3RfZXRLbXY5bmhoLUVpQTdHdExqRUxTRzB6THZhRlFqNnlRLWlZRkhheFQyVnZ4V3RMWXF5QV9hbHdJcGYxczNmVlUwQTBubnRTRFVmdlN4enpfZjFEZnBGUVlfR3ZEVXdJMGc4N0ZEcHNvVWc5Z3dq?oc=5",
+   "time": "2026-11-24T10:25:26Z",
+   "t_id": "Fury Gold Mines Targetkan Eau Claire PFS pada Q2 2027, Dukungan Produsen & Pabrik di Sebelah yang Kurang Digunakan"
+  },
+  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Gold Prices Edge Lower Following Sharp Recovery as Federal Reserve Rate Expectations Weigh on Demand",
@@ -248,15 +257,6 @@
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGZxT3NPYWNCNDZDVGdvU2oycXdGMXlSSHN0UGFyTU95YkVvYW5SOHYyQ2FGaDAzeW9QdlcwNDJpRVpLcG53OWtYV2JwQUJiOS1Pb3lHM2VUUnVfcDJRTXJTdHpGOGJtMW9Bc1RYMzdCMGFPQkdYYUJGT2VOLXlEY2V6Y3FPWnk3a3NkdkcyWDEyOGJ6RGJIdzl5REJWdUVJQ1BfbQ?oc=5",
    "time": "2026-11-24T10:21:12Z",
    "t_id": "Harga Emas Turun Menyusul Pemulihan Tajam karena Ekspektasi Suku Bunga Federal Reserve Membebani Permintaan"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Stock Market Today: Dow, S&P 500 Futures Fall After Scott Bessent Unveils Fresh Iran Sanctions, Hormuz Wa",
-   "src": "Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeTI2NXZONWZrdFg0M2tMeVNDMzZXM05MS0FMVUZKWERhUkVqalBUVklCN19hYzVGMXMtOUlibWpJajRwa2FNYkhhekN2XzY0YnhjMk05NmpfN2dSOXp2RE1qQnA0VGI4eWttcWVqT3kwMGlYMTRuVnkxcmlEaG5HRDhrUFU1RDlsdDl4TTlhX3dHVUN4dkhzUzZHWEZhbXp2bFl4ZVNZdERld2tzR1pISzE2WGZUYTNMNGk5QzFOc1J1SmJZRVFoRmpuUFBzYlREODRKemg0eDNtTURkSzBLc09fXzdQY2VHeEJhaUlQYm8zLWNKQzVnbmIxaFpjUlVsdVA2WXFkN0VvRHhmXy1iWkdVdVQ2dw?oc=5",
-   "time": "2026-11-24T10:18:39Z",
-   "t_id": "Pasar Saham Hari Ini: Dow, Kontrak Berjangka S&P 500 Jatuh Setelah Scott Bessent Mengumumkan Sanksi Baru Terhadap Iran, Hormuz Wa"
   },
   {
    "topic": "saham-as",
@@ -287,14 +287,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Menguat 0,49% ke 5.241, Saham Perbankan Menopang di Tengah Klarifikasi MSCI",
-   "src": "www.fxstreet-id.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTZoVHNFcmVFNzZ0ZEc4OHhtVmhBX0wzYy1mVHNWQnB4ZlVpUkYzU0lKNDd0Qll5NlJGNjlfU2ZZWVJmRlNlQkNTckQ4VEdvQzVSOE0tX0ZJbjdTVDMwQVE2RUNQSEV1bGgxNUFPZlJlQ3loM2E4aXBNbWdHaVM4dF94Z29VbmNPOFRnODVyMFRXazlNYWozQUxZUXl2NlR5SnhPVWQxYUUzWWdkWGVRbWFnT0JmOTlaYnpPYUZyWEw?oc=5",
-   "time": "2026-11-24T10:00:12Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Biaya Menjaga Rupiah",
    "src": "SWA.co.id",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mYklrZG5WeWtjM1lyaldzblRmUWxldzMwdUlzZ2EtZzNwTGd3cFlSN096LVZiUFJWSHNyWDRNa3lsUmxpUWVoX2lIajRQUzlaMlNSV1pQSk9RSDRjSGln?oc=5",
@@ -307,15 +299,6 @@
    "src": "Aktualita.co",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3ZtV29VZ0F6SXcyTlE1NVlicGI0amM0SkRwcC16U1hZLU5VMWx2Y2FXalh1eERHRmxsQUwtYmx3aWFXeUc5M0ZNVUIyOExyd1ZlV2hSaEJ3VlN0elRSNWcwekRmOXo5NFZLWU9GV0xwenJIUnRua0xqWmRHd0RRWTFxcHM?oc=5",
    "time": "2026-11-24T09:56:34Z"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
-   "src": "StoneX",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
-   "time": "2026-11-24T09:54:33Z",
-   "t_id": "Emas Rusak, Tapi Apakah Ini Pertanda Apa yang Akan Terjadi?"
   },
   {
    "topic": "geopolitik",
@@ -334,6 +317,14 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWE9vSXVBaXdSaW9PbW1KSGhubTFNeTFRUnI5M2MtZVVVa2tSeVk3bEs1OGRITFNGc1VxdkpaT0xlOEhFeHpLWF9MREJNeGhzYW4tanh5RHlob3VBLTZtYUhsZUE2ZXNvdlh0UlRQN0tPbk5Pd2ZFMlBUdGRLT0JtcFNpN0luVDZiOGhyYkxLc0xlNFZnUGJ1NlBFeWotYkd4Vm5adGZOdG9sODJpeWZIZTRhN1k3Zw?oc=5",
    "time": "2026-11-24T09:44:41Z",
    "t_id": "Iran mengatakan 2 kapal tanker minyak menabrak ranjau laut, terbakar di Selat Hormuz"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Penguatan Masih Terjadi, IHSG (24/11) Menguat 0,49% ke level 5.241",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0Z3VaaXA3SHJLT2RCMkhCNWNtbkFNZEoxdHV6RG5oeGJrLVlZeHB2bG9WbWdMQ2g0MElpUmlHYjJzY2k4LTcxRFhTZjRPSjR4cUM5ZEc1SDExR1hvajJyQnhVT0JxUQ?oc=5",
+   "time": "2026-11-24T09:44:00Z"
   },
   {
    "topic": "indonesia",
@@ -370,15 +361,6 @@
    "t_id": "Harga Bitcoin Masih Bisa Reli Di Atas $100K: Begini Cara dan Kapannya"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nvidia shares fall over 5% in premarket after Huang comeback rally",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52aUdsdjBXTkFjSkg1UVpmamJ6cXNsRWxPSGRGZXNMOFNuRWFHZEdudVdnQ2pRS0xKbFJvRUJmYldqSEl6UzFseHJWZzdENkNrbEdXd05yWEpyU3NOQjM3TVNjZUcyYVlKZ0RGTFlPVWF2T2hvX0tUVdIBfkFVX3lxTE9jTGJUVzdZamlIUjdnZlVNYkVhaDJ4MzY5MmpTZUpGMl9GRjZDSTNGR2FGenRsN0djalZxbjlrWUNCUXFOME9HdHdVTzdPTE9KT28wei1iTXl3bUxLSTZKRm1VWGhXVlhFQUpRMTV4ak9tUUtGdXZ6b29YNWhCQQ?oc=5",
-   "time": "2026-11-24T09:12:05Z",
-   "t_id": "Saham Nvidia jatuh lebih dari 5% di premarket setelah kembalinya Huang"
-  },
-  {
    "topic": "china",
    "lang": "en",
    "t": "China approves 2-month suspension extension for select US export restrictions",
@@ -386,15 +368,6 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGJjU0RFbHBrM1lxR0JTVFdxR3Yza3RwUkZFdmp1c1JBc3NpTlFRdUFYTzJ3RXJKMVo1N040VE9FZTNPLXNHVU9uVW9ndnpWOGlUQ2FYOTQzOXpJMy05Z1cxRS1qVmZKcWtxRU9RY05lS3l1R2N4WmY0YlRzWnRRVW9MdlNZaDJKTHBnbzJnU2F0Y3lkTkdadVZxOFU4Wlg5ZC16MEV2aHZFN1hDaDZqRjczeUlYakMwWTlqOGtPMNIBvwFBVV95cUxNZlJJWkx3Qm55NVVONEpMTkEzWE1iLTNaZmR2LUZEdXNSbG1KRDhJZy1jaDJERjlVTXZfNXVaTUZwYVM1MHdpZktSa0J6UE40ZnVualM0VjdHVE03YnhTZmFEeTY0UDUzcmp1cTNqcXlaSnRsX3dxd1JaZFJwbGdhLUxwOG9CVnVFSmVQSzJLWkJVVjVObTBabkF1Ry1DXy1LdGpsbm9jU2pwdFhPZGoybVlsS05xNXczdzBQVDV0SQ?oc=5",
    "time": "2026-11-24T09:01:45Z",
    "t_id": "Tiongkok menyetujui perpanjangan penangguhan selama 2 bulan untuk beberapa pembatasan ekspor AS"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2IxYUd4RUpyMlphZEc2NEs2akF4N01LV195aWNBd0F5TEtTWlFHeW9Tb3Raa1UtYUFMeWVlWjRaZXBzUWVUTFo1b0ZWemRNWEZRY2VUTUlTMUpxb3E1YWhINkJFV2pIU2UyN3RPRm90LWVsT19GRHNWZUlqWWJOeHFRcExyRTlFMjFyYTF2WmRkSGFSMnlrYmd3YnJYVjg?oc=5",
-   "time": "2026-11-24T08:25:00Z",
-   "t_id": "Saham-saham Asia bangkit kembali seiring kembalinya Jensen Huang ke Nvidia yang menghidupkan kembali perdagangan AI"
   },
   {
    "topic": "china",
@@ -521,7 +494,35 @@
    "src": "Bareksa.com",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2c0NXk5azViV2lvLTRHUW1kcWVNc1dwS19DOVlQQjh6Z2dKaHdtaWxJMmFuU0h2Zkl4NlZjZ296Z3FhaXlwVnJwc1Z2YXdMQjZQOG1BbGZqY0FLR19fem5USTFHMzNzcVV2TGEwaW9qdjBseDhqc2ctQzA5aUh1ZV9STWlNNm5sOWN2NWJrMTRGVjZOd2lIdXpDT3MtUUVneVNRckI3WlNNMnZmVmpQS3JEQkNsS3BuQ2c?oc=5",
    "time": "2026-11-24T04:03:53Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold price volatility weighs on housing and auto markets",
+   "src": "Hürriyet Daily News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGdFWDVPUE05dzRzczBDbHRscE9FOHd6U2IyN2d4NEo5ZGZIODRLZG9SS1c5V053czN0NTNndFhTRTY5UXdWSXNyT3FVOHAtVXJnTS1yaWx6UDFJQXQyd0hpX0NaSDVhdGd2b19vcE5yUWtpdms1YjdOSnVONVRpMl9BWjFTTm9yMFVIRkhDbE9ySXlLMmZpci1yVlA4dw?oc=5",
+   "time": "2026-11-24T03:55:01Z",
+   "t_id": "Volatilitas harga emas membebani pasar perumahan dan otomotif"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Cicilan Mobil Baru Bisa Tambah Rp41 Ribu Usai BI Rate Naik",
+   "src": "Moladin",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mUmQwNXEzbWNWU2Z2b3ItT08yMnlZQ2lWTm5LSGJvcE5ZaDV0dy1Kamo5d2gwLUVsZ1hBTzZNdXZSWkk5cFNSV0k0akxwbWpzSjBxdERtRkZGNU5LODJjTGo3Wlo4bWd6Tmc?oc=5",
+   "time": "2026-11-24T03:39:20Z"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "World stocks are mixed after Wall Street’s rebound as Jensen Huang returns as Nvidia’s CEO",
+   "src": "The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEhLVHV6bHFYVlRsRkJQWE5WalZ3TkRzVmhmdTB5V0MzUlJnMElBNm4wVGR3NmxhcUdwNGs3SzlGeUFHQ2R6U0VEdnIzcE04MWd5Yjl4R3I3WkpYb2pwZmNtYU85RkRHMXRtRzJKbHZwcHFIdlRwSFZVOUN3V004X0lOLTQtYkpQU2JvQy1EYlpxdy1INGZTTmNTQUVkQ1owTVFSRWVHbENCX2pObGRFWjR0SVF5Sm1RVkZxY09PMA?oc=5",
+   "time": "2026-11-24T03:35:05Z",
+   "t_id": "Saham dunia beragam setelah Wall Street rebound seiring kembalinya Jensen Huang sebagai CEO Nvidia"
   }
  ],
- "errors": []
+ "errors": [
+  "AI stocks Nvidia selloff OR rally: HTTP Error 429: Too Many Requests"
+ ]
 }
