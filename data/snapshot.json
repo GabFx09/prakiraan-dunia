@@ -1151,6 +1151,17 @@
    "ihsg": 5241.587,
    "usdidr": 18158.0,
    "ust10": 4.918
+  },
+  {
+   "t": "2026-11-24T16:05:00Z",
+   "risk": 70,
+   "btc": 59721.99,
+   "gold": 3591.2,
+   "brent": 87.16,
+   "spx": 7156.87,
+   "ihsg": 5241.587,
+   "usdidr": 18131.0,
+   "ust10": 4.9
   }
  ],
  "horizons": [
@@ -1597,6 +1608,30 @@
  },
  "news": [
   {
+   "t": "AS dilaporkan menyiapkan tarif lebih tinggi untuk China dan puluhan negara terkait subsidi industri",
+   "src": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXAwNXdrRkJVdFBYa2dab2VpZUJEVHM2a19LY2dITGwwZXlEYjBieDhyWUpxRlFRMDNpRDUwTHpyb1M3ZndKNkR0ekNGVXdhaWJDS0VYOWktRnZLeDltTzhRX2Nxa0hXbFpYS2phU1oxT2RmeUhNeExmUWVWNktxa3BSUkhrUDVIYzU5VXNRVUFXNTFOeDZYOWUydXlBbnRUWDk4XzJlS3dDd1hOcUhiZjdfQTRwYVNySXgxNE5LLXVyMmZ1U0E?oc=5",
+   "time": "2026-11-24T14:51:58Z",
+   "impact": "turun",
+   "assets": "Saham global, IHSG, rupiah"
+  },
+  {
+   "t": "Wall Street dibuka turun saat reli saham AI yang dipicu Nvidia memudar",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
+   "time": "2026-11-24T15:05:45Z",
+   "impact": "turun",
+   "assets": "Saham AS, Bitcoin, IHSG"
+  },
+  {
+   "t": "Emas menguji dukungan sekitar $3.600 saat taruhan kenaikan bunga Fed menekan",
+   "src": "Kitco",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONW1hcGJjNFlvQ1ppXzM3S0l5YUpzbkZhXzg1c2FPMEhLNVZ0dklmVW1TUHY3dmtxN21ZZVNvQVNHRzh0RXBtN2lmeGZ1OHVEVW5vNFdlYTdSZFFxY0tJU05vQkh1dVRXUk1lYl9NZko0eTd1cGdjRmR1WU5lUGtaTDNXYUxKZTNfcUpsc1c1MG9IRmVWUWFrTVVDV0s5OVJiNHRXRUIwb3ZMeVZzQ0N6a09TZF90MDhOOEoyeUpB?oc=5",
+   "time": "2026-11-24T15:01:47Z",
+   "impact": "turun",
+   "assets": "Emas"
+  },
+  {
    "t": "Iran menolak berunding dengan AS sebelum 7 syaratnya dipenuhi; serangan di Hormuz tertinggi sejak perang dimulai",
    "src": "San Diego Union-Tribune",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3ZwYWthcl9wT01yOUR5NW5aa0Uzd29GSEpPRzVXMERlc1IzR0hvTXVfZUlNVWVDZ0J0YVBvVGJMOFZTd0ZSTnMyeWlkLU1uQ1BmWnVGZ0U2QlBIQ1N5YnpHcTM0amNQLUE1RERoSjJ2cTVBZm8xWjFSVm1VVnhYMWZXQlQ?oc=5",
@@ -1667,30 +1702,6 @@
    "time": "2026-11-24T01:13:35Z",
    "impact": "naik",
    "assets": "Rupiah, IHSG"
-  },
-  {
-   "t": "BI: pertemuan Prabowo dengan MSCI membawa sentimen positif, rupiah menguat tipis",
-   "src": "Tutur.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMExfcTN5S1VzdGVVVXBWM0V3T2x2UjJHZFFiLTI1RGw0Zzl5ZkR6dWNWSHpQRlBPUWRSVFZxQjF2RnFaRHlKZE85QzVoRWJPeEtKeF93SmNBUTRSRHNrNldzdDA1MFNOZkZSc3pxSzQ5Sl9fV2g5RHNrcWw4Y3BZMERORUFiTnpvUngwNVdWVG9WMGJTY0NWMGJObDB2ZzRIbWY4?oc=5",
-   "time": "2026-11-23T23:48:48Z",
-   "impact": "naik",
-   "assets": "IHSG, rupiah"
-  },
-  {
-   "t": "AS menyiapkan tambahan tarif sekitar $100 miliar atas produk China, menambah risiko dagang global",
-   "src": "Yeni Safak English",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1ZkQTEwNWhuMV9vTEZFYm1NTzFsWHlBWnJWMTRsc3dvVUs1MzlicFk2RXNGNnVBMGQ5dU1mM1ZQQmN6ZnpaemNuZWFhN001MmVPamhlNWs4OS1sUDh4MlBsd0JpdkVjcXBaQU5IaWR6Y1NqUUxZYi1BbVRHdjBJak4teHRXcVQ5Z3loQ3lMWjVBZHBBZUE?oc=5",
-   "time": "2026-11-23T22:28:33Z",
-   "impact": "turun",
-   "assets": "Saham global, IHSG, rupiah"
-  },
-  {
-   "t": "IRGC Iran klaim ranjau membakar tiga kapal tanker di Selat Hormuz (belum terverifikasi independen)",
-   "src": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ1pJdmpCMEdJUzFpbmtZX1VlQ2tXUDVhS1ZPZGM2ZXdPT3huNjJ2TkQ4MDJpaWVVTFBpNmQ5bFBMalVEa0Noa0ZkdzhRVzlxUGRvWVF1X3R1MEF4dDgxM25DUkJQMlQ4UlJyRThQX0I5cG9tcEc1RkVyTjlBSW5uMzZkY3NQVDlWV01IVzF5UldBMVBhVFlfLWpxOS16QU9lcWJkMWdpMWgxMHdwTFdrOVVyZjdCX044eENlY2pBMEp3dmVFVnBCLU4zUnBZR1duRS1YbHYtMjN2Y2F6?oc=5",
-   "time": "2026-11-23T21:49:27Z",
-   "impact": "naik",
-   "assets": "Minyak Brent, emas, rupiah"
   }
  ],
  "readings": [
@@ -1707,39 +1718,39 @@
    "v": "3,7%"
   },
   {
-   "c": "neg",
-   "d": "+0,12% hari ini",
+   "c": "neu",
+   "d": "-0,37% hari ini",
    "h": "ust10",
    "k": "Obligasi AS 10 thn",
-   "v": "4,92%"
-  },
-  {
-   "c": "neu",
-   "d": "-2,67% hari ini",
-   "h": "brent",
-   "k": "Minyak Brent",
-   "v": "$86,98"
-  },
-  {
-   "c": "neu",
-   "d": "-0,24% hari ini",
-   "h": "gold",
-   "k": "Emas / oz",
-   "v": "$3.643"
-  },
-  {
-   "c": "neu",
-   "d": "-1,31% hari ini",
-   "h": "btc",
-   "k": "Bitcoin",
-   "v": "$60.409"
+   "v": "4,90%"
   },
   {
    "c": "pos",
-   "d": "+4,73% hari ini",
+   "d": "-2,47% hari ini",
+   "h": "brent",
+   "k": "Minyak Brent",
+   "v": "$87,16"
+  },
+  {
+   "c": "neu",
+   "d": "-1,65% hari ini",
+   "h": "gold",
+   "k": "Emas / oz",
+   "v": "$3.591"
+  },
+  {
+   "c": "neu",
+   "d": "-2,43% hari ini",
+   "h": "btc",
+   "k": "Bitcoin",
+   "v": "$59.722"
+  },
+  {
+   "c": "neg",
+   "d": "-1,11% hari ini",
    "h": "spx",
    "k": "S&P 500",
-   "v": "7.237"
+   "v": "7.157"
   },
   {
    "c": "neu",
@@ -1750,10 +1761,10 @@
   },
   {
    "c": "pos",
-   "d": "-0,70% hari ini",
+   "d": "-0,85% hari ini",
    "h": "usdidr",
    "k": "USD/IDR",
-   "v": "18.158"
+   "v": "18.131"
   },
   {
    "c": "neu",
@@ -1762,11 +1773,11 @@
    "v": "6,00%"
   }
  ],
- "regimeText": "Rebound saham AI setelah Jensen Huang kembali memimpin Nvidia meredakan tekanan pasar, tetapi inflasi AS 3,7% dan sinyal Fed yang condong naik masih menahan emas, Bitcoin dan rupiah. Ketegangan Hormuz menjaga risiko geopolitik tinggi.",
+ "regimeText": "Reli saham AI setelah Jensen Huang kembali memimpin Nvidia memudar, sementara inflasi AS 3,7% dan sinyal Fed yang condong naik menahan emas, Bitcoin dan rupiah. Ketegangan Hormuz dan rencana tarif AS terhadap China menjaga risiko tetap tinggi.",
  "regimeTitle": "Stagflasi, risiko tinggi tapi mereda",
- "risk": 71,
- "riskNote": "Hormuz memanas dan Fed condong naik; reli AI mendingin, BI-Rate 6% menjaga rupiah.",
- "updatedAt": "2026-11-24T12:58:03Z",
+ "risk": 70,
+ "riskNote": "Reli AI memudar, Hormuz dan rencana tarif AS menjaga risiko tinggi; BI-Rate 6% menopang rupiah.",
+ "updatedAt": "2026-11-24T16:05:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -2061,23 +2072,23 @@
   },
   {
    "k": "Inflasi & suku bunga",
-   "v": 85,
-   "note": "Fed Williams: bunga naik, UST ~4,92%"
+   "v": 84,
+   "note": "Fed condong naik, UST ~4,90%"
   },
   {
    "k": "Valuasi saham",
-   "v": 67,
-   "note": "S&P 500 rebound 4,7%, masih rapuh"
+   "v": 69,
+   "note": "Saham AI tertekan lagi, S&P -1,1%"
   },
   {
    "k": "Likuiditas & dolar",
-   "v": 75,
+   "v": 74,
    "note": "Dolar kuat, emas dan BTC tertinggal"
   },
   {
    "k": "Indonesia",
-   "v": 68,
-   "note": "BI-Rate 6%, IHSG menguat, wapres kosong"
+   "v": 67,
+   "note": "BI-Rate 6%, wapres kosong"
   }
  ],
  "alerts": [
@@ -2093,11 +2104,11 @@
  "brief": {
   "date": "2026-11-24",
   "points": [
-   "Serangan di Selat Hormuz naik ke level tertinggi sejak perang Iran dimulai; Iran menolak berunding dengan AS sebelum 7 syaratnya dipenuhi, dan AS menyiapkan sanksi baru.",
-   "Kontrak berjangka Wall Street melemah setelah reli besar Nvidia; S&P 500 mencatat kenaikan poin terbesar kedua sepanjang sejarah pada Senin.",
-   "Bitcoin kembali di bawah $60.500, emas ~$3.642 (dekat level terendah 14 bulan), Brent ~$87 karena pasokan Libya dilaporkan pulih.",
-   "IHSG ditutup naik 0,49% ke 5.241; rupiah ~18.158 per dolar AS setelah BI-Rate naik ke 6%.",
-   "Pantau: calon wapres ke MPR (25/11), PCE AS (25/11), OPEC+ 29/11, MSCI 30/11."
+   "Wall Street dibuka turun: reli Nvidia memudar, saham AI kembali tertekan; S&P 500 sekitar -1,1%.",
+   "AS dilaporkan menyiapkan tarif lebih tinggi untuk China dan puluhan negara, ditambah sanksi baru atas Iran; Hormuz tetap tegang.",
+   "Emas ~$3.591 (sekitar level terendah 14 bulan), Brent ~$87, Bitcoin ~$59.700; USD/IDR ~18.131, imbal hasil UST 10 thn ~4,90%.",
+   "IHSG ditutup naik 0,49% ke 5.241 setelah BI-Rate naik ke 6%.",
+   "Pantau: batas calon wapres ke MPR dan PCE AS (25/11), OPEC+ 29/11, MSCI 30/11."
   ]
  },
  "calendar": [
