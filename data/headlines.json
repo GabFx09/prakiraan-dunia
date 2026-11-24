@@ -1,7 +1,24 @@
 {
- "updatedAt": "2026-11-24T08:29:58Z",
+ "updatedAt": "2026-11-24T08:44:36Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMkpRNmtac0F4dkZ2QTRqVEhSc2piS0Vpd1JNaHVScnZZYmRfdzBEbWZXOUFjb0dhR29XZURYZnRUcTVkQW41Y3pOT1plS0ZDOU5NTm1Qel9OUWRMNU53Y2ZoUjBWU045YUczZFRfZGswa0UtY2hVMVJMS2g0b29qUmw3YjN4VHF0aGVTYjVZdl94WjcwdXkxZ3diaVNXSWZwcE9tM2V3b3JLcTRTU0o0aw?oc=5",
+   "time": "2026-11-24T08:27:00Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade",
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2IxYUd4RUpyMlphZEc2NEs2akF4N01LV195aWNBd0F5TEtTWlFHeW9Tb3Raa1UtYUFMeWVlWjRaZXBzUWVUTFo1b0ZWemRNWEZRY2VUTUlTMUpxb3E1YWhINkJFV2pIU2UyN3RPRm90LWVsT19GRHNWZUlqWWJOeHFRcExyRTlFMjFyYTF2WmRkSGFSMnlrYmd3YnJYVjg?oc=5",
+   "time": "2026-11-24T08:25:00Z",
+   "t_id": "Saham-saham Asia bangkit kembali seiring kembalinya Jensen Huang ke Nvidia yang menghidupkan kembali perdagangan AI"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -19,20 +36,28 @@
    "time": "2026-11-24T07:58:19Z"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Forecast: BTC resumes downtrend as Nvidia-driven squeeze fades, ETF outflows persist",
+   "src": "FXStreet",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbjlBeGlFTFBvM2o2QV9NZmlKZTN4dng3ZlRzalo5N1MxRjVIZEo3NzhucmtSXzMzdWFuRFFKYXFFeERxOXFjVk1GZjVLd3FwUnVJOXBWLVd0U0RNTzRHUDlMR2I0cmhkdmZEWVRmeHlRNXVaWVJsYkFJcUMtdDI2MnlxT3BmTzZKSjBLRFQycTlOWEY0SWhhOTFxUnJKOXlXWHRFWkN3OUNINlpMSWdKV2lDWDg1Vjc5SzZENUN1Qk1QTkZBaU9fSXZaSDNqREV0UEZvTXVTSTUzVGRVWmYyTWpueGNUNXpnWFU4Vw?oc=5",
+   "time": "2026-11-24T07:41:07Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "PAEI Bongkar Peluang Kebangkitan IHSG, Reformasi Pasar Jadi Penentu!",
    "src": "pasardana.id",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG1VM3lLendzaVg1Tkk1TmxvYXBZaHd5YzVyNWVNNDBQdGI1bGk5UGRvcnlEcFMwNDJDR1NQMDNqY0lVemNxbHRId3A1Q2hTbF9MQ0hkbzFsQzVCd0c3ZXE2WFN5T2pLTmp1d21oMjhTWTNOd2VRcWdqSFl1cEIyUmY5VmJDekpHdU5sUzBTU1JuSlhIZU1xNFhEWEcyemVmdTlRNkpB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWE5EQUY5U0VJZFkyaWFneFNkN2IwU1BBZ3FORGxQY3EzWWk5NTFab3NKdjhScVItclpfVFViMDZzamZNYzJQSjdFUGJoMjJ3MWlxandOWVBITmowRElLYXZrU2QyV0JBUk5icl9FQXRMQjhfVVJsbjNId2hDdWx1SFZ0UEZwVjQ0LWFRWUlCeEs1amg5Y1MwQmgwN1lyclNPRFB4OG5n?oc=5",
    "time": "2026-11-24T07:37:00Z"
   },
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Pemko Medan Ikuti Rakor Pengendalian Inflasi 2026, Kemendagri Targetkan Akhir Tahun di Bawah 3 Persen",
-   "src": "DNABerita",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczM5R0dhOHFHOVVKbmJKMTJXeEp4UzRiMHBMRFpXbEdIRHd5S1R1ZUprZ3hrdDBCNElpYVFwOEs5VkVMYnh1QWM3RE9PanQ3REhaZzBoZVlrd2xaVHYyX214aElCT0tjTUI3cm9TMVAwendoM3lnVFd1a3NSYjg1UExWNHdwT214aTRrcE1qekcyRDRPckNyaXNpMjFwbU1fRnFmTk9YTUNBd3NTYXlISDByVzBMQkV1OUhBNFhzUDA?oc=5",
-   "time": "2026-11-24T07:27:04Z"
+   "t": "Tok! BI Kerek Suku Bunga Acuan Jadi 6 Persen pada November 2026",
+   "src": "Infobanknews",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUtMQXUxeG43TFhzWGhqS2ljTF9MSWdENDR6eHA2UWVTV0tvTnRyN3IzRFk0ZWJ3aXk5d3g2anRZaWRmMFZiUUY0TXBfLVMzWTNXV21kN2RCd05SRHA1dk5JNzJJTi1JTmFzNWhwMTZqTTZWalU5SWVXUzFuSnFHN3IzN0JmSVBuanJpbERVMEo?oc=5",
+   "time": "2026-11-24T07:22:06Z"
   },
   {
    "topic": "indonesia",
@@ -41,6 +66,14 @@
    "src": "Aktual.com",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkxpdDlKMUJZbzRVRVl2ci1ZeU4wN3lyYktCRWduVWkzVUtkUFRBQTV1b210SkJzWTkzaS1VQkx0bXZqb3FVM09IWGFDYW9acGdMVFVCT0VQQUZxN0ZzaDNnZ2tKNkRiRGRzbThaSHgzN3luNV9RVUlydG9MYmN5R1ItSTZhTnA4MWRQQ2ZUaE01R0VFYzRGVkQ3VmlTWFBiOGVTSExPb3o?oc=5",
    "time": "2026-11-24T07:00:25Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmJpMWN6bWFhcTZPODltRi14YUU3OGtyV0w5QURTOTYxRzUydUJxeXRrckVEOFRQaHYzaHNFVVFBN3dEX2lHakJ2d1hseVdLeThBdm1HWlJjS3B0NjBFZ2tlVDNMTHpCSm5VUTk4TjYtMEMzb3BlV2owcjh6cXBicG1iUTZmbUl3X2RaUlBSWEZxOW9vRHlZ?oc=5",
+   "time": "2026-11-24T07:00:00Z"
   },
   {
    "topic": "indonesia",
@@ -73,14 +106,6 @@
    "src": "Kaltim Kece",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRk1yZ0Rwem9YUElpV2dNZkFvN0RTVUFwVkdkbXhEY1d2UXZ3aW9lcTlMbGJPNUFuSkN5R3FLdVB3MF9MZFR3Qkk0cm5waWR2QmdaSjNTWUMxVGFqR2xSX1diS2ZCTzkwUldmWEV2U3BCT19vazZLU1k3Q081R0wyLUhiaXZVZmxsRzBlQ2t5TWd1QVhKVmswZ2hR?oc=5",
    "time": "2026-11-24T06:47:37Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Emerging Market Stocks Rally as Huang’s Return Revives AI Trade",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbl9tOWRvMDhVMFR5RW1QeEhJMG1IOVhkNEdRUGdjYmtIbUpLbTV2dnltRXAwWEgxb2pObDRiRlJlLWx0d1VQdXNXdTc2MWFBeHBBTm9fTTVEOWVXcUJOcmRQQWN5Mk9iNXBPV19WcDI5R0FDZERHR25qSC1fc1lnOURmTmlvU1NRTUNSOWZFODhKZFFPLWZlY3JiTll1NVVQR0V4UzFSNS1hM28tWG5nN3Y3TGQ?oc=5",
-   "time": "2026-11-24T06:26:00Z"
   },
   {
    "topic": "indonesia",
@@ -133,14 +158,6 @@
    "time": "2026-11-24T06:04:40Z"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin price struggles near $60K as Nvidia rally fades, ETFs shed $570M",
-   "src": "Crypto News",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xSlZYc2NUekJqVWhpbkIzcTVLMUFTcGdzS1c3NkdVLVUxdFR1VG9QVGtHeUtCYzQxbFA4ZVBLbzFscUJqOVFOdVVERVQtUmN4QkUwTnlrd0ZCV2d2RUota0V4MzlPQWpQT1RvcndTSnh3YUc5MHJOQVJR?oc=5",
-   "time": "2026-11-24T05:56:00Z"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold (XAU/USD) Price Forecast: Bullish Reversal Targets $3,900 Resistance",
@@ -172,23 +189,6 @@
    "src": "Bisnis.com",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHFXQ0JvNjVVZEhUNUIxWVRMbEROY0lrN29JSUU1cmYwenhQbmE5TE90TEpUUlFRNHVMWE1ENGdhMUtYTG9nX2xjLWxydTM3UnpQVGNwaHI3bUVFaHdFSThHaHZXRjNXTy1uOGhBMndNQ2ZKZWN0dGg2NzJEVUUycFhDQXdZaWg5dGRxX1lSMHpxNGwwRW52cmU3ZUFob2Q5dzM5amY2VnBiUmhpakE?oc=5",
    "time": "2026-11-24T05:30:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Kepastian Angsuran Jadi Daya Tarik KPR Syariah di Tengah Kenaikan BI-Rate",
-   "src": "Infobanknews",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnZNcHh2WHpRWVRnLUxPcGcxZDF4M0NzZXhyb1Ftc1E4bG5kTDhiWUFxQ09NTXgtZEtnTm8yRXNyUlJOTU53WlV2aG1hWU5taVk0QXZkT1Etc2ZMcURoOXNjUXRubTA2YjlTcEQ5UFc4am9DYW1iRHBDWGNGRmRLVjBCM2thenNvbUN5NG1tUXRxSWI0SkRhLU1GMUtFV2M?oc=5",
-   "time": "2026-11-24T05:29:51Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2IxYUd4RUpyMlphZEc2NEs2akF4N01LV195aWNBd0F5TEtTWlFHeW9Tb3Raa1UtYUFMeWVlWjRaZXBzUWVUTFo1b0ZWemRNWEZRY2VUTUlTMUpxb3E1YWhINkJFV2pIU2UyN3RPRm90LWVsT19GRHNWZUlqWWJOeHFRcExyRTlFMjFyYTF2WmRkSGFSMnlrYmd3YnJYVjg?oc=5",
-   "time": "2026-11-24T05:14:00Z",
-   "t_id": "Saham-saham Asia bangkit kembali seiring kembalinya Jensen Huang ke Nvidia yang menghidupkan kembali perdagangan AI"
   },
   {
    "topic": "indonesia",
@@ -393,11 +393,11 @@
   {
    "topic": "bank-sentral",
    "lang": "en",
-   "t": "Fed’s Williams Says Officials Must Act ‘Over Time’ On Inflation",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2hFTElab1BSaGQzN2hEczFEakZGaGV3TW00N2laRU0zb3prdDc4am9uR3MwOGtucDNsRU9UT0d6eG5aZjYzcnpIUXRnOGJ0eFhuX0pCRnoyLXJCMEJnMnMtd01xVXd0MVItSVVPUWZ3QzE3UGdTNVVFWkZiUkxoNW9BcG94WnNnQ21FejZnQUs1Nm9HdFMyeUxlazZEY2hOSUhFaFl5dWNUdG5HdDBDM3ZR?oc=5",
-   "time": "2026-11-23T22:55:09Z",
-   "t_id": "Williams dari Fed Mengatakan Para Pejabat Harus Bertindak 'Seiring Waktu' Terhadap Inflasi"
+   "t": "Will the Fed Raise Interest Rates in December 2026? What to Know Before the Dec. 9 Decision",
+   "src": "Around Prague",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSExVWUhSWUR3VW5lejh6Szk2VFZsb19ZZnFMRzMyQW1YUzU5bDd1dWZoYUpqUlM4bmFyUk1nc2tGOGY0eWNIRXViUmZwLVR0UkMtSmxCVGMweEJ2SXdwMzVxelZROGs3SFZNZktlcmxJRnB0Yks2QUNjVjJIaGE5SWR1bHZZbFBkbHpyWnFqcXo1SHBmbndvb2ZNWmFsV1RSc2M0ZDNabS1kSDlUZHRRZnU5TQ?oc=5",
+   "time": "2026-11-23T23:23:23Z",
+   "t_id": "Akankah The Fed Menaikkan Suku Bunga pada Desember 2026? Yang Perlu Diketahui Sebelum Keputusan 9 Desember"
   },
   {
    "topic": "geopolitik",
@@ -480,15 +480,6 @@
    "t_id": "Terakhir Kali The Fed Terus Menaikkan Suku Bunga, S&P 500 Turun 25%. Sejarah Mengatakan Investor Jangka Panjang Masih Lebih Maju."
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkRJdUt0LVhZdzVhR0RpSnN6RWh6cDdGQVhOUU9vNENLN0hnSXB1YXJFU01rMzZBaXhuelM3ODlra1hKdnRxcnYweGNRSmFmSEpnMzJSQWxkOXZqZVM3NjBrZ2UwQS1PQS12di1uaHFUQWJRZHE2aHhxMnlLcVJ5Z3owcXd2WTV4NFJQSUM0SWplUVA5bW80ZU9fdDYzV1Z5QnFvcW1kdlhPMW8xc2JRQnVJc19mZw?oc=5",
-   "time": "2026-11-23T21:06:25Z",
-   "t_id": "Harga Minyak Jatuh karena Pedagang Mempertimbangkan Surplus Pasokan dan Serangan Teluk"
-  },
-  {
    "topic": "bank-sentral",
    "lang": "en",
    "t": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
@@ -505,6 +496,15 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82dDFSRHdXZkJGUG4yY05XVnVsV3A3TW4tOVV3Q0pyc0hNcDFlQzJQbmpyRmpQQUtNcDNsVk5UUWVrazRRSkwtRWdLYy01ZXZlWk5jY0lHUWV3MWZ3MjF1ZDUzc1dmMWhpUl8zTWcyMWRnZGp6T0E?oc=5",
    "time": "2026-11-23T20:58:21Z",
    "t_id": "Harga Bitcoin Memudar Mendekati $61.000 Karena Saham Melonjak Karena Kembalinya Huang"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Futures Rebound as Nvidia News Lifts Markets",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1lDUDJKYnppMTFtNDdCYUoyWkVjdTBJYWpOaWY3OHFRUTMxT0VSUTR0UWN4SEFQVVZJUlhqNjU4OFlDeXdHZkh4ZUFFSTNzWXhEcWpRQ0h0eVk3Q1ZmU2I5OURqdnhEc1hlQmRDcGVVLXZ5YW8yTWQ4dWYwRHE4V0dLTGZhd0p2S3A1V0l6MUs4M3RXaFh0TlJDZUdQYkdPRWNoclFEMl9sY2JTQzNZcDJn?oc=5",
+   "time": "2026-11-23T20:19:09Z",
+   "t_id": "Emas Berjangka Rebound seiring Berita Nvidia Mengangkat Pasar"
   }
  ],
  "errors": []
