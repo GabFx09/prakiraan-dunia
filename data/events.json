@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T10:28:45Z",
+ "updatedAt": "2026-11-24T10:43:25Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,15 +53,9 @@
    "score": 6.0,
    "level": "besar",
    "first": "2026-11-23T12:45:00Z",
-   "last": "2026-11-23T23:14:00Z",
+   "last": "2026-11-23T18:45:55Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Poland put its air defense on alert due to Russia's drone attack on Ukraine",
-     "src": "Українські Національні Новини (УНН)",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnR0Nm1uck1JU2dvTUZkaU9VMURrR0ZaSHdfckExWnhndW1EbnJNcGJ1bHhjRzdsN2RSaTNyS3Q5SW15NDZmS3ZCTDZMbFRRMk1xMl9OZGJZQVViMDhxN1drbnJfc2xKUWVhbmNUeXhfUlV3SjR4aFRtME1TYkFqUjJLT3lmaFphanBPSHROQWhHUjNTQXNlUGlIYzNneDDSAZ4BQVVfeXFMTTFNRDVrUkJlcjBuWGZKam5NUVRvdWNndS1iTmphOGVQZVRZTmdGYzBXbHRUcWVvMmIzVXBPWEVGVmYzRW9lWVJmSU5fa0VkaVFBYVRmM3VKWnNTYnJJOTVPWHhWTFZqempfb1lHNVo3QU05Z29vRkZ5TzdJemI3ajdJLWx3QTItYkh6eFlOUTdYdFpPODFlUHpoS05fOWc?oc=5",
-     "t_id": "Polandia menyiagakan pertahanan udaranya akibat serangan pesawat tak berawak Rusia ke Ukraina"
-    },
     {
      "t": "US Citizen Among 5 Hospitalized After Russian Drone Attack on Kyiv",
      "src": "Kyiv Post",
@@ -79,9 +73,58 @@
      "src": "BBC",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tSU1HN19rSUJoSi1qV0FsMnlmVC0wX0p2cklMYTJDZlFFRV8tSm1xejRlMWFpYXRQdU9DTmpjOGNNeE9pUWN6X0c4MVdZOXh4WjRyR3NxZlk?oc=5",
      "t_id": "Bagaimana serangan drone Ukraina terhadap kapal Rusia terjadi"
+    },
+    {
+     "t": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
+     "src": "New York Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWFiM3VHc3ZpOVpHYmtwZUZIR3dPZXRaNXhNZmFYekxsa0F2YkYxU0dmQnhVTnpseFo4ZExSSV9wVUZLQllJVFdVaDNCampIZ3lFeGJPM3FxNWpoRG1yOWpxUzNoblFtdWxNSlZTWE5zTEZnZ0VIa1FRSkhESF85ekN3?oc=5",
+     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
     }
    ],
    "title_id": "Kapal perang Rusia dihantam drone Ukraina di Libya, kata Zelensky"
+  },
+  {
+   "id": "siber-202611230934-3943",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Delta flights in and out of Atlanta delayed due to system outage",
+   "src": "Bundle",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1gtMUp1Qm04TVZxbDRnWjhOT2hDU1RzaUpCODZHRWd5RURZRDdrclR1Q21oSTg4UkE4bGlUaTQtNFFJcFB2NVVWa19kX3dnVjRuZEllOEZkUmJkT3VISUxGNjkwZjkzeGkzSENhcFlwVWgzTmpPWHduY1BVNzc3eE9BNHVUX0FqUEhHY3VRbXFEWmhHeU1rQTRZNnJUTmx5NDJYb0EyVDRXVjQyMzVTZlVPYXY0dFpJWHNBTUVUbEdNR1NQMVFqRzdCaXo0Zw?oc=5",
+   "sources": 6,
+   "recent6h": 0,
+   "score": 6.0,
+   "level": "besar",
+   "first": "2026-11-23T09:34:56Z",
+   "last": "2026-11-23T16:16:08Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Delta Outage Delays 1,600+ Flights: Check Your Status Now",
+     "src": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
+     "t_id": "Delta Outage Menunda 1.600+ Penerbangan: Periksa Status Anda Sekarang"
+    },
+    {
+     "t": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
+     "src": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzVHbXI1MkdQTjhQRHZXNmpTcC1UZHlGcWRJWnZiUkhEZmotR2xZbUU4c0ZHRmh3Z0Uzdkt4eGxGakczam9zYzA2RnpBWmpzTnNPNE42cWxIYl92bFA4c1lDNUNpWUNaY0h2eUREdG9DT25qSnhEM0NFV2hCRjBpaS1rUHctb0ZmaDlyZm5ibmFlOFV4VVpz?oc=5",
+     "t_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
+    },
+    {
+     "t": "Delta outage snarls Thanksgiving travel in latest tech issue to plague US",
+     "src": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmlzTTdrbmRDQkxSekFSclE1YWM4SjJLTXlLUmFHRk56MG9TOXBOOHhfR3BRRzEwNlk0ZExRU2pGZGdhRk5JTmRGWnZpdUI4eThLbWlNT19HYW1MVVBJMDJaVUFJYU82bklGZy1hVS1EX2FFeURHQ0dWS2xabGZ5eHZJMFBWTGhDcEpoWW5LcmlQWlZJVU5Jdlc0NmJ6YnFWOExpQkhRZF9PU01zdFdnTDdUSGdTUQ?oc=5",
+     "t_id": "Pemadaman listrik Delta mengganggu perjalanan Thanksgiving dalam masalah teknologi terbaru yang melanda AS"
+    },
+    {
+     "t": "Video Delta outage causes nationwide delays as holiday travel takes off",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ORXhseHVmSlU4MU5MYXdZbUtNNkp3aERUSzlaVXpoeGdueWFXVlEyUzhaSHYzc2xRSGM3WFdHMVdPMTJhVkNOajA3T18?oc=5",
+     "t_id": "Pemadaman Video Delta menyebabkan penundaan secara nasional saat perjalanan liburan dimulai"
+    }
+   ],
+   "title_id": "Penerbangan Delta masuk dan keluar Atlanta tertunda karena pemadaman sistem"
   },
   {
    "id": "energi-202611232306-c4a3",
@@ -115,41 +158,29 @@
    "title_id": "Harga minyak turun karena ekspektasi surplus pasokan dan pembukaan kembali pipa Libya"
   },
   {
-   "id": "siber-202611230934-3943",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "kesehatan-202611240618-fb41",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Delta flights in and out of Atlanta delayed due to system outage",
-   "src": "Bundle",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1gtMUp1Qm04TVZxbDRnWjhOT2hDU1RzaUpCODZHRWd5RURZRDdrclR1Q21oSTg4UkE4bGlUaTQtNFFJcFB2NVVWa19kX3dnVjRuZEllOEZkUmJkT3VISUxGNjkwZjkzeGkzSENhcFlwVWgzTmpPWHduY1BVNzc3eE9BNHVUX0FqUEhHY3VRbXFEWmhHeU1rQTRZNnJUTmx5NDJYb0EyVDRXVjQyMzVTZlVPYXY0dFpJWHNBTUVUbEdNR1NQMVFqRzdCaXo0Zw?oc=5",
-   "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-23T09:34:56Z",
-   "last": "2026-11-23T16:16:08Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "title": "H5N1 Bird Flu Hits Poland Turkey Farm and Northern France",
+   "src": "Nature World News",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFlBM2Vmd042S2VxZzVnRG5tbjNld3Bmc29wVUh3RXRSTDN2MTlPekZFTVlEdThMelc3RHk4UlZOWHJUaEt0LWZ5NUYwT0lveWFRMGtsSVBHUTNUZGkyd0ZEVmt0aWxBUEJHM21FZm53T0hjcVV3ZVFZOGx1eWZDWTJqVndnQl9GT0F6OG5VUzdHYlZ1ZGVRTURiVUdTb2FLOUNkVm5FOENTT00zcDN4Z29jRXp5bkpOOUsyNmNWMF9feGxnUGZPMnhn?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-24T06:18:00Z",
+   "last": "2026-11-24T10:39:40Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Delta Outage Delays 1,600+ Flights: Check Your Status Now",
-     "src": "shattered.io",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
-     "t_id": "Delta Outage Menunda 1.600+ Penerbangan: Periksa Status Anda Sekarang"
-    },
-    {
-     "t": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
-     "src": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzVHbXI1MkdQTjhQRHZXNmpTcC1UZHlGcWRJWnZiUkhEZmotR2xZbUU4c0ZHRmh3Z0Uzdkt4eGxGakczam9zYzA2RnpBWmpzTnNPNE42cWxIYl92bFA4c1lDNUNpWUNaY0h2eUREdG9DT25qSnhEM0NFV2hCRjBpaS1rUHctb0ZmaDlyZm5ibmFlOFV4VVpz?oc=5",
-     "t_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
-    },
-    {
-     "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
-     "src": "Everett Post",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUlHNWRaYkpXSzAzY2xpYTlWSWFBWXNLeXVJY2xCMVBtRDg1YkQ5N3VDMFJtYVVKalJBLTZ2S0N2U0F1Ym9CcGh2NTRPYlZUZkw3dEs3QlE2cFlRckVxMmU4RGJzeUptcE9nNVJab3FaOHAzYjREdjd4M0dFSllCRXNRWFB4YmJCNnFtQXJwem9IRzFGcTBkdkRoZlotb0pheUFiLQ?oc=5",
-     "t_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
+     "t": "France Reports H5N1 Bird Flu Outbreak at Poultry Farm",
+     "src": "Tempo.co English",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODBKeWZfVTFzMmpVOWkwWHlpM0lXRjFRbWs0RGdwUkJGam91SVh3TWYteXJuUkV4dXVLUGxLdlA2SGVtenVQaXpJWDhjRXFpRFphbVRKQkxUUExtclRRb3Vjd3JRcUs4UDk0OVc5S3RRNG5RMG9GaFJJNVByb1lRZ3VBZndWUERPekxXZmt3?oc=5",
+     "t_id": "Perancis Laporkan Wabah Flu Burung H5N1 di Peternakan Unggas"
     }
    ],
-   "title_id": "Penerbangan Delta masuk dan keluar Atlanta tertunda karena pemadaman sistem"
+   "title_id": "Flu Burung H5N1 Menyerang Peternakan Turki Polandia dan Prancis Utara"
   },
   {
    "id": "perang-202611231546-ffbc",
@@ -181,37 +212,6 @@
     }
    ],
    "title_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
-  },
-  {
-   "id": "perang-202611231341-2f18",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "New SPYS interceptor shot down Russia’s Geran-5 cruise missile",
-   "src": "The Defence Blog",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk9iUkhES3ZjdFFjSlNONkoxcHhFdG1nZUpsaWJoQ0tPMklpTF9VMVRYX01Ha2xyNW5mQnpuQ3RJdDFRWUNIa25Na0w2Ym5DOEg1UzZlYm5jdzBYai1NX0ZVV3dFMUJmRENpWlFtVlJiY1lTclMzTWdaZGdtYUwwMnhBR2g2SGFzeEVXQ0pNNXjSAZYBQVVfeXFMTy1FblhMS3dlQjdQaGNfVVRsTkIyWE14ZHFzeGFrbGEtRFg2WHZGWXFRSGRDZi1qbzA4YXB1dWFPbUxuSmFRUS1peE05RjJNRllMUFBZSi1FVFdvZ0c1VHQwVlpLMmRnN0J3V0k1MDlGbEZBS003WE45b0liQzhzVXdaS252WmtxR3ZqOGhlQi1EVW9LaXpn?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-23T13:41:21Z",
-   "last": "2026-11-23T18:41:47Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukraine Just Shot Down Russia’s Elusive New Geran-5 K5-K Cruise Missile With One Drone",
-     "src": "UNITED24 Media",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXkwbU5NWE1tRnpmN3VpWHZKOU1kbXpkc1RheUh1aHhCbWtMTXZPTzMxWnlZbkdFSGN3bmJrY011UFRQdjQ1cG01cW01X1F1a3NLUzRsUDFvSWZnRks2YWZYNjNnRVhnbERtc2RZbk4tdzhSc2xVbHFFYllWVmc5TkVSR0VZZV9jejZrajFiMkVfNk16LUx6cUZEWV9SOFlLX2ZHcVdIMlUtMkFiVzJITjJTMmh1c1hqMFF6ZlRVcWR2amw3R3RuNy1tdHI?oc=5",
-     "t_id": "Ukraina Baru Saja Menembak Jatuh Rudal Jelajah Geran-5 K5-K Baru Rusia yang Sulit Dipahami Dengan Satu Drone"
-    },
-    {
-     "t": "Six-Hour Missile and Drone Assault Forces Shutdown of Russia’s Novoshakhtinsk Oil Refinery",
-     "src": "Inkorr",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNlM3bWNEb0E4SUJSZEhLRlo0T2Ftc0g5RFlIaWxKWGFiMWhLa3FTYnd5Vkx1bmh6SjlRaEVOQnBTZTNYUUE0VFg1eURidkFuNWo5aGVTQWhOYUNlNUFLYTNLMEVkQnUtaTVqMzdMV2djYUhnUkVtcVMyZUJYZ3ZMQ1JmeXhSaEVRYjhqc2w2QmVQUjFkSlNzYkJHZ1h1bDFPc2MwNnhPTi1mbDFyOERHeUo0X1c3QUJlNUpwRE4xQ2gxNFhvcU9wZDN30gHKAUFVX3lxTFA2UzdtY0RvQThJQlJkSEtGWjRPYW1zSDlEWUhpbEpYYWIxaEtrcVNid3lWTHVuaHpKOVFoRU5CcFNlM1hRQTRUWDV5RGJ2QW41ajloZVNBaE5hQ2U1QUthM0swRWRCdS1pNWozN0xXZ2NhSGdSRW1xUzJlQlhndkxDUmZ5eFJoRVFiOGpzbDZCZVBSMWRKU3NiQkdnWHVsMU9zYzA2eE9OLWZsMXI4REd5SjRfVzdBQmU1SnBETjFDaDE0WG9xT3BkM3c?oc=5",
-     "t_id": "Pasukan Serangan Rudal dan Drone Selama Enam Jam Menutup Kilang Minyak Novoshakhtinsk Rusia"
-    }
-   ],
-   "title_id": "Pencegat SPYS baru menembak jatuh rudal jelajah Geran-5 Rusia"
   },
   {
    "id": "politik-202611231527-08cd",
@@ -293,31 +293,6 @@
    ]
   },
   {
-   "id": "kesehatan-202611231207-1eac",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "WHO declares DRC Ebola outbreak a global health concern",
-   "src": "dailynews.co.za",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yY2oybkJFMzhtOGI0ZmNXZTB3cUFtQ1J1VE15ZFJUbDhsaFFmRXdHOGpvaXY2a2NxdnY5Y3pUTmxsMFVDcmFJMlBUV2xqdE41emhicVQ5TWIxRnZPMk1iZDE2cERpRXlFa2c?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-23T12:07:47Z",
-   "last": "2026-11-23T23:09:30Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Ebola outbreak poses significant threat in DRC",
-     "src": "The Herald Insight",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yTlBBVklPazRkSlJMbkx3eEhtcFNiTi10SHZONlBYcDJMNmpVaHNQMTEtYmRzbWVuYmEtN1g4RFNlcS1NQXhxdGpkd2g4N2owcWVpSUZ1VzI1d3ZuQWlhZHdxaXYxb2JPN1gyUl9Vd0Y?oc=5",
-     "t_id": "Wabah Ebola menimbulkan ancaman signifikan di Kongo"
-    }
-   ],
-   "title_id": "WHO menyatakan wabah Ebola di Kongo sebagai masalah kesehatan global"
-  },
-  {
    "id": "siber-202611231111-9f0c",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -341,6 +316,31 @@
     }
    ],
    "title_id": "Ada Apa di Balik Gangguan Teknologi? Kami Bertanya kepada Profesor Keamanan Siber."
+  },
+  {
+   "id": "perang-202611231341-2f18",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "New SPYS interceptor shot down Russia’s Geran-5 cruise missile",
+   "src": "The Defence Blog",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk9iUkhES3ZjdFFjSlNONkoxcHhFdG1nZUpsaWJoQ0tPMklpTF9VMVRYX01Ha2xyNW5mQnpuQ3RJdDFRWUNIa25Na0w2Ym5DOEg1UzZlYm5jdzBYai1NX0ZVV3dFMUJmRENpWlFtVlJiY1lTclMzTWdaZGdtYUwwMnhBR2g2SGFzeEVXQ0pNNXjSAZYBQVVfeXFMTy1FblhMS3dlQjdQaGNfVVRsTkIyWE14ZHFzeGFrbGEtRFg2WHZGWXFRSGRDZi1qbzA4YXB1dWFPbUxuSmFRUS1peE05RjJNRllMUFBZSi1FVFdvZ0c1VHQwVlpLMmRnN0J3V0k1MDlGbEZBS003WE45b0liQzhzVXdaS252WmtxR3ZqOGhlQi1EVW9LaXpn?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-23T13:41:21Z",
+   "last": "2026-11-23T18:41:47Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Ukraine Just Shot Down Russia’s Elusive New Geran-5 K5-K Cruise Missile With One Drone",
+     "src": "UNITED24 Media",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXkwbU5NWE1tRnpmN3VpWHZKOU1kbXpkc1RheUh1aHhCbWtMTXZPTzMxWnlZbkdFSGN3bmJrY011UFRQdjQ1cG01cW01X1F1a3NLUzRsUDFvSWZnRks2YWZYNjNnRVhnbERtc2RZbk4tdzhSc2xVbHFFYllWVmc5TkVSR0VZZV9jejZrajFiMkVfNk16LUx6cUZEWV9SOFlLX2ZHcVdIMlUtMkFiVzJITjJTMmh1c1hqMFF6ZlRVcWR2amw3R3RuNy1tdHI?oc=5",
+     "t_id": "Ukraina Baru Saja Menembak Jatuh Rudal Jelajah Geran-5 K5-K Baru Rusia yang Sulit Dipahami Dengan Satu Drone"
+    }
+   ],
+   "title_id": "Pencegat SPYS baru menembak jatuh rudal jelajah Geran-5 Rusia"
   },
   {
    "id": "siber-202611231611-bdce",
