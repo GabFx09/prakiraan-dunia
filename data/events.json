@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T10:00:04Z",
+ "updatedAt": "2026-11-24T10:14:07Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -53,14 +53,9 @@
    "score": 6.0,
    "level": "besar",
    "first": "2026-11-23T12:45:00Z",
-   "last": "2026-11-23T23:14:00Z",
+   "last": "2026-11-23T18:45:55Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Poland put its air defense on alert due to Russia's drone attack on Ukraine",
-     "src": "Українські Національні Новини (УНН)",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnR0Nm1uck1JU2dvTUZkaU9VMURrR0ZaSHdfckExWnhndW1EbnJNcGJ1bHhjRzdsN2RSaTNyS3Q5SW15NDZmS3ZCTDZMbFRRMk1xMl9OZGJZQVViMDhxN1drbnJfc2xKUWVhbmNUeXhfUlV3SjR4aFRtME1TYkFqUjJLT3lmaFphanBPSHROQWhHUjNTQXNlUGlIYzNneDDSAZ4BQVVfeXFMTTFNRDVrUkJlcjBuWGZKam5NUVRvdWNndS1iTmphOGVQZVRZTmdGYzBXbHRUcWVvMmIzVXBPWEVGVmYzRW9lWVJmSU5fa0VkaVFBYVRmM3VKWnNTYnJJOTVPWHhWTFZqempfb1lHNVo3QU05Z29vRkZ5TzdJemI3ajdJLWx3QTItYkh6eFlOUTdYdFpPODFlUHpoS05fOWc?oc=5"
-    },
     {
      "t": "US Citizen Among 5 Hospitalized After Russian Drone Attack on Kyiv",
      "src": "Kyiv Post",
@@ -78,8 +73,58 @@
      "src": "BBC",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tSU1HN19rSUJoSi1qV0FsMnlmVC0wX0p2cklMYTJDZlFFRV8tSm1xejRlMWFpYXRQdU9DTmpjOGNNeE9pUWN6X0c4MVdZOXh4WjRyR3NxZlk?oc=5",
      "t_id": "Bagaimana serangan drone Ukraina terhadap kapal Rusia terjadi"
+    },
+    {
+     "t": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
+     "src": "New York Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWFiM3VHc3ZpOVpHYmtwZUZIR3dPZXRaNXhNZmFYekxsa0F2YkYxU0dmQnhVTnpseFo4ZExSSV9wVUZLQllJVFdVaDNCampIZ3lFeGJPM3FxNWpoRG1yOWpxUzNoblFtdWxNSlZTWE5zTEZnZ0VIa1FRSkhESF85ekN3?oc=5",
+     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
     }
-   ]
+   ],
+   "title_id": "Kapal perang Rusia dihantam drone Ukraina di Libya, kata Zelensky"
+  },
+  {
+   "id": "siber-202611230934-3943",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Delta flights in and out of Atlanta delayed due to system outage",
+   "src": "Bundle",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1gtMUp1Qm04TVZxbDRnWjhOT2hDU1RzaUpCODZHRWd5RURZRDdrclR1Q21oSTg4UkE4bGlUaTQtNFFJcFB2NVVWa19kX3dnVjRuZEllOEZkUmJkT3VISUxGNjkwZjkzeGkzSENhcFlwVWgzTmpPWHduY1BVNzc3eE9BNHVUX0FqUEhHY3VRbXFEWmhHeU1rQTRZNnJUTmx5NDJYb0EyVDRXVjQyMzVTZlVPYXY0dFpJWHNBTUVUbEdNR1NQMVFqRzdCaXo0Zw?oc=5",
+   "sources": 6,
+   "recent6h": 0,
+   "score": 6.0,
+   "level": "besar",
+   "first": "2026-11-23T09:34:56Z",
+   "last": "2026-11-23T16:16:08Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Delta Outage Delays 1,600+ Flights: Check Your Status Now",
+     "src": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
+     "t_id": "Delta Outage Menunda 1.600+ Penerbangan: Periksa Status Anda Sekarang"
+    },
+    {
+     "t": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
+     "src": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzVHbXI1MkdQTjhQRHZXNmpTcC1UZHlGcWRJWnZiUkhEZmotR2xZbUU4c0ZHRmh3Z0Uzdkt4eGxGakczam9zYzA2RnpBWmpzTnNPNE42cWxIYl92bFA4c1lDNUNpWUNaY0h2eUREdG9DT25qSnhEM0NFV2hCRjBpaS1rUHctb0ZmaDlyZm5ibmFlOFV4VVpz?oc=5",
+     "t_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
+    },
+    {
+     "t": "Delta outage snarls Thanksgiving travel in latest tech issue to plague US",
+     "src": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmlzTTdrbmRDQkxSekFSclE1YWM4SjJLTXlLUmFHRk56MG9TOXBOOHhfR3BRRzEwNlk0ZExRU2pGZGdhRk5JTmRGWnZpdUI4eThLbWlNT19HYW1MVVBJMDJaVUFJYU82bklGZy1hVS1EX2FFeURHQ0dWS2xabGZ5eHZJMFBWTGhDcEpoWW5LcmlQWlZJVU5Jdlc0NmJ6YnFWOExpQkhRZF9PU01zdFdnTDdUSGdTUQ?oc=5",
+     "t_id": "Pemadaman listrik Delta mengganggu perjalanan Thanksgiving dalam masalah teknologi terbaru yang melanda AS"
+    },
+    {
+     "t": "Video Delta outage causes nationwide delays as holiday travel takes off",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ORXhseHVmSlU4MU5MYXdZbUtNNkp3aERUSzlaVXpoeGdueWFXVlEyUzhaSHYzc2xRSGM3WFdHMVdPMTJhVkNOajA3T18?oc=5",
+     "t_id": "Pemadaman Video Delta menyebabkan penundaan secara nasional saat perjalanan liburan dimulai"
+    }
+   ],
+   "title_id": "Penerbangan Delta masuk dan keluar Atlanta tertunda karena pemadaman sistem"
   },
   {
    "id": "energi-202611232306-c4a3",
@@ -100,14 +145,17 @@
     {
      "t": "Armed group shut Libya's Sharara pipeline, state oil company says",
      "src": "streamlinefeed.co.ke",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejRYZFlLTGl6Z3hsNGczZW9ndGV0ZzhLdm1BNEl2MGhTeDdYNjJGN0JzQ3dqUXJCQ0NRR3BKV2pCcDNfOVVXX1hUbEJONlRDaFlCYjE2WlFvZVpQQW9HSThQSDJMaXRIUTQ3V3RCcnRCcVJjSGxuUld0anJSamVpV3JhSVFONUVub1A0dndyVlRaOHlRZ1J6QVBiQ3Q4QQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejRYZFlLTGl6Z3hsNGczZW9ndGV0ZzhLdm1BNEl2MGhTeDdYNjJGN0JzQ3dqUXJCQ0NRR3BKV2pCcDNfOVVXX1hUbEJONlRDaFlCYjE2WlFvZVpQQW9HSThQSDJMaXRIUTQ3V3RCcnRCcVJjSGxuUld0anJSamVpV3JhSVFONUVub1A0dndyVlRaOHlRZ1J6QVBiQ3Q4QQ?oc=5",
+     "t_id": "Kelompok bersenjata menutup pipa Sharara di Libya, kata perusahaan minyak negara"
     },
     {
      "t": "Attacks Cut Saudi Oil Output and East-West Pipeline Flow, State News Agency Says",
      "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVc4TmVyYlFMNUNfM0FiaXgyREtWcUtCQnNmWlVYMEJUYWZoVXBGMVMxS2lkZmNnN2d3NUp4VW9HUlZTTmlKUmpacFZmNzE3YmFqV21aeEtPQVVocTMxZGtQdnlJOEowZjdKQVFlTHdxckJHM3FZenRUTXN0Q0p0ZG1fR2N2eTAtN0pWTk0zbnhCeHAzZjhVWGQxd0hUWDBwaTlWaVQxRVlSRm9jY0RV?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVc4TmVyYlFMNUNfM0FiaXgyREtWcUtCQnNmWlVYMEJUYWZoVXBGMVMxS2lkZmNnN2d3NUp4VW9HUlZTTmlKUmpacFZmNzE3YmFqV21aeEtPQVVocTMxZGtQdnlJOEowZjdKQVFlTHdxckJHM3FZenRUTXN0Q0p0ZG1fR2N2eTAtN0pWTk0zbnhCeHAzZjhVWGQxd0hUWDBwaTlWaVQxRVlSRm9jY0RV?oc=5",
+     "t_id": "Serangan Mengurangi Produksi Minyak Saudi dan Aliran Pipa Timur-Barat, Kantor Berita Negara Berkata"
     }
-   ]
+   ],
+   "title_id": "Harga minyak turun karena ekspektasi surplus pasokan dan pembukaan kembali pipa Libya"
   },
   {
    "id": "perang-202611231546-ffbc",
@@ -122,7 +170,7 @@
    "score": 3.0,
    "level": "sedang",
    "first": "2026-11-23T15:46:32Z",
-   "last": "2026-11-23T23:12:11Z",
+   "last": "2026-11-23T22:44:24Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
@@ -134,7 +182,8 @@
     {
      "t": "Yemen’s army claims 647 strikes on Houthis, says militia missile attack killed 2 in Taiz",
      "src": "Arab News",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONl9sYTl2WHBHcTJLSlBJamcwaFI2RWlPY0hLQXhQRWFNLTEzR0RZY0RJT1Q5Tlg5UVQzWlJOTGZCWldUMXZsakNkaE5VUndsQ3VXUFJrdndBTDltYndleW1rZWpWVlRwdlZxZ00zaUNMSGI1SGEycFJjcF9mZk1uS0REVXAtSmNxNmQtdVhkelBqN0plZWNYT1Y1QWlmcG84TlVYeUZpaXhRQnlLVjJPRHhXOElTemEwMkVaeWM5SEp4dTZzNTlOZE92Yw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONl9sYTl2WHBHcTJLSlBJamcwaFI2RWlPY0hLQXhQRWFNLTEzR0RZY0RJT1Q5Tlg5UVQzWlJOTGZCWldUMXZsakNkaE5VUndsQ3VXUFJrdndBTDltYndleW1rZWpWVlRwdlZxZ00zaUNMSGI1SGEycFJjcF9mZk1uS0REVXAtSmNxNmQtdVhkelBqN0plZWNYT1Y1QWlmcG84TlVYeUZpaXhRQnlLVjJPRHhXOElTemEwMkVaeWM5SEp4dTZzNTlOZE92Yw?oc=5",
+     "t_id": "Tentara Yaman mengklaim 647 serangan terhadap Houthi, mengatakan serangan rudal milisi menewaskan 2 orang di Taiz"
     }
    ],
    "title_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
@@ -146,7 +195,7 @@
    "lang": "en",
    "title": "New SPYS interceptor shot down Russia’s Geran-5 cruise missile",
    "src": "The Defence Blog",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk9iUkhES3ZjdFFjSlNONkoxcHhFdG1nZUpsaWJoQ0tPMklpTF9VMVRYX01Ha2xyNW5mQnpuQ3RJdDFRWUNIa25Na0w2Ym5DOEg1UzZlYm5jdzBYai1NX0ZVV3dFMUJmRENpWlFtVlJiY1lTclMzTWdaZGdtYUwwMnhBR2g2SGFzeEVXQ0pNNXjSAZYBQVVfeXFMTy1FblhMS3dlQjdQaGNfVVRsTkIyWE14ZHFzeGFrbGEtRFg2WHZGWXFRSGRDZi1qbzA4YXB1dWFPbUxuSmFRUS1peE05RjJNRllMUFBZSi1FVFdvZ0c1VHQwVlpLMmRnN0J3V0k1MDlGbEZBS003WE45b0liQzhzVXdaS252WmtxR3ZqOGhlQi1EVW9LaXpn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUVuWExLd2VCN1BoY19VVGxOQjJYTXhkcXN4YWtsYS1EWDZYdkZZcVFIZENmLWpvMDhhcHV1YU9tTG5KYVFRLWl4TTlGMk1GWUxQUFlKLUVUV29nRzVUdDBWWksyZGc3QndXSTUwOUZsRkFLTTdYTjlvSWJDOHNVd1pLbnZaa3FHdmo4aGVCLURVb0tpemfSAZYBQVVfeXFMTy1FblhMS3dlQjdQaGNfVVRsTkIyWE14ZHFzeGFrbGEtRFg2WHZGWXFRSGRDZi1qbzA4YXB1dWFPbUxuSmFRUS1peE05RjJNRllMUFBZSi1FVFdvZ0c1VHQwVlpLMmRnN0J3V0k1MDlGbEZBS003WE45b0liQzhzVXdaS252WmtxR3ZqOGhlQi1EVW9LaXpn?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
@@ -171,81 +220,35 @@
    "title_id": "Pencegat SPYS baru menembak jatuh rudal jelajah Geran-5 Rusia"
   },
   {
-   "id": "siber-202611230934-3943",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Delta flights in and out of Atlanta delayed due to system outage",
-   "src": "Bundle",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1gtMUp1Qm04TVZxbDRnWjhOT2hDU1RzaUpCODZHRWd5RURZRDdrclR1Q21oSTg4UkE4bGlUaTQtNFFJcFB2NVVWa19kX3dnVjRuZEllOEZkUmJkT3VISUxGNjkwZjkzeGkzSENhcFlwVWgzTmpPWHduY1BVNzc3eE9BNHVUX0FqUEhHY3VRbXFEWmhHeU1rQTRZNnJUTmx5NDJYb0EyVDRXVjQyMzVTZlVPYXY0dFpJWHNBTUVUbEdNR1NQMVFqRzdCaXo0Zw?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-23T09:34:56Z",
-   "last": "2026-11-23T16:16:08Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Delta Outage Delays 1,600+ Flights: Check Your Status Now",
-     "src": "shattered.io",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
-     "t_id": "Delta Outage Menunda 1.600+ Penerbangan: Periksa Status Anda Sekarang"
-    },
-    {
-     "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
-     "src": "Everett Post",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUlHNWRaYkpXSzAzY2xpYTlWSWFBWXNLeXVJY2xCMVBtRDg1YkQ5N3VDMFJtYVVKalJBLTZ2S0N2U0F1Ym9CcGh2NTRPYlZUZkw3dEs3QlE2cFlRckVxMmU4RGJzeUptcE9nNVJab3FaOHAzYjREdjd4M0dFSllCRXNRWFB4YmJCNnFtQXJwem9IRzFGcTBkdkRoZlotb0pheUFiLQ?oc=5",
-     "t_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
-    }
-   ],
-   "title_id": "Penerbangan Delta masuk dan keluar Atlanta tertunda karena pemadaman sistem"
-  },
-  {
    "id": "transportasi-202611232310-c6e8",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Delta flight delays ease after weight system glitch hits Thanksgiving rush",
+   "title": "Delta tech outage fuels 1,300+ U.S. flight delays as holidays begin",
    "src": "https://www.thetraveler.org/",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnpQZXJVbU0wdkp4eGVtaDdVakRsczVkMy1lNGdqTkFzek1pR3ljSmtVMXIxcklWZXpGdVI2U080dm9hMDFCZnh5cWtyNGlkeDM4TkJTZjF2Sm1OYm1sanhxRE96VUVlYXQwVHJROXdfX2lPMUh1NU9Icm5ZN2NVVV8xSEJBWlJZNFdXV3ZQY2tidjVlSTE0ZUhlOEVvbGZhb25GZzlB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXl3cmR4RXptNF8zaHZ0eXNlOHNaemx1YW9PelFTb1JFOThFWWt4WWMydHVlRDBFa2l1eHpVdzNzc1U0Ukw4TlRQZzlOZ3lqa2dWOWtKNVh5R21Od3RFSmxiWWgtb2dSVVBSS05VZUNqVUJIRGVrTzVhNGtlTDFOVTVSa1czdW85OUhIQmlTblRMRXVCdjhIbGlR?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
    "first": "2026-11-23T23:08:00Z",
-   "last": "2026-11-24T02:25:37Z",
+   "last": "2026-11-24T04:10:38Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Thanksgiving travel: How to prepare for flight delays after a string of airline outages",
-     "src": "WMUR",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjFrX0xYb21wZkVneGVPNV9Tay11T3otdmdsbC1CLVlTeG5ieDdIUVVuY3ZLZy1hbnUxMklRMGZ3TkViaHVjeTNMaDRvM3FxMTVwN21wbEUxSXR6OXZIWWo1dlFycFk0QUNmaHpkX0xtU2xFeE1UWkozYXRPdjlQOERNdmlvVGxkVEFRcFFYQkhlU3Y3TTExbnl2TXNGWFd1Z0ZrX192aHJMdVFvR0t4RkphOWNRakx4YVpZVUVIU3laZw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611231326-e6b8",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo di Belgia Lumpuhkan Transportasi, Seluruh Penerbangan Keberangkatan Dibatalkan",
-   "src": "NTVNews.id",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVB5OHdDS0tXdkJZU3g1SlBWS3psMnNHYW9lbndpLW81SnNsR21RZ1U2ZWIzM3FNOUxnbTY2cWYtM3dzNWtpQ1JoNm5nTE53YlYxSnR1MGpjVEM3ZHBlbkw5YlNZNTJsUDRod08wOFVMNFE2RE9NdlpiMXRZcEozNVFhTmNXU0lqRXR6VldxalRmYmg1MnlwSk1zZnNIN2FoR3JtWHRyYVF2RWJ3TWZkZmdDWkk0emh4akNJ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-23T13:26:48Z",
-   "last": "2026-11-24T01:37:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
+     "t": "Delta flight delays ease after weight system glitch hits Thanksgiving rush",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnpQZXJVbU0wdkp4eGVtaDdVakRsczVkMy1lNGdqTkFzek1pR3ljSmtVMXIxcklWZXpGdVI2U080dm9hMDFCZnh5cWtyNGlkeDM4TkJTZjF2Sm1OYm1sanhxRE96VUVlYXQwVHJROXdfX2lPMUh1NU9Icm5ZN2NVVV8xSEJBWlJZNFdXV3ZQY2tidjVlSTE0ZUhlOEVvbGZhb25GZzlB?oc=5",
+     "t_id": "Penundaan penerbangan Delta mereda setelah kesalahan sistem berat melanda kesibukan Thanksgiving"
+    },
     {
-     "t": "Layanan Transportasi di Belgia Lumpuh Akibat Pekerja Demo Besar-besaran",
-     "src": "MetroTVNews.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT25YOGI1bjBWUmJYVURrdGFvNWNXUzM1bUhPUzZpaEdPVzlSdTB3UjRqWXRvSTBvQ2JTTnE3STF1RkZyLXIxUGtUSEVOSk9TNllIZ2dpd0thUmFqY3UwcWxJdGw4MUlxVm1FX21TNmRyenpFTklnNXJ0ZTlfSkNLbExOdGdrNXZ4UFg3VGNqMHJkWkNPRnBOTmtRYUJXZno1N3E5ZmdzaGp0bjVWOG1MSHlzRQ?oc=5"
+     "t": "Thanksgiving travel: How to prepare for flight delays after a string of airline outages",
+     "src": "khbs",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVJVNmZBTWNlcVpacV9UQl9kZW1WWThlMjh1djM5em5ZRVdkRlFuUXpnS2JFUXF2V2wxQU9GQWtwZFVkZ2RoUnI3VFVMQ2VLYTBzLUxPcWxyVVM4RzBoS2JwUUpua09FRVNDTjJUNEo1Y09iUG1hTmdVMkNzeDQ4dzRXWlI1d2xrb0dSZVNDLTlWODJmRXhsOVZHc3RpRkpIVml0MXBDdE5TSUpJbThyQ09VazBwdko0dklyeV9Lbklja1Fy?oc=5",
+     "t_id": "Perjalanan Thanksgiving: Bagaimana mempersiapkan penundaan penerbangan setelah serangkaian penghentian penerbangan"
     }
-   ]
+   ],
+   "title_id": "Pemadaman teknologi Delta memicu 1.300+ penundaan penerbangan di AS saat liburan dimulai"
   },
   {
    "id": "kesehatan-202611231207-1eac",
@@ -294,32 +297,8 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVQR21qRWttMDVuVDctTXpYUlJhU3duZDdURl9fU0ZwRnhHZlZxLVc1NFhna2xvQmhDVDNhcjRPV1lNeHZIU3NRT1F4empXX3BEcER2VEtXbjV2dEVqdExXekRMdUtqSTlwVFdRbzc3ajg3d3VPYmFhTDgwUHNFS1BTc3NSZXVtRWh6OVQzdnF0LVh0elFZQlRQbE1lZUwxR3FScE9NdWg5OVFBM0xiejBrRlFoNFFKQV9MYVhCR1BGal90cW9xX0RLNlk5MzVxYnlhUUxHRXNWQTFzNFHSAeQBQVVfeXFMTmw4eF9mNktqbEQzUWpBSHlMU2J4TE9VRGVQMTY5MmZHTDFaYjZaRzJOUG5LckgyclhjelRTclhWRHNKc0N3Y1pPN1VQd1RHdHBrdTVPeFZrZWtLYVVSc2N1eFlEN2ZFVXlLdTMyYlZoN3Q1SFlCWllZTUx2U3o3NHYzOW10R0Exdm9tbU41V0JvNk1VUnI4eXNISGtCLWw5V0FFSmd2ald2dUhtR1gyZ0pXdHZrcTcyUE5uVE1SUkxsNDU4YllhZ2lKSkRvZ0lZNWU1VVhpZ3VrZEhieE5CSlcweTN2?oc=5",
      "t_id": "Apakah AI berada di balik gangguan teknologi baru-baru ini? Pejabat Microsoft dan AS memperkirakan akan ada lebih banyak gangguan"
     }
-   ]
-  },
-  {
-   "id": "perang-202611231512-2f18",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "New SPYS interceptor shot down Russia’s Geran-5 cruise missile",
-   "src": "The Defence Blog",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk9iUkhES3ZjdFFjSlNONkoxcHhFdG1nZUpsaWJoQ0tPMklpTF9VMVRYX01Ha2xyNW5mQnpuQ3RJdDFRWUNIa25Na0w2Ym5DOEg1UzZlYm5jdzBYai1NX0ZVV3dFMUJmRENpWlFtVlJiY1lTclMzTWdaZGdtYUwwMnhBR2g2SGFzeEVXQ0pNNXjSAZYBQVVfeXFMTy1FblhMS3dlQjdQaGNfVVRsTkIyWE14ZHFzeGFrbGEtRFg2WHZGWXFRSGRDZi1qbzA4YXB1dWFPbUxuSmFRUS1peE05RjJNRllMUFBZSi1FVFdvZ0c1VHQwVlpLMmRnN0J3V0k1MDlGbEZBS003WE45b0liQzhzVXdaS252WmtxR3ZqOGhlQi1EVW9LaXpn?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-23T15:12:08Z",
-   "last": "2026-11-23T18:41:47Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukraine Just Shot Down Russia’s Elusive New Geran-5 K5-K Cruise Missile With One Drone",
-     "src": "UNITED24 Media",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXkwbU5NWE1tRnpmN3VpWHZKOU1kbXpkc1RheUh1aHhCbWtMTXZPTzMxWnlZbkdFSGN3bmJrY011UFRQdjQ1cG01cW01X1F1a3NLUzRsUDFvSWZnRks2YWZYNjNnRVhnbERtc2RZbk4tdzhSc2xVbHFFYllWVmc5TkVSR0VZZV9jejZrajFiMkVfNk16LUx6cUZEWV9SOFlLX2ZHcVdIMlUtMkFiVzJITjJTMmh1c1hqMFF6ZlRVcWR2amw3R3RuNy1tdHI?oc=5",
-     "t_id": "Ukraina Baru Saja Menembak Jatuh Rudal Jelajah Geran-5 K5-K Baru Rusia yang Sulit Dipahami Dengan Satu Drone"
-    }
    ],
-   "title_id": "Pencegat SPYS baru menembak jatuh rudal jelajah Geran-5 Rusia"
+   "title_id": "Ada Apa di Balik Gangguan Teknologi? Kami Bertanya kepada Profesor Keamanan Siber."
   },
   {
    "id": "siber-202611231611-bdce",
@@ -345,31 +324,6 @@
     }
    ],
    "title_id": "Kepala Intelijen AS Peringatkan Warga AS untuk Bersiap Menghadapi Lebih Banyak Gangguan Teknologi"
-  },
-  {
-   "id": "siber-202611230934-3943",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
-   "src": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzVHbXI1MkdQTjhQRHZXNmpTcC1UZHlGcWRJWnZiUkhEZmotR2xZbUU4c0ZHRmh3Z0Uzdkt4eGxGakczam9zYzA2RnpBWmpzTnNPNE42cWxIYl92bFA4c1lDNUNpWUNaY0h2eUREdG9DT25qSnhEM0NFV2hCRjBpaS1rUHctb0ZmaDlyZm5ibmFlOFV4VVpz?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-23T09:34:56Z",
-   "last": "2026-11-23T15:15:50Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Delta outage snarls Thanksgiving travel in latest tech issue to plague US",
-     "src": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmlzTTdrbmRDQkxSekFSclE1YWM4SjJLTXlLUmFHRk56MG9TOXBOOHhfR3BRRzEwNlk0ZExRU2pGZGdhRk5JTmRGWnZpdUI4eThLbWlNT19HYW1MVVBJMDJaVUFJYU82bklGZy1hVS1EX2FFeURHQ0dWS2xabGZ5eHZJMFBWTGhDcEpoWW5LcmlQWlZJVU5Jdlc0NmJ6YnFWOExpQkhRZF9PU01zdFdnTDdUSGdTUQ?oc=5",
-     "t_id": "Pemadaman listrik Delta mengganggu perjalanan Thanksgiving dalam masalah teknologi terbaru yang melanda AS"
-    }
-   ],
-   "title_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
   }
  ],
  "errors": []
