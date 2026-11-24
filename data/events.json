@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T08:15:38Z",
+ "updatedAt": "2026-11-24T08:30:18Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1RIV3Q3cTJPb1JpTk5NaWRVdV9xSHpoUnhTVzY4el9CUWh2dm14Vm9JZFFGSEo2RmFZOEdTZTIwZm00N3RkWGUyVEgyLXFMODRDakFaS3pyQ28zQ2ZCTmN4b1ZqOG96WktDaWpSampheXBhNUJDbmNMTTEwRlJ3OV9idVdQRlV2bzFhVDZlMkVRWFcwZ1VfSXFCX01mdmU3UVFjT0tKZmpOUXZpOG9VLTA4ZC14NjZIVXF0YjdpRXdHaVV5TkFN0gHMAUFVX3lxTE9fUTV2QlI4TWVZSFdqVGpNdDluUjM4UWhEdkhFWC1LM0g4NElDcWVuUkF6eHVLei1FMXJBblhnR3FaenV2M09LZzVMa09NUV92ZzFjRGZNRHM3cUpsSkhzWGNDQUhQT1NoVDdWVFd1eFVScFk5ZUxDSlY4ajd5STZvWXlyR0hod1BpUjN1YnExSi1ISHBQQTI3NHhrek1GNWdCMlMyNXYxQ0pYc3gwUzV6dktvN1RMU2V3VXBWSEFmd1JhdGQ4QXhtcFdZeg?oc=5",
    "sources": 21,
-   "recent6h": 10,
-   "score": 26.0,
+   "recent6h": 9,
+   "score": 25.5,
    "level": "besar",
    "first": "2026-11-23T09:00:00Z",
    "last": "2026-11-24T07:12:33Z",
@@ -91,10 +91,10 @@
    "title": "How Ukraine drone attacks on Russian ships unfolded",
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tSU1HN19rSUJoSi1qV0FsMnlmVC0wX0p2cklMYTJDZlFFRV8tSm1xejRlMWFpYXRQdU9DTmpjOGNNeE9pUWN6X0c4MVdZOXh4WjRyR3NxZlk?oc=5",
-   "sources": 5,
+   "sources": 6,
    "recent6h": 0,
-   "score": 5.0,
-   "level": "sedang",
+   "score": 6.0,
+   "level": "besar",
    "first": "2026-11-23T08:24:54Z",
    "last": "2026-11-23T18:45:55Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
@@ -112,16 +112,16 @@
      "t_id": "Gambar Menunjukkan Sebelum dan Sesudah Serangan Drone Ukraina terhadap Kapal Perang Rusia"
     },
     {
+     "t": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
+     "src": "New York Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWFiM3VHc3ZpOVpHYmtwZUZIR3dPZXRaNXhNZmFYekxsa0F2YkYxU0dmQnhVTnpseFo4ZExSSV9wVUZLQllJVFdVaDNCampIZ3lFeGJPM3FxNWpoRG1yOWpxUzNoblFtdWxNSlZTWE5zTEZnZ0VIa1FRSkhESF85ekN3?oc=5",
+     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
+    },
+    {
      "t": "Ukraine Just Pulled Off a Drone Attack For the History Books: Kyiv Hit a Russian Navy Warship All the Way in Libya",
      "src": "National Security Journal",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOFhoYWJreUpmaktSR2dBOFB1WFdiV0NPWGtYYmNNQzlqRmFGMzFzcm15OVZfdGdvQm1vUGtENkNXUFNld1NBUzFpbVNkb1VVbm9EV21iQzE2RTN3VktzLXJmNkdCVTd0UjZCQmduLVpwakN6czRTdE4xYms3RzJLdVJWcFJNbGN1UXJoTDFYTmpDS0xwYnRfcFF0Nmw5T1FfdUJzS1VVVk9TbHd4NG9DRDFEc1E4WUMtakNEMF9FbU4tSi1TN0twZ2FXVk5FTVl5aGRKVFdrc3JEYWU2b0dkdWdYcWg?oc=5",
      "t_id": "Ukraina Baru Saja Melakukan Serangan Drone Untuk Buku Sejarah: Kyiv Menabrak Kapal Perang Angkatan Laut Rusia Sepanjang Jalan di Libya"
-    },
-    {
-     "t": "Five Russian Ships Hit in Just 12 Days as Drone Attacks Sweep From Baltic to Mediterranean Seas",
-     "src": "UNITED24 Media",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeDgwZjVmWDNZa3BjLVBwdWY1NHk5cTJzQjdackpqZTNDTFdpVWJvby12ck80SVRZTGRDNG5adlR2Y0lwVEtDRXRXcml0U2VtVTdRbWI2V0ZrallWZ2VCQUEzVEFGVUpNRFNmQnZwZlJFWkFCXzE3TjluSVRScmlxbE44Y1NrSEgzWDV2aERrNU9EVW9BMklLd0ZXRndONHpTQTMwRkRHSU9Sa2NhN3g2WGhJdXZtMk42MFVIMXJ1RFJSRi1wVWRIWDRxRW9zbWQzOTdlT2FweWhrUQ?oc=5",
-     "t_id": "Lima Kapal Rusia Menabrak Hanya dalam 12 Hari Saat Serangan Drone Menyapu Laut Baltik hingga Mediterania"
     }
    ],
    "title_id": "Bagaimana serangan drone Ukraina terhadap kapal Rusia terjadi"
@@ -217,17 +217,17 @@
    "src": "https://www.thetraveler.org/",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnpQZXJVbU0wdkp4eGVtaDdVakRsczVkMy1lNGdqTkFzek1pR3ljSmtVMXIxcklWZXpGdVI2U080dm9hMDFCZnh5cWtyNGlkeDM4TkJTZjF2Sm1OYm1sanhxRE96VUVlYXQwVHJROXdfX2lPMUh1NU9Icm5ZN2NVVV8xSEJBWlJZNFdXV3ZQY2tidjVlSTE0ZUhlOEVvbGZhb25GZzlB?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-23T23:10:39Z",
+   "first": "2026-11-23T23:08:00Z",
    "last": "2026-11-24T02:25:37Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
      "t": "Thanksgiving travel: How to prepare for flight delays after a string of airline outages",
-     "src": "khbs",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVJVNmZBTWNlcVpacV9UQl9kZW1WWThlMjh1djM5em5ZRVdkRlFuUXpnS2JFUXF2V2wxQU9GQWtwZFVkZ2RoUnI3VFVMQ2VLYTBzLUxPcWxyVVM4RzBoS2JwUUpua09FRVNDTjJUNEo1Y09iUG1hTmdVMkNzeDQ4dzRXWlI1d2xrb0dSZVNDLTlWODJmRXhsOVZHc3RpRkpIVml0MXBDdE5TSUpJbThyQ09VazBwdko0dklyeV9Lbklja1Fy?oc=5"
+     "src": "KSBW",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnhqMXBrNGluQTlLbGZhdDktSGhJanFLVWhyVEswalRmREtoUGt2eEFjamUyLXJyYnNOaGtNWTRnYnI2OXRfYUVGcGZmZlhQcGtucGtNckZiRHYzbVNVN0NJZUtuRFF5a2VHUldmUy1wZEQwZjFpVWsyQ2c5SkZRWVE0UkVNRDAtam1xR3c0bUhTY1gzVTB0QUVncThYM2VPYW1pT2hpX21pd2kwNUNXQ3htQVdCU0x6MFkzbUUwMnFZQQ?oc=5"
     }
    ]
   },
@@ -281,31 +281,6 @@
    "title_id": "Kepala Intelijen AS Peringatkan Warga AS untuk Bersiap Menghadapi Lebih Banyak Gangguan Teknologi"
   },
   {
-   "id": "perang-202611231245-861b",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
-   "src": "New York Daily News",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWFiM3VHc3ZpOVpHYmtwZUZIR3dPZXRaNXhNZmFYekxsa0F2YkYxU0dmQnhVTnpseFo4ZExSSV9wVUZLQllJVFdVaDNCampIZ3lFeGJPM3FxNWpoRG1yOWpxUzNoblFtdWxNSlZTWE5zTEZnZ0VIa1FRSkhESF85ekN3?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-23T12:45:00Z",
-   "last": "2026-11-23T14:03:16Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukrainian drones strike Russian warship at Libya naval base, Zelenskyy says",
-     "src": "PennLive.com",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1FURDEtN0xmMGxCRV9pYjFaV3VfSG4xaEN2QjJzN1RIS3ByQjFzMU1IcDBFRFdZbXJMTklISk53VnBFWUFrUkYzMmhfai1PazJfMkRldzFacUs0Q1FsdVpqQUtzNHNOWVpLRllHOWtiLTJ4Z0ZEazFMN0poZl8xbXRWbG1BUTdHTzVtenp4UlB3dGlMamItdTBWa0Y5QzNseGIwdi1HWWJpRTFYYnJYNTIxM2czNHphdVlQenpPY0FvblU?oc=5",
-     "t_id": "Drone Ukraina menyerang kapal perang Rusia di pangkalan angkatan laut Libya, kata Zelenskyy"
-    }
-   ],
-   "title_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
-  },
-  {
    "id": "kesehatan-202611230839-7ec2",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -331,5 +306,7 @@
    "title_id": "Wabah Ebola menimbulkan ancaman signifikan di Kongo"
   }
  ],
- "errors": []
+ "errors": [
+  "keuangan: HTTP Error 429: Too Many Requests"
+ ]
 }
