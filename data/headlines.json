@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-24T20:26:11Z",
+ "updatedAt": "2026-11-24T20:40:48Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Rate 6%, Bunga Dijamin LPS Tetap 3,75%: Awas Deposito Bunga Tinggi",
+   "src": "Industry.co.id",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQy0xc3d4bzlCc3NmV3h1MFhnYmpkSW82Y1JZOHBhYmp6anRFMW5pWGNpSXFRRThpOFl3dFBOMkQ0TEtKTWNoeWxsM2FZeGFiMVgxMVVpLWNXU0JqZGJkSS1xQVpZWnphRjlEUGRwQ0pUT0NlY1JVazc5U3FhR1JTYnBIaW44a1dLQ0VIb0pGUnoyUF9pVkFJejVrSzNDYVZXUFduTGNR?oc=5",
+   "time": "2026-11-24T20:33:35Z"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -19,15 +27,6 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmJUcDVLUnFJUDYtTlNnWDZOLUFTLXVnaXd5VFliRUZveGZVNEx3TVlQb1FtUDd4ZTdoY0NtbzE2dzJCbTVOSDUwSTExaW1WR0JiRFQ3XzBaNkp1S3pINHNQNGJiMVNUc1JZcXB3OEtFM1pFVXc1dVNzd3J4NEdIS2Zlbm15VHZvWFJ5cFlQcmZkYzNMZ0E?oc=5",
    "time": "2026-11-24T19:42:00Z",
    "t_id": "Tiga Kapal Tanker Dihantam Dalam Beberapa Menit di Selat Hormuz"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "Trump prepares a new round of targeted tariffs",
-   "src": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
-   "time": "2026-11-24T19:25:15Z",
-   "t_id": "Trump menyiapkan babak baru tarif yang ditargetkan"
   },
   {
    "topic": "ai-teknologi",
@@ -48,6 +47,15 @@
    "t_id": "Harga Bitcoin yang Menandakan Penjualan Telah Berakhir"
   },
   {
+   "topic": "china",
+   "lang": "en",
+   "t": "Trump prepares a new round of targeted tariffs",
+   "src": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
+   "time": "2026-11-24T19:06:02Z",
+   "t_id": "Trump menyiapkan babak baru tarif yang ditargetkan"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Shafaq News..Projectiles hit three ships in Strait of Hormuz",
@@ -64,6 +72,15 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84bXhISm1TT0YwZFdXazZxbmZEY1R0ZlEwS0h5V3VSb1p2V2w0WXl4TXl6SWRzZjRfNjk2YWp1bmpCcUJkeDVMeFpiMjNrTkY4UEswM0RkalA?oc=5",
    "time": "2026-11-24T18:51:42Z",
    "t_id": "Harga Bitcoin Berjuang untuk Mempertahankan $60K karena Reli Kembalinya CEO Nvidia Memudar dengan Cepat"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Bruised S&P 500 seen gaining more than 12% by end-2027",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVZ0ZzdpYlBPVHU0UWtSUm9Pb1dRbUZySENpQnZxc2VrUWNNcjF0VFNzZUpocUQ3SThRVlpqVEdRbzRlYmZfTnV6cTBERG8xWFlwMjVZc3B3Uk8tWUtPQW5aR3RoeFZwNXpvUEJpNC1wRVBFYm12QnZpcUIzallNTGUxMWRHaW1lWUhNSWdGRkxvNElpcXc?oc=5",
+   "time": "2026-11-24T18:36:27Z",
+   "t_id": "S&P 500 yang terpuruk terlihat naik lebih dari 12% pada akhir tahun 2027"
   },
   {
    "topic": "china",
@@ -111,15 +128,6 @@
    "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik & Riwayat Harga"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Energy briefs–oil traffic in the Strait of Hormuz",
-   "src": "Oklahoma Energy Today",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWtLREZfMkZwRHVsNGtQN3hXaHZjZlpSSlFrZUQ2cE8yR2xCdzhSY3l6LVRnNWs1dTluN2c1QVVaTWZEWGM4MnBZblhyT2xadDk4RTI0blVGc2JLLUJvZ2JQWmtERFpIYUR5OVBhNEFxM1JRa3BpXzlETjZXVmhBdkhCTWJYTjlmc1YwRg?oc=5",
-   "time": "2026-11-24T17:15:07Z",
-   "t_id": "Laporan energi – lalu lintas minyak di Selat Hormuz"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds",
@@ -127,6 +135,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
    "time": "2026-11-24T17:14:34Z",
    "t_id": "Nasdaq, S&P 500 jatuh seiring melemahnya reli AI yang didorong oleh Nvidia"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5",
+   "time": "2026-11-24T17:11:23Z",
+   "t_id": "Saham Nvidia jatuh setelah reli epik kembalinya Jensen Huang sebagai CEO"
   },
   {
    "topic": "emas",
@@ -145,6 +162,15 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEdaYVQzMm9FLTRoc1NrWVlNazhZekM0bkFhTGlydG90aFhub3MzYjRpUGRLSXQ3VDY1eno4bnF2U2JPZ3lmQVAzd0dNX1RQMVRRdkR5Z3p4WXNFMFdRd0M3X3RfRlU1NTh6N3VhdjBSM09aTk1vWFhNV0hJRVp2eDRNQmtfcndrUk5YVDBxVm1DQQ?oc=5",
    "time": "2026-11-24T16:32:13Z",
    "t_id": "Emas Tenggelam karena AI, Perak Memperpanjang Penurunan Terburuk Sejak Lehman karena 'Kesalahan Fed' Membayangi"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Current price of Bitcoin for November 24, 2026",
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ud2Y1S2QxQXpadTZmeDEzZHZuclFzNENuYkRfNW9TV3F0aWdQNk1nY0FORXVwUEg3R1RaQk5PUTI4aXI1dVVMdjB0eU90YXg1akNQRm4weTZvT2pnV294cWV6d0t6Tmc?oc=5",
+   "time": "2026-11-24T16:31:38Z",
+   "t_id": "Harga Bitcoin saat ini untuk 24 November 2026"
   },
   {
    "topic": "china",
@@ -175,20 +201,20 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "Current price of Bitcoin for November 24, 2026",
-   "src": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ud2Y1S2QxQXpadTZmeDEzZHZuclFzNENuYkRfNW9TV3F0aWdQNk1nY0FORXVwUEg3R1RaQk5PUTI4aXI1dVVMdjB0eU90YXg1akNQRm4weTZvT2pnV294cWV6d0t6Tmc?oc=5",
-   "time": "2026-11-24T16:01:38Z",
-   "t_id": "Harga Bitcoin saat ini untuk 24 November 2026"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
    "t": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation another story",
    "src": "CoinDesk",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS3pSWGt6Ym5aVnloZm15X1R4M2ZMbkhGUFpMUXFZZEg3TmtOTDIzZHBVdFh5bFRxNGFhRTV3eV8yajNYQmVXQ21NLXBRNi1jWWpEMUg4NkV3VXgzSWptMU9vMDVNUnhxTnRQb2t3UUozZi1TWTEtZmxXSnZtdE92emNYcnZMdVpIOG1TX25fRzhRT0oxbXlSdFFLMnEzaUdSUFAxQUV2OEZDbDVOUFRScDVxQzlJblZUb0JPNjJqUTZsZmotU2c?oc=5",
    "time": "2026-11-24T16:00:25Z",
    "t_id": "'Perdagangan AI tidak pernah mati': Pedagang melihat ruang untuk pemulihan pasar, namun partisipasi bitcoin adalah cerita lain"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran Says Deal on Strait of Hormuz is Close But Will Not Open the Waterway by Itself",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlVMcFlqcUlsZm1YaXlHOFFCQ0Q5cDRNbXBUUGl1d1FTQVB2Y2NWUWQ0Y3dTWnVXRnZ2MEhVa2FzQ0xicW1LQWdCcll4Tl9VRS00blhiMVJoY0x3S2RyLXlXR0cza0s4aXRRNnozZllMWVFoVG5oYVl1dV9PMXdUekZTcExwWlZMVnNsbHVObVN1R0x0blQwTVEwMFR1Wl9BUFg2TWxrREliSU1kR0I3bG9idlNEdw?oc=5",
+   "time": "2026-11-24T15:55:07Z",
+   "t_id": "Iran Mengatakan Kesepakatan Selat Hormuz Sudah Dekat Tapi Tidak Akan Membuka Jalur Air Dengan Sendirinya"
   },
   {
    "topic": "china",
@@ -243,15 +269,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rZFNMWVhPQ1F4b0U2S3J0UnF0QXVWQnF6QXhNVUV2TjU2ek1sbERhWFhHQjUzdXhtc19SZFQ2Zm9vaFhWTmpHMU5DOHEyX1Z1S1JqNDAtbnlCbUt4Ym5TS3ItOWVJQzFLelBlcg?oc=5",
    "time": "2026-11-24T14:55:00Z",
    "t_id": "Harga emas saat ini per 24 November 2026"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "US prepares higher tariffs on China, dozens of nations for industrial subsidies: Report",
-   "src": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXAwNXdrRkJVdFBYa2dab2VpZUJEVHM2a19LY2dITGwwZXlEYjBieDhyWUpxRlFRMDNpRDUwTHpyb1M3ZndKNkR0ekNGVXdhaWJDS0VYOWktRnZLeDltTzhRX2Nxa0hXbFpYS2phU1oxT2RmeUhNeExmUWVWNktxa3BSUkhrUDVIYzU5VXNRVUFXNTFOeDZYOWUydXlBbnRUWDk4XzJlS3dDd1hOcUhiZjdfQTRwYVNySXgxNE5LLXVyMmZ1U0E?oc=5",
-   "time": "2026-11-24T14:51:58Z",
-   "t_id": "AS menyiapkan tarif yang lebih tinggi terhadap Tiongkok dan puluhan negara untuk subsidi industri: Laporan"
   },
   {
    "topic": "ai-teknologi",
@@ -420,13 +437,12 @@
    "t_id": "Bagaimana Federal Reserve Bank tetap terhubung dengan Anda"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally",
-   "src": "San Luis Obispo Tribune",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pSlNjOFV2bXY0UGFhblh6bVUzYzV6VDhnci1KTVlRdjA3TEdlWWJ0QnJEU3NYUUpTUW5EcXUydTdHb01CYS1vakFNeDMyTEIyd21IVEVsdVJ4Y3VyZGFDSFpHZy1scFg3RjdPTDRaMVdVSHM?oc=5",
-   "time": "2026-11-24T11:03:00Z",
-   "t_id": "Nasdaq berjangka turun karena saham AI mendingin setelah reli yang dipicu Nvidia"
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG ditutup menguat ikuti bursa Asia dipicu optimisme baru sektor AI",
+   "src": "ANTARA News Yogyakarta",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0VkU1RhY1BZMkxoV1cyellMSkxEcW5uSVAzcVROU19xdWExYWVqOXdqQS1nUGJDd3M0M3NURmVLTWpYWm90bll3bmlZRl9mSVdHVTdFYklmSHRKZHkwRGFpVGszUXpibVNFWmk0eUt5TjRHM0JUMnU0V0xhYV95S01YUk1wcTR6R0k0Q3lPVUNSY042bXpRbjZRaVNKN0VOTnZKemUwMVYtaGNHRTNHQ0F3?oc=5",
+   "time": "2026-11-24T10:42:03Z"
   },
   {
    "topic": "indonesia",
@@ -439,10 +455,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Menguat 0,49% ke 5.241, Saham Perbankan Menopang di Tengah Klarifikasi MSCI",
-   "src": "www.fxstreet-id.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTZoVHNFcmVFNzZ0ZEc4OHhtVmhBX0wzYy1mVHNWQnB4ZlVpUkYzU0lKNDd0Qll5NlJGNjlfU2ZZWVJmRlNlQkNTckQ4VEdvQzVSOE0tX0ZJbjdTVDMwQVE2RUNQSEV1bGgxNUFPZlJlQ3loM2E4aXBNbWdHaVM4dF94Z29VbmNPOFRnODVyMFRXazlNYWozQUxZUXl2NlR5SnhPVWQxYUUzWWdkWGVRbWFnT0JmOTlaYnpPYUZyWEw?oc=5",
-   "time": "2026-11-24T10:00:12Z"
+   "t": "IHSG Ditutup Naik 0,49% ke Level 5.241 (Selasa, 24 November 2026)",
+   "src": "Databoks",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnFFV3dWZTA0R0NFSmI3VldxeHZ3UjZEdWJfUFl1S1pkSXZhdzBfN25MemVGTl9DTXAxWDVncmlRRWMtLUZ5bWVKTDVWUFZSUDczNVdJVEZ6clJqcUhvdTdhQlhGWmFHOTJpazdMemIxR09Mel9yTVVoSWQyQTNqWkhtR3FULXpQR0lMUXVBRDlIYlRIbTE0c3JEeW1RWEpTeGxFWnRYd09Fa3QteEYxMjVnNUs?oc=5",
+   "time": "2026-11-24T10:08:58Z"
   },
   {
    "topic": "indonesia",
@@ -496,36 +512,21 @@
    "t_id": "Saham Nvidia turun 7% karena reli kembalinya Huang mereda"
   },
   {
+   "topic": "china",
+   "lang": "en",
+   "t": "China approves 2-month suspension extension for select US export restrictions",
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGJjU0RFbHBrM1lxR0JTVFdxR3Yza3RwUkZFdmp1c1JBc3NpTlFRdUFYTzJ3RXJKMVo1N040VE9FZTNPLXNHVU9uVW9ndnpWOGlUQ2FYOTQzOXpJMy05Z1cxRS1qVmZKcWtxRU9RY05lS3l1R2N4WmY0YlRzWnRRVW9MdlNZaDJKTHBnbzJnU2F0Y3lkTkdadVZxOFU4Wlg5ZC16MEV2aHZFN1hDaDZqRjczeUlYakMwWTlqOGtPMNIBvwFBVV95cUxNZlJJWkx3Qm55NVVONEpMTkEzWE1iLTNaZmR2LUZEdXNSbG1KRDhJZy1jaDJERjlVTXZfNXVaTUZwYVM1MHdpZktSa0J6UE40ZnVualM0VjdHVE03YnhTZmFEeTY0UDUzcmp1cTNqcXlaSnRsX3dxd1JaZFJwbGdhLUxwOG9CVnVFSmVQSzJLWkJVVjVObTBabkF1Ry1DXy1LdGpsbm9jU2pwdFhPZGoybVlsS05xNXczdzBQVDV0SQ?oc=5",
+   "time": "2026-11-24T09:01:45Z",
+   "t_id": "Tiongkok menyetujui perpanjangan penangguhan selama 2 bulan untuk beberapa pembatasan ekspor AS"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI Kaltim gandeng Polda dan Botasupal musnahkan 11.295 lembar upal",
    "src": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmhzbFdxRWVuVFU4UEVPVkhpR1RYbHR3WkJFNUJCTG5qcGVIRlZLcF82cTkzLVY3ZmNSSVY2LUN0VUZRdXQ1OE5CSnhPTnZJYjRmWC1hbVozSWd3R0h1WDk4MklKSGJ5U0p6Rk5IM1VNRk0wYlE1QWJaaDJTcHFmbjhVLUVQWGhOa0U0UXBHY0syWUZSMU1VeWFjTXlCLUJHdjV0YUZsaWJaR3dsbGfSAbMBQVVfeXFMTURlZTFMaWxCMWJIbkZoTlkzckFSV291TVp0LVhkcTdKenFXTjZNQ1JkTzJXTzlscnBnZjl5d3RkdUNFaGVkR0FocVNURFRXRFE5Rk1RSFQ2NWczRElOU2JNemNDQTdvRklQZnJJbUt2cFNKZmVoUkxudWVwZC1RMHpKTHlqdDlYWUZFc0tqcGJOVVd3SV9qejlZbGptWFpxUl9sR2xmSkZaeXA5MWVmb2cxUkE?oc=5",
    "time": "2026-11-24T07:58:19Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI-Rate Naik Jadi 6 Persen, Pemerintah Pastikan Bunga KPR Rumah Subsidi Tetap 5 Persen",
-   "src": "Aktual.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkxpdDlKMUJZbzRVRVl2ci1ZeU4wN3lyYktCRWduVWkzVUtkUFRBQTV1b210SkJzWTkzaS1VQkx0bXZqb3FVM09IWGFDYW9acGdMVFVCT0VQQUZxN0ZzaDNnZ2tKNkRiRGRzbThaSHgzN3luNV9RVUlydG9MYmN5R1ItSTZhTnA4MWRQQ2ZUaE01R0VFYzRGVkQ3VmlTWFBiOGVTSExPb3o?oc=5",
-   "time": "2026-11-24T07:00:25Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Sebanyak 11.295 Lembar Rupiah Palsu Dimusnahkan di Balikpapan",
-   "src": "Kaltim Kece",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRk1yZ0Rwem9YUElpV2dNZkFvN0RTVUFwVkdkbXhEY1d2UXZ3aW9lcTlMbGJPNUFuSkN5R3FLdVB3MF9MZFR3Qkk0cm5waWR2QmdaSjNTWUMxVGFqR2xSX1diS2ZCTzkwUldmWEV2U3BCT19vazZLU1k3Q081R0wyLUhiaXZVZmxsRzBlQ2t5TWd1QVhKVmswZ2hR?oc=5",
-   "time": "2026-11-24T06:47:37Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Ekonom Prediksi Bunga Special Rate Deposito Naik hingga 35 Bps Imbas Kenaikan BI Rate",
-   "src": "kontan.co.id",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDNZX1hTREltc1pHR3pNaFczd1hjVF9JS004c3hiYWx1RURXMXVfTGZTWEcyOVdDWWdGYlk4S1Rwd0Fwa1JfTjJHYnVaZjhoS1JGRU9tdThORGpnNEc3ZFJyM1lIbVVUYlo2YVNjMzh2VVRsUVRNc2dXU2lGdThPWkNXWmZtMC1qVlRwd0lNbjJSRDlLeHdOLVY5Ni1CXzNGUW9QRVNhWG5zcDJjVWNmNi02STNmWFpPR0pDS9IBtgFBVV95cUxOVldxa2ZfTTVyWVVjYk5mTDlDS09RY1lqYnB0QTdUMjBBbll3UjlqX0g4RERIQ205R3JueUJ6NXZXZ3hvamE5ZVpsT3RBU19HNDh6U2QzVDFTRVhVcXF6OUgxZ09VNXFNZU1yNnA3bFpFSDMyYkZ0T1JMaDlwNk44eHphNVpHZTV6dk8wcnIxdWdvWkw0ZGgwU3JQb01MRDRvMUdfMmlEVU5wc3R3VHpDa1FkanRIUQ?oc=5",
-   "time": "2026-11-24T06:26:00Z"
   }
  ],
  "errors": []
