@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T13:11:19Z",
+ "updatedAt": "2026-11-24T13:25:57Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1RIV3Q3cTJPb1JpTk5NaWRVdV9xSHpoUnhTVzY4el9CUWh2dm14Vm9JZFFGSEo2RmFZOEdTZTIwZm00N3RkWGUyVEgyLXFMODRDakFaS3pyQ28zQ2ZCTmN4b1ZqOG96WktDaWpSampheXBhNUJDbmNMTTEwRlJ3OV9idVdQRlV2bzFhVDZlMkVRWFcwZ1VfSXFCX01mdmU3UVFjT0tKZmpOUXZpOG9VLTA4ZC14NjZIVXF0YjdpRXdHaVV5TkFN0gHMAUFVX3lxTE9fUTV2QlI4TWVZSFdqVGpNdDluUjM4UWhEdkhFWC1LM0g4NElDcWVuUkF6eHVLei1FMXJBblhnR3FaenV2M09LZzVMa09NUV92ZzFjRGZNRHM3cUpsSkhzWGNDQUhQT1NoVDdWVFd1eFVScFk5ZUxDSlY4ajd5STZvWXlyR0hod1BpUjN1YnExSi1ISHBQQTI3NHhrek1GNWdCMlMyNXYxQ0pYc3gwUzV6dktvN1RMU2V3VXBWSEFmd1JhdGQ4QXhtcFdZeg?oc=5",
    "sources": 21,
-   "recent6h": 2,
-   "score": 22.0,
+   "recent6h": 1,
+   "score": 21.5,
    "level": "besar",
    "first": "2026-11-23T09:00:00Z",
    "last": "2026-11-24T09:42:00Z",
@@ -41,47 +41,41 @@
    ]
   },
   {
-   "id": "perang-202611231312-9576",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "politik-202611231527-08cd",
+   "cat": "politik",
+   "label": "Guncangan politik",
    "lang": "en",
-   "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Nkh0dF9ndTRBVjktYnQtQWh4clVUZVlwcmtIdjFLa0dfeW5Wb3NFVlhuYXJ4d0Y0c2ZLZG5zaTd0TEdnNHFFVzhUV3VYS1lXWnYyZHFzSjUzdTg?oc=5",
-   "sources": 7,
-   "recent6h": 0,
-   "score": 7.0,
-   "level": "besar",
-   "first": "2026-11-23T13:12:01Z",
-   "last": "2026-11-24T03:20:56Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
+   "sources": 4,
+   "recent6h": 3,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-23T15:27:34Z",
+   "last": "2026-11-24T12:22:04Z",
+   "assets": "Mata uang & obligasi negara terkait",
    "more": [
     {
-     "t": "Ukraine’s drone strike on Russian warship risks ‘serious escalation’: official",
-     "src": "News24",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVE9NaUJGa1k0bGZ0NWZ3UU9YdnM5ZnRtN0pRaEg3bGhxNDJjQVM1VVU5MkxKNnp4RHB1SHF2V05aMDBkbWY5MUVFN1FVT2NtN0FpRk40cVRPcUlkbW1RRFRGWUM1RnhIVGd6ZDVBNHdmN3BURmFTME43ZUlvSFozNjdjZV9XNU5fQmlmTlJvUDF3U1JCeTFKcjdPRjdlVTlNNWN2RGRXbTFvekRveEhWcGtuNFRTYkpSWC1IUjlILWc0TUxLSG1SbXROSzFyd2J2T0thT1hnZG91SGh2LVRrdUxWMzJ4Qkx6SG1PaUhHNWx5bzdTUWVYcVFwd0RnVDR2R29jMlotRXRYT3FyU0FucFlMalFlQdIBmwJBVV95cUxNSV9jNFB4MTRkaFdCRWk2S0RYRE45UFNGUmhoOEhSZGhIeFZwamh4OU1aQy1ZQ3VVUnBVSUhPOHkxcW1jMHplVGZna2NDLV80UUhJV1pBcnhPZ3JmeURaSGdrdDJtcGQzMk1NSWJncjhrME1zVl9QTTJoQ1pLSElEczcyemxNNkxRNzczTmNjMmtZb01TUWNJYmZyOTZKM2pSU1ZCZlduUjZOZUJNS05sZkZJVGh0YVVNWTVMREQwc0g2RnlxeTRyamUtVUloWE12cXJyeU9JaEVhLUV2RmFla05iTVAyTFdiRDFVV2h0Qk4ySms3dWpKZTgzTFFSV1Z0NnNieGhKR3ZRZHgwUHFnRmFVbll3NEVnX3Nj?oc=5",
-     "t_id": "Serangan pesawat tak berawak Ukraina terhadap kapal perang Rusia berisiko mengalami ‘eskalasi serius’: resmi"
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "inkl",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFBoR1RYWDZYVGMzYnAyM0xjQUFnTHZPalc5RFpURGJGcmVtbjg4eHBFNjZnUVlTSnFOVVVJUDB5UVVlMDlScEFScVBjNExQYnBTN2xEYy1GZXRNVUVKTGZQRnJTLXZCdXpIejcySmVSQ2pRZ3hjS01wY21yN09Ldm5Ba0x2MXYtNUh4Tzc5SVlheTVzNklGV3dIYjc1bnNsZFc3OGlHTDVkMWlIREdPaVZn?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
     },
     {
-     "t": "Poland put its air defense on alert due to Russia's drone attack on Ukraine",
-     "src": "Українські Національні Новини (УНН)",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnR0Nm1uck1JU2dvTUZkaU9VMURrR0ZaSHdfckExWnhndW1EbnJNcGJ1bHhjRzdsN2RSaTNyS3Q5SW15NDZmS3ZCTDZMbFRRMk1xMl9OZGJZQVViMDhxN1drbnJfc2xKUWVhbmNUeXhfUlV3SjR4aFRtME1TYkFqUjJLT3lmaFphanBPSHROQWhHUjNTQXNlUGlIYzNneDDSAZ4BQVVfeXFMTTFNRDVrUkJlcjBuWGZKam5NUVRvdWNndS1iTmphOGVQZVRZTmdGYzBXbHRUcWVvMmIzVXBPWEVGVmYzRW9lWVJmSU5fa0VkaVFBYVRmM3VKWnNTYnJJOTVPWHhWTFZqempfb1lHNVo3QU05Z29vRkZ5TzdJemI3ajdJLWx3QTItYkh6eFlOUTdYdFpPODFlUHpoS05fOWc?oc=5",
-     "t_id": "Polandia menyiagakan pertahanan udaranya akibat serangan pesawat tak berawak Rusia ke Ukraina"
+     "t": "Sanchez’s snap election, and what his (likely) defeat means for Spain’s Nato spending",
+     "src": "EUobserver",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
+     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti (kemungkinan) kekalahannya bagi belanja negara Spanyol di NATO"
     },
     {
-     "t": "US Citizen Among 5 Hospitalized After Russian Drone Attack on Kyiv",
-     "src": "Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQzRYYlRBbFRtdzVRd3gtRzk5dW9VcVhOUVc1QWZsMDJWdHRmZ1JnRlpJMG1oRnZJcktTUVRiX1JhaXBqbFdpd3ZIRQ?oc=5",
-     "t_id": "Warga AS Di antara 5 Orang yang Dirawat di Rumah Sakit Setelah Serangan Drone Rusia di Kyiv"
-    },
-    {
-     "t": "Images Show Before and After Ukrainian Drone Attack on Russian Warship",
-     "src": "Business Insider",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
-     "t_id": "Gambar Menunjukkan Sebelum dan Sesudah Serangan Drone Ukraina terhadap Kapal Perang Rusia"
+     "t": "The leaders vying for power in Spain’s snap election",
+     "src": "Macau Business",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGNfb1c0TVhXak5RUzRka2VwSnJXVmtiUFh3RFdocnFiTWZ2anZ0OFMtSWN0VGJfOHZMdkhTTVRiZmx4al9sNVFfTkJJNmdyN1M2SVBxVEQ3MnlJUDFjR1hCQjJqSjJBdlBDcVgxcndKYWlrSVlJM291UmQwWkxaWWlmUFQxams?oc=5",
+     "t_id": "Para pemimpin bersaing untuk mendapatkan kekuasaan dalam pemilu cepat di Spanyol"
     }
    ],
-   "title_id": "Serangan terhadap kapal Rusia di Libya menunjukkan perluasan perang di Ukraina"
+   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
   },
   {
    "id": "transportasi-202611241145-0ba4",
@@ -89,13 +83,13 @@
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
    "title": "Delta restores weight-and-balance system after Atlanta flight delays",
-   "src": "www.thetraveler.org",
+   "src": "https://www.thetraveler.org/",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb01PY3lWR0tTQVBua18wMS1tc2tKbzZ6Z2hMOXg2ZDdobFdVWnZQdzRmSHVLbG5ObW9mSzZJUEFfWkZZZURUdGpmeWxVTnE5UXZJbC1OeHZYb0NOeUUyeEhMNEloeV9Lb05LbXNKMk9vMUdhU2ZLdmpBZkgxNmFjSmxYa2pZcVR1ak1EZlRIUVNPcEk5eERsdzFlbGNFdw?oc=5",
-   "sources": 4,
+   "sources": 3,
    "recent6h": 4,
-   "score": 6.0,
+   "score": 5.0,
    "level": "sedang",
-   "first": "2026-11-23T23:10:39Z",
+   "first": "2026-11-23T17:35:59Z",
    "last": "2026-11-24T12:57:09Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
@@ -127,35 +121,41 @@
    "title_id": "Delta memulihkan sistem berat dan keseimbangan setelah penundaan penerbangan di Atlanta"
   },
   {
-   "id": "politik-202611231527-08cd",
-   "cat": "politik",
-   "label": "Guncangan politik",
+   "id": "perang-202611231403-aadb",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
-   "sources": 3,
-   "recent6h": 2,
+   "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
+   "sources": 4,
+   "recent6h": 0,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-23T15:27:34Z",
-   "last": "2026-11-24T12:22:00Z",
-   "assets": "Mata uang & obligasi negara terkait",
+   "first": "2026-11-23T14:03:16Z",
+   "last": "2026-11-23T18:45:55Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Sanchez’s snap election, and what his (likely) defeat means for Spain’s Nato spending",
-     "src": "EUobserver",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
-     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti (kemungkinan) kekalahannya bagi belanja negara Spanyol di NATO"
+     "t": "US Citizen Among 5 Hospitalized After Russian Drone Attack on Kyiv",
+     "src": "Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQzRYYlRBbFRtdzVRd3gtRzk5dW9VcVhOUVc1QWZsMDJWdHRmZ1JnRlpJMG1oRnZJcktTUVRiX1JhaXBqbFdpd3ZIRQ?oc=5",
+     "t_id": "Warga AS Di antara 5 Orang yang Dirawat di Rumah Sakit Setelah Serangan Drone Rusia di Kyiv"
     },
     {
-     "t": "The leaders vying for power in Spain’s snap election",
-     "src": "Macau Business",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGNfb1c0TVhXak5RUzRka2VwSnJXVmtiUFh3RFdocnFiTWZ2anZ0OFMtSWN0VGJfOHZMdkhTTVRiZmx4al9sNVFfTkJJNmdyN1M2SVBxVEQ3MnlJUDFjR1hCQjJqSjJBdlBDcVgxcndKYWlrSVlJM291UmQwWkxaWWlmUFQxams?oc=5",
-     "t_id": "Para pemimpin bersaing untuk mendapatkan kekuasaan dalam pemilu cepat di Spanyol"
+     "t": "Images Show Before and After Ukrainian Drone Attack on Russian Warship",
+     "src": "Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
+     "t_id": "Gambar Menunjukkan Sebelum dan Sesudah Serangan Drone Ukraina terhadap Kapal Perang Rusia"
+    },
+    {
+     "t": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
+     "src": "New York Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWFiM3VHc3ZpOVpHYmtwZUZIR3dPZXRaNXhNZmFYekxsa0F2YkYxU0dmQnhVTnpseFo4ZExSSV9wVUZLQllJVFdVaDNCampIZ3lFeGJPM3FxNWpoRG1yOWpxUzNoblFtdWxNSlZTWE5zTEZnZ0VIa1FRSkhESF85ekN3?oc=5",
+     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
     }
    ],
-   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+   "title_id": "Kapal perang Rusia dihantam drone Ukraina di Libya, kata Zelensky"
   },
   {
    "id": "siber-202611231216-8119",
@@ -186,38 +186,38 @@
      "t_id": "Pemadaman Teknologi Delta Menunda Penerbangan Secara Nasional saat Perjalanan Thanksgiving Meningkat"
     },
     {
-     "t": "Delta outage snarls Thanksgiving travel in latest tech issue to plague US",
-     "src": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmlzTTdrbmRDQkxSekFSclE1YWM4SjJLTXlLUmFHRk56MG9TOXBOOHhfR3BRRzEwNlk0ZExRU2pGZGdhRk5JTmRGWnZpdUI4eThLbWlNT19HYW1MVVBJMDJaVUFJYU82bklGZy1hVS1EX2FFeURHQ0dWS2xabGZ5eHZJMFBWTGhDcEpoWW5LcmlQWlZJVU5Jdlc0NmJ6YnFWOExpQkhRZF9PU01zdFdnTDdUSGdTUQ?oc=5",
-     "t_id": "Pemadaman listrik Delta mengganggu perjalanan Thanksgiving dalam masalah teknologi terbaru yang melanda AS"
+     "t": "All the recent mass outages in US as Delta issue snarls Thanksgiving travel",
+     "src": "NewsBreak: Local News & Alerts",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVFZMRXViRDRkS2ZVQkdtMzM5MHdmaFJxRFRRVWlYVklMN0dDaV9zQldkUUhOZEg4Q19fMGgyMzJuZm16dnZSZUNUQVlhRk5aV3ZlaXhreE5vS2s5akVaeURZcnpSOXlNMTliVzlURkN2OTN2R1gwaUV6Mkk5RjVuZ01kZjdvTTlZd0gwdzhoZzdmTlBpM1FnRVpXV3V5dEQ4WnJma0ZUZkk5aUExbUJ4R1RGc1Rvcjl1ekoyX3ZQZUNNZzVHOVlpNHRoQWx0blJUb21OTA?oc=5",
+     "t_id": "Semua pemadaman massal baru-baru ini di AS karena isu Delta mengganggu perjalanan Thanksgiving"
     }
    ],
    "title_id": "Penerbangan Delta masuk dan keluar Atlanta tertunda karena pemadaman sistem"
   },
   {
-   "id": "siber-202611241236-ed15",
+   "id": "siber-202611241223-3d15",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Spotify Down? Thousands Of Users Report Outages Globally",
-   "src": "Menafn",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVVZNSnpyMTlKRjBRM21WOVJYSVVYU3Bpd255VUhfWVBJdHFPY2NQZnY5MTBNWUE4SEpKZHVoYnRDYXFwUGo2bHVKc2Eya1pEYnhmWndOckU4dGFDU0ZDY2F1MU5HWFZ2YWk0QXhPSkZrQ0NWbU9KUjlMWjRNV0haZ1VfRXp3a3RUdTNvZ2Fn?oc=5",
+   "title": "Spotify Restores Access After Outage Hits Users Worldwide",
+   "src": "cwibc.co.id",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LcEljSnVKdExJVEJKNEFRY1BLVENJWTNnQVgzS3RQRzFPRTNfSUN5cHFEVnBESHBxOXd3cDBvNUhUZ3dEQ0lHUGQ3dlFOWXY5cEtUMzVJaDRpYU5oQ3N4TFBjR3lCOEdzNmZhcA?oc=5",
    "sources": 2,
    "recent6h": 2,
    "score": 3.0,
    "level": "kecil",
-   "first": "2026-11-24T12:36:12Z",
-   "last": "2026-11-24T12:40:16Z",
+   "first": "2026-11-24T12:23:15Z",
+   "last": "2026-11-24T12:36:12Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Spotify Restores Access After Outage Hits Users Worldwide",
-     "src": "cwibc.co.id",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LcEljSnVKdExJVEJKNEFRY1BLVENJWTNnQVgzS3RQRzFPRTNfSUN5cHFEVnBESHBxOXd3cDBvNUhUZ3dEQ0lHUGQ3dlFOWXY5cEtUMzVJaDRpYU5oQ3N4TFBjR3lCOEdzNmZhcA?oc=5",
-     "t_id": "Spotify Memulihkan Akses Setelah Gangguan Menghantam Pengguna di Seluruh Dunia"
+     "t": "Spotify down? Thousands of users report outages globally",
+     "src": "Khaleej Times",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ocEN1U01ndkYzN05Jbzh4VVpVWjZVS2JDOElDaFZkcFpmTkVPckVkUG5mdEtnXy1RMHE5bEUwdHNWN3ZNTHdfeVpBc3FXcWM5WmVxZE5ZMzd6Zm5pdHJsS2RWS2R6YlRqZHF1VUZjU09tMGp5N1FxNjE3UdIBgwFBVV95cUxNZTVydWNITFJpWWRfbUlYa3RsaTBHbHprQ2tZYUFMVzFNN1lXd1VPMG5wbUJrakdXb2U4WVVMNjdGeS1NQWVVUE5tV0pXV1BWRHVUSFM1eXNXY3EzQjBUNENIU1R3cnY3eXVtbGEyWGg5V2ZTdmFEMkxCRS1oVzF2aEw4MA?oc=5",
+     "t_id": "Spotify tidak aktif? Ribuan pengguna melaporkan pemadaman listrik secara global"
     }
    ],
-   "title_id": "Spotify Turun? Ribuan Pengguna Melaporkan Pemadaman Secara Global"
+   "title_id": "Spotify Memulihkan Akses Setelah Gangguan Menghantam Pengguna di Seluruh Dunia"
   },
   {
    "id": "perang-202611231546-ffbc",
@@ -249,37 +249,6 @@
     }
    ],
    "title_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
-  },
-  {
-   "id": "perang-202611231341-2f18",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "New SPYS interceptor shot down Russia’s Geran-5 cruise missile",
-   "src": "The Defence Blog",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk9iUkhES3ZjdFFjSlNONkoxcHhFdG1nZUpsaWJoQ0tPMklpTF9VMVRYX01Ha2xyNW5mQnpuQ3RJdDFRWUNIa25Na0w2Ym5DOEg1UzZlYm5jdzBYai1NX0ZVV3dFMUJmRENpWlFtVlJiY1lTclMzTWdaZGdtYUwwMnhBR2g2SGFzeEVXQ0pNNXjSAZYBQVVfeXFMTy1FblhMS3dlQjdQaGNfVVRsTkIyWE14ZHFzeGFrbGEtRFg2WHZGWXFRSGRDZi1qbzA4YXB1dWFPbUxuSmFRUS1peE05RjJNRllMUFBZSi1FVFdvZ0c1VHQwVlpLMmRnN0J3V0k1MDlGbEZBS003WE45b0liQzhzVXdaS252WmtxR3ZqOGhlQi1EVW9LaXpn?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-23T13:41:21Z",
-   "last": "2026-11-23T18:41:47Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukraine Just Shot Down Russia’s Elusive New Geran-5 K5-K Cruise Missile With One Drone",
-     "src": "UNITED24 Media",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXkwbU5NWE1tRnpmN3VpWHZKOU1kbXpkc1RheUh1aHhCbWtMTXZPTzMxWnlZbkdFSGN3bmJrY011UFRQdjQ1cG01cW01X1F1a3NLUzRsUDFvSWZnRks2YWZYNjNnRVhnbERtc2RZbk4tdzhSc2xVbHFFYllWVmc5TkVSR0VZZV9jejZrajFiMkVfNk16LUx6cUZEWV9SOFlLX2ZHcVdIMlUtMkFiVzJITjJTMmh1c1hqMFF6ZlRVcWR2amw3R3RuNy1tdHI?oc=5",
-     "t_id": "Ukraina Baru Saja Menembak Jatuh Rudal Jelajah Geran-5 K5-K Baru Rusia yang Sulit Dipahami Dengan Satu Drone"
-    },
-    {
-     "t": "Six-Hour Missile and Drone Assault Forces Shutdown of Russia’s Novoshakhtinsk Oil Refinery",
-     "src": "Inkorr",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNlM3bWNEb0E4SUJSZEhLRlo0T2Ftc0g5RFlIaWxKWGFiMWhLa3FTYnd5Vkx1bmh6SjlRaEVOQnBTZTNYUUE0VFg1eURidkFuNWo5aGVTQWhOYUNlNUFLYTNLMEVkQnUtaTVqMzdMV2djYUhnUkVtcVMyZUJYZ3ZMQ1JmeXhSaEVRYjhqc2w2QmVQUjFkSlNzYkJHZ1h1bDFPc2MwNnhPTi1mbDFyOERHeUo0X1c3QUJlNUpwRE4xQ2gxNFhvcU9wZDN30gHKAUFVX3lxTFA2UzdtY0RvQThJQlJkSEtGWjRPYW1zSDlEWUhpbEpYYWIxaEtrcVNid3lWTHVuaHpKOVFoRU5CcFNlM1hRQTRUWDV5RGJ2QW41ajloZVNBaE5hQ2U1QUthM0swRWRCdS1pNWozN0xXZ2NhSGdSRW1xUzJlQlhndkxDUmZ5eFJoRVFiOGpzbDZCZVBSMWRKU3NiQkdnWHVsMU9zYzA2eE9OLWZsMXI4REd5SjRfVzdBQmU1SnBETjFDaDE0WG9xT3BkM3c?oc=5",
-     "t_id": "Pasukan Serangan Rudal dan Drone Selama Enam Jam Menutup Kilang Minyak Novoshakhtinsk Rusia"
-    }
-   ],
-   "title_id": "Pencegat SPYS baru menembak jatuh rudal jelajah Geran-5 Rusia"
   },
   {
    "id": "transportasi-202611231429-fe39",
@@ -340,8 +309,8 @@
    "src": "Anadolu Ajansı",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGx6T09TVWkzWXJvMG5oVnpkTWU4M0xqMVRZVzBWQlFZRlVRd2VIWWdwN011ZWdmVUxsdGQ5eXhaZXh3R2hXbEJGOEhaNkdHTWhOUWthTm5NeFdCa0tUNXpwV29DbjkydFV3ekJXZFpkcVNUQktXWEp0dEZrcl9RN0dUeHh0OUI4V05ZeUtUdDFULVA3UnAycHRROXlVeDIwREpoSWhQeWNHS01zUlJzTy1KSQ?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-23T23:06:50Z",
    "last": "2026-11-24T07:16:42Z",
@@ -357,29 +326,29 @@
    "title_id": "Harga minyak turun karena ekspektasi surplus pasokan dan pembukaan kembali pipa Libya"
   },
   {
-   "id": "transportasi-202611231735-b894",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "perang-202611231341-2f18",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Delta outage, FAA glitch fuel Thanksgiving air travel anxiety",
-   "src": "https://www.thetraveler.org/",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdW9lQkV2Sno3WXJjTUV1Tkg5d0NpS2Z3NWRnVV9jcXk3bjZhdVdrbGtlLTdweVJDeGctYzc4OEY1R01wdXpnZFJwaVRWT2RQVmVSd1pFc2FCeVUyaWxnR2t3NzY5a3l5d3Y2TzBFZllNUENka2hVOG5QenpIQ0xadUM2WjI1Y19hUVRNajBEVEcwb1E?oc=5",
+   "title": "New SPYS interceptor shot down Russia’s Geran-5 cruise missile",
+   "src": "The Defence Blog",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk9iUkhES3ZjdFFjSlNONkoxcHhFdG1nZUpsaWJoQ0tPMklpTF9VMVRYX01Ha2xyNW5mQnpuQ3RJdDFRWUNIa25Na0w2Ym5DOEg1UzZlYm5jdzBYai1NX0ZVV3dFMUJmRENpWlFtVlJiY1lTclMzTWdaZGdtYUwwMnhBR2g2SGFzeEVXQ0pNNXjSAZYBQVVfeXFMTy1FblhMS3dlQjdQaGNfVVRsTkIyWE14ZHFzeGFrbGEtRFg2WHZGWXFRSGRDZi1qbzA4YXB1dWFPbUxuSmFRUS1peE05RjJNRllMUFBZSi1FVFdvZ0c1VHQwVlpLMmRnN0J3V0k1MDlGbEZBS003WE45b0liQzhzVXdaS252WmtxR3ZqOGhlQi1EVW9LaXpn?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-23T17:35:59Z",
-   "last": "2026-11-24T00:55:37Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "first": "2026-11-23T13:41:21Z",
+   "last": "2026-11-23T18:41:47Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Delta Air Lines Battles Operational Disruption After Weight-and-Balance System Outage, Nearly 2,100 Flights Delayed Ahead of Thanksgiving",
-     "src": "FL360aero",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONUswY1dVaENVZmZhQXRiZ2M5XzVfTDFYOTA5Ty1uQ0ZlXzFqR0phalVQMDFRVmNKVTh2bkxVVzFxSzA1dGNROUVDOHh6b0NEdm11Q2RISldLMzZKWWN1aVN4Z3JKbWJ0UDNiM0VrSG1iVW1Md25PUmxYZnNqT0dHWFNzU29vZkIyWkJ6OWY5YVpCcWtSV0pBcVhlWUhUVWxBcGxnc0s4Z0V2c3hXdWdIdFJkTDdPenJqZW5mb0c2Rlk1QWoxazY1NktHTnV2ZWJkNV96djNZYzRNNk5QN0pobmQySFdNUHdRM1FLbzAwZDBpeGxDM1VES1lJckJWdUU?oc=5",
-     "t_id": "Delta Air Lines Memerangi Gangguan Operasional Setelah Sistem Weight-and-Balance Padam, Hampir 2,100 Penerbangan Tertunda Menjelang Thanksgiving"
+     "t": "Ukraine Just Shot Down Russia’s Elusive New Geran-5 K5-K Cruise Missile With One Drone",
+     "src": "UNITED24 Media",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXkwbU5NWE1tRnpmN3VpWHZKOU1kbXpkc1RheUh1aHhCbWtMTXZPTzMxWnlZbkdFSGN3bmJrY011UFRQdjQ1cG01cW01X1F1a3NLUzRsUDFvSWZnRks2YWZYNjNnRVhnbERtc2RZbk4tdzhSc2xVbHFFYllWVmc5TkVSR0VZZV9jejZrajFiMkVfNk16LUx6cUZEWV9SOFlLX2ZHcVdIMlUtMkFiVzJITjJTMmh1c1hqMFF6ZlRVcWR2amw3R3RuNy1tdHI?oc=5",
+     "t_id": "Ukraina Baru Saja Menembak Jatuh Rudal Jelajah Geran-5 K5-K Baru Rusia yang Sulit Dipahami Dengan Satu Drone"
     }
    ],
-   "title_id": "Pemadaman Delta dan kesalahan FAA memicu kecemasan perjalanan udara Thanksgiving"
+   "title_id": "Pencegat SPYS baru menembak jatuh rudal jelajah Geran-5 Rusia"
   },
   {
    "id": "siber-202611231611-bdce",
