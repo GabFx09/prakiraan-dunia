@@ -1,7 +1,17 @@
 {
- "updatedAt": "2026-11-24T00:19:26Z",
+ "updatedAt": "2026-11-24T02:16:42Z",
  "channel": "Prakiraan Dunia",
  "items": [
+  {
+   "id": "px-ihsg-20261124-up",
+   "time": "2026-11-24T02:16:42Z",
+   "level": "penting",
+   "kind": "harga",
+   "key": "ihsg",
+   "title": "IHSG melonjak 3,0% dalam sehari",
+   "body": "Harga terakhir 5.301. Pergerakan sebesar ini jarang terjadi; cek panel sinyal dan prakiraan sebelum mengambil keputusan.",
+   "url": "https://gabfx09.github.io/prakiraan-dunia/#ihsg"
+  },
   {
    "id": "ev-indonesia-202611231318-b69a",
    "time": "2026-11-24T00:19:26Z",
@@ -496,6 +506,7 @@
   "px-gold-20261122-down",
   "px-gold-20261123-up",
   "px-gold-20261124-up",
+  "px-ihsg-20261124-up",
   "px-spx-20261120-down",
   "px-spx-20261121-down",
   "px-spx-20261122-down",
