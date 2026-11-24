@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T11:41:50Z",
+ "updatedAt": "2026-11-24T11:56:36Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -48,12 +48,21 @@
    "t_id": "U.A.E. Mengangkut Minyak Melewati Iran dalam Operasi Hormuz yang Berisiko"
   },
   {
+   "topic": "china",
+   "lang": "en",
+   "t": "Canada and China Draw Closer with Expanded Trade Pact",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
+   "time": "2026-11-24T10:49:12Z",
+   "t_id": "Kanada dan Tiongkok Semakin Dekat dengan Perluasan Pakta Perdagangan"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
    "src": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0pBT3BvcTJqUGdDbUlRYkdJRV9qNjZTdkVtQndVSWpSMmxSMVJqT3VQdy1BcWJDZTRkRGotMUJpdlRiT25NUXZhdC1KZXhjUFh4VUZaMGNZSE1xMlNOMDZYOVJqTmNjeUpqcjlSYW9JdE9uMkp1VlpnMVVGd1Y3S2tVSC1BZmhsY1dIVEp1TExsUWVXcWNTclh4QVkwV3EwU2o5WkhLQlpsUWdUT3FsOQ?oc=5",
-   "time": "2026-11-24T10:41:15Z",
+   "time": "2026-11-24T10:42:46Z",
    "t_id": "Kembalinya Jensen Huang Memicu Reli di Asia, namun Kekhawatiran Masih Ada"
   },
   {
@@ -101,15 +110,6 @@
    "t_id": "Harga Bitcoin (BTC) turun di bawah $60,000 karena reli yang dipimpin Nvidia (NVDA) kehilangan tenaga"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "2 violating oil tankers catch fire in east of Hormuz Strait",
-   "src": "Mehr News Agency",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVJqVmxScElody1UTXBubS1tNUxGSlRCekUyOVFuMTdYTTZmdEVpNE90RDFlRlU3Q3FvQ1l5Y2xscGdDNzZhQUItUWFuZHg4N2xKVmM4MjNMMVEzb0tqM1FJU1ktcWYtVThNRktfNjgya3E2dXJZVzlmWFROSy1qR0pHQTBLb1FMQ1J1V3hWR3V6MWtnUGhwZTlJNA?oc=5",
-   "time": "2026-11-24T10:02:00Z",
-   "t_id": "2 kapal tanker minyak yang melanggar terbakar di sebelah timur Selat Hormuz"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Menguat 0,49% ke 5.241, Saham Perbankan Menopang di Tengah Klarifikasi MSCI",
@@ -132,6 +132,15 @@
    "src": "Aktualita.co",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3ZtV29VZ0F6SXcyTlE1NVlicGI0amM0SkRwcC16U1hZLU5VMWx2Y2FXalh1eERHRmxsQUwtYmx3aWFXeUc5M0ZNVUIyOExyd1ZlV2hSaEJ3VlN0elRSNWcwekRmOXo5NFZLWU9GV0xwenJIUnRua0xqWmRHd0RRWTFxcHM?oc=5",
    "time": "2026-11-24T09:56:34Z"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Breaks Down but is This a Sign of What’s to Come?",
+   "src": "StoneX",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
+   "time": "2026-11-24T09:54:33Z",
+   "t_id": "Emas Rusak, Tapi Apakah Ini Pertanda Apa yang Akan Terjadi?"
   },
   {
    "topic": "geopolitik",
@@ -172,18 +181,18 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Musnahkan 11.295 Lembar Uang Palsu, Bank Indonesia Bersama Polda dan Botasupal Perketat Pengawasan di Kaltim",
-   "src": "Dinas Komunikasi dan Informatika Provinsi Kalimantan Timur",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeG96azNjamNhV0JGVlFJcjgxWHZRVWFGTGJCVFlDRnRHT2hERkV5UUtpa3VIV0VvNEREVTZBZEEtNG5RZnhUQWVTel9CZlRKOF9HZWJwbHMwMTlqUHJSdktaaGd2ZEkwdWJwWmhrVnJRamRhcVNNRVdjbmxKVEhQZTJmbEljUWlldEVBRDlRZ0l5NWduMkhfSzlwc0xfQjJiWjdtT0dNT2E3aElVMHhtSm9IZWdxcFZYZEh3YWtLcU9vTEd0UVdseWxYcTQ0d3RPX0hUQUJIUnc5QzNidlUya0ZGZ3U?oc=5",
-   "time": "2026-11-24T09:36:26Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Ditutup ke Level 5.241, IHSG Selasa Menguat 0,49 Persen",
    "src": "Pasardana",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2dDZ1lSVnFwZG5xb2FpX0YwamFrbkU1Ni03OTQxV2g0dkVuLXFXaVg0TDZWMjZ2LVBsRTFWa0lTa0lVRGpRTzUxcDVxM0dyOU1jSWEzeGNTMTNvTXk5ajIzUUh2dWJZNmdrbmx5VnZORlRtcmpFVHlWSGFqWkVtWjdiSHNqbk5udzROaTduOFZZeFByNHc?oc=5",
    "time": "2026-11-24T09:32:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Rupiah melemah dipengaruhi kekhawatiran atas kelebihan pasokan minyak",
+   "src": "ANTARA News Jambi",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHRxem5HNjUzdThCazZxOHBYLXZCZl9UdWV2UnRVN1NaTDg0Y1oyck4zVHk0OGZCeTNLSjhlc3k2OHkxUy1GOG1hbnotX2VkTEloaGtCUm1qTG1FcXNIMkpaVXZibThKWFN5bHY2R2lhZi1Yek1fbGJWejUybXZ0VmFmS3R5Zjd2NlJDMUFfRlY1VkVibUszQkVqdnZzOTFTbjFMRzZsRUJZbVRmLVI4TFp30gG3AUFVX3lxTE5yQm9sRmVXWENZOTRocndCM013ZWNIWWtvbHBoTjByZE56WUs4Zk1PTG5EZnhQR0RUVmgxcHBhRmRCakpsQy03bFNyTHRQQTY0TXRJWkZCTWVybGNvQm1Rem5jbEtQTnd4Z3lydmQ3REFROWw0WlBtWHJWWGRLbllJZmpYN090NE9MMUZlQVVzdlhiM25EZlVrWUhZelhBZDVXSzBUSnBoNUdLcGhTaTZLa1A4VkZFMA?oc=5",
+   "time": "2026-11-24T09:24:49Z"
   },
   {
    "topic": "saham-as",
@@ -230,33 +239,6 @@
    "t_id": "Tiongkok menyetujui perpanjangan penangguhan selama 2 bulan untuk beberapa pembatasan ekspor AS"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "The plot thickens: US-Canada deal ‘fairly close’ as China aluminium ties add a new twist",
-   "src": "AL Circle",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMTNSdnlzZFJQa0VlUkVVRV8zeE5pQWU1clpGS0VFXzFrdU12TTdTREFPeWVGS0ZQblBIQjNyX2QwVWRuVURqTUpteHVBeTgtVXVzV0EtZ2h0VXVVWjM0N05LQWpCMmh5S0FwMW85ZzhEN1JlTTJ6U1BNMGVQUnNHdmlLNFhxcWNwQjJGSkZEYzFyV3JWMXpRVV9wRThibElYTTRqRG55YkNNazNHYkplTnNRLW5sejM0SHJQSE0wSQ?oc=5",
-   "time": "2026-11-24T08:44:00Z",
-   "t_id": "Plotnya semakin tebal: kesepakatan AS-Kanada ‘cukup dekat’ karena ikatan aluminium Tiongkok menambah perubahan baru"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Rate Today in India, 24 Nov 2026 - Live 18K, 22K & 24K Gold Prices",
-   "src": "Kotak Neo",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
-   "time": "2026-11-24T08:29:30Z",
-   "t_id": "Harga Emas Hari Ini di India, 24 Nov 2026 - Harga Emas 18K, 22K & 24K Langsung"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price on Nov 24, 2026 at 4am EST",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEFCUWFuTjdXT2RUYk8yRFdxaS1BUDQ0blMxY0NrUzJJbXJuS2IzNXkwS2l2QzBENm9HX2xxLXY5eUlCa01JaWhzZWxQMDh4YWdNSktRU0tlTUs4OUFhWXhuZ1Z4eklUN2E4c1NPLWo2dUt4eGV6bW9IYUNhejZUNXEyRDZKUjVhTmU1dG0ycUtHQW5Ga2hGeC1tQ3ZzSF9SMTZRdk5vTGRWWXpGa0E?oc=5",
-   "time": "2026-11-24T08:25:21Z",
-   "t_id": "Harga BTC pada 24 November 2026 pukul 4 pagi EST"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade",
@@ -277,26 +259,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "BI Kaltim gandeng Polda dan Botasupal musnahkan 11.295 lembar upal",
-   "src": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmhzbFdxRWVuVFU4UEVPVkhpR1RYbHR3WkJFNUJCTG5qcGVIRlZLcF82cTkzLVY3ZmNSSVY2LUN0VUZRdXQ1OE5CSnhPTnZJYjRmWC1hbVozSWd3R0h1WDk4MklKSGJ5U0p6Rk5IM1VNRk0wYlE1QWJaaDJTcHFmbjhVLUVQWGhOa0U0UXBHY0syWUZSMU1VeWFjTXlCLUJHdjV0YUZsaWJaR3dsbGfSAbMBQVVfeXFMTURlZTFMaWxCMWJIbkZoTlkzckFSV291TVp0LVhkcTdKenFXTjZNQ1JkTzJXTzlscnBnZjl5d3RkdUNFaGVkR0FocVNURFRXRFE5Rk1RSFQ2NWczRElOU2JNemNDQTdvRklQZnJJbUt2cFNKZmVoUkxudWVwZC1RMHpKTHlqdDlYWUZFc0tqcGJOVVd3SV9qejlZbGptWFpxUl9sR2xmSkZaeXA5MWVmb2cxUkE?oc=5",
-   "time": "2026-11-24T07:58:19Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "Pemko Medan Ikuti Rakor Pengendalian Inflasi 2026, Kemendagri Targetkan Akhir Tahun di Bawah 3 Persen",
    "src": "DNABerita",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczM5R0dhOHFHOVVKbmJKMTJXeEp4UzRiMHBMRFpXbEdIRHd5S1R1ZUprZ3hrdDBCNElpYVFwOEs5VkVMYnh1QWM3RE9PanQ3REhaZzBoZVlrd2xaVHYyX214aElCT0tjTUI3cm9TMVAwendoM3lnVFd1a3NSYjg1UExWNHdwT214aTRrcE1qekcyRDRPckNyaXNpMjFwbU1fRnFmTk9YTUNBd3NTYXlISDByVzBMQkV1OUhBNFhzUDA?oc=5",
    "time": "2026-11-24T07:27:04Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Tok! BI Kerek Suku Bunga Acuan Jadi 6 Persen pada November 2026",
-   "src": "Infobanknews",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUtMQXUxeG43TFhzWGhqS2ljTF9MSWdENDR6eHA2UWVTV0tvTnRyN3IzRFk0ZWJ3aXk5d3g2anRZaWRmMFZiUUY0TXBfLVMzWTNXV21kN2RCd05SRHA1dk5JNzJJTi1JTmFzNWhwMTZqTTZWalU5SWVXUzFuSnFHN3IzN0JmSVBuanJpbERVMEo?oc=5",
-   "time": "2026-11-24T07:22:06Z"
   },
   {
    "topic": "indonesia",
@@ -333,10 +299,27 @@
   {
    "topic": "indonesia",
    "lang": "id",
+   "t": "BI Rate 6 Persen Jadi Tantangan, Gaikindo Berharap Penjualan Mobil 2026 Tembus 850 Ribu Unit",
+   "src": "Jawa Pos",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUpCRXlLOFJpLW1NM25iVDlQUnMzZnJqQUwtcjIzRThBVFF1aVA4ZU9FTEEtbjl2SERJVXkwd2NnVjZmN0xRWGQxdWhIdWF3RkpuRkRXWGFNWS1oSW1KVURSd2gyV2xLR3NZN3RyRmRVSzFtb2RLZmthX1lTQ0FSTjBpeXJ3akZVenRXWTBHbHNCVGJNM2hXLW5XczJNWjBNaVR2VkMxS3ltZnBIWEJFT2JTY1pLRm9wdkUwQlJyanNpZVVheG01bDV1cFZjLThoUzRN0gHYAUFVX3lxTE43VFNVQ25YeGg2Y0JLSVN3NEhxRjUwZlFPM0dLQks5V2l6cDhnYnAzV2NWbUJjanVjVGNjNHF0ZHJlN1E3bFUzaDBfREw1Z2xxOTBjQmpQemh2VmQzd2RBWFc4N3BFVTlrcmx6N0ltZkhCZ3c4amp4OG1wTGN6UnV3eVNiaHJsRXJ1NGU5Z0VZTGsya1hkdWxZVld2NVEwMEZ5WXl2dzJKZnpTeFRIdFpFbFhKZ0w0N25ZazZaUzJka2x0OEdlLXJ0NjVrSXZGelRhTHVZWHRhTw?oc=5",
+   "time": "2026-11-24T06:17:11Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
    "t": "Asing beli saham-saham ini saat IHSG naik 0,25% di sesi I",
    "src": "IDNFinancials",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX05STTJmM3hDOVUtc3hEUFBEZzZRTzNOZkozNWc0dUhUcUVNRW1CdW0yRXhPVWJiOGR3cWtHQVNXWkNLRXhwNlNqdEpqQWpndkJveFZwT3lTenVvQ2x5R1pQUlJWVnBUM2lNVkhkcHc4Wmdwc18yLUFQUm1MZFFseE1HZkk5SlZSeFEtaXNveDZhaUdXS0lJVU1lVVVCY0k0M0E?oc=5",
    "time": "2026-11-24T06:10:00Z"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "#Daily_Brief: #China-#Africa trade surges 22% to $312 billion in first nine months of 2026 China extended zero-tariff treatment to all 53 African countries with which it maintains diplomatic relations, effective 01 May 2026, expanding the measure beyond the 33",
+   "src": "Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDNlVElTcTY1R0NHVEhyVGxmaVZhR2t6d0ZISzF6RVlBRi1LWm90NHhkMXB2VVV1UWM0dXNlQ1JkcGFnd2pYZFAwd1piQmFkNXFEWUpTNmRqamlSMW1wUllUWFRDSUdnLWRweFV0QTRYS0VtSjJVejIxbVp2aHpqRkdzdUNzc3N3TnVZU0FUZXFhcGZNekdrblRQZS11Z0RBd00xS29qMWlWMVNZWGNEWWVTY2d1cHplLW12bmh0YkZoN19sRE8xeWFPRWlGVzNtX3RYX1pSemR4T3VTdlE?oc=5",
+   "time": "2026-11-24T05:53:07Z",
+   "t_id": "#Daily_Brief: #Tiongkok-#Afrika perdagangan melonjak 22% menjadi $312 miliar dalam sembilan bulan pertama tahun 2026 Tiongkok memperluas perlakuan tarif nol ke 53 negara Afrika yang menjalin hubungan diplomatik dengan Tiongkok, efektif 01 Mei 2026, memperluas kebijakan tersebut melampaui 33 negara di Afrika"
   },
   {
    "topic": "emas",
@@ -365,12 +348,30 @@
    "t_id": "Saham Melonjak Setelah Jensen Huang Diangkat Kembali sebagai CEO Nvidia"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
+   "src": "Houston Style Magazine",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYnBmd3RzYjB2bk5URVVtal96Y2JrcFJEQ3FzdEctYWhZcTZ5OWpPQWhNYTNmV2QzTVZOb09JWm5kams0WE9uQzhiV0EyNnAzcHBPYVRYUXZ1MlF1MTYyd19GeC1IMGtyNUJaSEw5alZSMFVuWWg4T1FrWEJwbDVqTTNtbkJlRjFHSlNZTTZmWTRMaGtoNEc4VGdVeFpnN1RlVlN2LWE1MU5nbk1EWllob2hILWNpcnlCMVR6M2FTOEdIdjB0YUtBdGZQNXZKalk?oc=5",
+   "time": "2026-11-24T05:31:10Z",
+   "t_id": "Serangan Iran di Selat Hormuz berada pada tingkat tertinggi sejak konflik dimulai"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI dan Polda Kaltim Musnahkan 11.295 Lembar Uang Palsu",
    "src": "Bisnis.com",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHFXQ0JvNjVVZEhUNUIxWVRMbEROY0lrN29JSUU1cmYwenhQbmE5TE90TEpUUlFRNHVMWE1ENGdhMUtYTG9nX2xjLWxydTM3UnpQVGNwaHI3bUVFaHdFSThHaHZXRjNXTy1uOGhBMndNQ2ZKZWN0dGg2NzJEVUUycFhDQXdZaWg5dGRxX1lSMHpxNGwwRW52cmU3ZUFob2Q5dzM5amY2VnBiUmhpakE?oc=5",
    "time": "2026-11-24T05:30:00Z"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "BTC price range on Nov 24, 2026 at 1am EST Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlRwcWxpazlSZTJDa0pOa29NUGRvRW45QVJ4UHc4UEo1VFBmUDZlV3dvOU9YZlNNWnZVT1g3WVRVaHM2VkpsazlHZjhvVEJZYW1RdHVoNERWYjBQQlphWEtMdXdhWlNtYkUyWUtvUXdxZVR4bG5udjN0UkM1SXVkeHl1TFJvSndLaWVJVjY3ZWgwMVhjYUQzRkFEMGJ1bmlVZk1SQ3dXY1ZtdmpRTldKWFpoQnVZQQ?oc=5",
+   "time": "2026-11-24T05:06:36Z",
+   "t_id": "Kisaran harga BTC pada 24 November 2026 pukul 1 pagi EST Prediction Market"
   },
   {
    "topic": "geopolitik",
@@ -380,15 +381,6 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSnVNOTQ5Ml81YUdQSkxzbkI0bVF5OUV4RndqcjVrWkM1SGw4V0tZOVJEbGRmTGgybGxfTUwzRVNISTRFUmxkX0cydWlPcVRCN2dIWFFfaklmbk40ZnptNVMxUURLdWFoRUtUNkNR0gFzQVVfeXFMTVY0aG5JUVJlODBXb0tvdmJTRjJoV2R2Uk9TMVpKcFdpLVpTUThDU3MzcGw3RnVmanBjQ1VNRFlkRi1JZUMxMDRNcWFXLVJoNlo4dVB6VU91V2tYRnpDU1oyekUxaWQwdlBXbGJoZ1ZlSGNKcw?oc=5",
    "time": "2026-11-24T05:05:08Z",
    "t_id": "Iran mengatakan tiga kapal tanker menabrak ranjau di Hormuz meski ada pengawalan AS, sementara Departemen Keuangan memperluas sanksi"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold price in Bangalore today, 24 November Tuesday: Check latest 24K, 22K and 20K gold rates in Silicon Valley of India",
-   "src": "Livemint",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbzVMc2htbkdDajUxTV92N3dkdV84cklQa2ljdTZySHJzcHZIOVZOeDNaREVvTVNqdGExRUxPWFNZZVhZVDF3VDVKcVhUYXdaYXVSWWxISTRQTDZlQjBRN1NnbWxPcE5YTUVOZVRUcllKdFVpLUFmdlZSa3hRdVg1MlpZcExLVFlCUGJpQTZUdTJENFAtUmtoRmJXRzVMRnROSXhtbmJjdUtSTGlDOFFlTGZzWndBT19rV2NGenozWE1GNGN5OVNZcU1uZEUxV0xIOTVGYTM2eFI0aFJsdHQ2d0NjQ3NDOVdzdm5EdnFLejZadnR1RlFYd0ljQ2s0b2JtdU14LWpLdUx4SU13dE5FeUtB0gGXAkFVX3lxTE9TSzgwbU9USDd3ZmNtUFdfNEw4bjNfRkYwZU1IWURzWFpraE1Hc0d1ZlA0YlJBWGcxWGxUUVFkTWFnRF9RZlNSSXhEYkhSc0hPZlRMYkN4SUpUX3hHLTBPS1NSdUEzSHYxQnhCclRjV3o3UGNjc0xIX1V4a0p1RENoWjVON3VqbFhzS2VuMXRIM3FLTjFQNWRKaVNiNXl4R21CLTlLLUFZU1hCR1ZhMFU4b28xQVpzUDJNeENvMWc2bktuS3p5NEpWcWVrd2NyMl9HcFRLa09QUkRQOGpjRHBTTHRJWGY0QmVPWTlqNEJhT3RvbFZDMHpRNllOT0VaWm5ScHlHRVBkM3A2WW1ac3BaR04zSG1kRQ?oc=5",
-   "time": "2026-11-24T04:53:04Z",
-   "t_id": "Harga emas di Bangalore hari ini, Selasa 24 November: Periksa harga emas 24K, 22K, dan 20K terbaru di Silicon Valley India"
   },
   {
    "topic": "indonesia",
@@ -474,13 +466,21 @@
    "time": "2026-11-24T01:13:35Z"
   },
   {
-   "topic": "china",
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Kurs Dolar Hari Ini: Rupiah Menguat ke Rp18.223, Cek Kurs Jual Beli Terbaru di BCA dan BI",
+   "src": "Aktualita.co",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1NVdE8xMVVuUm1YRnI0Q2Vnbzh2My16NlVFbncwNzdLLVhOUHpJQ0JTa25yaDZ3MHhHR1A3a0dPenltT1JzektWNTBpMlZEQTNMZm9mSWh4ZWtTQnpGWDh1MGNyYkZOU21URGJib3VFX0dPOFdpRHNCenV2Si14c184ekZPUzg?oc=5",
+   "time": "2026-11-24T01:11:00Z"
+  },
+  {
+   "topic": "emas",
    "lang": "en",
-   "t": "Canada, China look to strengthen cooperation",
-   "src": "China Daily Global Edition",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdGQ2TWpOc0JadDg0dHdRWWxNWnhqaFhFd0NTLVM0bVFWN0dCWlBoWC1KWTgtX2lmOU9MNzR1bkVIdWp0OGVuWmt2azFRN3c3T3FNd1cycFdTZ1lOdFMyQk9NMEF3YktsMXR3T1B6VTR3ajJvSFJYd05ZZ2xmc3FPMmNR?oc=5",
-   "time": "2026-11-24T01:12:03Z",
-   "t_id": "Kanada dan Tiongkok berupaya memperkuat kerja sama"
+   "t": "Gold edges lower as markets await US inflation data",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
+   "time": "2026-11-24T00:57:00Z",
+   "t_id": "Emas melemah karena pasar menunggu data inflasi AS"
   },
   {
    "topic": "bank-sentral",
@@ -490,15 +490,6 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
    "time": "2026-11-23T23:38:48Z",
    "t_id": "Williams dari Fed mengatakan inflasi masih terlalu tinggi, menandakan kemungkinan kenaikan suku bunga lebih lanjut"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "The countries fighting back against Trump's tariff tirade",
-   "src": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
-   "time": "2026-11-23T22:58:13Z",
-   "t_id": "Negara-negara yang melawan serangan tarif Trump"
   },
   {
    "topic": "bank-sentral",
@@ -517,6 +508,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
    "time": "2026-11-23T22:46:34Z",
    "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Wall Street jumps back as Jensen Huang returns as Nvidia CEO",
+   "src": "Virginia Business",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcmYtVDBpNU4zeGhHRC1yZGtkRWNMT0NXUzlrV2hyTVd3RktHcDd1RkJmUFBmbkJfYmg3ZnItNEpla1RXdmJIX3gyYjlvTXpOY3lrUEhHbEIwTmQwU3hYNnJIdFpFMWtDLVdZZHNZSS11YTFSckhpLUlTd2Q5NHh0SC1DbnlETGxESmc?oc=5",
+   "time": "2026-11-23T22:33:44Z",
+   "t_id": "Wall Street melonjak kembali saat Jensen Huang kembali sebagai CEO Nvidia"
   }
  ],
  "errors": []
