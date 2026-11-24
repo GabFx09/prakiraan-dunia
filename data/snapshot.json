@@ -1118,6 +1118,17 @@
    "ihsg": 5283.116,
    "usdidr": 18178.0,
    "ust10": 4.918
+  },
+  {
+   "t": "2026-11-24T07:00:00Z",
+   "risk": 72,
+   "btc": 60368.67,
+   "gold": 3613.8,
+   "brent": 86.15,
+   "spx": 7237.17,
+   "ihsg": 5202.853,
+   "usdidr": 18158.0,
+   "ust10": 4.918
   }
  ],
  "horizons": [
@@ -1564,6 +1575,30 @@
  },
  "news": [
   {
+   "t": "Bitcoin tertahan di sekitar $60.000 saat reli Nvidia memudar dan ETF mencatat arus keluar ~$570 juta",
+   "src": "Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xSlZYc2NUekJqVWhpbkIzcTVLMUFTcGdzS1c3NkdVLVUxdFR1VG9QVGtHeUtCYzQxbFA4ZVBLbzFscUJqOVFOdVVERVQtUmN4QkUwTnlrd0ZCV2d2RUota0V4MzlPQWpQT1RvcndTSnh3YUc5MHJOQVJR?oc=5",
+   "time": "2026-11-24T05:56:00Z",
+   "impact": "turun",
+   "assets": "Bitcoin, kripto"
+  },
+  {
+   "t": "Iran klaim tiga tanker terkena ranjau di Hormuz meski dikawal AS; AS perluas sanksi",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSnVNOTQ5Ml81YUdQSkxzbkI0bVF5OUV4RndqcjVrWkM1SGw4V0tZOVJEbGRmTGgybGxfTUwzRVNISTRFUmxkX0cydWlPcVRCN2dIWFFfaklmbk40ZnptNVMxUURLdWFoRUtUNkNR0gFzQVVfeXFMTVY0aG5JUVJlODBXb0tvdmJTRjJoV2R2Uk9TMVpKcFdpLVpTUThDU3MzcGw3RnVmanBjQ1VNRFlkRi1JZUMxMDRNcWFXLVJoNlo4dVB6VU91V2tYRnpDU1oyekUxaWQwdlBXbGJoZ1ZlSGNKcw?oc=5",
+   "time": "2026-11-24T05:05:08Z",
+   "impact": "naik",
+   "assets": "Minyak, emas, dolar AS"
+  },
+  {
+   "t": "Minyak mendekati level terendah tiga bulan karena pasokan naik, meski ancaman Hormuz berlanjut",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
+   "time": "2026-11-24T02:56:00Z",
+   "impact": "turun",
+   "assets": "Minyak, rupiah, inflasi"
+  },
+  {
    "t": "Bursa Asia reli mengikuti Wall Street setelah Jensen Huang kembali memimpin Nvidia",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
@@ -1634,30 +1669,6 @@
    "time": "2026-11-23T14:51:13Z",
    "impact": "naik",
    "assets": "Emas"
-  },
-  {
-   "t": "MSCI disebut membuka peluang mempertahankan pasar saham Indonesia di kategori emerging market; BI nilai pertemuan Prabowo–CEO MSCI mendukung rupiah",
-   "src": "Kompas.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTZ1YVJWOUtMZVVOODlsZE1DallRd3dOLXZjV2dwSEw1QkljQVlhc0hRSlBvWmI0Q0F4TmRja0VqN0NJSlZqYzVhNllzaGtlODdFbkRpMTZrTDNfMUZNOU1aMnpHd0FYeFFOcHFEZTQ4RHhUbzQ2emphdlktSDVPemV6VDQ2MlhPNHM1UzRSUWx2ZF9MVmtGcnhOOTJUaVUwREswR1VoOXJBcXByWTJXcVBGaWM?oc=5",
-   "time": "2026-11-23T08:50:00Z",
-   "impact": "naik",
-   "assets": "IHSG, Rupiah"
-  },
-  {
-   "t": "IHSG melesat ~1,6% di sesi I meski asing jual saham BUMN",
-   "src": "IDNFinancials",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWndNdHU2TllGLXVTWDRtUDBVMTlGT1I5bzRUZFZIQ09wc0p3VGs3UjFjSnpoTmt5Y21ZSXd4VjY5UVJnZmZKNE45THVTWHVKQ0wySldQalA3YVVZUkFjUUdNbTI0cXlua08zdy14R1QwSk1JNThWblBjZHFtZDZkMWgzQlZTUFhNckhSRENXQ0U4X0RrV2lCVg?oc=5",
-   "time": "2026-11-23T06:40:00Z",
-   "impact": "naik",
-   "assets": "IHSG, saham BUMN"
-  },
-  {
-   "t": "BI: aliran dana asing ke SRBI tembus US$1 miliar, rupiah sempat menguat",
-   "src": "kumparan",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdTBIV29LaWtFSk5ncTdyVUtkb2VsdUF5UFdqQ0t6emtYcC00OGp0dm02Nk1hUzlNVjgtdTVIb0hZWVBNWGEteTZILXA0MW1fOG1jRmhtYk9XZ09aU1lVckw1ekxhcmxPQzBWYjNja2ladDFySFI2RnAwRjMtQUVhV3RBbEt6NHdlTTNmRGxzTXlQOWk5bndXUUdOVmpJbk1rMGNjSG5hWlJ1R3BNLVpWMWwzMzNnOFhVc0lqUEVQNXo2V0U20gHMAUFVX3lxTFBUWXBTb055bjZ1bHZWT2xMVUE0ckR6RVhGVGhpSmFZOHJWWF92RFpqejJ5dWFJQlc4eHZmVVdXQzdXUkduVEtMYVpWQzRCQS00b0tROGpMUG93U2dBZGNTSy02WURVemctUWRPaV9yVkZUdU9zVnBRNlV0SjEyem9sd05pYlBTek42V0xncm8tTldYUDJ5MC1aOGZqMWpqTzdjYk1ya0pTVXJEYWM3dXBzN05HTWdsYzNOWFBBeFRPZk9ZV3Fra1ZZVWhNWA?oc=5",
-   "time": "2026-11-23T06:39:00Z",
-   "impact": "naik",
-   "assets": "Rupiah, SBN"
   }
  ],
  "readings": [
@@ -1682,24 +1693,24 @@
   },
   {
    "c": "neu",
-   "d": "-3,21% hari ini",
+   "d": "-3,60% hari ini",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$86,50"
+   "v": "$86,15"
   },
   {
    "c": "neu",
-   "d": "-0,50% hari ini",
+   "d": "-1,03% hari ini",
    "h": "gold",
    "k": "Emas / oz",
-   "v": "$3.633"
+   "v": "$3.614"
   },
   {
    "c": "neu",
-   "d": "-1,58% hari ini",
+   "d": "-1,30% hari ini",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$60.195"
+   "v": "$60.369"
   },
   {
    "c": "pos",
@@ -1709,18 +1720,18 @@
    "v": "7.237"
   },
   {
-   "c": "pos",
-   "d": "+1,29% hari ini",
+   "c": "neu",
+   "d": "-0,25% hari ini",
    "h": "ihsg",
    "k": "IHSG",
-   "v": "5.283"
+   "v": "5.203"
   },
   {
-   "c": "neg",
-   "d": "-0,59% hari ini",
+   "c": "pos",
+   "d": "-0,70% hari ini",
    "h": "usdidr",
    "k": "USD/IDR",
-   "v": "18.178"
+   "v": "18.158"
   },
   {
    "c": "neu",
@@ -1731,9 +1742,9 @@
  ],
  "regimeText": "Rebound saham AI setelah Jensen Huang kembali memimpin Nvidia meredakan tekanan pasar, tetapi inflasi AS 3,7% dan sinyal Fed yang condong naik masih menahan emas, Bitcoin dan rupiah. Ketegangan Hormuz menjaga risiko geopolitik tinggi.",
  "regimeTitle": "Stagflasi, risiko tinggi tapi mereda",
- "risk": 73,
- "riskNote": "Reli saham Asia dan minyak yang turun mengurangi tekanan, tetapi Hormuz dan Fed hawkish menjaga risiko tinggi.",
- "updatedAt": "2026-11-24T03:57:32Z",
+ "risk": 72,
+ "riskNote": "Reli saham AS dan minyak turun meredakan tekanan, tetapi Hormuz, Fed hawkish, dan BI-Rate 6% menjaga risiko tinggi.",
+ "updatedAt": "2026-11-24T07:00:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -2023,8 +2034,8 @@
  "riskParts": [
   {
    "k": "Geopolitik",
-   "v": 86,
-   "note": "Hormuz rawan, serangan kapal tertinggi"
+   "v": 85,
+   "note": "Hormuz rawan, ranjau & serangan siber"
   },
   {
    "k": "Inflasi & suku bunga",
@@ -2033,12 +2044,12 @@
   },
   {
    "k": "Valuasi saham",
-   "v": 70,
+   "v": 68,
    "note": "S&P 500 rebound 4,7%, masih rapuh"
   },
   {
    "k": "Likuiditas & dolar",
-   "v": 76,
+   "v": 75,
    "note": "Dolar kuat, emas dan BTC tertinggal"
   },
   {
@@ -2060,11 +2071,11 @@
  "brief": {
   "date": "2026-11-24",
   "points": [
-   "Bursa Asia ikut reli setelah Wall Street melonjak (S&P 500 +4,7%) berkat kembalinya Jensen Huang sebagai CEO Nvidia; IHSG dibuka menguat di ~5.283.",
-   "Brent turun ke ~$86,5 (-3,2%), namun klaim ranjau di Selat Hormuz dan serangan siber ke tanker menjaga risiko pasokan tetap tinggi.",
-   "Fed (Williams) menilai inflasi masih terlalu tinggi; UST 10 thn ~4,92%. Rupiah menguat tipis ke ~18.178 per dolar AS setelah BI menaikkan BI-Rate ke 6% dan intervensi pasar.",
-   "Emas ~$3.633 dan Bitcoin ~$60.200 belum ikut reli saham.",
-   "Pantau: batas pengajuan calon wapres ke MPR (25/11), PCE AS (25/11), OPEC+ 29/11, MSCI 30/11, dan tarif tambahan AS atas China."
+   "Wall Street melonjak (S&P 500 +4,7%) setelah Jensen Huang kembali jadi CEO Nvidia; bursa Asia ikut reli, namun IHSG memangkas penguatan ke ~5.203 (-0,25%).",
+   "Brent turun ke ~$86 (-3,6%), mendekati level terendah tiga bulan karena pasokan naik, tetapi klaim IRGC soal tiga tanker terkena ranjau di Hormuz dan pipa Sharara Libya yang ditutup menjaga risiko pasokan.",
+   "Fed (Williams) menilai inflasi masih terlalu tinggi; UST 10 thn ~4,92%. Rupiah menguat ke ~18.158 per dolar AS setelah BI-Rate naik ke 6% dan intervensi pasar.",
+   "Emas turun ke ~$3.614 dan Bitcoin ~$60.400 (aliran keluar ETF ~$570 juta) belum ikut reli saham.",
+   "Pantau: batas calon wapres ke MPR (25/11), PCE AS (25/11), OPEC+ 29/11, MSCI 30/11."
   ]
  },
  "calendar": [
@@ -2147,12 +2158,24 @@
  ],
  "events": [
   {
+   "t": "Polri usut dugaan makar terkait penyadapan Presiden; Listyo Sigit tersangka kasus sadap",
+   "what": "Bareskrim menetapkan eks Kapolri Listyo Sigit dan sejumlah jenderal sebagai tersangka penyadapan ilegal terhadap Presiden; dugaan makar masih diusut dan Kapolri menyatakan belum ada tersangka makar. Laporan media bahwa ia dikaitkan dengan demo besar belum terverifikasi.",
+   "impact": "Ketidakpastian politik dan hukum dapat memengaruhi sentimen IHSG, SBN, dan rupiah, tetapi dampak pasar sejauh ini terbatas.",
+   "assets": "IHSG, Rupiah, SBN",
+   "sev": "sedang",
+   "status": "berlangsung",
+   "cat": "indonesia",
+   "time": "2026-11-23T09:00:00Z",
+   "src": "Katadata",
+   "url": "https://katadata.co.id/berita/nasional/6afea95692b5b/usut-dugaan-makar-bareskrim-periksa-59-saksi-termasuk-tersangka-listyo-dkk"
+  },
+  {
    "t": "Jensen Huang kembali menjabat CEO Nvidia, saham teknologi AS melonjak",
    "what": "Nvidia mengangkat kembali Jensen Huang setelah ia mundur pada 12 November; saham Nvidia dilaporkan naik sekitar 30% dan kontrak berjangka Nasdaq-100 naik tajam.",
    "impact": "Rebound saham AS meredakan tekanan global, tetapi pemeriksaan SEC dan inflasi tetap menjadi risiko bagi IHSG dan rupiah.",
    "assets": "Saham teknologi AS, IHSG, Bitcoin",
    "sev": "tinggi",
-   "status": "berlangsung",
+   "status": "mereda",
    "cat": "korporat",
    "time": "2026-11-23T11:26:00Z",
    "src": "CNN",
@@ -2169,6 +2192,18 @@
    "time": "2026-11-24T02:04:46Z",
    "src": "Ajaib",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWl3RkY0WEltbnc4Z3BOOHVxTjY1anJ1bnBkZF9kQmZySlFYQVFrdmg4dGtTQkpfLXI5ZVB2SkctTWNyTms2X0RrbXZnQUVlNENwUTZDelJzd0xDem1iOTAxa0owTVpDTEpSX1NzLXhiVG5qUm1YVFlMSmoyQjZob0w4VGU1aWNsSmtsNlBtR2syUQ?oc=5"
+  },
+  {
+   "t": "Kelompok bersenjata tutup pipa Sharara Libya, menurut perusahaan minyak negara",
+   "what": "Perusahaan minyak negara Libya menyatakan kelompok bersenjata menutup pipa minyak Sharara; volume terdampak belum dirinci.",
+   "impact": "Dapat menopang harga minyak jika berlarut, yang menekan rupiah dan inflasi; dampak saat ini masih kecil.",
+   "assets": "Minyak, rupiah, inflasi",
+   "sev": "rendah",
+   "status": "berlangsung",
+   "cat": "energi",
+   "time": "2026-11-23T23:06:50Z",
+   "src": "streamlinefeed.co.ke",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejRYZFlLTGl6Z3hsNGczZW9ndGV0ZzhLdm1BNEl2MGhTeDdYNjJGN0JzQ3dqUXJCQ0NRR3BKV2pCcDNfOVVXX1hUbEJONlRDaFlCYjE2WlFvZVpQQW9HSThQSDJMaXRIUTQ3V3RCcnRCcVJjSGxuUld0anJSamVpV3JhSVFONUVub1A0dndyVlRaOHlRZ1J6QVBiQ3Q4QQ?oc=5"
   },
   {
    "t": "UAE alihkan ekspor minyak melewati Iran di Selat Hormuz",
@@ -2265,30 +2300,6 @@
    "time": "2026-11-21T04:38:09Z",
    "src": "New York Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5"
-  },
-  {
-   "t": "Wall Street masuk koreksi: S&P 500 -3,7%, Nvidia anjlok 12% di tengah laporan penyelidikan SEC",
-   "what": "S&P 500 dan Dow ditutup lebih dari 10% di bawah puncak, Nasdaq turun sekitar 5%. Nvidia jatuh sekitar 12% setelah Reuters melaporkan staf SEC memeriksa isu akuntansinya; ini belum merupakan temuan pelanggaran.",
-   "impact": "Memperkuat sentimen risk-off global; IHSG, rupiah dan Bitcoin rentan tertekan bila aksi jual berlanjut.",
-   "assets": "S&P 500, IHSG, Bitcoin, rupiah",
-   "sev": "tinggi",
-   "status": "berlangsung",
-   "cat": "keuangan",
-   "time": "2026-11-20T21:00:00Z",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5"
-  },
-  {
-   "t": "Rusia serang tiga jembatan Kyiv; Jembatan Krimea rusak parah diserang Ukraina",
-   "what": "Rudal Rusia menghantam tiga jembatan di Kyiv dalam serangan besar, sementara Ukraina menyerang Jembatan Krimea hingga lalu lintas terganggu. Dilaporkan banyak media.",
-   "impact": "Eskalasi perang menambah risiko geopolitik; minyak, emas dan gandum cenderung sensitif, dampak langsung ke rupiah relatif kecil.",
-   "assets": "Minyak, emas, gandum",
-   "sev": "sedang",
-   "status": "berlangsung",
-   "cat": "perang",
-   "time": "2026-11-20T00:41:00Z",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUWd5SFpDTnd3QTdqMVU4WXNmd0d0NFNxa0V6Z2ZEb3NlTzJ5Yk9Ea2Nvb05lSnZKNVppc1d3YTZtVFAxaWpoa3FIbXFVZ19zS0N1Z3gydzJ5OGtTVWc?oc=5"
   }
  ]
 }
