@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T07:31:39Z",
+ "updatedAt": "2026-11-24T07:46:16Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Media Asing Sorot Listyo Sigit Tersangka Makar, Dalang Aksi Demo Besar",
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1RIV3Q3cTJPb1JpTk5NaWRVdV9xSHpoUnhTVzY4el9CUWh2dm14Vm9JZFFGSEo2RmFZOEdTZTIwZm00N3RkWGUyVEgyLXFMODRDakFaS3pyQ28zQ2ZCTmN4b1ZqOG96WktDaWpSampheXBhNUJDbmNMTTEwRlJ3OV9idVdQRlV2bzFhVDZlMkVRWFcwZ1VfSXFCX01mdmU3UVFjT0tKZmpOUXZpOG9VLTA4ZC14NjZIVXF0YjdpRXdHaVV5TkFN0gHMAUFVX3lxTE9fUTV2QlI4TWVZSFdqVGpNdDluUjM4UWhEdkhFWC1LM0g4NElDcWVuUkF6eHVLei1FMXJBblhnR3FaenV2M09LZzVMa09NUV92ZzFjRGZNRHM3cUpsSkhzWGNDQUhQT1NoVDdWVFd1eFVScFk5ZUxDSlY4ajd5STZvWXlyR0hod1BpUjN1YnExSi1ISHBQQTI3NHhrek1GNWdCMlMyNXYxQ0pYc3gwUzV6dktvN1RMU2V3VXBWSEFmd1JhdGQ4QXhtcFdZeg?oc=5",
-   "sources": 19,
+   "sources": 20,
    "recent6h": 10,
-   "score": 24.0,
+   "score": 25.0,
    "level": "besar",
    "first": "2026-11-23T09:00:00Z",
    "last": "2026-11-24T07:12:33Z",
@@ -126,37 +126,30 @@
    "title_id": "Bagaimana serangan drone Ukraina terhadap kapal Rusia terjadi"
   },
   {
-   "id": "transportasi-202611230744-daae",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "energi-202611232306-c4a3",
+   "cat": "energi",
+   "label": "Gangguan energi & pasokan",
    "lang": "en",
-   "title": "Delta flight delays ease after weight system glitch hits Thanksgiving rush",
-   "src": "https://www.thetraveler.org/",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnpQZXJVbU0wdkp4eGVtaDdVakRsczVkMy1lNGdqTkFzek1pR3ljSmtVMXIxcklWZXpGdVI2U080dm9hMDFCZnh5cWtyNGlkeDM4TkJTZjF2Sm1OYm1sanhxRE96VUVlYXQwVHJROXdfX2lPMUh1NU9Icm5ZN2NVVV8xSEJBWlJZNFdXV3ZQY2tidjVlSTE0ZUhlOEVvbGZhb25GZzlB?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
+   "title": "Oil prices fall on supply surplus expectations, Libya pipeline reopening",
+   "src": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGx6T09TVWkzWXJvMG5oVnpkTWU4M0xqMVRZVzBWQlFZRlVRd2VIWWdwN011ZWdmVUxsdGQ5eXhaZXh3R2hXbEJGOEhaNkdHTWhOUWthTm5NeFdCa0tUNXpwV29DbjkydFV3ekJXZFpkcVNUQktXWEp0dEZrcl9RN0dUeHh0OUI4V05ZeUtUdDFULVA3UnAycHRROXlVeDIwREpoSWhQeWNHS01zUlJzTy1KSQ?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-23T07:44:16Z",
-   "last": "2026-11-24T02:25:37Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "first": "2026-11-23T23:06:50Z",
+   "last": "2026-11-24T07:16:42Z",
+   "assets": "Minyak, gas, rupiah, inflasi",
    "more": [
     {
-     "t": "Thanksgiving travel: How to prepare for flight delays after a string of airline outages",
-     "src": "WMUR",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjFrX0xYb21wZkVneGVPNV9Tay11T3otdmdsbC1CLVlTeG5ieDdIUVVuY3ZLZy1hbnUxMklRMGZ3TkViaHVjeTNMaDRvM3FxMTVwN21wbEUxSXR6OXZIWWo1dlFycFk0QUNmaHpkX0xtU2xFeE1UWkozYXRPdjlQOERNdmlvVGxkVEFRcFFYQkhlU3Y3TTExbnl2TXNGWFd1Z0ZrX192aHJMdVFvR0t4RkphOWNRakx4YVpZVUVIU3laZw?oc=5"
+     "t": "Armed group shut Libya's Sharara pipeline, state oil company says",
+     "src": "streamlinefeed.co.ke",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejRYZFlLTGl6Z3hsNGczZW9ndGV0ZzhLdm1BNEl2MGhTeDdYNjJGN0JzQ3dqUXJCQ0NRR3BKV2pCcDNfOVVXX1hUbEJONlRDaFlCYjE2WlFvZVpQQW9HSThQSDJMaXRIUTQ3V3RCcnRCcVJjSGxuUld0anJSamVpV3JhSVFONUVub1A0dndyVlRaOHlRZ1J6QVBiQ3Q4QQ?oc=5"
     },
     {
-     "t": "Delta Air Lines Battles Operational Disruption After Weight-and-Balance System Outage, Nearly 2,100 Flights Delayed Ahead of Thanksgiving",
-     "src": "FL360aero",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONUswY1dVaENVZmZhQXRiZ2M5XzVfTDFYOTA5Ty1uQ0ZlXzFqR0phalVQMDFRVmNKVTh2bkxVVzFxSzA1dGNROUVDOHh6b0NEdm11Q2RISldLMzZKWWN1aVN4Z3JKbWJ0UDNiM0VrSG1iVW1Md25PUmxYZnNqT0dHWFNzU29vZkIyWkJ6OWY5YVpCcWtSV0pBcVhlWUhUVWxBcGxnc0s4Z0V2c3hXdWdIdFJkTDdPenJqZW5mb0c2Rlk1QWoxazY1NktHTnV2ZWJkNV96djNZYzRNNk5QN0pobmQySFdNUHdRM1FLbzAwZDBpeGxDM1VES1lJckJWdUU?oc=5",
-     "t_id": "Delta Air Lines Memerangi Gangguan Operasional Setelah Sistem Weight-and-Balance Padam, Hampir 2,100 Penerbangan Tertunda Menjelang Thanksgiving"
-    },
-    {
-     "t": "Delta System Outage: 1,600+ Flight Delays Hit Thanksgiving Travel",
-     "src": "Travel Tourister",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTy1ZUElWT1JGS0hNdUUtQTg2Z2VIU0l0WmpPYXRFUHNaa2FrcS1SeFFaamJSSnlvTmh4X3BHNWdLUm9YWDZtOWRac1NsdXJkdXpvSUJlS3lwblg4WkJwZmxPQTdwY0VXMHVpN0pTLU9HNXpGM1c3akFMb2ZrYS1vQ0NWZ1ExdFFOMGt2VmpFTmdEZXFUNEJXVkZScjRTREJ5Q2J5WFVfWGpfRU1oUmFSMDkyYTRfbkVZSGItU0c3Z0xoLTd1RjRuTldtQlUyX1FOU2pUR2pRZFBoX21ScHVyS1ZiQnlYQ2hT?oc=5",
-     "t_id": "Pemadaman Sistem Delta: 1.600+ Penundaan Penerbangan Terjadi pada Perjalanan Thanksgiving"
+     "t": "Attacks Cut Saudi Oil Output and East-West Pipeline Flow, State News Agency Says",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVc4TmVyYlFMNUNfM0FiaXgyREtWcUtCQnNmWlVYMEJUYWZoVXBGMVMxS2lkZmNnN2d3NUp4VW9HUlZTTmlKUmpacFZmNzE3YmFqV21aeEtPQVVocTMxZGtQdnlJOEowZjdKQVFlTHdxckJHM3FZenRUTXN0Q0p0ZG1fR2N2eTAtN0pWTk0zbnhCeHAzZjhVWGQxd0hUWDBwaTlWaVQxRVlSRm9jY0RV?oc=5"
     }
    ]
   },
@@ -222,48 +215,49 @@
    "title_id": "Pencegat SPYS baru menembak jatuh rudal jelajah Geran-5 Rusia"
   },
   {
-   "id": "energi-202611232306-c4a3",
-   "cat": "energi",
-   "label": "Gangguan energi & pasokan",
+   "id": "perang-202611230925-23ef",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Armed group shut Libya's Sharara pipeline, state oil company says",
-   "src": "streamlinefeed.co.ke",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejRYZFlLTGl6Z3hsNGczZW9ndGV0ZzhLdm1BNEl2MGhTeDdYNjJGN0JzQ3dqUXJCQ0NRR3BKV2pCcDNfOVVXX1hUbEJONlRDaFlCYjE2WlFvZVpQQW9HSThQSDJMaXRIUTQ3V3RCcnRCcVJjSGxuUld0anJSamVpV3JhSVFONUVub1A0dndyVlRaOHlRZ1J6QVBiQ3Q4QQ?oc=5",
+   "title": "Trump Reports Surge in Iranian Missile and Drone Attacks",
+   "src": "www.suaralandak.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3TlBaV2hxakJ4TEVmMFI0WlFmM19OaUxuMVlyQThCcWZqRXJUaWdrNGVGTzNsbkRrWW5pSTdTYmlCcmg4UnRwQkgtYjh2YVBsbDVWeGpPYWlKc0lYYVNyUGppVFg4VFk?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-23T23:06:50Z",
-   "last": "2026-11-24T06:35:49Z",
-   "assets": "Minyak, gas, rupiah, inflasi",
+   "first": "2026-11-23T09:25:22Z",
+   "last": "2026-11-24T07:29:23Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Attacks Cut Saudi Oil Output and East-West Pipeline Flow, State News Agency Says",
-     "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVc4TmVyYlFMNUNfM0FiaXgyREtWcUtCQnNmWlVYMEJUYWZoVXBGMVMxS2lkZmNnN2d3NUp4VW9HUlZTTmlKUmpacFZmNzE3YmFqV21aeEtPQVVocTMxZGtQdnlJOEowZjdKQVFlTHdxckJHM3FZenRUTXN0Q0p0ZG1fR2N2eTAtN0pWTk0zbnhCeHAzZjhVWGQxd0hUWDBwaTlWaVQxRVlSRm9jY0RV?oc=5"
+     "t": "Is it safe to travel to Saudi Arabia? The latest advice as the kingdom continues to face drone and missile attacks",
+     "src": "Condé Nast Traveller Middle East",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaE93ejFzNUN5Y05ESzF3ckh6bW1oYnBmMElkeTEyT1lTZUVNSE9lZl9FMnFSMC04TmlZOG9BOEZfd2FRM1QwZVhhd1A1bjRwYnAxNDVrNDV4dUt5c1ZMbW1HMGlmZWdEUGRjbXRIZkhPTlgxc21qZEJfRHZHNkc2R2xjUktTV3BwMk12Zk9PWXU3UXg0QWxjZzdvb2Z0eUYwZC02U0ROTHNFVGVMTWhVb0tyWDdLM2VPREpoeE11Y3ZZVDUyV1JYT3ZnSTd3NWdyNTNMRmNFZ3pzNzNGZ3E2T2ZCMA?oc=5",
+     "t_id": "Apakah aman melakukan perjalanan ke Arab Saudi? Saran terbaru ini ketika kerajaan terus menghadapi serangan drone dan rudal"
     }
    ]
   },
   {
-   "id": "indonesia-202611231326-e6b8",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo di Belgia Lumpuhkan Transportasi, Seluruh Penerbangan Keberangkatan Dibatalkan",
-   "src": "NTVNews.id",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVB5OHdDS0tXdkJZU3g1SlBWS3psMnNHYW9lbndpLW81SnNsR21RZ1U2ZWIzM3FNOUxnbTY2cWYtM3dzNWtpQ1JoNm5nTE53YlYxSnR1MGpjVEM3ZHBlbkw5YlNZNTJsUDRod08wOFVMNFE2RE9NdlpiMXRZcEozNVFhTmNXU0lqRXR6VldxalRmYmg1MnlwSk1zZnNIN2FoR3JtWHRyYVF2RWJ3TWZkZmdDWkk0emh4akNJ?oc=5",
+   "id": "transportasi-202611230744-daae",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Delta flight delays ease after weight system glitch hits Thanksgiving rush",
+   "src": "https://www.thetraveler.org/",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnpQZXJVbU0wdkp4eGVtaDdVakRsczVkMy1lNGdqTkFzek1pR3ljSmtVMXIxcklWZXpGdVI2U080dm9hMDFCZnh5cWtyNGlkeDM4TkJTZjF2Sm1OYm1sanhxRE96VUVlYXQwVHJROXdfX2lPMUh1NU9Icm5ZN2NVVV8xSEJBWlJZNFdXV3ZQY2tidjVlSTE0ZUhlOEVvbGZhb25GZzlB?oc=5",
    "sources": 2,
    "recent6h": 1,
    "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-23T13:26:48Z",
-   "last": "2026-11-24T01:37:00Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-23T07:44:16Z",
+   "last": "2026-11-24T02:25:37Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Layanan Transportasi di Belgia Lumpuh Akibat Pekerja Demo Besar-besaran",
-     "src": "MetroTVNews.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT25YOGI1bjBWUmJYVURrdGFvNWNXUzM1bUhPUzZpaEdPVzlSdTB3UjRqWXRvSTBvQ2JTTnE3STF1RkZyLXIxUGtUSEVOSk9TNllIZ2dpd0thUmFqY3UwcWxJdGw4MUlxVm1FX21TNmRyenpFTklnNXJ0ZTlfSkNLbExOdGdrNXZ4UFg3VGNqMHJkWkNPRnBOTmtRYUJXZno1N3E5ZmdzaGp0bjVWOG1MSHlzRQ?oc=5"
+     "t": "Thanksgiving travel: How to prepare for flight delays after a string of airline outages",
+     "src": "WMUR",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjFrX0xYb21wZkVneGVPNV9Tay11T3otdmdsbC1CLVlTeG5ieDdIUVVuY3ZLZy1hbnUxMklRMGZ3TkViaHVjeTNMaDRvM3FxMTVwN21wbEUxSXR6OXZIWWo1dlFycFk0QUNmaHpkX0xtU2xFeE1UWkozYXRPdjlQOERNdmlvVGxkVEFRcFFYQkhlU3Y3TTExbnl2TXNGWFd1Z0ZrX192aHJMdVFvR0t4RkphOWNRakx4YVpZVUVIU3laZw?oc=5"
     }
    ]
   },
@@ -291,6 +285,30 @@
     }
    ],
    "title_id": "Iran mengklaim serangan rudal dan drone terhadap pangkalan AS"
+  },
+  {
+   "id": "siber-202611231111-9f0c",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "What’s Behind the Tech Outages? We Asked a Cybersecurity Professor.",
+   "src": "Georgetown University",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQmVCMEt1QjJya0s0TzlOUnZIT2p0enZMNjdrckhVWmtESXpTLS1fNmMyOHBaUlppMV9wMktYNFZJZGpnYmY0SUwzQ1FZdlk5QXBNaWRrZi1XVU1HVG9ncGwwTVMxMHBBU2xxVWRjajRGNk9zb2k1MzlYUnJqaEtpaA?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-23T11:11:40Z",
+   "last": "2026-11-23T19:56:10Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Is AI behind recent tech outages? Microsoft and US officials predict more disruptions",
+     "src": "The Financial Express",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVQR21qRWttMDVuVDctTXpYUlJhU3duZDdURl9fU0ZwRnhHZlZxLVc1NFhna2xvQmhDVDNhcjRPV1lNeHZIU3NRT1F4empXX3BEcER2VEtXbjV2dEVqdExXekRMdUtqSTlwVFdRbzc3ajg3d3VPYmFhTDgwUHNFS1BTc3NSZXVtRWh6OVQzdnF0LVh0elFZQlRQbE1lZUwxR3FScE9NdWg5OVFBM0xiejBrRlFoNFFKQV9MYVhCR1BGal90cW9xX0RLNlk5MzVxYnlhUUxHRXNWQTFzNFHSAeQBQVVfeXFMTmw4eF9mNktqbEQzUWpBSHlMU2J4TE9VRGVQMTY5MmZHTDFaYjZaRzJOUG5LckgyclhjelRTclhWRHNKc0N3Y1pPN1VQd1RHdHBrdTVPeFZrZWtLYVVSc2N1eFlEN2ZFVXlLdTMyYlZoN3Q1SFlCWllZTUx2U3o3NHYzOW10R0Exdm9tbU41V0JvNk1VUnI4eXNISGtCLWw5V0FFSmd2ald2dUhtR1gyZ0pXdHZrcTcyUE5uVE1SUkxsNDU4YllhZ2lKSkRvZ0lZNWU1VVhpZ3VrZEhieE5CSlcweTN2?oc=5",
+     "t_id": "Apakah AI berada di balik gangguan teknologi baru-baru ini? Pejabat Microsoft dan AS memperkirakan akan ada lebih banyak gangguan"
+    }
+   ]
   },
   {
    "id": "siber-202611231611-bdce",
