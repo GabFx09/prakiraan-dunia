@@ -1,7 +1,23 @@
 {
- "updatedAt": "2026-11-24T13:26:50Z",
+ "updatedAt": "2026-11-24T13:41:29Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWtaYWl0aXk3bE1SVS1CWDdMUy1NSmNQTUxHbTFRbFlFemVOS0FkZDE4TjVZWDNUODUycDJHTXpfaGp6SWwya2gxWVhJUlk1bWUxTmpjSk5UZm5wME5ZYWc5SkJsM1I2Vmx2c2paS3owWTdPX0pDN0ZXUUtQck11OHFfSVhwd18yakNEM3NBaTBPbmtTRjVNSnNISklHTUE3ZkJLclh4LXQzbUNZOGx3dC1n0gG3AUFVX3lxTE9yaW03aWdDZFBjTUh0YXhVMk5hdy0ybmpGQXZ5UVkwN3N3M0NrQkRTTVVwQkpEY3BBQ3ZxS0c2cmdyMUlNSlZrbmNWUzQzc05SN29ZS2h4dXJuVzdyWVFOcGVmbEFfaWxPNlpTT1JVdDJqdHRkaTE4QTZMZkFqNFl5RURUOHB6SWR5WmFTSldZcWhSa25SSVBjYkJhT09Od2Jvb2gzQzktYjZJWUxObGFoaW1kbjN1cw?oc=5",
+   "time": "2026-11-24T13:33:42Z"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran rules out talks with US until its 7 conditions are met, and other Mideast news",
+   "src": "Newsday",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0Y3aGtodjltMFdkdUlhdG95ZE1Tc1hnVVd4WTc1M3JMM1dlY1dZRzRITHhEcXZybmtpcXcxTTlOYm11S2czd05xcHBibEUtQ3BJZjFKZUFrR21sSjNSZG5PUHFaZTVLQzJ0VHJTRi13NGhpRTd0OFVJbjdVQzBBU1d2aHhNVVRsUS1Dd0RRVzR2Z1BReE9uOEZmeTEtbGs?oc=5",
+   "time": "2026-11-24T13:30:30Z"
+  },
   {
    "topic": "china",
    "lang": "en",
@@ -36,15 +52,6 @@
    "time": "2026-11-24T12:45:00Z"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news",
-   "src": "San Diego Union-Tribune",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3ZwYWthcl9wT01yOUR5NW5aa0Uzd29GSEpPRzVXMERlc1IzR0hvTXVfZUlNVWVDZ0J0YVBvVGJMOFZTd0ZSTnMyeWlkLU1uQ1BmWnVGZ0U2QlBIQ1N5YnpHcTM0amNQLUE1RERoSjJ2cTVBZm8xWjFSVm1VVnhYMWZXQlQ?oc=5",
-   "time": "2026-11-24T12:37:54Z",
-   "t_id": "Iran menegaskan tidak ada pembicaraan dengan AS sampai 7 syaratnya terpenuhi, dan berita Timur Tengah lainnya"
-  },
-  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Nvidia Rally Can’t Hide the Market’s AI Problems",
@@ -52,6 +59,15 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTVXeDMzNFJyRzhZbktqU1lHaTBRZHV2RzdRQTZISDRZbDRuNkE5UFAyVWVDZE5ZeEVaNnhnZm1LdzR1aFNQbWNuMTBsbE8yWmQtT2MwRGZzN0JsTFMxekdrVFJuY0xNUm5YYlhTd1FsMElwUUJCYW1oakE2MUI5ZQ?oc=5",
    "time": "2026-11-24T12:33:00Z",
    "t_id": "Nvidia Rally Tidak Dapat Menyembunyikan Masalah AI Pasar"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news",
+   "src": "The Mercury News",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EdzNpam5VaEozc2VwaFdfdWhNcE9hT0pfaHF4Q2dfVXNNNGM2ekFHejdHR2p5ZDJGMlhlajN1a3lONjk4ZmtGdHBvUjhNcTU0ZkY1UTl5YjZzOFFNRVM5SnAtLTR4NXJYc2pFN2dfSUNSb1lZTFZ2aw?oc=5",
+   "time": "2026-11-24T12:31:05Z",
+   "t_id": "Iran menegaskan tidak ada pembicaraan dengan AS sampai 7 syaratnya terpenuhi, dan berita Timur Tengah lainnya"
   },
   {
    "topic": "kripto",
@@ -161,6 +177,15 @@
    "t_id": "Kontrak berjangka Wall St merosot karena saham-saham chip mendingin setelah reli yang dipicu oleh Nvidia"
   },
   {
+   "topic": "china",
+   "lang": "en",
+   "t": "Canada and China Draw Closer with Expanded Trade Pact",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
+   "time": "2026-11-24T10:49:12Z",
+   "t_id": "Kanada dan Tiongkok Semakin Dekat dengan Perluasan Pakta Perdagangan"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "Altcoins lose $408B as Bitcoin price falls below $60K and memecoin demand fades",
@@ -203,15 +228,6 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGQ2cVJSaWR2bG9CS2lhQjNwSDZPU3lrVjFneVFLMDBadVFjT1llYlVQc053ODVNOGJkeFFhclplZGZodVBnSEo5MzJ1WUhGWl9JbWJVOTNhXzlnTWlnd3BENk5hSl95bjUtNWltbGJhUXJ3Y25JaDU3cWp5VEhOdE1lUk5RclRtQkxWZ2lRTWZua3VFT0VTOU1DVXFwM3lGVVFqN0hWMTQweXc2bWFYdm84WVBJQmRoWXFRaQ?oc=5",
    "time": "2026-11-24T10:08:38Z",
    "t_id": "Harga Bitcoin (BTC) turun di bawah $60,000 karena reli yang dipimpin Nvidia (NVDA) kehilangan tenaga"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "2 violating oil tankers catch fire in east of Hormuz Strait",
-   "src": "Mehr News Agency",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVJqVmxScElody1UTXBubS1tNUxGSlRCekUyOVFuMTdYTTZmdEVpNE90RDFlRlU3Q3FvQ1l5Y2xscGdDNzZhQUItUWFuZHg4N2xKVmM4MjNMMVEzb0tqM1FJU1ktcWYtVThNRktfNjgya3E2dXJZVzlmWFROSy1qR0pHQTBLb1FMQ1J1V3hWR3V6MWtnUGhwZTlJNA?oc=5",
-   "time": "2026-11-24T10:02:00Z",
-   "t_id": "2 kapal tanker minyak yang melanggar terbakar di sebelah timur Selat Hormuz"
   },
   {
    "topic": "indonesia",
@@ -276,18 +292,26 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Ditutup ke Level 5.241, IHSG Selasa Menguat 0,49 Persen",
-   "src": "Pasardana",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2dDZ1lSVnFwZG5xb2FpX0YwamFrbkU1Ni03OTQxV2g0dkVuLXFXaVg0TDZWMjZ2LVBsRTFWa0lTa0lVRGpRTzUxcDVxM0dyOU1jSWEzeGNTMTNvTXk5ajIzUUh2dWJZNmdrbmx5VnZORlRtcmpFVHlWSGFqWkVtWjdiSHNqbk5udzROaTduOFZZeFByNHc?oc=5",
-   "time": "2026-11-24T09:32:00Z"
+   "t": "Penguatan Masih Terjadi, IHSG (24/11) Menguat 0,49% ke level 5.241",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0Z3VaaXA3SHJLT2RCMkhCNWNtbkFNZEoxdHV6RG5oeGJrLVlZeHB2bG9WbWdMQ2g0MElpUmlHYjJzY2k4LTcxRFhTZjRPSjR4cUM5ZEc1SDExR1hvajJyQnhVT0JxUQ?oc=5",
+   "time": "2026-11-24T09:44:00Z"
   },
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Rupiah melemah dipengaruhi kekhawatiran atas kelebihan pasokan minyak",
-   "src": "ANTARA News Jambi",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHRxem5HNjUzdThCazZxOHBYLXZCZl9UdWV2UnRVN1NaTDg0Y1oyck4zVHk0OGZCeTNLSjhlc3k2OHkxUy1GOG1hbnotX2VkTEloaGtCUm1qTG1FcXNIMkpaVXZibThKWFN5bHY2R2lhZi1Yek1fbGJWejUybXZ0VmFmS3R5Zjd2NlJDMUFfRlY1VkVibUszQkVqdnZzOTFTbjFMRzZsRUJZbVRmLVI4TFp30gG3AUFVX3lxTE5yQm9sRmVXWENZOTRocndCM013ZWNIWWtvbHBoTjByZE56WUs4Zk1PTG5EZnhQR0RUVmgxcHBhRmRCakpsQy03bFNyTHRQQTY0TXRJWkZCTWVybGNvQm1Rem5jbEtQTnd4Z3lydmQ3REFROWw0WlBtWHJWWGRLbllJZmpYN090NE9MMUZlQVVzdlhiM25EZlVrWUhZelhBZDVXSzBUSnBoNUdLcGhTaTZLa1A4VkZFMA?oc=5",
-   "time": "2026-11-24T09:24:49Z"
+   "t": "Musnahkan 11.295 Lembar Uang Palsu, Bank Indonesia Bersama Polda dan Botasupal Perketat Pengawasan di Kaltim",
+   "src": "Dinas Komunikasi dan Informatika Provinsi Kalimantan Timur",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeG96azNjamNhV0JGVlFJcjgxWHZRVWFGTGJCVFlDRnRHT2hERkV5UUtpa3VIV0VvNEREVTZBZEEtNG5RZnhUQWVTel9CZlRKOF9HZWJwbHMwMTlqUHJSdktaaGd2ZEkwdWJwWmhrVnJRamRhcVNNRVdjbmxKVEhQZTJmbEljUWlldEVBRDlRZ0l5NWduMkhfSzlwc0xfQjJiWjdtT0dNT2E3aElVMHhtSm9IZWdxcFZYZEh3YWtLcU9vTEd0UVdseWxYcTQ0d3RPX0hUQUJIUnc5QzNidlUya0ZGZ3U?oc=5",
+   "time": "2026-11-24T09:36:26Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Ditutup ke Level 5.241, IHSG Selasa Menguat 0,49 Persen",
+   "src": "Pasardana",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2dDZ1lSVnFwZG5xb2FpX0YwamFrbkU1Ni03OTQxV2g0dkVuLXFXaVg0TDZWMjZ2LVBsRTFWa0lTa0lVRGpRTzUxcDVxM0dyOU1jSWEzeGNTMTNvTXk5ajIzUUh2dWJZNmdrbmx5VnZORlRtcmpFVHlWSGFqWkVtWjdiSHNqbk5udzROaTduOFZZeFByNHc?oc=5",
+   "time": "2026-11-24T09:32:00Z"
   },
   {
    "topic": "saham-as",
@@ -297,14 +321,6 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPenF4Mk1TRFRxVjlVc2Y0bHlPTVo1cExUREtVN1QxaktQcFFPZEdoeXM1LXJGOVN6enY1aFcza3BHQ2dQM0dRQ0tadGk1UUhGYnRIczlLb2ltTDdqdkxUaUwxVHM0eDhBM2pfUVVoQkFXTVpNYUp4RnJYcW9LS1dVdnM4TjRibGhI?oc=5",
    "time": "2026-11-24T09:23:20Z",
    "t_id": "Saham berjangka merosot setelah reli Wall Street yang dipimpin Nvidia (SPX :)"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "IHSG Ditutup Menguat, Namun Mayoritas Saham Masih Tertekan Aksi Jual",
-   "src": "TopBusiness.id",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXc3RUdVckg4U3FqWFk4YjRxd1ZuSlF3MF9JdGpNLUtqdnpWZnRpWUU0bUttSjZpVWR1WThnX29KYVRqcUpyRk1XazZrZ2huNWNya0pnQmlGSFFjcGsyem40VTZlZzU5eEhsMFZIZUVEOTV5QUhZbzFPNTk4Tm0wUW9tX3NKdzJObGdtbGtyZkNLVzV1YlRFTmI1QTVWVmZ2LXhpUnJUZHBjUQ?oc=5",
-   "time": "2026-11-24T09:23:00Z"
   },
   {
    "topic": "kripto",
@@ -359,6 +375,14 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TUHYzczFuT3VqcHB1WlRnVWIzcE5Oalpzc3JXQVdHYWE0bGR4bzhCUGdsaWtsU3hTSzF6ZUdTd25aZmdkbEFHX2ZkTDZDT3RhVEFXOVA4Yk1nRi1EQkNRTXJR?oc=5",
    "time": "2026-11-24T08:11:00Z",
    "t_id": "Tiongkok mendesak Meksiko untuk memperhatikan kekhawatiran tarif dan melindungi hubungan ekonomi bilateral"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Kaltim gandeng Polda dan Botasupal musnahkan 11.295 lembar upal",
+   "src": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmhzbFdxRWVuVFU4UEVPVkhpR1RYbHR3WkJFNUJCTG5qcGVIRlZLcF82cTkzLVY3ZmNSSVY2LUN0VUZRdXQ1OE5CSnhPTnZJYjRmWC1hbVozSWd3R0h1WDk4MklKSGJ5U0p6Rk5IM1VNRk0wYlE1QWJaaDJTcHFmbjhVLUVQWGhOa0U0UXBHY0syWUZSMU1VeWFjTXlCLUJHdjV0YUZsaWJaR3dsbGfSAbMBQVVfeXFMTURlZTFMaWxCMWJIbkZoTlkzckFSV291TVp0LVhkcTdKenFXTjZNQ1JkTzJXTzlscnBnZjl5d3RkdUNFaGVkR0FocVNURFRXRFE5Rk1RSFQ2NWczRElOU2JNemNDQTdvRklQZnJJbUt2cFNKZmVoUkxudWVwZC1RMHpKTHlqdDlYWUZFc0tqcGJOVVd3SV9qejlZbGptWFpxUl9sR2xmSkZaeXA5MWVmb2cxUkE?oc=5",
+   "time": "2026-11-24T07:58:19Z"
   },
   {
    "topic": "indonesia",
@@ -427,15 +451,6 @@
    "time": "2026-11-24T05:31:58Z"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
-   "src": "Houston Style Magazine",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYnBmd3RzYjB2bk5URVVtal96Y2JrcFJEQ3FzdEctYWhZcTZ5OWpPQWhNYTNmV2QzTVZOb09JWm5kams0WE9uQzhiV0EyNnAzcHBPYVRYUXZ1MlF1MTYyd19GeC1IMGtyNUJaSEw5alZSMFVuWWg4T1FrWEJwbDVqTTNtbkJlRjFHSlNZTTZmWTRMaGtoNEc4VGdVeFpnN1RlVlN2LWE1MU5nbk1EWllob2hILWNpcnlCMVR6M2FTOEdIdjB0YUtBdGZQNXZKalk?oc=5",
-   "time": "2026-11-24T05:31:10Z",
-   "t_id": "Serangan Iran di Selat Hormuz berada pada tingkat tertinggi sejak konflik dimulai"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI dan Polda Kaltim Musnahkan 11.295 Lembar Uang Palsu",
@@ -502,22 +517,6 @@
    "src": "Moladin",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mUmQwNXEzbWNWU2Z2b3ItT08yMnlZQ2lWTm5LSGJvcE5ZaDV0dy1Kamo5d2gwLUVsZ1hBTzZNdXZSWkk5cFNSV0k0akxwbWpzSjBxdERtRkZGNU5LODJjTGo3Wlo4bWd6Tmc?oc=5",
    "time": "2026-11-24T03:39:20Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Mata Uang Garuda Menguat, Intip Kurs Dolar AS-Rupiah di 4 Bank Hari Selasa (24/11)",
-   "src": "kontan.co.id",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOG80Y3ZhLXBscUJSSzI5eUtmMFQ1Rk8wcGk4Vm15c0dobVdzaEtVbVhXZWFWOVVNXzRzTzAySnpUcFJLOUt3SnZ6NnpHWlRfRkQtazRvQTRaNm1wTW1rUWJ5V09iWmhNN0I0eWtUTXhPUXlkaS03aU5wSnc2TlptR0ZDUG1pU2VYX3dUbkFiR3hKa2FQQ1I1MU53RnVTQ0RjZFBUTzhaZDlMcHlSbVJpQUtiMnTSAawBQVVfeXFMUGY5VmpObkNUYUNRVERZMTN2aVprZkJsbkt5QTA3cEx2WVRFb0FMaHZnSDBMc19ka1c1M2QxYXZGX3pjNkVFdjN6cEtsMVV2bzlOU3hGUHBic2pHUzFPdEV4a0t1aVViZktTTEFUZVZub05NbnR4cVpSeFpzYnFsMEJGcW11cWxtd1labUx0MndmUlhjSUItUXVGVkZZbUpkMDhhZHdKZzFzVC1WWQ?oc=5",
-   "time": "2026-11-24T03:16:18Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Ekonom: Tak Cuma BI, Menkeu Dkk Harus Bergerak Kuatkan Rupiah",
-   "src": "Bloomberg Technoz",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFdtQWFSb24ycEU4WGdCZWNjTGFIejNKM0ZkLXBvU1R2VHA2MzcyWE9yMldSenJWRUZva25RZkg5UllJdFpJNGI2WkNYM29MN2xnQkFUcTJSUFBTd2d0aGdFTEIyY1pOazNpTHlUX1k2YUxVdFgyMlhKQnR0ak9TMHktdnN2RnNJTmVXRzFTaTJFYldlMjdKcXFkTThsSGUyOGJ0Z0dCcDg2cmFvTkJfYw?oc=5",
-   "time": "2026-11-24T02:48:22Z"
   }
  ],
  "errors": []
