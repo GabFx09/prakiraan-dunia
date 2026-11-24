@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T18:27:43Z",
+ "updatedAt": "2026-11-24T18:42:30Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -9,15 +9,6 @@
    "src": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDNSNndVNkJ1ZmxnQVNJUUhiYi1PRnEwU0gtY3hpM2dVcjJkaElablVWTVB3RTRjNTRjUnU2NnF4U2JkSTlwbTV4MkNhdUJ4a3g3akVhcWxEQm1XSjFhRURJTU5kU2FRUk1wOXVSWUhnSVJQTmUtdVN6SzJIemRsbGRQZjNoc0pMYXVodW5TRjktaUQyWUt2SExZV3Bfc1FBZURBNzNheGx6eHVxRGtuaXFCYklHUQ?oc=5",
    "time": "2026-11-24T17:54:34Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5",
-   "time": "2026-11-24T17:34:00Z",
-   "t_id": "Nasdaq Melanjutkan Aksi Jual karena Nvidia, Saham Antropis Merosot"
   },
   {
    "topic": "geopolitik",
@@ -73,6 +64,24 @@
    "t_id": "Saham Nvidia, Anthropic, dan AI lainnya kembali anjlok dan menyeret pasar AS lebih rendah"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
+   "time": "2026-11-24T16:52:08Z",
+   "t_id": "Saham AS Sebagian Besar Turun Setelah Pendapatan Nvidia Gagal Menenangkan Ketegangan"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "Canada and China Draw Closer with Expanded Trade Pact",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
+   "time": "2026-11-24T16:49:12Z",
+   "t_id": "Kanada dan Tiongkok Semakin Dekat dengan Perluasan Pakta Perdagangan"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "Current price of Bitcoin for November 24, 2026",
@@ -100,6 +109,14 @@
    "t_id": "Pemerintahan Trump menaikkan tarif terhadap UE, Tiongkok, dan negara-negara lain"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "AI and chip stocks pull back sharply following Nvidia-driven rally (NVDA:NASDAQ)",
+   "src": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQVYwRms3V3E3Q0RiNmJTWFdvemZiV29hOXRzcUV3WmJTOUxLMXM4UDNvMFdoMXFmak5ZRmk2allfWmotT2lPMlMzLUxvSnRmcE1qRVltbFpCMGNuMmNwb0JLWXgzbXo5VXNSTFllNURudS1oZ0FlcE1TeG1pRWFqNUtLTnJJVkJoNzc3dVIzVmVSWms4eDJLOEsyNE5Vb21UNkFOYnBuRTA?oc=5",
+   "time": "2026-11-24T16:08:40Z"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Hari Ini Menguat 0,49%: MSCI Bantah Rumor Kompromi, Asing Kembali Borong Saham Big Banks",
@@ -117,15 +134,6 @@
    "t_id": "'Perdagangan AI tidak pernah mati': Pedagang melihat ruang untuk pemulihan pasar, namun partisipasi bitcoin adalah cerita lain"
   },
   {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Nvidia and other AI stocks fall, but the rest of Wall Street rises with confidence in the US economy",
-   "src": "The Boston Globe",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGd0M4QW9zNXN0SzNYREM4QWx3WDRhN19uUTV6SnhRM09idzVLMjVEcGxweUxmN1p1ZzdhcjJnamRwMm5McFdHdWhmWTJIemktUTMzTE9oZUtIMmc0eFJTNnNhT2dyT250U0gzUDlEakExR2R4TkpJ?oc=5",
-   "time": "2026-11-24T15:48:19Z",
-   "t_id": "Nvidia dan saham AI lainnya melemah, namun saham Wall Street lainnya menguat karena kepercayaan terhadap perekonomian AS"
-  },
-  {
    "topic": "china",
    "lang": "en",
    "t": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted",
@@ -135,13 +143,13 @@
    "t_id": "Tarif Trump yang Baru Tidak Akan Melebihi Tingkat Kesepakatan Perdagangan, Akan Ditargetkan"
   },
   {
-   "topic": "kripto",
+   "topic": "saham-as",
    "lang": "en",
-   "t": "Bitcoin Price Prediction: BTC Repeats 2015 Price Action that Led to a 9,700% Gain",
-   "src": "FXEmpire",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWZQM1prdEhPNFU1ZTVXQV9GVl95enJmMEdkU3ptREJCN3h6X2VQbm40bFlySGlfNlhaMzA5UjdnZFFDZ2twdmlxMWFXNXpYQV9lTmk5RHZvdmMwclAxY1paOVotLVZpMy1FUEg5RlpIT09tb1JLd0xEQ1Z6VlVzOGtPVnY1dnFjZU93ZFIzeldhZUJNM1ZsQjdlNnktODQtU2VWbHN6N19laV9qS0ExV2VUdS1ib3V6a2VoOU52Vl9BNDM5VGtwbg?oc=5",
-   "time": "2026-11-24T15:13:03Z",
-   "t_id": "Prediksi Harga Bitcoin: BTC Mengulangi Aksi Harga 2015 yang Menghasilkan Keuntungan 9,700%"
+   "t": "Nvidia and other AI stocks fall, but the rest of Wall Street rises with confidence in the US economy",
+   "src": "Norwalk Hour",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjFtRHZxT3JzWVlodGg4d3JwNnVLMGdqYUM1dkhUbU1GNV96SjFxZlNuVDM3cThKM0NqQU5peVZiNG1tUDJJM282X0lucWtPclJuYWJoNWxGWDYwOHo5QVctV3Y1UURHem9SSFRiR3lhdGM0MXlkTUlHN1c4S1hBZXB3alFxTmpLa1Q3amt6eE4wUndONDgxQUw5cDVTQmJ4T2hYZ0dB?oc=5",
+   "time": "2026-11-24T15:27:59Z",
+   "t_id": "Nvidia dan saham AI lainnya melemah, namun saham Wall Street lainnya menguat karena kepercayaan terhadap perekonomian AS"
   },
   {
    "topic": "kripto",
@@ -187,15 +195,6 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXAwNXdrRkJVdFBYa2dab2VpZUJEVHM2a19LY2dITGwwZXlEYjBieDhyWUpxRlFRMDNpRDUwTHpyb1M3ZndKNkR0ekNGVXdhaWJDS0VYOWktRnZLeDltTzhRX2Nxa0hXbFpYS2phU1oxT2RmeUhNeExmUWVWNktxa3BSUkhrUDVIYzU5VXNRVUFXNTFOeDZYOWUydXlBbnRUWDk4XzJlS3dDd1hOcUhiZjdfQTRwYVNySXgxNE5LLXVyMmZ1U0E?oc=5",
    "time": "2026-11-24T14:51:58Z",
    "t_id": "AS menyiapkan tarif yang lebih tinggi terhadap Tiongkok dan puluhan negara untuk subsidi industri: Laporan"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Wall St opens lower as Nvidia-fueled AI rally fades",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzM3UDF6Q1FFc1RDbl9lbVdmVmxjcFBMYjdXOXl0aW1YWDY0TVZwU2JLTU96dmVkS2gzWkdERXFSTVVVUTM1MFBmY2c5ajFGY2NIMmt5U2QzWUZzemhJSEZubzF6c25SWTVTWHNuQkFQRDVlWHNlZDNaSlBaN3hoakhybWo2YktxZG53SDJOTmk4V0Nzcnc?oc=5",
-   "time": "2026-11-24T14:41:49Z",
-   "t_id": "Wall St dibuka lebih rendah karena reli AI yang dipicu oleh Nvidia memudar"
   },
   {
    "topic": "ai-teknologi",
@@ -258,6 +257,24 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXZLTW5tSldXS2RtLTBnUXc0MFZ6QkRwYjNINlNUdThxVXNnMElPTE5ZUjE3T1hQdktPdUx2VTZPTjZFa0Y4NVlvamQxRGFJUWg0UEhVZnF5OTdtYkpYWURzSFpGNktoR2REcjJ5bkkteHEycG52Q0I2b3QtaDVOeFNKU0dFTmFGYnVLTmM3R21KVzlFeFJlejVXV3RfbTZSdHFiZFNGWFhUb01JZW1sU2xJdFpsa3Q4R1Br?oc=5",
    "time": "2026-11-24T13:45:25Z",
    "t_id": "Emas kesulitan untuk memperpanjang rebound karena taruhan kenaikan suku bunga Fed menekan perak - Laporan Kitco AM"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall After Scott Bessent Unveils Fresh Iran Sa",
+   "src": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeTI2NXZONWZrdFg0M2tMeVNDMzZXM05MS0FMVUZKWERhUkVqalBUVklCN19hYzVGMXMtOUlibWpJajRwa2FNYkhhekN2XzY0YnhjMk05NmpfN2dSOXp2RE1qQnA0VGI4eWttcWVqT3kwMGlYMTRuVnkxcmlEaG5HRDhrUFU1RDlsdDl4TTlhX3dHVUN4dkhzUzZHWEZhbXp2bFl4ZVNZdERld2tzR1pISzE2WGZUYTNMNGk5QzFOc1J1SmJZRVFoRmpuUFBzYlREODRKemg0eDNtTURkSzBLc09fXzdQY2VHeEJhaUlQYm8zLWNKQzVnbmIxaFpjUlVsdVA2WXFkN0VvRHhmXy1iWkdVdVQ2dw?oc=5",
+   "time": "2026-11-24T13:22:00Z",
+   "t_id": "Pasar Saham Hari Ini: Dow Jones, S&P 500, Nasdaq 100 Futures Jatuh Setelah Scott Bessent Mengungkapkan Berita Iran Baru"
+  },
+  {
+   "topic": "china",
+   "lang": "en",
+   "t": "America Readies New Tariffs on China. Will Bitcoin and Stocks Sink Again?",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHpybUl5dlI1U2NvZTQ3aktLUkF3dTNISXVUWTduc195TlJVeTk3S0pILVR1QTg3dG42aVZBTnZnTzJUcGtmYkwwUmhUb01PZDE3QnlIUXk1cFdsaTlnNUxDakt1TGRJQjQ2YU9kWWpxQzVER3lQZlNhSXlPM09obnNOSWNwTzJIS3RHOEJwVEhCOUxWY0gxUlJGM1dnVjdlNjJwdQ?oc=5",
+   "time": "2026-11-24T13:19:55Z",
+   "t_id": "Amerika Siapkan Tarif Baru untuk Tiongkok. Akankah Bitcoin dan Saham Turun Lagi?"
   },
   {
    "topic": "geopolitik",
@@ -328,6 +345,15 @@
    "time": "2026-11-24T12:45:00Z"
   },
   {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Recovered Above $60,000 – Will This Hold?",
+   "src": "BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9INFdlVUZyRHVyTXpJcUNEeGFiRk9jbjdla3NMbWVsaUtjQmdNRnlTc1IyRmR5ei0weHBKYkJSeG52Q3B1NkN0TjVoVjdWWGNTZzktRFdmTXd6WHZkeGd1UmgxRXpEd0FG?oc=5",
+   "time": "2026-11-24T12:32:03Z",
+   "t_id": "Harga Bitcoin Pulih Di Atas $60,000 – Akankah Ini Bertahan?"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold price today, Tuesday, November 24, 2026: Gold prices improve, lift from 14-month lows",
@@ -391,10 +417,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Ditutup Naik 0,49% ke Level 5.241 (Selasa, 24 November 2026)",
-   "src": "Databoks",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnFFV3dWZTA0R0NFSmI3VldxeHZ3UjZEdWJfUFl1S1pkSXZhdzBfN25MemVGTl9DTXAxWDVncmlRRWMtLUZ5bWVKTDVWUFZSUDczNVdJVEZ6clJqcUhvdTdhQlhGWmFHOTJpazdMemIxR09Mel9yTVVoSWQyQTNqWkhtR3FULXpQR0lMUXVBRDlIYlRIbTE0c3JEeW1RWEpTeGxFWnRYd09Fa3QteEYxMjVnNUs?oc=5",
-   "time": "2026-11-24T10:08:58Z"
+   "t": "IHSG Menguat 0,49% ke 5.241, Saham Perbankan Menopang di Tengah Klarifikasi MSCI",
+   "src": "www.fxstreet-id.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTZoVHNFcmVFNzZ0ZEc4OHhtVmhBX0wzYy1mVHNWQnB4ZlVpUkYzU0lKNDd0Qll5NlJGNjlfU2ZZWVJmRlNlQkNTckQ4VEdvQzVSOE0tX0ZJbjdTVDMwQVE2RUNQSEV1bGgxNUFPZlJlQ3loM2E4aXBNbWdHaVM4dF94Z29VbmNPOFRnODVyMFRXazlNYWozQUxZUXl2NlR5SnhPVWQxYUUzWWdkWGVRbWFnT0JmOTlaYnpPYUZyWEw?oc=5",
+   "time": "2026-11-24T10:00:12Z"
   },
   {
    "topic": "indonesia",
@@ -432,14 +458,6 @@
    "t_id": "Iran mengatakan 2 kapal tanker minyak menabrak ranjau laut, terbakar di Selat Hormuz"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Penguatan Masih Terjadi, IHSG (24/11) Menguat 0,49% ke level 5.241",
-   "src": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0Z3VaaXA3SHJLT2RCMkhCNWNtbkFNZEoxdHV6RG5oeGJrLVlZeHB2bG9WbWdMQ2g0MElpUmlHYjJzY2k4LTcxRFhTZjRPSjR4cUM5ZEc1SDExR1hvajJyQnhVT0JxUQ?oc=5",
-   "time": "2026-11-24T09:44:00Z"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "US tech stocks rebound as Wall Street rallies on Jensen Huang's return to Nvidia",
@@ -457,6 +475,14 @@
    "time": "2026-11-24T09:36:26Z"
   },
   {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Rupiah melemah dipengaruhi kekhawatiran atas kelebihan pasokan minyak",
+   "src": "ANTARA News Jambi",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHRxem5HNjUzdThCazZxOHBYLXZCZl9UdWV2UnRVN1NaTDg0Y1oyck4zVHk0OGZCeTNLSjhlc3k2OHkxUy1GOG1hbnotX2VkTEloaGtCUm1qTG1FcXNIMkpaVXZibThKWFN5bHY2R2lhZi1Yek1fbGJWejUybXZ0VmFmS3R5Zjd2NlJDMUFfRlY1VkVibUszQkVqdnZzOTFTbjFMRzZsRUJZbVRmLVI4TFp30gG3AUFVX3lxTE5yQm9sRmVXWENZOTRocndCM013ZWNIWWtvbHBoTjByZE56WUs4Zk1PTG5EZnhQR0RUVmgxcHBhRmRCakpsQy03bFNyTHRQQTY0TXRJWkZCTWVybGNvQm1Rem5jbEtQTnd4Z3lydmQ3REFROWw0WlBtWHJWWGRLbllJZmpYN090NE9MMUZlQVVzdlhiM25EZlVrWUhZelhBZDVXSzBUSnBoNUdLcGhTaTZLa1A4VkZFMA?oc=5",
+   "time": "2026-11-24T09:24:49Z"
+  },
+  {
    "topic": "ai-teknologi",
    "lang": "en",
    "t": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -466,38 +492,20 @@
    "t_id": "Saham Nvidia jatuh lebih dari 5% setelah kembalinya Huang"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "China approves 2-month suspension extension for select US export restrictions",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGJjU0RFbHBrM1lxR0JTVFdxR3Yza3RwUkZFdmp1c1JBc3NpTlFRdUFYTzJ3RXJKMVo1N040VE9FZTNPLXNHVU9uVW9ndnpWOGlUQ2FYOTQzOXpJMy05Z1cxRS1qVmZKcWtxRU9RY05lS3l1R2N4WmY0YlRzWnRRVW9MdlNZaDJKTHBnbzJnU2F0Y3lkTkdadVZxOFU4Wlg5ZC16MEV2aHZFN1hDaDZqRjczeUlYakMwWTlqOGtPMNIBvwFBVV95cUxNZlJJWkx3Qm55NVVONEpMTkEzWE1iLTNaZmR2LUZEdXNSbG1KRDhJZy1jaDJERjlVTXZfNXVaTUZwYVM1MHdpZktSa0J6UE40ZnVualM0VjdHVE03YnhTZmFEeTY0UDUzcmp1cTNqcXlaSnRsX3dxd1JaZFJwbGdhLUxwOG9CVnVFSmVQSzJLWkJVVjVObTBabkF1Ry1DXy1LdGpsbm9jU2pwdFhPZGoybVlsS05xNXczdzBQVDV0SQ?oc=5",
-   "time": "2026-11-24T09:01:45Z",
-   "t_id": "Tiongkok menyetujui perpanjangan penangguhan selama 2 bulan untuk beberapa pembatasan ekspor AS"
-  },
-  {
-   "topic": "china",
-   "lang": "en",
-   "t": "China urges Mexico to heed tariff concerns, protect bilateral economic ties",
-   "src": "Global Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TUHYzczFuT3VqcHB1WlRnVWIzcE5Oalpzc3JXQVdHYWE0bGR4bzhCUGdsaWtsU3hTSzF6ZUdTd25aZmdkbEFHX2ZkTDZDT3RhVEFXOVA4Yk1nRi1EQkNRTXJR?oc=5",
-   "time": "2026-11-24T08:11:00Z",
-   "t_id": "Tiongkok mendesak Meksiko untuk memperhatikan kekhawatiran tarif dan melindungi hubungan ekonomi bilateral"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Kaltim gandeng Polda dan Botasupal musnahkan 11.295 lembar upal",
-   "src": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmhzbFdxRWVuVFU4UEVPVkhpR1RYbHR3WkJFNUJCTG5qcGVIRlZLcF82cTkzLVY3ZmNSSVY2LUN0VUZRdXQ1OE5CSnhPTnZJYjRmWC1hbVozSWd3R0h1WDk4MklKSGJ5U0p6Rk5IM1VNRk0wYlE1QWJaaDJTcHFmbjhVLUVQWGhOa0U0UXBHY0syWUZSMU1VeWFjTXlCLUJHdjV0YUZsaWJaR3dsbGfSAbMBQVVfeXFMTURlZTFMaWxCMWJIbkZoTlkzckFSV291TVp0LVhkcTdKenFXTjZNQ1JkTzJXTzlscnBnZjl5d3RkdUNFaGVkR0FocVNURFRXRFE5Rk1RSFQ2NWczRElOU2JNemNDQTdvRklQZnJJbUt2cFNKZmVoUkxudWVwZC1RMHpKTHlqdDlYWUZFc0tqcGJOVVd3SV9qejlZbGptWFpxUl9sR2xmSkZaeXA5MWVmb2cxUkE?oc=5",
-   "time": "2026-11-24T07:58:19Z"
-  },
-  {
    "topic": "indonesia",
    "lang": "id",
    "t": "PAEI Bongkar Peluang Kebangkitan IHSG, Reformasi Pasar Jadi Penentu!",
    "src": "Pasardana",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWE5EQUY5U0VJZFkyaWFneFNkN2IwU1BBZ3FORGxQY3EzWWk5NTFab3NKdjhScVItclpfVFViMDZzamZNYzJQSjdFUGJoMjJ3MWlxandOWVBITmowRElLYXZrU2QyV0JBUk5icl9FQXRMQjhfVVJsbjNId2hDdWx1SFZ0UEZwVjQ0LWFRWUlCeEs1amg5Y1MwQmgwN1lyclNPRFB4OG5n?oc=5",
    "time": "2026-11-24T07:37:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Tok! BI Kerek Suku Bunga Acuan Jadi 6 Persen pada November 2026",
+   "src": "Infobanknews",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUtMQXUxeG43TFhzWGhqS2ljTF9MSWdENDR6eHA2UWVTV0tvTnRyN3IzRFk0ZWJ3aXk5d3g2anRZaWRmMFZiUUY0TXBfLVMzWTNXV21kN2RCd05SRHA1dk5JNzJJTi1JTmFzNWhwMTZqTTZWalU5SWVXUzFuSnFHN3IzN0JmSVBuanJpbERVMEo?oc=5",
+   "time": "2026-11-24T07:22:06Z"
   },
   {
    "topic": "indonesia",
@@ -514,14 +522,6 @@
    "src": "Kaltim Kece",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRk1yZ0Rwem9YUElpV2dNZkFvN0RTVUFwVkdkbXhEY1d2UXZ3aW9lcTlMbGJPNUFuSkN5R3FLdVB3MF9MZFR3Qkk0cm5waWR2QmdaSjNTWUMxVGFqR2xSX1diS2ZCTzkwUldmWEV2U3BCT19vazZLU1k3Q081R0wyLUhiaXZVZmxsRzBlQ2t5TWd1QVhKVmswZ2hR?oc=5",
    "time": "2026-11-24T06:47:37Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Ekonom Prediksi Bunga Special Rate Deposito Naik hingga 35 Bps Imbas Kenaikan BI Rate",
-   "src": "kontan.co.id",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDNZX1hTREltc1pHR3pNaFczd1hjVF9JS004c3hiYWx1RURXMXVfTGZTWEcyOVdDWWdGYlk4S1Rwd0Fwa1JfTjJHYnVaZjhoS1JGRU9tdThORGpnNEc3ZFJyM1lIbVVUYlo2YVNjMzh2VVRsUVRNc2dXU2lGdThPWkNXWmZtMC1qVlRwd0lNbjJSRDlLeHdOLVY5Ni1CXzNGUW9QRVNhWG5zcDJjVWNmNi02STNmWFpPR0pDS9IBtgFBVV95cUxOVldxa2ZfTTVyWVVjYk5mTDlDS09RY1lqYnB0QTdUMjBBbll3UjlqX0g4RERIQ205R3JueUJ6NXZXZ3hvamE5ZVpsT3RBU19HNDh6U2QzVDFTRVhVcXF6OUgxZ09VNXFNZU1yNnA3bFpFSDMyYkZ0T1JMaDlwNk44eHphNVpHZTV6dk8wcnIxdWdvWkw0ZGgwU3JQb01MRDRvMUdfMmlEVU5wc3R3VHpDa1FkanRIUQ?oc=5",
-   "time": "2026-11-24T06:26:00Z"
   }
  ],
  "errors": []
