@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T06:18:23Z",
+ "updatedAt": "2026-11-24T06:33:01Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1RIV3Q3cTJPb1JpTk5NaWRVdV9xSHpoUnhTVzY4el9CUWh2dm14Vm9JZFFGSEo2RmFZOEdTZTIwZm00N3RkWGUyVEgyLXFMODRDakFaS3pyQ28zQ2ZCTmN4b1ZqOG96WktDaWpSampheXBhNUJDbmNMTTEwRlJ3OV9idVdQRlV2bzFhVDZlMkVRWFcwZ1VfSXFCX01mdmU3UVFjT0tKZmpOUXZpOG9VLTA4ZC14NjZIVXF0YjdpRXdHaVV5TkFN0gHMAUFVX3lxTE9fUTV2QlI4TWVZSFdqVGpNdDluUjM4UWhEdkhFWC1LM0g4NElDcWVuUkF6eHVLei1FMXJBblhnR3FaenV2M09LZzVMa09NUV92ZzFjRGZNRHM3cUpsSkhzWGNDQUhQT1NoVDdWVFd1eFVScFk5ZUxDSlY4ajd5STZvWXlyR0hod1BpUjN1YnExSi1ISHBQQTI3NHhrek1GNWdCMlMyNXYxQ0pYc3gwUzV6dktvN1RMU2V3VXBWSEFmd1JhdGQ4QXhtcFdZeg?oc=5",
    "sources": 19,
-   "recent6h": 13,
-   "score": 25.5,
+   "recent6h": 12,
+   "score": 25.0,
    "level": "besar",
    "first": "2026-11-23T09:00:00Z",
    "last": "2026-11-24T05:25:06Z",
@@ -45,23 +45,17 @@
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Delta flights in and out of Atlanta delayed due to system outage",
-   "src": "Bundle",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1gtMUp1Qm04TVZxbDRnWjhOT2hDU1RzaUpCODZHRWd5RURZRDdrclR1Q21oSTg4UkE4bGlUaTQtNFFJcFB2NVVWa19kX3dnVjRuZEllOEZkUmJkT3VISUxGNjkwZjkzeGkzSENhcFlwVWgzTmpPWHduY1BVNzc3eE9BNHVUX0FqUEhHY3VRbXFEWmhHeU1rQTRZNnJUTmx5NDJYb0EyVDRXVjQyMzVTZlVPYXY0dFpJWHNBTUVUbEdNR1NQMVFqRzdCaXo0Zw?oc=5",
-   "sources": 8,
+   "title": "Delta Outage Delays 1,600+ Flights: Check Your Status Now",
+   "src": "shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
+   "sources": 7,
    "recent6h": 0,
-   "score": 8.0,
+   "score": 7.0,
    "level": "besar",
    "first": "2026-11-22T19:53:36Z",
-   "last": "2026-11-23T16:16:08Z",
+   "last": "2026-11-23T16:07:40Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
-    {
-     "t": "Delta Outage Delays 1,600+ Flights: Check Your Status Now",
-     "src": "shattered.io",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RfZ1hiRzhJQUxVQnhHWnZyLXE5R0VXR0JKYVl0UkhlcUpvY0JPRDdyUHBINVFCamYwelJ4NUZ3WklsRThTaWd0cmNITlQ5RHlnSWcxUUtWaHdTOWtWc2hrTy1hTkc2TW4wR0I1Wm1feGkwd3l4eDdlMG4yUGprb2xaVURkZkRNWlN3?oc=5",
-     "t_id": "Delta Outage Menunda 1.600+ Penerbangan: Periksa Status Anda Sekarang"
-    },
     {
      "t": "Delta Technology Outage Delays Flights Nationwide as Thanksgiving Travel Picks Up",
      "src": "Yahoo",
@@ -79,36 +73,43 @@
      "src": "ABC News - Breaking News, Latest News and Videos",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ORXhseHVmSlU4MU5MYXdZbUtNNkp3aERUSzlaVXpoeGdueWFXVlEyUzhaSHYzc2xRSGM3WFdHMVdPMTJhVkNOajA3T18?oc=5",
      "t_id": "Pemadaman Video Delta menyebabkan penundaan secara nasional saat perjalanan liburan dimulai"
+    },
+    {
+     "t": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
+     "src": "Everett Post",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUlHNWRaYkpXSzAzY2xpYTlWSWFBWXNLeXVJY2xCMVBtRDg1YkQ5N3VDMFJtYVVKalJBLTZ2S0N2U0F1Ym9CcGh2NTRPYlZUZkw3dEs3QlE2cFlRckVxMmU4RGJzeUptcE9nNVJab3FaOHAzYjREdjd4M0dFSllCRXNRWFB4YmJCNnFtQXJwem9IRzFGcTBkdkRoZlotb0pheUFiLQ?oc=5",
+     "t_id": "Pemadaman peralatan di Atlanta menyebabkan lebih dari 1.600 penundaan penerbangan Delta"
     }
    ],
-   "title_id": "Penerbangan Delta masuk dan keluar Atlanta tertunda karena pemadaman sistem"
+   "title_id": "Delta Outage Menunda 1.600+ Penerbangan: Periksa Status Anda Sekarang"
   },
   {
-   "id": "perang-202611230824-a110",
+   "id": "perang-202611230824-72e7",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "How Ukraine drone attacks on Russian ships unfolded",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tSU1HN19rSUJoSi1qV0FsMnlmVC0wX0p2cklMYTJDZlFFRV8tSm1xejRlMWFpYXRQdU9DTmpjOGNNeE9pUWN6X0c4MVdZOXh4WjRyR3NxZlk?oc=5",
+   "title": "US Citizen Among 5 Hospitalized After Russian Drone Attack on Kyiv",
+   "src": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQzRYYlRBbFRtdzVRd3gtRzk5dW9VcVhOUVc1QWZsMDJWdHRmZ1JnRlpJMG1oRnZJcktTUVRiX1JhaXBqbFdpd3ZIRQ?oc=5",
    "sources": 5,
-   "recent6h": 1,
-   "score": 5.5,
+   "recent6h": 0,
+   "score": 5.0,
    "level": "sedang",
    "first": "2026-11-23T08:24:54Z",
-   "last": "2026-11-24T03:20:56Z",
+   "last": "2026-11-23T18:45:55Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Ukraine’s drone strike on Russian warship risks ‘serious escalation’: official",
-     "src": "News24",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVE9NaUJGa1k0bGZ0NWZ3UU9YdnM5ZnRtN0pRaEg3bGhxNDJjQVM1VVU5MkxKNnp4RHB1SHF2V05aMDBkbWY5MUVFN1FVT2NtN0FpRk40cVRPcUlkbW1RRFRGWUM1RnhIVGd6ZDVBNHdmN3BURmFTME43ZUlvSFozNjdjZV9XNU5fQmlmTlJvUDF3U1JCeTFKcjdPRjdlVTlNNWN2RGRXbTFvekRveEhWcGtuNFRTYkpSWC1IUjlILWc0TUxLSG1SbXROSzFyd2J2T0thT1hnZG91SGh2LVRrdUxWMzJ4Qkx6SG1PaUhHNWx5bzdTUWVYcVFwd0RnVDR2R29jMlotRXRYT3FyU0FucFlMalFlQdIBmwJBVV95cUxNSV9jNFB4MTRkaFdCRWk2S0RYRE45UFNGUmhoOEhSZGhIeFZwamh4OU1aQy1ZQ3VVUnBVSUhPOHkxcW1jMHplVGZna2NDLV80UUhJV1pBcnhPZ3JmeURaSGdrdDJtcGQzMk1NSWJncjhrME1zVl9QTTJoQ1pLSElEczcyemxNNkxRNzczTmNjMmtZb01TUWNJYmZyOTZKM2pSU1ZCZlduUjZOZUJNS05sZkZJVGh0YVVNWTVMREQwc0g2RnlxeTRyamUtVUloWE12cXJyeU9JaEVhLUV2RmFla05iTVAyTFdiRDFVV2h0Qk4ySms3dWpKZTgzTFFSV1Z0NnNieGhKR3ZRZHgwUHFnRmFVbll3NEVnX3Nj?oc=5"
+     "t": "Satellite images capture Ukrainian naval drone strike on a Russian warship in Libya, over 1,000 miles away from the war",
+     "src": "Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
+     "t_id": "Citra satelit menangkap serangan drone angkatan laut Ukraina terhadap kapal perang Rusia di Libya, lebih dari 1.000 mil jauhnya dari lokasi perang"
     },
     {
-     "t": "US Citizen Among 5 Hospitalized After Russian Drone Attack on Kyiv",
-     "src": "Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQzRYYlRBbFRtdzVRd3gtRzk5dW9VcVhOUVc1QWZsMDJWdHRmZ1JnRlpJMG1oRnZJcktTUVRiX1JhaXBqbFdpd3ZIRQ?oc=5",
-     "t_id": "Warga AS Di antara 5 Orang yang Dirawat di Rumah Sakit Setelah Serangan Drone Rusia di Kyiv"
+     "t": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
+     "src": "New York Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWFiM3VHc3ZpOVpHYmtwZUZIR3dPZXRaNXhNZmFYekxsa0F2YkYxU0dmQnhVTnpseFo4ZExSSV9wVUZLQllJVFdVaDNCampIZ3lFeGJPM3FxNWpoRG1yOWpxUzNoblFtdWxNSlZTWE5zTEZnZ0VIa1FRSkhESF85ekN3?oc=5",
+     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
     },
     {
      "t": "Ukraine Just Pulled Off a Drone Attack For the History Books: Kyiv Hit a Russian Navy Warship All the Way in Libya",
@@ -123,37 +124,7 @@
      "t_id": "Lima Kapal Rusia Menabrak Hanya dalam 12 Hari Saat Serangan Drone Menyapu Laut Baltik hingga Mediterania"
     }
    ],
-   "title_id": "Bagaimana serangan drone Ukraina terhadap kapal Rusia terjadi"
-  },
-  {
-   "id": "perang-202611230835-43b0",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "NATO strengthens Poland's defenses with early warning aircraft following Russian missile strikes",
-   "src": "جريدة القدس",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTBoemkyRTduNVdzTzFxTkJGOXBTVThsRjIwTnV5bkhqZGZmUmZsWkNHVWhwdjMzNXJPLV9LSE4tWmxxTmZYQmFKc3M3SWRINjNzTTFXUEtXTEdrZ1VmZk9lamY0QTV1aVhtRm1lMlRxNnV6SFJyN0JVek9Ib01sZEM2TWZNdVhhbU1hUV91ZWgtYTRMNmN5N0k4UjJDSm9CVU5qSkg4V0pIWF9NV1c1cFNaRlIzZw?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-23T08:35:00Z",
-   "last": "2026-11-24T06:11:52Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Poland identifies Russian Kh-101 missile debris at three sites, seeks stronger NATO air defenses",
-     "src": "Hromadske",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWhaM1NFa3NHWmFpT0YyU2hOOG5zNUZueVMwOUxTTUpxNjVmZ1hQRFdYSEg5eDE2dzVTVlhFWGxQamtVZTlfbzBwWHhNQ0ZnRkdKXzYzeUpWcmVaX1l2THo4WFlRMHNXYllIM0txNDV6MkpsZ0dEUGRQNkUwaGlZV2xwVVJ2YUlrUm1Jd1hXZjV1WUl3SlA0cEx1aWo4dUFaX1RwbVY0Nmt0bnlJNjdLV05FUG5Rb1BXbG42eWc2bENrdC1sV0NVam1KWE1CejNUbTM40gHTAUFVX3lxTE5xaFozU0Vrc0daYWlPRjJTaE44bnM1Rm55UzA5TFNNSnE2NWZnWFBEV1hISDl4MTZ3NVNWWEVYbFBqa1VlOV9vMHBYeE1DRmdGR0pfNjN5SlZyZVpfWXZMejhYWVEwc1diWUgzS3E0NXoySmxnR0RQZFA2RTBoaVlXbHBVUnZhSWtSbUl3WFdmNXVZSXdKUDRwTHVpajh1QVpfVHBtVjQ2a3RueUk2N0tXTkVQblFvUFdsbjZ5ZzZsQ2t0LWxXQ1VqbUpYTUJ6M1RtMzg?oc=5",
-     "t_id": "Polandia mengidentifikasi puing-puing rudal Kh-101 Rusia di tiga lokasi, mencari pertahanan udara NATO yang lebih kuat"
-    },
-    {
-     "t": "All three ‘flying objects’ that crashed in Poland were Russian Kh-101 missiles",
-     "src": "The New Voice of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1ZCOE9jQWh6STNZYmFzQmF0blU3R19uaFpLU1U3WE5xWGZ6cm1ZVS1nX3p5TUQwMUJGeTFXOHFmcEl0Z3RLeVRLdkR2d0V4ZGlYcEM5T3hzdzRGWE5CcVpqNThQLWRRZWhPeG44cm1pNmp3djZOOFlGb2xTeFVkSzNBMm5HS0lzTmQ3Mml6R3lheE9fbklYQkJWN1FQYzFDTzdtODAzT0l3N2JHZjVZTWp6SnM5N05YanFJ0gG3AUFVX3lxTFBuSE5Fd3N5WnFqUGZ2azRyTE5MQ3lzMVJ2eWdZd2ljWW1uRVd5aU55YWdxem9QalZ4MzZqbGlBRlUtaVFXQkJqbUFYMmpEY2s5cWl3UXBTa3NNamJ0aTBfTVVGcjQweU43Q29PemZ0VWxKUEJaUWN5MkdzdU5qa0Z5QXE1cVZoRDZSdmcwYWpKSU9qeFpZS0dCQ2gxZnlqdkxJY1FtM1ZuLVRVUEEya0MtM0RaRnNlVQ?oc=5",
-     "t_id": "Ketiga ‘benda terbang’ yang jatuh di Polandia adalah rudal Kh-101 Rusia"
-    }
-   ]
+   "title_id": "Warga AS Di antara 5 Orang yang Dirawat di Rumah Sakit Setelah Serangan Drone Rusia di Kyiv"
   },
   {
    "id": "transportasi-202611230744-daae",
@@ -186,137 +157,27 @@
    ]
   },
   {
-   "id": "perang-202611231341-2f18",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "New SPYS interceptor shot down Russia’s Geran-5 cruise missile",
-   "src": "The Defence Blog",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk9iUkhES3ZjdFFjSlNONkoxcHhFdG1nZUpsaWJoQ0tPMklpTF9VMVRYX01Ha2xyNW5mQnpuQ3RJdDFRWUNIa25Na0w2Ym5DOEg1UzZlYm5jdzBYai1NX0ZVV3dFMUJmRENpWlFtVlJiY1lTclMzTWdaZGdtYUwwMnhBR2g2SGFzeEVXQ0pNNXjSAZYBQVVfeXFMTy1FblhMS3dlQjdQaGNfVVRsTkIyWE14ZHFzeGFrbGEtRFg2WHZGWXFRSGRDZi1qbzA4YXB1dWFPbUxuSmFRUS1peE05RjJNRllMUFBZSi1FVFdvZ0c1VHQwVlpLMmRnN0J3V0k1MDlGbEZBS003WE45b0liQzhzVXdaS252WmtxR3ZqOGhlQi1EVW9LaXpn?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-23T13:41:21Z",
-   "last": "2026-11-23T18:41:47Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukraine Just Shot Down Russia’s Elusive New Geran-5 K5-K Cruise Missile With One Drone",
-     "src": "UNITED24 Media",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXkwbU5NWE1tRnpmN3VpWHZKOU1kbXpkc1RheUh1aHhCbWtMTXZPTzMxWnlZbkdFSGN3bmJrY011UFRQdjQ1cG01cW01X1F1a3NLUzRsUDFvSWZnRks2YWZYNjNnRVhnbERtc2RZbk4tdzhSc2xVbHFFYllWVmc5TkVSR0VZZV9jejZrajFiMkVfNk16LUx6cUZEWV9SOFlLX2ZHcVdIMlUtMkFiVzJITjJTMmh1c1hqMFF6ZlRVcWR2amw3R3RuNy1tdHI?oc=5",
-     "t_id": "Ukraina Baru Saja Menembak Jatuh Rudal Jelajah Geran-5 K5-K Baru Rusia yang Sulit Dipahami Dengan Satu Drone"
-    },
-    {
-     "t": "Six-Hour Missile and Drone Assault Forces Shutdown of Russia’s Novoshakhtinsk Oil Refinery",
-     "src": "Inkorr",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT09tNlBVLUsyUjByejBOWVJpSS1JY1I3cTR2YmQ2VVVKUVp6dEkyZUl2ZFNFVDNUYy1sNENDd1VlUnNja09ldGRpZ1FSbjF0aXRWLTduNmZmc2prdWpxNGQ5TVpGUzVqWi1rUG9oZHY2d3FJWHh1M3AyUjhCcVFNTTA0MERmTDVqSjJobGhFMDlfd1ROSjJrR1NwT3U3Ty1SbkVLcDB4WVhpbjJTd1MzS3l2a29tQjI5ZVZJcVhua0JVSmJL0gHKAUFVX3lxTFA2UzdtY0RvQThJQlJkSEtGWjRPYW1zSDlEWUhpbEpYYWIxaEtrcVNid3lWTHVuaHpKOVFoRU5CcFNlM1hRQTRUWDV5RGJ2QW41ajloZVNBaE5hQ2U1QUthM0swRWRCdS1pNWozN0xXZ2NhSGdSRW1xUzJlQlhndkxDUmZ5eFJoRVFiOGpzbDZCZVBSMWRKU3NiQkdnWHVsMU9zYzA2eE9OLWZsMXI4REd5SjRfVzdBQmU1SnBETjFDaDE0WG9xT3BkM3c?oc=5",
-     "t_id": "Pasukan Serangan Rudal dan Drone Selama Enam Jam Menutup Kilang Minyak Novoshakhtinsk Rusia"
-    }
-   ],
-   "title_id": "Pencegat SPYS baru menembak jatuh rudal jelajah Geran-5 Rusia"
-  },
-  {
-   "id": "siber-202611230754-20a3",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "US Intelligence Chief issues warning to Americans to prepare for more tech outages",
-   "src": "UNILAD Tech",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2g2Zmo3bWJmcERHdkJpUzhGdlc0bklHTzZ2N2Y0VnRxMWprLWMwZjU2emFIMjU1dUk0SUdvQkJyRUlVcmlSUkEwODRiZkt6SDBRMjBNN3BraWNtZXBLaGlnNG9WLUR0TmY5dmMzLVlCLVBSbXpCMV9BaEktUV9rSVA1ZW5sc1dBWUVIazJqWmhtcmxsa2hQVFhhQW9PRUxSX1h1SWdZNzV0ZWtld3UzdFc3d3Y4Tkk?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-23T07:54:14Z",
-   "last": "2026-11-23T16:11:34Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Is AI behind recent tech outages? Microsoft and US officials predict more disruptions",
-     "src": "The Financial Express",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVQR21qRWttMDVuVDctTXpYUlJhU3duZDdURl9fU0ZwRnhHZlZxLVc1NFhna2xvQmhDVDNhcjRPV1lNeHZIU3NRT1F4empXX3BEcER2VEtXbjV2dEVqdExXekRMdUtqSTlwVFdRbzc3ajg3d3VPYmFhTDgwUHNFS1BTc3NSZXVtRWh6OVQzdnF0LVh0elFZQlRQbE1lZUwxR3FScE9NdWg5OVFBM0xiejBrRlFoNFFKQV9MYVhCR1BGal90cW9xX0RLNlk5MzVxYnlhUUxHRXNWQTFzNFHSAeQBQVVfeXFMTmw4eF9mNktqbEQzUWpBSHlMU2J4TE9VRGVQMTY5MmZHTDFaYjZaRzJOUG5LckgyclhjelRTclhWRHNKc0N3Y1pPN1VQd1RHdHBrdTVPeFZrZWtLYVVSc2N1eFlEN2ZFVXlLdTMyYlZoN3Q1SFlCWllZTUx2U3o3NHYzOW10R0Exdm9tbU41V0JvNk1VUnI4eXNISGtCLWw5V0FFSmd2ald2dUhtR1gyZ0pXdHZrcTcyUE5uVE1SUkxsNDU4YllhZ2lKSkRvZ0lZNWU1VVhpZ3VrZEhieE5CSlcweTN2?oc=5",
-     "t_id": "Apakah AI berada di balik gangguan teknologi baru-baru ini? Pejabat Microsoft dan AS memperkirakan akan ada lebih banyak gangguan"
-    },
-    {
-     "t": "More US Tech Outages Ahead? Microsoft and Intelligence Chief Warn of Months of Disruptions",
-     "src": "International Business Times, Singapore Edition",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUNmN3JMa1A3cDNzZV9GVFNaTUczLWxYV09ZQTM1cWZNOE9ZR2ExQ0VwcE1iNzB2TXF2elk2LU9mQk0yc1pxNEY0Si1IQzFKWEdrRFNvRkJpTjI0ODZXdFlZOVZUVG9ocm5fQTFrVkVVdG1zODVYbkU1aHZWVkg2Q0c1SGxQU0FRS0tZUHVISXdnY3Nhb0FkenBXbkFlMTIzNTE4Qk0tdF9mYWxS?oc=5",
-     "t_id": "Lebih Banyak Gangguan Teknologi AS di Masa Depan? Microsoft dan Kepala Intelijen Memperingatkan akan Gangguan Selama Berbulan-bulan"
-    }
-   ],
-   "title_id": "Kepala Intelijen AS mengeluarkan peringatan kepada warga Amerika untuk bersiap menghadapi pemadaman teknologi lebih lanjut"
-  },
-  {
-   "id": "perang-202611231245-aae9",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Satellite images capture Ukrainian naval drone strike on a Russian warship in Libya, over 1,000 miles away from the war",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlHbHJjOG1ZWDBlLUxUVXYwdTFQOUZNNTRfTF82V0t6ejMtUmlrT19VbEhKWlNCZjNZOENWek5IR0F0bldSSkpISkowNGZQV3hya1pRbXhVVGd0RUZsZ01GUVdWcHhxcWtob25EZHBFRWMyLXVGLTEyVUpUcUJ3MDNpbWJOQVF2TWdXWTNOanp6SWJXMlFEMi13YmMzZndfTWEtcmkzaFVTYWdqVjNyTWln?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-23T12:45:00Z",
-   "last": "2026-11-23T16:09:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
-     "src": "New York Daily News",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWFiM3VHc3ZpOVpHYmtwZUZIR3dPZXRaNXhNZmFYekxsa0F2YkYxU0dmQnhVTnpseFo4ZExSSV9wVUZLQllJVFdVaDNCampIZ3lFeGJPM3FxNWpoRG1yOWpxUzNoblFtdWxNSlZTWE5zTEZnZ0VIa1FRSkhESF85ekN3?oc=5",
-     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
-    },
-    {
-     "t": "Ukrainian drones strike Russian warship at Libya naval base, Zelenskyy says",
-     "src": "PennLive.com",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1FURDEtN0xmMGxCRV9pYjFaV3VfSG4xaEN2QjJzN1RIS3ByQjFzMU1IcDBFRFdZbXJMTklISk53VnBFWUFrUkYzMmhfai1PazJfMkRldzFacUs0Q1FsdVpqQUtzNHNOWVpLRllHOWtiLTJ4Z0ZEazFMN0poZl8xbXRWbG1BUTdHTzVtenp4UlB3dGlMamItdTBWa0Y5QzNseGIwdi1HWWJpRTFYYnJYNTIxM2czNHphdVlQenpPY0FvblU?oc=5",
-     "t_id": "Drone Ukraina menyerang kapal perang Rusia di pangkalan angkatan laut Libya, kata Zelenskyy"
-    }
-   ],
-   "title_id": "Citra satelit menangkap serangan drone angkatan laut Ukraina terhadap kapal perang Rusia di Libya, lebih dari 1.000 mil jauhnya dari lokasi perang"
-  },
-  {
-   "id": "indonesia-202611231326-e6b8",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo di Belgia Lumpuhkan Transportasi, Seluruh Penerbangan Keberangkatan Dibatalkan",
-   "src": "NTVNews.id",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVB5OHdDS0tXdkJZU3g1SlBWS3psMnNHYW9lbndpLW81SnNsR21RZ1U2ZWIzM3FNOUxnbTY2cWYtM3dzNWtpQ1JoNm5nTE53YlYxSnR1MGpjVEM3ZHBlbkw5YlNZNTJsUDRod08wOFVMNFE2RE9NdlpiMXRZcEozNVFhTmNXU0lqRXR6VldxalRmYmg1MnlwSk1zZnNIN2FoR3JtWHRyYVF2RWJ3TWZkZmdDWkk0emh4akNJ?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-23T13:26:48Z",
-   "last": "2026-11-24T01:37:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Layanan Transportasi di Belgia Lumpuh Akibat Pekerja Demo Besar-besaran",
-     "src": "MetroTVNews.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT25YOGI1bjBWUmJYVURrdGFvNWNXUzM1bUhPUzZpaEdPVzlSdTB3UjRqWXRvSTBvQ2JTTnE3STF1RkZyLXIxUGtUSEVOSk9TNllIZ2dpd0thUmFqY3UwcWxJdGw4MUlxVm1FX21TNmRyenpFTklnNXJ0ZTlfSkNLbExOdGdrNXZ4UFg3VGNqMHJkWkNPRnBOTmtRYUJXZno1N3E5ZmdzaGp0bjVWOG1MSHlzRQ?oc=5"
-    }
-   ]
-  },
-  {
    "id": "perang-202611222333-11e2",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Iran claims missile and drone attack on U.S. bases",
-   "src": "11Alive.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGRhMGVxN1o4aUE3YjlUUF9ET193bklfeURUVlNFU3M1clFKOURVdTc3M1ZxOVN5V1pMQlNnZjBEaVQwQVUtdkdsR29OYVVBRC15NGhJNWs5d3JwSU9ROTNYTmk2REtyTWNlaVQ2N2VjWi1zS0FGekw2bGlmNGxJcEs0V3pzVFdLQnQzaEQzV2pkSVFNSXFPbXduQ0NwSDRSQkM1MEF3NHlLaU1xY2VEQmdOQUNzMk1jM1FMOE5EbWs?oc=5",
-   "sources": 2,
+   "title": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+   "sources": 3,
    "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
+   "score": 3.0,
+   "level": "sedang",
    "first": "2026-11-22T23:33:06Z",
-   "last": "2026-11-23T20:23:00Z",
+   "last": "2026-11-23T22:44:24Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Iran claims missile and drone attack on U.S. bases",
+     "src": "11Alive.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGRhMGVxN1o4aUE3YjlUUF9ET193bklfeURUVlNFU3M1clFKOURVdTc3M1ZxOVN5V1pMQlNnZjBEaVQwQVUtdkdsR29OYVVBRC15NGhJNWs5d3JwSU9ROTNYTmk2REtyTWNlaVQ2N2VjWi1zS0FGekw2bGlmNGxJcEs0V3pzVFdLQnQzaEQzV2pkSVFNSXFPbXduQ0NwSDRSQkM1MEF3NHlLaU1xY2VEQmdOQUNzMk1jM1FMOE5EbWs?oc=5",
+     "t_id": "Iran mengklaim serangan rudal dan drone terhadap pangkalan AS"
+    },
     {
      "t": "The destruction of a Russian missile corvette at an African base may have resulted from a drone attack, for which no one has claimed responsibility",
      "src": "Business Insider Africa",
@@ -324,7 +185,7 @@
      "t_id": "Penghancuran korvet rudal Rusia di pangkalan Afrika mungkin disebabkan oleh serangan pesawat tak berawak, yang belum ada pihak yang mengaku bertanggung jawab."
     }
    ],
-   "title_id": "Iran mengklaim serangan rudal dan drone terhadap pangkalan AS"
+   "title_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
   },
   {
    "id": "politik-202611222344-e09b",
