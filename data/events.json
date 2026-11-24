@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T22:23:52Z",
+ "updatedAt": "2026-11-24T22:38:27Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -41,6 +41,49 @@
    ]
   },
   {
+   "id": "politik-202611241022-acb3",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
+   "sources": 5,
+   "recent6h": 1,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-24T10:22:33Z",
+   "last": "2026-11-24T17:36:25Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain’s progressive leader called a snap election. But will the far-right benefit?",
+     "src": "GZERO Media",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUG0xcGwzM0NjS3FDMzNxa1VBWVZMT1k0ZkYzY0gwVWtIUEJEeFpOR05vWmJZUlRtejNBei02YkdEU1NyRThDc0wycXBOWW0xaXNzclVzelhDUzh6YWJfQTllSDY5RUtXcldSM3lfMFBST2I0X2tlT0VSTDlCMXV3TFF5al9TTFF2YnJvbEJVazZCWS0zVkdLelE5Y1Q0a1U5dFBDUWZ6aFZnZVZPTGNMamtVMVRHakE5UExzZw?oc=5",
+     "t_id": "Pemimpin progresif Spanyol menyerukan pemilu cepat. Namun apakah kelompok sayap kanan akan mendapatkan keuntungan?"
+    },
+    {
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "inkl",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFBoR1RYWDZYVGMzYnAyM0xjQUFnTHZPalc5RFpURGJGcmVtbjg4eHBFNjZnUVlTSnFOVVVJUDB5UVVlMDlScEFScVBjNExQYnBTN2xEYy1GZXRNVUVKTGZQRnJTLXZCdXpIejcySmVSQ2pRZ3hjS01wY21yN09Ldm5Ba0x2MXYtNUh4Tzc5SVlheTVzNklGV3dIYjc1bnNsZFc3OGlHTDVkMWlIREdPaVZn?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+    },
+    {
+     "t": "Why Spain's Snap Election Could Put Vox In Power",
+     "src": "ИФЗ РАН",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
+     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
+    },
+    {
+     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
+     "src": "EUobserver",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
+     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
+    }
+   ],
+   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+  },
+  {
    "id": "siber-202611241814-6268",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -70,6 +113,31 @@
     }
    ],
    "title_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
+  },
+  {
+   "id": "siber-202611242156-1b5c",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Unclassified CIA system breached in a cyberattack, sources say",
+   "src": "KATV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQU1hSU9pZDVhSTBDTjNBS293TmM4Tm5sYzJfWm11XzhyMFhaVGtYT1Y2SllkbzN5TFh5WUlaWlFkTDc2XzduSlFGVGFXdlQ2MlFnTkVaQTMzUDJnV0xHLXF5UldDX3NQT2R3NlNSSWFIZFBwbG5VZldzNjQwN2Z4QlcxVGo4YUZhYURaQnVNeE5jdVAxMWZzTklMbnQxOFpUSHd5eTFDZTFCV1cwYWotQw?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-24T21:56:15Z",
+   "last": "2026-11-24T21:57:33Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "An unclassified CIA system was breached in a cyberattack, reports say",
+     "src": "WYFF",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmdjcHNhTVkwZC1PZXFsZUtsUzR3SmxYdDFlOHRJNHhWTFdOVERUdndmZTBGOEdhTEI2NW5FZzlxcnNDcE9XMmQ4R25wSEZnY01KYVFzYjczUG5idTdvbkhHSzJsMjBRUUFXNWNLNU15cHlQVFBLZXNkTEpoMlozMlNkVWxnVk1iRXo4?oc=5",
+     "t_id": "Sebuah sistem CIA yang tidak dirahasiakan telah dibobol dalam serangan siber, kata sejumlah laporan"
+    }
+   ],
+   "title_id": "Sistem CIA yang tidak terklasifikasi dibobol dalam serangan siber, kata sumber"
   },
   {
    "id": "perang-202611240048-6bb2",
@@ -103,63 +171,35 @@
    "title_id": "AS mengingatkan warganya untuk tidak melakukan perjalanan ke Ukraina di tengah serangan rudal dan drone Rusia"
   },
   {
-   "id": "indonesia-202611241011-916f",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Kapolda Bantah Mutasi Besar-besaran di DIY Terkait Ricuh Demo Yogya",
-   "src": "CNN Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1c5TV9mUVF1dWZrcGJXLWpIYmlVbHk4VE5qa0pCV0VWTDNWaXRMNEJYajVMOXhoN081WHhEenNUZC0zNzZiVVFSQTdtcmdjeXFvS3RLMVFKeVRiU2Y4ZWU2TnEyaUoxaUxDR1RGMjdjTHp5SlpLWmE5dHBBSWt2NFg3TTVkOFI4MEtNaTRuRWtmQzExeUN1Q0JoX1pQdjVLNGNudUp4SXhfZE1FWmVxZ3RYZ081S3RPVTZ2M1k0QnFvQ3FxMEtjMFBaWdIB0AFBVV95cUxPZm9jOUF4Njd3Z1E5ZmVmU0FtamF6X2NydlVHYnRvbG5oMGlEYWEwdmJuZUhuWEZRdGg1TmFnRlBUaVFuVTdZYXU3MDFDckw2WnJuTF9vMkZpcnR6QmxnOTl5eUtkejZEUnNiYzJKZ1ZDcFdTWVdrS2IxNXBWZDdmTnZtaDZ5VXFtSWZmQzl3eU5MeG9sSXlJWllESFJ5dXYxa2NQc0dHcGlnWjJvdlRsM2x0U0VpeGNPb0ZrZm5WeWtWNmw3ZnlXMWMwVnZ2ZzRZ?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-24T10:11:13Z",
-   "last": "2026-11-24T15:36:14Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
-     "src": "Republika Online",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
-    },
-    {
-     "t": "Kapolda dan Pejabat Polda DIY Dimutasi Besar-besaran, Abioso Bantah Terkait Demo Berujung Ricuh",
-     "src": "Suarajogja.id",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUxsQTEtbTNBZFBXVEdpTkRTc2M3akZjMjZPdW9uckhOOXhkTldibkhjRlBvRTFpUVpRN3h6X2I0blBuLXBldWJnTDM1VmMtR24yMTVvSFA3N2Z5TGFvellGN0pYQzZDU3FQWUhha1pGSEVsZFJWU243YlE1RHRxSlFoS3J0WnFwSUhvVjROTDRIZVQ5MWs3c1BhM0pneDAteDRjN0RVaF9wZG54TFFobkNUSXBsVGVNQWdpazVZTDhwWExpMDFmVGNpSFRSOGxoSzFmWXVPNVPSAd4BQVVfeXFMTVpWRmZEUVF1cTA3Vkw0MFI1dFdUSWo0X1oyckRsQ3NkU25ISm4tS1ZvemxLX2ZXWUpqRVF2X1BETXhXSXdGVm1hTDZQUjRiX2RsaHkwaENFcDBhNVhuLWVXRVZWV1JyQm9DeVdRNXZBbXFlOS16VzBMd1o3czZVNTRra21EMWliS08tZnRsNjg3aUh3YlM3S0NWM1R2YWRUQkZJZ0JuellDRVFVcWxYanVaVGN4eGlFOXdUd2Q3SFJFR3lBVjRabktiM3hxWmtNTFhMSDRMdGRyQ0lFck1B?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "politik-202611241022-acb3",
-   "cat": "politik",
-   "label": "Guncangan politik",
+   "id": "siber-202611241223-ffdd",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
+   "title": "Allstate Outage Today: Is Allstate Down in the US? Users Report Website, App Login, Insurance Claims, Payment and Account Access Issues | Check Latest Downdetector Status",
+   "src": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUjlZSm5CQmtfNFZOMno2MEdVLXdlSnZmNWd1SUd4dWQ1UGZ4S25DS3prd2lncHVuTVktVFNocElQOFhOQnJsd3JkTGZkMDFfdzRLdzlQUU5FOVRZNDNlb1huLTJNbTBQeVowczhPMGVuS2QyNmY4eFhvSGdzSl9vb083OVdJbWxwNkVGUmVCTXRHcUE3UUVtdy0tcTZ2WjlIOE5mUEdCMlJsUVE1cDhlemVlVWVWQ1V0WC1iVmc5MHViQlRvbzE0bDd5akhRNXVWLUFZRUJJOVRNTDVjS2tZenhnMW9vcE8yYmRIYWZWaEZtaXJJUTFmdVE4U2VfOElpemh6dk1qd05MeW1mZHRvWVE4MjlNMVp4eDZ2N0hXTWwzaDJ5TDlpTnhTTDYwVUgzM2ZKRFFB0gG7AkFVX3lxTE5fRU1QdERiR2ZXRzlUNFAxYlJXR29hTEozYXlUWjk1cVFLVlhiRVBLQmZ5QlZWa3IwdHR5WTJPR2IzTGVVRnRMWlV5blJSUkNZNzNHdDFqckJ4djF1ZGllbXFIb3NZcVNHWTFFSEZSSVFuaklWMDlnUUl3V2p3MjZMc1gtNkFWSnlaSXk3MHpoRUp0TzBLSUZuRGYwTDNrTGFxdF9CS1ZRWGE3OUctQUZfUkZOazRvU21SSlJ2dDVxakdTOHFkeXp6MnlxYVBmSnVJcmZIOWcyRDFsekJEeFk4aThFWHh3aDB1X0o5VjZ6SVN4cUhJYWhXT0JQZkRtdGZOeW5EVWVRX29kcy1MR05RZzFNVnhNYTY2ZUNnUzdfRTQ3c2VlZEtmZHFXWmJLcU1CZXNnS0lpM1JtTQ?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-24T10:22:33Z",
-   "last": "2026-11-24T12:22:00Z",
-   "assets": "Mata uang & obligasi negara terkait",
+   "first": "2026-11-24T12:23:15Z",
+   "last": "2026-11-24T15:43:41Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Why Spain's Snap Election Could Put Vox In Power",
-     "src": "ИФЗ РАН",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
-     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
+     "t": "Spotify Restores Access After Outage Hits Users Worldwide",
+     "src": "cwibc.co.id",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LcEljSnVKdExJVEJKNEFRY1BLVENJWTNnQVgzS3RQRzFPRTNfSUN5cHFEVnBESHBxOXd3cDBvNUhUZ3dEQ0lHUGQ3dlFOWXY5cEtUMzVJaDRpYU5oQ3N4TFBjR3lCOEdzNmZhcA?oc=5",
+     "t_id": "Spotify Memulihkan Akses Setelah Gangguan Menghantam Pengguna di Seluruh Dunia"
     },
     {
-     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
-     "src": "EUobserver",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
-     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
+     "t": "Spotify down? Thousands of users report outages globally",
+     "src": "Khaleej Times",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ocEN1U01ndkYzN05Jbzh4VVpVWjZVS2JDOElDaFZkcFpmTkVPckVkUG5mdEtnXy1RMHE5bEUwdHNWN3ZNTHdfeVpBc3FXcWM5WmVxZE5ZMzd6Zm5pdHJsS2RWS2R6YlRqZHF1VUZjU09tMGp5N1FxNjE3UdIBgwFBVV95cUxNZTVydWNITFJpWWRfbUlYa3RsaTBHbHprQ2tZYUFMVzFNN1lXd1VPMG5wbUJrakdXb2U4WVVMNjdGeS1NQWVVUE5tV0pXV1BWRHVUSFM1eXNXY3EzQjBUNENIU1R3cnY3eXVtbGEyWGg5V2ZTdmFEMkxCRS1oVzF2aEw4MA?oc=5",
+     "t_id": "Spotify tidak aktif? Ribuan pengguna melaporkan pemadaman listrik secara global"
     }
    ],
-   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+   "title_id": "Pemadaman Allstate Hari Ini: Apakah Allstate Down di AS? Laporan Pengguna Situs Web, Login Aplikasi, Klaim Asuransi, Masalah Pembayaran dan Akses Akun | Periksa Status Downdetector Terbaru"
   },
   {
    "id": "perang-202611240048-6bb2",
@@ -184,13 +224,38 @@
      "t_id": "Serangan pesawat tak berawak Ukraina terhadap kapal perang Rusia berisiko mengalami ‘eskalasi serius’: resmi"
     },
     {
-     "t": "Ukraine says it sank Russian warship in drone attack at Libyan port",
-     "src": "WRTV",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMjF2VXczRkp4dGlob2xDcXVDb3BxbDZNT2NTNnp2eFhXeGJQN3E4VzAxQnViS0xnUlFnQ3FqZWQtOHVzRWJxRy1EVDg0aGk2VEwzTDNvelBybXV1T2RUUHVfWmRvbjVENkhMaTB1VkVpMnhfWDhBb0wyWk9BZDg2M0NfZUpia3hzaGJhVzkyaDRqVjF2VDdOZXlOeS1IYjJlV0JFS1BWX0NyN3ZZ?oc=5",
-     "t_id": "Ukraina mengatakan pihaknya menenggelamkan kapal perang Rusia dalam serangan pesawat tak berawak di pelabuhan Libya"
+     "t": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+     "src": "San Mateo Daily Journal",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUXVGeUk0UUd6TXdiTl96dm5wU3A0eUxxdTJwa0xpdXNXNW9lZkdicUtqMFlkaS04WGxIbTZjTnBKR1cwVlZibWNiOURTUXhQcFR0UUtNY2hUeF9OS0JvU2U2bjlYQi1GSTBTRGR3ZWlwa1B2WmZFQnNtc1pPWlpxdE9LRjB3MDVJTnlHSk1CR1IxZHd6X3RrOFFIZjJpV0pvYU4ydWNWajVxZFF2dE5NOHpqdVJld3VvWEhIM2U4aTJjSVJ0NkhMNko1eWRrT2N6UnZMNloyX3pMYXlYNF90bFNKZ0ZTcU1mR0xoaUltQm1xclo4bmEzOEI3Z3E5YmZWbzJfR2tZbw?oc=5",
+     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
     }
    ],
    "title_id": "Ukraina menenggelamkan kapal perang Rusia, menyerang kapal kargo dari Mediterania hingga Baltik"
+  },
+  {
+   "id": "transportasi-202611241215-0bdf",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "New FAA rule on Line Up and Wait (LUAW) raises Thanksgiving flight delay concerns",
+   "src": "Beinsure",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1E1WkZnMGVja2diVUdTYzk1Ri1CSUJ4SnRZR0NiaUIwNEM2bm4tajVyRVJFS3NtMzh1UGhyZnQ3dUxVYng5SWk2VnlkOGdLa1VaMElmdy1mM01nZFdNLWQyZmxVQWlzQU5uTzByYmp1RVhGYWplVlJwM0s3TXA1UGdnV1YwZUhkRWZHMWxkLXpqaFhIcW5LWjN2dExVeFA0V0hz?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-24T12:15:39Z",
+   "last": "2026-11-24T19:48:24Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "No New FAA Rule Triggering Nationwide Flight Disruptions Nov. 24",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVFycHlOb2N4ckVETGl0T0Jfdlg2U1NDUmxRdTNXX2ZLV21pUi1XdU9wQVRyZU9lUjc0X2MxdHhBdzhXZ1Z1SXNaZFN2X1R2MnhCOXVnWTE1M3FJVTVaSnBPSDNVR3g0SVgzTlNEa01KTTMzdEliNkU3clNZc0NUeXRLR1RhQy1jemx2SWRNT2ZKdEdyc3RV?oc=5",
+     "t_id": "Tidak Ada Aturan Baru FAA yang Memicu Gangguan Penerbangan Nasional 24 November"
+    }
+   ],
+   "title_id": "Aturan baru FAA tentang Line Up and Wait (LUAW) menimbulkan kekhawatiran penundaan penerbangan pada hari Thanksgiving"
   },
   {
    "id": "siber-202611241305-ee3b",
@@ -216,6 +281,29 @@
     }
    ],
    "title_id": "Spotify kembali online setelah pemadaman singkat, Downdetector menunjukkan"
+  },
+  {
+   "id": "indonesia-202611241011-916f",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Kapolda Bantah Mutasi Besar-besaran di DIY Terkait Ricuh Demo Yogya",
+   "src": "CNN Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1c5TV9mUVF1dWZrcGJXLWpIYmlVbHk4VE5qa0pCV0VWTDNWaXRMNEJYajVMOXhoN081WHhEenNUZC0zNzZiVVFSQTdtcmdjeXFvS3RLMVFKeVRiU2Y4ZWU2TnEyaUoxaUxDR1RGMjdjTHp5SlpLWmE5dHBBSWt2NFg3TTVkOFI4MEtNaTRuRWtmQzExeUN1Q0JoX1pQdjVLNGNudUp4SXhfZE1FWmVxZ3RYZ081S3RPVTZ2M1k0QnFvQ3FxMEtjMFBaWdIB0AFBVV95cUxPZm9jOUF4Njd3Z1E5ZmVmU0FtamF6X2NydlVHYnRvbG5oMGlEYWEwdmJuZUhuWEZRdGg1TmFnRlBUaVFuVTdZYXU3MDFDckw2WnJuTF9vMkZpcnR6QmxnOTl5eUtkejZEUnNiYzJKZ1ZDcFdTWVdrS2IxNXBWZDdmTnZtaDZ5VXFtSWZmQzl3eU5MeG9sSXlJWllESFJ5dXYxa2NQc0dHcGlnWjJvdlRsM2x0U0VpeGNPb0ZrZm5WeWtWNmw3ZnlXMWMwVnZ2ZzRZ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-24T10:11:13Z",
+   "last": "2026-11-24T15:36:14Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
+     "src": "Republika Online",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
+    }
+   ]
   },
   {
    "id": "kesehatan-202611241209-fd30",
@@ -266,6 +354,49 @@
     }
    ],
    "title_id": "Rusia telah melancarkan serangan drone di Kyiv: gudang di distrik Holosiivskyi terbakar"
+  },
+  {
+   "id": "transportasi-202611240055-0ba4",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Delta restores weight-and-balance system after Atlanta flight delays",
+   "src": "https://www.thetraveler.org/",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb01PY3lWR0tTQVBua18wMS1tc2tKbzZ6Z2hMOXg2ZDdobFdVWnZQdzRmSHVLbG5ObW9mSzZJUEFfWkZZZURUdGpmeWxVTnE5UXZJbC1OeHZYb0NOeUUyeEhMNEloeV9Lb05LbXNKMk9vMUdhU2ZLdmpBZkgxNmFjSmxYa2pZcVR1ak1EZlRIUVNPcEk5eERsdzFlbGNFdw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-24T00:55:37Z",
+   "last": "2026-11-24T13:09:46Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Brief ground stop at Chicago O’Hare heightens holiday travel jitters",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDNQank4bHI3cG9UWEFSWUhMN2liWTdKdUt5UUlhcHJZTHUyT2xsR0MwcUQzVVM2ZGhZUnRIQjBVS2ZQMFdEdENtZmZWSG42QTBMS2FHUS01Y25aYW43dnpPZVdVczJRWU5JR2lJcEZtdGZCbDZFUjQ5aEl3bUhwSFJNb0gwWjdnLXRqT2lWY2N2Q0NzQWhWQjhTT1A?oc=5",
+     "t_id": "Perhentian singkat di Chicago O'Hare meningkatkan kegelisahan perjalanan liburan"
+    },
+    {
+     "t": "Delta restores weight system after Atlanta ground stop disrupts travel",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWhjTkU3NDBqUXh1UWVxNEpXV0lGM0ZpTlV1MWJDVzFrNkw3YTJ1b2JBZjVpYWxvMlpUUDJFTGhQVGxsMmJuU3hOeVdTSlFLX0c2UXEtQ1FwdVE4TVI0bkVtQ2lyc0ZvVWVQV291M2hVeC04VFFMMGtGVFNqcWdPODZ2ZWJScTQ0RHVWem5KUE1jQm1wTEhtWmJCckRRQTk5?oc=5",
+     "t_id": "Delta memulihkan sistem berat badan setelah penghentian di Atlanta mengganggu perjalanan"
+    },
+    {
+     "t": "Schiphol Flight Delays as Freezing Fog Hits Dutch Airports",
+     "src": "FTN news",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmVyRG1QVDgzMUVIWGtxaEFWTTZfLTlkbGlFbU0zWk5DdGtjSW9TUVhRM1d4bmppSURRNFVuME9ib0dnYjVlaFVGcDdTZFo4LVJUTHpfdGFYVGNNZ2wzakVteVVwaTd5UnU0UDFMRUhWQmRxNGk2bnhMaG9qcHNWaHBuNzdIaWZjbnZj?oc=5",
+     "t_id": "Penerbangan Schiphol Tertunda karena Kabut Dingin Menerpa Bandara Belanda"
+    },
+    {
+     "t": "Delta flight delays ease after weight system glitch hits Thanksgiving rush",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnpQZXJVbU0wdkp4eGVtaDdVakRsczVkMy1lNGdqTkFzek1pR3ljSmtVMXIxcklWZXpGdVI2U080dm9hMDFCZnh5cWtyNGlkeDM4TkJTZjF2Sm1OYm1sanhxRE96VUVlYXQwVHJROXdfX2lPMUh1NU9Icm5ZN2NVVV8xSEJBWlJZNFdXV3ZQY2tidjVlSTE0ZUhlOEVvbGZhb25GZzlB?oc=5",
+     "t_id": "Penundaan penerbangan Delta mereda setelah kesalahan sistem berat melanda kesibukan Thanksgiving"
+    }
+   ],
+   "title_id": "Delta memulihkan sistem berat dan keseimbangan setelah penundaan penerbangan di Atlanta"
   },
   {
    "id": "kesehatan-202611240618-fb41",
