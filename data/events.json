@@ -1,50 +1,7 @@
 {
- "updatedAt": "2026-11-25T19:58:14Z",
+ "updatedAt": "2026-11-25T20:12:55Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
-  {
-   "id": "siber-202611241932-9a5b",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft issues 'Code Red' declaration following major Outlook outage",
-   "src": "UNILAD Tech",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUxpOHUxeVpQXy1UR2NXZ05GeV9fS0p3dHg5RDE4Rk5UV1NEZDJJTGY5OFZXTVZxUjRrU1lNamJfZm5XdXhDU0hWNDNydEE4czNVNVN4akRrRVhlOWdvcG42blQxcGltdFB5NE96WERfYWkzZGM3dmI2eEs3LXlmRFlIS2pSMWNjY25MbEhlQ3FjM2pFWlE?oc=5",
-   "sources": 10,
-   "recent6h": 2,
-   "score": 11.0,
-   "level": "besar",
-   "first": "2026-11-24T18:14:30Z",
-   "last": "2026-11-25T17:10:19Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft declares 'Code Red' after historic service outage",
-     "src": "LiveNOW from FOX",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXNYYlplOXBPZ0FKUUFLVTNSOEF5cG9wb0tZZDFHdTdyZF85U1VVaDJQVHd2bGdESnRBTlI2MHV1RkdVRmFZbk5NSFBLUFBPeVRZLVpYUnAwaEpVTXd6dHJfTmNna2l0bG9ZU2FLbmMtQVE2bmItWVZzQk1YYnJZT3NIVld4N2doWjB3aE1JOExpbzA?oc=5",
-     "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
-    },
-    {
-     "t": "Microsoft 365 and US air traffic outages expose travel insurance gaps",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakpXUnNLQVVnckxaaXFzYWhNaFlqUi1iX0wtcW5uYXhZN0lhZVJWRlB3SlVFUzNmYWIyaGd6SGtEVWdRSnRrY2JNOEd6WUdFUC1ROEMxTFprQW8zV2EwcEI5Y3QyNXkzcXcyTEVpTXNGMVJwWVJwLXpHRjJTOGpxQkRqSzV0X2JMLWVQdHRrRURZdDBOS2Q0RW11amdmRkE?oc=5",
-     "t_id": "Pemadaman lalu lintas udara Microsoft 365 dan AS mengungkap kesenjangan asuransi perjalanan"
-    },
-    {
-     "t": "Microsoft 365 Outage Disrupts Businesses Worldwide",
-     "src": "Wisevoter",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0tfdzFhTTFDcmxzbGlfajVVN3hVSWk2dFNqNnFEMHN2UTdMOUlrNDJGVmJDd3dzcHRCVVdrUEwyNHNsdEtqakZoS2J6aW1sRjFReXZfelVvc0ZrYkhEcmM4X2pMT2hiajdkNm1MR2dyRkFhMlc5QXI0dm00eEw0YVJKMXo0TGxrZEd5SlhPdnVVREk?oc=5",
-     "t_id": "Pemadaman Microsoft 365 Mengganggu Bisnis di Seluruh Dunia"
-    },
-    {
-     "t": "Microsoft declares Code Red after Microsoft 365 outage, targets one-hour recovery for global outages",
-     "src": "ForkLog",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3R6VEpSc1Q2Y0hJdVg1d1BMU0d1Vk9vS0JSdEVFdUNscVM5blUtbWVJMUJUV1FpU2RwVDZtMzF0dEowZmhxR0dKbFlPajUyVXdDdkU0V1VHR1E5Y2hnc2ZfUXJneGpIRURvMExKMmg2OHI0dl94WkJUdVJXb0czWjdtTGxGR2NkZVJfY2s5T3NnbUp6dEZ1Snp0Y085SUhOcnBuc2lYNDdWUEVPMVhhNk5iaHl5LThYTHczR1F1TGw?oc=5",
-     "t_id": "Microsoft mendeklarasikan Kode Merah setelah pemadaman Microsoft 365, menargetkan pemulihan satu jam untuk pemadaman global"
-    }
-   ],
-   "title_id": "Microsoft mengeluarkan deklarasi 'Kode Merah' setelah pemadaman besar Outlook"
-  },
   {
    "id": "perang-202611242133-2926",
    "cat": "perang",
@@ -207,6 +164,36 @@
    ]
   },
   {
+   "id": "siber-202611241932-9a5b",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Microsoft invokes 'Code Red' after global Outlook and Microsoft 365 outage",
+   "src": "TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13bHhYZGlPTVcxdWN0NlV6Y1M5SUh6QU1VYTVYN2tMNl9sMWRaQjNpbm5nZDllVEo5OUFEZEFkQUEwNmRWMnlINXNiX2NGX05sTHpkVUttSG9pdUJIRTlpNnpXcllEVFRsX012cVJqNjBLMXlpalVlWU9pcHY4LTNjZ3dEQnpYMEp0MlFlNUZlUVdxczMyMS1TckVxQ3FuOEd6cXEwdjU5elRVbXhDZjhPYVNNMzNQbWNvMzhB?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-24T18:14:30Z",
+   "last": "2026-11-25T15:06:02Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Microsoft 365 Outage Disrupts Businesses Worldwide",
+     "src": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0tfdzFhTTFDcmxzbGlfajVVN3hVSWk2dFNqNnFEMHN2UTdMOUlrNDJGVmJDd3dzcHRCVVdrUEwyNHNsdEtqakZoS2J6aW1sRjFReXZfelVvc0ZrYkhEcmM4X2pMT2hiajdkNm1MR2dyRkFhMlc5QXI0dm00eEw0YVJKMXo0TGxrZEd5SlhPdnVVREk?oc=5",
+     "t_id": "Pemadaman Microsoft 365 Mengganggu Bisnis di Seluruh Dunia"
+    },
+    {
+     "t": "MICROSOFT 365 : a Global Outage, a Local Test",
+     "src": "Defimedia",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9haGtTclZrN3VacnNURk1tdGxrMjlqOTNLYXZhb3hBeldpUWc2WDdrenlQWmJ6YUY5YnNoWHRfUHQxZWp5dkhiNGM4ajl1alN1b0hrUjJ2SnkzS01jeXBmckl1TkJ4dko0cndoakNR?oc=5",
+     "t_id": "MICROSOFT 365: Pemadaman Global, Pengujian Lokal"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611241636-0579",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -235,37 +222,6 @@
    ]
   },
   {
-   "id": "siber-202611250033-f1be",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Cyberattack exposes unclassified information from CIA system, US media reports",
-   "src": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalY3dkdwSHpOS3ZjaFFNcGc1NGNpc1BwYTQ0dmczYXJYNkZpbHZ1dDYzVG4wazBvdmp2clY0eXZ3MnJxMlBZaEFJTkdEWVhmNVZtOUJKUml0YU5fVERVSGN2RzB0ano3WW9iTDRrbTFXU1EzMDNIRXAzOV9yeTRZcmR4YW5DVFVreDNCbTNobm1QYXF5ZExzSW1mNkpPTk9uS3ZVR09kQmY0amJQaGxYQXl4eEJUNVNDaC1CMzlGRXQ?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-24T21:57:00Z",
-   "last": "2026-11-25T10:48:10Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "An unclassified CIA system was breached in a cyberattack, AP source says",
-     "src": "Federal News Network",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTThUQ2tKc3BHM25BejlUMk1vMUNWSW4tRFh3TWtBY1NCaEg1dU5aRWR6V1VVSElzei1Sa3RzN2kwWFhOSHVzVGVfUGFjNmlvdENKRXJDbWFhWVJZWVprN1dXX3VfSkIxVlBSdG5iQ0sxR1VWSlNuMHN3THl2WnJValVnVm5rX0FiQnBqYVZmYm53UEl3Ml9PRXQtRjN1b2xfSHRTTGgtUktkOXhQN3YyZ0p1LXFtdDhmd1JPS0h4V3VCSTg?oc=5",
-     "t_id": "Sistem CIA yang tidak dirahasiakan dibobol dalam serangan siber, kata sumber AP"
-    },
-    {
-     "t": "Unclassified CIA system breached in a cyberattack, sources say",
-     "src": "WPEC",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY091akhqNVVIc21iRl85YThRQUh3aXR6dmQzbDZnUnNscTlQQjdhNXIwa09JbEwzOFYtM2paZVZ0Ump5c0lHaUVXZjdYa1MtQkNwSlN6RmkxeUdsYTllTXdHMFlja1kyd09Dd0xmMmxDb3lBbnhvVWNaMzQ0M0NyRDM0RVhRUVJxU1RTT3VYWHU4cjVIbFBsY29DXzFXMWdKYlExY2lLb0FRcDRmY3hGUk5n?oc=5",
-     "t_id": "Sistem CIA yang tidak terklasifikasi dibobol dalam serangan siber, kata sumber"
-    }
-   ],
-   "title_id": "Serangan dunia maya mengungkap informasi yang tidak rahasia dari sistem CIA, lapor media AS"
-  },
-  {
    "id": "siber-202611250621-750d",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -291,54 +247,29 @@
    "title_id": "Pemadaman Digital dan Kelangsungan Bisnis"
   },
   {
-   "id": "kesehatan-202611251035-c560",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Lafayette County Adult Becomes Wisconsin's Third Measles Death as Outbreak Reaches 918 Cases in 24 Counties",
-   "src": "inkl",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGtORlZiY0JHOVlaQ0ktWW5yeDlfS0JxeDdnNVBIUzVsdHhOZlZmcmdLVUtHd1VfUVV0czN2NTh2R3BjSTJqTlpVYWx4QjBZNXJuWndYb3NLUTF2VlRzdE1JaVVwZWRtQzMxWThfTXgteTB1OGQ3ZlNFSmU2X3lObUtWUWVEdjBWYXRtNTlwRi0wcEtlUm9iN2h1U3BrWnpnWF9iV0NUTXhrTmh6V1pKMWI5UUNPcS1WTHVTUDZJY1ZMaUJWTUFERTJQRWo?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T10:35:27Z",
-   "last": "2026-11-25T13:36:52Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Measles cases surpass 1,000 in Pennsylvania amid the state's largest outbreak in decades",
-     "src": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWZnWjVwU3ZKQ19SWkFOWTVrb2FIMUhadkN5bHBIc0JxUWV1c09mTDBiVElxRFE1WEhITHRVZWNqZlFxM2Rxb2FoWGFZeTk2Q0lKT1Q2dDYxdkREVGR3Tmk3d3Vzd0lWWER0M2FSSGxDVWNmRW41WHdEajBycklPSjhRMUl5dEhEc0tTc1RTTVVtdy1lODhMdEgyZm12SXJoeFNBYXI1RF9xX3hPQnZfWtIBtgFBVV95cUxQWWpCTk1xMHhwU2JrQVVmNGlod1R6cmVIdTd0ZzlMVUIyT2hGUmE4RXF1UllUS1FfQ0RxYlppUEk0MTVidmdQQ2J2LVZJMG9mUTJ2YlR5dEM0Z0xiQkxYTTdSVGE4Q2R6VjZ3dDQzSFBQT0RMblBfZVd0bXhkNVlzWG41LS1fdWRPY290STN3MWpDNzhWa3NpcUVSMGNfeWVXRGpNNElyTC1tZTJnX0c5Q3hhUGdYdw?oc=5",
-     "t_id": "Kasus campak melampaui angka 1.000 di Pennsylvania di tengah wabah terbesar di negara bagian tersebut dalam beberapa dekade"
-    }
-   ],
-   "title_id": "Orang Dewasa di Lafayette County Menjadi Kematian Campak Ketiga di Wisconsin Saat Wabah Mencapai 918 Kasus di 24 Negara"
-  },
-  {
-   "id": "siber-202611250551-74c4",
+   "id": "siber-202611250033-f1be",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Americans Begin Panic-Buying at Costco Amid String of Tech Outages and Cyberattacks, With $7K Generators Selling Out",
-   "src": "www.techtimes.co.uk",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcHBSZHZUMXBXeFBkRjRoYnYtZEppbHJmSjJPRGROSVNqc0NoSHVLckJSWS0zNVdhYlFERVBfaUY5QThfZ1BkQkxyZlZkSjFRV1JWbFRqdUphNDJyczlPaUVEb2lrSzVuOThYSXhxeGhVX1VtaE1IOHVaOG9hZ0NXSVVkcw?oc=5",
+   "title": "Cyberattack exposes unclassified information from CIA system, US media reports",
+   "src": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalY3dkdwSHpOS3ZjaFFNcGc1NGNpc1BwYTQ0dmczYXJYNkZpbHZ1dDYzVG4wazBvdmp2clY0eXZ3MnJxMlBZaEFJTkdEWVhmNVZtOUJKUml0YU5fVERVSGN2RzB0ano3WW9iTDRrbTFXU1EzMDNIRXAzOV9yeTRZcmR4YW5DVFVreDNCbTNobm1QYXF5ZExzSW1mNkpPTk9uS3ZVR09kQmY0amJQaGxYQXl4eEJUNVNDaC1CMzlGRXQ?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-25T05:51:30Z",
-   "last": "2026-11-25T13:35:43Z",
+   "first": "2026-11-24T21:57:00Z",
+   "last": "2026-11-25T10:48:10Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "AI, Cyberattacks Or Something Else? Why Are Major Tech Companies Suddenly Facing So Many Outages",
-     "src": "Times Now",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTUMxay0zOVZfT21yb2stNG9HdnIyUnc1WFd3ejk5T0lITjJfcEtuSzRaR3FMakNoMEJ3NEt1MFViZUJqT05jMFpqMmY5cHowQVpPR3FUZGpBM1JlVVNTX0tSMkNlLUhaR2pDcFpqN0c0NzZkcXU1VzlxUFJoY3I0Qm02bWNKMkZlUUVQZG9SX2g2a0RSSVd4SmpJemM5YXVwaUNheUdsTUc5R1hvMUtCcWJwTzA1dnljRDlMWTBKdFZxRzBTM0ZxeUdxX1NjRFhVVFVhR2tyTk1tbTlvcHZtdmVxSldzR1BmNlFvZVVaNkJyd9IB9wFBVV95cUxQVXpSVXlScnZ0TEdLdi16MEV3ZjVnLUR5T1hzWjkwSlQycUhOSEZYdkR4LXpNSlRsVjI1cXNwYUJ4RjZmbm1fUkxVUURsQk1taE5SVkQ2SXJsb3FpNXhIT0FmTVB3ZmNpZFJXTzFERU1VaEtNX1NmRHZRSllLYUMwLXROdGFWcmNqOWZIMkwzYnJScmp0SWkzU3FmNFh0dzF2UWZ5UFRDdVU1UUFvRVlGZEhTTnV6ZG9YRktidmw3VWFwSWJLc3pSbzBtUzlDMWktTHdrLWF4UUlnQUM0UW01MkktV0RDaXhIUnl4eHR0eXRwWUYwSG5Z?oc=5",
-     "t_id": "AI, Serangan Siber, atau Hal Lainnya? Mengapa Perusahaan Teknologi Besar Tiba-tiba Menghadapi Begitu Banyak Pemadaman"
+     "t": "An unclassified CIA system was breached in a cyberattack, reports say",
+     "src": "WXII",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXNxRU9OanpodHNkRTJEQjF6b3NqdUNOZmdLY213clRCYXZ3cW9CVWZQazFPWWwwNUN1bnZxTW5nRGNPaTdtekJQenNpVmJveG5KVXNJeEZHYjAwYnhLVzhwX29rRWg1VndZS0ZUWC1xb3JYSmVhdnBkZEpzTnprTElmOVE5d1pZcDVpaA?oc=5",
+     "t_id": "Sebuah sistem CIA yang tidak dirahasiakan telah dibobol dalam serangan siber, kata sejumlah laporan"
     }
    ],
-   "title_id": "Orang Amerika Mulai Melakukan Panic-Buying di Costco Di Tengah Serangkaian Gangguan Teknologi dan Serangan Siber, Dengan Generator Seharga $7K Terjual Habis"
+   "title_id": "Serangan dunia maya mengungkap informasi yang tidak rahasia dari sistem CIA, lapor media AS"
   }
  ],
  "errors": []
