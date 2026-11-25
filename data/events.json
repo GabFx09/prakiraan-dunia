@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T06:42:51Z",
+ "updatedAt": "2026-11-25T06:57:34Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,26 +10,14 @@
    "title": "Following nationwide shutdown, ground stops hit Chicago and Atlanta airports during Thanksgiving week",
    "src": "World Socialist Web Site",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzTzEtdW5GLTVZRU8wOF9wcEVKeGcyQjBqU1BEREppV3Z2NzZrczBvNXBta1ZxeVdqS2kxS2NiZFJQUkhoZ3h5WGM3bjZlcnc4Tm52a0J2dmZEZ0N6ZkFiR0k1ZWxoMDFt?oc=5",
-   "sources": 6,
-   "recent6h": 4,
-   "score": 8.0,
-   "level": "besar",
+   "sources": 5,
+   "recent6h": 2,
+   "score": 6.0,
+   "level": "sedang",
    "first": "2026-11-24T11:45:39Z",
    "last": "2026-11-25T04:59:35Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
-    {
-     "t": "Radar outage triggers second O’Hare ground stop in two days",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3I2OFIyWjVCYnRWM2NZRDM3V05Ma29HX1lZeERTRXl1bDRpR2lwdGFZOG9faWwwUjRhbTk4QW5rRkIyTl9GMnJwT2VVZGVQSXctMm9QbjV1ME5uWGtlUzNkWG1tUkRWQTEtU2xDUUxBczYyYlNEdU1BaGRTUjE2emt5RTFlN1dRaHdkR0RuaU0?oc=5",
-     "t_id": "Pemadaman radar memicu pemberhentian kedua O’Hare dalam dua hari"
-    },
-    {
-     "t": "Another FAA technical failure? Chicago O’Hare Airport hit by radar outage, flights delayed",
-     "src": "WION",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjdzQjF2c0xhUlZjM0ZSbWhkLWdJV3F3Z0lIR0dwOTlvTk4yTnRsaUFUajFlUEllWXkxaEhQdER5Q0RWZklnWDVIUnQ3ZDZRWlBRcElZaXl4dm8tR0g5LW9DdkhLTlphX0pncGpiT2FSeEk5aW9XMDB5OV83NEViZHJfalVkYVA1eURjTU5iZVJJbHlYUW5lczg2ZEZzX1lXd3FQSUQzbWpENW5GT19fM3dRLTNEekY1aWp2a2tkNms0VU90d2dj0gHHAUFVX3lxTFByN3NCMXZzTGFSVmMzRlJtaGQtZ0lXcXdnSUhHR3A5OW9OTjJOdGxpQVRqMWVQSWVZeTFoSFB0RHlDRFZmSWdYNUhSdDdkNlFaUFFwSVlpeXh2by1HSDktb0N2SEtOWmFfSmdwamJPYVJ4STlpb1cwMHk5Xzc0RWJkcl9qVWRhUDV5RGNNTmJlUklseVhRbmVzODZkRnNfWVd3cVBJRDNtakQ1bkZPX18zd1EtM0R6RjVpanZra2Q2azRVT3R3Z2M?oc=5",
-     "t_id": "Kegagalan teknis FAA lainnya? Bandara Chicago O'Hare dilanda pemadaman radar, penerbangan ditunda"
-    },
     {
      "t": "Flights delayed at Chicago O’Hare airport as ground radar system suffers outage",
      "src": "The Times of India",
@@ -39,10 +27,137 @@
     {
      "t": "Second O’Hare Ground Stop In Two Days Complicates Thanksgiving Travel",
      "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1FpVFlMdjM0ZVd4SnBuemk5a3dDekVDNTVjSEF6dVVreVE0blpCR2t0eUl6OWd0bWFzRWpmZXBWblVSYjJkSGp2cHZyREs3STAtaDlROTZsNEZBTnluelFjRWZrVzZ4Vi1jSUpQLTF1OFVRNVc4b2RlZUNUY19FNG1oV1ZBa0d0RkZjaG5DRXVLOXpzS2E3bElfTU5Zdw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1FpVFlMdjM0ZVd4SnBuemk5a3dDekVDNTVjSEF6dVVreVE0blpCR2t0eUl6OWd0bWFzRWpmZXBWblVSYjJkSGp2cHZyREs3STAtaDlROTZsNEZBTnluelFjRWZrVzZ4Vi1jSUpQLTF1OFVRNVc4b2RlZUNUY19FNG1oV1ZBa0d0RkZjaG5DRXVLOXpzS2E3bElfTU5Zdw?oc=5",
+     "t_id": "Perhentian O'Hare Kedua Dalam Dua Hari Memperumit Perjalanan Thanksgiving"
+    },
+    {
+     "t": "Chicago O’Hare Flight Delays Mount After Two Ground Stops in Two Days",
+     "src": "FTN news",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcU5xRkZsUXZHU0wyR3dmWFV0VUFhS0IxYTRMTnFqazgzcTAtdWt3Q3BPcmNULXJEN3B5Q0poNl92ZEFpc0pDeGp1VXFodzlLNk5rcWFzdWRENFc4TWhST3BzR2J5ZDlKamxzamRJXzBjSHhtRHJFaC1sVEZxemVSTzZPdnBHRDZGTDRiSnJqRVY?oc=5",
+     "t_id": "Penerbangan Chicago O'Hare Menunda Mount Setelah Dua Ground Stop dalam Dua Hari"
+    },
+    {
+     "t": "Chicago O’Hare Hit by Second Ground Stop in Two Days During Thanksgiving Rush",
+     "src": "Rus Tourism News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWZNSWVwaDVnVkZLZzlFZ3BoaHlxcjR4LVd1b05tUmtnbmxtNVFzdEtsWmk2TUtlYlNENXRyOVoxUlktVUFLQk9TcE54LW00a1FCVDFQZUozV3NISWR5MjFKSWRyeEMxMDN2dDdZYlF5b2Z6a0RtS0lXNDk4QWRHNFlNZG1jQklXZjVXdUN2OXBLNGp0RzdHdnJSbDFaSE9XOVJ0Y3Jpckk4X0pXcjZ2VS12bXZCWlo2anRz?oc=5",
+     "t_id": "Chicago O'Hare Terkena Perhentian Kedua dalam Dua Hari Selama Demam Thanksgiving"
     }
    ],
    "title_id": "Setelah penutupan secara nasional, pemberhentian darat terjadi di bandara Chicago dan Atlanta selama minggu Thanksgiving"
+  },
+  {
+   "id": "indonesia-202611241011-916f",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Kapolda Bantah Mutasi Besar-besaran di DIY Terkait Ricuh Demo Yogya",
+   "src": "CNN Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1c5TV9mUVF1dWZrcGJXLWpIYmlVbHk4VE5qa0pCV0VWTDNWaXRMNEJYajVMOXhoN081WHhEenNUZC0zNzZiVVFSQTdtcmdjeXFvS3RLMVFKeVRiU2Y4ZWU2TnEyaUoxaUxDR1RGMjdjTHp5SlpLWmE5dHBBSWt2NFg3TTVkOFI4MEtNaTRuRWtmQzExeUN1Q0JoX1pQdjVLNGNudUp4SXhfZE1FWmVxZ3RYZ081S3RPVTZ2M1k0QnFvQ3FxMEtjMFBaWdIB0AFBVV95cUxPZm9jOUF4Njd3Z1E5ZmVmU0FtamF6X2NydlVHYnRvbG5oMGlEYWEwdmJuZUhuWEZRdGg1TmFnRlBUaVFuVTdZYXU3MDFDckw2WnJuTF9vMkZpcnR6QmxnOTl5eUtkejZEUnNiYzJKZ1ZDcFdTWVdrS2IxNXBWZDdmTnZtaDZ5VXFtSWZmQzl3eU5MeG9sSXlJWllESFJ5dXYxa2NQc0dHcGlnWjJvdlRsM2x0U0VpeGNPb0ZrZm5WeWtWNmw3ZnlXMWMwVnZ2ZzRZ?oc=5",
+   "sources": 5,
+   "recent6h": 0,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-24T10:11:13Z",
+   "last": "2026-11-24T17:50:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "PJU Polda DIY Ramai-ramai Diganti Usai Demo Ricuh Yogyakarta, Kapolda Baru Beri Jawaban Tak Terduga",
+     "src": "VIVA.co.id",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVm5nQ1d5UGZoNkRUSy0zQjQ1emJTaVZOSzVFZFNyMUpoMGloWjJJbFZoTVZmUWZLR1hyMkt2bThPMm9nOEp2WGlQb2U3V2NYak5Rd2J0V3RmVjczRXhxODQ3TVB6bWJSdEJCZS03N2FEX3RTbVB6NjNXZWxReGtFc21oaTVZcW1EYld5cjd5d2hSaHRja3J2ZWFfYzlGVkxhdFlaVEF6RkFxUXlMdGVreDZpb2FwQnhWXzRqU19IY3hROTQxMzdiSXdmc0FZdFFoZ09OOUdXVmNvNng3UUHSAeMBQVVfeXFMTkVSOTVHdVRkdy1DTlZLdkRXcDdkSzNhZ3JwVU04d2ktR3NhQldqMnJuVW5mQmo3bmJJOEdhc3VwOHd5TGhEOF9TOGw2RWNDRWl2T0U3dmZwVDc3SEViTmp6Ti1XTlA3VUJzOVF5Z05YUTlKOWRTN1ZVOXQ4X25EWmlyQjlGOGVuNTIzb2Y5NkZ2M2JzVl9ISWc2aFNXZHpVTDFabGswbGhEQzkwQ0VsMzZldkN6MWlTWXhsY1JTWXAzOF84VU9aa0xPRV9ZOU9JWlNZR1ROYzJLVGZzMnRTZWd4WTA?oc=5"
+    },
+    {
+     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
+     "src": "Republika Online",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
+    },
+    {
+     "t": "Kapolda DIY Bantah Mutasi di Tubuh Polda gegara Demo Ricuh",
+     "src": "detikcom",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUQzdnBEZzA4blpUWHlIV1hYaE13VE1LUVBpQ3hVNExiSzFxa2JMcFF6SjItSFJXOU9iM01ud0RKZjVodzkyNmRVV1c0QVR3TnZzNm1CdW9MZ3B0VlMxOVRuQWVjQXpubmt1eUtoN2hkeU0tNjZsbjlFaW9ydzhWd2NWQUMwRHJ5VWRZSnhZM0tuYjFYRDZ4Tm54cVUzZ2dka1Nzc0l30gGrAUFVX3lxTE5TSWVxaUdjWmZMN1RjX2xaQTliMWpnR2c2QW5ZYk5FMDA1WVl5T2ViRXN6cTZmRlN6Q1pZYnFXQWs4WGM3MUN4RnNET3JGcUU4V0dJT000VHpFa2NRcWdMQnp5T0cyUVNUcF9ZcDBHNDhwZjc2QjJGMGJlYVlfY2czUlhTbm1rZHFsdmVMNl9QekM4OENTUFlWaGpRS3BHaV9JZlZ1UDI0SXlDTQ?oc=5"
+    },
+    {
+     "t": "Kapolda dan Pejabat Polda DIY Dimutasi Besar-besaran, Abioso Bantah Terkait Demo Berujung Ricuh",
+     "src": "Suarajogja.id",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUxsQTEtbTNBZFBXVEdpTkRTc2M3akZjMjZPdW9uckhOOXhkTldibkhjRlBvRTFpUVpRN3h6X2I0blBuLXBldWJnTDM1VmMtR24yMTVvSFA3N2Z5TGFvellGN0pYQzZDU3FQWUhha1pGSEVsZFJWU243YlE1RHRxSlFoS3J0WnFwSUhvVjROTDRIZVQ5MWs3c1BhM0pneDAteDRjN0RVaF9wZG54TFFobkNUSXBsVGVNQWdpazVZTDhwWExpMDFmVGNpSFRSOGxoSzFmWXVPNVPSAd4BQVVfeXFMTVpWRmZEUVF1cTA3Vkw0MFI1dFdUSWo0X1oyckRsQ3NkU25ISm4tS1ZvemxLX2ZXWUpqRVF2X1BETXhXSXdGVm1hTDZQUjRiX2RsaHkwaENFcDBhNVhuLWVXRVZWV1JyQm9DeVdRNXZBbXFlOS16VzBMd1o3czZVNTRra21EMWliS08tZnRsNjg3aUh3YlM3S0NWM1R2YWRUQkZJZ0JuellDRVFVcWxYanVaVGN4eGlFOXdUd2Q3SFJFR3lBVjRabktiM3hxWmtNTFhMSDRMdGRyQ0lFck1B?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "politik-202611241022-acb3",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
+   "sources": 5,
+   "recent6h": 0,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-24T10:22:33Z",
+   "last": "2026-11-24T17:36:25Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain’s progressive leader called a snap election. But will the far-right benefit?",
+     "src": "GZERO Media",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUG0xcGwzM0NjS3FDMzNxa1VBWVZMT1k0ZkYzY0gwVWtIUEJEeFpOR05vWmJZUlRtejNBei02YkdEU1NyRThDc0wycXBOWW0xaXNzclVzelhDUzh6YWJfQTllSDY5RUtXcldSM3lfMFBST2I0X2tlT0VSTDlCMXV3TFF5al9TTFF2YnJvbEJVazZCWS0zVkdLelE5Y1Q0a1U5dFBDUWZ6aFZnZVZPTGNMamtVMVRHakE5UExzZw?oc=5",
+     "t_id": "Pemimpin progresif Spanyol menyerukan pemilu cepat. Namun apakah kelompok sayap kanan akan mendapatkan keuntungan?"
+    },
+    {
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "inkl",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFBoR1RYWDZYVGMzYnAyM0xjQUFnTHZPalc5RFpURGJGcmVtbjg4eHBFNjZnUVlTSnFOVVVJUDB5UVVlMDlScEFScVBjNExQYnBTN2xEYy1GZXRNVUVKTGZQRnJTLXZCdXpIejcySmVSQ2pRZ3hjS01wY21yN09Ldm5Ba0x2MXYtNUh4Tzc5SVlheTVzNklGV3dIYjc1bnNsZFc3OGlHTDVkMWlIREdPaVZn?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+    },
+    {
+     "t": "Why Spain's Snap Election Could Put Vox In Power",
+     "src": "ИФЗ РАН",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
+     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
+    },
+    {
+     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
+     "src": "EUobserver",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
+     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
+    }
+   ],
+   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+  },
+  {
+   "id": "indonesia-202611241636-0579",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "BEM SI Bawa 7 Tuntutan ke Istana Saat Demo di Hari Guru Nasional, Apa Saja?",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUZuNGJiSFdGLVVmNXl2cXh5YUlhYm9fOUpMbVh4Q2dPQ2RpQkJfYnljWllBejlDd1lDbk1HX2VzYkVaYTBETXR1ZHNjTzcybXhiMnNqTDhVZVlYTERlVExuSG5wenctVS1ib3J0T3oxRzIwVFlBT2pLS1U5bDdzOE9Ed2FiX0ZVUUJhSlU4enhod3ZsY2pLcmJYM19qT181cnpwcDFYTXhMTUU1LVRiaElpOFlJc3UzWUJxZV83NmU0R2hnMk1r0gHHAUFVX3lxTE40ZkQxZkU4eV9TYjRJdmg5T3pKWkpnTnFwUlQxbXhHZENNT0tBYzNoamFTb0h6MDhVT3J2QXMzMnUxYUN3bE04b2VhM3NRbkpRN3gxOWlmaXQ0cEpab1R2TThiN0FLTjhUQUh4amNCRmlRR2d1OG5ORm0wRmZwSms0VnE5S1JuTExoMkR3QmpwbzZkYW9jeG4wN3FMbFNhZkhJVzFFeWRjeExXbF83b2NydEJoYXRTM1dfQ0ZiY0YtZHUtQkR6X1U?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-24T09:43:00Z",
+   "last": "2026-11-25T05:35:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Mahasiswa Demo Hari Guru Nasional 2026 di 3 Titik Jakarta, Ini Link CCTV Pantau Lalu Lintas - harian.disway.id",
+     "src": "HARIAN DISWAY",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbzlSZmNLRU9wczRVLWVTU2NaTldFMHJfVVdiLUhIb1V1S1JJMDZFdVUxTDJxNlNjUGpVSnNFaHVTMDA0d3BQajNydXhWM2gzbzlLQl9KYmVFNzdKTEFsZ3BId0lMUWtlRXA3RW54aU8yNFA4LThqZ3NDcks3ejkyWUMtTzk3T0YxSDhJZXJ5cnV2STRBV3ZUWHlzR3FyT2gtZUoxQ3F3OF9ub2lZdHlQaDE3Z2VMSWFrRjBidWo0UC0zUlBaa2fSAcQBQVVfeXFMT0hNZWh1dFpDTnR1WmcwRXB1YnJUYkVhaHoxV2pNWkdnQkh0eUR0YklYTllpYlI1ejBzd3poYW5aWExPX3RqOUhKTWNweUtBbGQwQ1hYcGlhNDhYaE9kS3BUWTAwaHh4dUV2N2dsRGFBMDVqTzkycDJqaTVvNlZfY3dSRm9kcXNMTjZWYW8zdEc2T2NmQlFETGNuaG9BakFTNmRkdFpLY3U3TUxSaXRkWTdoNWhfZ0JZZjBHQ1RRTnV5UEpSQQ?oc=5"
+    },
+    {
+     "t": "Tujuh Tuntutan Demo BEM SI di Hari Guru Nasional",
+     "src": "tvbangsa.id",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0l6ak1JNFctX1B5OUJpQjFMaG5vWkpEckJQQmliUEpkVk5KRlFzVUFycTlUMnFQUndqaEtZclptWnlSY0ZxSUlnaGYyOXlhWFl0YnlrbVFSODhuN2ZvdWpOajgzb3pyVFc2N0lxaHloWEJ1LW9iZTY4b3dCM0ZqSHl0X0lhYUw2SkZXbHlLdmc1Zw?oc=5"
+    },
+    {
+     "t": "Tujuh Tuntutan Demo BEM SI di Hari Guru Nasional",
+     "src": "Liputan6.com",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0NQSUI3dTJNR2RCWmY4cGQ2Z2VLVmxaVXhTSGtjdVR1TnlHTXpfajVZV3F5ZDBoNjl5aHZoZVRWRXgtRm9yeWE1ZjFCcHAyN2ZNWTQ4NEszZ1poWEdWSkM3U1NxUlQ2a25vUnB2NDlETHpfY3A5NXZ1eEZwal9BeG41VDRlb3pyM09lS3ln0gGOAUFVX3lxTE43Q1BJQjd1Mk1HZEJaZjhwZDZnZUtWbFpVeFNIa2N1VHVOeUdNel9qNVlXcXlkMGg2OXlodmhlVFZFeC1Gb3J5YTVmMUJwcDI3Zk1ZNDg0SzNnWmhYR1ZKQzdTU3FSVDZrbm9ScHY0OURMel9jcDk1dnV4RnBqX0F4bjVUNGVvenIzT2VLeWc?oc=5"
+    }
+   ]
   },
   {
    "id": "siber-202611241932-7e03",
@@ -120,6 +235,71 @@
    ]
   },
   {
+   "id": "kesehatan-202611241209-be44",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "‘Unprecedented’ Ebola outbreak with no cure could spread worldwide, WHO chief warns - as death toll hits grim 5,500",
+   "src": "The Sun",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTVFQUs3VkN2TElTWV9vdXBLdXJ6Y2RQUk1sLVJkcTJvdmdGRDl5WHdsNkNtSFBMOHRwS1laSWNZUUNnRmxScU0wQU44ZER3VExqdlJxY0YzbGNRZzZnTGtQNHhucTVubFlzcVFoYnFNR3o5cW1OWllfX0lsTmg5QWFUSl9zb3BjcXZjem9B?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-24T12:09:00Z",
+   "last": "2026-11-24T14:46:04Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Ebola outbreak update as of November 20",
+     "src": "Outbreak News Today",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa2tyTVcyRm1xODJ1ejQ4ZjBZenU4SUpaN3dCSnF0Q05qQ2RPelVrdlJLdVdpdFRMQm5FRVdjMVpYSzVvZzdkb21TTGV0NGJyNFBpUXB3WjZ0ZUU5bXhCbG9sYkRiSVpYaktSMjYtVDRMVnNLejVTR1pWQ0tHQ3BiQWVoYTItU3p0?oc=5",
+     "t_id": "Update wabah Ebola per 20 November"
+    },
+    {
+     "t": "Ebola outbreak continues in the DRC",
+     "src": "The Guilfordian",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3pKTm9fQ1poanl0b1RYYi1BVjRiYXRDZUM5X0U0T1dZdTZSTlRoTGJhYUtuYUJGdDhGOXNnVm1vQkZycWVFc0hsZnFNb3lPeHZfSEJScXhQUC1SSXNJSTdIcmpWODNIQjBZaU5BQkpVQWlvUWhuVENNWUhHcUJWT1FxZHZaaVFEdXZjbm0wRms?oc=5",
+     "t_id": "Wabah Ebola berlanjut di Kongo"
+    },
+    {
+     "t": "Japan conducts first Ebola response drill amid outbreak in Congo",
+     "src": "The Japan Times",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWNnNzB4bmhNOTUtclZoemtxZGxsbndYSi1yUjNTWEpQdGxBYmFxcm9tbnMtbGxwaVJENDJVU3pzZjRZazMzSnNZUVBCVEw2ZmR6R19FSVFxQlI0WTRsVktmRDhnTG0wM0VkUUdsbHBBR2pOSWUtbG1wYVd5RktkNU9Bdkk2R0VMVnpEcA?oc=5",
+     "t_id": "Jepang melakukan latihan tanggap Ebola pertama di tengah wabah di Kongo"
+    }
+   ],
+   "title_id": "Wabah Ebola yang belum pernah terjadi sebelumnya dan belum ada obatnya dapat menyebar ke seluruh dunia, kepala WHO memperingatkan - dengan jumlah kematian mencapai 5.500 jiwa"
+  },
+  {
+   "id": "indonesia-202611240800-7bd7",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Berujung Ricuh, Buruh Garmen Tuntut Kenaikan Upah",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRy1hRzhKZjVvdTREa2VrZ3NYLWluanZJbnJIMFNGYmhjQkVUUVZPVlRWSjRUNy1ZN3pSVnpZX3lqam5wVmtVb2JNbGtxbHp5elJTVExyRnRZREVjUG9WTHBVdS1uZENER2VNSjUwdmxSMEg0SV9RNzVDaUxuSTlPSEhPckxGalVaZXNTTUZpMGtycm92aFZEQ0VqQ3c3c3VhSC1MeDdvZTM2U0NFT3hidzV30gG3AUFVX3lxTE52NkIwdUlNcVphUXlqYl9aSmI5eFU0ZDF4Z2paN0JyaHVaa0hWWXI0NDN2aUEybGlXM1gzR3lEQkFCQ0lnYWllT3piNkE2aTRzVTVuSUpiZDJCX2FzQzNvdmVUVTUxTXdEa3J4bG9xd1VER1cwUm8wLXl1d01LYkFGZ1lxUHdWMzY4ZUZWRFVmcGhNV3UwT1I5YnFBcTJrZ3lHRk1XaEFQdEhoWk9UTzVKNVVmZk1ZVQ?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-24T08:00:00Z",
+   "last": "2026-11-25T03:05:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Demo 17 Ribu Buruh di Surabaya, Ini 4 Tuntutan yang Dibawa ke Kantor Gubernur Jatim",
+     "src": "Jatim TIMES",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVl1c3QwcWdRTWVLYS16U2E0MDZkempiSTRjakZtQU1INXFXU0VJTmRjb2JLOGt5TVdIQ0NLSXBSMGlPN2kyZGxaQTZFUzJIVTlYQWxsVERnaFJrREF1eTgxdzBJZlVYSEtfa3lqdUlWRGZpWlV2eHlDOExXWWRhcU45OC1RMmVIbmpOZkUxT0ZTZkJsWDQtTk96NkptN2cxcU94c3hjYlZBc1ZzSFBDRHRsUDIwTHNfVkFJZVE0YnN2NC14aGx5Mk9ydDZUeFNfeXg0?oc=5"
+    },
+    {
+     "t": "Demo di Kantor Bupati Lebak, Buruh SPN Minta Upah 2027 Naik 15 Persen",
+     "src": "bantentv.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjV0bDB3ODNFRmMxVXNNQ1FraDF4TDJjMFJZN0hZNjVvVEN4VTNobGJ6akJvT25vdXlxTFNjeUdiR3NFXzdlQUotWEJGRmRUbDBLU082UW9xVzRWeFVxbXRDQkZ0RGZOTDNEam9mUWtQR2tVaWZwUmVBSENDS2M5aFItZ0d0ekI1OVBCQzN1RDhLV29FcVotUGlWNWpoUQ?oc=5"
+    }
+   ]
+  },
+  {
    "id": "perang-202611242133-5fb1",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -176,73 +356,11 @@
    "title_id": "Pemadaman listrik di seluruh negara bagian mengganggu penagihan, pengajuan klaim, dan manajemen kebijakan untuk beberapa pelanggan"
   },
   {
-   "id": "kesehatan-202611241209-9bcc",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Ebola outbreak update as of November 20",
-   "src": "Outbreak News Today",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa2tyTVcyRm1xODJ1ejQ4ZjBZenU4SUpaN3dCSnF0Q05qQ2RPelVrdlJLdVdpdFRMQm5FRVdjMVpYSzVvZzdkb21TTGV0NGJyNFBpUXB3WjZ0ZUU5bXhCbG9sYkRiSVpYaktSMjYtVDRMVnNLejVTR1pWQ0tHQ3BiQWVoYTItU3p0?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-24T12:09:00Z",
-   "last": "2026-11-24T14:13:21Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Ebola outbreak continues in the DRC",
-     "src": "The Guilfordian",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3pKTm9fQ1poanl0b1RYYi1BVjRiYXRDZUM5X0U0T1dZdTZSTlRoTGJhYUtuYUJGdDhGOXNnVm1vQkZycWVFc0hsZnFNb3lPeHZfSEJScXhQUC1SSXNJSTdIcmpWODNIQjBZaU5BQkpVQWlvUWhuVENNWUhHcUJWT1FxZHZaaVFEdXZjbm0wRms?oc=5",
-     "t_id": "Wabah Ebola berlanjut di Kongo"
-    },
-    {
-     "t": "Japan conducts first Ebola response drill amid outbreak in Congo",
-     "src": "The Japan Times",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWNnNzB4bmhNOTUtclZoemtxZGxsbndYSi1yUjNTWEpQdGxBYmFxcm9tbnMtbGxwaVJENDJVU3pzZjRZazMzSnNZUVBCVEw2ZmR6R19FSVFxQlI0WTRsVktmRDhnTG0wM0VkUUdsbHBBR2pOSWUtbG1wYVd5RktkNU9Bdkk2R0VMVnpEcA?oc=5",
-     "t_id": "Jepang melakukan latihan tanggap Ebola pertama di tengah wabah di Kongo"
-    }
-   ],
-   "title_id": "Update wabah Ebola per 20 November"
-  },
-  {
-   "id": "politik-202611241022-acb3",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-24T10:22:33Z",
-   "last": "2026-11-24T12:22:00Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Why Spain's Snap Election Could Put Vox In Power",
-     "src": "ИФЗ РАН",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
-     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
-    },
-    {
-     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
-     "src": "EUobserver",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
-     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
-    }
-   ],
-   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
-  },
-  {
    "id": "perang-202611242133-5fb1",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says",
+   "title": "Saudi civil defence says 11 injured in Houthi drone attack on Riyadh tower",
    "src": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
    "sources": 2,
@@ -260,7 +378,7 @@
      "t_id": "Koalisi pimpinan Saudi menyerang Yaman setelah serangan pesawat tak berawak di Riyadh melukai 11 orang, termasuk dua warga India; Peringatan masalah AS"
     }
    ],
-   "title_id": "11 orang terluka dalam serangan drone Houthi di menara Riyadh, kata pertahanan sipil Saudi"
+   "title_id": "Pertahanan sipil Saudi mengatakan 11 orang terluka dalam serangan pesawat tak berawak Houthi di menara Riyadh"
   },
   {
    "id": "indonesia-202611241636-0579",
@@ -340,15 +458,15 @@
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "US reminds citizens not to travel to Ukraine amid Russian missile, drone attacks",
-   "src": "A News",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdsbWcyQlc4ZVhQaXZ4dllkTVVxaVNGdG9Dc3gtdmJEMGFDMnBNQjBqZmRLN2JmUFpEUjBIeXJhcTgtSUY1QkdFdzlNT1poVE1LWkdfYlpUOEdCX3IxMU1ZZm9YUjdrSC1JY2k1aXNiWHJkWUQxX0pIYW1sT2lvaDA3M3NKa0ZVNm5ac2dWajI1ejlfREtBeDdCV2daMFFOWS1sSVdCYTU3TGdOb1ozWWRUQXZ4VExucUxBZWtn0gHDAUFVX3lxTE5YQjNSRk81Y0FxbE0tWXFTRFYtWnhlOTR1Z3hreGhTSkZGMGlwQWN0dXp2enFKQ0x4dlZaSFd4RWlJQjNYTVA5OTlLa1NKVU9MSFE4ZWJWX0FoaXB5bmdYRGpjNUlHaURycUl3UGxqMU9UWW0tNHZHOF9GVnd2QUFYVUg5VlUyTHVzdFJIWXNXTXFWT3RCRjYxZ1J0TlRYRHpfT1NvN0RYemRpUm9zeWZVVndVeTd1Q2JSdFVzOHRIX1JqQQ?oc=5",
+   "title": "US Reminds Citizens Not to Travel to Ukraine Amid Russian Missile and Drone Attacks",
+   "src": "US Muslims",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREdJbEZ1S21taEtwMURuTGhHYmJmeGdib0t3NURxZXBuLUg1SGZ6WVNYVUpYMmRPeDZPYzNNNVh6aG12ZVJuQzdfZzl6bXliemVPWUdsMmJCWU02OUl2N1FDZDJCX3FfdFUwQlVxZkJmRl9aS2JoWHduUWRrbnpuQ0pjZEhQTzhpdkJTQzhZOUY3Snp3Q3ZRUF9GQjl5dm1nTi1VNl8xZG5nSTZ0UThHMHVLT2RpVmxBMWxzQy1R0gHOAUFVX3lxTE1oaFdZWC1tRFZHZFV1YU5oR3B4Vk16UkFpX1l1UTRSNjgxQzdxemVScHVnUDI1QmZqZDVmQjVyNkNLd0gzelZnNzFtY21UV3ZkZ0RIREdqVUE3aG1FYVVQSFhlVzlQQzYwN3NGempwNGdBY2FUY0FLbnBhYWptVWI5Vl9PQ0NLSWZXZ0ExU1AxVm5CS2l6S2FCVi1tRmJHNVpycUYyNThoNldVYTQxakJlcGd2Y0JZVUs0QmJWUGMzZk80cjZ4ZlhKcHlFMnN3?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
    "first": "2026-11-24T07:29:23Z",
-   "last": "2026-11-24T16:09:19Z",
+   "last": "2026-11-24T15:33:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
@@ -358,30 +476,7 @@
      "t_id": "Laporan Trump Meningkatnya Serangan Rudal dan Drone Iran"
     }
    ],
-   "title_id": "AS mengingatkan warganya untuk tidak melakukan perjalanan ke Ukraina di tengah serangan rudal dan drone Rusia"
-  },
-  {
-   "id": "indonesia-202611241011-916f",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Kapolda Bantah Mutasi Besar-besaran di DIY Terkait Ricuh Demo Yogya",
-   "src": "CNN Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1c5TV9mUVF1dWZrcGJXLWpIYmlVbHk4VE5qa0pCV0VWTDNWaXRMNEJYajVMOXhoN081WHhEenNUZC0zNzZiVVFSQTdtcmdjeXFvS3RLMVFKeVRiU2Y4ZWU2TnEyaUoxaUxDR1RGMjdjTHp5SlpLWmE5dHBBSWt2NFg3TTVkOFI4MEtNaTRuRWtmQzExeUN1Q0JoX1pQdjVLNGNudUp4SXhfZE1FWmVxZ3RYZ081S3RPVTZ2M1k0QnFvQ3FxMEtjMFBaWdIB0AFBVV95cUxPZm9jOUF4Njd3Z1E5ZmVmU0FtamF6X2NydlVHYnRvbG5oMGlEYWEwdmJuZUhuWEZRdGg1TmFnRlBUaVFuVTdZYXU3MDFDckw2WnJuTF9vMkZpcnR6QmxnOTl5eUtkejZEUnNiYzJKZ1ZDcFdTWVdrS2IxNXBWZDdmTnZtaDZ5VXFtSWZmQzl3eU5MeG9sSXlJWllESFJ5dXYxa2NQc0dHcGlnWjJvdlRsM2x0U0VpeGNPb0ZrZm5WeWtWNmw3ZnlXMWMwVnZ2ZzRZ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-24T10:11:13Z",
-   "last": "2026-11-24T15:36:14Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
-     "src": "Republika Online",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
-    }
-   ]
+   "title_id": "AS Mengingatkan Warganya untuk Tidak Melakukan Perjalanan ke Ukraina di Tengah Serangan Rudal dan Drone Rusia"
   },
   {
    "id": "siber-202611241218-438a",
