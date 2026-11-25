@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T19:28:47Z",
+ "updatedAt": "2026-11-25T19:43:33Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "UNILAD Tech",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUxpOHUxeVpQXy1UR2NXZ05GeV9fS0p3dHg5RDE4Rk5UV1NEZDJJTGY5OFZXTVZxUjRrU1lNamJfZm5XdXhDU0hWNDNydEE4czNVNVN4akRrRVhlOWdvcG42blQxcGltdFB5NE96WERfYWkzZGM3dmI2eEs3LXlmRFlIS2pSMWNjY25MbEhlQ3FjM2pFWlE?oc=5",
    "sources": 11,
-   "recent6h": 2,
-   "score": 12.0,
+   "recent6h": 3,
+   "score": 12.5,
    "level": "besar",
    "first": "2026-11-24T18:14:30Z",
    "last": "2026-11-25T17:10:19Z",
@@ -25,6 +25,12 @@
      "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
     },
     {
+     "t": "Microsoft Declares Code Red After Major Global Outage Disrupts Outlook, Teams and Copilot",
+     "src": "Speaks Media",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeF9ZV0FmTXRSc0VMel9kbXRSdWc1dU5oQlNoT29jVV9rdXlBWlV4dlFxSWF2QmE1bGVySE1wN0VQUWVDNWF3endOX2wtNnpwR2JvRUtESFVhTmJYZ0JxR1d6RjV5RWttcHE5YzhNZ3pxaUdubXRMVGJ2RmZxOHROVzlBTVFIamg5LUlvMVh2YTljd3B2eGMxMEdvUUU5cUEycjFNRXc0bUJVWWpWWTM4eS1JdDJwZmhvMDNraU1n?oc=5",
+     "t_id": "Microsoft Menyatakan Kode Merah Setelah Pemadaman Global Besar Mengganggu Outlook, Tim, dan Kopilot"
+    },
+    {
      "t": "Microsoft 365 and US air traffic outages expose travel insurance gaps",
      "src": "https://www.thetraveler.org/",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakpXUnNLQVVnckxaaXFzYWhNaFlqUi1iX0wtcW5uYXhZN0lhZVJWRlB3SlVFUzNmYWIyaGd6SGtEVWdRSnRrY2JNOEd6WUdFUC1ROEMxTFprQW8zV2EwcEI5Y3QyNXkzcXcyTEVpTXNGMVJwWVJwLXpHRjJTOGpxQkRqSzV0X2JMLWVQdHRrRURZdDBOS2Q0RW11amdmRkE?oc=5",
@@ -35,12 +41,6 @@
      "src": "Wisevoter",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0tfdzFhTTFDcmxzbGlfajVVN3hVSWk2dFNqNnFEMHN2UTdMOUlrNDJGVmJDd3dzcHRCVVdrUEwyNHNsdEtqakZoS2J6aW1sRjFReXZfelVvc0ZrYkhEcmM4X2pMT2hiajdkNm1MR2dyRkFhMlc5QXI0dm00eEw0YVJKMXo0TGxrZEd5SlhPdnVVREk?oc=5",
      "t_id": "Pemadaman Microsoft 365 Mengganggu Bisnis di Seluruh Dunia"
-    },
-    {
-     "t": "Microsoft declares Code Red after Microsoft 365 outage, targets one-hour recovery for global outages",
-     "src": "ForkLog",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3R6VEpSc1Q2Y0hJdVg1d1BMU0d1Vk9vS0JSdEVFdUNscVM5blUtbWVJMUJUV1FpU2RwVDZtMzF0dEowZmhxR0dKbFlPajUyVXdDdkU0V1VHR1E5Y2hnc2ZfUXJneGpIRURvMExKMmg2OHI0dl94WkJUdVJXb0czWjdtTGxGR2NkZVJfY2s5T3NnbUp6dEZ1Snp0Y085SUhOcnBuc2lYNDdWUEVPMVhhNk5iaHl5LThYTHczR1F1TGw?oc=5",
-     "t_id": "Microsoft mendeklarasikan Kode Merah setelah pemadaman Microsoft 365, menargetkan pemulihan satu jam untuk pemadaman global"
     }
    ],
    "title_id": "Microsoft mengeluarkan deklarasi 'Kode Merah' setelah pemadaman besar Outlook"
@@ -84,49 +84,6 @@
    ]
   },
   {
-   "id": "transportasi-202611242240-a662",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "O'Hare Equipment Outage Triggers Ground Stop on Nov. 24; Refunds Available, but U.S. Law Sets No Fixed Delay Compensation",
-   "src": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVTgwQ1piYm1fZ3IwZVMzRVB6OWJreGZ5VWpPSW5BNk1CUndQLXU5X1NNSEZpTjZkc1FQZzZfZ0hKN2I0dV9Ob19FTVdocmo2T281dGQ4dlZnc2lXdmZEWHVQNjU3OU80N1I0WWlqN2d1SHc?oc=5",
-   "sources": 7,
-   "recent6h": 2,
-   "score": 8.0,
-   "level": "besar",
-   "first": "2026-11-24T17:45:40Z",
-   "last": "2026-11-25T16:45:43Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Chicago O’Hare Chaos as Radar Failure Triggers Second Ground Stop in Two Days",
-     "src": "Aviation A2Z",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BrQktocmNzVTJQNW15NXdFTmltVVExaHNJOFE4MjZkMUNaREhOWjFjS1NSaTBVMXZTU1FZVFFsdTVyUW54dHo2cjNfNkQxZW10YmJOaXhrbU0wM0RCaEJkTGRZZWEwdFB0aVVibXo2dU5DYTNtVHRGUjZPN2dxcGlxeGx5SF9iRXZmRTBtajd3VGpXY01aeHRnVm05M0JhcDlPaEEzcXB4bkRsV0tPQnJYT1N2dFBNcnlXV0QzMA?oc=5",
-     "t_id": "Chicago O'Hare Chaos saat Kegagalan Radar Memicu Ground Stop Kedua dalam Dua Hari"
-    },
-    {
-     "t": "Delta tech outage and FAA ground stop snarl U.S. Thanksgiving travel",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2h0VThaXzVNT2pmTlp0bm1lSFRqNURTaGFjMmNGUGoycVVNcjJQM0dlc0NiMEdjS1pJQW5HZFlub04zLTNTdHdkelU3T256aWo3dldUV2xPZV94enVLVHhTUV91bDhocEM0SWtuSVU1ZThTaERUU3dUT3dBQ1BLS1hlQmpPQ1BOMWZ5MkVYQzVlRDRPYWdEYS0wZzM?oc=5",
-     "t_id": "Pemadaman teknologi Delta dan pemberhentian FAA mengganggu perjalanan Thanksgiving di AS"
-    },
-    {
-     "t": "Following nationwide shutdown, ground stops hit Chicago and Atlanta airports during Thanksgiving week",
-     "src": "World Socialist Web Site",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzTzEtdW5GLTVZRU8wOF9wcEVKeGcyQjBqU1BEREppV3Z2NzZrczBvNXBta1ZxeVdqS2kxS2NiZFJQUkhoZ3h5WGM3bjZlcnc4Tm52a0J2dmZEZ0N6ZkFiR0k1ZWxoMDFt?oc=5",
-     "t_id": "Setelah penutupan secara nasional, pemberhentian darat terjadi di bandara Chicago dan Atlanta selama minggu Thanksgiving"
-    },
-    {
-     "t": "Radar outage triggers second O’Hare ground stop in two days",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3I2OFIyWjVCYnRWM2NZRDM3V05Ma29HX1lZeERTRXl1bDRpR2lwdGFZOG9faWwwUjRhbTk4QW5rRkIyTl9GMnJwT2VVZGVQSXctMm9QbjV1ME5uWGtlUzNkWG1tUkRWQTEtU2xDUUxBczYyYlNEdU1BaGRTUjE2emt5RTFlN1dRaHdkR0RuaU0?oc=5",
-     "t_id": "Pemadaman radar memicu pemberhentian kedua O’Hare dalam dua hari"
-    }
-   ],
-   "title_id": "Pemadaman Peralatan O'Hare Memicu Ground Stop pada 24 November; Pengembalian Dana Tersedia, tetapi Hukum AS Tidak Menetapkan Kompensasi Penundaan Tetap"
-  },
-  {
    "id": "perang-202611242133-2926",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -168,6 +125,49 @@
     }
    ],
    "title_id": "Pertahanan sipil Saudi mengatakan 11 orang terluka dalam serangan pesawat tak berawak Houthi di menara Riyadh"
+  },
+  {
+   "id": "transportasi-202611242240-a662",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "O'Hare Equipment Outage Triggers Ground Stop on Nov. 24; Refunds Available, but U.S. Law Sets No Fixed Delay Compensation",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVTgwQ1piYm1fZ3IwZVMzRVB6OWJreGZ5VWpPSW5BNk1CUndQLXU5X1NNSEZpTjZkc1FQZzZfZ0hKN2I0dV9Ob19FTVdocmo2T281dGQ4dlZnc2lXdmZEWHVQNjU3OU80N1I0WWlqN2d1SHc?oc=5",
+   "sources": 7,
+   "recent6h": 1,
+   "score": 7.5,
+   "level": "besar",
+   "first": "2026-11-24T17:45:40Z",
+   "last": "2026-11-25T16:45:43Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Chicago O’Hare Chaos as Radar Failure Triggers Second Ground Stop in Two Days",
+     "src": "Aviation A2Z",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BrQktocmNzVTJQNW15NXdFTmltVVExaHNJOFE4MjZkMUNaREhOWjFjS1NSaTBVMXZTU1FZVFFsdTVyUW54dHo2cjNfNkQxZW10YmJOaXhrbU0wM0RCaEJkTGRZZWEwdFB0aVVibXo2dU5DYTNtVHRGUjZPN2dxcGlxeGx5SF9iRXZmRTBtajd3VGpXY01aeHRnVm05M0JhcDlPaEEzcXB4bkRsV0tPQnJYT1N2dFBNcnlXV0QzMA?oc=5",
+     "t_id": "Chicago O'Hare Chaos saat Kegagalan Radar Memicu Ground Stop Kedua dalam Dua Hari"
+    },
+    {
+     "t": "Delta tech outage and FAA ground stop snarl U.S. Thanksgiving travel",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2h0VThaXzVNT2pmTlp0bm1lSFRqNURTaGFjMmNGUGoycVVNcjJQM0dlc0NiMEdjS1pJQW5HZFlub04zLTNTdHdkelU3T256aWo3dldUV2xPZV94enVLVHhTUV91bDhocEM0SWtuSVU1ZThTaERUU3dUT3dBQ1BLS1hlQmpPQ1BOMWZ5MkVYQzVlRDRPYWdEYS0wZzM?oc=5",
+     "t_id": "Pemadaman teknologi Delta dan pemberhentian FAA mengganggu perjalanan Thanksgiving di AS"
+    },
+    {
+     "t": "Following nationwide shutdown, ground stops hit Chicago and Atlanta airports during Thanksgiving week",
+     "src": "World Socialist Web Site",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzTzEtdW5GLTVZRU8wOF9wcEVKeGcyQjBqU1BEREppV3Z2NzZrczBvNXBta1ZxeVdqS2kxS2NiZFJQUkhoZ3h5WGM3bjZlcnc4Tm52a0J2dmZEZ0N6ZkFiR0k1ZWxoMDFt?oc=5",
+     "t_id": "Setelah penutupan secara nasional, pemberhentian darat terjadi di bandara Chicago dan Atlanta selama minggu Thanksgiving"
+    },
+    {
+     "t": "Radar outage triggers second O’Hare ground stop in two days",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3I2OFIyWjVCYnRWM2NZRDM3V05Ma29HX1lZeERTRXl1bDRpR2lwdGFZOG9faWwwUjRhbTk4QW5rRkIyTl9GMnJwT2VVZGVQSXctMm9QbjV1ME5uWGtlUzNkWG1tUkRWQTEtU2xDUUxBczYyYlNEdU1BaGRTUjE2emt5RTFlN1dRaHdkR0RuaU0?oc=5",
+     "t_id": "Pemadaman radar memicu pemberhentian kedua O’Hare dalam dua hari"
+    }
+   ],
+   "title_id": "Pemadaman Peralatan O'Hare Memicu Ground Stop pada 24 November; Pengembalian Dana Tersedia, tetapi Hukum AS Tidak Menetapkan Kompensasi Penundaan Tetap"
   },
   {
    "id": "indonesia-202611241636-0579",
@@ -236,14 +236,14 @@
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
    "title": "Cyberattack exposes unclassified information from CIA system, US media reports",
-   "src": "Modern Ghana",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamttdVVPd1JWX2VpQTl3Vnd6ZnVyTERhOXVhbXpMNnRMcDQxSXJJOGJ4RjA5U0xmbWlZNkZCTDQ2LU9DMHVsak9pWGdJVEFrNnV5RHJDN2l6OENBWXZScm9fZVV3YTRZaFVuZ2NwTDlwMUVDRmtJaVhnalFPVENIcmlPVV9TaTBBaHF6MDlVeko3Y2M3UEJETVVn0gGaAUFVX3lxTE5qa211VU93UlZfZWlBOXdWd3pmdXJMRGE5dWFtekw2dExwNDFJckk4YnhGMDlTTGZtaVk2RkJMNDYtT0MwdWxqT2lYZ0lUQWs2dXlEckM3aXo4Q0FZdlJyb19lVXdhNFloVW5nY3BMOXAxRUNGa0lpWGdqUU9UQ0hyaU9VX1NpMEFocXowOVV6SjdjYzdQQkRNVWc?oc=5",
+   "src": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalY3dkdwSHpOS3ZjaFFNcGc1NGNpc1BwYTQ0dmczYXJYNkZpbHZ1dDYzVG4wazBvdmp2clY0eXZ3MnJxMlBZaEFJTkdEWVhmNVZtOUJKUml0YU5fVERVSGN2RzB0ano3WW9iTDRrbTFXU1EzMDNIRXAzOV9yeTRZcmR4YW5DVFVreDNCbTNobm1QYXF5ZExzSW1mNkpPTk9uS3ZVR09kQmY0amJQaGxYQXl4eEJUNVNDaC1CMzlGRXQ?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
    "first": "2026-11-24T21:57:00Z",
-   "last": "2026-11-25T12:31:00Z",
+   "last": "2026-11-25T10:48:10Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
@@ -312,31 +312,6 @@
    "title_id": "Apa yang dipertaruhkan bagi sektor seni Spanyol menjelang pemilu cepat?"
   },
   {
-   "id": "perang-202611250618-f0d2",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Russia Can Build a Ballistic Missile Every Five Hours and Is Speeding Up Production, Ukraine's Defense Minister Tells NATO Lawmakers",
-   "src": "National Security Journal",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ054cUl3OGU2cVc1NkxJWVAwSlJ3dl9QeHdQaTF6QU80MFA4U0NwS1MxSUZJSGIxUWpOVUNHUmNtaU9lODhtUkJRa2o4aC1rV0Uzc29sQk5QWmN0WnpzY0pWOWNwaVFzdkJXcUs0c19XNjJzT0lMY0xQWThwMzRGTGsxTEpyeVBtbDgzYUhyQ2dkQ000TXpqc3ZfZVhBZC1SU1VqUGJjMEEwT3RfYWRmalhpRGhyeDZrNDRnYjVjUm9yV2xUOTV3UnM0U3k1WjQydGVVQ1ZYQVk2X0ZJTUR2bS1oZERibHc1dVdsTkV2T1owVDRDcjh5QUxXQQ?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-25T06:18:40Z",
-   "last": "2026-11-25T15:44:26Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Russia making one ballistic missile every five hours: Ukrainian Defense Minister",
-     "src": "The Jerusalem Post",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GOHF4eF9DYmtqY2hseFJFQ1lOVXVGTzhiZTR2ZjA0UjhLRTFld0RWZjlMMTZjeG1fQ2JvNTM3emg0dy1YZDVJWmRzb1pvYVhaeHBKZ2lKeDJuUkwxTVJ4TFJFSQ?oc=5",
-     "t_id": "Rusia membuat satu rudal balistik setiap lima jam: Menteri Pertahanan Ukraina"
-    }
-   ],
-   "title_id": "Rusia Dapat Membuat Rudal Balistik Setiap Lima Jam dan Mempercepat Produksinya, Menteri Pertahanan Ukraina Memberitahu Anggota Parlemen NATO"
-  },
-  {
    "id": "indonesia-202611250520-0aa2",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -345,8 +320,8 @@
    "src": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BM0c1cS1lU1lLZ3dFbGJFUUdNQ1pmM0V6X2Ntd2dQRTB0R1F6VGk3emtnLThXbW5qdWN0NVo1eE5JTUVoWERkTGdFUVBJMVR1NGlXb1ctS0dKUkkwWlo3djhyLUt4YzDSAWdBVV95cUxOQTNHNXEtZVNZS2d3RWxiRVFHTUNaZjNFel9jbXdnUEUwdEdRelRpN3prZy04V21uanVjdDVaNXhOSU1FaFhEZExnRVFQSTFUdTRpV29XLUtHSlJJMFpaN3Y4ci1LeGMw?oc=5",
    "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
+   "recent6h": 0,
+   "score": 2.0,
    "level": "kecil",
    "first": "2026-11-25T05:20:00Z",
    "last": "2026-11-25T13:40:00Z",
@@ -358,6 +333,31 @@
      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdTNGVjkzZGpSRkEtU25NX0R3OTZTRFhweFo0YnBqMVhKZDFpejJmR3M1LUhWLU5KejRYbWRmWktJcy03akVOQlg0QktGdW9rMUhIOHlobUFFS3pxdExrRzA0a1JsNXp4dFRpakhKMV8zSm9VV1hKT0lLOWxDdmh1UHBmSG1KdnJuYXVvX2ZzZEpuUmJ4Vzl2T3RQaGV1aEVJcGdPdk51VVFMYnY4TjJxSmJHRzh6REhuN0pwZlY4dGlITlFwLV9FVWtNQTBmSkFIdUxPV19leEpiZ2N5ZGRHUW9rSms5aE13M3Bmb3RBTXREZHFJY1M4M2FpcWZkUFBkRFhaLXA0dWEwRmN2RFlFd0RZa1R1bUI4S0E?oc=5"
     }
    ]
+  },
+  {
+   "id": "kesehatan-202611251035-c560",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Lafayette County Adult Becomes Wisconsin's Third Measles Death as Outbreak Reaches 918 Cases in 24 Counties",
+   "src": "inkl",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGtORlZiY0JHOVlaQ0ktWW5yeDlfS0JxeDdnNVBIUzVsdHhOZlZmcmdLVUtHd1VfUVV0czN2NTh2R3BjSTJqTlpVYWx4QjBZNXJuWndYb3NLUTF2VlRzdE1JaVVwZWRtQzMxWThfTXgteTB1OGQ3ZlNFSmU2X3lObUtWUWVEdjBWYXRtNTlwRi0wcEtlUm9iN2h1U3BrWnpnWF9iV0NUTXhrTmh6V1pKMWI5UUNPcS1WTHVTUDZJY1ZMaUJWTUFERTJQRWo?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-25T10:35:27Z",
+   "last": "2026-11-25T13:36:52Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Measles cases surpass 1,000 in Pennsylvania amid the state's largest outbreak in decades",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWZnWjVwU3ZKQ19SWkFOWTVrb2FIMUhadkN5bHBIc0JxUWV1c09mTDBiVElxRFE1WEhITHRVZWNqZlFxM2Rxb2FoWGFZeTk2Q0lKT1Q2dDYxdkREVGR3Tmk3d3Vzd0lWWER0M2FSSGxDVWNmRW41WHdEajBycklPSjhRMUl5dEhEc0tTc1RTTVVtdy1lODhMdEgyZm12SXJoeFNBYXI1RF9xX3hPQnZfWtIBtgFBVV95cUxQWWpCTk1xMHhwU2JrQVVmNGlod1R6cmVIdTd0ZzlMVUIyT2hGUmE4RXF1UllUS1FfQ0RxYlppUEk0MTVidmdQQ2J2LVZJMG9mUTJ2YlR5dEM0Z0xiQkxYTTdSVGE4Q2R6VjZ3dDQzSFBQT0RMblBfZVd0bXhkNVlzWG41LS1fdWRPY290STN3MWpDNzhWa3NpcUVSMGNfeWVXRGpNNElyTC1tZTJnX0c5Q3hhUGdYdw?oc=5",
+     "t_id": "Kasus campak melampaui angka 1.000 di Pennsylvania di tengah wabah terbesar di negara bagian tersebut dalam beberapa dekade"
+    }
+   ],
+   "title_id": "Orang Dewasa di Lafayette County Menjadi Kematian Campak Ketiga di Wisconsin Saat Wabah Mencapai 918 Kasus di 24 Negara"
   },
   {
    "id": "indonesia-202611250822-c6b3",
