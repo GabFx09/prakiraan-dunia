@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T22:53:02Z",
+ "updatedAt": "2026-11-25T00:36:36Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Media Asing Sorot Listyo Sigit Tersangka Makar, Dalang Aksi Demo Besar",
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1RIV3Q3cTJPb1JpTk5NaWRVdV9xSHpoUnhTVzY4el9CUWh2dm14Vm9JZFFGSEo2RmFZOEdTZTIwZm00N3RkWGUyVEgyLXFMODRDakFaS3pyQ28zQ2ZCTmN4b1ZqOG96WktDaWpSampheXBhNUJDbmNMTTEwRlJ3OV9idVdQRlV2bzFhVDZlMkVRWFcwZ1VfSXFCX01mdmU3UVFjT0tKZmpOUXZpOG9VLTA4ZC14NjZIVXF0YjdpRXdHaVV5TkFN0gHMAUFVX3lxTE9fUTV2QlI4TWVZSFdqVGpNdDluUjM4UWhEdkhFWC1LM0g4NElDcWVuUkF6eHVLei1FMXJBblhnR3FaenV2M09LZzVMa09NUV92ZzFjRGZNRHM3cUpsSkhzWGNDQUhQT1NoVDdWVFd1eFVScFk5ZUxDSlY4ajd5STZvWXlyR0hod1BpUjN1YnExSi1ISHBQQTI3NHhrek1GNWdCMlMyNXYxQ0pYc3gwUzV6dktvN1RMU2V3VXBWSEFmd1JhdGQ4QXhtcFdZeg?oc=5",
-   "sources": 17,
+   "sources": 15,
    "recent6h": 0,
-   "score": 17.0,
+   "score": 15.0,
    "level": "besar",
    "first": "2026-11-23T15:05:00Z",
    "last": "2026-11-24T15:24:15Z",
@@ -41,21 +41,70 @@
    ]
   },
   {
+   "id": "transportasi-202611240055-8ca6",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Chicago O’Hare Flight Delays Mount After Two Ground Stops in Two Days",
+   "src": "FTN news",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcU5xRkZsUXZHU0wyR3dmWFV0VUFhS0IxYTRMTnFqazgzcTAtdWt3Q3BPcmNULXJEN3B5Q0poNl92ZEFpc0pDeGp1VXFodzlLNk5rcWFzdWRENFc4TWhST3BzR2J5ZDlKamxzamRJXzBjSHhtRHJFaC1sVEZxemVSTzZPdnBHRDZGTDRiSnJqRVY?oc=5",
+   "sources": 3,
+   "recent6h": 5,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-24T00:55:37Z",
+   "last": "2026-11-24T23:56:16Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Chicago O’Hare Hit by Second Ground Stop in Two Days During Thanksgiving Rush",
+     "src": "Rus Tourism News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWZNSWVwaDVnVkZLZzlFZ3BoaHlxcjR4LVd1b05tUmtnbmxtNVFzdEtsWmk2TUtlYlNENXRyOVoxUlktVUFLQk9TcE54LW00a1FCVDFQZUozV3NISWR5MjFKSWRyeEMxMDN2dDdZYlF5b2Z6a0RtS0lXNDk4QWRHNFlNZG1jQklXZjVXdUN2OXBLNGp0RzdHdnJSbDFaSE9XOVJ0Y3Jpckk4X0pXcjZ2VS12bXZCWlo2anRz?oc=5",
+     "t_id": "Chicago O'Hare Terkena Perhentian Kedua dalam Dua Hari Selama Demam Thanksgiving"
+    },
+    {
+     "t": "Equipment outage triggers ground stop at Chicago O’Hare",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNlJmX2lBNlZSR0tvWWc0eHRhOFdFMGFuN2oteE13aWpYdWlLQVE2RUNJOVZqQk40SmhLbzh3RmxWX0hZZHRwWUFpMEMySnVPd2Zlb0NBX0VaQ1JIUGs3SFMtai05YjRGWVExQllLWHVuZkxFTmhpdDRPWTFwNXNUNEUxeW9MeUM4VG1Z?oc=5",
+     "t_id": "Pemadaman peralatan memicu penghentian di Chicago O'Hare"
+    },
+    {
+     "t": "Second Ground Stop in Two Days Disrupts Chicago O’Hare Ahead of Thanksgiving",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWc5QjQ2Vm14RHZyOGpkQ3BSUXhJU29DQWhkeXN5czVWc2xhWmEzYXBVTWpENzBXRlQ4aVZvS1Jocko2Z0VjdklESHBpRUJiV1QzelB3RkJ6cmRhV1F1eEF0YnNJTzBGYWd6V3ZCMFBYMjlHUjY0ZThURXZHdEpsaE1FTXZJMldEM2ZBb1N3Q0NTektqMldiUXViaThvZnk5blVrWXU0QQ?oc=5",
+     "t_id": "Perhentian Kedua dalam Dua Hari Mengganggu Chicago O'Hare Menjelang Thanksgiving"
+    },
+    {
+     "t": "Second O’Hare ground stop in two days hits Thanksgiving travel",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEs0RHI1bjFsSC1mNXFaV3B2aUlqSUZydDN3aTJkXzBuQkpHODVQMzUxT0JzNTZVVVk2eHo1NjRDeVcwQVFzVnRhN2I2VHlZd05SVG9MLXB1MlFrVHpBRWw5MXdhN3k3MkZuY0Ywc29QNXlocEVucnVTWWV6LTNYajBKcFUteDJVb0RNQnNWVE1rSWtR?oc=5",
+     "t_id": "Perhentian O'Hare kedua dalam dua hari menjelang perjalanan Thanksgiving"
+    }
+   ],
+   "title_id": "Penerbangan Chicago O'Hare Menunda Mount Setelah Dua Ground Stop dalam Dua Hari"
+  },
+  {
    "id": "siber-202611241814-6268",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Microsoft declares 'Code Red' after historic service outage",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW9wWFhnQm14VndiZmlkZGJEYUpCdS1QcWdEYUx2ckk3Tm03eG9Xdk1mZFRDcHpjcXFFanJvUjNKaVBabHVfX0drZTlMX1V6ZXp1cml4UUpnUDFadjBHZkRzWjQ5TkNhTTBaMFVvT000bllTUEhybkdCWGt1UmxMRVF5TGHSAYoBQVVfeXFMT1ZtQUhlWnlVQjVvVEh5UnM4bGNmTFJQZ2wyN2xxUTlQMXZtUzdwX1ZZR1g1OTEzX0U1a2Ytc0dKcHJ4YlY3N19VTjFBSy10VTFzRk0xbHFyNkxrUU1ZS0sxYmdGTE03MmtUbWt3WWs1bVIwVGFvck04WFFKQmNrN0dJS0IwYjBuR0p3?oc=5",
-   "sources": 3,
+   "title": "Microsoft Code Red: Global Microsoft 365 outage exposes cloud infrastructure failures",
+   "src": "Beinsure",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BRWNrdU5IYW9kYjMwdzA3LWpWSEh4azhKUE5sV0ZQLTgxTVpYWi02NmxGeW5mSmlKV0xoUjVOYnhMbDMyZFlZalZfcjdoaU9BRURHQVZlNXBNS0lBT1luby1zQ2NnaHhZSXlV?oc=5",
+   "sources": 4,
    "recent6h": 3,
-   "score": 4.5,
+   "score": 5.5,
    "level": "sedang",
    "first": "2026-11-24T18:14:30Z",
-   "last": "2026-11-24T19:47:52Z",
+   "last": "2026-11-24T20:33:26Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
+    {
+     "t": "Microsoft declares 'Code Red' after historic service outage",
+     "src": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW9wWFhnQm14VndiZmlkZGJEYUpCdS1QcWdEYUx2ckk3Tm03eG9Xdk1mZFRDcHpjcXFFanJvUjNKaVBabHVfX0drZTlMX1V6ZXp1cml4UUpnUDFadjBHZkRzWjQ5TkNhTTBaMFVvT000bllTUEhybkdCWGt1UmxMRVF5TGHSAYoBQVVfeXFMT1ZtQUhlWnlVQjVvVEh5UnM4bGNmTFJQZ2wyN2xxUTlQMXZtUzdwX1ZZR1g1OTEzX0U1a2Ytc0dKcHJ4YlY3N19VTjFBSy10VTFzRk0xbHFyNkxrUU1ZS0sxYmdGTE03MmtUbWt3WWs1bVIwVGFvck04WFFKQmNrN0dJS0IwYjBuR0p3?oc=5",
+     "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
+    },
     {
      "t": "Microsoft initiates ‘Code Red’ after most disruptive outage in company’s history: report",
      "src": "New York Post",
@@ -69,7 +118,69 @@
      "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah pemadaman global selama 24 jam memperlihatkan kelemahan teknis yang besar"
     }
    ],
-   "title_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
+   "title_id": "Microsoft Code Red: Pemadaman global Microsoft 365 memperlihatkan kegagalan infrastruktur cloud"
+  },
+  {
+   "id": "siber-202611241223-5316",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Allstate outage disrupted billing, claims submissions and policy management for some customers",
+   "src": "Beinsure",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaC11cDgxaEQ0SHJKakhEVUl6MG9iTGVrX0NsZEJrQ3MwYnlhaU4tcWMwZVA3SkJVbW1LdXhwSEF0cnZQX2QxT19SckVlUU1DNVpKVkdWUkZVNGNIdEZMbjVrWVNfeHZRbWtfRGFjXzdtZTJ3Zmt5WlVPZDJqRzI1T09VSQ?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-24T12:23:15Z",
+   "last": "2026-11-24T21:23:30Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Allstate Outage Today: Is Allstate Down in the US? Users Report Website, App Login, Insurance Claims, Payment and Account Access Issues | Check Latest Downdetector Status",
+     "src": "The Sunday Guardian",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUjlZSm5CQmtfNFZOMno2MEdVLXdlSnZmNWd1SUd4dWQ1UGZ4S25DS3prd2lncHVuTVktVFNocElQOFhOQnJsd3JkTGZkMDFfdzRLdzlQUU5FOVRZNDNlb1huLTJNbTBQeVowczhPMGVuS2QyNmY4eFhvSGdzSl9vb083OVdJbWxwNkVGUmVCTXRHcUE3UUVtdy0tcTZ2WjlIOE5mUEdCMlJsUVE1cDhlemVlVWVWQ1V0WC1iVmc5MHViQlRvbzE0bDd5akhRNXVWLUFZRUJJOVRNTDVjS2tZenhnMW9vcE8yYmRIYWZWaEZtaXJJUTFmdVE4U2VfOElpemh6dk1qd05MeW1mZHRvWVE4MjlNMVp4eDZ2N0hXTWwzaDJ5TDlpTnhTTDYwVUgzM2ZKRFFB0gG7AkFVX3lxTE5fRU1QdERiR2ZXRzlUNFAxYlJXR29hTEozYXlUWjk1cVFLVlhiRVBLQmZ5QlZWa3IwdHR5WTJPR2IzTGVVRnRMWlV5blJSUkNZNzNHdDFqckJ4djF1ZGllbXFIb3NZcVNHWTFFSEZSSVFuaklWMDlnUUl3V2p3MjZMc1gtNkFWSnlaSXk3MHpoRUp0TzBLSUZuRGYwTDNrTGFxdF9CS1ZRWGE3OUctQUZfUkZOazRvU21SSlJ2dDVxakdTOHFkeXp6MnlxYVBmSnVJcmZIOWcyRDFsekJEeFk4aThFWHh3aDB1X0o5VjZ6SVN4cUhJYWhXT0JQZkRtdGZOeW5EVWVRX29kcy1MR05RZzFNVnhNYTY2ZUNnUzdfRTQ3c2VlZEtmZHFXWmJLcU1CZXNnS0lpM1JtTQ?oc=5",
+     "t_id": "Pemadaman Allstate Hari Ini: Apakah Allstate Down di AS? Laporan Pengguna Situs Web, Login Aplikasi, Klaim Asuransi, Masalah Pembayaran dan Akses Akun | Periksa Status Downdetector Terbaru"
+    },
+    {
+     "t": "Spotify Restores Access After Outage Hits Users Worldwide",
+     "src": "cwibc.co.id",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LcEljSnVKdExJVEJKNEFRY1BLVENJWTNnQVgzS3RQRzFPRTNfSUN5cHFEVnBESHBxOXd3cDBvNUhUZ3dEQ0lHUGQ3dlFOWXY5cEtUMzVJaDRpYU5oQ3N4TFBjR3lCOEdzNmZhcA?oc=5",
+     "t_id": "Spotify Memulihkan Akses Setelah Gangguan Menghantam Pengguna di Seluruh Dunia"
+    },
+    {
+     "t": "Spotify down? Thousands of users report outages globally",
+     "src": "Khaleej Times",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ocEN1U01ndkYzN05Jbzh4VVpVWjZVS2JDOElDaFZkcFpmTkVPckVkUG5mdEtnXy1RMHE5bEUwdHNWN3ZNTHdfeVpBc3FXcWM5WmVxZE5ZMzd6Zm5pdHJsS2RWS2R6YlRqZHF1VUZjU09tMGp5N1FxNjE3UdIBgwFBVV95cUxNZTVydWNITFJpWWRfbUlYa3RsaTBHbHprQ2tZYUFMVzFNN1lXd1VPMG5wbUJrakdXb2U4WVVMNjdGeS1NQWVVUE5tV0pXV1BWRHVUSFM1eXNXY3EzQjBUNENIU1R3cnY3eXVtbGEyWGg5V2ZTdmFEMkxCRS1oVzF2aEw4MA?oc=5",
+     "t_id": "Spotify tidak aktif? Ribuan pengguna melaporkan pemadaman listrik secara global"
+    }
+   ],
+   "title_id": "Pemadaman listrik di seluruh negara bagian mengganggu penagihan, pengajuan klaim, dan manajemen kebijakan untuk beberapa pelanggan"
+  },
+  {
+   "id": "siber-202611242157-1b5c",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Unclassified CIA system breached in a cyberattack, sources say",
+   "src": "WKEF",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2JuSG5PSkhBX0tEdDRmZm9kbVozd19VQVFTRDExOFpFRUNYRW81OHluNnY5dUgtTEZkcm1PeXNaRjNKZHpERVFyZzZaUTNvOFlDY0xJRnNjem5icXJnX0ktb29uMDRFWTZMOG9FVjNKMEFaaGUxeEFEYXFaVWpFMnByc3hlZ2VQVUt0c3BYbjdvZkQ5Sl9kcWhUVFFJbGI0ZjVVa1pOOWhEY1Jubk1GNHMtN3FoUWxuRG44?oc=5",
+   "sources": 2,
+   "recent6h": 2,
+   "score": 3.0,
+   "level": "kecil",
+   "first": "2026-11-24T21:57:00Z",
+   "last": "2026-11-24T22:00:04Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "An unclassified CIA system was breached in a cyberattack, reports say",
+     "src": "WMTW",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWU10a3c3NUNZYUd6aWhGU3pNeGtmbUxPd2MyZi12eGZKZVdVNmk4ZXNnY01EaGJ6NmEtbEE1dy1IX3J6N2FoczNlU2hReFVRTGtwR2ZXWHdyZ1RZSzh5NjVodlFqX3ZzWFhWTUFKSDJRX3V6bGRiR0FwR1FGblFySDBkbGR2LW55bXc?oc=5",
+     "t_id": "Sebuah sistem CIA yang tidak dirahasiakan telah dibobol dalam serangan siber, kata sejumlah laporan"
+    }
+   ],
+   "title_id": "Sistem CIA yang tidak terklasifikasi dibobol dalam serangan siber, kata sumber"
   },
   {
    "id": "perang-202611240048-6bb2",
@@ -124,9 +235,9 @@
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
     },
     {
-     "t": "Kapolda DIY Bantah Mutasi Besar Terkait Kericuhan Jogja",
-     "src": "MediaKompeten",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaTAzdjN1WkV6V0poY2Q3bi1FVHFOSlNaNUN5TEZidGhLVUtwTVBCd2o2NWtLOWZjWjZZTDhrUVk0b0d0a3NMTGZNWk1YVGZTTlZKc1BxWC0tUm9TQW9jZTRHcU9qYzZGek9qcE1ydHdhSWhTMnd1RkR3bTVEQQ?oc=5"
+     "t": "Kapolda dan Pejabat Polda DIY Dimutasi Besar-besaran, Abioso Bantah Terkait Demo Berujung Ricuh",
+     "src": "Suarajogja.id",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUxsQTEtbTNBZFBXVEdpTkRTc2M3akZjMjZPdW9uckhOOXhkTldibkhjRlBvRTFpUVpRN3h6X2I0blBuLXBldWJnTDM1VmMtR24yMTVvSFA3N2Z5TGFvellGN0pYQzZDU3FQWUhha1pGSEVsZFJWU243YlE1RHRxSlFoS3J0WnFwSUhvVjROTDRIZVQ5MWs3c1BhM0pneDAteDRjN0RVaF9wZG54TFFobkNUSXBsVGVNQWdpazVZTDhwWExpMDFmVGNpSFRSOGxoSzFmWXVPNVPSAd4BQVVfeXFMTVpWRmZEUVF1cTA3Vkw0MFI1dFdUSWo0X1oyckRsQ3NkU25ISm4tS1ZvemxLX2ZXWUpqRVF2X1BETXhXSXdGVm1hTDZQUjRiX2RsaHkwaENFcDBhNVhuLWVXRVZWV1JyQm9DeVdRNXZBbXFlOS16VzBMd1o3czZVNTRra21EMWliS08tZnRsNjg3aUh3YlM3S0NWM1R2YWRUQkZJZ0JuellDRVFVcWxYanVaVGN4eGlFOXdUd2Q3SFJFR3lBVjRabktiM3hxWmtNTFhMSDRMdGRyQ0lFck1B?oc=5"
     }
    ]
   },
@@ -162,57 +273,60 @@
    "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
   },
   {
-   "id": "indonesia-202611231505-cbc5",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Peran Tersangka Kasus Makar, Irjen Ahrie Sonta Gerakkan Demo, Kombes Iman Buat Konten Serang Polri",
-   "src": "Tribunnewsbogor.com",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFM3eEgzQklqQlR6Ul9ZMmxLUG1SRnhqQjJzaDVMd3pfX19tajg4bjBJejRRdllOQjBwNXdaVGNGd242NHNvaEhIUjNQWE5IX01rWm1FbmcwbTJPS1plb0R2LUpQMlFsZE5kMVhDTmcyLWhhTENjdjFoTUtTMzN5VzhzbExIUk9HaGhiNnRPVWc1TUVORmVfeE1wNXg3eHc5bFZRLWUxcndpaHNlcHNPVVlQUkJIdHBZS2tQUmtRQ1FzeUhldGw1MEszRU9lQzczVGVn?oc=5",
+   "id": "perang-202611240048-6bb2",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+   "src": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGFja05BRjFxdVF5b3JKampvZkRubEV4QmVEOWJJQzNpbmNGeDF6NG4zVHQ1a21uSjA0RktUR3M5SlBIR3d5a1BDRV85MjNNU3I0alc3Ty1EQlp2OFdIQzE0djA1RkxqRlVwM3dYN1FiSVR0RmJFcy1YUnB2ZGNrcUhyVmRfbXBWd2lLUXVvR0FGQmZ2X052MDlXU245emc4REUzX2hCU01NQQ?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-23T15:05:00Z",
-   "last": "2026-11-24T00:44:52Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-24T00:48:51Z",
+   "last": "2026-11-24T12:00:57Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Irjen Ahrie Sonta Diduga Gerakkan Massa Demo, Kombes Iman Imanuddin Pesan 500 Kaos Salam Tiga Jari! - Konteks.co.id",
-     "src": "Konteks.co.id",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZUsxcnpGTUxyWHFDN1J0dGJuaFhTcHlYQVIwcktGS21MUWVMUEI1YVBaX2taWjRueklfTnVpM1Awa25ETHZWNC1JM1JxZmh0WFpleUtHSDZhZ3VrSW12VmVUeUNJMjdGS3d5QjFPYk5xSGhuYVZQNlZwR3NKVTk1N0JkS3VuWXpDUld0R0hBWS1wNkN5ZXN5bTJXOXlENG1lMUF4aUFtakVCOUprZVdnc1VXMHZDT2FEbXlzeVVwTzVtSGlhNlA4ZGtEbWFXSTZ0Vk9vUXl2SjhEUHPSAeABQVVfeXFMTU1ZT1Y1OEVZWlZFa25yRWJ6TDJFWV9TeFVBbFYxMzZkdndMWHZvZXlRMXJvN19odlljdkJhaTZrWGhYRkg0Q2ZMVVdtUE5zenRmMk5GNFZXak9XWUFURVViRXUxQ1ltTm9ENFRXSXdNWXM5LXpMNmlnZGdwanBfNUpTS2ZOaU5NM1JhZXhrbVdrR29uUDBVVTcxZmdEZWJNZ1c0WElVQVVTc3VKbHN1SVFyWmNya2RYT1I3d2V2QkdaeWZtQ25keUpVS1R6QUY4WDNFV2FaQm5NY2E3cUhaeVM?oc=5"
+     "t": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+     "src": "San Mateo Daily Journal",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUXVGeUk0UUd6TXdiTl96dm5wU3A0eUxxdTJwa0xpdXNXNW9lZkdicUtqMFlkaS04WGxIbTZjTnBKR1cwVlZibWNiOURTUXhQcFR0UUtNY2hUeF9OS0JvU2U2bjlYQi1GSTBTRGR3ZWlwa1B2WmZFQnNtc1pPWlpxdE9LRjB3MDVJTnlHSk1CR1IxZHd6X3RrOFFIZjJpV0pvYU4ydWNWajVxZFF2dE5NOHpqdVJld3VvWEhIM2U4aTJjSVJ0NkhMNko1eWRrT2N6UnZMNloyX3pMYXlYNF90bFNKZ0ZTcU1mR0xoaUltQm1xclo4bmEzOEI3Z3E5YmZWbzJfR2tZbw?oc=5",
+     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
     },
     {
-     "t": "Jadi Tersangka Makar, Kombes Iman Imanuddin Disebut Pesan Ratusan Kaus Salam Tiga Jari untuk Demo",
-     "src": "VIVA.co.id",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUDNzdDlDVjd4SnkzMENIa0hqUmNHQkFkb1FZeHdqMWMzQUs2N3dEZDhlMTVTQ1RnczNFVE1RWmxGR2lNY3pwV3JJWFludEhSZl9uNUtWNGhFLVMyOUNfYlo4ZmJXZ0hsTXgxY0Z3Mm4xWldJUkhfQ0s3eWFuWG84X0x3ckhCWGZLNE9BVGFQWFpwVDdLNXNnSjBaT25Eak40NXNnR2VhdUJnQlNqQ1lVXy1GQ29HVWluMmZTSG5CUGtuR290d0prQ25TcFFsMHYxU1hMRW1nMXB6OFHSAeABQVVfeXFMTkNOVzhTM3d6TW1FdlJZTDE2RldveVlGWk9Ud3EyV0MydzhLWmFWSjBfcEktSWZNU1l6Q2ZNVGRSVUIyaE1tSDhVcG03VEZmNTBwUnFMZVFKdHB2SmQwNzZvUmRYMlE2V2hacDdUeWdxM2dRd0NrRHNxb0QzQlFFcURqdl82aFZ5ZUpYVkNvYm9rd05HdVZxbEo3UndkVExVOHhwSUg1MmZBaTRmcjZtLTNvR2ZBZkZRN29DSXpBOEItdDVGcFY5RE4wYVBKYWNEMzVIaExLRk05UTQ3TmpyWTU?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611241305-ee3b",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Spotify back online after brief outage, Downdetector shows",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDN6R0pjNFo5VFRaOGNYNGplaE1zcnFCeWlCdDVXY2dQOGM4bngxMTZMTktuNmhOWDVGTzJ4aWR1azVFV0xYUXJzV1FBOTFHOEJUSFZPTzE4VW05QnRtcHBiX1VTZnlJVHh0TlY1N0k0SXpCcDhNMkF5WVRiX1RsX0dsQXczck5wRjZtNEtrbE1OdFB0YVFqY3VB?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-24T13:05:17Z",
-   "last": "2026-11-24T15:40:07Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Spotify Back Online After Brief Outage, Downdetector Reports",
-     "src": "Global Banking & Finance Review",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPczAtbTRGbkYtUEdSR2lUd0dmekdWRHdaYURndWwwbmt2bGhZVEQ4WVQ3VktIVWxvMXIxM3ZZbnhqcE1CaTlCeFVDeU1Cb0Z5VE5BT1l1RTNHWWk4QnMxYlNONHEtRXhEYlpsbkYyR204MnFmRE1pYkhGVTJTTXFEdXNVVEFqYzFGMzZGNTFtVGVudw?oc=5",
-     "t_id": "Spotify Kembali Online Setelah Gangguan Singkat, Laporan Downdetector"
+     "t": "Ukraine’s drone strike on Russian warship risks ‘serious escalation’: official",
+     "src": "News24",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNczVLRV95VEFFUmhSRDRYVk9CVVRERHpXVmtLcXQyWS00OTdSVXBzRFBZcnZOcnMwMVFHdkN2VjlGMlpRUnJMclZFT2pZZEZpNjkwOHloS0tpenJKSnZ0Vko1QUZWUjdfRTZwdVB0bjZaUHA5VC12elBNaThNb1gtaEZ2eEdhc2hsWWNRa3M0cXBfZ0JueHpNZktWLXVUREo1azhYYWlWZDJ3aGxWUEJmTm9DSzJNOU94aUhCcUs4Wk5kUC1HS21xTm9Mb0ZFcnV0OEdrRHlfRTlwQ1gwdUVmbnh6NNIB6AFBVV95cUxQUGZqNVVfY2NrVVktSkdTbHhBYU40Y202SnNsc3NNOHJqY1VJUFl0cktmTHU1dnZ5LXluYUIzOE9tWWVaaFZaUUV2LXNfald4cE5XMlJEUmFUZDVOUUxsR2RQY0hjeHN1aFF2VlAzYkhwdDRxQTJpem4zV1hyVTdlaWRfZ2MzQWs5bnZ5aFN5ZGZSS1JzRDFaRmRsV1NVdEZ5d0J3bUhIZzF1YS1Sa2xIQmh5SlF6T08zZ1JzVkVPOFA3cWktRDFmSi1OUnE5UTNlRFl1SThodXFkbnZKSWR3cWpQOUVCcF9T?oc=5",
+     "t_id": "Serangan pesawat tak berawak Ukraina terhadap kapal perang Rusia berisiko mengalami ‘eskalasi serius’: resmi"
     }
    ],
-   "title_id": "Spotify kembali online setelah pemadaman singkat, Downdetector menunjukkan"
+   "title_id": "Ukraina menenggelamkan kapal perang Rusia, menyerang kapal kargo dari Mediterania hingga Baltik"
+  },
+  {
+   "id": "perang-202611232312-4327",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Airstrikes rock Yemen's capital after Houthi drone attack on Riyadh financial district",
+   "src": "www.thehawk.in",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMzc0U0NiRDN5QUswcmVTdkg1TjJWVUdyN1pQeU1xaUs5aGpsaFZqc3MxaFJSWHpqMl9PemMxY09iX0F0QTJJWDViUlBHZEVsS1B3U0MxYUpCTUxXREpST0pmYXBfeU95d1NjVjFnd05yX2NEQlJZYm51MTV2U0lmRkhRb2MzY1pkWmR2RV9ZOVpkY1NuYzQwVEtXZEZKMkVWNXZkNTFueDRfSE1NUDdSSkVfUDFscUR0ZTlqODQwX2lxSHM3YVBkdXd4aw?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-23T23:12:11Z",
+   "last": "2026-11-25T00:34:05Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Russia has launched drone attack on Kyiv: warehouse in Holosiivskyi district is on fire",
+     "src": "Цензор.НЕТ",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1ZXMEdNMElhYnM3NHBzcVE5U3lYTkR5dWZjSUE5ZUtjOUg0MzRqSGdnamFhdUVfdi1mS1k0RVM0akZudzU3WXZyeng3aGFzb01GVU01Q01WbUtPZ0ZBOGg3bld2WFU5Z1B1VmxJdDU5bnZhNl90Mi1JVjZxTFgwRGllZ2wzT2JlUmpzbjY2YkJWVWxrZTJkdzhQci1oQkNoUTBsQ0VoUXdOSldwQ1M2bXRGeE8xV2Mxc1NoZk5R?oc=5",
+     "t_id": "Rusia telah melancarkan serangan drone di Kyiv: gudang di distrik Holosiivskyi terbakar"
+    }
+   ],
+   "title_id": "Serangan udara mengguncang ibu kota Yaman setelah serangan pesawat tak berawak Houthi di distrik keuangan Riyadh"
   },
   {
    "id": "kesehatan-202611241209-fd30",
@@ -240,54 +354,29 @@
    "title_id": "Wabah Ebola berlanjut di Kongo"
   },
   {
-   "id": "perang-202611232312-4327",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "siber-202611241305-ee3b",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Russia has launched drone attack on Kyiv: warehouse in Holosiivskyi district is on fire",
-   "src": "Цензор.НЕТ",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1ZXMEdNMElhYnM3NHBzcVE5U3lYTkR5dWZjSUE5ZUtjOUg0MzRqSGdnamFhdUVfdi1mS1k0RVM0akZudzU3WXZyeng3aGFzb01GVU01Q01WbUtPZ0ZBOGg3bld2WFU5Z1B1VmxJdDU5bnZhNl90Mi1JVjZxTFgwRGllZ2wzT2JlUmpzbjY2YkJWVWxrZTJkdzhQci1oQkNoUTBsQ0VoUXdOSldwQ1M2bXRGeE8xV2Mxc1NoZk5R?oc=5",
+   "title": "Spotify Back Online After Brief Outage, Downdetecter",
+   "src": "BusinessToday Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnZTQ2t2b29HM3hKZ21WdkJxeVk0Z1otZGRyaFNOUWphM2doaWVEU1k0N0kybzdBN2pFNDdWME5mM3lTSDZPLVBudnRjSHdCWlFxSE9qZmU2SV9Tc0ZWQVZNN1FHaXFjQTBxa0xFNFhGdTdreFB5d2JBLW51cXdpZ3N1R3pYeWY2U1gxajI4ZHhYNENqUXh4ZXZKLU8?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-23T23:12:11Z",
-   "last": "2026-11-24T14:00:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-24T12:18:00Z",
+   "last": "2026-11-24T13:20:33Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
-     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+     "t": "Spotify back online after brief outage, Downdetector shows",
+     "src": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkJLeTlIWGxzNHd4RlBaMFVhSTB3blVaR0MtQThVak5UNjI4SU9GRS1rMHlxeFU0UnB3Y3FfcWpPMkRaNjhTbmV1S3lvUGdXQzRqS2g1cldHZURiUDljdE9MT0JzeEwtWE5pclk0Z1lDQTNmTHBHRlpqMEdSTFZyRTlPdlgtcmhoVmRGSmdrLU5TeVpa?oc=5",
+     "t_id": "Spotify kembali online setelah pemadaman singkat, Downdetector menunjukkan"
     }
    ],
-   "title_id": "Rusia telah melancarkan serangan drone di Kyiv: gudang di distrik Holosiivskyi terbakar"
-  },
-  {
-   "id": "perang-202611240048-6bb2",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
-   "src": "Ars Technica",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGFja05BRjFxdVF5b3JKampvZkRubEV4QmVEOWJJQzNpbmNGeDF6NG4zVHQ1a21uSjA0RktUR3M5SlBIR3d5a1BDRV85MjNNU3I0alc3Ty1EQlp2OFdIQzE0djA1RkxqRlVwM3dYN1FiSVR0RmJFcy1YUnB2ZGNrcUhyVmRfbXBWd2lLUXVvR0FGQmZ2X052MDlXU245emc4REUzX2hCU01NQQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-24T00:48:51Z",
-   "last": "2026-11-24T12:00:57Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
-     "src": "San Mateo Daily Journal",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUXVGeUk0UUd6TXdiTl96dm5wU3A0eUxxdTJwa0xpdXNXNW9lZkdicUtqMFlkaS04WGxIbTZjTnBKR1cwVlZibWNiOURTUXhQcFR0UUtNY2hUeF9OS0JvU2U2bjlYQi1GSTBTRGR3ZWlwa1B2WmZFQnNtc1pPWlpxdE9LRjB3MDVJTnlHSk1CR1IxZHd6X3RrOFFIZjJpV0pvYU4ydWNWajVxZFF2dE5NOHpqdVJld3VvWEhIM2U4aTJjSVJ0NkhMNko1eWRrT2N6UnZMNloyX3pMYXlYNF90bFNKZ0ZTcU1mR0xoaUltQm1xclo4bmEzOEI3Z3E5YmZWbzJfR2tZbw?oc=5",
-     "t_id": "Zelenskyy memuji serangan Ukraina terhadap kapal perang Rusia yang berlabuh di pangkalan angkatan laut di Libya"
-    }
-   ],
-   "title_id": "Ukraina menenggelamkan kapal perang Rusia, menyerang kapal kargo dari Mediterania hingga Baltik"
+   "title_id": "Spotify Kembali Online Setelah Gangguan Singkat, Downdetecter"
   },
   {
    "id": "kesehatan-202611240618-fb41",
