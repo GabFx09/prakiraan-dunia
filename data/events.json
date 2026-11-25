@@ -1,72 +1,23 @@
 {
- "updatedAt": "2026-11-25T21:26:18Z",
+ "updatedAt": "2026-11-25T21:37:47Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
-  {
-   "id": "siber-202611250946-e6d6",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft issues 'Code Red' declaration following major Outlook outage",
-   "src": "UNILAD Tech",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUxpOHUxeVpQXy1UR2NXZ05GeV9fS0p3dHg5RDE4Rk5UV1NEZDJJTGY5OFZXTVZxUjRrU1lNamJfZm5XdXhDU0hWNDNydEE4czNVNVN4akRrRVhlOWdvcG42blQxcGltdFB5NE96WERfYWkzZGM3dmI2eEs3LXlmRFlIS2pSMWNjY25MbEhlQ3FjM2pFWlE?oc=5",
-   "sources": 9,
-   "recent6h": 2,
-   "score": 10.0,
-   "level": "besar",
-   "first": "2026-11-24T22:25:00Z",
-   "last": "2026-11-25T17:10:19Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft declares 'Code Red' after historic service outage",
-     "src": "LiveNOW from FOX",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXNYYlplOXBPZ0FKUUFLVTNSOEF5cG9wb0tZZDFHdTdyZF85U1VVaDJQVHd2bGdESnRBTlI2MHV1RkdVRmFZbk5NSFBLUFBPeVRZLVpYUnAwaEpVTXd6dHJfTmNna2l0bG9ZU2FLbmMtQVE2bmItWVZzQk1YYnJZT3NIVld4N2doWjB3aE1JOExpbzA?oc=5",
-     "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
-    },
-    {
-     "t": "Outlook, FAA, bank outage, oh my!",
-     "src": "Grand Forks Herald",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83TFY5Y2xsZHdrSjJyS0xfMVY3RHpRU0pOdlYzQ3hHQ1B3SkJyeVZtdkhFWW9UeTRJWVBweHZCQlFNLTdobjZfbWF2aXAtSGNWSWFPMElNck4tRVVNdmJlTTNxS3Q1UDRHeHZ1dkZlcjM3LURjLXc?oc=5",
-     "t_id": "Outlook, FAA, pemadaman bank, astaga!"
-    },
-    {
-     "t": "Microsoft 365 and US air traffic outages expose travel insurance gaps",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakpXUnNLQVVnckxaaXFzYWhNaFlqUi1iX0wtcW5uYXhZN0lhZVJWRlB3SlVFUzNmYWIyaGd6SGtEVWdRSnRrY2JNOEd6WUdFUC1ROEMxTFprQW8zV2EwcEI5Y3QyNXkzcXcyTEVpTXNGMVJwWVJwLXpHRjJTOGpxQkRqSzV0X2JMLWVQdHRrRURZdDBOS2Q0RW11amdmRkE?oc=5",
-     "t_id": "Pemadaman lalu lintas udara Microsoft 365 dan AS mengungkap kesenjangan asuransi perjalanan"
-    },
-    {
-     "t": "Microsoft declares Code Red after Microsoft 365 outage, targets one-hour recovery for global outages",
-     "src": "ForkLog",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3R6VEpSc1Q2Y0hJdVg1d1BMU0d1Vk9vS0JSdEVFdUNscVM5blUtbWVJMUJUV1FpU2RwVDZtMzF0dEowZmhxR0dKbFlPajUyVXdDdkU0V1VHR1E5Y2hnc2ZfUXJneGpIRURvMExKMmg2OHI0dl94WkJUdVJXb0czWjdtTGxGR2NkZVJfY2s5T3NnbUp6dEZ1Snp0Y085SUhOcnBuc2lYNDdWUEVPMVhhNk5iaHl5LThYTHczR1F1TGw?oc=5",
-     "t_id": "Microsoft mendeklarasikan Kode Merah setelah pemadaman Microsoft 365, menargetkan pemulihan satu jam untuk pemadaman global"
-    }
-   ],
-   "title_id": "Microsoft mengeluarkan deklarasi 'Kode Merah' setelah pemadaman besar Outlook"
-  },
   {
    "id": "perang-202611242133-2926",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Saudi civil defence says 11 injured in Houthi drone attack on Riyadh tower",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
-   "sources": 9,
+   "title": "Saudi-led coalition intercepts Houthi cruise missile, drone in western Saudi Arabia",
+   "src": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY295Z0RRZXRLOHRFdVdTbzZUa2RweXRLVHBXLUJPV1NMcmRNSVhyQ2c1WDJWNmU5bzFjRzdCcE1NcEgwcFJrMmFPR1QtbHBlNklWUmQyQ3VidDF6aDctNHAycEZpUzFWR0RxMGNpd0NfZnRaN3Z4VlE2ZjNTSFNhNmtoR2JIRUdLTVZDTmc0dEoxM08tNDZKMmh0TlJvMzYzR2I5T2tnUEtENFE2dkZZenNIa3RPSHZGS1JfTFZBSzhRZVlEa0E?oc=5",
+   "sources": 8,
    "recent6h": 1,
-   "score": 9.5,
+   "score": 8.5,
    "level": "besar",
    "first": "2026-11-24T21:33:15Z",
    "last": "2026-11-25T20:51:44Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
-    {
-     "t": "Saudi-led coalition intercepts Houthi cruise missile, drone in western Saudi Arabia",
-     "src": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY295Z0RRZXRLOHRFdVdTbzZUa2RweXRLVHBXLUJPV1NMcmRNSVhyQ2c1WDJWNmU5bzFjRzdCcE1NcEgwcFJrMmFPR1QtbHBlNklWUmQyQ3VidDF6aDctNHAycEZpUzFWR0RxMGNpd0NfZnRaN3Z4VlE2ZjNTSFNhNmtoR2JIRUdLTVZDTmc0dEoxM08tNDZKMmh0TlJvMzYzR2I5T2tnUEtENFE2dkZZenNIa3RPSHZGS1JfTFZBSzhRZVlEa0E?oc=5",
-     "t_id": "Koalisi pimpinan Saudi mencegat rudal jelajah Houthi, drone di Arab Saudi bagian barat"
-    },
     {
      "t": "A global travel agency: Missile and drone attacks confuse travel movement to Saudi Arabia and international warnings against visiting it",
      "src": "الخبر اليمني",
@@ -84,9 +35,15 @@
      "src": "The Jerusalem Post",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YcW5GaENDdjhVUkwxRVZ3ZWVkeVpOR3UxVl9PN25IamdtaURlbHlZZGFCNVpncEFaS0NndV9jM19JUmpKMERqOE1QcXR0bVBfTWdXNjZXX1BnQ3A0?oc=5",
      "t_id": "Arab Saudi melancarkan serangan udara terhadap Houthi di Yaman ketika Inggris meningkatkan dukungan militer"
+    },
+    {
+     "t": "Yemen’s Houthis claim large-scale missile, drone attack on Saudi airport, oil facilities",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakU3dVVNbk8yZkJUTW9tMnVfUHgwZmRIMnBpendqVlVBaDhtWkFCN0EzS0lyWlpBTk9IeVNsMW9RZUEwbTNmLXJwVGpfRkIyeTNsbXdzS1JrTW5kdkZOOG1OWkpGcjJwd1FDTXdTZEw4aU9SRWRqZEg0YXdVSHp5VVhKWUQ3dl9yZzJlMUZDQlNRc0Zpa0tXVWh2UXpPSUlLcmlqS2hfZXhjYUVuM015Zw?oc=5",
+     "t_id": "Houthi Yaman mengklaim serangan rudal skala besar, pesawat tak berawak di bandara Saudi, fasilitas minyak"
     }
    ],
-   "title_id": "Pertahanan sipil Saudi mengatakan 11 orang terluka dalam serangan pesawat tak berawak Houthi di menara Riyadh"
+   "title_id": "Koalisi pimpinan Saudi mencegat rudal jelajah Houthi, drone di Arab Saudi bagian barat"
   },
   {
    "id": "indonesia-202611250305-9143",
@@ -170,41 +127,47 @@
    "title_id": "Chicago O'Hare Chaos saat Kegagalan Radar Memicu Ground Stop Kedua dalam Dua Hari"
   },
   {
-   "id": "politik-202611241736-babc",
-   "cat": "politik",
-   "label": "Guncangan politik",
+   "id": "siber-202611250946-e6d6",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "What is at stake for Spain’s art sector as snap election approaches?",
-   "src": "The Art Newspaper",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb05VU2lqV21tOHlyNm1oS0t6ckZFbTUzaFBjVEtBY3htVWVoRjdpVGxJQjFFNk1IaldjX1U0U0lfclplMWtkRlpyTURQNHh6d3lMeDNYQWFMRm5xeXZKdHBzZmtYTkdlSzF6WHVzcEppNVVUNEVpcVI4dTR5OUZ4ZzFJeTNEbkpELVB1eEYxMmY4M0lvd0hBR3cwYVY1dGto?oc=5",
-   "sources": 4,
-   "recent6h": 2,
-   "score": 5.0,
+   "title": "Microsoft declares 'Code Red' after historic service outage",
+   "src": "FOX 10 Phoenix",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlY5ekZwSXRkaGpKd3N0LXpvZmVJWFVvSFZSNlNQUy12NmNFaW4zSjB4MVR4c0dwOUhYdGVrX1ZpMnpTQUVfR3NZMUg2LTdPYmVHMU84RkZKRUYzaUh0YXkycW9zb1drbzhaMm9PYWd0RllXNFNEOE5PSVVTcUUtamNNd1lMMXJ2bTlKWEdLWVFhTmFoWGc?oc=5",
+   "sources": 5,
+   "recent6h": 1,
+   "score": 5.5,
    "level": "sedang",
-   "first": "2026-11-24T17:36:25Z",
-   "last": "2026-11-25T16:18:43Z",
-   "assets": "Mata uang & obligasi negara terkait",
+   "first": "2026-11-24T22:25:00Z",
+   "last": "2026-11-25T15:45:20Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Far-Right Parties Lead in Polls Ahead of Sunday’s Snap Election in Spain",
-     "src": "Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2FTenFDMEd3eW84QldhSmxvWlBNQVgwV2ktcTBacGFuTGJMY2RldDFhak9rWmpwZ2NXc1p5a0NmN3RPWFRTLXY0UHZFX01zYW9PcEVEUGFNUUpwTUxXN0JLODRiVXY5NnFDQi0tVm02LUxrVF9DcXR1SDBYMFBEWExHTktQOUN0SjBZUC1HVVhqOUlMS1JwbTNReTluQjJScHlpSEpXc3d4ajJFSGZuZkp6c2RTOWlaZGEzSzFn?oc=5",
-     "t_id": "Partai-Partai Sayap Kanan Memimpin dalam Jajak Pendapat Menjelang Pemilu Cepat hari Minggu di Spanyol"
+     "t": "Microsoft invokes 'Code Red' after global Outlook and Microsoft 365 outage",
+     "src": "TweakTown",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13bHhYZGlPTVcxdWN0NlV6Y1M5SUh6QU1VYTVYN2tMNl9sMWRaQjNpbm5nZDllVEo5OUFEZEFkQUEwNmRWMnlINXNiX2NGX05sTHpkVUttSG9pdUJIRTlpNnpXcllEVFRsX012cVJqNjBLMXlpalVlWU9pcHY4LTNjZ3dEQnpYMEp0MlFlNUZlUVdxczMyMS1TckVxQ3FuOEd6cXEwdjU5elRVbXhDZjhPYVNNMzNQbWNvMzhB?oc=5",
+     "t_id": "Microsoft memanggil 'Kode Merah' setelah pemadaman global Outlook dan Microsoft 365"
     },
     {
-     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-     "src": "BreakingNews.ie",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOG00V2xIWDNnTHVUQjRwNUQ4NUdXTjFIZmdudGVUN0Z4akNKUnM1SldiOGt5SUdHV2RkUUNDcDh4RDc5blQwTGNkNi1PZVpRXzZCLUpQQU5XNGVfaGpQOVlabVgtdEI2dVZES005N2h1Zkl5SjdNbnk2UHdWYzNzdG13QjRhbkNlSTRDdnVhZ09QOXZBRWR4OWJlRE40U2JkLWg5ZUlHUkpwcGY2OHZKQ3BVbXdMUWE0bnNQQ1RMeVRBdWlyVlp6U3c5YURmUQ?oc=5",
-     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+     "t": "Outlook, FAA, bank outage, oh my!",
+     "src": "Grand Forks Herald",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83TFY5Y2xsZHdrSjJyS0xfMVY3RHpRU0pOdlYzQ3hHQ1B3SkJyeVZtdkhFWW9UeTRJWVBweHZCQlFNLTdobjZfbWF2aXAtSGNWSWFPMElNck4tRVVNdmJlTTNxS3Q1UDRHeHZ1dkZlcjM3LURjLXc?oc=5",
+     "t_id": "Outlook, FAA, pemadaman bank, astaga!"
     },
     {
-     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-     "src": "Irish Examiner",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5U3Qta0ZOMWFtcjJVc3FfRTZNUkowWkkzXzlaSlJ5dnZKTHRGTGNqVUlqSnhEVEx1VE1XQ1dmdVhjN0diencydVYyUWFwMU5kWjNWbzEwYlZTRnk5ZWIzcUxxVGo?oc=5",
-     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+     "t": "Microsoft Declares 'Code Red' After 24-Hour Outage Exposes Failures Across Outlook and Teams",
+     "src": "www.techtimes.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXpJNENSc3lLWjlfZFRIOU1jaDhZYTBqcEM2RFBrMGdNNWQzVHFQNmF4c2VRejdpU1d1XzVTN3hzSDRaOUNhLU42YkZKUHZsSTZTc0NWbERPRVZELUExbUtETG1QQkVwYWo1ZEFXWjVGLVNnSkRJb2hpRWRRTVhoNHliQy01Y2x3?oc=5",
+     "t_id": "Microsoft Menyatakan 'Kode Merah' Setelah Pemadaman 24 Jam Mengungkapkan Kegagalan di Outlook dan Teams"
+    },
+    {
+     "t": "Microsoft Declares Code Red After Its Worst Exchange Online Outage, Memos Show",
+     "src": "Technology Org",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3FaVXNjeEtuMmVORkJWWk1YaEJKTnR0VG41ZkF6cl84c0IyZUlYS29SVGdrVnR6SnZheWRKV2tOVUViVEhCSzNndlkzUHBRMWZJZ3VjWmZhM0s2OUVTaDlKT0RuSU5kbEJSYTVkT3M5cjE4M2YwQlI0eG1RejViN19CczdIRkZiRkhGRndPUEFBSE1ZOHZiMm1ZZGlVSUpvV3o2TA?oc=5",
+     "t_id": "Microsoft Menyatakan Kode Merah Setelah Pemadaman Exchange Online Terburuk, Memo Ditampilkan"
     }
    ],
-   "title_id": "Apa yang dipertaruhkan bagi sektor seni Spanyol menjelang pemilu cepat?"
+   "title_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
   },
   {
    "id": "indonesia-202611241636-0579",
@@ -261,7 +224,7 @@
    "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Demo di Patung Kuda, Aliansi Perempuan Indonesia Desak Pemerintah Penuhi 7 Tuntutan - Halaman 2",
+     "t": "Demo di Patung Kuda, Aliansi Perempuan Indonesia Desak Pemerintah Penuhi 7 Tuntutan",
      "src": "Pikiran-Rakyat.com",
      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdTNGVjkzZGpSRkEtU25NX0R3OTZTRFhweFo0YnBqMVhKZDFpejJmR3M1LUhWLU5KejRYbWRmWktJcy03akVOQlg0QktGdW9rMUhIOHlobUFFS3pxdExrRzA0a1JsNXp4dFRpakhKMV8zSm9VV1hKT0lLOWxDdmh1UHBmSG1KdnJuYXVvX2ZzZEpuUmJ4Vzl2T3RQaGV1aEVJcGdPdk51VVFMYnY4TjJxSmJHRzh6REhuN0pwZlY4dGlITlFwLV9FVWtNQTBmSkFIdUxPV19leEpiZ2N5ZGRHUW9rSms5aE13M3Bmb3RBTXREZHFJY1M4M2FpcWZkUFBkRFhaLXA0dWEwRmN2RFlFd0RZa1R1bUI4S0E?oc=5"
     },
@@ -271,37 +234,6 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlFxdkhuMEU2MTBxWHdWWDI4WmNJR1M0bGNwaW9yVTFSUXBaTGpvVEwtSzNzUVZscEtWSHVsVlhISW1pdmw0dmtLUW5kb2tPWXFhZkFmdmctSlNKem5mX1g2VDNwWTBKNTg2ZGdwZDlSdEFrQmtVNW1wVzJpZVh5X25hLUVTZ2tVemhUMzhreTdleTNqRWlWSldDQXQ1UEZZYmpQVlZhMFFHLUhoaU5lLXpDUTc4eDFBYnc00gG7AUFVX3lxTE02UXF2SG4wRTYxMHFYd1ZYMjhaY0lHUzRsY3Bpb3JVMVJRcFpMam9UTC1LM3NRVmxwS1ZIdWxWWEhJbWl2bDR2a0tRbmRva09ZcWFmQWZ2Zy1KU0p6bmZfWDZUM3BZMEo1ODZkZ3BkOVJ0QWtCa1U1bXBXMmllWHlfbmEtRVNna1V6aFQzOGt5N2V5M2pFaVZKV0NBdDVQRllialBWVmEwUUctSGhpTmUtekNRNzh4MUFidzQ?oc=5"
     }
    ]
-  },
-  {
-   "id": "siber-202611250033-f1be",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Cyberattack exposes unclassified information from CIA system, US media reports",
-   "src": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalY3dkdwSHpOS3ZjaFFNcGc1NGNpc1BwYTQ0dmczYXJYNkZpbHZ1dDYzVG4wazBvdmp2clY0eXZ3MnJxMlBZaEFJTkdEWVhmNVZtOUJKUml0YU5fVERVSGN2RzB0ano3WW9iTDRrbTFXU1EzMDNIRXAzOV9yeTRZcmR4YW5DVFVreDNCbTNobm1QYXF5ZExzSW1mNkpPTk9uS3ZVR09kQmY0amJQaGxYQXl4eEJUNVNDaC1CMzlGRXQ?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-24T21:57:00Z",
-   "last": "2026-11-25T10:48:10Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "An unclassified CIA system was breached in a cyberattack, AP source says",
-     "src": "Federal News Network",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTThUQ2tKc3BHM25BejlUMk1vMUNWSW4tRFh3TWtBY1NCaEg1dU5aRWR6V1VVSElzei1Sa3RzN2kwWFhOSHVzVGVfUGFjNmlvdENKRXJDbWFhWVJZWVprN1dXX3VfSkIxVlBSdG5iQ0sxR1VWSlNuMHN3THl2WnJValVnVm5rX0FiQnBqYVZmYm53UEl3Ml9PRXQtRjN1b2xfSHRTTGgtUktkOXhQN3YyZ0p1LXFtdDhmd1JPS0h4V3VCSTg?oc=5",
-     "t_id": "Sistem CIA yang tidak dirahasiakan dibobol dalam serangan siber, kata sumber AP"
-    },
-    {
-     "t": "Unclassified CIA system breached in a cyberattack, sources say",
-     "src": "WPEC",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY091akhqNVVIc21iRl85YThRQUh3aXR6dmQzbDZnUnNscTlQQjdhNXIwa09JbEwzOFYtM2paZVZ0Ump5c0lHaUVXZjdYa1MtQkNwSlN6RmkxeUdsYTllTXdHMFlja1kyd09Dd0xmMmxDb3lBbnhvVWNaMzQ0M0NyRDM0RVhRUVJxU1RTT3VYWHU4cjVIbFBsY29DXzFXMWdKYlExY2lLb0FRcDRmY3hGUk5n?oc=5",
-     "t_id": "Sistem CIA yang tidak terklasifikasi dibobol dalam serangan siber, kata sumber"
-    }
-   ],
-   "title_id": "Serangan dunia maya mengungkap informasi yang tidak rahasia dari sistem CIA, lapor media AS"
   },
   {
    "id": "energi-202611251005-ec40",
@@ -329,31 +261,6 @@
    "title_id": "Harga minyak naik setelah Houthi mengklaim serangan terhadap kilang Saudi"
   },
   {
-   "id": "kesehatan-202611251150-f972",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response",
-   "src": "WSLS",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOODRaUm03Z1lGdmlHcUsyaXE4c282NDVKN0cwV3o3LU5lUEFWckUxRkRuZWlXb1A5N0xsUjNnUUZrRkNkY3lIOUxYeVo5ZWdkVjE2MlVlcTRKNDNZeEFjN2xzUDJTT0Z4OE81aXhsdlJkcllyUFplY05uZkVpUHJkN3VCLVJwT09TX2l1U1dhT3FqSjBxSThCaXhPaXk0TThqMEVwNHVHSWZpUHBSZzgxNTBZLWhPUmlhSko2cjM0U0FLTnpWRllMaDlPdE4?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-25T11:50:13Z",
-   "last": "2026-11-25T18:50:12Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response",
-     "src": "KRQE",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnY3N0xaYXE0WWl0ZExOQUV4WUxpMHJVdEg2QkVQcjY3S2J6clNqT3ZCbDNkOFF0dnNDQzVlZkhuVmpBT0Y5LVktbVFERFR3VVBhcmFzTDU0eTB5Umx6MThnQ1VBN2pDVzlLWE9xeXZ0cVF3eU0xclVnTDd4bWp5d2V4ekVfWkRhbjdhVnF5bUgyTjkxQ1B5YXk1MVpDZ0hjV282WmFJWGJMNlhMcVRPX0JTUkxtNmxYVUNrR0ozT2wyZ9IBwgFBVV95cUxPZnY3N0xaYXE0WWl0ZExOQUV4WUxpMHJVdEg2QkVQcjY3S2J6clNqT3ZCbDNkOFF0dnNDQzVlZkhuVmpBT0Y5LVktbVFERFR3VVBhcmFzTDU0eTB5Umx6MThnQ1VBN2pDVzlLWE9xeXZ0cVF3eU0xclVnTDd4bWp5d2V4ekVfWkRhbjdhVnF5bUgyTjkxQ1B5YXk1MVpDZ0hjV282WmFJWGJMNlhMcVRPX0JTUkxtNmxYVUNrR0ozT2wyZw?oc=5",
-     "t_id": "Pertempuran di Kongo timur memaksa pekerja Ebola untuk mengungsi, sehingga mengancam respons terhadap wabah tersebut"
-    }
-   ],
-   "title_id": "Pertempuran di Kongo timur memaksa pekerja Ebola untuk mengungsi, sehingga mengancam respons terhadap wabah tersebut"
-  },
-  {
    "id": "siber-202611250621-750d",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -379,6 +286,31 @@
    "title_id": "Pemadaman Digital dan Kelangsungan Bisnis"
   },
   {
+   "id": "politik-202611241736-babc",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "What is at stake for Spain’s art sector as snap election approaches?",
+   "src": "The Art Newspaper",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb05VU2lqV21tOHlyNm1oS0t6ckZFbTUzaFBjVEtBY3htVWVoRjdpVGxJQjFFNk1IaldjX1U0U0lfclplMWtkRlpyTURQNHh6d3lMeDNYQWFMRm5xeXZKdHBzZmtYTkdlSzF6WHVzcEppNVVUNEVpcVI4dTR5OUZ4ZzFJeTNEbkpELVB1eEYxMmY4M0lvd0hBR3cwYVY1dGto?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-24T17:36:25Z",
+   "last": "2026-11-25T16:18:43Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "Irish Examiner",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5U3Qta0ZOMWFtcjJVc3FfRTZNUkowWkkzXzlaSlJ5dnZKTHRGTGNqVUlqSnhEVEx1VE1XQ1dmdVhjN0diencydVYyUWFwMU5kWjNWbzEwYlZTRnk5ZWIzcUxxVGo?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+    }
+   ],
+   "title_id": "Apa yang dipertaruhkan bagi sektor seni Spanyol menjelang pemilu cepat?"
+  },
+  {
    "id": "indonesia-202611251522-e6c4",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -400,31 +332,6 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczU4R1ItLWtSTGZCZEJiMTM0ZFVaZ29rTVVwaVlKRmpsMUJhU1hnamRJV2EzTmZkMEhId2pqSnJ6dDZfb2REZWt6NXhKNHJabjk2LVZtM1VJaHZ2SE5Hd0wtQS1QX0psbnlKR19nMEhGUkFLRmVMdGNyVENQaDJ0RnBhQXdycDhpR2wyblRQRENqcnRQWXloV0FHLW9YZw?oc=5"
     }
    ]
-  },
-  {
-   "id": "siber-202611250551-74c4",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Americans Begin Panic-Buying at Costco Amid String of Tech Outages and Cyberattacks, With $7K Generators Selling Out",
-   "src": "www.techtimes.co.uk",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcHBSZHZUMXBXeFBkRjRoYnYtZEppbHJmSjJPRGROSVNqc0NoSHVLckJSWS0zNVdhYlFERVBfaUY5QThfZ1BkQkxyZlZkSjFRV1JWbFRqdUphNDJyczlPaUVEb2lrSzVuOThYSXhxeGhVX1VtaE1IOHVaOG9hZ0NXSVVkcw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T05:51:30Z",
-   "last": "2026-11-25T13:35:43Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "AI, Cyberattacks Or Something Else? Why Are Major Tech Companies Suddenly Facing So Many Outages",
-     "src": "Times Now",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTUMxay0zOVZfT21yb2stNG9HdnIyUnc1WFd3ejk5T0lITjJfcEtuSzRaR3FMakNoMEJ3NEt1MFViZUJqT05jMFpqMmY5cHowQVpPR3FUZGpBM1JlVVNTX0tSMkNlLUhaR2pDcFpqN0c0NzZkcXU1VzlxUFJoY3I0Qm02bWNKMkZlUUVQZG9SX2g2a0RSSVd4SmpJemM5YXVwaUNheUdsTUc5R1hvMUtCcWJwTzA1dnljRDlMWTBKdFZxRzBTM0ZxeUdxX1NjRFhVVFVhR2tyTk1tbTlvcHZtdmVxSldzR1BmNlFvZVVaNkJyd9IB9wFBVV95cUxQVXpSVXlScnZ0TEdLdi16MEV3ZjVnLUR5T1hzWjkwSlQycUhOSEZYdkR4LXpNSlRsVjI1cXNwYUJ4RjZmbm1fUkxVUURsQk1taE5SVkQ2SXJsb3FpNXhIT0FmTVB3ZmNpZFJXTzFERU1VaEtNX1NmRHZRSllLYUMwLXROdGFWcmNqOWZIMkwzYnJScmp0SWkzU3FmNFh0dzF2UWZ5UFRDdVU1UUFvRVlGZEhTTnV6ZG9YRktidmw3VWFwSWJLc3pSbzBtUzlDMWktTHdrLWF4UUlnQUM0UW01MkktV0RDaXhIUnl4eHR0eXRwWUYwSG5Z?oc=5",
-     "t_id": "AI, Serangan Siber, atau Hal Lainnya? Mengapa Perusahaan Teknologi Besar Tiba-tiba Menghadapi Begitu Banyak Pemadaman"
-    }
-   ],
-   "title_id": "Orang Amerika Mulai Melakukan Panic-Buying di Costco Di Tengah Serangkaian Gangguan Teknologi dan Serangan Siber, Dengan Generator Seharga $7K Terjual Habis"
   },
   {
    "id": "siber-202611241932-9a5b",
@@ -450,6 +357,31 @@
     }
    ],
    "title_id": "Pemadaman Microsoft 365 Mengganggu Bisnis di Seluruh Dunia"
+  },
+  {
+   "id": "siber-202611250033-f1be",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Cyberattack exposes unclassified information from CIA system, US media reports",
+   "src": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalY3dkdwSHpOS3ZjaFFNcGc1NGNpc1BwYTQ0dmczYXJYNkZpbHZ1dDYzVG4wazBvdmp2clY0eXZ3MnJxMlBZaEFJTkdEWVhmNVZtOUJKUml0YU5fVERVSGN2RzB0ano3WW9iTDRrbTFXU1EzMDNIRXAzOV9yeTRZcmR4YW5DVFVreDNCbTNobm1QYXF5ZExzSW1mNkpPTk9uS3ZVR09kQmY0amJQaGxYQXl4eEJUNVNDaC1CMzlGRXQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-24T21:57:00Z",
+   "last": "2026-11-25T10:48:10Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "An unclassified CIA system was breached in a cyberattack, AP source says",
+     "src": "Federal News Network",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTThUQ2tKc3BHM25BejlUMk1vMUNWSW4tRFh3TWtBY1NCaEg1dU5aRWR6V1VVSElzei1Sa3RzN2kwWFhOSHVzVGVfUGFjNmlvdENKRXJDbWFhWVJZWVprN1dXX3VfSkIxVlBSdG5iQ0sxR1VWSlNuMHN3THl2WnJValVnVm5rX0FiQnBqYVZmYm53UEl3Ml9PRXQtRjN1b2xfSHRTTGgtUktkOXhQN3YyZ0p1LXFtdDhmd1JPS0h4V3VCSTg?oc=5",
+     "t_id": "Sistem CIA yang tidak dirahasiakan dibobol dalam serangan siber, kata sumber AP"
+    }
+   ],
+   "title_id": "Serangan dunia maya mengungkap informasi yang tidak rahasia dari sistem CIA, lapor media AS"
   },
   {
    "id": "indonesia-202611250822-c6b3",
