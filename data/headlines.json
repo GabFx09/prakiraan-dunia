@@ -1,15 +1,23 @@
 {
- "updatedAt": "2026-11-25T19:43:18Z",
+ "updatedAt": "2026-11-25T19:57:59Z",
  "source": "Google News RSS",
  "items": [
   {
-   "topic": "saham-as",
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Catat Masuknya Dana Asing Rp 23 Triliun ke SRBI",
+   "src": "SinPo.id",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeDlQTHRCTUM0dkJlRG9JM0JrS0JrNEQwMXBrVGJpVDR5eUdPajRhamhwamo4LW4zXzh3djBlc0lwUUZBS2loRjhmTHEyUHJEa3kxSHdJay1RNkxDRE9nUnMxQjhGM1UtSGw1WGRsZjFxRVJOQ1RjcGsyLVpMTVFMTDJnbw?oc=5",
+   "time": "2026-11-25T19:50:00Z"
+  },
+  {
+   "topic": "china",
    "lang": "en",
-   "t": "Wall Street tempers early slide as pullback in AI stocks eases despite hotter inflation, new tariffs",
-   "src": "Seattle Post-Intelligencer",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMm5OV1pUQXNqXzBpVlIwUFlFMEFCOFNCLWNaXzc2VW85VVNLd3B0b0h5dmlaNlVKX2lnTnJzaGpCWk5MYzFUNjhUbUVzcUF2RTk3QzQyYUVqbEtYZE9KRHhTZ1J1SlpHUHp3UV9FNHU5WUtzc2Z6UjlHdXJMY3JZT1BxSEk5cC00c3Z1RXdxQV9rN1poSnZN?oc=5",
-   "time": "2026-11-25T19:07:30Z",
-   "t_id": "Wall Street mengalami penurunan awal karena penurunan saham AI mereda meskipun inflasi lebih panas dan tarif baru"
+   "t": "Trump proposes new tariffs on China, Europe and other trade partners",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
+   "time": "2026-11-25T19:42:18Z",
+   "t_id": "Trump mengusulkan tarif baru terhadap Tiongkok, Eropa, dan mitra dagang lainnya"
   },
   {
    "topic": "ai-teknologi",
@@ -65,15 +73,6 @@
    "t_id": "Kecemasan terhadap booming AI, inflasi dan tarif menyeret Wall Street lebih rendah dan S&P 500 merosot 2,2%"
   },
   {
-   "topic": "china",
-   "lang": "en",
-   "t": "Trump proposes new tariffs on China, Europe and other trade partners",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
-   "time": "2026-11-25T18:12:18Z",
-   "t_id": "Trump mengusulkan tarif baru terhadap Tiongkok, Eropa, dan mitra dagang lainnya"
-  },
-  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Tech sell-off deepens as Nasdaq, S&P 500 slide",
@@ -81,6 +80,15 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hd2FLTXFFUWpNMm5obU44TzFQZF81dHlMSUZ1V2VkbTZtSlV1S1paY3puZ1BvTnBjXzdUOWRxMFdreEpBVUVqZktNaUk0ZXFBcjRtUk94aDdyekRqQ09GeEdNY9IBaEFVX3lxTFBOQ0Zidkp5WEh1U21VUlhodGQ3UkVVTTNRWGVrLUtNWGt3N05CZEh6eV8tbXlVNVVhZ3NpUXFxMDlqUnNad3VMSUJGcVNvZ0MwZUc4VmkzdzJzM1dCbEZVMXgwZ29aU3cx?oc=5",
    "time": "2026-11-25T18:04:00Z",
    "t_id": "Aksi jual teknologi semakin dalam seiring merosotnya Nasdaq dan S&P 500"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran tightening control over Strait of Hormuz, spokesperson says",
+   "src": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50NVo1VDdfWlNSTkJJSi10LVFRekhucUhYMEZqOXd2dUU4ajJOQldCWUpnZll4REJFTDNaZUdBYVQzSGhYNHdPMTNTWVNkSTV0dm1lb0R4ZjFPZjM1NWRzWGhJTWJaSGlJbG1zeFNVejNycGVMZWo3NzlTQdIBgAFBVV95cUxPcVU5TUZyanRZSTF1OGRhc0RlSk1TNGpLRHdvbWpoaGlTZTNGamxxbFY0emVyOFVCMEFLcjhMLXVlR2J6Nkp5NFdZMFNRblc3QlhKZWZEOHB5LVlmTHRDTTZ5QmlQbWd0enNiVXBVYXBUWlZpenZHaEtjaS1MUHhFdQ?oc=5",
+   "time": "2026-11-25T17:54:00Z",
+   "t_id": "Iran memperketat kendali atas Selat Hormuz, kata juru bicaranya"
   },
   {
    "topic": "saham-as",
@@ -164,15 +172,6 @@
    "t_id": "Prediksi Harga Bitcoin untuk Desember 2026: Apa Kata Prakiraan"
   },
   {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-   "src": "The Sun Chronicle",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOUNseGdpc0xMVnpvQWhiV3RqdTdFR0FITDlTLU5rb1B1eF9zVTliTUZoTjBobEN2blRJM19Ndk5odm1fZmozZnFnSDg2NnJEZHpxUVpiQ0EwaE1UR2c5cXdIYmhkNDMyM05BYnA1RHFWanpCcjN0RXBXWmUtenVVSm9QOGs0UXJVQWllRjFEbTFkN2RObGdrR19zN1JzVGVDLWFUZVFUN0pQSlkwZjhLbVdQYURULU5xQmtJVFNldWRrNlFBMnpleVAyLXlpVVRldUl0SXFQNk8?oc=5",
-   "time": "2026-11-25T16:12:58Z",
-   "t_id": "Kekalahan AI menyeret Wall Street lebih rendah, S&P 500 merosot 2,7%"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "BTC price range on Nov 25, 2026 at 12pm EST Crypto Prediction Market",
@@ -217,6 +216,15 @@
    "t_id": "Harga emas saat ini per 25 November 2026"
   },
   {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "AI stocks drag Wall Street lower, S&P 500 slumps 2.6%",
+   "src": "Herald Bulletin",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOGVfa0dMRVBsdWcyOU1RZjN1R2t5UVJQX2hFRjZ5T1hFQl9iVnpLcWRpR21fOTdpU200bE54ZmFpR3BlVlRYakJHdEEwMmxpdlZIbUFSNW4wLVZoY1hXYjdBVEJZdUc4WlNuM2QyekJFOGF1M0dMM2E2SFJXdGJjUDFtbmk4UlFRS2dua3V6SXI4aTRZdV9JdGNYQTh4T2o1SGZvczQwU0hSdzZoNERyektPM052Nm50bXQ0QVhwckJOc2o0bkNPQ3VFdnJ0Zm5HTGMxWGVjemFCbGt5ZWhUa0N5MlY?oc=5",
+   "time": "2026-11-25T15:03:01Z",
+   "t_id": "Saham AI menyeret Wall Street lebih rendah, S&P 500 merosot 2,6%"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy",
@@ -233,15 +241,6 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRU5aOU5KVzlUeDlfOUhiWEFCNkxQd21DUGM3NlZROHBZOWNyODdDNXV5SW42dkQwRnNob3p1R1R3UVFYWThFMHRpMGlnQ1hBSGh5ZFM5OF9Db0M3TXFoMi1vd0RSa25EUkI2NG03MFhtQW5oUjVGQUo0YTZUZW80LUxMdjREOXFoaExfby01NkY3S2dVNUZNRHpTbnA?oc=5",
    "time": "2026-11-25T14:57:00Z",
    "t_id": "Aksi Jual AI Semakin Dalam: Nasdaq Turun 4% Saat Nvidia Jatuh Tajam"
-  },
-  {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "AI stocks drag Wall Street lower, S&P 500 slumps 2.6%",
-   "src": "Herald Bulletin",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOGVfa0dMRVBsdWcyOU1RZjN1R2t5UVJQX2hFRjZ5T1hFQl9iVnpLcWRpR21fOTdpU200bE54ZmFpR3BlVlRYakJHdEEwMmxpdlZIbUFSNW4wLVZoY1hXYjdBVEJZdUc4WlNuM2QyekJFOGF1M0dMM2E2SFJXdGJjUDFtbmk4UlFRS2dua3V6SXI4aTRZdV9JdGNYQTh4T2o1SGZvczQwU0hSdzZoNERyektPM052Nm50bXQ0QVhwckJOc2o0bkNPQ3VFdnJ0Zm5HTGMxWGVjemFCbGt5ZWhUa0N5MlY?oc=5",
-   "time": "2026-11-25T14:55:40Z",
-   "t_id": "Saham AI menyeret Wall Street lebih rendah, S&P 500 merosot 2,6%"
   },
   {
    "topic": "china",
@@ -378,14 +377,6 @@
    "time": "2026-11-25T13:22:52Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Rate Naik, Bunga Kredit Bank Diprediksi Menyusul pada Desember",
-   "src": "kontan.co.id",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQjVtSWlfWnk3YU9NSlM0ZWdlSDYyNzA2d0o5TERET21XLVBIcDM5ZmV4dXQ2cGRXVTROS2hNLVFGYndQd2d2ZnE1SDNKNHFxWlRhTGJLYkdwMFp4ZVc0eENxMGtrWi02aGNLTUJGYi1fRnhhcnhkdWMzX0tfbndyMFpnNnNwVW1TVUQ4cG82bmpMN29LeWw2LWdB0gGTAUFVX3lxTE13bWxFZ0FqQ2oyZmI4aHdQaExLVlNqOWRETVJERi04Qi1meEZ5VERxTHJDcC11V2M4ZGlkZ2JReEdUZmJzYjZmRXNRaEdhakZrd2o3MEdYdUxfaTRFRUJIR2xjZUJEbXYySWdIeHVYX3R6MWlTSW9MVTZfZDlDLW1yVHVTR0ZaUHNXRVY5dTlnZTRIOA?oc=5",
-   "time": "2026-11-25T13:21:15Z"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
@@ -427,6 +418,14 @@
    "src": "TradingView",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdkJmY3UzWVNfdHlCNk1QdlBnTjNpdGlNc1I5ZHJCYUFRT2JmcnYzQUxUUzNna3p2d2d2Vmp3QmRxbzY2RVRhd3F5VmJ3Wm9ONlZHU2ZPMTBpRXJQVTJtYlVqVENvZkU?oc=5",
    "time": "2026-11-25T12:57:43Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Rate Menanjak, Siap-Siap Bunga KPR Bank Mulai Naik",
+   "src": "kontan.co.id",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3NYZEVuenRyanFRclBDTHRYQjkwVDRyNjNMUzZIcXdldFcwcnJZV2J6R0dZNXlnb0s1S1pfYUpEUXlIcEtlV21lWGpwM0RHN003dkNXWi10WEtHSldzYllRVEUwN1poVVhPYkNNd0RONjRKelZRMEt4Tk9ZSlZub2IyMm1oN3l4UFZTU3N4LWbSAYoBQVVfeXFMTUhBUFRQTW1GeXdwVUN3MUQ2QWhxS3lJaU5MWTJ5dzl3amhnbk1oSlF1WWJUSWRzNmlENFlRUTQ5NGlYMkhJZThtRTJfeWYtazdzOHlhVHRuMGlEalV3NEstVHNSMmljWFF4eFN2UmNHbjlPVV9YWjVhdHduVFdXUTRkck1aNG9zOXBR?oc=5",
+   "time": "2026-11-25T12:48:43Z"
   },
   {
    "topic": "indonesia",

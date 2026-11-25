@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T19:43:33Z",
+ "updatedAt": "2026-11-25T19:58:14Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Microsoft issues 'Code Red' declaration following major Outlook outage",
    "src": "UNILAD Tech",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUxpOHUxeVpQXy1UR2NXZ05GeV9fS0p3dHg5RDE4Rk5UV1NEZDJJTGY5OFZXTVZxUjRrU1lNamJfZm5XdXhDU0hWNDNydEE4czNVNVN4akRrRVhlOWdvcG42blQxcGltdFB5NE96WERfYWkzZGM3dmI2eEs3LXlmRFlIS2pSMWNjY25MbEhlQ3FjM2pFWlE?oc=5",
-   "sources": 11,
-   "recent6h": 3,
-   "score": 12.5,
+   "sources": 10,
+   "recent6h": 2,
+   "score": 11.0,
    "level": "besar",
    "first": "2026-11-24T18:14:30Z",
    "last": "2026-11-25T17:10:19Z",
@@ -25,12 +25,6 @@
      "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
     },
     {
-     "t": "Microsoft Declares Code Red After Major Global Outage Disrupts Outlook, Teams and Copilot",
-     "src": "Speaks Media",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeF9ZV0FmTXRSc0VMel9kbXRSdWc1dU5oQlNoT29jVV9rdXlBWlV4dlFxSWF2QmE1bGVySE1wN0VQUWVDNWF3endOX2wtNnpwR2JvRUtESFVhTmJYZ0JxR1d6RjV5RWttcHE5YzhNZ3pxaUdubXRMVGJ2RmZxOHROVzlBTVFIamg5LUlvMVh2YTljd3B2eGMxMEdvUUU5cUEycjFNRXc0bUJVWWpWWTM4eS1JdDJwZmhvMDNraU1n?oc=5",
-     "t_id": "Microsoft Menyatakan Kode Merah Setelah Pemadaman Global Besar Mengganggu Outlook, Tim, dan Kopilot"
-    },
-    {
      "t": "Microsoft 365 and US air traffic outages expose travel insurance gaps",
      "src": "https://www.thetraveler.org/",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakpXUnNLQVVnckxaaXFzYWhNaFlqUi1iX0wtcW5uYXhZN0lhZVJWRlB3SlVFUzNmYWIyaGd6SGtEVWdRSnRrY2JNOEd6WUdFUC1ROEMxTFprQW8zV2EwcEI5Y3QyNXkzcXcyTEVpTXNGMVJwWVJwLXpHRjJTOGpxQkRqSzV0X2JMLWVQdHRrRURZdDBOS2Q0RW11amdmRkE?oc=5",
@@ -41,47 +35,15 @@
      "src": "Wisevoter",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0tfdzFhTTFDcmxzbGlfajVVN3hVSWk2dFNqNnFEMHN2UTdMOUlrNDJGVmJDd3dzcHRCVVdrUEwyNHNsdEtqakZoS2J6aW1sRjFReXZfelVvc0ZrYkhEcmM4X2pMT2hiajdkNm1MR2dyRkFhMlc5QXI0dm00eEw0YVJKMXo0TGxrZEd5SlhPdnVVREk?oc=5",
      "t_id": "Pemadaman Microsoft 365 Mengganggu Bisnis di Seluruh Dunia"
+    },
+    {
+     "t": "Microsoft declares Code Red after Microsoft 365 outage, targets one-hour recovery for global outages",
+     "src": "ForkLog",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3R6VEpSc1Q2Y0hJdVg1d1BMU0d1Vk9vS0JSdEVFdUNscVM5blUtbWVJMUJUV1FpU2RwVDZtMzF0dEowZmhxR0dKbFlPajUyVXdDdkU0V1VHR1E5Y2hnc2ZfUXJneGpIRURvMExKMmg2OHI0dl94WkJUdVJXb0czWjdtTGxGR2NkZVJfY2s5T3NnbUp6dEZ1Snp0Y085SUhOcnBuc2lYNDdWUEVPMVhhNk5iaHl5LThYTHczR1F1TGw?oc=5",
+     "t_id": "Microsoft mendeklarasikan Kode Merah setelah pemadaman Microsoft 365, menargetkan pemulihan satu jam untuk pemadaman global"
     }
    ],
    "title_id": "Microsoft mengeluarkan deklarasi 'Kode Merah' setelah pemadaman besar Outlook"
-  },
-  {
-   "id": "indonesia-202611250305-068d",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Emil Dardak Apresiasi Demo Buruh Jatim yang Berlangsung Damai",
-   "src": "MediaKompeten",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yYUQzMWVfV1NQLThSdGd1V0xMbVlRbHZxQlE3RkItSVRkVzdKc1hTQUdZZHlDT2FhT3FUZjZreWNSZ2RqdDB2SU90Rzg2RllhVWhGandkWFJROGF2enB4TDVBb1lIcTRMWkpJT2NEX3FCTEQ4UHN2M05B?oc=5",
-   "sources": 8,
-   "recent6h": 1,
-   "score": 8.5,
-   "level": "besar",
-   "first": "2026-11-25T01:23:49Z",
-   "last": "2026-11-25T14:39:19Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Demo UMK Jawa Timur Massa Buruh GESPER Kepung Kantor Gubernur di Jalan Pahlawan Surabaya",
-     "src": "Media Indonesia",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWZzdGJud0x2MHFNaUhzS3M0UWlGVl93aFVRQW9qTDhsNkRFMy1QZFpPUXhwSUdwSjQwSHRHaGROazVkc3lxc3QyUHgwZWVmMG9wSnYtTDZ6VUlVeHpfbmEzRlhRZnB1ZlNXS19tMFp6WTVmQ2Z1UXpEOTU3cmdXZHR3eDNaZndBRVdJZnVCUk40X3pHUWhHbW1qTHpZc3ZJWDJFUHBSQmtfaXNFdnkzakZ3WXY0c2otZGt0MHNYdmJRTlJUTVRmZzBPbmo?oc=5"
-    },
-    {
-     "t": "Demo Buruh Perlambat Lalu Lintas di Jalan Pahlawan Surabaya",
-     "src": "MediaKompeten",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXRzlKZmZsSUpJcXRPaDNtV1VBVXlBZ1ZJM0lGRnVtRi12eDlIb3lLOFZObFJDUldqNnpMNEhid3dDRW4wV1lnTEdNUUtjUUVCUEl2RDdHUnc5SE1SYmdPR2lVUG93d2tVMFJ5S3d1MTFuWGZx?oc=5"
-    },
-    {
-     "t": "Demo Buruh Perlambat Lalu Lintas di Jalan Pahlawan Surabaya",
-     "src": "bsinews.id",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FWDh5RF9OOU9qenFnRDBNTWQ3WF9PMl9jZ0FyVm8wUHBKQlltT21kc0U3SnFHYjk4YzFvNUlKVnZyY01fa1pRQ1k0NFc4NE5vLVJpLUlHaVV0LTRLQ0pWT0tKeHVFU0E?oc=5"
-    },
-    {
-     "t": "Arus Lalin di Jalan Pahlawan Surabaya Merambat Imbas Demo Buruh",
-     "src": "detikcom",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1FxZW10SkxfdzR0RUZvUm1EX09od3FXNFFOd29FcEF2UjEzc0ZRM1NCX0N0aWczcWdvbHc5NEVJYTBQS0FHZWhPc0hRTnJtNkxCY2lJTnhkaUV3UEdPYmd1LTdtUzZHLVVnREU1T2VRZVl4V3o3VUVxOXY3cmpQdHZuVmw3RkU0b0R5Ylh2ZHdGRHNGMUpNWlNfdU40SDZiUTVlV0NyTC1ZOGEy0gGyAUFVX3lxTE4ySmgzTWg4YWdJaEQxX1AwVzNiMHBBSElBbXVfWmMzZ2NpdmN3ZzBCZ0UxcXJsWTJhXzl0LUlJM1Z1cmJzNmVmejB1aUtmZ1BIbVRRQUpBbUt5XzJVbUwzSlVNZ2hFalBpQ0FLZzFTand3OGJ1UThyQXF3dVpRQU9JSEZQUVJSTHRxbGtTLXc1cWNIT2hDQ2N6bHVJQ1lvOWg0SFlOaXZOeFJvQ25xR2xlc3c?oc=5"
-    }
-   ]
   },
   {
    "id": "perang-202611242133-2926",
@@ -131,23 +93,17 @@
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "O'Hare Equipment Outage Triggers Ground Stop on Nov. 24; Refunds Available, but U.S. Law Sets No Fixed Delay Compensation",
-   "src": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVTgwQ1piYm1fZ3IwZVMzRVB6OWJreGZ5VWpPSW5BNk1CUndQLXU5X1NNSEZpTjZkc1FQZzZfZ0hKN2I0dV9Ob19FTVdocmo2T281dGQ4dlZnc2lXdmZEWHVQNjU3OU80N1I0WWlqN2d1SHc?oc=5",
-   "sources": 7,
-   "recent6h": 1,
-   "score": 7.5,
+   "title": "Chicago O’Hare Chaos as Radar Failure Triggers Second Ground Stop in Two Days",
+   "src": "Aviation A2Z",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BrQktocmNzVTJQNW15NXdFTmltVVExaHNJOFE4MjZkMUNaREhOWjFjS1NSaTBVMXZTU1FZVFFsdTVyUW54dHo2cjNfNkQxZW10YmJOaXhrbU0wM0RCaEJkTGRZZWEwdFB0aVVibXo2dU5DYTNtVHRGUjZPN2dxcGlxeGx5SF9iRXZmRTBtajd3VGpXY01aeHRnVm05M0JhcDlPaEEzcXB4bkRsV0tPQnJYT1N2dFBNcnlXV0QzMA?oc=5",
+   "sources": 6,
+   "recent6h": 0,
+   "score": 6.0,
    "level": "besar",
    "first": "2026-11-24T17:45:40Z",
-   "last": "2026-11-25T16:45:43Z",
+   "last": "2026-11-25T13:30:00Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
-    {
-     "t": "Chicago O’Hare Chaos as Radar Failure Triggers Second Ground Stop in Two Days",
-     "src": "Aviation A2Z",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BrQktocmNzVTJQNW15NXdFTmltVVExaHNJOFE4MjZkMUNaREhOWjFjS1NSaTBVMXZTU1FZVFFsdTVyUW54dHo2cjNfNkQxZW10YmJOaXhrbU0wM0RCaEJkTGRZZWEwdFB0aVVibXo2dU5DYTNtVHRGUjZPN2dxcGlxeGx5SF9iRXZmRTBtajd3VGpXY01aeHRnVm05M0JhcDlPaEEzcXB4bkRsV0tPQnJYT1N2dFBNcnlXV0QzMA?oc=5",
-     "t_id": "Chicago O'Hare Chaos saat Kegagalan Radar Memicu Ground Stop Kedua dalam Dua Hari"
-    },
     {
      "t": "Delta tech outage and FAA ground stop snarl U.S. Thanksgiving travel",
      "src": "https://www.thetraveler.org/",
@@ -165,68 +121,116 @@
      "src": "https://www.thetraveler.org/",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3I2OFIyWjVCYnRWM2NZRDM3V05Ma29HX1lZeERTRXl1bDRpR2lwdGFZOG9faWwwUjRhbTk4QW5rRkIyTl9GMnJwT2VVZGVQSXctMm9QbjV1ME5uWGtlUzNkWG1tUkRWQTEtU2xDUUxBczYyYlNEdU1BaGRTUjE2emt5RTFlN1dRaHdkR0RuaU0?oc=5",
      "t_id": "Pemadaman radar memicu pemberhentian kedua O’Hare dalam dua hari"
+    },
+    {
+     "t": "Radar outage and staffing woes trigger back-to-back O’Hare ground stops",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTJqdGtBTEJ5aHMwWEJObmFzLWU5RlBaQl9VX1BqU0hBN3VjalFKSlZqSDYtY0QyX1VnMUdwZ1FSWjhEOW8yXzNlOS1GbFdmX3pxa0lXbUp2Z19IQUVITHZYRThvQWVUTDREdm5NTExxTFRmd0ktNU1oUHRWWVN5dDl4dm9abThOMThoeEJkUUkwN2RTWTViM00yeEFPYVY0?oc=5",
+     "t_id": "Pemadaman radar dan masalah staf memicu penghentian operasi O'Hare secara berturut-turut"
     }
    ],
-   "title_id": "Pemadaman Peralatan O'Hare Memicu Ground Stop pada 24 November; Pengembalian Dana Tersedia, tetapi Hukum AS Tidak Menetapkan Kompensasi Penundaan Tetap"
+   "title_id": "Chicago O'Hare Chaos saat Kegagalan Radar Memicu Ground Stop Kedua dalam Dua Hari"
+  },
+  {
+   "id": "politik-202611241736-babc",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "What is at stake for Spain’s art sector as snap election approaches?",
+   "src": "The Art Newspaper",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb05VU2lqV21tOHlyNm1oS0t6ckZFbTUzaFBjVEtBY3htVWVoRjdpVGxJQjFFNk1IaldjX1U0U0lfclplMWtkRlpyTURQNHh6d3lMeDNYQWFMRm5xeXZKdHBzZmtYTkdlSzF6WHVzcEppNVVUNEVpcVI4dTR5OUZ4ZzFJeTNEbkpELVB1eEYxMmY4M0lvd0hBR3cwYVY1dGto?oc=5",
+   "sources": 4,
+   "recent6h": 2,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-24T17:36:25Z",
+   "last": "2026-11-25T16:18:43Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Far-Right Parties Lead in Polls Ahead of Sunday’s Snap Election in Spain",
+     "src": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2FTenFDMEd3eW84QldhSmxvWlBNQVgwV2ktcTBacGFuTGJMY2RldDFhak9rWmpwZ2NXc1p5a0NmN3RPWFRTLXY0UHZFX01zYW9PcEVEUGFNUUpwTUxXN0JLODRiVXY5NnFDQi0tVm02LUxrVF9DcXR1SDBYMFBEWExHTktQOUN0SjBZUC1HVVhqOUlMS1JwbTNReTluQjJScHlpSEpXc3d4ajJFSGZuZkp6c2RTOWlaZGEzSzFn?oc=5",
+     "t_id": "Partai-Partai Sayap Kanan Memimpin dalam Jajak Pendapat Menjelang Pemilu Cepat hari Minggu di Spanyol"
+    },
+    {
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "BreakingNews.ie",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOG00V2xIWDNnTHVUQjRwNUQ4NUdXTjFIZmdudGVUN0Z4akNKUnM1SldiOGt5SUdHV2RkUUNDcDh4RDc5blQwTGNkNi1PZVpRXzZCLUpQQU5XNGVfaGpQOVlabVgtdEI2dVZES005N2h1Zkl5SjdNbnk2UHdWYzNzdG13QjRhbkNlSTRDdnVhZ09QOXZBRWR4OWJlRE40U2JkLWg5ZUlHUkpwcGY2OHZKQ3BVbXdMUWE0bnNQQ1RMeVRBdWlyVlp6U3c5YURmUQ?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+    },
+    {
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "Irish Examiner",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5U3Qta0ZOMWFtcjJVc3FfRTZNUkowWkkzXzlaSlJ5dnZKTHRGTGNqVUlqSnhEVEx1VE1XQ1dmdVhjN0diencydVYyUWFwMU5kWjNWbzEwYlZTRnk5ZWIzcUxxVGo?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+    }
+   ],
+   "title_id": "Apa yang dipertaruhkan bagi sektor seni Spanyol menjelang pemilu cepat?"
+  },
+  {
+   "id": "indonesia-202611250305-068d",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Emil Dardak Apresiasi Demo Buruh Jatim yang Berlangsung Damai",
+   "src": "MediaKompeten",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yYUQzMWVfV1NQLThSdGd1V0xMbVlRbHZxQlE3RkItSVRkVzdKc1hTQUdZZHlDT2FhT3FUZjZreWNSZ2RqdDB2SU90Rzg2RllhVWhGandkWFJROGF2enB4TDVBb1lIcTRMWkpJT2NEX3FCTEQ4UHN2M05B?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-25T01:23:49Z",
+   "last": "2026-11-25T14:39:19Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Demo UMK Jawa Timur Massa Buruh GESPER Kepung Kantor Gubernur di Jalan Pahlawan Surabaya",
+     "src": "Media Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWZzdGJud0x2MHFNaUhzS3M0UWlGVl93aFVRQW9qTDhsNkRFMy1QZFpPUXhwSUdwSjQwSHRHaGROazVkc3lxc3QyUHgwZWVmMG9wSnYtTDZ6VUlVeHpfbmEzRlhRZnB1ZlNXS19tMFp6WTVmQ2Z1UXpEOTU3cmdXZHR3eDNaZndBRVdJZnVCUk40X3pHUWhHbW1qTHpZc3ZJWDJFUHBSQmtfaXNFdnkzakZ3WXY0c2otZGt0MHNYdmJRTlJUTVRmZzBPbmo?oc=5"
+    },
+    {
+     "t": "Demo Buruh Perlambat Lalu Lintas di Jalan Pahlawan Surabaya",
+     "src": "MediaKompeten",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXRzlKZmZsSUpJcXRPaDNtV1VBVXlBZ1ZJM0lGRnVtRi12eDlIb3lLOFZObFJDUldqNnpMNEhid3dDRW4wV1lnTEdNUUtjUUVCUEl2RDdHUnc5SE1SYmdPR2lVUG93d2tVMFJ5S3d1MTFuWGZx?oc=5"
+    },
+    {
+     "t": "Demo Buruh ke Gedung Grahadi Surabaya Memanas di Jalan Basuki Rahmat, Truk Boks Jadi Sasaran",
+     "src": "Tribunmadura.com",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2hRM1p6OHp0TWl0S0NpZlR2NGstNTVROUlfZ1Q1dU4xUkxaTXY0NlN4a2JlMVJzOHAxSV9BWVhudzJwZk5CTXlhUWswMlg0cUhKLUZwa1EzaWJKb0JXcjd4MXh0cW5nN25zNWt4YmZEMU4taWIzVW52aXdxYU1zMXpKX1R3eGNzWm5OR2VnQUFjMEdNODlrNm9QS2lBVnV6dUZLOWxRSnI0WXpWbEtiRllyUHN0ZWNfZFE5YmFrRTl6WjRQVzRxX0c0UElSUm9PV3dV?oc=5"
+    },
+    {
+     "t": "Demo 17 Ribu Buruh di Surabaya, Ini 4 Tuntutan yang Dibawa ke Kantor Gubernur Jatim",
+     "src": "Jatim TIMES",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVl1c3QwcWdRTWVLYS16U2E0MDZkempiSTRjakZtQU1INXFXU0VJTmRjb2JLOGt5TVdIQ0NLSXBSMGlPN2kyZGxaQTZFUzJIVTlYQWxsVERnaFJrREF1eTgxdzBJZlVYSEtfa3lqdUlWRGZpWlV2eHlDOExXWWRhcU45OC1RMmVIbmpOZkUxT0ZTZkJsWDQtTk96NkptN2cxcU94c3hjYlZBc1ZzSFBDRHRsUDIwTHNfVkFJZVE0YnN2NC14aGx5Mk9ydDZUeFNfeXg0?oc=5"
+    }
+   ]
   },
   {
    "id": "indonesia-202611241636-0579",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Hari Guru Nasional Diwarnai Demo, Mahasiswa Suarakan Nasib Pendidik",
-   "src": "detikNews",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUhtLUk2dEFxbEtiMlU1ZkxUZm4tdnEyVzVkZ3BkUkNtSkZvaGlla1NtNEMtSGJwd0lIUkNqR2J1cnZGSHJMNXBndjF2TjRvVHJ1MGRHbkY4SGIwSGhZN1lrS3hxR0Ywb3BvLWZiNlFsSEcyUUV0VDVTT1VjNU1WaFM2cXM3S1o0ZFV2eXppWTczVG9KYXpJQng1dGNNSk9NS0pnNlNtdVdZb2EtZWdRQld0Z9IBswFBVV95cUxQRUhtLUk2dEFxbEtiMlU1ZkxUZm4tdnEyVzVkZ3BkUkNtSkZvaGlla1NtNEMtSGJwd0lIUkNqR2J1cnZGSHJMNXBndjF2TjRvVHJ1MGRHbkY4SGIwSGhZN1lrS3hxR0Ywb3BvLWZiNlFsSEcyUUV0VDVTT1VjNU1WaFM2cXM3S1o0ZFV2eXppWTczVG9KYXpJQng1dGNNSk9NS0pnNlNtdVdZb2EtZWdRQld0Zw?oc=5",
-   "sources": 6,
+   "title": "BEM SI Bawa 7 Tuntutan ke Istana Saat Demo di Hari Guru Nasional, Apa Saja?",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUZuNGJiSFdGLVVmNXl2cXh5YUlhYm9fOUpMbVh4Q2dPQ2RpQkJfYnljWllBejlDd1lDbk1HX2VzYkVaYTBETXR1ZHNjTzcybXhiMnNqTDhVZVlYTERlVExuSG5wenctVS1ib3J0T3oxRzIwVFlBT2pLS1U5bDdzOE9Ed2FiX0ZVUUJhSlU4enhod3ZsY2pLcmJYM19qT181cnpwcDFYTXhMTUU1LVRiaElpOFlJc3UzWUJxZV83NmU0R2hnMk1r0gHHAUFVX3lxTE40ZkQxZkU4eV9TYjRJdmg5T3pKWkpnTnFwUlQxbXhHZENNT0tBYzNoamFTb0h6MDhVT3J2QXMzMnUxYUN3bE04b2VhM3NRbkpRN3gxOWlmaXQ0cEpab1R2TThiN0FLTjhUQUh4amNCRmlRR2d1OG5ORm0wRmZwSms0VnE5S1JuTExoMkR3QmpwbzZkYW9jeG4wN3FMbFNhZkhJVzFFeWRjeExXbF83b2NydEJoYXRTM1dfQ0ZiY0YtZHUtQkR6X1U?oc=5",
+   "sources": 3,
    "recent6h": 0,
-   "score": 6.0,
-   "level": "besar",
+   "score": 3.0,
+   "level": "sedang",
    "first": "2026-11-24T09:43:00Z",
-   "last": "2026-11-25T12:34:10Z",
+   "last": "2026-11-25T11:28:07Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "BEM SI Suarakan Tujuh Tuntutan dalam Aksi Demo",
-     "src": "Liputan6.com",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDVQaS1MaEt6UEpBNXBUWFNCakdkcDlmdlpjOU5CQmdWVmg0ZnlOVU44SmJzN2QwUmJXd3RJSGNORXRIcEVnenZxRzZyM2ljMHZxQzhzSnQyeFV4RXQwZ044YkZyNHl2UEF0T3VZdnVDNnAzZXJBa0hwaFZIZE40cEJkcGZOeUNRR1VBQy1tRUFCanNt?oc=5"
-    },
-    {
-     "t": "BEM SI Gelar Demo Hari Guru di Kawasan Monas",
-     "src": "CentralBatam",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VYUhSZmZzQTNuZnlvdkNNajVNSlI1T2RUaDRBV3VUeXRUTkkzb0dYWXRKS3ZhYlhUR0tnbnNYMmhmc0tsUUZNakdCM014bkpudncyZllIb2JuVXFjcWYwTkNrRGk?oc=5"
-    },
-    {
      "t": "Mahasiswa Demo Hari Guru di Kawasan Monas, Ini 7 Tuntutannya",
-     "src": "Liputan6.com",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlhENzhvbkVGVk9GXzc1a2ZzYnBwUVZuTW1mZmtqa1Fhcm9aM1FqeUFYTmotZjF1WkE3MS1RQ0VIUFZSSXNTUVVZVGlnbXhDMVdidlgxUXZrdkozT3A2dzFGcFEtOXU2REtoUElGeEdEX0VRSEJqajVrWFlvNWYtYjJhdDhVRFh0b2R0cWRqY0NlbU16UklkazFGNDR6QnhfdkNYd9IBnAFBVV95cUxNNGVUR29ZbTFwbkRXQmpXM2JuQkpqQ1ZYV0xOb1VvZkU0ZnpCMkxvOVRqRURCVDhSRGdCTHNvNXdWRmtkaXhYNm1OWVg2YmdIdmdyUldBUFhnSVg5MldUSkF5NnVHZGx2LVE3c1FsZ3pjX3JpSWl3T2Y5T2FBTEVURUlIWXlvbnlnTnQ4NW5BVXJsLXZjaGhyejk5Q0U?oc=5"
+     "src": "tvbangsa.id",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRklxX1cwYmVKZFhMMkpNVl9oWFhyYm5SYkRVQXJrR2Y1bmFLcHdNME1MYnh3NmVzb1d2QTVJRmZZNUJmN3Q3MlJYMWlydkc2WTYxcHd1bWcyaEJuTlhpakUtNURic0dFdG85VlJtMDZ1ajVTWkJiamRFRmpzdXJXZFhZNGhXUzlPY29nSldRaDZWSktfX21Pc1VSaEt6dWhn?oc=5"
     },
     {
      "t": "Mahasiswa Demo Hari Guru Nasional 2026 di 3 Titik Jakarta, Ini Link CCTV Pantau Lalu Lintas - harian.disway.id",
      "src": "HARIAN DISWAY",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSE1laHV0WkNOdHVaZzBFcHViclRiRWFoejFXak1aR2dCSHR5RHRiSVhOWWliUjV6MHN3emhhblpYTE9fdGo5SEpNY3B5S0FsZDBDWFhwaWE0OFhoT2RLcFRZMDBoeHh1RXY3Z2xEYUEwNWpPOTJwMmppNW82Vl9jd1JGb2Rxc0xONlZhbzN0RzZPY2ZCUURMY25ob0FqQVM2ZGR0WktjdTdNTFJpdGRZN2g1aF9nQllmMEdDVFFOdXlQSlJB0gHEAUFVX3lxTE9ITWVodXRaQ050dVpnMEVwdWJyVGJFYWh6MVdqTVpHZ0JIdHlEdGJJWE5ZaWJSNXowc3d6aGFuWlhMT190ajlISk1jcHlLQWxkMENYWHBpYTQ4WGhPZEtwVFkwMGh4eHVFdjdnbERhQTA1ak85MnAyamk1bzZWX2N3UkZvZHFzTE42VmFvM3RHNk9jZkJRRExjbmhvQWpBUzZkZHRaS2N1N01MUml0ZFk3aDVoX2dCWWYwR0NUUU51eVBKUkE?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611251522-e6c4",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "VIDEO: Demo Mahasiswa di Kantor Bupati Madina, Dua Satpol PP Luka Bakar dan Lemparan Batu",
-   "src": "Start News",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmtucDIzeVlqNG13bkJaNElXakVoc2hXX3ljS2pQMXVDYTE1OUxMN3dvdmRWVHhGXzVkT0tnTDd4bDFUOFdNeG9RLW5HYlhsMXUya3JwZ3dRWDZ5R3VSZWtnbzdpb1JGU3ZrR2kyYXFpMERqM0NZbmFRSC1PWW1RblI3VXVFX0dLeTF5bVJVdjNpU3BUUVRKREN3dkphblc2U2k2SFRvcnFNWkxIYjlyN05B?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-25T15:22:21Z",
-   "last": "2026-11-25T16:00:50Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Demo Mahasiswa STAIN Madina Ricuh, Dua Satpol PP Dilarikan ke Rumah Sakit",
-     "src": "MohgaNews",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczU4R1ItLWtSTGZCZEJiMTM0ZFVaZ29rTVVwaVlKRmpsMUJhU1hnamRJV2EzTmZkMEhId2pqSnJ6dDZfb2REZWt6NXhKNHJabjk2LVZtM1VJaHZ2SE5Hd0wtQS1QX0psbnlKR19nMEhGUkFLRmVMdGNyVENQaDJ0RnBhQXdycDhpR2wyblRQRENqcnRQWXloV0FHLW9YZw?oc=5"
     }
    ]
   },
@@ -247,16 +251,16 @@
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
+     "t": "An unclassified CIA system was breached in a cyberattack, AP source says",
+     "src": "Federal News Network",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTThUQ2tKc3BHM25BejlUMk1vMUNWSW4tRFh3TWtBY1NCaEg1dU5aRWR6V1VVSElzei1Sa3RzN2kwWFhOSHVzVGVfUGFjNmlvdENKRXJDbWFhWVJZWVprN1dXX3VfSkIxVlBSdG5iQ0sxR1VWSlNuMHN3THl2WnJValVnVm5rX0FiQnBqYVZmYm53UEl3Ml9PRXQtRjN1b2xfSHRTTGgtUktkOXhQN3YyZ0p1LXFtdDhmd1JPS0h4V3VCSTg?oc=5",
+     "t_id": "Sistem CIA yang tidak dirahasiakan dibobol dalam serangan siber, kata sumber AP"
+    },
+    {
      "t": "Unclassified CIA system breached in a cyberattack, sources say",
      "src": "WPEC",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY091akhqNVVIc21iRl85YThRQUh3aXR6dmQzbDZnUnNscTlQQjdhNXIwa09JbEwzOFYtM2paZVZ0Ump5c0lHaUVXZjdYa1MtQkNwSlN6RmkxeUdsYTllTXdHMFlja1kyd09Dd0xmMmxDb3lBbnhvVWNaMzQ0M0NyRDM0RVhRUVJxU1RTT3VYWHU4cjVIbFBsY29DXzFXMWdKYlExY2lLb0FRcDRmY3hGUk5n?oc=5",
      "t_id": "Sistem CIA yang tidak terklasifikasi dibobol dalam serangan siber, kata sumber"
-    },
-    {
-     "t": "An unclassified CIA system was breached in a cyberattack, reports say",
-     "src": "WXII",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXNxRU9OanpodHNkRTJEQjF6b3NqdUNOZmdLY213clRCYXZ3cW9CVWZQazFPWWwwNUN1bnZxTW5nRGNPaTdtekJQenNpVmJveG5KVXNJeEZHYjAwYnhLVzhwX29rRWg1VndZS0ZUWC1xb3JYSmVhdnBkZEpzTnprTElmOVE5d1pZcDVpaA?oc=5",
-     "t_id": "Sebuah sistem CIA yang tidak dirahasiakan telah dibobol dalam serangan siber, kata sejumlah laporan"
     }
    ],
    "title_id": "Serangan dunia maya mengungkap informasi yang tidak rahasia dari sistem CIA, lapor media AS"
@@ -287,54 +291,6 @@
    "title_id": "Pemadaman Digital dan Kelangsungan Bisnis"
   },
   {
-   "id": "politik-202611241736-babc",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "What is at stake for Spain’s art sector as snap election approaches?",
-   "src": "The Art Newspaper",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb05VU2lqV21tOHlyNm1oS0t6ckZFbTUzaFBjVEtBY3htVWVoRjdpVGxJQjFFNk1IaldjX1U0U0lfclplMWtkRlpyTURQNHh6d3lMeDNYQWFMRm5xeXZKdHBzZmtYTkdlSzF6WHVzcEppNVVUNEVpcVI4dTR5OUZ4ZzFJeTNEbkpELVB1eEYxMmY4M0lvd0hBR3cwYVY1dGto?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-24T17:36:25Z",
-   "last": "2026-11-25T16:18:43Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-     "src": "Irish Examiner",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5U3Qta0ZOMWFtcjJVc3FfRTZNUkowWkkzXzlaSlJ5dnZKTHRGTGNqVUlqSnhEVEx1VE1XQ1dmdVhjN0diencydVYyUWFwMU5kWjNWbzEwYlZTRnk5ZWIzcUxxVGo?oc=5",
-     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
-    }
-   ],
-   "title_id": "Apa yang dipertaruhkan bagi sektor seni Spanyol menjelang pemilu cepat?"
-  },
-  {
-   "id": "indonesia-202611250520-0aa2",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo di Jakarta – Aliansi perempuan serukan tuntutan dengan salam tiga jari",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BM0c1cS1lU1lLZ3dFbGJFUUdNQ1pmM0V6X2Ntd2dQRTB0R1F6VGk3emtnLThXbW5qdWN0NVo1eE5JTUVoWERkTGdFUVBJMVR1NGlXb1ctS0dKUkkwWlo3djhyLUt4YzDSAWdBVV95cUxOQTNHNXEtZVNZS2d3RWxiRVFHTUNaZjNFel9jbXdnUEUwdEdRelRpN3prZy04V21uanVjdDVaNXhOSU1FaFhEZExnRVFQSTFUdTRpV29XLUtHSlJJMFpaN3Y4ci1LeGMw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T05:20:00Z",
-   "last": "2026-11-25T13:40:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Demo di Patung Kuda, Aliansi Perempuan Indonesia Desak Pemerintah Penuhi 7 Tuntutan - Halaman 2",
-     "src": "Pikiran-Rakyat.com",
-     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdTNGVjkzZGpSRkEtU25NX0R3OTZTRFhweFo0YnBqMVhKZDFpejJmR3M1LUhWLU5KejRYbWRmWktJcy03akVOQlg0QktGdW9rMUhIOHlobUFFS3pxdExrRzA0a1JsNXp4dFRpakhKMV8zSm9VV1hKT0lLOWxDdmh1UHBmSG1KdnJuYXVvX2ZzZEpuUmJ4Vzl2T3RQaGV1aEVJcGdPdk51VVFMYnY4TjJxSmJHRzh6REhuN0pwZlY4dGlITlFwLV9FVWtNQTBmSkFIdUxPV19leEpiZ2N5ZGRHUW9rSms5aE13M3Bmb3RBTXREZHFJY1M4M2FpcWZkUFBkRFhaLXA0dWEwRmN2RFlFd0RZa1R1bUI4S0E?oc=5"
-    }
-   ]
-  },
-  {
    "id": "kesehatan-202611251035-c560",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -360,108 +316,29 @@
    "title_id": "Orang Dewasa di Lafayette County Menjadi Kematian Campak Ketiga di Wisconsin Saat Wabah Mencapai 918 Kasus di 24 Negara"
   },
   {
-   "id": "indonesia-202611250822-c6b3",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Protes Tambang Ancam Badak Jawa, Warga Pandeglang Ancam Demo 4 Desember di Jakarta",
-   "src": "Head Topics",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk02Wm5wcDE4S0ZBcndNWEZMVG9IMUVUczM1Sl9SYTFwZU95NENROWoxMEJUYURsY2haSW9ZR2Z6ZnNEWjNoTXNGUkFBbGd4dVhmNXFZVmZ6M0NQN1doWThGQWRiMDA0MW9OQVlBUXU1Nk5ZdDhFNTJ4NC1qSlJYUHdYVXBva0U0OG40Tl9DVWY2VTFLWGVIdkRR?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T08:22:40Z",
-   "last": "2026-11-25T08:26:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Protes Tambang Ancam Badak Jawa, Warga Pandeglang Ancam Demo 4 Desember di Jakarta",
-     "src": "Suara.com",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa1JITGNPeG1QNzV2SGlpOVRnbE9CN2l6QzRIT0tGUjNaaWdQUkpEbkJWV0FNelhyT1p2RGw3ZTIxRnN1R0I3cnhHVmE3TFN2MG1zSllyTjlPV0pWb2xoMlotME1HRUkybTI5eXZLQTctRzk5TTBmM1drUjNfT3dfZ3ZRY3F4WmZtREJudEM2Wmg3NFVwbGVnX0hLbG1XcFR1cGVfa1lRbjgyaGVodk9sYWRqeFplaVl1U1otQmVUbjdRYjVnZmhrTXR2SFRna3Ex0gHEAUFVX3lxTE03eFhOY0dEdWpOMkRfbExoMm4wSGFfWHJLdlpKbHB1QzhlTGVfYmVnaDh4NzJtQ0tXVDRVaGFOdFhZUlg0VGRkcHV0cjdKckZ5dVlBMHhnMzNkeDdVN3JkYVNUVktZZ2ZPUHA5d2I1ZnpsNU1GUVIzZTVVNHNUSFdTYnoyYUhQV2o5MjItVUNEdTVDRUZhZEJxV2ZoT3ROZGwxVVVHSXBmcFFqUmlsOG5QWWJNaG82VmhRamczR2pxdVBxOWU?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611250304-0f33",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Tersangkut Kasus Kematian Kades Sukoharjo, DPC Demokrat Pati: Mukit Sudah Pasrah",
-   "src": "murianews.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU0RRaGlCX3QzQlQtUkZuTkZvcEJQdXVRV3ZLbjZFV2tELUZiY2JSWFplSEhxeTB5RHZray1FZU0zeS1sZXVHV2NBSlpUZEdubEV1YjZWUjBySVFlOGpZQ3lmVzV1RXRkS0s1VFJ6ZDJjaUJMa3RqWWxCZXFmR1FaMHRwUU5JeWcydUFmNnh4djA0aGVSUVNha0VaYUhMeG56Z28wVXFzZnFxVzJaTGE1bjBqQVg3U3lieDRqbnZicUtaeGRN?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T03:04:00Z",
-   "last": "2026-11-25T08:06:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Usai Demo di Polresta, Massa Desa Sukoharjo Geruduk Demokrat Pati",
-     "src": "murianews.com",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZk1EMm50TkFGN0laRFRsSlk0REUtLXc1Q0t4aVF1SERhU3c3UnJveHlWcUR6UER6OEhQR25MWFFuT3FRczlkaTZocW93LWV6QU9wRG5JLVNTZkkyX0xlS2hrcDNKakRrWC1ES0lBVnhuOXJDVF9UMjZ2ekF5VFZuQklPdGZwRmdKSlVtdmNLTFZzVm9ubzQ0YThXd0pvRDBfLUdmakpPSGVMLWdCZ2VVTzl3?oc=5"
-    },
-    {
-     "t": "Pati Hari Ini: Ratusan Warga Sukoharjo Gelar Demo di Depan Kantor Polresta Pati",
-     "src": "Mitrapost",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGpBNXhHQUw4MEtFUUJyZTJRTE1PY1ljSXZtcGlSSUp5YnJET0ZKZVlDZ0FSVnhCQm1zMEFRTE9hbEJvazJsOU5PMl9fNm9hV0FJM1NlX0FCVzRJaVllTVVpYlR0VF96VG5EV3o0UGdxcHFsdmt6eGxrMFJOODEzeU1WLWI0NGVpcVA1Nm50X1p0YTBBQURBck9ob0lGWDhmVzhWbDcwZlVONi0zcFhiakRR?oc=5"
-    },
-    {
-     "t": "Tuntut Keadilan Kematian Kades Suparjo, Warga Sukoharjo Demo di Polresta Pati",
-     "src": "murianews.com",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYnZYejNMMFAxS21aOElwSmdJS3RCSkxsWjc3Y2FXVjAyZjZNUmlGOElKUXJzLXB0Q0lyRm9xSkVnNERCUkd2UEVTVTl3UUhhUlk4UDVJbG1lR3RTUTBLb2dyR3lTRURkLU5NRWpZTXVDOG9fTTljdXlwQVBSaU5VcnJObGdUYlpIU1dYU3dqMDZrWUEyRmRNZ3ZIMU04c1hKSGU1QmxyRzI3YjE3QnYtZjI2M2NEXy1HWWdfUjVOa3dUZw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "transportasi-202611241948-3b5d",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
+   "id": "siber-202611250551-74c4",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "New FAA Rule Takes Effect November 24: What US Air Travelers Need to Know About Possible Flight Delays",
-   "src": "Speaks Media",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbEx6bFlZb3RjRnBsY2dVOHBKQU9rRXgxN3Q1WkJhZk1tLUhJT21CNE52NExBbm9xdUJyeXBzNUU4WWt1NWJSVlRtNmJoVGtkYkFac1A4bG9wS3lRcWFFb2dZb2RfRjg2U2tZUE9JS0Z2cTZweXY1QnZTTW56OWJVSThwT2ZLWE91QXNhcFdQVkNxbWhUU01Sa2k2ck9PVFhHMGlJMEJIc1U2ZmpkZEttSmhPQXJ1UnNCTDdoMnJUZm50MGU2bjBR?oc=5",
+   "title": "Americans Begin Panic-Buying at Costco Amid String of Tech Outages and Cyberattacks, With $7K Generators Selling Out",
+   "src": "www.techtimes.co.uk",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcHBSZHZUMXBXeFBkRjRoYnYtZEppbHJmSjJPRGROSVNqc0NoSHVLckJSWS0zNVdhYlFERVBfaUY5QThfZ1BkQkxyZlZkSjFRV1JWbFRqdUphNDJyczlPaUVEb2lrSzVuOThYSXhxeGhVX1VtaE1IOHVaOG9hZ0NXSVVkcw?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-24T19:48:24Z",
-   "last": "2026-11-25T07:50:31Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
+   "first": "2026-11-25T05:51:30Z",
+   "last": "2026-11-25T13:35:43Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "New FAA rule on Line Up and Wait (LUAW) raises Thanksgiving flight delay concerns",
-     "src": "Beinsure",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1E1WkZnMGVja2diVUdTYzk1Ri1CSUJ4SnRZR0NiaUIwNEM2bm4tajVyRVJFS3NtMzh1UGhyZnQ3dUxVYng5SWk2VnlkOGdLa1VaMElmdy1mM01nZFdNLWQyZmxVQWlzQU5uTzByYmp1RVhGYWplVlJwM0s3TXA1UGdnV1YwZUhkRWZHMWxkLXpqaFhIcW5LWjN2dExVeFA0V0hz?oc=5",
-     "t_id": "Aturan baru FAA tentang Line Up and Wait (LUAW) menimbulkan kekhawatiran penundaan penerbangan pada hari Thanksgiving"
+     "t": "AI, Cyberattacks Or Something Else? Why Are Major Tech Companies Suddenly Facing So Many Outages",
+     "src": "Times Now",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTUMxay0zOVZfT21yb2stNG9HdnIyUnc1WFd3ejk5T0lITjJfcEtuSzRaR3FMakNoMEJ3NEt1MFViZUJqT05jMFpqMmY5cHowQVpPR3FUZGpBM1JlVVNTX0tSMkNlLUhaR2pDcFpqN0c0NzZkcXU1VzlxUFJoY3I0Qm02bWNKMkZlUUVQZG9SX2g2a0RSSVd4SmpJemM5YXVwaUNheUdsTUc5R1hvMUtCcWJwTzA1dnljRDlMWTBKdFZxRzBTM0ZxeUdxX1NjRFhVVFVhR2tyTk1tbTlvcHZtdmVxSldzR1BmNlFvZVVaNkJyd9IB9wFBVV95cUxQVXpSVXlScnZ0TEdLdi16MEV3ZjVnLUR5T1hzWjkwSlQycUhOSEZYdkR4LXpNSlRsVjI1cXNwYUJ4RjZmbm1fUkxVUURsQk1taE5SVkQ2SXJsb3FpNXhIT0FmTVB3ZmNpZFJXTzFERU1VaEtNX1NmRHZRSllLYUMwLXROdGFWcmNqOWZIMkwzYnJScmp0SWkzU3FmNFh0dzF2UWZ5UFRDdVU1UUFvRVlGZEhTTnV6ZG9YRktidmw3VWFwSWJLc3pSbzBtUzlDMWktTHdrLWF4UUlnQUM0UW01MkktV0RDaXhIUnl4eHR0eXRwWUYwSG5Z?oc=5",
+     "t_id": "AI, Serangan Siber, atau Hal Lainnya? Mengapa Perusahaan Teknologi Besar Tiba-tiba Menghadapi Begitu Banyak Pemadaman"
     }
    ],
-   "title_id": "Aturan FAA Baru Mulai Berlaku 24 November: Apa yang Perlu Diketahui Wisatawan Udara AS Tentang Kemungkinan Penundaan Penerbangan"
-  },
-  {
-   "id": "indonesia-202611241636-0579",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Ada Demo Mahasiswa di Istana Negara Hari Ini, Simak Jalur Alternatif",
-   "src": "Kompas.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1F0dHBmNmgxdEk5c2tkbGtJeXhnV0hFTGI1RXFubnI1MXZQU3hISHg1ZHZnSHJ3X3BOdDBYQnFGVmFPREctUlprd2FZb3I3VC1oVDgtdkhaeUN6T190cFZzQXVmSl9FZDc5REMwak15QXVoRWtCVzhyX2gxMjJYUXlBVDRnQWV0ZElLMWQyY3ZhcDUyMnVlc1hWNWJISVh4NHZfb0lMbHFhak5Mb3Z0dkQ1R0dLMFYxV0lvT0N3?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-24T09:43:00Z",
-   "last": "2026-11-25T04:16:33Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Demo Mahasiswa di Istana Negara Hari Ini: Jadwal, CCTV, dan Kasus Listyo Sigit",
-     "src": "Inforiau",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUt0ZnR2WEdVem1waUJnYTBqV1JJZVFyOWFpeXJQNElkU3dZVVEtSW5VWnA1OUZCRk85LU9sQjdveGxPdEl4emJBNTExX2tWa1lrckdlckY4aVNmSmo5dTd4cXBkd2tUZGtERWVlS0owOVdqX0I5UlQxTnBBNURSbHFJOTdQNzlOMFVFYmFzQzd3dXpBaUh3RjNEVXVmQ2lSNmNBb05zaFU?oc=5"
-    }
-   ]
+   "title_id": "Orang Amerika Mulai Melakukan Panic-Buying di Costco Di Tengah Serangkaian Gangguan Teknologi dan Serangan Siber, Dengan Generator Seharga $7K Terjual Habis"
   }
  ],
  "errors": []
