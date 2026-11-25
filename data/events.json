@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T04:30:56Z",
+ "updatedAt": "2026-11-25T04:45:37Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -45,17 +45,23 @@
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "Flights delayed at Chicago O’Hare airport as ground radar system suffers outage",
-   "src": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUdrQ3cxOWc4SFlac1kxMFNyVzFweUR1MDV6QzdmdmtwTmtoMjZrNDY0eW5jbUVYRHV6ckZNX0w1SXVsNDFmaUxramdJNXNqeFNjR0JQU3dYSW5fTEJUUGNNNGxiN1B3bER5RGhqUS04UjJmZnNnZi1USVROY2NJUU1uYVhUUzBhWV8yUXc2MnpuOHhYWGJQVVRSV1dEZlZ1eWZGRzdZQWZNTFhPNVoyakRQRVFFVW8wWG1Pa1lGdUstU0ZQaWpBN05DWWhveGQyenRCbzR1LWU5QWdtSFYtSGt1a9IB6AFBVV95cUxQVGFwWG5qNU12eWtZeEgwZEsxMTRqVlJJQUVEWDFKLV9GamNGZHZxdExMOXpTOHN2c1A3MjBHN3lMZ0NVTDF0MWg3cktOam5VcXU2RWFFRmFOT1A5T2dwY2FrQlprMnFkenh1Wkp3SmRrRWdJRDlxRGVYNHJKN1lfTHlDTGpoNmhYdW9MYTBvMm53MHUyYS1RZThSeVBzZzBXcjVKTURyanBJSmRPSzdzcnVSYTJPNU1NZjVDbW1KRW9FVzNMZG15dTEySEFjZkh0WUxmaVVxakVNVVBpNkdlT2tpNHJLcGZL?oc=5",
+   "title": "Radar outage triggers second O’Hare ground stop in two days",
+   "src": "https://www.thetraveler.org/",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3I2OFIyWjVCYnRWM2NZRDM3V05Ma29HX1lZeERTRXl1bDRpR2lwdGFZOG9faWwwUjRhbTk4QW5rRkIyTl9GMnJwT2VVZGVQSXctMm9QbjV1ME5uWGtlUzNkWG1tUkRWQTEtU2xDUUxBczYyYlNEdU1BaGRTUjE2emt5RTFlN1dRaHdkR0RuaU0?oc=5",
    "sources": 4,
-   "recent6h": 5,
-   "score": 6.5,
+   "recent6h": 6,
+   "score": 7.0,
    "level": "sedang",
    "first": "2026-11-24T00:55:37Z",
-   "last": "2026-11-25T01:22:00Z",
+   "last": "2026-11-25T04:15:47Z",
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
+    {
+     "t": "Flights delayed at Chicago O’Hare airport as ground radar system suffers outage",
+     "src": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUdrQ3cxOWc4SFlac1kxMFNyVzFweUR1MDV6QzdmdmtwTmtoMjZrNDY0eW5jbUVYRHV6ckZNX0w1SXVsNDFmaUxramdJNXNqeFNjR0JQU3dYSW5fTEJUUGNNNGxiN1B3bER5RGhqUS04UjJmZnNnZi1USVROY2NJUU1uYVhUUzBhWV8yUXc2MnpuOHhYWGJQVVRSV1dEZlZ1eWZGRzdZQWZNTFhPNVoyakRQRVFFVW8wWG1Pa1lGdUstU0ZQaWpBN05DWWhveGQyenRCbzR1LWU5QWdtSFYtSGt1a9IB6AFBVV95cUxQVGFwWG5qNU12eWtZeEgwZEsxMTRqVlJJQUVEWDFKLV9GamNGZHZxdExMOXpTOHN2c1A3MjBHN3lMZ0NVTDF0MWg3cktOam5VcXU2RWFFRmFOT1A5T2dwY2FrQlprMnFkenh1Wkp3SmRrRWdJRDlxRGVYNHJKN1lfTHlDTGpoNmhYdW9MYTBvMm53MHUyYS1RZThSeVBzZzBXcjVKTURyanBJSmRPSzdzcnVSYTJPNU1NZjVDbW1KRW9FVzNMZG15dTEySEFjZkh0WUxmaVVxakVNVVBpNkdlT2tpNHJLcGZL?oc=5",
+     "t_id": "Penerbangan tertunda di bandara Chicago O'Hare karena sistem radar darat mengalami gangguan"
+    },
     {
      "t": "Chicago O’Hare Flight Delays Mount After Two Ground Stops in Two Days",
      "src": "FTN news",
@@ -69,19 +75,50 @@
      "t_id": "Chicago O'Hare Terkena Perhentian Kedua dalam Dua Hari Selama Demam Thanksgiving"
     },
     {
-     "t": "Second Ground Stop in Two Days Disrupts Chicago O’Hare Ahead of Thanksgiving",
+     "t": "Equipment outage triggers ground stop at Chicago O’Hare",
      "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWc5QjQ2Vm14RHZyOGpkQ3BSUXhJU29DQWhkeXN5czVWc2xhWmEzYXBVTWpENzBXRlQ4aVZvS1Jocko2Z0VjdklESHBpRUJiV1QzelB3RkJ6cmRhV1F1eEF0YnNJTzBGYWd6V3ZCMFBYMjlHUjY0ZThURXZHdEpsaE1FTXZJMldEM2ZBb1N3Q0NTektqMldiUXViaThvZnk5blVrWXU0QQ?oc=5",
-     "t_id": "Perhentian Kedua dalam Dua Hari Mengganggu Chicago O'Hare Menjelang Thanksgiving"
-    },
-    {
-     "t": "Second O’Hare ground stop in two days hits Thanksgiving travel",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEs0RHI1bjFsSC1mNXFaV3B2aUlqSUZydDN3aTJkXzBuQkpHODVQMzUxT0JzNTZVVVk2eHo1NjRDeVcwQVFzVnRhN2I2VHlZd05SVG9MLXB1MlFrVHpBRWw5MXdhN3k3MkZuY0Ywc29QNXlocEVucnVTWWV6LTNYajBKcFUteDJVb0RNQnNWVE1rSWtR?oc=5",
-     "t_id": "Perhentian O'Hare kedua dalam dua hari menjelang perjalanan Thanksgiving"
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNlJmX2lBNlZSR0tvWWc0eHRhOFdFMGFuN2oteE13aWpYdWlLQVE2RUNJOVZqQk40SmhLbzh3RmxWX0hZZHRwWUFpMEMySnVPd2Zlb0NBX0VaQ1JIUGs3SFMtai05YjRGWVExQllLWHVuZkxFTmhpdDRPWTFwNXNUNEUxeW9MeUM4VG1Z?oc=5",
+     "t_id": "Pemadaman peralatan memicu penghentian di Chicago O'Hare"
     }
    ],
-   "title_id": "Penerbangan tertunda di bandara Chicago O'Hare karena sistem radar darat mengalami gangguan"
+   "title_id": "Pemadaman radar memicu pemberhentian kedua O’Hare dalam dua hari"
+  },
+  {
+   "id": "perang-202611242133-5fb1",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
+   "sources": 4,
+   "recent6h": 3,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-24T21:33:15Z",
+   "last": "2026-11-25T03:55:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Saudi-Houthi tensions escalate after Riyadh drone attack and airstrikes in Yemen",
+     "src": "Mid-Day",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcm94c2JmSS1SOVdtU18xemVzdVJCbFhpZ1hpblRiOE1SMnZZVFFtTmxWVDFUSnNkckMwYzF4VmFRdjhoQUJ2ZktrZlhiNm54WlJyUkt2WHZsVFpPUXBNWDR6WHdBd1ZLM3NMVllYYmdaUnZIZXJ6MDFxUHA2SWF1UGFfVHcyQTdzWXVmWldpV0phdmNGZHNrdXRRaHpuVDRWZTZEbnh3MTJyUElDMVlPOHJFZXVSQUZaOENpTDZWcEdZTkktM1ZtTGpjYXRLcVlVb0FJOWZJZFNCNXc?oc=5",
+     "t_id": "Ketegangan Saudi-Houthi meningkat setelah serangan pesawat tak berawak Riyadh dan serangan udara di Yaman"
+    },
+    {
+     "t": "Saudi-led coalition strikes Yemen after Riyadh drone attack injures 11, including two Indians; US issues alert",
+     "src": "The Statesman",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcndtZXk1aUNxcE83eGYtaUU5NGF3akVDOHE4WWktbUFfNU1RQXY2blhfWlphNjJOT0pkT051UFFDd3NDQWZhdWVtYk56WUc0TC1KNXY1aWZqS3hBQ3loR0FUeXFpOGRhejVTakdBVWJUTHBqaXUwdHJfc2x0ZFJLekpMVmdUVGdZbjNDX3hUMlZ0by12V2JTVUlQeFJRZF9jV2l6UmlGOGhUUXJCSUI1U1poNkc4UDc5XzRtWldPb0trY3Mta2IwSkJtQUNXUTdoeXFJRkExOGd2V1JWZG4wOV9JaS12Mmk5X294LUxrcU7SAfYBQVVfeXFMTUJEZmFBcjlkTTZkZXI5OENwT3g4YldUZnFLS2pDMmd6Z2M3dVNpOWpfdElpM09PalhVbEhURWJlRzRvVzlLVGxGQXRySVFVeVg4Mm5XQUhmYWJjclE5U2s3VTFqYURwdVpqWUJxOEZiNnRrTnEtckM5TTNadU9SQkpwLWRFTEFDVUk0MmtFeEx5WXRtTkRUbnlIa1d5SmVhZ2szdmNZN0s4VzM4aTlSa0paZlNPMXV0M295U19CZTVBNExqUy1oZjV0YVNTTm80bTJTeC1UNlVxX2ZRRXZkSjVKN1JFSV9FendrZXplWk1jb3JjLWVR?oc=5",
+     "t_id": "Koalisi pimpinan Saudi menyerang Yaman setelah serangan pesawat tak berawak di Riyadh melukai 11 orang, termasuk dua warga India; Peringatan masalah AS"
+    },
+    {
+     "t": "Airstrikes Rock Yemen's Capital After Houthi Drone Attack on Riyadh Financial District",
+     "src": "Lokmat Times",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVczU1FXMEtDVGdoYkMtOVA2LWpKX3FVYWZLVGotcXR1cHp0eFQ0c3lCbnhnQ0FzSzA0cjhQdkFaTkNRb1ZyWThmYUpRNVdUS3R0Y1NnenVIVktybnhvZzBRd1YxUmlKQWh2eURBcmFUX0lEbzJLeTMyT3ZFWkhpRlBJLTh2TE43T2hWVXJDa2VsOVVkLXBTcHRtUGZOMkROSjZuMW1meTdWbndnYkFkM3k3MHUyVmd4Ul9ocUg4UjhNT1NFYzdVSjBiQ2NxbzBsTkHSAdgBQVVfeXFMTk5RTTBkWEZKZzR2YzF1ckJFaWhLY2FHbWNJdzV6WmlPaEdWRUh2UmhfbnMxSWhNYUFFVDBpZ0tlUU5nWjFqUHhzVHM5R0tUV3A1MXR1N1NmLUxWdmdNWk5CNWk5QjhIUFVQZDZucjd4bU1zV0pWdUJKZEZuU0ZJeTRrcVhnZmo3M0FmVy1ub2UzQnhzWUFKWU1DLTZPX0pNdkwtZmNXRWltd1VYRENMazdLbC1ZWm1oUDlYZ2FOeHhTOUxSWUxYcVd0eGYxQmlaTUVCYXdTd1hH?oc=5",
+     "t_id": "Serangan Udara Mengguncang Ibu Kota Yaman Setelah Serangan Drone Houthi di Distrik Keuangan Riyadh"
+    }
+   ],
+   "title_id": "11 orang terluka dalam serangan drone Houthi di menara Riyadh, kata pertahanan sipil Saudi"
   },
   {
    "id": "politik-202611241022-acb3",
@@ -127,43 +164,6 @@
    "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
   },
   {
-   "id": "siber-202611241932-7e03",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "MICROSOFT 365 : a Global Outage, a Local Test",
-   "src": "Defimedia",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9haGtTclZrN3VacnNURk1tdGxrMjlqOTNLYXZhb3hBeldpUWc2WDdrenlQWmJ6YUY5YnNoWHRfUHQxZWp5dkhiNGM4ajl1alN1b0hrUjJ2SnkzS01jeXBmckl1TkJ4dko0cndoakNR?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
-   "level": "sedang",
-   "first": "2026-11-24T19:32:00Z",
-   "last": "2026-11-25T01:28:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft Code Red: Global Microsoft 365 outage exposes cloud infrastructure failures",
-     "src": "Beinsure",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BRWNrdU5IYW9kYjMwdzA3LWpWSEh4azhKUE5sV0ZQLTgxTVpYWi02NmxGeW5mSmlKV0xoUjVOYnhMbDMyZFlZalZfcjdoaU9BRURHQVZlNXBNS0lBT1luby1zQ2NnaHhZSXlV?oc=5",
-     "t_id": "Microsoft Code Red: Pemadaman global Microsoft 365 memperlihatkan kegagalan infrastruktur cloud"
-    },
-    {
-     "t": "Microsoft declares 'Code Red' after historic service outage",
-     "src": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW9wWFhnQm14VndiZmlkZGJEYUpCdS1QcWdEYUx2ckk3Tm03eG9Xdk1mZFRDcHpjcXFFanJvUjNKaVBabHVfX0drZTlMX1V6ZXp1cml4UUpnUDFadjBHZkRzWjQ5TkNhTTBaMFVvT000bllTUEhybkdCWGt1UmxMRVF5TGHSAYoBQVVfeXFMT1ZtQUhlWnlVQjVvVEh5UnM4bGNmTFJQZ2wyN2xxUTlQMXZtUzdwX1ZZR1g1OTEzX0U1a2Ytc0dKcHJ4YlY3N19VTjFBSy10VTFzRk0xbHFyNkxrUU1ZS0sxYmdGTE03MmtUbWt3WWs1bVIwVGFvck04WFFKQmNrN0dJS0IwYjBuR0p3?oc=5",
-     "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
-    },
-    {
-     "t": "Microsoft initiates ‘Code Red’ after most disruptive outage in company’s history: report",
-     "src": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkl0RDF5OVNtWi1kM2JQWjlQaUJ1Z3FpUzdVOXRmTlhTcE1zOWIyMVEwdW5PcHIzbDVZTEFYc1FTc0pmVGI0OW9aNGZuczZMNUZNbEJjRkhDRUdrbVRyQWZtLS1GMVdPQjhQRF92TmlLZXlwQXZQNTdkR3N6bTZueHhjWlB6RGp1UnZ6V21iU0RvdHJxN0tieHdjX3gtaE1HbnhkaDYwVkd3eVN2ZHQtOEFoT2VLNnBpdlRlMDAtWjhmUQ?oc=5",
-     "t_id": "Microsoft memulai 'Kode Merah' setelah pemadaman paling mengganggu dalam sejarah perusahaan: laporkan"
-    }
-   ],
-   "title_id": "MICROSOFT 365: Pemadaman Global, Pengujian Lokal"
-  },
-  {
    "id": "kesehatan-202611241209-be44",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -201,60 +201,35 @@
    "title_id": "Wabah Ebola yang belum pernah terjadi sebelumnya dan belum ada obatnya dapat menyebar ke seluruh dunia, kepala WHO memperingatkan - dengan jumlah kematian mencapai 5.500 jiwa"
   },
   {
-   "id": "perang-202611242133-5fb1",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Saudi-Houthi tensions escalate after Riyadh drone attack and airstrikes in Yemen",
-   "src": "Mid-Day",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcm94c2JmSS1SOVdtU18xemVzdVJCbFhpZ1hpblRiOE1SMnZZVFFtTmxWVDFUSnNkckMwYzF4VmFRdjhoQUJ2ZktrZlhiNm54WlJyUkt2WHZsVFpPUXBNWDR6WHdBd1ZLM3NMVllYYmdaUnZIZXJ6MDFxUHA2SWF1UGFfVHcyQTdzWXVmWldpV0phdmNGZHNrdXRRaHpuVDRWZTZEbnh3MTJyUElDMVlPOHJFZXVSQUZaOENpTDZWcEdZTkktM1ZtTGpjYXRLcVlVb0FJOWZJZFNCNXc?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-24T21:33:15Z",
-   "last": "2026-11-25T03:55:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Airstrikes hit Yemen’s Sanaa as Houthi-Saudi tensions escalate",
-     "src": "Telangana Today",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVd4ZWlDbVNOaklqZjB3ajg3Q3dHMkpvemVUX19fMHZLdkhGZFNBQkhseGs1MkhVemJIZUw0eHRtVVY1MkFMZjlGUG03RFJDNi14MkVlMUoxbHp6M3ljbEVfSWQ1bFRNX29TV3BDYWxxemhoMFlWcjYxbFhOYUZWU05vYVdsdzJPbzNGTFFFLVVzZw?oc=5",
-     "t_id": "Serangan udara menghantam Sanaa Yaman ketika ketegangan Houthi-Saudi meningkat"
-    }
-   ],
-   "title_id": "Ketegangan Saudi-Houthi meningkat setelah serangan pesawat tak berawak Riyadh dan serangan udara di Yaman"
-  },
-  {
-   "id": "siber-202611241236-5316",
+   "id": "siber-202611241814-e6d6",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Allstate outage disrupted billing, claims submissions and policy management for some customers",
-   "src": "Beinsure",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaC11cDgxaEQ0SHJKakhEVUl6MG9iTGVrX0NsZEJrQ3MwYnlhaU4tcWMwZVA3SkJVbW1LdXhwSEF0cnZQX2QxT19SckVlUU1DNVpKVkdWUkZVNGNIdEZMbjVrWVNfeHZRbWtfRGFjXzdtZTJ3Zmt5WlVPZDJqRzI1T09VSQ?oc=5",
+   "title": "Microsoft declares 'Code Red' after historic service outage",
+   "src": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW9wWFhnQm14VndiZmlkZGJEYUpCdS1QcWdEYUx2ckk3Tm03eG9Xdk1mZFRDcHpjcXFFanJvUjNKaVBabHVfX0drZTlMX1V6ZXp1cml4UUpnUDFadjBHZkRzWjQ5TkNhTTBaMFVvT000bllTUEhybkdCWGt1UmxMRVF5TGHSAYoBQVVfeXFMT1ZtQUhlWnlVQjVvVEh5UnM4bGNmTFJQZ2wyN2xxUTlQMXZtUzdwX1ZZR1g1OTEzX0U1a2Ytc0dKcHJ4YlY3N19VTjFBSy10VTFzRk0xbHFyNkxrUU1ZS0sxYmdGTE03MmtUbWt3WWs1bVIwVGFvck04WFFKQmNrN0dJS0IwYjBuR0p3?oc=5",
    "sources": 3,
    "recent6h": 0,
    "score": 3.0,
    "level": "sedang",
-   "first": "2026-11-24T12:36:12Z",
-   "last": "2026-11-24T21:23:30Z",
+   "first": "2026-11-24T18:14:30Z",
+   "last": "2026-11-24T19:47:52Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "Allstate Outage Today: Is Allstate Down in the US? Users Report Website, App Login, Insurance Claims, Payment and Account Access Issues | Check Latest Downdetector Status",
-     "src": "The Sunday Guardian",
-     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUjlZSm5CQmtfNFZOMno2MEdVLXdlSnZmNWd1SUd4dWQ1UGZ4S25DS3prd2lncHVuTVktVFNocElQOFhOQnJsd3JkTGZkMDFfdzRLdzlQUU5FOVRZNDNlb1huLTJNbTBQeVowczhPMGVuS2QyNmY4eFhvSGdzSl9vb083OVdJbWxwNkVGUmVCTXRHcUE3UUVtdy0tcTZ2WjlIOE5mUEdCMlJsUVE1cDhlemVlVWVWQ1V0WC1iVmc5MHViQlRvbzE0bDd5akhRNXVWLUFZRUJJOVRNTDVjS2tZenhnMW9vcE8yYmRIYWZWaEZtaXJJUTFmdVE4U2VfOElpemh6dk1qd05MeW1mZHRvWVE4MjlNMVp4eDZ2N0hXTWwzaDJ5TDlpTnhTTDYwVUgzM2ZKRFFB0gG7AkFVX3lxTE5fRU1QdERiR2ZXRzlUNFAxYlJXR29hTEozYXlUWjk1cVFLVlhiRVBLQmZ5QlZWa3IwdHR5WTJPR2IzTGVVRnRMWlV5blJSUkNZNzNHdDFqckJ4djF1ZGllbXFIb3NZcVNHWTFFSEZSSVFuaklWMDlnUUl3V2p3MjZMc1gtNkFWSnlaSXk3MHpoRUp0TzBLSUZuRGYwTDNrTGFxdF9CS1ZRWGE3OUctQUZfUkZOazRvU21SSlJ2dDVxakdTOHFkeXp6MnlxYVBmSnVJcmZIOWcyRDFsekJEeFk4aThFWHh3aDB1X0o5VjZ6SVN4cUhJYWhXT0JQZkRtdGZOeW5EVWVRX29kcy1MR05RZzFNVnhNYTY2ZUNnUzdfRTQ3c2VlZEtmZHFXWmJLcU1CZXNnS0lpM1JtTQ?oc=5",
-     "t_id": "Pemadaman Allstate Hari Ini: Apakah Allstate Down di AS? Laporan Pengguna Situs Web, Login Aplikasi, Klaim Asuransi, Masalah Pembayaran dan Akses Akun | Periksa Status Downdetector Terbaru"
+     "t": "Microsoft initiates ‘Code Red’ after most disruptive outage in company’s history: report",
+     "src": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkl0RDF5OVNtWi1kM2JQWjlQaUJ1Z3FpUzdVOXRmTlhTcE1zOWIyMVEwdW5PcHIzbDVZTEFYc1FTc0pmVGI0OW9aNGZuczZMNUZNbEJjRkhDRUdrbVRyQWZtLS1GMVdPQjhQRF92TmlLZXlwQXZQNTdkR3N6bTZueHhjWlB6RGp1UnZ6V21iU0RvdHJxN0tieHdjX3gtaE1HbnhkaDYwVkd3eVN2ZHQtOEFoT2VLNnBpdlRlMDAtWjhmUQ?oc=5",
+     "t_id": "Microsoft memulai 'Kode Merah' setelah pemadaman paling mengganggu dalam sejarah perusahaan: laporkan"
     },
     {
-     "t": "Spotify Restores Access After Outage Hits Users Worldwide",
-     "src": "cwibc.co.id",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LcEljSnVKdExJVEJKNEFRY1BLVENJWTNnQVgzS3RQRzFPRTNfSUN5cHFEVnBESHBxOXd3cDBvNUhUZ3dEQ0lHUGQ3dlFOWXY5cEtUMzVJaDRpYU5oQ3N4TFBjR3lCOEdzNmZhcA?oc=5",
-     "t_id": "Spotify Memulihkan Akses Setelah Gangguan Menghantam Pengguna di Seluruh Dunia"
+     "t": "Microsoft declares ‘Code Red’ after 24-hour global outage exposes major engineering flaws",
+     "src": "Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcHc3MGUySFR5d2p1X0dkeGZmcmxJcW5adWtldkNwNV9wb1lhSHd1N3ZFRUVOUE9FNlFCOXpseFRoTVdwb2V6emNsa3Y4ZVBRLWVPb3d1THVyUzdnemJSdkpPRjFUek1QdEM5cnNzT1BEVk9qWUx0dkNyUUozSEtlbGVGN1E1NzJEMVJWdmV2NW1Rd05vUGxobzJYNUtvaWVFZFNEQnRqWnVJcWd2enJfMjItWWpLcFQ1X2FlYkVXUjhia0VraUZHWGVkSjluNWRwdm56R1I2Y3B6Q2vSAdsBQVVfeXFMUHB3NzBlMkhUeXdqdV9HZHhmZnJsSXFuWnVrZXZDcDVfcG9ZYUh3dTd2RUVFTlBPRTZRQjl6bHhUaE1XcG9lenpjbGt2OGVQUS1lT293dUx1clM3Z3piUnZKT0YxVHpNUHRDOXJzc09QRFZPallMdHZDclFKM0hLZWxlRjdRNTcyRDFSVnZldjVtUXdOb1BsaG8yWDVLb2llRWRTREJ0alp1SXFndnpyXzIyLVlqS3BUNV9hZWJFV1I4YmtFa2lGR1hlZEo5bjVkcHZuekdSNmNwekNr?oc=5",
+     "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah pemadaman global selama 24 jam memperlihatkan kelemahan teknis yang besar"
     }
    ],
-   "title_id": "Pemadaman listrik di seluruh negara bagian mengganggu penagihan, pengajuan klaim, dan manajemen kebijakan untuk beberapa pelanggan"
+   "title_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
   },
   {
    "id": "indonesia-202611241011-916f",
@@ -285,54 +260,29 @@
    ]
   },
   {
-   "id": "perang-202611242133-5fb1",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-24T21:33:15Z",
-   "last": "2026-11-25T02:08:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Saudi-led coalition strikes Yemen after Riyadh drone attack injures 11, including two Indians; US issues alert",
-     "src": "The Statesman",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcndtZXk1aUNxcE83eGYtaUU5NGF3akVDOHE4WWktbUFfNU1RQXY2blhfWlphNjJOT0pkT051UFFDd3NDQWZhdWVtYk56WUc0TC1KNXY1aWZqS3hBQ3loR0FUeXFpOGRhejVTakdBVWJUTHBqaXUwdHJfc2x0ZFJLekpMVmdUVGdZbjNDX3hUMlZ0by12V2JTVUlQeFJRZF9jV2l6UmlGOGhUUXJCSUI1U1poNkc4UDc5XzRtWldPb0trY3Mta2IwSkJtQUNXUTdoeXFJRkExOGd2V1JWZG4wOV9JaS12Mmk5X294LUxrcU7SAfYBQVVfeXFMTUJEZmFBcjlkTTZkZXI5OENwT3g4YldUZnFLS2pDMmd6Z2M3dVNpOWpfdElpM09PalhVbEhURWJlRzRvVzlLVGxGQXRySVFVeVg4Mm5XQUhmYWJjclE5U2s3VTFqYURwdVpqWUJxOEZiNnRrTnEtckM5TTNadU9SQkpwLWRFTEFDVUk0MmtFeEx5WXRtTkRUbnlIa1d5SmVhZ2szdmNZN0s4VzM4aTlSa0paZlNPMXV0M295U19CZTVBNExqUy1oZjV0YVNTTm80bTJTeC1UNlVxX2ZRRXZkSjVKN1JFSV9FendrZXplWk1jb3JjLWVR?oc=5",
-     "t_id": "Koalisi pimpinan Saudi menyerang Yaman setelah serangan pesawat tak berawak di Riyadh melukai 11 orang, termasuk dua warga India; Peringatan masalah AS"
-    }
-   ],
-   "title_id": "11 orang terluka dalam serangan drone Houthi di menara Riyadh, kata pertahanan sipil Saudi"
-  },
-  {
-   "id": "siber-202611242157-9cf5",
+   "id": "siber-202611241236-5316",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Unclassified CIA system breached in a cyberattack, sources say",
-   "src": "KATV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQU1hSU9pZDVhSTBDTjNBS293TmM4Tm5sYzJfWm11XzhyMFhaVGtYT1Y2SllkbzN5TFh5WUlaWlFkTDc2XzduSlFGVGFXdlQ2MlFnTkVaQTMzUDJnV0xHLXF5UldDX3NQT2R3NlNSSWFIZFBwbG5VZldzNjQwN2Z4QlcxVGo4YUZhYURaQnVNeE5jdVAxMWZzTklMbnQxOFpUSHd5eTFDZTFCV1cwYWotQw?oc=5",
+   "title": "Allstate outage disrupted billing, claims submissions and policy management for some customers",
+   "src": "Beinsure",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaC11cDgxaEQ0SHJKakhEVUl6MG9iTGVrX0NsZEJrQ3MwYnlhaU4tcWMwZVA3SkJVbW1LdXhwSEF0cnZQX2QxT19SckVlUU1DNVpKVkdWUkZVNGNIdEZMbjVrWVNfeHZRbWtfRGFjXzdtZTJ3Zmt5WlVPZDJqRzI1T09VSQ?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-24T21:57:00Z",
-   "last": "2026-11-24T21:57:35Z",
+   "first": "2026-11-24T12:36:12Z",
+   "last": "2026-11-24T21:23:30Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
-     "t": "An unclassified CIA system was breached in a cyberattack, reports say",
-     "src": "WYFF",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmdjcHNhTVkwZC1PZXFsZUtsUzR3SmxYdDFlOHRJNHhWTFdOVERUdndmZTBGOEdhTEI2NW5FZzlxcnNDcE9XMmQ4R25wSEZnY01KYVFzYjczUG5idTdvbkhHSzJsMjBRUUFXNWNLNU15cHlQVFBLZXNkTEpoMlozMlNkVWxnVk1iRXo4?oc=5",
-     "t_id": "Sebuah sistem CIA yang tidak dirahasiakan telah dibobol dalam serangan siber, kata sejumlah laporan"
+     "t": "Allstate Outage Today: Is Allstate Down in the US? Users Report Website, App Login, Insurance Claims, Payment and Account Access Issues | Check Latest Downdetector Status",
+     "src": "The Sunday Guardian",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUjlZSm5CQmtfNFZOMno2MEdVLXdlSnZmNWd1SUd4dWQ1UGZ4S25DS3prd2lncHVuTVktVFNocElQOFhOQnJsd3JkTGZkMDFfdzRLdzlQUU5FOVRZNDNlb1huLTJNbTBQeVowczhPMGVuS2QyNmY4eFhvSGdzSl9vb083OVdJbWxwNkVGUmVCTXRHcUE3UUVtdy0tcTZ2WjlIOE5mUEdCMlJsUVE1cDhlemVlVWVWQ1V0WC1iVmc5MHViQlRvbzE0bDd5akhRNXVWLUFZRUJJOVRNTDVjS2tZenhnMW9vcE8yYmRIYWZWaEZtaXJJUTFmdVE4U2VfOElpemh6dk1qd05MeW1mZHRvWVE4MjlNMVp4eDZ2N0hXTWwzaDJ5TDlpTnhTTDYwVUgzM2ZKRFFB0gG7AkFVX3lxTE5fRU1QdERiR2ZXRzlUNFAxYlJXR29hTEozYXlUWjk1cVFLVlhiRVBLQmZ5QlZWa3IwdHR5WTJPR2IzTGVVRnRMWlV5blJSUkNZNzNHdDFqckJ4djF1ZGllbXFIb3NZcVNHWTFFSEZSSVFuaklWMDlnUUl3V2p3MjZMc1gtNkFWSnlaSXk3MHpoRUp0TzBLSUZuRGYwTDNrTGFxdF9CS1ZRWGE3OUctQUZfUkZOazRvU21SSlJ2dDVxakdTOHFkeXp6MnlxYVBmSnVJcmZIOWcyRDFsekJEeFk4aThFWHh3aDB1X0o5VjZ6SVN4cUhJYWhXT0JQZkRtdGZOeW5EVWVRX29kcy1MR05RZzFNVnhNYTY2ZUNnUzdfRTQ3c2VlZEtmZHFXWmJLcU1CZXNnS0lpM1JtTQ?oc=5",
+     "t_id": "Pemadaman Allstate Hari Ini: Apakah Allstate Down di AS? Laporan Pengguna Situs Web, Login Aplikasi, Klaim Asuransi, Masalah Pembayaran dan Akses Akun | Periksa Status Downdetector Terbaru"
     }
    ],
-   "title_id": "Sistem CIA yang tidak terklasifikasi dibobol dalam serangan siber, kata sumber"
+   "title_id": "Pemadaman listrik di seluruh negara bagian mengganggu penagihan, pengajuan klaim, dan manajemen kebijakan untuk beberapa pelanggan"
   },
   {
    "id": "perang-202611241400-ffbc",
@@ -389,15 +339,15 @@
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
    "lang": "en",
-   "title": "Spotify Back Online After Brief Outage, Downdetecter",
-   "src": "BusinessToday Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnZTQ2t2b29HM3hKZ21WdkJxeVk0Z1otZGRyaFNOUWphM2doaWVEU1k0N0kybzdBN2pFNDdWME5mM3lTSDZPLVBudnRjSHdCWlFxSE9qZmU2SV9Tc0ZWQVZNN1FHaXFjQTBxa0xFNFhGdTdreFB5d2JBLW51cXdpZ3N1R3pYeWY2U1gxajI4ZHhYNENqUXh4ZXZKLU8?oc=5",
+   "title": "Spotify back online after brief outage, Downdetector shows",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDN6R0pjNFo5VFRaOGNYNGplaE1zcnFCeWlCdDVXY2dQOGM4bngxMTZMTktuNmhOWDVGTzJ4aWR1azVFV0xYUXJzV1FBOTFHOEJUSFZPTzE4VW05QnRtcHBiX1VTZnlJVHh0TlY1N0k0SXpCcDhNMkF5WVRiX1RsX0dsQXczck5wRjZtNEtrbE1OdFB0YVFqY3VB?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
    "first": "2026-11-24T12:18:00Z",
-   "last": "2026-11-24T13:20:33Z",
+   "last": "2026-11-24T13:05:17Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
@@ -407,7 +357,7 @@
      "t_id": "Spotify kembali online setelah pemadaman singkat, Downdetector menunjukkan"
     }
    ],
-   "title_id": "Spotify Kembali Online Setelah Gangguan Singkat, Downdetecter"
+   "title_id": "Spotify kembali online setelah pemadaman singkat, Downdetector menunjukkan"
   },
   {
    "id": "kesehatan-202611240618-fb41",
