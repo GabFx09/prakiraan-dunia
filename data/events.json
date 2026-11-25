@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T01:20:36Z",
+ "updatedAt": "2026-11-25T01:35:13Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,13 +11,18 @@
    "src": "CNBC Indonesia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1RIV3Q3cTJPb1JpTk5NaWRVdV9xSHpoUnhTVzY4el9CUWh2dm14Vm9JZFFGSEo2RmFZOEdTZTIwZm00N3RkWGUyVEgyLXFMODRDakFaS3pyQ28zQ2ZCTmN4b1ZqOG96WktDaWpSampheXBhNUJDbmNMTTEwRlJ3OV9idVdQRlV2bzFhVDZlMkVRWFcwZ1VfSXFCX01mdmU3UVFjT0tKZmpOUXZpOG9VLTA4ZC14NjZIVXF0YjdpRXdHaVV5TkFN0gHMAUFVX3lxTE9fUTV2QlI4TWVZSFdqVGpNdDluUjM4UWhEdkhFWC1LM0g4NElDcWVuUkF6eHVLei1FMXJBblhnR3FaenV2M09LZzVMa09NUV92ZzFjRGZNRHM3cUpsSkhzWGNDQUhQT1NoVDdWVFd1eFVScFk5ZUxDSlY4ajd5STZvWXlyR0hod1BpUjN1YnExSi1ISHBQQTI3NHhrek1GNWdCMlMyNXYxQ0pYc3gwUzV6dktvN1RMU2V3VXBWSEFmd1JhdGQ4QXhtcFdZeg?oc=5",
    "sources": 15,
-   "recent6h": 0,
-   "score": 15.0,
+   "recent6h": 1,
+   "score": 15.5,
    "level": "besar",
    "first": "2026-11-23T15:05:00Z",
-   "last": "2026-11-24T15:24:15Z",
+   "last": "2026-11-25T01:19:00Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
+    {
+     "t": "Polri Dalami Keterlibatan Tersangka Makar dalam Sejumlah Demo Besar",
+     "src": "Warta Ekonomi",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0xhUWdJWkVscW5hZFhqM1BkUG92YVZYRk5wYTR6WlNEenFoWnVWOERSLVJaMEVVNURheGg2YXRQSTdfNy00dFZZNE1lazMtZVMzTmkweUQya1hLZnh5anViWnlScmkwSXk5VjBEaG1xa3JOOFZ1TE9CYTlmcVlXdEYtNVNRY19DRGk1c2otdnBuM2EyNm84NTIzT0V5RnJwWTB5Q04yX2LSAa4BQVVfeXFMUDZ2TkgxUDBMWUdQXzlrLVpLd3V1VVkzMEpFVlhaYjdkelNoQW1jR0lycHNIQXRGM2RLaGZLZVB5VnZxNVJEd2Q3SUZ3eVNqd1AtV1NHaE12TjdSMHdJcmQ5cmpnemQ5YS1PT0x4WnMybE9rc1UzNnJTQmNsT1R5eDY0RWFJQkt1QVFST2ZEaUhta01wRHAwb2RNcXMzTUlfS1RGUFRuUVg0R0RCTmdR?oc=5"
+    },
     {
      "t": "Bareskrim Dalami Dugaan Keterlibatan Listyo Sigit Cs dalam Demo Besar, Sita Uang Rp735 Juta",
      "src": "Posbelitung.co",
@@ -32,11 +37,44 @@
      "t": "Resmi Jadi Tersangka, Listyo Sigit dkk Disebut Terlibat dalam Demo Besar hingga Motif Terungkap",
      "src": "Tribun Video",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdTJaMzl6d0J3Q3hSOVBqSDh0eVZ0N3hRelp0SFNzVUptRUM4OV9wSHNuMTI5UjJaUjBVOTZSSFRuQzlxUFpIdjVRaGpuR0JxU1VUOTY5RFBabnhaNnkxSXA1M1JublVCZ0NKVUlGdzJvdXJzbzE4NWhBb0p1S295cTI5WWNxU0xyOHlad183VVZ5Rnh5eDZiSkdYWTgySjVTUk1TZV9tNzZqcmQ1NmVkNDJ4azhvVS05eFV1RXd6XzBkT0pmeHQ4?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611240800-7bd7",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Berujung Ricuh, Buruh Garmen Tuntut Kenaikan Upah",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRy1hRzhKZjVvdTREa2VrZ3NYLWluanZJbnJIMFNGYmhjQkVUUVZPVlRWSjRUNy1ZN3pSVnpZX3lqam5wVmtVb2JNbGtxbHp5elJTVExyRnRZREVjUG9WTHBVdS1uZENER2VNSjUwdmxSMEg0SV9RNzVDaUxuSTlPSEhPckxGalVaZXNTTUZpMGtycm92aFZEQ0VqQ3c3c3VhSC1MeDdvZTM2U0NFT3hidzV30gG3AUFVX3lxTE52NkIwdUlNcVphUXlqYl9aSmI5eFU0ZDF4Z2paN0JyaHVaa0hWWXI0NDN2aUEybGlXM1gzR3lEQkFCQ0lnYWllT3piNkE2aTRzVTVuSUpiZDJCX2FzQzNvdmVUVTUxTXdEa3J4bG9xd1VER1cwUm8wLXl1d01LYkFGZ1lxUHdWMzY4ZUZWRFVmcGhNV3UwT1I5YnFBcTJrZ3lHRk1XaEFQdEhoWk9UTzVKNVVmZk1ZVQ?oc=5",
+   "sources": 7,
+   "recent6h": 0,
+   "score": 7.0,
+   "level": "besar",
+   "first": "2026-11-24T08:00:00Z",
+   "last": "2026-11-24T17:50:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "PJU Polda DIY Ramai-ramai Diganti Usai Demo Ricuh Yogyakarta, Kapolda Baru Beri Jawaban Tak Terduga",
+     "src": "VIVA.co.id",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVm5nQ1d5UGZoNkRUSy0zQjQ1emJTaVZOSzVFZFNyMUpoMGloWjJJbFZoTVZmUWZLR1hyMkt2bThPMm9nOEp2WGlQb2U3V2NYak5Rd2J0V3RmVjczRXhxODQ3TVB6bWJSdEJCZS03N2FEX3RTbVB6NjNXZWxReGtFc21oaTVZcW1EYld5cjd5d2hSaHRja3J2ZWFfYzlGVkxhdFlaVEF6RkFxUXlMdGVreDZpb2FwQnhWXzRqU19IY3hROTQxMzdiSXdmc0FZdFFoZ09OOUdXVmNvNng3UUHSAeMBQVVfeXFMTkVSOTVHdVRkdy1DTlZLdkRXcDdkSzNhZ3JwVU04d2ktR3NhQldqMnJuVW5mQmo3bmJJOEdhc3VwOHd5TGhEOF9TOGw2RWNDRWl2T0U3dmZwVDc3SEViTmp6Ti1XTlA3VUJzOVF5Z05YUTlKOWRTN1ZVOXQ4X25EWmlyQjlGOGVuNTIzb2Y5NkZ2M2JzVl9ISWc2aFNXZHpVTDFabGswbGhEQzkwQ0VsMzZldkN6MWlTWXhsY1JTWXAzOF84VU9aa0xPRV9ZOU9JWlNZR1ROYzJLVGZzMnRTZWd4WTA?oc=5"
     },
     {
-     "t": "Listyo Sigit Cs Diduga Terlibat Sejumlah Demo Besar, Begini Penjelasan Bareskrim Polri",
-     "src": "Bangkapos.com",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkRJbGZpOTZNQ0R6TzBmN2duS2ZnVTgxQmxJc1QtMldIU0RMM3dGMUUzZ0pBUWp5VHVQTDRmX2dHbjh5Q0NvczIwX21Bb0RwemdDTy1zc2NRQkhUc2k5NFYwZG1KWk5VczV6S0FoSzhXdmZ0TS0tU1lUMmhZTEgyLWl3SkwtTWU5R3hpMFQ3Q01EOHZRV09EQnFid3p0SHZlWkhvX2hfZEpkMDQ4c0h3TWlVc1hIZ3N0d3NUZmVhUmZYdy1GTG5Z?oc=5"
+     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
+     "src": "Republika Online",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
+    },
+    {
+     "t": "Kapolda DIY Bantah Mutasi Besar Terkait Kericuhan Jogja",
+     "src": "MediaKompeten",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaTAzdjN1WkV6V0poY2Q3bi1FVHFOSlNaNUN5TEZidGhLVUtwTVBCd2o2NWtLOWZjWjZZTDhrUVk0b0d0a3NMTGZNWk1YVGZTTlZKc1BxWC0tUm9TQW9jZTRHcU9qYzZGek9qcE1ydHdhSWhTMnd1RkR3bTVEQQ?oc=5"
+    },
+    {
+     "t": "Kapolda DIY Bantah Mutasi di Tubuh Polda gegara Demo Ricuh",
+     "src": "detikcom",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUQzdnBEZzA4blpUWHlIV1hYaE13VE1LUVBpQ3hVNExiSzFxa2JMcFF6SjItSFJXOU9iM01ud0RKZjVodzkyNmRVV1c0QVR3TnZzNm1CdW9MZ3B0VlMxOVRuQWVjQXpubmt1eUtoN2hkeU0tNjZsbjlFaW9ydzhWd2NWQUMwRHJ5VWRZSnhZM0tuYjFYRDZ4Tm54cVUzZ2dka1Nzc0l30gGrAUFVX3lxTE5TSWVxaUdjWmZMN1RjX2xaQTliMWpnR2c2QW5ZYk5FMDA1WVl5T2ViRXN6cTZmRlN6Q1pZYnFXQWs4WGM3MUN4RnNET3JGcUU4V0dJT000VHpFa2NRcWdMQnp5T0cyUVNUcF9ZcDBHNDhwZjc2QjJGMGJlYVlfY2czUlhTbm1rZHFsdmVMNl9QekM4OENTUFlWaGpRS3BHaV9JZlZ1UDI0SXlDTQ?oc=5"
     }
    ]
   },
@@ -49,8 +87,8 @@
    "src": "The Financial Express",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdUxSUnJWbHROdXdxUUxNWWhBVy13VkZpSklObDRkN0FSaHdNX3BNd0FBQXRKZ19RbDRrZy1GRGcxV0NLcEs1MGNXMm1ZWFdmQXNmbFFMQnA4U1RDXzJneTFabjNJOUlKVEF5RjFOX010ajFzYmJYLUlUSXljQlh4Yl9LZEFqZjgxQ2M1QV94dEpORDYtWUVUelRnYnA3ajVMa3NyNHowcVhyV2dmQUE0VEVQX3hOYVh0Y0RfRXRYanF3SVVPTnY2RkltQlMyRUNobUHSAdgBQVVfeXFMUG0yeFNfRUcyWWdmSXNXTDFJcURDaUJxRUdPXy1PY2Y3cXUtTWJ1SVg2eVRPT0FsNlh4ckZOaW93RHVZT2dpMjZGSzhIRTEyQTBUUlNJODBRM1JUWWMtX05Fa29QS3A3eUpNVzRGbnNYMWFDblZuQUV1Z1Y0OGRYMFR1b3JXUjNiSXQ0ZWxHRVh4MHRTSlVGMm5LZ2pGVUtEc0tkTGktNWo5YXNZaXItU2Y2cHNtOVM0aE1vODIwQW0zS095VmJNekxjRGZvRl9kUE1adkE5cnpD?oc=5",
    "sources": 4,
-   "recent6h": 3,
-   "score": 5.5,
+   "recent6h": 2,
+   "score": 5.0,
    "level": "sedang",
    "first": "2026-11-24T18:14:30Z",
    "last": "2026-11-25T00:41:41Z",
@@ -86,8 +124,8 @@
    "src": "FTN news",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcU5xRkZsUXZHU0wyR3dmWFV0VUFhS0IxYTRMTnFqazgzcTAtdWt3Q3BPcmNULXJEN3B5Q0poNl92ZEFpc0pDeGp1VXFodzlLNk5rcWFzdWRENFc4TWhST3BzR2J5ZDlKamxzamRJXzBjSHhtRHJFaC1sVEZxemVSTzZPdnBHRDZGTDRiSnJqRVY?oc=5",
    "sources": 3,
-   "recent6h": 5,
-   "score": 5.5,
+   "recent6h": 4,
+   "score": 5.0,
    "level": "sedang",
    "first": "2026-11-24T00:55:37Z",
    "last": "2026-11-24T23:56:16Z",
@@ -100,12 +138,6 @@
      "t_id": "Chicago O'Hare Terkena Perhentian Kedua dalam Dua Hari Selama Demam Thanksgiving"
     },
     {
-     "t": "Equipment outage triggers ground stop at Chicago O’Hare",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNlJmX2lBNlZSR0tvWWc0eHRhOFdFMGFuN2oteE13aWpYdWlLQVE2RUNJOVZqQk40SmhLbzh3RmxWX0hZZHRwWUFpMEMySnVPd2Zlb0NBX0VaQ1JIUGs3SFMtai05YjRGWVExQllLWHVuZkxFTmhpdDRPWTFwNXNUNEUxeW9MeUM4VG1Z?oc=5",
-     "t_id": "Pemadaman peralatan memicu penghentian di Chicago O'Hare"
-    },
-    {
      "t": "Second Ground Stop in Two Days Disrupts Chicago O’Hare Ahead of Thanksgiving",
      "src": "https://www.thetraveler.org/",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWc5QjQ2Vm14RHZyOGpkQ3BSUXhJU29DQWhkeXN5czVWc2xhWmEzYXBVTWpENzBXRlQ4aVZvS1Jocko2Z0VjdklESHBpRUJiV1QzelB3RkJ6cmRhV1F1eEF0YnNJTzBGYWd6V3ZCMFBYMjlHUjY0ZThURXZHdEpsaE1FTXZJMldEM2ZBb1N3Q0NTektqMldiUXViaThvZnk5blVrWXU0QQ?oc=5",
@@ -116,47 +148,58 @@
      "src": "https://www.thetraveler.org/",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEs0RHI1bjFsSC1mNXFaV3B2aUlqSUZydDN3aTJkXzBuQkpHODVQMzUxT0JzNTZVVVk2eHo1NjRDeVcwQVFzVnRhN2I2VHlZd05SVG9MLXB1MlFrVHpBRWw5MXdhN3k3MkZuY0Ywc29QNXlocEVucnVTWWV6LTNYajBKcFUteDJVb0RNQnNWVE1rSWtR?oc=5",
      "t_id": "Perhentian O'Hare kedua dalam dua hari menjelang perjalanan Thanksgiving"
+    },
+    {
+     "t": "Delta restores weight-and-balance system after Atlanta flight delays",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb01PY3lWR0tTQVBua18wMS1tc2tKbzZ6Z2hMOXg2ZDdobFdVWnZQdzRmSHVLbG5ObW9mSzZJUEFfWkZZZURUdGpmeWxVTnE5UXZJbC1OeHZYb0NOeUUyeEhMNEloeV9Lb05LbXNKMk9vMUdhU2ZLdmpBZkgxNmFjSmxYa2pZcVR1ak1EZlRIUVNPcEk5eERsdzFlbGNFdw?oc=5",
+     "t_id": "Delta memulihkan sistem berat dan keseimbangan setelah penundaan penerbangan di Atlanta"
     }
    ],
    "title_id": "Penerbangan Chicago O'Hare Menunda Mount Setelah Dua Ground Stop dalam Dua Hari"
   },
   {
-   "id": "indonesia-202611241011-916f",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Kapolda Bantah Mutasi Besar-besaran di DIY Terkait Ricuh Demo Yogya",
-   "src": "CNN Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1c5TV9mUVF1dWZrcGJXLWpIYmlVbHk4VE5qa0pCV0VWTDNWaXRMNEJYajVMOXhoN081WHhEenNUZC0zNzZiVVFSQTdtcmdjeXFvS3RLMVFKeVRiU2Y4ZWU2TnEyaUoxaUxDR1RGMjdjTHp5SlpLWmE5dHBBSWt2NFg3TTVkOFI4MEtNaTRuRWtmQzExeUN1Q0JoX1pQdjVLNGNudUp4SXhfZE1FWmVxZ3RYZ081S3RPVTZ2M1k0QnFvQ3FxMEtjMFBaWdIB0AFBVV95cUxPZm9jOUF4Njd3Z1E5ZmVmU0FtamF6X2NydlVHYnRvbG5oMGlEYWEwdmJuZUhuWEZRdGg1TmFnRlBUaVFuVTdZYXU3MDFDckw2WnJuTF9vMkZpcnR6QmxnOTl5eUtkejZEUnNiYzJKZ1ZDcFdTWVdrS2IxNXBWZDdmTnZtaDZ5VXFtSWZmQzl3eU5MeG9sSXlJWllESFJ5dXYxa2NQc0dHcGlnWjJvdlRsM2x0U0VpeGNPb0ZrZm5WeWtWNmw3ZnlXMWMwVnZ2ZzRZ?oc=5",
+   "id": "politik-202611241022-acb3",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
    "sources": 5,
    "recent6h": 0,
    "score": 5.0,
    "level": "sedang",
-   "first": "2026-11-24T10:11:13Z",
-   "last": "2026-11-24T17:50:00Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-24T10:22:33Z",
+   "last": "2026-11-24T17:36:25Z",
+   "assets": "Mata uang & obligasi negara terkait",
    "more": [
     {
-     "t": "PJU Polda DIY Ramai-ramai Diganti Usai Demo Ricuh Yogyakarta, Kapolda Baru Beri Jawaban Tak Terduga",
-     "src": "VIVA.co.id",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVm5nQ1d5UGZoNkRUSy0zQjQ1emJTaVZOSzVFZFNyMUpoMGloWjJJbFZoTVZmUWZLR1hyMkt2bThPMm9nOEp2WGlQb2U3V2NYak5Rd2J0V3RmVjczRXhxODQ3TVB6bWJSdEJCZS03N2FEX3RTbVB6NjNXZWxReGtFc21oaTVZcW1EYld5cjd5d2hSaHRja3J2ZWFfYzlGVkxhdFlaVEF6RkFxUXlMdGVreDZpb2FwQnhWXzRqU19IY3hROTQxMzdiSXdmc0FZdFFoZ09OOUdXVmNvNng3UUHSAeMBQVVfeXFMTkVSOTVHdVRkdy1DTlZLdkRXcDdkSzNhZ3JwVU04d2ktR3NhQldqMnJuVW5mQmo3bmJJOEdhc3VwOHd5TGhEOF9TOGw2RWNDRWl2T0U3dmZwVDc3SEViTmp6Ti1XTlA3VUJzOVF5Z05YUTlKOWRTN1ZVOXQ4X25EWmlyQjlGOGVuNTIzb2Y5NkZ2M2JzVl9ISWc2aFNXZHpVTDFabGswbGhEQzkwQ0VsMzZldkN6MWlTWXhsY1JTWXAzOF84VU9aa0xPRV9ZOU9JWlNZR1ROYzJLVGZzMnRTZWd4WTA?oc=5"
+     "t": "Spain’s progressive leader called a snap election. But will the far-right benefit?",
+     "src": "GZERO Media",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUG0xcGwzM0NjS3FDMzNxa1VBWVZMT1k0ZkYzY0gwVWtIUEJEeFpOR05vWmJZUlRtejNBei02YkdEU1NyRThDc0wycXBOWW0xaXNzclVzelhDUzh6YWJfQTllSDY5RUtXcldSM3lfMFBST2I0X2tlT0VSTDlCMXV3TFF5al9TTFF2YnJvbEJVazZCWS0zVkdLelE5Y1Q0a1U5dFBDUWZ6aFZnZVZPTGNMamtVMVRHakE5UExzZw?oc=5",
+     "t_id": "Pemimpin progresif Spanyol menyerukan pemilu cepat. Namun apakah kelompok sayap kanan akan mendapatkan keuntungan?"
     },
     {
-     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
-     "src": "Republika Online",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "inkl",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFBoR1RYWDZYVGMzYnAyM0xjQUFnTHZPalc5RFpURGJGcmVtbjg4eHBFNjZnUVlTSnFOVVVJUDB5UVVlMDlScEFScVBjNExQYnBTN2xEYy1GZXRNVUVKTGZQRnJTLXZCdXpIejcySmVSQ2pRZ3hjS01wY21yN09Ldm5Ba0x2MXYtNUh4Tzc5SVlheTVzNklGV3dIYjc1bnNsZFc3OGlHTDVkMWlIREdPaVZn?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
     },
     {
-     "t": "Kapolda DIY Bantah Mutasi Besar Terkait Kericuhan Jogja",
-     "src": "MediaKompeten",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaTAzdjN1WkV6V0poY2Q3bi1FVHFOSlNaNUN5TEZidGhLVUtwTVBCd2o2NWtLOWZjWjZZTDhrUVk0b0d0a3NMTGZNWk1YVGZTTlZKc1BxWC0tUm9TQW9jZTRHcU9qYzZGek9qcE1ydHdhSWhTMnd1RkR3bTVEQQ?oc=5"
+     "t": "Why Spain's Snap Election Could Put Vox In Power",
+     "src": "ИФЗ РАН",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
+     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
     },
     {
-     "t": "Kapolda DIY Bantah Mutasi di Tubuh Polda gegara Demo Ricuh",
-     "src": "detikcom",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUQzdnBEZzA4blpUWHlIV1hYaE13VE1LUVBpQ3hVNExiSzFxa2JMcFF6SjItSFJXOU9iM01ud0RKZjVodzkyNmRVV1c0QVR3TnZzNm1CdW9MZ3B0VlMxOVRuQWVjQXpubmt1eUtoN2hkeU0tNjZsbjlFaW9ydzhWd2NWQUMwRHJ5VWRZSnhZM0tuYjFYRDZ4Tm54cVUzZ2dka1Nzc0l30gGrAUFVX3lxTE5TSWVxaUdjWmZMN1RjX2xaQTliMWpnR2c2QW5ZYk5FMDA1WVl5T2ViRXN6cTZmRlN6Q1pZYnFXQWs4WGM3MUN4RnNET3JGcUU4V0dJT000VHpFa2NRcWdMQnp5T0cyUVNUcF9ZcDBHNDhwZjc2QjJGMGJlYVlfY2czUlhTbm1rZHFsdmVMNl9QekM4OENTUFlWaGpRS3BHaV9JZlZ1UDI0SXlDTQ?oc=5"
+     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
+     "src": "EUobserver",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
+     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
     }
-   ]
+   ],
+   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
   },
   {
    "id": "perang-202611240158-6bb2",
@@ -264,37 +307,6 @@
    "title_id": "11 orang terluka dalam serangan drone Houthi di menara Riyadh, kata pertahanan sipil Saudi"
   },
   {
-   "id": "politik-202611241022-acb3",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-24T10:22:33Z",
-   "last": "2026-11-24T12:22:00Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Why Spain's Snap Election Could Put Vox In Power",
-     "src": "ИФЗ РАН",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
-     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
-    },
-    {
-     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
-     "src": "EUobserver",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
-     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
-    }
-   ],
-   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
-  },
-  {
    "id": "siber-202611241223-5316",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -339,54 +351,6 @@
      "t": "Tujuh Tuntutan Demo BEM SI di Hari Guru Nasional",
      "src": "Liputan6.com",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0NQSUI3dTJNR2RCWmY4cGQ2Z2VLVmxaVXhTSGtjdVR1TnlHTXpfajVZV3F5ZDBoNjl5aHZoZVRWRXgtRm9yeWE1ZjFCcHAyN2ZNWTQ4NEszZ1poWEdWSkM3U1NxUlQ2a25vUnB2NDlETHpfY3A5NXZ1eEZwal9BeG41VDRlb3pyM09lS3ln0gGOAUFVX3lxTE43Q1BJQjd1Mk1HZEJaZjhwZDZnZUtWbFpVeFNIa2N1VHVOeUdNel9qNVlXcXlkMGg2OXlodmhlVFZFeC1Gb3J5YTVmMUJwcDI3Zk1ZNDg0SzNnWmhYR1ZKQzdTU3FSVDZrbm9ScHY0OURMel9jcDk1dnV4RnBqX0F4bjVUNGVvenIzT2VLeWc?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "perang-202611241400-ffbc",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-24T14:00:00Z",
-   "last": "2026-11-24T16:43:44Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Russia has launched drone attack on Kyiv: warehouse in Holosiivskyi district is on fire",
-     "src": "Цензор.НЕТ",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1ZXMEdNMElhYnM3NHBzcVE5U3lYTkR5dWZjSUE5ZUtjOUg0MzRqSGdnamFhdUVfdi1mS1k0RVM0akZudzU3WXZyeng3aGFzb01GVU01Q01WbUtPZ0ZBOGg3bld2WFU5Z1B1VmxJdDU5bnZhNl90Mi1JVjZxTFgwRGllZ2wzT2JlUmpzbjY2YkJWVWxrZTJkdzhQci1oQkNoUTBsQ0VoUXdOSldwQ1M2bXRGeE8xV2Mxc1NoZk5R?oc=5",
-     "t_id": "Rusia telah melancarkan serangan drone di Kyiv: gudang di distrik Holosiivskyi terbakar"
-    }
-   ],
-   "title_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
-  },
-  {
-   "id": "indonesia-202611240800-7bd7",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Berujung Ricuh, Buruh Garmen Tuntut Kenaikan Upah",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRy1hRzhKZjVvdTREa2VrZ3NYLWluanZJbnJIMFNGYmhjQkVUUVZPVlRWSjRUNy1ZN3pSVnpZX3lqam5wVmtVb2JNbGtxbHp5elJTVExyRnRZREVjUG9WTHBVdS1uZENER2VNSjUwdmxSMEg0SV9RNzVDaUxuSTlPSEhPckxGalVaZXNTTUZpMGtycm92aFZEQ0VqQ3c3c3VhSC1MeDdvZTM2U0NFT3hidzV30gG3AUFVX3lxTE52NkIwdUlNcVphUXlqYl9aSmI5eFU0ZDF4Z2paN0JyaHVaa0hWWXI0NDN2aUEybGlXM1gzR3lEQkFCQ0lnYWllT3piNkE2aTRzVTVuSUpiZDJCX2FzQzNvdmVUVTUxTXdEa3J4bG9xd1VER1cwUm8wLXl1d01LYkFGZ1lxUHdWMzY4ZUZWRFVmcGhNV3UwT1I5YnFBcTJrZ3lHRk1XaEFQdEhoWk9UTzVKNVVmZk1ZVQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-24T08:00:00Z",
-   "last": "2026-11-24T13:30:40Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Demo di Kantor Bupati Lebak, Buruh SPN Minta Upah 2027 Naik 15 Persen",
-     "src": "bantentv.com",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjV0bDB3ODNFRmMxVXNNQ1FraDF4TDJjMFJZN0hZNjVvVEN4VTNobGJ6akJvT25vdXlxTFNjeUdiR3NFXzdlQUotWEJGRmRUbDBLU082UW9xVzRWeFVxbXRDQkZ0RGZOTDNEam9mUWtQR2tVaWZwUmVBSENDS2M5aFItZ0d0ekI1OVBCQzN1RDhLV29FcVotUGlWNWpoUQ?oc=5"
     }
    ]
   },
