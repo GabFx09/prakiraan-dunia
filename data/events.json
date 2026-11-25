@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T23:05:54Z",
+ "updatedAt": "2026-11-25T23:20:31Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -11,8 +11,8 @@
    "src": "Global News",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxZDhHUmFZMTU1LTBXSzNnaW1JYW4tSDFqQUVVVzhZWk9ib0xWaU5LZGhlX0tSbHh2b2FVV2o0cmRwUFk2VkMzNWRINHdfbzE0ckRfaEhpS1FvSjRCdVdoM0pRdVUzZw?oc=5",
    "sources": 8,
-   "recent6h": 2,
-   "score": 9.0,
+   "recent6h": 1,
+   "score": 8.5,
    "level": "besar",
    "first": "2026-11-24T23:54:49Z",
    "last": "2026-11-25T17:51:35Z",
@@ -31,16 +31,16 @@
      "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
     },
     {
-     "t": "Microsoft invokes 'Code Red' after global Outlook and Microsoft 365 outage",
-     "src": "TweakTown",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13bHhYZGlPTVcxdWN0NlV6Y1M5SUh6QU1VYTVYN2tMNl9sMWRaQjNpbm5nZDllVEo5OUFEZEFkQUEwNmRWMnlINXNiX2NGX05sTHpkVUttSG9pdUJIRTlpNnpXcllEVFRsX012cVJqNjBLMXlpalVlWU9pcHY4LTNjZ3dEQnpYMEp0MlFlNUZlUVdxczMyMS1TckVxQ3FuOEd6cXEwdjU5elRVbXhDZjhPYVNNMzNQbWNvMzhB?oc=5",
-     "t_id": "Microsoft memanggil 'Kode Merah' setelah pemadaman global Outlook dan Microsoft 365"
+     "t": "Microsoft 365 and US air traffic outages expose travel insurance gaps",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakpXUnNLQVVnckxaaXFzYWhNaFlqUi1iX0wtcW5uYXhZN0lhZVJWRlB3SlVFUzNmYWIyaGd6SGtEVWdRSnRrY2JNOEd6WUdFUC1ROEMxTFprQW8zV2EwcEI5Y3QyNXkzcXcyTEVpTXNGMVJwWVJwLXpHRjJTOGpxQkRqSzV0X2JMLWVQdHRrRURZdDBOS2Q0RW11amdmRkE?oc=5",
+     "t_id": "Pemadaman lalu lintas udara Microsoft 365 dan AS mengungkap kesenjangan asuransi perjalanan"
     },
     {
-     "t": "Outlook, FAA, bank outage, oh my!",
-     "src": "Grand Forks Herald",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83TFY5Y2xsZHdrSjJyS0xfMVY3RHpRU0pOdlYzQ3hHQ1B3SkJyeVZtdkhFWW9UeTRJWVBweHZCQlFNLTdobjZfbWF2aXAtSGNWSWFPMElNck4tRVVNdmJlTTNxS3Q1UDRHeHZ1dkZlcjM3LURjLXc?oc=5",
-     "t_id": "Outlook, FAA, pemadaman bank, astaga!"
+     "t": "Microsoft declares Code Red after Microsoft 365 outage, targets one-hour recovery for global outages",
+     "src": "ForkLog",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3R6VEpSc1Q2Y0hJdVg1d1BMU0d1Vk9vS0JSdEVFdUNscVM5blUtbWVJMUJUV1FpU2RwVDZtMzF0dEowZmhxR0dKbFlPajUyVXdDdkU0V1VHR1E5Y2hnc2ZfUXJneGpIRURvMExKMmg2OHI0dl94WkJUdVJXb0czWjdtTGxGR2NkZVJfY2s5T3NnbUp6dEZ1Snp0Y085SUhOcnBuc2lYNDdWUEVPMVhhNk5iaHl5LThYTHczR1F1TGw?oc=5",
+     "t_id": "Microsoft mendeklarasikan Kode Merah setelah pemadaman Microsoft 365, menargetkan pemulihan satu jam untuk pemadaman global"
     }
    ],
    "title_id": "Microsoft mendeklarasikan 'Kode Merah' setelah pemadaman 24 jam: Inilah artinya - Nasional"
@@ -89,49 +89,6 @@
    "title_id": "Koalisi pimpinan Saudi mencegat rudal jelajah Houthi, drone di Arab Saudi bagian barat"
   },
   {
-   "id": "transportasi-202611242240-a662",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "O'Hare Equipment Outage Triggers Ground Stop on Nov. 24; Refunds Available, but U.S. Law Sets No Fixed Delay Compensation",
-   "src": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVTgwQ1piYm1fZ3IwZVMzRVB6OWJreGZ5VWpPSW5BNk1CUndQLXU5X1NNSEZpTjZkc1FQZzZfZ0hKN2I0dV9Ob19FTVdocmo2T281dGQ4dlZnc2lXdmZEWHVQNjU3OU80N1I0WWlqN2d1SHc?oc=5",
-   "sources": 7,
-   "recent6h": 0,
-   "score": 7.0,
-   "level": "besar",
-   "first": "2026-11-24T17:45:40Z",
-   "last": "2026-11-25T16:45:43Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "Chicago O’Hare Chaos as Radar Failure Triggers Second Ground Stop in Two Days",
-     "src": "Aviation A2Z",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BrQktocmNzVTJQNW15NXdFTmltVVExaHNJOFE4MjZkMUNaREhOWjFjS1NSaTBVMXZTU1FZVFFsdTVyUW54dHo2cjNfNkQxZW10YmJOaXhrbU0wM0RCaEJkTGRZZWEwdFB0aVVibXo2dU5DYTNtVHRGUjZPN2dxcGlxeGx5SF9iRXZmRTBtajd3VGpXY01aeHRnVm05M0JhcDlPaEEzcXB4bkRsV0tPQnJYT1N2dFBNcnlXV0QzMA?oc=5",
-     "t_id": "Chicago O'Hare Chaos saat Kegagalan Radar Memicu Ground Stop Kedua dalam Dua Hari"
-    },
-    {
-     "t": "Delta tech outage and FAA ground stop snarl U.S. Thanksgiving travel",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2h0VThaXzVNT2pmTlp0bm1lSFRqNURTaGFjMmNGUGoycVVNcjJQM0dlc0NiMEdjS1pJQW5HZFlub04zLTNTdHdkelU3T256aWo3dldUV2xPZV94enVLVHhTUV91bDhocEM0SWtuSVU1ZThTaERUU3dUT3dBQ1BLS1hlQmpPQ1BOMWZ5MkVYQzVlRDRPYWdEYS0wZzM?oc=5",
-     "t_id": "Pemadaman teknologi Delta dan pemberhentian FAA mengganggu perjalanan Thanksgiving di AS"
-    },
-    {
-     "t": "Following nationwide shutdown, ground stops hit Chicago and Atlanta airports during Thanksgiving week",
-     "src": "World Socialist Web Site",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzTzEtdW5GLTVZRU8wOF9wcEVKeGcyQjBqU1BEREppV3Z2NzZrczBvNXBta1ZxeVdqS2kxS2NiZFJQUkhoZ3h5WGM3bjZlcnc4Tm52a0J2dmZEZ0N6ZkFiR0k1ZWxoMDFt?oc=5",
-     "t_id": "Setelah penutupan secara nasional, pemberhentian darat terjadi di bandara Chicago dan Atlanta selama minggu Thanksgiving"
-    },
-    {
-     "t": "Radar outage triggers second O’Hare ground stop in two days",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3I2OFIyWjVCYnRWM2NZRDM3V05Ma29HX1lZeERTRXl1bDRpR2lwdGFZOG9faWwwUjRhbTk4QW5rRkIyTl9GMnJwT2VVZGVQSXctMm9QbjV1ME5uWGtlUzNkWG1tUkRWQTEtU2xDUUxBczYyYlNEdU1BaGRTUjE2emt5RTFlN1dRaHdkR0RuaU0?oc=5",
-     "t_id": "Pemadaman radar memicu pemberhentian kedua O’Hare dalam dua hari"
-    }
-   ],
-   "title_id": "Pemadaman Peralatan O'Hare Memicu Ground Stop pada 24 November; Pengembalian Dana Tersedia, tetapi Hukum AS Tidak Menetapkan Kompensasi Penundaan Tetap"
-  },
-  {
    "id": "indonesia-202611241636-0579",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -154,8 +111,8 @@
     },
     {
      "t": "Mahasiswa Demo Hari Guru di Kawasan Monas, Ini 7 Tuntutannya",
-     "src": "شبكة تواصل الإخبارية",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tYUNZTl82OHBHbEhNMmpRRzI3NnN1OEZrZlUyV3FQb1B6VkhGeTdtbVh0aEdCT3g0NWNkSVBzcEZDWXJ3Nnkyem1fakFRdjBsRUNn?oc=5"
+     "src": "tvbangsa.id",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRklxX1cwYmVKZFhMMkpNVl9oWFhyYm5SYkRVQXJrR2Y1bmFLcHdNME1MYnh3NmVzb1d2QTVJRmZZNUJmN3Q3MlJYMWlydkc2WTYxcHd1bWcyaEJuTlhpakUtNURic0dFdG85VlJtMDZ1ajVTWkJiamRFRmpzdXJXZFhZNGhXUzlPY29nSldRaDZWSktfX21Pc1VSaEt6dWhn?oc=5"
     },
     {
      "t": "Mahasiswa Demo Hari Guru Nasional 2026 di 3 Titik Jakarta, Ini Link CCTV Pantau Lalu Lintas - harian.disway.id",
@@ -165,41 +122,90 @@
    ]
   },
   {
-   "id": "politik-202611241736-babc",
-   "cat": "politik",
-   "label": "Guncangan politik",
+   "id": "transportasi-202611242240-a662",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
    "lang": "en",
-   "title": "What is at stake for Spain’s art sector as snap election approaches?",
-   "src": "The Art Newspaper",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb05VU2lqV21tOHlyNm1oS0t6ckZFbTUzaFBjVEtBY3htVWVoRjdpVGxJQjFFNk1IaldjX1U0U0lfclplMWtkRlpyTURQNHh6d3lMeDNYQWFMRm5xeXZKdHBzZmtYTkdlSzF6WHVzcEppNVVUNEVpcVI4dTR5OUZ4ZzFJeTNEbkpELVB1eEYxMmY4M0lvd0hBR3cwYVY1dGto?oc=5",
+   "title": "O'Hare Equipment Outage Triggers Ground Stop on Nov. 24; Refunds Available, but U.S. Law Sets No Fixed Delay Compensation",
+   "src": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVTgwQ1piYm1fZ3IwZVMzRVB6OWJreGZ5VWpPSW5BNk1CUndQLXU5X1NNSEZpTjZkc1FQZzZfZ0hKN2I0dV9Ob19FTVdocmo2T281dGQ4dlZnc2lXdmZEWHVQNjU3OU80N1I0WWlqN2d1SHc?oc=5",
    "sources": 4,
    "recent6h": 0,
    "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-24T17:36:25Z",
-   "last": "2026-11-25T16:18:43Z",
-   "assets": "Mata uang & obligasi negara terkait",
+   "first": "2026-11-24T17:45:40Z",
+   "last": "2026-11-25T16:45:43Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Far-Right Parties Lead in Polls Ahead of Sunday’s Snap Election in Spain",
-     "src": "Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2FTenFDMEd3eW84QldhSmxvWlBNQVgwV2ktcTBacGFuTGJMY2RldDFhak9rWmpwZ2NXc1p5a0NmN3RPWFRTLXY0UHZFX01zYW9PcEVEUGFNUUpwTUxXN0JLODRiVXY5NnFDQi0tVm02LUxrVF9DcXR1SDBYMFBEWExHTktQOUN0SjBZUC1HVVhqOUlMS1JwbTNReTluQjJScHlpSEpXc3d4ajJFSGZuZkp6c2RTOWlaZGEzSzFn?oc=5",
-     "t_id": "Partai-Partai Sayap Kanan Memimpin dalam Jajak Pendapat Menjelang Pemilu Cepat hari Minggu di Spanyol"
+     "t": "Another FAA technical failure? Chicago O’Hare Airport hit by radar outage, flights delayed",
+     "src": "WION",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjdzQjF2c0xhUlZjM0ZSbWhkLWdJV3F3Z0lIR0dwOTlvTk4yTnRsaUFUajFlUEllWXkxaEhQdER5Q0RWZklnWDVIUnQ3ZDZRWlBRcElZaXl4dm8tR0g5LW9DdkhLTlphX0pncGpiT2FSeEk5aW9XMDB5OV83NEViZHJfalVkYVA1eURjTU5iZVJJbHlYUW5lczg2ZEZzX1lXd3FQSUQzbWpENW5GT19fM3dRLTNEekY1aWp2a2tkNms0VU90d2dj0gHHAUFVX3lxTFByN3NCMXZzTGFSVmMzRlJtaGQtZ0lXcXdnSUhHR3A5OW9OTjJOdGxpQVRqMWVQSWVZeTFoSFB0RHlDRFZmSWdYNUhSdDdkNlFaUFFwSVlpeXh2by1HSDktb0N2SEtOWmFfSmdwamJPYVJ4STlpb1cwMHk5Xzc0RWJkcl9qVWRhUDV5RGNNTmJlUklseVhRbmVzODZkRnNfWVd3cVBJRDNtakQ1bkZPX18zd1EtM0R6RjVpanZra2Q2azRVT3R3Z2M?oc=5",
+     "t_id": "Kegagalan teknis FAA lainnya? Bandara Chicago O'Hare dilanda pemadaman radar, penerbangan ditunda"
     },
     {
-     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-     "src": "BreakingNews.ie",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOG00V2xIWDNnTHVUQjRwNUQ4NUdXTjFIZmdudGVUN0Z4akNKUnM1SldiOGt5SUdHV2RkUUNDcDh4RDc5blQwTGNkNi1PZVpRXzZCLUpQQU5XNGVfaGpQOVlabVgtdEI2dVZES005N2h1Zkl5SjdNbnk2UHdWYzNzdG13QjRhbkNlSTRDdnVhZ09QOXZBRWR4OWJlRE40U2JkLWg5ZUlHUkpwcGY2OHZKQ3BVbXdMUWE0bnNQQ1RMeVRBdWlyVlp6U3c5YURmUQ?oc=5",
-     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+     "t": "Radar outage and staffing woes trigger back-to-back O’Hare ground stops",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTJqdGtBTEJ5aHMwWEJObmFzLWU5RlBaQl9VX1BqU0hBN3VjalFKSlZqSDYtY0QyX1VnMUdwZ1FSWjhEOW8yXzNlOS1GbFdmX3pxa0lXbUp2Z19IQUVITHZYRThvQWVUTDREdm5NTExxTFRmd0ktNU1oUHRWWVN5dDl4dm9abThOMThoeEJkUUkwN2RTWTViM00yeEFPYVY0?oc=5",
+     "t_id": "Pemadaman radar dan masalah staf memicu penghentian operasi O'Hare secara berturut-turut"
     },
     {
-     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-     "src": "Irish Examiner",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5U3Qta0ZOMWFtcjJVc3FfRTZNUkowWkkzXzlaSlJ5dnZKTHRGTGNqVUlqSnhEVEx1VE1XQ1dmdVhjN0diencydVYyUWFwMU5kWjNWbzEwYlZTRnk5ZWIzcUxxVGo?oc=5",
-     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+     "t": "O’Hare ground stop lifted after brief FAA equipment outage",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVBEZF9veUtkRnZkSFZRRDYwVWg5SEJsRjlpTGtsb0R2UW9ET0lVS01OQ29xclZPa0NPVzJ6UDVXbVpoUjlGWWJkSm1seFI5M0VlVlRVYmwwSHpRUlpFR3hRZ2Uza3VQR2dNbTA2dFVIMm84cVkzM3pTb01xVnBVUG8wU2x0d3ZxUlMxWlZOaw?oc=5",
+     "t_id": "Ground stop O'Hare dicabut setelah pemadaman singkat peralatan FAA"
+    },
+    {
+     "t": "Flights delayed at Chicago O’Hare airport as ground radar system suffers outage",
+     "src": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUdrQ3cxOWc4SFlac1kxMFNyVzFweUR1MDV6QzdmdmtwTmtoMjZrNDY0eW5jbUVYRHV6ckZNX0w1SXVsNDFmaUxramdJNXNqeFNjR0JQU3dYSW5fTEJUUGNNNGxiN1B3bER5RGhqUS04UjJmZnNnZi1USVROY2NJUU1uYVhUUzBhWV8yUXc2MnpuOHhYWGJQVVRSV1dEZlZ1eWZGRzdZQWZNTFhPNVoyakRQRVFFVW8wWG1Pa1lGdUstU0ZQaWpBN05DWWhveGQyenRCbzR1LWU5QWdtSFYtSGt1a9IB6AFBVV95cUxQVGFwWG5qNU12eWtZeEgwZEsxMTRqVlJJQUVEWDFKLV9GamNGZHZxdExMOXpTOHN2c1A3MjBHN3lMZ0NVTDF0MWg3cktOam5VcXU2RWFFRmFOT1A5T2dwY2FrQlprMnFkenh1Wkp3SmRrRWdJRDlxRGVYNHJKN1lfTHlDTGpoNmhYdW9MYTBvMm53MHUyYS1RZThSeVBzZzBXcjVKTURyanBJSmRPSzdzcnVSYTJPNU1NZjVDbW1KRW9FVzNMZG15dTEySEFjZkh0WUxmaVVxakVNVVBpNkdlT2tpNHJLcGZL?oc=5",
+     "t_id": "Penerbangan tertunda di bandara Chicago O'Hare karena sistem radar darat mengalami gangguan"
     }
    ],
-   "title_id": "Apa yang dipertaruhkan bagi sektor seni Spanyol menjelang pemilu cepat?"
+   "title_id": "Pemadaman Peralatan O'Hare Memicu Ground Stop pada 24 November; Pengembalian Dana Tersedia, tetapi Hukum AS Tidak Menetapkan Kompensasi Penundaan Tetap"
+  },
+  {
+   "id": "transportasi-202611242240-a662",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Chicago O’Hare Chaos as Radar Failure Triggers Second Ground Stop in Two Days",
+   "src": "Aviation A2Z",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BrQktocmNzVTJQNW15NXdFTmltVVExaHNJOFE4MjZkMUNaREhOWjFjS1NSaTBVMXZTU1FZVFFsdTVyUW54dHo2cjNfNkQxZW10YmJOaXhrbU0wM0RCaEJkTGRZZWEwdFB0aVVibXo2dU5DYTNtVHRGUjZPN2dxcGlxeGx5SF9iRXZmRTBtajd3VGpXY01aeHRnVm05M0JhcDlPaEEzcXB4bkRsV0tPQnJYT1N2dFBNcnlXV0QzMA?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-24T17:45:40Z",
+   "last": "2026-11-25T13:30:00Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Delta tech outage and FAA ground stop snarl U.S. Thanksgiving travel",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2h0VThaXzVNT2pmTlp0bm1lSFRqNURTaGFjMmNGUGoycVVNcjJQM0dlc0NiMEdjS1pJQW5HZFlub04zLTNTdHdkelU3T256aWo3dldUV2xPZV94enVLVHhTUV91bDhocEM0SWtuSVU1ZThTaERUU3dUT3dBQ1BLS1hlQmpPQ1BOMWZ5MkVYQzVlRDRPYWdEYS0wZzM?oc=5",
+     "t_id": "Pemadaman teknologi Delta dan pemberhentian FAA mengganggu perjalanan Thanksgiving di AS"
+    },
+    {
+     "t": "Following nationwide shutdown, ground stops hit Chicago and Atlanta airports during Thanksgiving week",
+     "src": "World Socialist Web Site",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzTzEtdW5GLTVZRU8wOF9wcEVKeGcyQjBqU1BEREppV3Z2NzZrczBvNXBta1ZxeVdqS2kxS2NiZFJQUkhoZ3h5WGM3bjZlcnc4Tm52a0J2dmZEZ0N6ZkFiR0k1ZWxoMDFt?oc=5",
+     "t_id": "Setelah penutupan secara nasional, pemberhentian darat terjadi di bandara Chicago dan Atlanta selama minggu Thanksgiving"
+    },
+    {
+     "t": "Radar outage triggers second O’Hare ground stop in two days",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3I2OFIyWjVCYnRWM2NZRDM3V05Ma29HX1lZeERTRXl1bDRpR2lwdGFZOG9faWwwUjRhbTk4QW5rRkIyTl9GMnJwT2VVZGVQSXctMm9QbjV1ME5uWGtlUzNkWG1tUkRWQTEtU2xDUUxBczYyYlNEdU1BaGRTUjE2emt5RTFlN1dRaHdkR0RuaU0?oc=5",
+     "t_id": "Pemadaman radar memicu pemberhentian kedua O’Hare dalam dua hari"
+    },
+    {
+     "t": "Second O’Hare Ground Stop In Two Days Complicates Thanksgiving Travel",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1FpVFlMdjM0ZVd4SnBuemk5a3dDekVDNTVjSEF6dVVreVE0blpCR2t0eUl6OWd0bWFzRWpmZXBWblVSYjJkSGp2cHZyREs3STAtaDlROTZsNEZBTnluelFjRWZrVzZ4Vi1jSUpQLTF1OFVRNVc4b2RlZUNUY19FNG1oV1ZBa0d0RkZjaG5DRXVLOXpzS2E3bElfTU5Zdw?oc=5",
+     "t_id": "Perhentian O'Hare Kedua Dalam Dua Hari Memperumit Perjalanan Thanksgiving"
+    }
+   ],
+   "title_id": "Chicago O'Hare Chaos saat Kegagalan Radar Memicu Ground Stop Kedua dalam Dua Hari"
   },
   {
    "id": "indonesia-202611250305-9143",
@@ -235,6 +241,37 @@
    ]
   },
   {
+   "id": "politik-202611241736-babc",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "What is at stake for Spain’s art sector as snap election approaches?",
+   "src": "The Art Newspaper",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb05VU2lqV21tOHlyNm1oS0t6ckZFbTUzaFBjVEtBY3htVWVoRjdpVGxJQjFFNk1IaldjX1U0U0lfclplMWtkRlpyTURQNHh6d3lMeDNYQWFMRm5xeXZKdHBzZmtYTkdlSzF6WHVzcEppNVVUNEVpcVI4dTR5OUZ4ZzFJeTNEbkpELVB1eEYxMmY4M0lvd0hBR3cwYVY1dGto?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-24T17:36:25Z",
+   "last": "2026-11-25T16:18:43Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Far-Right Parties Lead in Polls Ahead of Sunday’s Snap Election in Spain",
+     "src": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2FTenFDMEd3eW84QldhSmxvWlBNQVgwV2ktcTBacGFuTGJMY2RldDFhak9rWmpwZ2NXc1p5a0NmN3RPWFRTLXY0UHZFX01zYW9PcEVEUGFNUUpwTUxXN0JLODRiVXY5NnFDQi0tVm02LUxrVF9DcXR1SDBYMFBEWExHTktQOUN0SjBZUC1HVVhqOUlMS1JwbTNReTluQjJScHlpSEpXc3d4ajJFSGZuZkp6c2RTOWlaZGEzSzFn?oc=5",
+     "t_id": "Partai-Partai Sayap Kanan Memimpin dalam Jajak Pendapat Menjelang Pemilu Cepat hari Minggu di Spanyol"
+    },
+    {
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "Irish Examiner",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5U3Qta0ZOMWFtcjJVc3FfRTZNUkowWkkzXzlaSlJ5dnZKTHRGTGNqVUlqSnhEVEx1VE1XQ1dmdVhjN0diencydVYyUWFwMU5kWjNWbzEwYlZTRnk5ZWIzcUxxVGo?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+    }
+   ],
+   "title_id": "Apa yang dipertaruhkan bagi sektor seni Spanyol menjelang pemilu cepat?"
+  },
+  {
    "id": "siber-202611250621-750d",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -258,6 +295,31 @@
     }
    ],
    "title_id": "Pemadaman Digital dan Kelangsungan Bisnis"
+  },
+  {
+   "id": "energi-202611251005-ec40",
+   "cat": "energi",
+   "label": "Gangguan energi & pasokan",
+   "lang": "en",
+   "title": "Oil prices rise after Houthis claim attack on Saudi refinery",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDVWb29kX0t0eEprd3VCQWtJTVU4ZmRDWmZ4bW84dGgwbnlLNzFlanZqdW40NVl6ajhFZjQ4VHJIZzlXVWtFSTZqRUxVX0J4bkdjUGppSDhpVjRYQ0ZEQ2ZSd2hnUnZZOXN5ejdVWmZKWTNYZHZHRjE2T2NJeHNwTWdvQ0tKNUlEeU1IYQ?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-25T10:05:21Z",
+   "last": "2026-11-25T20:23:17Z",
+   "assets": "Minyak, gas, rupiah, inflasi",
+   "more": [
+    {
+     "t": "Oil rises after alleged Houthi attack on Saudi refinery",
+     "src": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUJ6aTBrclVhOWlqcWZHNHpyRVEtU2VnOXBIWm03Q1p1SkdBZER4Zk5yT1Y5QzlvWXMyNFJfbV9qOUExenVPZ3NXWVMzSzcyWkdnaU4xRGt4SGNfQVBtUTNUS0FxaTFkdVlNbWJUenNUSFoyOWkyRi1KaVBLU0U1bTVsYjd4bEVGRkx5NUpZMjhkczdrQ1pYSEttdWFwSmZKVEFhckxlT0VOUGZRejZaVncxM2dwU2tO?oc=5",
+     "t_id": "Minyak naik setelah dugaan serangan Houthi terhadap kilang Saudi"
+    }
+   ],
+   "title_id": "Harga minyak naik setelah Houthi mengklaim serangan terhadap kilang Saudi"
   },
   {
    "id": "perang-202611250618-f0d2",
@@ -285,6 +347,56 @@
    "title_id": "Rusia Dapat Membuat Rudal Balistik Setiap Lima Jam dan Mempercepat Produksinya, Menteri Pertahanan Ukraina Memberitahu Anggota Parlemen NATO"
   },
   {
+   "id": "siber-202611250551-74c4",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Americans Begin Panic-Buying at Costco Amid String of Tech Outages and Cyberattacks, With $7K Generators Selling Out",
+   "src": "www.techtimes.co.uk",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcHBSZHZUMXBXeFBkRjRoYnYtZEppbHJmSjJPRGROSVNqc0NoSHVLckJSWS0zNVdhYlFERVBfaUY5QThfZ1BkQkxyZlZkSjFRV1JWbFRqdUphNDJyczlPaUVEb2lrSzVuOThYSXhxeGhVX1VtaE1IOHVaOG9hZ0NXSVVkcw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-25T05:51:30Z",
+   "last": "2026-11-25T13:35:43Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "AI, Cyberattacks Or Something Else? Why Are Major Tech Companies Suddenly Facing So Many Outages",
+     "src": "Times Now",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTUMxay0zOVZfT21yb2stNG9HdnIyUnc1WFd3ejk5T0lITjJfcEtuSzRaR3FMakNoMEJ3NEt1MFViZUJqT05jMFpqMmY5cHowQVpPR3FUZGpBM1JlVVNTX0tSMkNlLUhaR2pDcFpqN0c0NzZkcXU1VzlxUFJoY3I0Qm02bWNKMkZlUUVQZG9SX2g2a0RSSVd4SmpJemM5YXVwaUNheUdsTUc5R1hvMUtCcWJwTzA1dnljRDlMWTBKdFZxRzBTM0ZxeUdxX1NjRFhVVFVhR2tyTk1tbTlvcHZtdmVxSldzR1BmNlFvZVVaNkJyd9IB9wFBVV95cUxQVXpSVXlScnZ0TEdLdi16MEV3ZjVnLUR5T1hzWjkwSlQycUhOSEZYdkR4LXpNSlRsVjI1cXNwYUJ4RjZmbm1fUkxVUURsQk1taE5SVkQ2SXJsb3FpNXhIT0FmTVB3ZmNpZFJXTzFERU1VaEtNX1NmRHZRSllLYUMwLXROdGFWcmNqOWZIMkwzYnJScmp0SWkzU3FmNFh0dzF2UWZ5UFRDdVU1UUFvRVlGZEhTTnV6ZG9YRktidmw3VWFwSWJLc3pSbzBtUzlDMWktTHdrLWF4UUlnQUM0UW01MkktV0RDaXhIUnl4eHR0eXRwWUYwSG5Z?oc=5",
+     "t_id": "AI, Serangan Siber, atau Hal Lainnya? Mengapa Perusahaan Teknologi Besar Tiba-tiba Menghadapi Begitu Banyak Pemadaman"
+    }
+   ],
+   "title_id": "Orang Amerika Mulai Melakukan Panic-Buying di Costco Di Tengah Serangkaian Gangguan Teknologi dan Serangan Siber, Dengan Generator Seharga $7K Terjual Habis"
+  },
+  {
+   "id": "siber-202611250033-f1be",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Cyberattack exposes unclassified information from CIA system, US media reports",
+   "src": "Modern Ghana",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamttdVVPd1JWX2VpQTl3Vnd6ZnVyTERhOXVhbXpMNnRMcDQxSXJJOGJ4RjA5U0xmbWlZNkZCTDQ2LU9DMHVsak9pWGdJVEFrNnV5RHJDN2l6OENBWXZScm9fZVV3YTRZaFVuZ2NwTDlwMUVDRmtJaVhnalFPVENIcmlPVV9TaTBBaHF6MDlVeko3Y2M3UEJETVVn0gGaAUFVX3lxTE5qa211VU93UlZfZWlBOXdWd3pmdXJMRGE5dWFtekw2dExwNDFJckk4YnhGMDlTTGZtaVk2RkJMNDYtT0MwdWxqT2lYZ0lUQWs2dXlEckM3aXo4Q0FZdlJyb19lVXdhNFloVW5nY3BMOXAxRUNGa0lpWGdqUU9UQ0hyaU9VX1NpMEFocXowOVV6SjdjYzdQQkRNVWc?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-25T00:33:24Z",
+   "last": "2026-11-25T12:31:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "An unclassified CIA system was breached in a cyberattack, AP source says",
+     "src": "Federal News Network",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTThUQ2tKc3BHM25BejlUMk1vMUNWSW4tRFh3TWtBY1NCaEg1dU5aRWR6V1VVSElzei1Sa3RzN2kwWFhOSHVzVGVfUGFjNmlvdENKRXJDbWFhWVJZWVprN1dXX3VfSkIxVlBSdG5iQ0sxR1VWSlNuMHN3THl2WnJValVnVm5rX0FiQnBqYVZmYm53UEl3Ml9PRXQtRjN1b2xfSHRTTGgtUktkOXhQN3YyZ0p1LXFtdDhmd1JPS0h4V3VCSTg?oc=5",
+     "t_id": "Sistem CIA yang tidak dirahasiakan dibobol dalam serangan siber, kata sumber AP"
+    }
+   ],
+   "title_id": "Serangan dunia maya mengungkap informasi yang tidak rahasia dari sistem CIA, lapor media AS"
+  },
+  {
    "id": "siber-202611250128-0361",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -308,34 +420,7 @@
     }
    ],
    "title_id": "Pemadaman Microsoft 365 Mengganggu Bisnis di Seluruh Dunia"
-  },
-  {
-   "id": "siber-202611250033-f1be",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Cyberattack exposes unclassified information from CIA system, US media reports",
-   "src": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalY3dkdwSHpOS3ZjaFFNcGc1NGNpc1BwYTQ0dmczYXJYNkZpbHZ1dDYzVG4wazBvdmp2clY0eXZ3MnJxMlBZaEFJTkdEWVhmNVZtOUJKUml0YU5fVERVSGN2RzB0ano3WW9iTDRrbTFXU1EzMDNIRXAzOV9yeTRZcmR4YW5DVFVreDNCbTNobm1QYXF5ZExzSW1mNkpPTk9uS3ZVR09kQmY0amJQaGxYQXl4eEJUNVNDaC1CMzlGRXQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T00:33:24Z",
-   "last": "2026-11-25T10:48:10Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "An unclassified CIA system was breached in a cyberattack, AP source says",
-     "src": "Federal News Network",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTThUQ2tKc3BHM25BejlUMk1vMUNWSW4tRFh3TWtBY1NCaEg1dU5aRWR6V1VVSElzei1Sa3RzN2kwWFhOSHVzVGVfUGFjNmlvdENKRXJDbWFhWVJZWVprN1dXX3VfSkIxVlBSdG5iQ0sxR1VWSlNuMHN3THl2WnJValVnVm5rX0FiQnBqYVZmYm53UEl3Ml9PRXQtRjN1b2xfSHRTTGgtUktkOXhQN3YyZ0p1LXFtdDhmd1JPS0h4V3VCSTg?oc=5",
-     "t_id": "Sistem CIA yang tidak dirahasiakan dibobol dalam serangan siber, kata sumber AP"
-    }
-   ],
-   "title_id": "Serangan dunia maya mengungkap informasi yang tidak rahasia dari sistem CIA, lapor media AS"
   }
  ],
- "errors": [
-  "energi: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
