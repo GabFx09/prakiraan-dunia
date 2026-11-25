@@ -1,49 +1,44 @@
 {
- "updatedAt": "2026-11-25T08:54:45Z",
+ "updatedAt": "2026-11-25T09:09:23Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
-   "id": "perang-202611250232-f5c7",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Saudi civil defence says 11 injured in Houthi drone attack on Riyadh tower",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
-   "sources": 5,
-   "recent6h": 2,
+   "id": "indonesia-202611240800-7bd7",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Berujung Ricuh, Buruh Garmen Tuntut Kenaikan Upah",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRy1hRzhKZjVvdTREa2VrZ3NYLWluanZJbnJIMFNGYmhjQkVUUVZPVlRWSjRUNy1ZN3pSVnpZX3lqam5wVmtVb2JNbGtxbHp5elJTVExyRnRZREVjUG9WTHBVdS1uZENER2VNSjUwdmxSMEg0SV9RNzVDaUxuSTlPSEhPckxGalVaZXNTTUZpMGtycm92aFZEQ0VqQ3c3c3VhSC1MeDdvZTM2U0NFT3hidzV30gG3AUFVX3lxTE52NkIwdUlNcVphUXlqYl9aSmI5eFU0ZDF4Z2paN0JyaHVaa0hWWXI0NDN2aUEybGlXM1gzR3lEQkFCQ0lnYWllT3piNkE2aTRzVTVuSUpiZDJCX2FzQzNvdmVUVTUxTXdEa3J4bG9xd1VER1cwUm8wLXl1d01LYkFGZ1lxUHdWMzY4ZUZWRFVmcGhNV3UwT1I5YnFBcTJrZ3lHRk1XaEFQdEhoWk9UTzVKNVVmZk1ZVQ?oc=5",
+   "sources": 6,
+   "recent6h": 0,
    "score": 6.0,
-   "level": "sedang",
-   "first": "2026-11-24T21:33:15Z",
-   "last": "2026-11-25T06:31:16Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "level": "besar",
+   "first": "2026-11-24T08:00:00Z",
+   "last": "2026-11-24T17:50:00Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Yemen’s Houthis claim large-scale missile, drone attack on Saudi airport, oil facilities",
-     "src": "DD News",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakU3dVVNbk8yZkJUTW9tMnVfUHgwZmRIMnBpendqVlVBaDhtWkFCN0EzS0lyWlpBTk9IeVNsMW9RZUEwbTNmLXJwVGpfRkIyeTNsbXdzS1JrTW5kdkZOOG1OWkpGcjJwd1FDTXdTZEw4aU9SRWRqZEg0YXdVSHp5VVhKWUQ3dl9yZzJlMUZDQlNRc0Zpa0tXVWh2UXpPSUlLcmlqS2hfZXhjYUVuM015Zw?oc=5",
-     "t_id": "Houthi Yaman mengklaim serangan rudal skala besar, pesawat tak berawak di bandara Saudi, fasilitas minyak"
+     "t": "PJU Polda DIY Ramai-ramai Diganti Usai Demo Ricuh Yogyakarta, Kapolda Baru Beri Jawaban Tak Terduga",
+     "src": "VIVA.co.id",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVm5nQ1d5UGZoNkRUSy0zQjQ1emJTaVZOSzVFZFNyMUpoMGloWjJJbFZoTVZmUWZLR1hyMkt2bThPMm9nOEp2WGlQb2U3V2NYak5Rd2J0V3RmVjczRXhxODQ3TVB6bWJSdEJCZS03N2FEX3RTbVB6NjNXZWxReGtFc21oaTVZcW1EYld5cjd5d2hSaHRja3J2ZWFfYzlGVkxhdFlaVEF6RkFxUXlMdGVreDZpb2FwQnhWXzRqU19IY3hROTQxMzdiSXdmc0FZdFFoZ09OOUdXVmNvNng3UUHSAeMBQVVfeXFMTkVSOTVHdVRkdy1DTlZLdkRXcDdkSzNhZ3JwVU04d2ktR3NhQldqMnJuVW5mQmo3bmJJOEdhc3VwOHd5TGhEOF9TOGw2RWNDRWl2T0U3dmZwVDc3SEViTmp6Ti1XTlA3VUJzOVF5Z05YUTlKOWRTN1ZVOXQ4X25EWmlyQjlGOGVuNTIzb2Y5NkZ2M2JzVl9ISWc2aFNXZHpVTDFabGswbGhEQzkwQ0VsMzZldkN6MWlTWXhsY1JTWXAzOF84VU9aa0xPRV9ZOU9JWlNZR1ROYzJLVGZzMnRTZWd4WTA?oc=5"
     },
     {
-     "t": "Saudi-Houthi tensions escalate after Riyadh drone attack and airstrikes in Yemen",
-     "src": "Mid-Day",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcm94c2JmSS1SOVdtU18xemVzdVJCbFhpZ1hpblRiOE1SMnZZVFFtTmxWVDFUSnNkckMwYzF4VmFRdjhoQUJ2ZktrZlhiNm54WlJyUkt2WHZsVFpPUXBNWDR6WHdBd1ZLM3NMVllYYmdaUnZIZXJ6MDFxUHA2SWF1UGFfVHcyQTdzWXVmWldpV0phdmNGZHNrdXRRaHpuVDRWZTZEbnh3MTJyUElDMVlPOHJFZXVSQUZaOENpTDZWcEdZTkktM1ZtTGpjYXRLcVlVb0FJOWZJZFNCNXc?oc=5",
-     "t_id": "Ketegangan Saudi-Houthi meningkat setelah serangan pesawat tak berawak Riyadh dan serangan udara di Yaman"
+     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
+     "src": "Republika Online",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
     },
     {
-     "t": "Saudi-led coalition strikes Yemen after Riyadh drone attack injures 11, including two Indians; US issues alert",
-     "src": "The Statesman",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcndtZXk1aUNxcE83eGYtaUU5NGF3akVDOHE4WWktbUFfNU1RQXY2blhfWlphNjJOT0pkT051UFFDd3NDQWZhdWVtYk56WUc0TC1KNXY1aWZqS3hBQ3loR0FUeXFpOGRhejVTakdBVWJUTHBqaXUwdHJfc2x0ZFJLekpMVmdUVGdZbjNDX3hUMlZ0by12V2JTVUlQeFJRZF9jV2l6UmlGOGhUUXJCSUI1U1poNkc4UDc5XzRtWldPb0trY3Mta2IwSkJtQUNXUTdoeXFJRkExOGd2V1JWZG4wOV9JaS12Mmk5X294LUxrcU7SAfYBQVVfeXFMTUJEZmFBcjlkTTZkZXI5OENwT3g4YldUZnFLS2pDMmd6Z2M3dVNpOWpfdElpM09PalhVbEhURWJlRzRvVzlLVGxGQXRySVFVeVg4Mm5XQUhmYWJjclE5U2s3VTFqYURwdVpqWUJxOEZiNnRrTnEtckM5TTNadU9SQkpwLWRFTEFDVUk0MmtFeEx5WXRtTkRUbnlIa1d5SmVhZ2szdmNZN0s4VzM4aTlSa0paZlNPMXV0M295U19CZTVBNExqUy1oZjV0YVNTTm80bTJTeC1UNlVxX2ZRRXZkSjVKN1JFSV9FendrZXplWk1jb3JjLWVR?oc=5",
-     "t_id": "Koalisi pimpinan Saudi menyerang Yaman setelah serangan pesawat tak berawak di Riyadh melukai 11 orang, termasuk dua warga India; Peringatan masalah AS"
+     "t": "Kapolda DIY Bantah Mutasi di Tubuh Polda gegara Demo Ricuh",
+     "src": "detikcom",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUQzdnBEZzA4blpUWHlIV1hYaE13VE1LUVBpQ3hVNExiSzFxa2JMcFF6SjItSFJXOU9iM01ud0RKZjVodzkyNmRVV1c0QVR3TnZzNm1CdW9MZ3B0VlMxOVRuQWVjQXpubmt1eUtoN2hkeU0tNjZsbjlFaW9ydzhWd2NWQUMwRHJ5VWRZSnhZM0tuYjFYRDZ4Tm54cVUzZ2dka1Nzc0l30gGrAUFVX3lxTE5TSWVxaUdjWmZMN1RjX2xaQTliMWpnR2c2QW5ZYk5FMDA1WVl5T2ViRXN6cTZmRlN6Q1pZYnFXQWs4WGM3MUN4RnNET3JGcUU4V0dJT000VHpFa2NRcWdMQnp5T0cyUVNUcF9ZcDBHNDhwZjc2QjJGMGJlYVlfY2czUlhTbm1rZHFsdmVMNl9QekM4OENTUFlWaGpRS3BHaV9JZlZ1UDI0SXlDTQ?oc=5"
     },
     {
-     "t": "Airstrikes Rock Yemen's Capital After Houthi Drone Attack on Riyadh Financial District",
-     "src": "Lokmat Times",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVczU1FXMEtDVGdoYkMtOVA2LWpKX3FVYWZLVGotcXR1cHp0eFQ0c3lCbnhnQ0FzSzA0cjhQdkFaTkNRb1ZyWThmYUpRNVdUS3R0Y1NnenVIVktybnhvZzBRd1YxUmlKQWh2eURBcmFUX0lEbzJLeTMyT3ZFWkhpRlBJLTh2TE43T2hWVXJDa2VsOVVkLXBTcHRtUGZOMkROSjZuMW1meTdWbndnYkFkM3k3MHUyVmd4Ul9ocUg4UjhNT1NFYzdVSjBiQ2NxbzBsTkHSAdgBQVVfeXFMTk5RTTBkWEZKZzR2YzF1ckJFaWhLY2FHbWNJdzV6WmlPaEdWRUh2UmhfbnMxSWhNYUFFVDBpZ0tlUU5nWjFqUHhzVHM5R0tUV3A1MXR1N1NmLUxWdmdNWk5CNWk5QjhIUFVQZDZucjd4bU1zV0pWdUJKZEZuU0ZJeTRrcVhnZmo3M0FmVy1ub2UzQnhzWUFKWU1DLTZPX0pNdkwtZmNXRWltd1VYRENMazdLbC1ZWm1oUDlYZ2FOeHhTOUxSWUxYcVd0eGYxQmlaTUVCYXdTd1hH?oc=5",
-     "t_id": "Serangan Udara Mengguncang Ibu Kota Yaman Setelah Serangan Drone Houthi di Distrik Keuangan Riyadh"
+     "t": "Kapolda dan Pejabat Polda DIY Dimutasi Besar-besaran, Abioso Bantah Terkait Demo Berujung Ricuh",
+     "src": "Suarajogja.id",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUxsQTEtbTNBZFBXVEdpTkRTc2M3akZjMjZPdW9uckhOOXhkTldibkhjRlBvRTFpUVpRN3h6X2I0blBuLXBldWJnTDM1VmMtR24yMTVvSFA3N2Z5TGFvellGN0pYQzZDU3FQWUhha1pGSEVsZFJWU243YlE1RHRxSlFoS3J0WnFwSUhvVjROTDRIZVQ5MWs3c1BhM0pneDAteDRjN0RVaF9wZG54TFFobkNUSXBsVGVNQWdpazVZTDhwWExpMDFmVGNpSFRSOGxoSzFmWXVPNVPSAd4BQVVfeXFMTVpWRmZEUVF1cTA3Vkw0MFI1dFdUSWo0X1oyckRsQ3NkU25ISm4tS1ZvemxLX2ZXWUpqRVF2X1BETXhXSXdGVm1hTDZQUjRiX2RsaHkwaENFcDBhNVhuLWVXRVZWV1JyQm9DeVdRNXZBbXFlOS16VzBMd1o3czZVNTRra21EMWliS08tZnRsNjg3aUh3YlM3S0NWM1R2YWRUQkZJZ0JuellDRVFVcWxYanVaVGN4eGlFOXdUd2Q3SFJFR3lBVjRabktiM3hxWmtNTFhMSDRMdGRyQ0lFck1B?oc=5"
     }
-   ],
-   "title_id": "Pertahanan sipil Saudi mengatakan 11 orang terluka dalam serangan pesawat tak berawak Houthi di menara Riyadh"
+   ]
   },
   {
    "id": "transportasi-202611241145-8c04",
@@ -89,6 +84,141 @@
    "title_id": "Setelah penutupan secara nasional, pemberhentian darat terjadi di bandara Chicago dan Atlanta selama minggu Thanksgiving"
   },
   {
+   "id": "politik-202611241022-acb3",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
+   "sources": 5,
+   "recent6h": 0,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-24T10:22:33Z",
+   "last": "2026-11-24T17:36:25Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain’s progressive leader called a snap election. But will the far-right benefit?",
+     "src": "GZERO Media",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUG0xcGwzM0NjS3FDMzNxa1VBWVZMT1k0ZkYzY0gwVWtIUEJEeFpOR05vWmJZUlRtejNBei02YkdEU1NyRThDc0wycXBOWW0xaXNzclVzelhDUzh6YWJfQTllSDY5RUtXcldSM3lfMFBST2I0X2tlT0VSTDlCMXV3TFF5al9TTFF2YnJvbEJVazZCWS0zVkdLelE5Y1Q0a1U5dFBDUWZ6aFZnZVZPTGNMamtVMVRHakE5UExzZw?oc=5",
+     "t_id": "Pemimpin progresif Spanyol menyerukan pemilu cepat. Namun apakah kelompok sayap kanan akan mendapatkan keuntungan?"
+    },
+    {
+     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+     "src": "inkl",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFBoR1RYWDZYVGMzYnAyM0xjQUFnTHZPalc5RFpURGJGcmVtbjg4eHBFNjZnUVlTSnFOVVVJUDB5UVVlMDlScEFScVBjNExQYnBTN2xEYy1GZXRNVUVKTGZQRnJTLXZCdXpIejcySmVSQ2pRZ3hjS01wY21yN09Ldm5Ba0x2MXYtNUh4Tzc5SVlheTVzNklGV3dIYjc1bnNsZFc3OGlHTDVkMWlIREdPaVZn?oc=5",
+     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+    },
+    {
+     "t": "Why Spain's Snap Election Could Put Vox In Power",
+     "src": "ИФЗ РАН",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
+     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
+    },
+    {
+     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
+     "src": "EUobserver",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
+     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
+    }
+   ],
+   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+  },
+  {
+   "id": "indonesia-202611241636-0579",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "BEM SI Bawa 7 Tuntutan ke Istana Saat Demo di Hari Guru Nasional, Apa Saja?",
+   "src": "Kompas.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUZuNGJiSFdGLVVmNXl2cXh5YUlhYm9fOUpMbVh4Q2dPQ2RpQkJfYnljWllBejlDd1lDbk1HX2VzYkVaYTBETXR1ZHNjTzcybXhiMnNqTDhVZVlYTERlVExuSG5wenctVS1ib3J0T3oxRzIwVFlBT2pLS1U5bDdzOE9Ed2FiX0ZVUUJhSlU4enhod3ZsY2pLcmJYM19qT181cnpwcDFYTXhMTUU1LVRiaElpOFlJc3UzWUJxZV83NmU0R2hnMk1r0gHHAUFVX3lxTE40ZkQxZkU4eV9TYjRJdmg5T3pKWkpnTnFwUlQxbXhHZENNT0tBYzNoamFTb0h6MDhVT3J2QXMzMnUxYUN3bE04b2VhM3NRbkpRN3gxOWlmaXQ0cEpab1R2TThiN0FLTjhUQUh4amNCRmlRR2d1OG5ORm0wRmZwSms0VnE5S1JuTExoMkR3QmpwbzZkYW9jeG4wN3FMbFNhZkhJVzFFeWRjeExXbF83b2NydEJoYXRTM1dfQ0ZiY0YtZHUtQkR6X1U?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-24T09:43:00Z",
+   "last": "2026-11-25T05:35:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Mahasiswa Demo Hari Guru Nasional 2026 di 3 Titik Jakarta, Ini Link CCTV Pantau Lalu Lintas - harian.disway.id",
+     "src": "HARIAN DISWAY",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSE1laHV0WkNOdHVaZzBFcHViclRiRWFoejFXak1aR2dCSHR5RHRiSVhOWWliUjV6MHN3emhhblpYTE9fdGo5SEpNY3B5S0FsZDBDWFhwaWE0OFhoT2RLcFRZMDBoeHh1RXY3Z2xEYUEwNWpPOTJwMmppNW82Vl9jd1JGb2Rxc0xONlZhbzN0RzZPY2ZCUURMY25ob0FqQVM2ZGR0WktjdTdNTFJpdGRZN2g1aF9nQllmMEdDVFFOdXlQSlJB0gHEAUFVX3lxTE9ITWVodXRaQ050dVpnMEVwdWJyVGJFYWh6MVdqTVpHZ0JIdHlEdGJJWE5ZaWJSNXowc3d6aGFuWlhMT190ajlISk1jcHlLQWxkMENYWHBpYTQ4WGhPZEtwVFkwMGh4eHVFdjdnbERhQTA1ak85MnAyamk1bzZWX2N3UkZvZHFzTE42VmFvM3RHNk9jZkJRRExjbmhvQWpBUzZkZHRaS2N1N01MUml0ZFk3aDVoX2dCWWYwR0NUUU51eVBKUkE?oc=5"
+    },
+    {
+     "t": "Tujuh Tuntutan Demo BEM SI di Hari Guru Nasional",
+     "src": "tvbangsa.id",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0l6ak1JNFctX1B5OUJpQjFMaG5vWkpEckJQQmliUEpkVk5KRlFzVUFycTlUMnFQUndqaEtZclptWnlSY0ZxSUlnaGYyOXlhWFl0YnlrbVFSODhuN2ZvdWpOajgzb3pyVFc2N0lxaHloWEJ1LW9iZTY4b3dCM0ZqSHl0X0lhYUw2SkZXbHlLdmc1Zw?oc=5"
+    },
+    {
+     "t": "Tujuh Tuntutan Demo BEM SI di Hari Guru Nasional",
+     "src": "Liputan6.com",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0NQSUI3dTJNR2RCWmY4cGQ2Z2VLVmxaVXhTSGtjdVR1TnlHTXpfajVZV3F5ZDBoNjl5aHZoZVRWRXgtRm9yeWE1ZjFCcHAyN2ZNWTQ4NEszZ1poWEdWSkM3U1NxUlQ2a25vUnB2NDlETHpfY3A5NXZ1eEZwal9BeG41VDRlb3pyM09lS3ln0gGOAUFVX3lxTE43Q1BJQjd1Mk1HZEJaZjhwZDZnZUtWbFpVeFNIa2N1VHVOeUdNel9qNVlXcXlkMGg2OXlodmhlVFZFeC1Gb3J5YTVmMUJwcDI3Zk1ZNDg0SzNnWmhYR1ZKQzdTU3FSVDZrbm9ScHY0OURMel9jcDk1dnV4RnBqX0F4bjVUNGVvenIzT2VLeWc?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611240800-7bd7",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Buruh Tuntut Revisi UMP 2027, Sempat Terhenti di Basuki Rahmat Surabaya",
+   "src": "Surya.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONld4RGFtbjlEaHp2VG1FTUxlSHYyREVlVjdRbXRqVVVTWDVRcGp5cENmVnFoZ2ZKU0NwR0s2a1RkckFJRjA3UjlLNGxQRDV6S1k2amNuOHZJODVJX3JNYlN3YzQyR0tFelo2SGc0ZTlVekhHRzMyZVUzVkVva0Nka3BBMmNaT3NCXzVCeFJDZm9GLTJONTFJVHJJd1VMUjFyNExjaUhuNnd2Q24xdTB3SkFWT1pBTVRSa3gyV04ycFRTdTdIcHpLcGF3?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-24T08:00:00Z",
+   "last": "2026-11-25T08:30:29Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Demo Buruh ke Gedung Grahadi Surabaya Memanas di Jalan Basuki Rahmat, Truk Boks Jadi Sasaran",
+     "src": "Tribunmadura.com",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2hRM1p6OHp0TWl0S0NpZlR2NGstNTVROUlfZ1Q1dU4xUkxaTXY0NlN4a2JlMVJzOHAxSV9BWVhudzJwZk5CTXlhUWswMlg0cUhKLUZwa1EzaWJKb0JXcjd4MXh0cW5nN25zNWt4YmZEMU4taWIzVW52aXdxYU1zMXpKX1R3eGNzWm5OR2VnQUFjMEdNODlrNm9QS2lBVnV6dUZLOWxRSnI0WXpWbEtiRllyUHN0ZWNfZFE5YmFrRTl6WjRQVzRxX0c0UElSUm9PV3dV?oc=5"
+    },
+    {
+     "t": "Demo 17 Ribu Buruh di Surabaya, Ini 4 Tuntutan yang Dibawa ke Kantor Gubernur Jatim",
+     "src": "Jatim TIMES",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVl1c3QwcWdRTWVLYS16U2E0MDZkempiSTRjakZtQU1INXFXU0VJTmRjb2JLOGt5TVdIQ0NLSXBSMGlPN2kyZGxaQTZFUzJIVTlYQWxsVERnaFJrREF1eTgxdzBJZlVYSEtfa3lqdUlWRGZpWlV2eHlDOExXWWRhcU45OC1RMmVIbmpOZkUxT0ZTZkJsWDQtTk96NkptN2cxcU94c3hjYlZBc1ZzSFBDRHRsUDIwTHNfVkFJZVE0YnN2NC14aGx5Mk9ydDZUeFNfeXg0?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "perang-202611250232-f5c7",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Yemen’s Houthis claim large-scale missile, drone attack on Saudi airport, oil facilities",
+   "src": "DD News",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakU3dVVNbk8yZkJUTW9tMnVfUHgwZmRIMnBpendqVlVBaDhtWkFCN0EzS0lyWlpBTk9IeVNsMW9RZUEwbTNmLXJwVGpfRkIyeTNsbXdzS1JrTW5kdkZOOG1OWkpGcjJwd1FDTXdTZEw4aU9SRWRqZEg0YXdVSHp5VVhKWUQ3dl9yZzJlMUZDQlNRc0Zpa0tXVWh2UXpPSUlLcmlqS2hfZXhjYUVuM015Zw?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-24T14:00:00Z",
+   "last": "2026-11-25T06:31:16Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Saudi-Houthi tensions escalate after Riyadh drone attack and airstrikes in Yemen",
+     "src": "Mid-Day",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcm94c2JmSS1SOVdtU18xemVzdVJCbFhpZ1hpblRiOE1SMnZZVFFtTmxWVDFUSnNkckMwYzF4VmFRdjhoQUJ2ZktrZlhiNm54WlJyUkt2WHZsVFpPUXBNWDR6WHdBd1ZLM3NMVllYYmdaUnZIZXJ6MDFxUHA2SWF1UGFfVHcyQTdzWXVmWldpV0phdmNGZHNrdXRRaHpuVDRWZTZEbnh3MTJyUElDMVlPOHJFZXVSQUZaOENpTDZWcEdZTkktM1ZtTGpjYXRLcVlVb0FJOWZJZFNCNXc?oc=5",
+     "t_id": "Ketegangan Saudi-Houthi meningkat setelah serangan pesawat tak berawak Riyadh dan serangan udara di Yaman"
+    },
+    {
+     "t": "Airstrikes hit Yemen’s Sanaa as Houthi-Saudi tensions escalate",
+     "src": "Telangana Today",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVd4ZWlDbVNOaklqZjB3ajg3Q3dHMkpvemVUX19fMHZLdkhGZFNBQkhseGs1MkhVemJIZUw0eHRtVVY1MkFMZjlGUG03RFJDNi14MkVlMUoxbHp6M3ljbEVfSWQ1bFRNX29TV3BDYWxxemhoMFlWcjYxbFhOYUZWU05vYVdsdzJPbzNGTFFFLVVzZw?oc=5",
+     "t_id": "Serangan udara menghantam Sanaa Yaman ketika ketegangan Houthi-Saudi meningkat"
+    }
+   ],
+   "title_id": "Houthi Yaman mengklaim serangan rudal skala besar, pesawat tak berawak di bandara Saudi, fasilitas minyak"
+  },
+  {
    "id": "siber-202611241932-7e03",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -126,39 +256,6 @@
    "title_id": "MICROSOFT 365: Pemadaman Global, Pengujian Lokal"
   },
   {
-   "id": "indonesia-202611240800-7bd7",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Berujung Ricuh, Buruh Garmen Tuntut Kenaikan Upah",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRy1hRzhKZjVvdTREa2VrZ3NYLWluanZJbnJIMFNGYmhjQkVUUVZPVlRWSjRUNy1ZN3pSVnpZX3lqam5wVmtVb2JNbGtxbHp5elJTVExyRnRZREVjUG9WTHBVdS1uZENER2VNSjUwdmxSMEg0SV9RNzVDaUxuSTlPSEhPckxGalVaZXNTTUZpMGtycm92aFZEQ0VqQ3c3c3VhSC1MeDdvZTM2U0NFT3hidzV30gG3AUFVX3lxTE52NkIwdUlNcVphUXlqYl9aSmI5eFU0ZDF4Z2paN0JyaHVaa0hWWXI0NDN2aUEybGlXM1gzR3lEQkFCQ0lnYWllT3piNkE2aTRzVTVuSUpiZDJCX2FzQzNvdmVUVTUxTXdEa3J4bG9xd1VER1cwUm8wLXl1d01LYkFGZ1lxUHdWMzY4ZUZWRFVmcGhNV3UwT1I5YnFBcTJrZ3lHRk1XaEFQdEhoWk9UTzVKNVVmZk1ZVQ?oc=5",
-   "sources": 4,
-   "recent6h": 0,
-   "score": 4.0,
-   "level": "sedang",
-   "first": "2026-11-24T08:00:00Z",
-   "last": "2026-11-24T15:36:14Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Kapolda DIY Bantah Mutasi Besar-besaran PJU Imbas Kericuhan Demo, Sebut Kewenangan Mabes Polri",
-     "src": "Republika Online",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEh1cEhEbFBYWU54LVRheXo2MnU1X3NiemVJakVPQTNydVc2cUdwU1RCWWpqcnZ3UHJKT2RWc0xEczAwYWJYU2V1LXE4eG9oY3gxdDUyTHVQNVNXVXNuZU9oWU9HMXdQMGt3emxBeERjVGRiWTkzOEh0YnZlcTZUelROSzFSa09TZ05EWmk4akxmb2w1bDFjMlF6VmhYd2N0OEhrV0ZQdUZhT0JsVG5VcnVGYUgxMXVqRlhMMXdTZGtIdFlpaWFTQWN0MXJGb1EzYVpQbDc3NW1FZw?oc=5"
-    },
-    {
-     "t": "Kapolda dan Pejabat Polda DIY Dimutasi Besar-besaran, Abioso Bantah Terkait Demo Berujung Ricuh",
-     "src": "Suarajogja.id",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUxsQTEtbTNBZFBXVEdpTkRTc2M3akZjMjZPdW9uckhOOXhkTldibkhjRlBvRTFpUVpRN3h6X2I0blBuLXBldWJnTDM1VmMtR24yMTVvSFA3N2Z5TGFvellGN0pYQzZDU3FQWUhha1pGSEVsZFJWU243YlE1RHRxSlFoS3J0WnFwSUhvVjROTDRIZVQ5MWs3c1BhM0pneDAteDRjN0RVaF9wZG54TFFobkNUSXBsVGVNQWdpazVZTDhwWExpMDFmVGNpSFRSOGxoSzFmWXVPNVPSAd4BQVVfeXFMTVpWRmZEUVF1cTA3Vkw0MFI1dFdUSWo0X1oyckRsQ3NkU25ISm4tS1ZvemxLX2ZXWUpqRVF2X1BETXhXSXdGVm1hTDZQUjRiX2RsaHkwaENFcDBhNVhuLWVXRVZWV1JyQm9DeVdRNXZBbXFlOS16VzBMd1o3czZVNTRra21EMWliS08tZnRsNjg3aUh3YlM3S0NWM1R2YWRUQkZJZ0JuellDRVFVcWxYanVaVGN4eGlFOXdUd2Q3SFJFR3lBVjRabktiM3hxWmtNTFhMSDRMdGRyQ0lFck1B?oc=5"
-    },
-    {
-     "t": "Kapolda Bantah Mutasi Besar-besaran di DIY Terkait Ricuh Demo Yogya",
-     "src": "CNN Indonesia",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1c5TV9mUVF1dWZrcGJXLWpIYmlVbHk4VE5qa0pCV0VWTDNWaXRMNEJYajVMOXhoN081WHhEenNUZC0zNzZiVVFSQTdtcmdjeXFvS3RLMVFKeVRiU2Y4ZWU2TnEyaUoxaUxDR1RGMjdjTHp5SlpLWmE5dHBBSWt2NFg3TTVkOFI4MEtNaTRuRWtmQzExeUN1Q0JoX1pQdjVLNGNudUp4SXhfZE1FWmVxZ3RYZ081S3RPVTZ2M1k0QnFvQ3FxMEtjMFBaWdIB0AFBVV95cUxPZm9jOUF4Njd3Z1E5ZmVmU0FtamF6X2NydlVHYnRvbG5oMGlEYWEwdmJuZUhuWEZRdGg1TmFnRlBUaVFuVTdZYXU3MDFDckw2WnJuTF9vMkZpcnR6QmxnOTl5eUtkejZEUnNiYzJKZ1ZDcFdTWVdrS2IxNXBWZDdmTnZtaDZ5VXFtSWZmQzl3eU5MeG9sSXlJWllESFJ5dXYxa2NQc0dHcGlnWjJvdlRsM2x0U0VpeGNPb0ZrZm5WeWtWNmw3ZnlXMWMwVnZ2ZzRZ?oc=5"
-    }
-   ]
-  },
-  {
    "id": "indonesia-202611231505-cbc5",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -182,7 +279,7 @@
     {
      "t": "Resmi Jadi Tersangka, Listyo Sigit dkk Disebut Terlibat dalam Demo Besar hingga Motif Terungkap",
      "src": "Tribun Video",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHQ1aEwyTkNYcnFsZzhGZ3ZDakZ0b19nVnhYZHlKUk1CaFJlVXdzTkxBR0V2RmpKNWZycmNhZC1tc055cjRuelFyVWpwVDJzM2w2Qnl3eXI3c2xqRmN5LXVYY3ZNMHVGRTJWSUNYMDJoMXNzRTNacTRnWGJwVkl1akVOcVJ3cXM3Ym5wVUdUbVZFME9XdXZXdWNGSUwyc0lKQWVLRHcxTEp1eHN4WWhYbk55OW1ROTZ3WVkyZmZSeVdmVGhXUFczQU1ZVmp4QjI5?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnZLRnQ4eUJDZGM3bTdNM2FkVlYwVTctV0pkLTBfbWdyWE1lUUR0ck02b1RsS2tnUGZhVkJCc2xpd2pDeHlFVEZnd2RFLXFTMVgzZkxreWdvbU5XcnluVW5aVkdBdGY1bnRfb2F0NnlNYVRNRzQzY0FRRFFpbjJRTlhKQVo2bG9teFJ1Z19TaEQ0c3RGVnNyRGpuOUFfckF6NTE5MkVmZGotMFBfanR3dEh2X2FlNEJGZnlyQlJPRjh6aEVlOGFZeWVJdVpJdFRu?oc=5"
     },
     {
      "t": "Resmi Jadi Tersangka, Listyo Sigit dkk Disebut Terlibat dalam Demo Besar hingga Motif Terungkap",
@@ -223,35 +320,51 @@
    "title_id": "Pemadaman listrik di seluruh negara bagian mengganggu penagihan, pengajuan klaim, dan manajemen kebijakan untuk beberapa pelanggan"
   },
   {
-   "id": "politik-202611241022-acb3",
-   "cat": "politik",
-   "label": "Guncangan politik",
+   "id": "perang-202611242133-2926",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFQbjFGRnVyWWItSFBBazhkLUNxZDVuWmlxejI4c0NjYnhWNkRWM0xXN1ZoSnM5eExaXzVLNHZpVGNJRVZLdmFTQTJPU3hZa2pzVjhoamhBUFA1R0dJN0lJdl9wTUJKSGhRNWpTZXFJY05aV21tUXotYnp4aFowUDhJdlc0V085X1diUzdYSjZ3emhVQXJN?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-24T10:22:33Z",
-   "last": "2026-11-24T12:22:00Z",
-   "assets": "Mata uang & obligasi negara terkait",
+   "title": "Saudi civil defence says 11 injured in Houthi drone attack on Riyadh tower",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-24T21:33:15Z",
+   "last": "2026-11-25T08:54:12Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Why Spain's Snap Election Could Put Vox In Power",
-     "src": "ИФЗ РАН",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XcnhSbWlvVElfTG5Dbzdnc0doWlI1YzV3UTNsVGIyb2cxTHI2ZThSQmxKOVM2UUxob0FLVlJvLTJVOHBrTE5TdmZXdVQyWWJzX0FJc3pjdnp6MzlLX2tXaS1MeFVNVWZfN3JR?oc=5",
-     "t_id": "Mengapa Pemilu Cepat di Spanyol Bisa Membuat Vox Berkuasa"
-    },
-    {
-     "t": "Sanchez’s snap election, and what his defeat would mean for Spain’s Nato spending",
-     "src": "EUobserver",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFWbnZKVF9KY1p4ZVlCd3JUTEh3eGJqb3hLQm9nbWZiUFhJUE9NLWw2djFnZ2NycnNRemNiT0NtSXphQTV6VG0xWnZCMk9LX0kxYkN1eUpMMFpaVlFvVS1sVUdPWndBUXFFdXE2NzlsazlLRnFIcEY0aEMzVnJPVS0yWWM4RzE2TFo5UmJWM3V2NmhxQm1iOC1qcTdlUE1fS21JV1Foa0tJSHZlQzBJ?oc=5",
-     "t_id": "Pemilihan umum Sanchez yang cepat, dan apa arti kekalahannya bagi pengeluaran Spanyol di NATO"
+     "t": "Is it safe to travel to Saudi Arabia? The latest advice, as the kingdom confirms another drone attack on Riyadh",
+     "src": "Condé Nast Traveller Middle East",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR3ctTFpGLTM5b1MwS0dhU19yV2dzXzhHUGhKZnU4R3pxNzVISWlkR0VHZUFYVWZ1TExWTnBzZU0zVkpKTUF6dktwc1pRMUlVSklPdXRJVmhyaGF2UUJlMVE4bDVkc0VGSDJVa0ltcS1zeTJyQVAtSkRReTlpRE80dHlkaHpyZXpaV3IxbkphMGtGQ2RXaU1CbTJjcUNLR2c5SU91Y1I4LTloSFBFbGV3TjdrdDNLN085OTlIazRKWTN2Z241dkNxVlkwcW5WMGpuRnRnUDVTc0lPdTAzUGc?oc=5"
     }
    ],
-   "title_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
+   "title_id": "Pertahanan sipil Saudi mengatakan 11 orang terluka dalam serangan pesawat tak berawak Houthi di menara Riyadh"
+  },
+  {
+   "id": "indonesia-202611240942-c6b3",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Protes Tambang Ancam Badak Jawa, Warga Pandeglang Ancam Demo 4 Desember di Jakarta",
+   "src": "Suara.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPamMybm0tUkJ3Z1hmR3I2V3p2V0E4OGhzYWU1Q0ItT1JnVlI0R3dGQXhGTDhmOUlnbHQ2SUVhU3JKOE5YSFFmeFJRWGRvMWtUcmN2LXYzYkpQUnZGZUZic2U5VUdwWUM3U2pQb0VHZEIwaUhOTGhJa1JvcUU0Z20yV1NuTzhwXzdLd2hMSVgzMjgxbEdBQXRhckVybzlFcGxQNFpleXVGcVNTMTNoazVlbEVqdUF0REFBOHpNVGE1T1ZXMjlw0gHEAUFVX3lxTE03eFhOY0dEdWpOMkRfbExoMm4wSGFfWHJLdlpKbHB1QzhlTGVfYmVnaDh4NzJtQ0tXVDRVaGFOdFhZUlg0VGRkcHV0cjdKckZ5dVlBMHhnMzNkeDdVN3JkYVNUVktZZ2ZPUHA5d2I1ZnpsNU1GUVIzZTVVNHNUSFdTYnoyYUhQV2o5MjItVUNEdTVDRUZhZEJxV2ZoT3ROZGwxVVVHSXBmcFFqUmlsOG5QWWJNaG82VmhRamczR2pxdVBxOWU?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-24T09:42:00Z",
+   "last": "2026-11-25T08:22:40Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Pemuda Banten Ancam Gelar Demo Besar jika Pemerintah Tetap Pindahkan Badak Jawa, Bawa 7 Tuntutan",
+     "src": "Tribun Video",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUtQZFUyaDhWVl9BWEtCa2dhejdzLV9GSVRLcFVNdlFkcERYcUc5YnpLMVV1Y2t5WmY1S1JJM1JJQklNeGdWQ25yMk9vczdUbnFWSXY1c2Fiam5UelV5RnhTdmNUeWdZSUh5WWJUcTRNTTI3Q2U5V0FtWWxpYWFOT01sc3VhS3ZraDR6VnROakoxcnIzR01kbFRvQUdfXzhOZi1TdlFxenRtV3BQLV9WdXNiVzMyaFdvUDVqblJIWTVRaUtLc0Q3WU1CT3ZsVjhtUHc?oc=5"
+    }
+   ]
   },
   {
    "id": "indonesia-202611241636-0579",
@@ -277,6 +390,29 @@
    ]
   },
   {
+   "id": "siber-202611242102-9941",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "TikTok down: Major outage disrupts app services across the US",
+   "src": "Beinsure",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhSHdWSXQwOGRkcjlrdXFpRDNtY1BmQjVsNEE1LTNZZVAzNms1RHhTNGxBRk1NSkdjY0R2ZmE5VTUxREhQa3g4aWI5MENDS25FcEkwUVY1NlFFRks3YXZtSTBQRmxKZ0J5azhlRDRRcHhXak9XRjRKQkJZSWlzZw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-24T21:02:00Z",
+   "last": "2026-11-24T22:17:45Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "TikTok hit by major outage as over 25,000 users report missing videos, blank profiles",
+     "src": "Interesting Engineering",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0RzWEhJMGsxTzcxak9wRm9uM1M5M3VJNlFaYkVvempfS1hLUEhxejlDa294aHhjemNScWtmaUgyRGlYamFhMWZqNDhFc0U5ODV0VkIwd2ZJYTY1MUZLVnVxdm96MmdXaEdQVzhNS2JTR0YxcWlYSW1hYWkxSWhqSmZPcFlDdw?oc=5"
+    }
+   ]
+  },
+  {
    "id": "siber-202611242157-1b5c",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -294,8 +430,8 @@
    "more": [
     {
      "t": "An unclassified CIA system was breached in a cyberattack, reports say",
-     "src": "WMTW",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWU10a3c3NUNZYUd6aWhGU3pNeGtmbUxPd2MyZi12eGZKZVdVNmk4ZXNnY01EaGJ6NmEtbEE1dy1IX3J6N2FoczNlU2hReFVRTGtwR2ZXWHdyZ1RZSzh5NjVodlFqX3ZzWFhWTUFKSDJRX3V6bGRiR0FwR1FGblFySDBkbGR2LW55bXc?oc=5",
+     "src": "WXII",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXNxRU9OanpodHNkRTJEQjF6b3NqdUNOZmdLY213clRCYXZ3cW9CVWZQazFPWWwwNUN1bnZxTW5nRGNPaTdtekJQenNpVmJveG5KVXNJeEZHYjAwYnhLVzhwX29rRWg1VndZS0ZUWC1xb3JYSmVhdnBkZEpzTnprTElmOVE5d1pZcDVpaA?oc=5",
      "t_id": "Sebuah sistem CIA yang tidak dirahasiakan telah dibobol dalam serangan siber, kata sejumlah laporan"
     }
    ],
