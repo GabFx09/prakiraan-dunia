@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T18:47:11Z",
+ "updatedAt": "2026-11-26T18:58:18Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Ebola outbreak reaches 12,000 but responders forced to evacuate in the face of conflict",
    "src": "Morning Star | The People’s Daily",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHh3ci1yOU1iZUJZWmZENzFmdDRsZlg5VlY5Zk1Cak9nTGctY19LTm15T0FpQmZiblpXaDVoSUhfM2RSWVNvd19RaVlxV08zWmZGWXEzbWpjcnZ2YU9sdnNWOXlsQ1R5a1Y4ZXluSGdxbmZJSFJBX1pLcjlSSlJPY1p2MUVSeXVqWGdraC15amw3b3R4ZkJzWUpHLXBnT2tWbnVZS3dZSmxWVjFEa2c?oc=5",
-   "sources": 10,
-   "recent6h": 6,
-   "score": 13.0,
+   "sources": 8,
+   "recent6h": 5,
+   "score": 10.5,
    "level": "besar",
    "first": "2026-11-25T18:50:12Z",
    "last": "2026-11-26T18:22:47Z",
@@ -37,10 +37,10 @@
      "t_id": "Wabah Ebola mencapai 12.000 kasus"
     },
     {
-     "t": "New funding for response to Bundibugyo Ebola outbreak",
-     "src": "Science|Business",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3UzOVBTX1ZvTXhpLW9QS3Bya0wtMDZuX25sWUNKX21RVl9JbmpGeEh3SkcwN1ZhZUQwSUE5ZzA5X1oxMzduRW1jdURneGZBWGJRenJKczNLZ0k0VVRSU0tweTFjbHBnQVhaeExvLUpqZl9zYTFvLXRnclFoUjk1UzFwclBXQQ?oc=5",
-     "t_id": "Pendanaan baru untuk respons terhadap wabah Ebola Bundibugyo"
+     "t": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3NZTFdoSVNxWWdjdmJZOXhZUVNOYVpPa3RaeEt3dm1pRWJPR1JOWGs2S0NYOEI4MWQwelIxZElqcVVPQ1A1UC14X0NnWmhaVEVYb2VkZ1BwSGVocHpEZ0ZCUjBpREtodXBQcmlYQXFnRTRremdnSHFCd09YWHNZajNSMWpPQ3FVNzlaN1JpNDluRDJyWTNqQWc4NFh5RWlxbEV1N0dB0gGrAUFVX3lxTE1NMzhhbVFkcTE5S3VBVFJLYXZKNGJYMzQ1OXZ6di00Y1ZQVHc2WVVkMWFBOG05cjMtTlFILUZTMDNhQ3pVY2RHT3lpaGhrTXNpSVV5a1Y3azNRQ1J5WjdlZ2liNEY4aGdYZkh3Q0xxcU9IVnY3S0dmUnR5V3VUbFF1LWc5M25wVHRUNVFvT1ZuVmlnY2JLd3J3TVNDYWc3dUpUd3dIdUhXZjQwNA?oc=5",
+     "t_id": "Wabah Ebola di Kongo mencapai 12.000 kasus ketika kekerasan memaksa beberapa petugas untuk mengungsi"
     }
    ],
    "title_id": "Wabah Ebola mencapai 12.000 orang namun petugas tanggap darurat terpaksa mengungsi saat menghadapi konflik"
@@ -118,6 +118,39 @@
     }
    ],
    "title_id": "Serangan pesawat tak berawak Ukraina menewaskan lima orang di Zaporizhia yang diduduki Rusia"
+  },
+  {
+   "id": "indonesia-202611260240-f87f",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Puluhan Mahasiswa Demo di DPRD Tangsel, Sampaikan 24 Tuntutan kepada Pemkot",
+   "src": "Ekbisbanten",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3lKMnljeGtJaGN2QVZUbDhiNVVISnhxc3Z4bzJuNW9GaWYzSTFyNzB2RzVpTmVhRmIxQTJNVlRhM2FGRnUxLU1KTzJiTHJfS3NwQW9HS2N3aXZYOVZFWFpIZXBsdEpjdE9qUTJ3anB2cGVkQjlrT0hGS3p4U1hEM1Q5ekU0Y3pRd0VEbjVERkRXLWFyRThzU2JJQ08zYjJzVjl5WWNpeXN2Zw?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-25T15:12:00Z",
+   "last": "2026-11-26T10:32:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "HUT ke-18 Tangsel Diwarnai Demo Mahasiswa, Persoalan Sampah Jadi Sorotan",
+     "src": "radarbanten.co.id",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVR0Y3BtS2N0Z2hBcjF0dGdLdlJDUXhRYWZ0TlVTSXpVSktBWVd1dGV4VVlBV21JSHZiZURoeHlCc1ZfMWctT0h6Q01ibURfUmhrX1gxY0NFdC1RWWluekwtMDQzQ3Z4TWM4Z1lYdi1FWEo0RmJiTERuNzQtUUpHNU84SHN0TzY0MS0yTEFGeGZVa09RRlpiVmNnaTdOc19mMXYzb010LVFqRlE2NXpKN0tlUQ?oc=5"
+    },
+    {
+     "t": "Penuhi Tuntutan Demo, Foto Gibran Malah Pecah Diturunkan Mahasiswa di Ruang Paripurna DPRD Surabaya",
+     "src": "Tribunsumsel.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT0pDY0hGMGdodlV3eGctR1RqTTR1RlRmNjJnNXpHNktEVGw3WVlkWmJ3SXpHNG54QjdZck1Zakd3XzFSaG9wUUxkNV9ndmFMc2lLOHZXV3JoSXE1UklCeU1FSGNZdUMxbWtuMkZjQ1hmNm45MUhKdWdQeVVXcER2UGVSM016WGJkTDl4al9zUHU3cUZ2ZHFVc1Z6VHJnV18zSzRGYUtWZ1phdWktSlR0YlBsMUN4b0NzbFkxOWFSV1dlS2w4QXZvaEdjWGliQQ?oc=5"
+    },
+    {
+     "t": "Hari Guru Diwarnai Demo Mahasiswa, 7 Tuntutan BEM SI hingga Dugaan Represi Aparat",
+     "src": "Suara.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEdoaE9YR05pU01MWm9ldUQ4RWF6ZnRKNTdpUVpPNnVSa0tqZTQ0eml6b1dIMjM5Y0h0Y2hHMkF1RnZsMVBSdTB1QzhBajloYkNQckNHY3NoTHhBUVR6UkpPb3h4dW1WRzBuLW42amhuZnV6U1N5R204TloycF95NUdMLURnOWJrNGNVUURoajVSMVlaak51ZjAyVUJXRkVDcmlCY3VuYVJkU3N1aFNvVnNkZW1ZUUw4MGdPQnQ5aU83Q1daWHhDVDNCQ2Q?oc=5"
+    }
+   ]
   },
   {
    "id": "perang-202611252059-8afa",
@@ -240,55 +273,29 @@
    "title_id": "Rusia dan Ukraina saling bertukar serangan drone dan rudal, menyebabkan korban tewas dan terluka"
   },
   {
-   "id": "indonesia-202611260240-f87f",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Puluhan Mahasiswa Demo di DPRD Tangsel, Sampaikan 24 Tuntutan kepada Pemkot",
-   "src": "Ekbisbanten",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3lKMnljeGtJaGN2QVZUbDhiNVVISnhxc3Z4bzJuNW9GaWYzSTFyNzB2RzVpTmVhRmIxQTJNVlRhM2FGRnUxLU1KTzJiTHJfS3NwQW9HS2N3aXZYOVZFWFpIZXBsdEpjdE9qUTJ3anB2cGVkQjlrT0hGS3p4U1hEM1Q5ekU0Y3pRd0VEbjVERkRXLWFyRThzU2JJQ08zYjJzVjl5WWNpeXN2Zw?oc=5",
+   "id": "transportasi-202611260610-23be",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "Thanksgiving travel nightmare as monster storms disrupt thousands of US flights and FAA warns of ground stops",
+   "src": "Daily Mail",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHlrbVZUWjc2cGFQZHdPaXpUZFNfZ1hNQ2Y0ZURKLTlPZzlGckg0NUg5NFJYeE1KRmJBQzFzYUR4b0RtemJfQlhWWDFiUkVlMGQxMUp6eWtIckwtQk54clNKdU9wUFZRNDM4dXZ4TWQ3UEpOZXgyY3EyZXhxR2lfa29UZ3RpdGYycjlaMlpmYTFfc2lxQWZrbnRB?oc=5",
    "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
+   "recent6h": 1,
+   "score": 2.5,
    "level": "kecil",
-   "first": "2026-11-25T15:12:00Z",
-   "last": "2026-11-26T10:32:00Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-26T06:10:59Z",
+   "last": "2026-11-26T13:32:27Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Penuhi Tuntutan Demo, Foto Gibran Malah Pecah Diturunkan Mahasiswa di Ruang Paripurna DPRD Surabaya",
-     "src": "Tribunsumsel.com",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT0pDY0hGMGdodlV3eGctR1RqTTR1RlRmNjJnNXpHNktEVGw3WVlkWmJ3SXpHNG54QjdZck1Zakd3XzFSaG9wUUxkNV9ndmFMc2lLOHZXV3JoSXE1UklCeU1FSGNZdUMxbWtuMkZjQ1hmNm45MUhKdWdQeVVXcER2UGVSM016WGJkTDl4al9zUHU3cUZ2ZHFVc1Z6VHJnV18zSzRGYUtWZ1phdWktSlR0YlBsMUN4b0NzbFkxOWFSV1dlS2w4QXZvaEdjWGliQQ?oc=5"
+     "t": "New FAA outage rule could slow Thanksgiving flights",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU1uQnNRZmZGbUkxUUdUNERuYzdWNm1HQWJTVHpYbC1KM3VRN01ybnV1dko4YU9ia0xtRHhXWnBPaFpVeHBRSWM2c1FHZF90c01PYnI1QXh4YjlraGhXMXp2eFZhWk4tSEZxQ2dCZjJTd0s2YVpENVh1Q0RTbmdUX1c3QnI4Tlk?oc=5",
+     "t_id": "Aturan pemadaman FAA yang baru dapat memperlambat penerbangan Thanksgiving"
     }
-   ]
-  },
-  {
-   "id": "indonesia-202611251913-28e9",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Semprotan APAR ke Arah Massa BEM SI saat Demo Hari Guru Nasional, 4 Mahasiswa Disebut Terluka - Kilat",
-   "src": "Kilat",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeHVlTEVWMDl2VkVGNkhDSDg0Ti1zOHFBV0pYdE5UWnJraVUteUJIZnNLNG9URzJOSk16RnpXYzRGak5VZU9tbWZlaUtOd2Z5blUyc2tIb3NZeHBoMHRxOGc1Z2NpVFdYREZvYWo5S0JWMUpUUGMwanI0cmMya0JQSlJkMGhWelVTQmkzRWh3a0J0STBsVG5wMUdLNXhGZVAtUHVPTmtpU2wzRm1XOC1Jd2xhQkZ2amxvWDU0WmlwU3hib0RQbHN4YVVKdTR4NDTSAdQBQVVfeXFMT0t1Z1loa2hfeDVxTEh2emRLTkRHZ2tlZWlrLUh6dU92M2k0TUo0c3pKSzFQQmExRjA2QldQOFd2bzNNYzdHRVYtb1BSejd3ODdYbV9zbUIxMzZibjF5ejEtS25KNW9Rdk5INjJpeXZFUW8zU2dEUTZlQUhOWnRIemtfVjFaQ3R6UDRzNmFBQklIRlUtYVlzV0RGZjVjLXQ3VENfOVphUU5UQUs3R1ZmaF93cVl3SzVZOWVsNWlvWk9MaG9ic0pYNzhnVXlQeHkzX09mSmY?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T19:13:00Z",
-   "last": "2026-11-26T07:51:58Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Demo Hari Guru Nasional di Monas Ricuh, Massa Kena Semprotan APAR dari Atas Barikade Polisi - Kilat",
-     "src": "Kilat",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0JHc2VnVnF2c1lhMkxUM0ktTHdCbFpzSnZ0cElqejlYdU52UGRaMzhpMmF4dzRmbWxpZDd4bEZnTFdNeVMyRll4ZjRkc0RneXlWQmtrVVY2Q041UW9lUGd3U0RIdWZNRmJmb1FITThtcHZ0NTZrZTF1cTNRZU9QZWd3WFItNE5UMEZvTUp0RXZJemlmbHREZ0xwVXJ6cENvR0FtN3pCTEJVcnJaRTVmaWFQQmwzbEVoZFlKcENpcjY3WkVUVUZxaHY3NEZhQdIB0wFBVV95cUxPTDlOTXgwVU1QQjd0TmxTclRlYlM1M0Q5bFJNOHBsbWxNX2hNdXFndy1GQkFIUVEyOE5YODhmZlZfTGY5VGk0bWNyVGR5NWgyQzdTM2xUSW1wNzNmbHlCbmJVTVg4MzVhMEZwRTRBd1Ftdm4xTktrLXF3MHVUWTQyaGMtbnV2blppdTZ2YUJyaWNPdjRrQXl1ZGQ0blJONzlkb0ZscmZoVHBjZnpXQlR1UWFMSHdxYW9ydFktZEdUNGRkdWtnVmRKYl90N0N4Y2FPYjJz?oc=5"
-    },
-    {
-     "t": "Demo Hari Guru Nasional di Patung Kuda Berujung Ricuh, Polisi Lempar Bom Asap ke Massa",
-     "src": "PELITA KARAWANG",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV1Z2REZyTTgwWXB6VkxRR1dvNVZHOVgxek51RTdVLU1vT19yTHd6ODBHNWtYYzk4OFNCWE9zVk55ZEpGclNUdHg3MzdPbnpkUThMSlI4TmtWWjdoU25jOW91ME52X3FxNTFrZnNIdGZ0U0pyTFowOUMtX1FJT3owWFo3eDM3V2FPMUE?oc=5"
-    }
-   ]
+   ],
+   "title_id": "Mimpi buruk perjalanan Thanksgiving ketika badai besar mengganggu ribuan penerbangan AS dan FAA memperingatkan akan adanya pemberhentian darat"
   },
   {
    "id": "kerusuhan-202611251916-bc0d",
