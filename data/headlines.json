@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T12:25:26Z",
+ "updatedAt": "2026-11-26T12:38:43Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -59,13 +59,12 @@
    "time": "2026-11-26T11:22:59Z"
   },
   {
-   "topic": "saham-as",
+   "topic": "geopolitik",
    "lang": "en",
-   "t": "Wall Street Flips From AI Euphoria to Gloom",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5",
-   "time": "2026-11-26T11:09:08Z",
-   "t_id": "Wall Street Berbalik Dari Euforia AI ke Kesuraman"
+   "t": "Iran says two more tankers struck mines in Strait of Hormuz",
+   "src": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQm9GSUZwazJFa0tpclBScmlTRDk3UWdfdmhzQlVjbzYycU1wV3ZWTlAzcGlyMjJkYWRuR3BYWElqOVJWQnctSksyZjgtYlBYNkpmT3hBVFQySTNucGttSGdrUFB5RDMxcG14aEpOMHlzczB5YWVtM2NWOUhJX3ZFT3U2U0tRYkV0Slpz?oc=5",
+   "time": "2026-11-26T11:18:39Z"
   },
   {
    "topic": "indonesia",
@@ -76,12 +75,22 @@
    "time": "2026-11-26T11:09:00Z"
   },
   {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Rupiah Diproyeksi Tembus Rp18.800, CORE: BI Tak Bisa Sendirian",
-   "src": "Validnews",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObXdTRWJDRkM3WEw5eWZtSXVfaW1KWU55WEM2eVF1MlZ5UFQ2ZndDMkJpUldTSm1leWhpQ0N6bzRfcDFNLTd4X2dIVjNENl9lc2pDRERWV25TTlpBV2J2aktmU3UwdzdtMXhzbE1MR1NxUmdzN1dPQndKZUprVU9FdmZReVJvbDA5LXY0alNlYkU3dmktR1hpRzYxSVFGWHZPZEtkYkpLUUVweDROdlE?oc=5",
-   "time": "2026-11-26T10:43:00Z"
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
+   "time": "2026-11-26T11:05:04Z",
+   "t_id": "Emas Turun karena Data Inflasi AS Memicu Taruhan Kenaikan Suku Bunga"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Nvidia shipment halt threatens to stall the AI rally",
+   "src": "CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlI2MmFSNGVseUkxcGNLWW5RQklfcDJnUE9weDhQT2hOXzQ3dkdQekxaX3dET1ZzS0FMd0ozOWF3ZTlaVHdxcW0yeFJBTjFDTlVscU1CT25KTUd2cjdHSnM1ZG1CZTFkay1ZVHBZR204cWRacUJpbi1WZ1M1SnN1U25CLW1sbHZ6emFXMzRfNnBzVUxMcUlfOTVEdGZER2ZlcFZmU3JmUlJWemVtUldxTmFOdkM?oc=5",
+   "time": "2026-11-26T10:56:08Z",
+   "t_id": "Penghentian pengiriman Nvidia mengancam akan menghentikan reli AI"
   },
   {
    "topic": "indonesia",
@@ -235,6 +244,15 @@
    "t_id": "Apakah The Fed melakukan kesalahan besar dalam menaikkan suku bunga?"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkRJdUt0LVhZdzVhR0RpSnN6RWh6cDdGQVhOUU9vNENLN0hnSXB1YXJFU01rMzZBaXhuelM3ODlra1hKdnRxcnYweGNRSmFmSEpnMzJSQWxkOXZqZVM3NjBrZ2UwQS1PQS12di1uaHFUQWJRZHE2aHhxMnlLcVJ5Z3owcXd2WTV4NFJQSUM0SWplUVA5bW80ZU9fdDYzV1Z5QnFvcW1kdlhPMW8xc2JRQnVJc19mZw?oc=5",
+   "time": "2026-11-26T09:14:55Z",
+   "t_id": "Harga Minyak Jatuh karena Pedagang Mempertimbangkan Surplus Pasokan dan Serangan Teluk"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Rate Today in India, 26 Nov 2026 - Live 18K, 22K & 24K Gold Prices",
@@ -266,8 +284,8 @@
    "lang": "id",
    "t": "Rupiah Melemah Tembus Rp18.400 per Dolar AS, Apa Penyebabnya?",
    "src": "Bareksa.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2NyTUIzZWZfXzNhUTFlN0pBWE5feU96LXhEMGN0OTlBSW1MZTY4enhFMmR6cFRNeDRCeXJNcm5FazQ0c0RucnJjaUNXSmJYSmpCSXVWdzZTZWRUOWZ6eHBjVHpXc281dll4ZkwzMmVYWEVSVDIxUmJmQlVBYzl5VGZjNlE0Z0pyajNqSThfYjRRUThQOGV0RHVxaVptdlZhRjVOV25QRTQ4Zw?oc=5",
-   "time": "2026-11-26T08:44:36Z"
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDI0bmZjOS1HS2VORVBBNmR0cXh6OTUxcG5WX0p6Ukc4dURZRUpmSFRZTTYxVWVubk5TLWo2OHA5QUkwMkxnWFlaaUdvZTY5Zk5hcnlCeDZzNGVSdnotQWEyWG4xQjBCZmltcEx6NElLSEdLZm1SX3V0d1AzaDEyLUh5aW5jdG4xNWdVSHFLS2dDV3QzYlBBSjVfQ0JYbGpic0N2QkhIclJMdDNNdFdF?oc=5",
+   "time": "2026-11-26T08:57:22Z"
   },
   {
    "topic": "bank-sentral",
@@ -277,6 +295,32 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVW9aRUl4U2RPWWR1Z1dkUmdZVkVSQWJNNnZRVWZwUE13LVF5RUxZM1BzZHgweHZzQS10dThMVDBncThOZUVRMWlzVVZ3VFJ2Q2doWmtEbDFtT2VIS0xIa0lGb2NfMkRRRTJpbkcxeXpWWEdNM0Vic3QtekVnVVY0TDlVMnMyR09qbzd1c25IVG83Tk9xUVh2Q1Rtb2lDSE40ZTlfMmtMcUx0enIz?oc=5",
    "time": "2026-11-26T08:31:19Z",
    "t_id": "Inflasi Zambia Meningkat Menjelang Keputusan Suku Bunga"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "src": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yOVM0ZTRBWjRWRW9KcFF1czB4bV9VbHNOYnZqSTRlXzk2SHBHTEo5RnIzR0xkNklES1Z6ZnZZSTRhM2tjZEFnQ3VEd1BCUDFPcFRBSlhB?oc=5",
+   "time": "2026-11-26T08:23:34Z",
+   "t_id": "Bitcoin BTC (BTC-USD) Harga Langsung, Berita, Grafik dan Riwayat Harga"
+  },
+  {
+   "topic": "kripto",
+   "lang": "en",
+   "t": "Bitcoin Price Forecast: Can the rebound hold?",
+   "src": "FXStreet",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWFFQUg1RUhJRFNnTmdhcW5zcjhrSEcwdkozaE9GRkVKdWY2SjgyTDMzRnA1Q2U5QzNWYlZXa3hBVUxKRGNra0NTdnZlMkdKUVVURWZDTFVkRFVqLTVTWjNoZlNfOU9YS2RDczY2UHQxVHM3REY4TEliVzROWmlHX3ZTQU8xdlRLVG40aVBqaEJUaTJqNmVDYkctb1l0QW5udXh4Z0RHWEdzQ0V1WUx1aFloeklOLWtUMWZtTHBfVUpPWnVWSnZ1RDY0ZExxZDN6Z1dBckxGSDJOREV0SjJwQWtNeWgwMzh3N2FHVzlFX05Idw?oc=5",
+   "time": "2026-11-26T08:23:29Z",
+   "t_id": "Perkiraan Harga Bitcoin: Bisakah reboundnya bertahan?"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Rupiah terpuruk, bank mulai jual dolar AS di atas Rp18.500/US$",
+   "src": "IDNFinancials",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUptTU9sdVEtOEE0Ri12dFl1SV9Ba2dEUkNETnVaYnJLbmt0dmN5bnMxdUgySUVIZlBKak1mMjZyUjZNLXE0b1AxaVBwUU1Rb2dmRlN5OE9WR2NqLUQwMWNFQ1RybDVULUVaRFJ4Z01oUUVpYjRlRnpzaDd4XzdfdmhXWlM5Q2hjU2NNYXBUdmhIa2FHVno0dWN0RGtyOVpqT0JBdS1B?oc=5",
+   "time": "2026-11-26T08:20:00Z"
   },
   {
    "topic": "indonesia",
@@ -333,15 +377,6 @@
   {
    "topic": "emas",
    "lang": "en",
-   "t": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-   "time": "2026-11-26T06:56:00Z",
-   "t_id": "Emas Turun karena Data Inflasi AS Memicu Taruhan Kenaikan Suku Bunga"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
    "t": "Gold (XAU/USD) Price Forecast: Buyers Defend Critical Support After Sharp Selloff",
    "src": "FXEmpire",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGZMTVE0MlI5cDRTYWh0UkJkcGszVFROQzlSNktoRUhYbTRfQWFiUEpFNEwzV2RZaWdxenEzSnJ2SDNxRlozQjB3di02c1IyUmpnVENfb3plNFp1cHNFQWZzOEQtRTFZb1dMekVwb2N1SmRfYkdWWXlsVmxJWXJoZFoxTGx3TWcxMjdqTGZtWDgxUFdzUlhXTUtya29SV1RObjZlb1FNUWRUMTNaNGloN3NfeWVtU1JFM3dNZWUwVkpPVEJReWJNdQ?oc=5",
@@ -355,15 +390,6 @@
    "src": "kumparan",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFpfeDJKTkU3NzZ4M2tmcjlGRU11RDFiSXNoWVVIUFhaVVZBdW1GemtoeW9vWlZJMHlBT2tkdjlDaVd2MzVpVzlIeERLNEt5X0tXbGMtR1J3ZU85b3dla2RVby1rbndvSHZjWFFVNnFuMlJQbXNKNjZVYW5xMlpYeFdfd1JGSzhZMVN3M3pxamIyX3FxeFRhaFRrUGRZR1ZVSDAwa3FRMEZKWWdoY2gxODFKSElmOEVx0gHAAUFVX3lxTE1QRkpRR0pQcExDY25Wbi1OVTE2UHF0aUs0TzFSZGNPb0xOMG02Y0RDcVhxQ3NrNmFoNkRxS3VVOTlKUTFXSm5sRDl0NHdsSjA1WG5iYVB4S2o3X2VERV9aZ0Zhb3JCQVNMdjhjVHRUYTg3Q2xSSm1PUFFhQlVYVTdLMndCQ1FIQ1RXTWpUTFd1MU80VmNqa2dCVVhiQXpJXzlZZndYQVBOQV9Fb01vQTNkbUc4QU1iSmNVWDFKS1FWbQ?oc=5",
    "time": "2026-11-26T05:51:00Z"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "This Is When AI’s Circular Deals Bite Back",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazBUcktOb0ZhZW9nOGpPM2FVdEFreHJpWjFCS2JSU1c3WWFxZ2t0VXVOcDV1Z3BzNlJlY2R5a0c5SHBKMHg5cWw3M3k1UGJBcEg0SS16SGdXUWEzLWFjQTBhS2JFSTFnQkJJa2c2UjB6OUVaSjVVWTJiRGhaQjM4dTh5ZHZSemNSZ0R4VklyNUpnNTlhb1hBa0hXT1ZNQm1mOTgtRDIwQy11Y0pzRTkyMktRZnNjbXdjOWE4?oc=5",
-   "time": "2026-11-26T05:35:30Z",
-   "t_id": "Inilah Saat Tawaran Melingkar AI Menggigit Kembali"
   },
   {
    "topic": "china",
@@ -445,29 +471,11 @@
   {
    "topic": "geopolitik",
    "lang": "en",
-   "t": "Iran War: The Strait of Hormuz Oil Shock Is Now Heading West",
-   "src": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUoyWnROemxWVUpiYzVCeEZDYlhIUFY2VUFhUmN1Z1FpcXlHcmh4UmNIOTlaZkdrUzlRMEkyUEtUYXVGb1lLTEFBQXQ5MUs3M1R0cjEtQkZkR1RSUW5rZF93LUZzTnl0MHZTdURvY1dDRkJ3NEFoVmE2dDRwXy1yME9NaHNkcUpCRXBiWVVqamVoOEtu?oc=5",
-   "time": "2026-11-25T23:11:05Z",
-   "t_id": "Perang Iran: Guncangan Minyak Selat Hormuz Kini Menuju Barat"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
    "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
    "src": "EnergyNow.com",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
    "time": "2026-11-25T23:07:18Z",
    "t_id": "DIPEtakan: Perdagangan Minyak Melalui Selat Hormuz Berdasarkan Negara – Visual Capitalist"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Crypto Market Today, November 25, 2026: Bitcoin Below $60,000 as Ethereum, XRP and Solana Slide",
-   "src": "Eurasia Business News",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemJJS3VITWNRaEhLeGFEX2V4V3V2WURTbDlORkFLSDNCSDVQT3ZfZ19KN0lvaWtyRHhIcFM2Z05qeC1tSUpsY2J4alduS0VsUThRa2ZDWE95RkFNLUxIa2ZDR3NVWFZPRC13VEM1VGJ2QkpHVXluZ0F2TXJicVlKVUI3OTk2b0ZuYkR0dlBscDRvVGl1bmEzaUoyLWlrLWxRVkh1aUJVX1pLZHNJcG54c3VkYVVmSkxqX3ZYcFlNeHVXY3VMMnhjc3FFVHJJQQ?oc=5",
-   "time": "2026-11-25T22:25:37Z",
-   "t_id": "Pasar Crypto Hari Ini, 25 November 2026: Bitcoin Di Bawah $60,000 karena Ethereum, XRP, dan Solana Meluncur"
   },
   {
    "topic": "saham-as",
@@ -503,15 +511,6 @@
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5",
    "time": "2026-11-25T20:39:42Z",
    "t_id": "Tarif baru yang diusulkan meningkatkan peluang The Fed mempertahankan suku bunga lebih tinggi untuk jangka waktu lebih lama"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Stocks close mixed after Wall Street erases sharp decline: Nvidia drops 4%",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVNvSWRJR0pwZklwRnJkWkV5Zm02Ni1jck83YWhlUzFFZjBPX2RSeElWSjlUczNNRnJoZHVSZDhlbDlmRGNXY1lwc2VoUkJUejM2RXBvMS1vMTVoSnZHQTQ3YWhOUDlWOVZEbkZndHRiQzZOWFl2b0E5N3VUc2thcE96OXlvTTRyc3N6RWU5cnY2eVN2QXN3UDcyMzTSAaIBQVVfeXFMUE4xVGszYjZpVlhOUzU0V2F5N2NOUVUxMEY1aVlEMTlzMVlQOU10UmtBeVNfQm5xMmJ6LWx4dDRXaUtYR2ppV3R5a2NrTVVQV0JsTG9DQ2VJd0wxNS1NbUNfUVN2MW9iZE1jU2p4ekxWZUFjM2hCdVBkWU5jWm12V1VpeXJubFlJTkRnX09WWV9nWXJ3Qml2bV9kb3VFM3NfMWt3?oc=5",
-   "time": "2026-11-25T19:54:39Z",
-   "t_id": "Saham ditutup beragam setelah Wall Street menghapus penurunan tajam: Nvidia turun 4%"
   }
  ],
  "errors": []
