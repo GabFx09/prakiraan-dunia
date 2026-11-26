@@ -1,44 +1,49 @@
 {
- "updatedAt": "2026-11-26T11:12:23Z",
+ "updatedAt": "2026-11-26T11:26:56Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
-   "id": "indonesia-202611251110-0560",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Hari Guru Nasional Diwarnai Demo, Mahasiswa Suarakan Nasib Pendidik",
-   "src": "detikNews",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUhtLUk2dEFxbEtiMlU1ZkxUZm4tdnEyVzVkZ3BkUkNtSkZvaGlla1NtNEMtSGJwd0lIUkNqR2J1cnZGSHJMNXBndjF2TjRvVHJ1MGRHbkY4SGIwSGhZN1lrS3hxR0Ywb3BvLWZiNlFsSEcyUUV0VDVTT1VjNU1WaFM2cXM3S1o0ZFV2eXppWTczVG9KYXpJQng1dGNNSk9NS0pnNlNtdVdZb2EtZWdRQld0Z9IBswFBVV95cUxQRUhtLUk2dEFxbEtiMlU1ZkxUZm4tdnEyVzVkZ3BkUkNtSkZvaGlla1NtNEMtSGJwd0lIUkNqR2J1cnZGSHJMNXBndjF2TjRvVHJ1MGRHbkY4SGIwSGhZN1lrS3hxR0Ywb3BvLWZiNlFsSEcyUUV0VDVTT1VjNU1WaFM2cXM3S1o0ZFV2eXppWTczVG9KYXpJQng1dGNNSk9NS0pnNlNtdVdZb2EtZWdRQld0Zw?oc=5",
-   "sources": 16,
-   "recent6h": 5,
-   "score": 18.5,
+   "id": "kesehatan-202611260845-7ad7",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Fast-moving Ebola outbreak reaches 12,000 cases as authorities struggle to contain the spread of the disease",
+   "src": "Irish Independent",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTh3N3NSSVJGZHFnWkJDSWh0YVlqbndmQnV3SVh0QnpEdG5aWktrZko5WmFxQ3FaRFFZT1NZMGkwRWxRdzRtZk9pTTVwZ01EY201S0RPUG5wQTFjM2FEd2I4VmwxY2hvdTg3UXBCdVZmTG9XeVY3TjhNMlZ2am1HLVlyeFMwY3k2dnU0RnBrS01ybkNfbnEwUHBHX3B4WUtMSGlqVElFSklOLTBfV2NNbEVJTGwwUkY0T0ptSjdVSkJEWTNiOUp4VkFyNy16ZGZaT3ZFTjdoNmFZbzNIMmJ4b0U1X2xrNlVlZDBIX01oOGRKRDAz?oc=5",
+   "sources": 11,
+   "recent6h": 8,
+   "score": 15.0,
    "level": "besar",
-   "first": "2026-11-25T11:10:09Z",
-   "last": "2026-11-26T10:32:00Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-25T11:50:13Z",
+   "last": "2026-11-26T11:15:00Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Puluhan Mahasiswa Demo di DPRD Tangsel, Sampaikan 24 Tuntutan kepada Pemkot",
-     "src": "Ekbisbanten",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3lKMnljeGtJaGN2QVZUbDhiNVVISnhxc3Z4bzJuNW9GaWYzSTFyNzB2RzVpTmVhRmIxQTJNVlRhM2FGRnUxLU1KTzJiTHJfS3NwQW9HS2N3aXZYOVZFWFpIZXBsdEpjdE9qUTJ3anB2cGVkQjlrT0hGS3p4U1hEM1Q5ekU0Y3pRd0VEbjVERkRXLWFyRThzU2JJQ08zYjJzVjl5WWNpeXN2Zw?oc=5"
+     "t": "New funding for response to Bundibugyo Ebola outbreak",
+     "src": "Science|Business",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3UzOVBTX1ZvTXhpLW9QS3Bya0wtMDZuX25sWUNKX21RVl9JbmpGeEh3SkcwN1ZhZUQwSUE5ZzA5X1oxMzduRW1jdURneGZBWGJRenJKczNLZ0k0VVRSU0tweTFjbHBnQVhaeExvLUpqZl9zYTFvLXRnclFoUjk1UzFwclBXQQ?oc=5",
+     "t_id": "Pendanaan baru untuk respons terhadap wabah Ebola Bundibugyo"
     },
     {
-     "t": "Semprotan APAR ke Arah Massa BEM SI saat Demo Hari Guru Nasional, 4 Mahasiswa Disebut Terluka - Kilat",
-     "src": "Kilat",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeHVlTEVWMDl2VkVGNkhDSDg0Ti1zOHFBV0pYdE5UWnJraVUteUJIZnNLNG9URzJOSk16RnpXYzRGak5VZU9tbWZlaUtOd2Z5blUyc2tIb3NZeHBoMHRxOGc1Z2NpVFdYREZvYWo5S0JWMUpUUGMwanI0cmMya0JQSlJkMGhWelVTQmkzRWh3a0J0STBsVG5wMUdLNXhGZVAtUHVPTmtpU2wzRm1XOC1Jd2xhQkZ2amxvWDU0WmlwU3hib0RQbHN4YVVKdTR4NDTSAdQBQVVfeXFMT0t1Z1loa2hfeDVxTEh2emRLTkRHZ2tlZWlrLUh6dU92M2k0TUo0c3pKSzFQQmExRjA2QldQOFd2bzNNYzdHRVYtb1BSejd3ODdYbV9zbUIxMzZibjF5ejEtS25KNW9Rdk5INjJpeXZFUW8zU2dEUTZlQUhOWnRIemtfVjFaQ3R6UDRzNmFBQklIRlUtYVlzV0RGZjVjLXQ3VENfOVphUU5UQUs3R1ZmaF93cVl3SzVZOWVsNWlvWk9MaG9ic0pYNzhnVXlQeHkzX09mSmY?oc=5"
+     "t": "It is the fastest-growing Ebola outbreak in history and nearly half the 12,021 people confirmed to have the virus have died, according to data from Congo’s Ministry of Health. It is also the deadliest of Congo’s 17 outbreaks and is on track to surpass the death toll",
+     "src": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWdwNlBqY19VYm5aNUJmMk1vUHRSbHhJeDRYeDA2M2htUDhGTU9rOGlrbGhkelJUV1hDbGo4eVMyY2pPdWpvNWlZSTZEaDV2TlJkRjFkTkhzWG9XVkp5Y3JOTjJEYXI0OFpVUlhPek5aZFVUY29EN1FsNVMxTkVGWkxnWTNOMlZxSG9RU1ZzNVVBaGUxa1MzMno4bmNQNVF5ZDZzYmRBVEZXZTZEWVQwWWtrVmJpX3l6ZzgtQ19GYW1CZlJDMmJ3SVExbzBKLUlQZm5SU3NXVXNxTEdkWWc?oc=5",
+     "t_id": "Ini adalah wabah Ebola yang tumbuh paling cepat dalam sejarah dan hampir separuh dari 12.021 orang yang dipastikan mengidap virus tersebut telah meninggal, menurut data dari Kementerian Kesehatan Kongo. Wabah ini juga merupakan yang paling mematikan dari 17 wabah yang terjadi di Kongo dan diperkirakan akan melampaui angka kematian"
     },
     {
-     "t": "Demo Hari Guru Nasional di Monas Ricuh, Massa Kena Semprotan APAR dari Atas Barikade Polisi - Kilat",
-     "src": "Kilat",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0JHc2VnVnF2c1lhMkxUM0ktTHdCbFpzSnZ0cElqejlYdU52UGRaMzhpMmF4dzRmbWxpZDd4bEZnTFdNeVMyRll4ZjRkc0RneXlWQmtrVVY2Q041UW9lUGd3U0RIdWZNRmJmb1FITThtcHZ0NTZrZTF1cTNRZU9QZWd3WFItNE5UMEZvTUp0RXZJemlmbHREZ0xwVXJ6cENvR0FtN3pCTEJVcnJaRTVmaWFQQmwzbEVoZFlKcENpcjY3WkVUVUZxaHY3NEZhQdIB0wFBVV95cUxPTDlOTXgwVU1QQjd0TmxTclRlYlM1M0Q5bFJNOHBsbWxNX2hNdXFndy1GQkFIUVEyOE5YODhmZlZfTGY5VGk0bWNyVGR5NWgyQzdTM2xUSW1wNzNmbHlCbmJVTVg4MzVhMEZwRTRBd1Ftdm4xTktrLXF3MHVUWTQyaGMtbnV2blppdTZ2YUJyaWNPdjRrQXl1ZGQ0blJONzlkb0ZscmZoVHBjZnpXQlR1UWFMSHdxYW9ydFktZEdUNGRkdWtnVmRKYl90N0N4Y2FPYjJz?oc=5"
+     "t": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
+     "src": "The New Indian Express",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHhfY2FqektsT2cycWw2UDRwUWYwUDdvSnl0X3ZvbGt0SzVJZjNOVUo5cEJkNWU2blk5UHlYSVpLZ0NadjVZWFBqa2xTTXBqal9sSVZRbVEzc3lyU3JaVVV0UTc0VWF0LWpEb1hOU2xZTVRtc1M2SGNIbmIxN2NPWWIyQW51N3VfeDN5VDFiMmRMQy1nZ0owWWYxbkVkcXNZMm9TNHhsNDd5T2M2bTB2QzBwLXNFc05SbFB2REpaSDZ6UHY4emt2M3hFbUQ3OVkxNU9fUDc5Q1LSAeYBQVVfeXFMTzdzX1c2RjYtdE5CVHNmdVNnLTZ4b0FKZHQyMmVTN1pKVWdvMF9Fa2pYMFpyMDVXRzVfdm1sXzdrMzBVLXVkUnVEcHFleWVCd25lZy1xWkdJQTFIcmRsWGlCRVYtM1R3RVYxX08tQ2JtRlVRNWlLRUdXVWFodnVud0x1eElrWEQ3NWJCSGVKc05SMy1URlRGQmd5V3Y4S1dabHE2Zm1xQXA2V1lMZTZfUTVXZlBYMWtpMXZJemdVUERYU1ZXbklQM0RVeG9BdGlGNU1pS2gzcEdGZG9SWVNtcUhwQ1R4R2c?oc=5",
+     "t_id": "Wabah Ebola di Kongo mencapai 12.000 kasus ketika kekerasan memaksa beberapa petugas untuk mengungsi"
     },
     {
-     "t": "Peringati Hari Guru, Ratusan Siswa Semarang Demo Tuntut Kesejahteraan Pendidik",
-     "src": "https://www.rakyatpos.id/",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2RzdjlsVmFQYV9yOFJhSmtRNkVTdzhVX2kyZjByZWZtaWpjaWlxSmlKTF9ocTBSblBXTWRKV0gwb2FuTlo1MGJ3RDNJS3VyWURtWHR5aWRvb3FEWG1yN3VrbEhrTXFfenB1Tk1vV1JaRTdSd3lyZmdZLXFIaDRCN2NaMUFFcGhhTnJDcmxjTldKNEEzUkhiQnNzWmZrYXlrR2ViMmF3b2VhN0pzWnEtZXI0Smxzdw?oc=5"
+     "t": "Ebola outbreak in DR Congo reaches 12,000 cases",
+     "src": "Wimbledon Guardian",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSkdmQVdSZTZDMG1Za002TG4zWWN0SS1Sck1CUW9SY0xnc3dKY2NNWVExUXRvUmtGZi13cnNhOGMzdUw1NGxMb3RJVkJYaGFwSXhRZWVQWUk0djg5UmcxTlBCdEZCelNTbUNMY2d1Q2U3OFdNaHBzaG42Q0lHUWdseUd3YU1oa1h2MjljQTZ5c0ppc21PejEtVVdzZzJaem5seHRwWklhdw?oc=5",
+     "t_id": "Wabah Ebola di DR Kongo mencapai 12.000 kasus"
     }
-   ]
+   ],
+   "title_id": "Wabah Ebola yang bergerak cepat mencapai 12.000 kasus ketika pihak berwenang berjuang untuk menahan penyebaran penyakit ini"
   },
   {
    "id": "politik-202611250803-76ea",
@@ -84,82 +89,6 @@
    "title_id": "Spanyol Menuju Pemilihan Umum Minggu Dengan Perlombaan Yang Ketat dan Terpolarisasi"
   },
   {
-   "id": "indonesia-202611260543-baf4",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
-   "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3k4MXNsUmtSbThRQklWTnFLWDhSNHBQbnl5a0g5QkNHd3JVS0I2THZBVnBYNjJVQ081bl9Yd2ZtcUJrSzQyeXBvNHQ4X290T20tdEFZTnU3TU9IVkVzcTdfa2xRNkFEc2FYNF95TzhZaUxVY1R6Z0hNSlFlemxFZ185UllYYm0yeG90S1VGUjZldHd4akI0alhPX3FHaktjTWw0MldnSWg?oc=5",
-   "sources": 4,
-   "recent6h": 4,
-   "score": 6.0,
-   "level": "sedang",
-   "first": "2026-11-26T05:43:11Z",
-   "last": "2026-11-26T09:28:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
-     "src": "Head Topics",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUQzdl9XN2ItTEVOdkJhZmhfa1drMndMUnpkNklBRWo1U0hTVFI0YmlzWGpta0NkMnVkcUNpa21VYmlFbXRJSmMzTnhaWU9DUU9uNlo3bHJKVVdvQl9RQ3VJbXNOV0xxTGFhVDJYWjAwaGc4ODJ1Tk1rbTRkT3JtUjZGMDJ5X1lFRlByWV9qVDJUeGpmdWtBZjFvNVY?oc=5"
-    },
-    {
-     "t": "Berita Terkini Harian Video Demo Tolak Gibran Mundur Terbaru Hari Ini",
-     "src": "Kompas.com",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdXU5NklfSmtEOEZ5YkFraVJzSUY1MWZIbzlDTUxZc3hlV0dIbW92NXdma3dwWno2WjNBWDMyOElxUjE3VlhTQTVvZzNXRGMxeDhXbjZoc1ZGNWE4X3NTeV9Hc2k4b2R2?oc=5"
-    },
-    {
-     "t": "Benarkah Ribuan Orang Demo Tolak Gibran Mundur dari Jabatan Wapres?",
-     "src": "Tribun Video",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJfTFRaa0lRMUVTRDcwcnRXbkJXak00Zk1BalhmSEpnUkJJR2NYMTM5UEh0VDhkN0tIYjFKQ001dGh0Z25HcDRhWkhfUHdrMlFXTUxwSDRWcGVySDYxNC13V3gtM1pwOTdGSkcxam9Sa2tQYnJ2eVA3WkdDYXl0dEhGb2lZODVxZHJYSnhCWlBreGw4d1hOSFhPS3ZhLUU2b3VXZTg1OGVTQlU?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "siber-202611250946-6459",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Microsoft declares ‘Code Red’ following 24-hour outage: Here’s what that means - National",
-   "src": "Global News",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxZDhHUmFZMTU1LTBXSzNnaW1JYW4tSDFqQUVVVzhZWk9ib0xWaU5LZGhlX0tSbHh2b2FVV2o0cmRwUFk2VkMzNWRINHdfbzE0ckRfaEhpS1FvSjRCdVdoM0pRdVUzZw?oc=5",
-   "sources": 6,
-   "recent6h": 0,
-   "score": 6.0,
-   "level": "besar",
-   "first": "2026-11-25T09:46:00Z",
-   "last": "2026-11-25T17:51:35Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft issues 'Code Red' declaration following major Outlook outage",
-     "src": "UNILAD Tech",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUxpOHUxeVpQXy1UR2NXZ05GeV9fS0p3dHg5RDE4Rk5UV1NEZDJJTGY5OFZXTVZxUjRrU1lNamJfZm5XdXhDU0hWNDNydEE4czNVNVN4akRrRVhlOWdvcG42blQxcGltdFB5NE96WERfYWkzZGM3dmI2eEs3LXlmRFlIS2pSMWNjY25MbEhlQ3FjM2pFWlE?oc=5",
-     "t_id": "Microsoft mengeluarkan deklarasi 'Kode Merah' setelah pemadaman besar Outlook"
-    },
-    {
-     "t": "Microsoft declares 'Code Red' after historic service outage",
-     "src": "FOX 10 Phoenix",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlY5ekZwSXRkaGpKd3N0LXpvZmVJWFVvSFZSNlNQUy12NmNFaW4zSjB4MVR4c0dwOUhYdGVrX1ZpMnpTQUVfR3NZMUg2LTdPYmVHMU84RkZKRUYzaUh0YXkycW9zb1drbzhaMm9PYWd0RllXNFNEOE5PSVVTcUUtamNNd1lMMXJ2bTlKWEdLWVFhTmFoWGc?oc=5",
-     "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
-    },
-    {
-     "t": "Microsoft 365 and US air traffic outages expose travel insurance gaps",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakpXUnNLQVVnckxaaXFzYWhNaFlqUi1iX0wtcW5uYXhZN0lhZVJWRlB3SlVFUzNmYWIyaGd6SGtEVWdRSnRrY2JNOEd6WUdFUC1ROEMxTFprQW8zV2EwcEI5Y3QyNXkzcXcyTEVpTXNGMVJwWVJwLXpHRjJTOGpxQkRqSzV0X2JMLWVQdHRrRURZdDBOS2Q0RW11amdmRkE?oc=5",
-     "t_id": "Pemadaman lalu lintas udara Microsoft 365 dan AS mengungkap kesenjangan asuransi perjalanan"
-    },
-    {
-     "t": "Microsoft 365 Outage Disrupts Businesses Worldwide",
-     "src": "Wisevoter",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0tfdzFhTTFDcmxzbGlfajVVN3hVSWk2dFNqNnFEMHN2UTdMOUlrNDJGVmJDd3dzcHRCVVdrUEwyNHNsdEtqakZoS2J6aW1sRjFReXZfelVvc0ZrYkhEcmM4X2pMT2hiajdkNm1MR2dyRkFhMlc5QXI0dm00eEw0YVJKMXo0TGxrZEd5SlhPdnVVREk?oc=5",
-     "t_id": "Pemadaman Microsoft 365 Mengganggu Bisnis di Seluruh Dunia"
-    }
-   ],
-   "title_id": "Microsoft mendeklarasikan 'Kode Merah' setelah pemadaman 24 jam: Inilah artinya - Nasional"
-  },
-  {
    "id": "perang-202611252059-4bfa",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -195,6 +124,34 @@
     }
    ],
    "title_id": "Rusia Melancarkan Serangan Rudal Balistik ke Kyiv, Menyerang Dua Bangunan"
+  },
+  {
+   "id": "indonesia-202611260543-baf4",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3k4MXNsUmtSbThRQklWTnFLWDhSNHBQbnl5a0g5QkNHd3JVS0I2THZBVnBYNjJVQ081bl9Yd2ZtcUJrSzQyeXBvNHQ4X290T20tdEFZTnU3TU9IVkVzcTdfa2xRNkFEc2FYNF95TzhZaUxVY1R6Z0hNSlFlemxFZ185UllYYm0yeG90S1VGUjZldHd4akI0alhPX3FHaktjTWw0MldnSWg?oc=5",
+   "sources": 3,
+   "recent6h": 3,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-26T05:43:11Z",
+   "last": "2026-11-26T09:22:37Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Berita Terkini Harian Video Demo Tolak Gibran Mundur Terbaru Hari Ini",
+     "src": "Kompas.com",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdXU5NklfSmtEOEZ5YkFraVJzSUY1MWZIbzlDTUxZc3hlV0dIbW92NXdma3dwWno2WjNBWDMyOElxUjE3VlhTQTVvZzNXRGMxeDhXbjZoc1ZGNWE4X3NTeV9Hc2k4b2R2?oc=5"
+    },
+    {
+     "t": "Benarkah Ribuan Orang Demo Tolak Gibran Mundur dari Jabatan Wapres?",
+     "src": "Tribun Video",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJfTFRaa0lRMUVTRDcwcnRXbkJXak00Zk1BalhmSEpnUkJJR2NYMTM5UEh0VDhkN0tIYjFKQ001dGh0Z25HcDRhWkhfUHdrMlFXTUxwSDRWcGVySDYxNC13V3gtM1pwOTdGSkcxam9Sa2tQYnJ2eVA3WkdDYXl0dEhGb2lZODVxZHJYSnhCWlBreGw4d1hOSFhPS3ZhLUU2b3VXZTg1OGVTQlU?oc=5"
+    }
+   ]
   },
   {
    "id": "perang-202611250854-dd01",
@@ -240,6 +197,39 @@
    "title_id": "Pertahanan Saudi mencegat serangan drone dan rudal Houthi di Riyadh dan Pelabuhan Jeddah"
   },
   {
+   "id": "indonesia-202611251110-0560",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Hari Guru Nasional Diwarnai Demo, Mahasiswa Suarakan Nasib Pendidik",
+   "src": "detikNews",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUhtLUk2dEFxbEtiMlU1ZkxUZm4tdnEyVzVkZ3BkUkNtSkZvaGlla1NtNEMtSGJwd0lIUkNqR2J1cnZGSHJMNXBndjF2TjRvVHJ1MGRHbkY4SGIwSGhZN1lrS3hxR0Ywb3BvLWZiNlFsSEcyUUV0VDVTT1VjNU1WaFM2cXM3S1o0ZFV2eXppWTczVG9KYXpJQng1dGNNSk9NS0pnNlNtdVdZb2EtZWdRQld0Z9IBswFBVV95cUxQRUhtLUk2dEFxbEtiMlU1ZkxUZm4tdnEyVzVkZ3BkUkNtSkZvaGlla1NtNEMtSGJwd0lIUkNqR2J1cnZGSHJMNXBndjF2TjRvVHJ1MGRHbkY4SGIwSGhZN1lrS3hxR0Ywb3BvLWZiNlFsSEcyUUV0VDVTT1VjNU1WaFM2cXM3S1o0ZFV2eXppWTczVG9KYXpJQng1dGNNSk9NS0pnNlNtdVdZb2EtZWdRQld0Zw?oc=5",
+   "sources": 4,
+   "recent6h": 1,
+   "score": 4.5,
+   "level": "sedang",
+   "first": "2026-11-25T11:10:09Z",
+   "last": "2026-11-26T07:51:58Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Semprotan APAR ke Arah Massa BEM SI saat Demo Hari Guru Nasional, 4 Mahasiswa Disebut Terluka - Kilat",
+     "src": "Kilat",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeHVlTEVWMDl2VkVGNkhDSDg0Ti1zOHFBV0pYdE5UWnJraVUteUJIZnNLNG9URzJOSk16RnpXYzRGak5VZU9tbWZlaUtOd2Z5blUyc2tIb3NZeHBoMHRxOGc1Z2NpVFdYREZvYWo5S0JWMUpUUGMwanI0cmMya0JQSlJkMGhWelVTQmkzRWh3a0J0STBsVG5wMUdLNXhGZVAtUHVPTmtpU2wzRm1XOC1Jd2xhQkZ2amxvWDU0WmlwU3hib0RQbHN4YVVKdTR4NDTSAdQBQVVfeXFMT0t1Z1loa2hfeDVxTEh2emRLTkRHZ2tlZWlrLUh6dU92M2k0TUo0c3pKSzFQQmExRjA2QldQOFd2bzNNYzdHRVYtb1BSejd3ODdYbV9zbUIxMzZibjF5ejEtS25KNW9Rdk5INjJpeXZFUW8zU2dEUTZlQUhOWnRIemtfVjFaQ3R6UDRzNmFBQklIRlUtYVlzV0RGZjVjLXQ3VENfOVphUU5UQUs3R1ZmaF93cVl3SzVZOWVsNWlvWk9MaG9ic0pYNzhnVXlQeHkzX09mSmY?oc=5"
+    },
+    {
+     "t": "Mahasiswa UGM Cedera Demo Masih Pakai Penyangga Leher, Berani Suarakan Perlawanan di Wisuda",
+     "src": "Radar Jogja",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXdIMTJNTzktWkJvTmZNQk5Ic0Jub3hXQlVjUTJqVjBjSnJFeFlVVlI2NHRiYmZyNnQ4WDFVM0FZQ2xRdGRYamtfUTJhdzRhaDF2TlE3ajRIYS01Z25SdHVrZHlNeFBRQ1pZYkU1d2c1ekpIU2F2NlJ0dEtvbWZFRXh4NG5OdEs1cjVGNFgxRnBRU1BtYzBiY1YxSkVUZWZXOTdnU1l5Z0VlMXFUb0xPZFl3czZqS1RJYS1GbVVaN192SjFiWEFMcTg1V2tPUGVxeVo2Sg?oc=5"
+    },
+    {
+     "t": "Demo Hari Guru Nasional di Patung Kuda Berujung Ricuh, Polisi Lempar Bom Asap ke Massa",
+     "src": "PELITA KARAWANG",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV1Z2REZyTTgwWXB6VkxRR1dvNVZHOVgxek51RTdVLU1vT19yTHd6ODBHNWtYYzk4OFNCWE9zVk55ZEpGclNUdHg3MzdPbnpkUThMSlI4TmtWWjdoU25jOW91ME52X3FxNTFrZnNIdGZ0U0pyTFowOUMtX1FJT3owWFo3eDM3V2FPMUE?oc=5"
+    }
+   ]
+  },
+  {
    "id": "transportasi-202611251245-8348",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -283,31 +273,6 @@
    "title_id": "Aturan pemadaman FAA yang baru dapat memperlambat penerbangan Thanksgiving"
   },
   {
-   "id": "kesehatan-202611260845-7ad7",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
-   "src": "The New Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHhfY2FqektsT2cycWw2UDRwUWYwUDdvSnl0X3ZvbGt0SzVJZjNOVUo5cEJkNWU2blk5UHlYSVpLZ0NadjVZWFBqa2xTTXBqal9sSVZRbVEzc3lyU3JaVVV0UTc0VWF0LWpEb1hOU2xZTVRtc1M2SGNIbmIxN2NPWWIyQW51N3VfeDN5VDFiMmRMQy1nZ0owWWYxbkVkcXNZMm9TNHhsNDd5T2M2bTB2QzBwLXNFc05SbFB2REpaSDZ6UHY4emt2M3hFbUQ3OVkxNU9fUDc5Q1LSAeYBQVVfeXFMTzdzX1c2RjYtdE5CVHNmdVNnLTZ4b0FKZHQyMmVTN1pKVWdvMF9Fa2pYMFpyMDVXRzVfdm1sXzdrMzBVLXVkUnVEcHFleWVCd25lZy1xWkdJQTFIcmRsWGlCRVYtM1R3RVYxX08tQ2JtRlVRNWlLRUdXVWFodnVud0x1eElrWEQ3NWJCSGVKc05SMy1URlRGQmd5V3Y4S1dabHE2Zm1xQXA2V1lMZTZfUTVXZlBYMWtpMXZJemdVUERYU1ZXbklQM0RVeG9BdGlGNU1pS2gzcEdGZG9SWVNtcUhwQ1R4R2c?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-26T08:45:48Z",
-   "last": "2026-11-26T09:46:31Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
-     "src": "The Hill",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSDZ3c09wYVdrX0JBOUl1cnV3czRDN3FuN2FkdGVHb2VZeVRYdXp3akY5eGhuWGdYQkJFRzhlSmdiQW9hMS10b3NSNWV6ZTRLLVpvUnlPcVc5SUI1ZkljdFZFQkZZNEl0QVZfQ2U5M3BVWXo0SjBGMkU1bkxtcWtwZ2pvYms1ZkdHbGUzUG50bUx6dWp3SWFnMkVMZ2FIM0VrZ2wzRUZac09nN1ZwRzZVZ3NxNlY0T3c0LVFQOGxoN3V6WnBuekRlckl6bnQyZFd3UXBaSFZETEstYlRlU1k4dW5lTlFrODNZb1U00gHrAUFVX3lxTE5INndzT3BhV2tfQkE5SXVydXdzNEM3cW43YWR0ZUdvZVl5VFh1endqRjl4aG5YZ1hCQkVHOGVKZ2JBb2ExLXRvc1I1ZXplNEstWm9SeU9xVzlJQjVmSWN0VkVCRlk0SXRBVl9DZTkzcFVZejRKMEYyRTVuTG1xa3Bnam9iazVmR0dsZTNQbnRtTHp1andJYWcyRUxnYUgzRWtnbDNFRlpzT2c3VnBHNlVnc3E2VjRPdzQtUVA4bGg3dXpacG56RGVySXpudDJkV3dRcFpIVkRMSy1iVGVTWTh1bmVOUWs4M1lvVTQ?oc=5",
-     "t_id": "Wabah Ebola di Kongo mencapai 12.000 kasus ketika kekerasan memaksa beberapa petugas untuk mengungsi"
-    }
-   ],
-   "title_id": "Wabah Ebola di Kongo mencapai 12.000 kasus ketika kekerasan memaksa beberapa petugas untuk mengungsi"
-  },
-  {
    "id": "transportasi-202611260532-2316",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -331,31 +296,6 @@
     }
    ],
    "title_id": "O'Hare Menghadapi Penundaan Penerbangan Berturut-turut Saat Puncak Keramaian Thanksgiving"
-  },
-  {
-   "id": "kesehatan-202611251617-7ad7",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "New funding for response to Bundibugyo Ebola outbreak",
-   "src": "Science|Business",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3UzOVBTX1ZvTXhpLW9QS3Bya0wtMDZuX25sWUNKX21RVl9JbmpGeEh3SkcwN1ZhZUQwSUE5ZzA5X1oxMzduRW1jdURneGZBWGJRenJKczNLZ0k0VVRSU0tweTFjbHBnQVhaeExvLUpqZl9zYTFvLXRnclFoUjk1UzFwclBXQQ?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-25T11:50:13Z",
-   "last": "2026-11-26T10:43:51Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Democratic Republic of the Congo, Kenya, Nigeria, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 25/11/2026",
-     "src": "ReliefWeb",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNck5QbFRtYVFDNjlBbWJuUmVWXzFxNWxqdDl6YWI0Mk1ta0lwaHpZMmkwVG1pcU5wbnpUSC04NWRyU3B1Skk4QkU3N3d3bHhRcmVPYnJ3N3NVQklRaHNtRnloSHF3b2tzQzFEbEFELUJCZ2JENFVISmhocGg1R0UxV2hwWFNpOFlOaUZHVDBLRVI1S0ppMHU1RF9ZSzJWWjh2OWZxUXFTcTdQWWNRQ3ByZ2VXUHo5UGcxT0FiVUtCeDEwLXZpSURrc0hyRVlJX3NFNlZmenNnRDFVYVROOC1zSjNhWEJxcFhvNjdGTHgtOU83M1hfdzBkRDNuSHN2RWUzT1cxbndRSDVYTHFsd0E?oc=5",
-     "t_id": "Republik Demokratik Kongo, Kenya, Nigeria, Uganda | Wabah penyakit virus Ebola Bundibugyo dan respons UE - Peta Harian DG ECHO | 25/11/2026"
-    }
-   ],
-   "title_id": "Pendanaan baru untuk respons terhadap wabah Ebola Bundibugyo"
   },
   {
    "id": "politik-202611250803-76ea",
@@ -383,55 +323,55 @@
    "title_id": "Pemilu sela di Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
   },
   {
-   "id": "siber-202611251048-8acd",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
+   "id": "kerusuhan-202611260429-4d6b",
+   "cat": "kerusuhan",
+   "label": "Kerusuhan & protes besar",
    "lang": "en",
-   "title": "Unclassified CIA system breached in cyberattack",
-   "src": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3RWQmd3NFpONGlOZFpULUh4RWs0amhNZ2hyaVZaSDF2M2JhblZFejVzbkwzTE5jYXA4eDJTRnA3VG9BNGpmZGZFWHVQOHdnemVROHhMVldpVzd6U3VqODRMUjA4cmF0ME1mVm9qS2JWdWFOQTR5RDNNaWJMU1J5bWVpOGdvbTFNQWdr0gGQAUFVX3lxTE5SbWpKNmJ3aU1xUGVCcm1JanM0eHdReElrVTJickNHUHJyelVsX0dNNEZidnBkZWdYNnNORkpFbUJYZEVwNjRYcXpsU0tUWmpLbGw2WE03RjVrQWdmcUwxNHpRTGJyQW1Ndkg3M3RjUnNva3lfc0hkNzlpMUhDTF9POUtCbS1zS0VkWi00a0Nsaw?oc=5",
+   "title": "New York Governor Kathy Hochul declares state of emergency after Thanksgiving storm delays Macy's parade; Mayor Mamdani issues safety tips | Hindustan Times",
+   "src": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPaFcwZE91WXhBQlk0R3dOT0FfemhHdkczWHhyWnlXWFNoc0taYU0zYmN0SFRKc1NnbnR5eVRodHZTUkRfZUlaRUJfeTN3UEdNTngyS2R0LVB1dTBtNnMxNGVkNFFvTE5ScFlMbjlUZU9TUXU1cGw5YjBRQ21kX1hSVFRFcGhnelBXVkF3YUl2OWtTUWhvcDVHVEVnRHBKaHc0QzJUZTI3V3BpZHZHNFBmcXdwRnFiT0swZjZtU01HSGxlUndfXzh1VE0tTVdKR1FpdjRFNGFrX05vRkwxUUpWMVcwWVYtRXlqc3N6aXpHQXVPNlNHTlhiaUh5N3RlUTZMSl90QVRGOGpaVlZpaDJKV1ZMdF9GNGY1LTRXZ2g2VU9UUHB5RUctRDlhZDlUZnpIUWRMMGp5Qms0aVJFdHBnamZ30gHHAkFVX3lxTE8talhDUEJucFFWT2VkV050STlkZmpUQ1R3Y3AtRkplOG5GTXJsa3MwS3Q1N2RGRlVDRVNveUlrdVVYbU9JWHlpTXFUYzZ3R2JmYjdMY2lSdG1FREpack5RdHVKTVJtNzdaMXhyclJwNjB3cEg3U3BWaUo2am5EQS0weVRZV0o2MVRqUFlEcFVMUy1EOFJvX3Q4YUZ3OVVFdEYwdTF5SkEtWXdoS0hYUGtJR2FidW1UNThWU1ZjQ1pJUFFsYW4tMVIyU1JSa2JrQUl0emNkcEwzTWtUOTVHQ2F4eEM4eFY5RzJhSDZwZlpyOWtuamxWOFAzV2dqdFptUUJNb1NabVlYa1U4RFlGOGZFZ1JZVjVVMENUYlluQjhMYmhWeVJkNVdscldSSklpLXJRWm1KdmdOMGNYWHVmUXRuT0J3RzJPaw?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-25T10:48:10Z",
-   "last": "2026-11-25T14:12:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
+   "first": "2026-11-26T04:29:35Z",
+   "last": "2026-11-26T04:33:09Z",
+   "assets": "Mata uang lokal, saham negara terkait, emas",
    "more": [
     {
-     "t": "Cyberattack exposes unclassified information from CIA system, US media reports",
-     "src": "Modern Ghana",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamttdVVPd1JWX2VpQTl3Vnd6ZnVyTERhOXVhbXpMNnRMcDQxSXJJOGJ4RjA5U0xmbWlZNkZCTDQ2LU9DMHVsak9pWGdJVEFrNnV5RHJDN2l6OENBWXZScm9fZVV3YTRZaFVuZ2NwTDlwMUVDRmtJaVhnalFPVENIcmlPVV9TaTBBaHF6MDlVeko3Y2M3UEJETVVn0gGaAUFVX3lxTE5qa211VU93UlZfZWlBOXdWd3pmdXJMRGE5dWFtekw2dExwNDFJckk4YnhGMDlTTGZtaVk2RkJMNDYtT0MwdWxqT2lYZ0lUQWs2dXlEckM3aXo4Q0FZdlJyb19lVXdhNFloVW5nY3BMOXAxRUNGa0lpWGdqUU9UQ0hyaU9VX1NpMEFocXowOVV6SjdjYzdQQkRNVWc?oc=5",
-     "t_id": "Serangan dunia maya mengungkap informasi yang tidak rahasia dari sistem CIA, lapor media AS"
+     "t": "US capital declares state of emergency over COVID-19",
+     "src": "Yeni Safak English",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXA5bkc2NEFKR1YyXzN4LW1HTkNfUUVTUWRYa2k3STN5aVNXNkd0WGJSWkd6dEJfUFZMdTUtUjZsYXR4WEs3SkxsVWFqNmZ1bTUtbTN4NzY0NThxNWl6ajI5T1VNdGc2ZUVVdG1VcE93Wl9GZDFNWlhxblNYekZ3Y2tVbVhQX0tWYVhTODRJQks5MDdxYmc?oc=5",
+     "t_id": "Ibu kota AS mengumumkan keadaan darurat atas COVID-19"
     }
    ],
-   "title_id": "Sistem CIA yang tidak terklasifikasi dibobol dalam serangan siber"
+   "title_id": "Gubernur New York Kathy Hochul mengumumkan keadaan darurat setelah badai Thanksgiving menunda parade Macy; Walikota Mamdani mengeluarkan tips keselamatan | Waktu Hindustan"
   },
   {
-   "id": "perang-202611251306-1e02",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Ukraine launches drone attacks on two Russian oil refineries sparking massive blaze",
-   "src": "The Mirror",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTndzV1R6VDFQQXVXd1ppR2dWMUVmVkhSWmhzekxqQ3kwbXVWVUNrajhVN29uSEdzSzVzRmYta19PVmRuN1czQnBYSWFWa1A5ZUgzWlQyLU1maHhYdXpjWkthX2pCWDJNeGtBYmJJekdtNUN6U09oTmdqa1JPQlE1RHBFU1JyLThVaTdPOVBlbE0wdnfSAZgBQVVfeXFMTWtSY2E1VnFhc1ZwU2ZzRGQwcXA0d3BwZVJaNkREQ3RkRFRzREpDT0N1bU9NRXdYWjBwbGxpVGJuTTdpbk05emY4R1VzSEx2cER2YXEwNTRaRDdYX19STnRzTXdLZHNVVS1tV3lMTEJFbXdPOWV1MlJzTWhtaW0xdmV2YXE5UWlrRFlSWnhTUmdoRHQtMnBXMUY?oc=5",
+   "id": "indonesia-202611251522-e6c4",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "VIDEO: Demo Mahasiswa di Kantor Bupati Madina, Dua Satpol PP Luka Bakar dan Lemparan Batu",
+   "src": "Start News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmtucDIzeVlqNG13bkJaNElXakVoc2hXX3ljS2pQMXVDYTE1OUxMN3dvdmRWVHhGXzVkT0tnTDd4bDFUOFdNeG9RLW5HYlhsMXUya3JwZ3dRWDZ5R3VSZWtnbzdpb1JGU3ZrR2kyYXFpMERqM0NZbmFRSC1PWW1RblI3VXVFX0dLeTF5bVJVdjNpU3BUUVRKREN3dkphblc2U2k2SFRvcnFNWkxIYjlyN05B?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-25T13:06:56Z",
-   "last": "2026-11-25T14:10:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-25T15:22:21Z",
+   "last": "2026-11-25T16:00:50Z",
+   "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "Polish Defense Minister Criticizes US Inaction Amid Russian Drone Attacks",
-     "src": "112.ua",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamF4emQzYzlNUGxfeTN4a3hMeVVzR3RkVzhidk15UnZvdEpHX2dWZG0wYkFoVE5YakVINlBtY1p6VEVOMkJGdUtieUVxTWFGZ2lIRkMwX2ViLUlRZ1RTWWo4MWtFVlQ0c1A4ODBDc2ZZMDhmc3Z0X2FQendqQUd3OGkzZ3k1SHZJd2lyTHpiZW5PTTlqWE9oOFcxc1MwWFdtSGhMM1lfYVFqemx2c3RTZEl3?oc=5",
-     "t_id": "Menteri Pertahanan Polandia Mengkritik Kelambanan AS di Tengah Serangan Drone Rusia"
+     "t": "Demo Mahasiswa STAIN Madina Ricuh, Dua Satpol PP Dilarikan ke Rumah Sakit",
+     "src": "MohgaNews",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczU4R1ItLWtSTGZCZEJiMTM0ZFVaZ29rTVVwaVlKRmpsMUJhU1hnamRJV2EzTmZkMEhId2pqSnJ6dDZfb2REZWt6NXhKNHJabjk2LVZtM1VJaHZ2SE5Hd0wtQS1QX0psbnlKR19nMEhGUkFLRmVMdGNyVENQaDJ0RnBhQXdycDhpR2wyblRQRENqcnRQWXloV0FHLW9YZw?oc=5"
     }
-   ],
-   "title_id": "Ukraina melancarkan serangan drone terhadap dua kilang minyak Rusia yang memicu kebakaran besar"
+   ]
   }
  ],
- "errors": []
+ "errors": [
+  "siber: HTTP Error 429: Too Many Requests"
+ ]
 }
