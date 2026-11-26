@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T07:03:16Z",
+ "updatedAt": "2026-11-26T07:17:56Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -263,6 +263,31 @@
    "title_id": "Pemilu sela di Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
   },
   {
+   "id": "perang-202611252059-4bfa",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russian Ballistic Missile Attack on Kyiv Injures 7 as Ukraine Awaits Delayed Patriot Interceptors",
+   "src": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OdmliMktsb3JkNW1vcWtKQ1I2VDJqbWUzSnpiSEJ2QlNMNWlZalJPUzdWTkk1b2ZYeF9lWmZqaFgxUjV3LWplYllQVQ?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-25T20:59:25Z",
+   "last": "2026-11-26T05:05:20Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Explosions reported in Kyiv during ballistic missile attack",
+     "src": "Operativ Məlumat Mərkəzi",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1ktQ1NsTUtHTWNwQ09LcGE3WHAtdURzcG9sdmpVN0RHVlE1a29aOHd6R0pKQnJJU0FkXzJ4ZE5JaXRpVThJbTI5NEcyNnJkVUFVNmlaUTNwMEtSa3pIWEFnWjRfd3JmYTFWYVBSQ200R0Zqdnc1X2ZBOERLV3BmLTBqUjhTTHZTT3RyUkJPNEFlUXFyU0x2Unctcw?oc=5",
+     "t_id": "Ledakan dilaporkan di Kyiv selama serangan rudal balistik"
+    }
+   ],
+   "title_id": "Serangan Rudal Balistik Rusia di Kyiv Melukai 7 Orang Saat Ukraina Menunggu Pencegat Patriot yang Tertunda"
+  },
+  {
    "id": "indonesia-202611250820-9143",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -284,31 +309,6 @@
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWENBdjVfZGF3TTV0YzIxR1NiVlBKeWlLSllBN3ZPYmNjZ2l5b1h6VFZlcllFTEFuWFFMdWl5SG5FNU9jUXBFakp0WTBiWWE3WU9QT2c2Ti1XRTM2V3ZNMjI2SU1LeXh3VXlJR0NhSGJOaU5CME10SzdOdzdFRDladUpvYmhzVTNPY2l5R3YwTC00MmM3NkYycU9xblRuQWtxZkwzcnNaNWNtWDF1LU0wMjdqck9xRDRNU2luTFNWam9CdEl0dmhfbmNvRkZsRHlmUEhLS005bTBjVXRkbXN0dlZEbHdGR3huRE5XVzRXRVJQdWFWcGRqWXFR?oc=5"
     }
    ]
-  },
-  {
-   "id": "kesehatan-202611252034-5753",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Rabbit Disease Outbreak Detected in Northern Alberta",
-   "src": "Wisevoter",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUFEdEQ4Ukw3R3VXcjNDSTlHNW1xRmFzeWNHUmY1ZFVFbHMzb0pKX0VJeTYyczhIcFF2T1NDOWhGVUJKcW15VlFCYUpnUDc1dUZQM0Z4bml0eDRxSGxsV0VYd2tHYzZjLWV5bDlTcHNmdmpDTkd3ZTFHNGN6TmpTUUdnQkhnVkZ1cUVfZlJkQUxXbGRWbm1fTkRuMXBmVXc?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T20:34:30Z",
-   "last": "2026-11-25T23:32:13Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Outbreak of rabbit-killing virus detected in northern Alberta",
-     "src": "CTV News",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2EybVlBVHN5ZDZtNDJVclhtNDhqNmFjZVA5c21rNUo5VDJuQzZ1NE9GUFpmS0VGa3l0cllfYmlyem1HY1M1T2NCNThZdWRvT3laU3NDRjhqS25HbFVFWEtIaDRJeVNKU0VCelFjdXZyb29PMl9reXo1aGxTV3NvRXVhSGRCWHM3VWYtNmFvSVFkN3dITHAxdnROUHExd21RekF4Mw?oc=5",
-     "t_id": "Wabah virus pembunuh kelinci terdeteksi di Alberta utara"
-    }
-   ],
-   "title_id": "Wabah Penyakit Kelinci Terdeteksi di Alberta Utara"
   },
   {
    "id": "energi-202611251005-ec40",
