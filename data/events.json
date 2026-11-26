@@ -1,23 +1,35 @@
 {
- "updatedAt": "2026-11-26T13:39:09Z",
+ "updatedAt": "2026-11-26T13:53:45Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
-   "id": "kesehatan-202611251617-15db",
+   "id": "kesehatan-202611251617-7ad7",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "New funding for response to Bundibugyo Ebola outbreak",
-   "src": "Science|Business",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3UzOVBTX1ZvTXhpLW9QS3Bya0wtMDZuX25sWUNKX21RVl9JbmpGeEh3SkcwN1ZhZUQwSUE5ZzA5X1oxMzduRW1jdURneGZBWGJRenJKczNLZ0k0VVRSU0tweTFjbHBnQVhaeExvLUpqZl9zYTFvLXRnclFoUjk1UzFwclBXQQ?oc=5",
-   "sources": 7,
-   "recent6h": 5,
-   "score": 9.5,
+   "title": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3NZTFdoSVNxWWdjdmJZOXhZUVNOYVpPa3RaeEt3dm1pRWJPR1JOWGs2S0NYOEI4MWQwelIxZElqcVVPQ1A1UC14X0NnWmhaVEVYb2VkZ1BwSGVocHpEZ0ZCUjBpREtodXBQcmlYQXFnRTRremdnSHFCd09YWHNZajNSMWpPQ3FVNzlaN1JpNDluRDJyWTNqQWc4NFh5RWlxbEV1N0dB0gGrAUFVX3lxTE1NMzhhbVFkcTE5S3VBVFJLYXZKNGJYMzQ1OXZ6di00Y1ZQVHc2WVVkMWFBOG05cjMtTlFILUZTMDNhQ3pVY2RHT3lpaGhrTXNpSVV5a1Y3azNRQ1J5WjdlZ2liNEY4aGdYZkh3Q0xxcU9IVnY3S0dmUnR5V3VUbFF1LWc5M25wVHRUNVFvT1ZuVmlnY2JLd3J3TVNDYWc3dUpUd3dIdUhXZjQwNA?oc=5",
+   "sources": 11,
+   "recent6h": 9,
+   "score": 15.5,
    "level": "besar",
    "first": "2026-11-25T16:17:38Z",
-   "last": "2026-11-26T10:43:51Z",
+   "last": "2026-11-26T13:30:00Z",
    "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
+    {
+     "t": "Fast-moving Ebola outbreak reaches 12,000 cases as authorities struggle to contain the spread of the disease",
+     "src": "Irish Independent",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTh3N3NSSVJGZHFnWkJDSWh0YVlqbndmQnV3SVh0QnpEdG5aWktrZko5WmFxQ3FaRFFZT1NZMGkwRWxRdzRtZk9pTTVwZ01EY201S0RPUG5wQTFjM2FEd2I4VmwxY2hvdTg3UXBCdVZmTG9XeVY3TjhNMlZ2am1HLVlyeFMwY3k2dnU0RnBrS01ybkNfbnEwUHBHX3B4WUtMSGlqVElFSklOLTBfV2NNbEVJTGwwUkY0T0ptSjdVSkJEWTNiOUp4VkFyNy16ZGZaT3ZFTjdoNmFZbzNIMmJ4b0U1X2xrNlVlZDBIX01oOGRKRDAz?oc=5",
+     "t_id": "Wabah Ebola yang bergerak cepat mencapai 12.000 kasus ketika pihak berwenang berjuang untuk menahan penyebaran penyakit ini"
+    },
+    {
+     "t": "New funding for response to Bundibugyo Ebola outbreak",
+     "src": "Science|Business",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3UzOVBTX1ZvTXhpLW9QS3Bya0wtMDZuX25sWUNKX21RVl9JbmpGeEh3SkcwN1ZhZUQwSUE5ZzA5X1oxMzduRW1jdURneGZBWGJRenJKczNLZ0k0VVRSU0tweTFjbHBnQVhaeExvLUpqZl9zYTFvLXRnclFoUjk1UzFwclBXQQ?oc=5",
+     "t_id": "Pendanaan baru untuk respons terhadap wabah Ebola Bundibugyo"
+    },
     {
      "t": "It is the fastest-growing Ebola outbreak in history and nearly half the 12,021 people confirmed to have the virus have died, according to data from Congo’s Ministry of Health. It is also the deadliest of Congo’s 17 outbreaks and is on track to surpass the death toll",
      "src": "Facebook",
@@ -29,21 +41,9 @@
      "src": "EMJ",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjM5YnM5OUVJeFN3MHNWRTNzTVVXajA0MzVsTmNrNG9ROFJjUVNIUEV3RUxaM0xHWjBXQmNqV1FSWUFvMVNBNW4xbGVtTkZtdmtFTUZNTnFraENMTjBQWWtCN2lSdkktMUlxLUM5eDU0YkdENld5NmVtRXJYR3lsSi1BbWNyRTFTZU1NM1l1VVN4aGs3UWJhQzBOenpweUVONTRpVmZwaDVnVy1NYWdDdWRtaVJEb0VaWUpSSWlRWkFTZw?oc=5",
      "t_id": "Penyakit Virus Bundibugyo Masih Menjadi Darurat Kesehatan Global"
-    },
-    {
-     "t": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
-     "src": "The New Indian Express",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHhfY2FqektsT2cycWw2UDRwUWYwUDdvSnl0X3ZvbGt0SzVJZjNOVUo5cEJkNWU2blk5UHlYSVpLZ0NadjVZWFBqa2xTTXBqal9sSVZRbVEzc3lyU3JaVVV0UTc0VWF0LWpEb1hOU2xZTVRtc1M2SGNIbmIxN2NPWWIyQW51N3VfeDN5VDFiMmRMQy1nZ0owWWYxbkVkcXNZMm9TNHhsNDd5T2M2bTB2QzBwLXNFc05SbFB2REpaSDZ6UHY4emt2M3hFbUQ3OVkxNU9fUDc5Q1LSAeYBQVVfeXFMTzdzX1c2RjYtdE5CVHNmdVNnLTZ4b0FKZHQyMmVTN1pKVWdvMF9Fa2pYMFpyMDVXRzVfdm1sXzdrMzBVLXVkUnVEcHFleWVCd25lZy1xWkdJQTFIcmRsWGlCRVYtM1R3RVYxX08tQ2JtRlVRNWlLRUdXVWFodnVud0x1eElrWEQ3NWJCSGVKc05SMy1URlRGQmd5V3Y4S1dabHE2Zm1xQXA2V1lMZTZfUTVXZlBYMWtpMXZJemdVUERYU1ZXbklQM0RVeG9BdGlGNU1pS2gzcEdGZG9SWVNtcUhwQ1R4R2c?oc=5",
-     "t_id": "Wabah Ebola di Kongo mencapai 12.000 kasus ketika kekerasan memaksa beberapa petugas untuk mengungsi"
-    },
-    {
-     "t": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
-     "src": "The Hill",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSDZ3c09wYVdrX0JBOUl1cnV3czRDN3FuN2FkdGVHb2VZeVRYdXp3akY5eGhuWGdYQkJFRzhlSmdiQW9hMS10b3NSNWV6ZTRLLVpvUnlPcVc5SUI1ZkljdFZFQkZZNEl0QVZfQ2U5M3BVWXo0SjBGMkU1bkxtcWtwZ2pvYms1ZkdHbGUzUG50bUx6dWp3SWFnMkVMZ2FIM0VrZ2wzRUZac09nN1ZwRzZVZ3NxNlY0T3c0LVFQOGxoN3V6WnBuekRlckl6bnQyZFd3UXBaSFZETEstYlRlU1k4dW5lTlFrODNZb1U00gHrAUFVX3lxTE5INndzT3BhV2tfQkE5SXVydXdzNEM3cW43YWR0ZUdvZVl5VFh1endqRjl4aG5YZ1hCQkVHOGVKZ2JBb2ExLXRvc1I1ZXplNEstWm9SeU9xVzlJQjVmSWN0VkVCRlk0SXRBVl9DZTkzcFVZejRKMEYyRTVuTG1xa3Bnam9iazVmR0dsZTNQbnRtTHp1andJYWcyRUxnYUgzRWtnbDNFRlpzT2c3VnBHNlVnc3E2VjRPdzQtUVA4bGg3dXpacG56RGVySXpudDJkV3dRcFpIVkRMSy1iVGVTWTh1bmVOUWs4M1lvVTQ?oc=5",
-     "t_id": "Wabah Ebola di Kongo mencapai 12.000 kasus ketika kekerasan memaksa beberapa petugas untuk mengungsi"
     }
    ],
-   "title_id": "Pendanaan baru untuk respons terhadap wabah Ebola Bundibugyo"
+   "title_id": "Wabah Ebola di Kongo mencapai 12.000 kasus ketika kekerasan memaksa beberapa petugas untuk mengungsi"
   },
   {
    "id": "politik-202611250803-76ea",
@@ -88,39 +88,6 @@
    "title_id": "Spanyol Menuju Pemilihan Umum Minggu Dengan Perlombaan Yang Ketat dan Terpolarisasi"
   },
   {
-   "id": "indonesia-202611260543-baf4",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
-   "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3k4MXNsUmtSbThRQklWTnFLWDhSNHBQbnl5a0g5QkNHd3JVS0I2THZBVnBYNjJVQ081bl9Yd2ZtcUJrSzQyeXBvNHQ4X290T20tdEFZTnU3TU9IVkVzcTdfa2xRNkFEc2FYNF95TzhZaUxVY1R6Z0hNSlFlemxFZ185UllYYm0yeG90S1VGUjZldHd4akI0alhPX3FHaktjTWw0MldnSWjSAasBQVVfeXFMTk9sRWtZVjhGbWRXbGJnQmU1TE4zSzhESU80WUJQRU8zQ3JOWkYyT05Dck9mS1hSM3d0MXo2aE9JRmRkM0l4Y3E3ekRuakZ3R2c3RlRYc1lwRTBuTEpOTi1SYmhZTU90UUJRWXNDd19LS3hNREFraXNaVE5xVzcwemZBWFBmX1FUSFB3NFV0Qzh6c25yQjhHSlI4MmE3bzlIeXlNR19oSmU3NkVB?oc=5",
-   "sources": 4,
-   "recent6h": 3,
-   "score": 5.5,
-   "level": "sedang",
-   "first": "2026-11-26T05:43:11Z",
-   "last": "2026-11-26T09:28:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
-     "src": "Head Topics",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUQzdl9XN2ItTEVOdkJhZmhfa1drMndMUnpkNklBRWo1U0hTVFI0YmlzWGpta0NkMnVkcUNpa21VYmlFbXRJSmMzTnhaWU9DUU9uNlo3bHJKVVdvQl9RQ3VJbXNOV0xxTGFhVDJYWjAwaGc4ODJ1Tk1rbTRkT3JtUjZGMDJ5X1lFRlByWV9qVDJUeGpmdWtBZjFvNVY?oc=5"
-    },
-    {
-     "t": "Berita Terkini Harian Video Demo Tolak Gibran Mundur Terbaru Hari Ini",
-     "src": "Kompas.com",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdXU5NklfSmtEOEZ5YkFraVJzSUY1MWZIbzlDTUxZc3hlV0dIbW92NXdma3dwWno2WjNBWDMyOElxUjE3VlhTQTVvZzNXRGMxeDhXbjZoc1ZGNWE4X3NTeV9Hc2k4b2R2?oc=5"
-    },
-    {
-     "t": "Benarkah Ribuan Orang Demo Tolak Gibran Mundur dari Jabatan Wapres?",
-     "src": "Tribun Video",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJfTFRaa0lRMUVTRDcwcnRXbkJXak00Zk1BalhmSEpnUkJJR2NYMTM5UEh0VDhkN0tIYjFKQ001dGh0Z25HcDRhWkhfUHdrMlFXTUxwSDRWcGVySDYxNC13V3gtM1pwOTdGSkcxam9Sa2tQYnJ2eVA3WkdDYXl0dEhGb2lZODVxZHJYSnhCWlBreGw4d1hOSFhPS3ZhLUU2b3VXZTg1OGVTQlU?oc=5"
-    }
-   ]
-  },
-  {
    "id": "perang-202611252059-4bfa",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -158,35 +125,30 @@
    "title_id": "Rusia Melancarkan Serangan Rudal Balistik ke Kyiv, Menyerang Dua Bangunan"
   },
   {
-   "id": "indonesia-202611251512-28e9",
+   "id": "indonesia-202611260543-baf4",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
    "lang": "id",
-   "title": "Demo Mahasiswa di Hari Guru Bawa 7 Tuntutan dan Tembus Menuju Istana",
-   "src": "Lingkar",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUlhlT1dCYXo4ekhURFVMN0pDMl9IaGF1Q0FiZTVSWVo0R3ZWdWZEOUV6cnVHRnJMRTlmRUtXUDNmT1JLYXp3MU9MWG5LV252ZHhCZU1IX2dwSmFTVE5mNTlUOTVZMnJ3cFhDYVlVWGZ1eUtqYjZ6WDhQbGc4QVZxQUw4Y2Fud2ZFcWM2WWM1NllWTjJNbzNldDN3?oc=5",
-   "sources": 4,
-   "recent6h": 1,
-   "score": 4.5,
+   "title": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3k4MXNsUmtSbThRQklWTnFLWDhSNHBQbnl5a0g5QkNHd3JVS0I2THZBVnBYNjJVQ081bl9Yd2ZtcUJrSzQyeXBvNHQ4X290T20tdEFZTnU3TU9IVkVzcTdfa2xRNkFEc2FYNF95TzhZaUxVY1R6Z0hNSlFlemxFZ185UllYYm0yeG90S1VGUjZldHd4akI0alhPX3FHaktjTWw0MldnSWjSAasBQVVfeXFMTk9sRWtZVjhGbWRXbGJnQmU1TE4zSzhESU80WUJQRU8zQ3JOWkYyT05Dck9mS1hSM3d0MXo2aE9JRmRkM0l4Y3E3ekRuakZ3R2c3RlRYc1lwRTBuTEpOTi1SYmhZTU90UUJRWXNDd19LS3hNREFraXNaVE5xVzcwemZBWFBmX1FUSFB3NFV0Qzh6c25yQjhHSlI4MmE3bzlIeXlNR19oSmU3NkVB?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-25T14:51:34Z",
-   "last": "2026-11-26T12:06:25Z",
+   "first": "2026-11-26T05:43:11Z",
+   "last": "2026-11-26T09:22:37Z",
    "assets": "IHSG, rupiah, SBN",
    "more": [
     {
-     "t": "HUT ke-18 Tangsel Diwarnai Demo Mahasiswa, Persoalan Sampah Jadi Sorotan",
-     "src": "radarbanten.co.id",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVR0Y3BtS2N0Z2hBcjF0dGdLdlJDUXhRYWZ0TlVTSXpVSktBWVd1dGV4VVlBV21JSHZiZURoeHlCc1ZfMWctT0h6Q01ibURfUmhrX1gxY0NFdC1RWWluekwtMDQzQ3Z4TWM4Z1lYdi1FWEo0RmJiTERuNzQtUUpHNU84SHN0TzY0MS0yTEFGeGZVa09RRlpiVmNnaTdOc19mMXYzb010LVFqRlE2NXpKN0tlUQ?oc=5"
+     "t": "Berita Terkini Harian Video Demo Tolak Gibran Mundur Terbaru Hari Ini",
+     "src": "Kompas.com",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdXU5NklfSmtEOEZ5YkFraVJzSUY1MWZIbzlDTUxZc3hlV0dIbW92NXdma3dwWno2WjNBWDMyOElxUjE3VlhTQTVvZzNXRGMxeDhXbjZoc1ZGNWE4X3NTeV9Hc2k4b2R2?oc=5"
     },
     {
-     "t": "Hari Guru Diwarnai Demo Mahasiswa, 7 Tuntutan BEM SI hingga Dugaan Represi Aparat",
-     "src": "Suara.com",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEdoaE9YR05pU01MWm9ldUQ4RWF6ZnRKNTdpUVpPNnVSa0tqZTQ0eml6b1dIMjM5Y0h0Y2hHMkF1RnZsMVBSdTB1QzhBajloYkNQckNHY3NoTHhBUVR6UkpPb3h4dW1WRzBuLW42amhuZnV6U1N5R204TloycF95NUdMLURnOWJrNGNVUURoajVSMVlaak51ZjAyVUJXRkVDcmlCY3VuYVJkU3N1aFNvVnNkZW1ZUUw4MGdPQnQ5aU83Q1daWHhDVDNCQ2Q?oc=5"
-    },
-    {
-     "t": "BEM SI Kecam Pengamanan Demo Hari Guru, Empat Peserta Aksi Terluka",
-     "src": "probusmedia.id",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVByV3BMRGlwdGM4ZkxaLVFiR2NrcWsyQUQzRGNZY1JyX2xWM2p2cnl3Z0s0YTlvdVcxQ1BxZEhFNmItaG5Wc2djcERJYmJaUUl3c21MWnEyaXBTTGFrZjU0a3hucTl1MlZlYWRJYlZlQjAyVVh2ZVBEOElYeFZlcDJaeVhwa0VIbHdCblhJTnZyTkI0TTU5S0V2SGc?oc=5"
+     "t": "Benarkah Ribuan Orang Demo Tolak Gibran Mundur dari Jabatan Wapres?",
+     "src": "Tribun Video",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJfTFRaa0lRMUVTRDcwcnRXbkJXak00Zk1BalhmSEpnUkJJR2NYMTM5UEh0VDhkN0tIYjFKQ001dGh0Z25HcDRhWkhfUHdrMlFXTUxwSDRWcGVySDYxNC13V3gtM1pwOTdGSkcxam9Sa2tQYnJ2eVA3WkdDYXl0dEhGb2lZODVxZHJYSnhCWlBreGw4d1hOSFhPS3ZhLUU2b3VXZTg1OGVTQlU?oc=5"
     }
    ]
   },
@@ -220,40 +182,12 @@
     },
     {
      "t": "Microsoft declares 'Code Red' after historic service outage",
-     "src": "FOX 10 Phoenix",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlY5ekZwSXRkaGpKd3N0LXpvZmVJWFVvSFZSNlNQUy12NmNFaW4zSjB4MVR4c0dwOUhYdGVrX1ZpMnpTQUVfR3NZMUg2LTdPYmVHMU84RkZKRUYzaUh0YXkycW9zb1drbzhaMm9PYWd0RllXNFNEOE5PSVVTcUUtamNNd1lMMXJ2bTlKWEdLWVFhTmFoWGc?oc=5",
+     "src": "FOX 4 News Dallas-Fort Worth",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFFrdUk0QkxBUkVUVVQ3UVpBMGZjZ0ZvLS1OOEl6UHFEN2U1RjY2OHR6MDRmb3JTNGZMQVRCQjlJdTY5eHpuQjI2S2xNOFJUTnFtOHZCdkZuUXM2OHpoOWVGUENqQVR1dVAtSFFsZkkxTEJLVmFJSzFBUktQZFRWNDd1M18yMjVWdFRSU0ZKc1E?oc=5",
      "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
     }
    ],
    "title_id": "Microsoft Mendeklarasikan Status Kode Merah Setelah Pemadaman Global, Menargetkan Pemulihan Layanan Satu Jam"
-  },
-  {
-   "id": "indonesia-202611251340-f87f",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Puluhan Mahasiswa Demo di DPRD Tangsel, Sampaikan 24 Tuntutan kepada Pemkot",
-   "src": "Ekbisbanten",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3lKMnljeGtJaGN2QVZUbDhiNVVISnhxc3Z4bzJuNW9GaWYzSTFyNzB2RzVpTmVhRmIxQTJNVlRhM2FGRnUxLU1KTzJiTHJfS3NwQW9HS2N3aXZYOVZFWFpIZXBsdEpjdE9qUTJ3anB2cGVkQjlrT0hGS3p4U1hEM1Q5ekU0Y3pRd0VEbjVERkRXLWFyRThzU2JJQ08zYjJzVjl5WWNpeXN2Zw?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-25T13:40:00Z",
-   "last": "2026-11-26T10:32:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Penuhi Tuntutan Demo, Foto Gibran Malah Pecah Diturunkan Mahasiswa di Ruang Paripurna DPRD Surabaya",
-     "src": "Tribunsumsel.com",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT0pDY0hGMGdodlV3eGctR1RqTTR1RlRmNjJnNXpHNktEVGw3WVlkWmJ3SXpHNG54QjdZck1Zakd3XzFSaG9wUUxkNV9ndmFMc2lLOHZXV3JoSXE1UklCeU1FSGNZdUMxbWtuMkZjQ1hmNm45MUhKdWdQeVVXcER2UGVSM016WGJkTDl4al9zUHU3cUZ2ZHFVc1Z6VHJnV18zSzRGYUtWZ1phdWktSlR0YlBsMUN4b0NzbFkxOWFSV1dlS2w4QXZvaEdjWGliQQ?oc=5"
-    },
-    {
-     "t": "Demo di Patung Kuda, Aliansi Perempuan Indonesia Desak Pemerintah Penuhi 7 Tuntutan",
-     "src": "Pikiran-Rakyat.com",
-     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdTNGVjkzZGpSRkEtU25NX0R3OTZTRFhweFo0YnBqMVhKZDFpejJmR3M1LUhWLU5KejRYbWRmWktJcy03akVOQlg0QktGdW9rMUhIOHlobUFFS3pxdExrRzA0a1JsNXp4dFRpakhKMV8zSm9VV1hKT0lLOWxDdmh1UHBmSG1KdnJuYXVvX2ZzZEpuUmJ4Vzl2T3RQaGV1aEVJcGdPdk51VVFMYnY4TjJxSmJHRzh6REhuN0pwZlY4dGlITlFwLV9FVWtNQTBmSkFIdUxPV19leEpiZ2N5ZGRHUW9rSms5aE13M3Bmb3RBTXREZHFJY1M4M2FpcWZkUFBkRFhaLXA0dWEwRmN2RFlFd0RZa1R1bUI4S0E?oc=5"
-    }
-   ]
   },
   {
    "id": "perang-202611251906-dd01",
@@ -338,6 +272,12 @@
      "src": "www.thetraveler.org",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUJnOWN6cnAtYVduTFUwemRzbmtfcDZIc2JETWxUMXgwNnNPMHhCZFVPS2s3ZkVWb0s5eVROa1FGWHJHU1VwVWRVZ2pYT3BXanphV1lCV0RucElxNlhLaUhwYkhJblM0UjJmekViaWlNZWpxX0wwYXBMbkd3MDBXUWxZaDZiZGtuaFZYWnN5RnZfTWtKOWc?oc=5",
      "t_id": "Duffy: Sejauh ini penundaan penerbangan Thanksgiving sebagian besar disebabkan oleh cuaca"
+    },
+    {
+     "t": "Thanksgiving 2026: Best Apps to Spot Flight Delays Before You Depart",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGhkVGFIeW16QkRGRGZGR3h5QXBaR2ZQMDREaWFOcUtkYVhaLUs1ODVXVEN0OUEwb1pkZXMtWElUOF9OZEVEUXc5SHhPYUtvRmxZaC0tdjZNSHNOSGVEODhqUmM3RU5obVY5a2g4N0syR193dEY3TjJBS2xfUjNNelBwWGtqWkREZlowSHozaWw4WWZsa2ZrSjloTlI?oc=5",
+     "t_id": "Thanksgiving 2026: Aplikasi Terbaik untuk Mengetahui Keterlambatan Penerbangan Sebelum Anda Berangkat"
     }
    ],
    "title_id": "O'Hare Menghadapi Penundaan Penerbangan Berturut-turut Saat Puncak Keramaian Thanksgiving"
@@ -412,6 +352,52 @@
      "t": "Mahasiswa dan Buruh Demo di Kantor Gubernur Jateng, Tuntut UMK 2027 Sesuai 100 Persen KHL",
      "src": "Suara Pantura",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjhlR1dFaVJSdTFiUU1OUWdFakMzaWd1MTZWVmZMV0poN3dPZmNnYU85QnkyQ0ZrSW1oOEJmdGZJSlMtMENtVG9xSllWMDhhMmxONUptWVBsU1RGeEM5NHU0VzRGSl9nS2xwNnNyYVhMM2hUMG83S3J4RVhPTkd5LWZYZGxzalFJYm9rMWxJY2VVLVRoejU3aW9mRWZNOVBnTERGdUdYanc4OHZhc05sLU1BdTBsN0hIdEhkcDV0TnV1dW1BNDY4RkhGWlQ0NG8?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "perang-202611251815-25db",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Saudis down missiles targeting capital after Yemen port strikes",
+   "src": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3NsR2xYUU94TThOci1STkFLZ21CRExGSFdVT0lUYm5BUmRGV1BjeFR3bXpxM2dPU2JDOVpfajZuOWpsVDkxQnI2R1FjLXk3RVlweDE0NENkOGtydUZpODQtR1JCbTVnaEp3eFdxT3VBNGRxai1IOW0zVzc2OXhFSkNpR3kxNnVWQnF3TGJqMmlBZHVxOUV5MVBVc3ZvUF9sbF80YjdKdVN2enV6eGhtZnZ0VdIByAFBVV95cUxPWHBJb1FhT21wbHZuTW5ZYS1jd1JJcnZBb0hqNnF0ZDNsZ2ViLXVib2w0S2hjaWNKWkliR3czZVhuMGl1QjdhanpCOWJkMlN0WlhjZHU0MjFKTHNNX2NzZEFOQlBRV1lPTGVhRmNCbkVjMUJ0QmZhSG9GUy0wck15SkNHeWozS3UxNlFuMVJ4MkZwSUxGVHVPU1Zjb3N6VGdxRU5QUDZ2LUNYaEYzSDc3cTZSS2Y2a002bnkyQXhqVEtpSGhqWExvbQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-25T18:15:06Z",
+   "last": "2026-11-26T02:57:09Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "The New York Times. . The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital. https://",
+     "src": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVFsNE8wR3RVMWFQVmJRNGthNXFScUtaUm1PUW9tcGdhREZJVXBScmU4a2NzQ09fcjFpQjRsbWszUEY5Z2tmN3JRem4xQ05zUm9POWVwU25EY2F5ZXMzX2JOT0c1aWV0eWRRTXktbFg1RW1IcEVzVnhhUTBva2Rya0VSWmY0NGd3c201RWw1M1c2S0dlMGhQWnRLVVFRQ3oySWF6c3Y0SGdKYWs?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611251522-e6c4",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "VIDEO: Demo Mahasiswa di Kantor Bupati Madina, Dua Satpol PP Luka Bakar dan Lemparan Batu",
+   "src": "Start News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmtucDIzeVlqNG13bkJaNElXakVoc2hXX3ljS2pQMXVDYTE1OUxMN3dvdmRWVHhGXzVkT0tnTDd4bDFUOFdNeG9RLW5HYlhsMXUya3JwZ3dRWDZ5R3VSZWtnbzdpb1JGU3ZrR2kyYXFpMERqM0NZbmFRSC1PWW1RblI3VXVFX0dLeTF5bVJVdjNpU3BUUVRKREN3dkphblc2U2k2SFRvcnFNWkxIYjlyN05B?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-25T15:22:21Z",
+   "last": "2026-11-25T16:00:50Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Demo Mahasiswa STAIN Madina Ricuh, Dua Satpol PP Dilarikan ke Rumah Sakit",
+     "src": "MohgaNews",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczU4R1ItLWtSTGZCZEJiMTM0ZFVaZ29rTVVwaVlKRmpsMUJhU1hnamRJV2EzTmZkMEhId2pqSnJ6dDZfb2REZWt6NXhKNHJabjk2LVZtM1VJaHZ2SE5Hd0wtQS1QX0psbnlKR19nMEhGUkFLRmVMdGNyVENQaDJ0RnBhQXdycDhpR2wyblRQRENqcnRQWXloV0FHLW9YZw?oc=5"
     }
    ]
   }
