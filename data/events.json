@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T23:12:29Z",
+ "updatedAt": "2026-11-26T23:27:08Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -7,17 +7,23 @@
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "The Ebola outbreak in Congo has spread to 8 provinces! The death toll has approached 6,000",
-   "src": "Haberler.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3VmdmVqUnJ4VHhPTERlMV9kTENsM25qX0NTRWEzUFVacFBQWmZxcWRRUFMtRU0xUTRwOEtTVE9ETElHX2RIbDNKMVQwaENST0owT012a3VZUGtjTFNIMEFFX1BtMTFwZ2hwRWRDQmEyRzgteHh0cjBBWUNSUDRCVw?oc=5",
-   "sources": 10,
-   "recent6h": 3,
-   "score": 11.5,
+   "title": "Armed Conflict Hinders Efforts to Contain Deadly Ebola Outbreak in the Congo",
+   "src": "Truthout",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzN5NWh1M285QTZJaG4yZWQyTlF0QVZMVXRRQnctUGpOQnJ0X3k0NHctcWxpaTYtSnBKVUJqN1hINnJHTXQ0eVloOXk0SGpvRGpVYmM2R0twVGc2am1iMFdseGE0ODliOF9fR0xhcHhBVTBLRGZjSTRMMjBZWWRGc015RFlNVVVnaDg0dFJ0ZnBqb3lnNlRYRGhCaDVDV0x3aFlMRk1TS3lfRzA?oc=5",
+   "sources": 14,
+   "recent6h": 4,
+   "score": 16.0,
    "level": "besar",
    "first": "2026-11-25T18:50:12Z",
-   "last": "2026-11-26T20:28:58Z",
+   "last": "2026-11-26T21:21:10Z",
    "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
+    {
+     "t": "The Ebola outbreak in Congo has spread to 8 provinces! The death toll has approached 6,000",
+     "src": "Haberler.com",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnNNLUVhVFFxWjgwU3BIVE03UTA1WlA0N2dHekgweXhxeVR2VVlBak1qYTFuU1A4Z0dFZ0l6OGU1ODRiU0NfWmp1YlFMUVVPdncwY2hRbTV5YllWeER0QjBibmowRjJrcTlCNXZYU285cy1MemNIX3VWUDZDWG9kZmNn?oc=5",
+     "t_id": "Wabah Ebola di Kongo telah menyebar ke 8 provinsi! Korban tewas telah mendekati 6.000 orang"
+    },
     {
      "t": "Congo's Ebola outbreak passes 12,000 confirmed cases and 5,904 deaths",
      "src": "MLQ.ai",
@@ -35,58 +41,9 @@
      "src": "Nature World News",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmxnRW1hWmJubmJpWHZWMnBtM3BhZ2FRcmtxV0JKblF2cnM5bXhrdnozWk55am9MeFJSaHQxby1YSnlXWFRtdk00bXFzbnE1ZVdqWmFkZE0za0V3QjhLVWpXcTUyNm1VN0tqWTNKdXZORUtFWndlZnRLT1loVnF6dHpscm40ZWdjRHJxcEtEUWxTV2NLblE1eXhiSG5ndUl4Y1R1NTFNOHR2LXpYT1ZHV3NXMmsxMHB1NjFCMFFUd21sVl9MOHNWRWpsTnQ2VHk0SHROeFdsdkpDV29Y?oc=5",
      "t_id": "Wabah Campak Vermont Meningkat menjadi 13 Kasus di Orleans County di antara Rumah Tangga yang Tidak Divaksinasi"
-    },
-    {
-     "t": "Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows",
-     "src": "CBC",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55YVpacXFsenUydXgtVDJXN05hR2F2N29ZalVuSGpLa2FqUVdIdEdRaTdoMnFHWDBKSXBPMzNaaTZYSW9LbHRKRV9WWE9LZlBy?oc=5",
-     "t_id": "Kasus Ebola mencapai 12.000 di Kongo dan menjadi wabah terbesar kedua yang pernah tercatat"
     }
    ],
-   "title_id": "Wabah Ebola di Kongo telah menyebar ke 8 provinsi! Korban tewas telah mendekati 6.000 orang"
-  },
-  {
-   "id": "politik-202611250803-76ea",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Spain's snap election: Five key questions for financial markets",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFZGRnlyUS1kZHlNY28tLXpFdGFiMGhPZTNCTGtkaDNaZ0t6YVdqU3VGeTA0YWVIdHp0STNadFg5Nmx0alp6SkRlTGFzV0NiZFo3STdpV1FxaTI3WnJvYjFQU05FOURkbVE4RVE5Sm1ZZVdLYkVYTFVVNXhMY0JOU3Bza0VkckxwdUFwVU1hUGNuSThTakxkSlpkWHFiQWdHM3hYYVpiNUVSN3lLMDB3?oc=5",
-   "sources": 8,
-   "recent6h": 3,
-   "score": 9.5,
-   "level": "besar",
-   "first": "2026-11-25T08:03:00Z",
-   "last": "2026-11-26T22:18:13Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Spain’s Housing Crisis Drives Snap Election: Explained",
-     "src": "JournalArta",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BUmdkR19HWk84RXpZXzR3cFVQLVB5VzJWVEFiSHI0dGdzVEo5NGh0TEpFSEd3VmlmZ1hNWHVfbUFZLTVGMmo5NVZEc3E3TDAwYzI4a19EaWxNSF9DV1Ria2duVnlBS2VwZFd2QzR1UnZUV040Yk01bDNhLXJFdw?oc=5",
-     "t_id": "Krisis Perumahan di Spanyol Mendorong Pemilu Secepatnya: Dijelaskan"
-    },
-    {
-     "t": "Is Spain's snap election being rigged? Debunking viral claims - Truth or Fake",
-     "src": "France 24",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE9ldVUwWF9ZRXI2VUdzNVRxMlpsRDFDWlJ4YTZWMmNXbGxkbjU1WVNUb002ZWFQUkdsR1c4NG16cVhpQ2dMejJzREtlWW5VZmw1NE1mZHZKbHhoVVk2M2ZUYnh2RDR1VVRienpVbWtBYjczNHVIeGFDcFBIYmhIMGdUcWRzSnFwMW9kaXlCcW9rLWxaaGJhREJUYTYwQ1ZkMHl3cEZqaTJrUVZ4TzBTNkZUY2k5aFdDbUJkcg?oc=5",
-     "t_id": "Apakah pemilu sela di Spanyol dicurangi? Membongkar klaim viral - Benar atau Palsu"
-    },
-    {
-     "t": "Spain's Snap Election — Why It Matters and Who Might Win",
-     "src": "U.S. News & World Report",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekxOaVZjdDE2NlBGWkd1UjVoOERzWERvbzdXYmwtNURhYWdIVmxLcXBrLWFuQ2RIZVJDZ3BhY2FPb1NNcTl1XzlSNW1yOXItaUVtZ2xZMVN0ZWotbmdhdHh1UTdZdmpra3U5NEQ3NHVLaFI5ZFgwVDZUMFlvbDdzdktHYVgyWEIyN3U5U1hEb2RYUGd6aEdOS0MwYjJWaWlXVnhpcEFoZDNMQndReFJwaVVMTDJiUXFJ?oc=5",
-     "t_id": "Pemilu Cepat di Spanyol — Mengapa Itu Penting dan Siapa yang Mungkin Menang"
-    },
-    {
-     "t": "Spain Heads to Sunday Snap Election With Tight, Polarized Race",
-     "src": "teleSUR English",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0NvUlczV0hDVEI3RU9UTTloXzhCVnFEY05BRzBhOFM0VWwtdVdBVEc3QnZCaEtmWHNjZWpXVzBaS0VxUjNZSy1nbmNmMXVYS3JnVEVUZnlZQzliQjBHblBJX1dhb2h6MEk2dFZqVzlBRzRwVlJCdDFEZWFobDh3V2REM0Fna3p3TWVDbmxXUUZNTk1YM0kzTw?oc=5",
-     "t_id": "Spanyol Menuju Pemilihan Umum Minggu Dengan Perlombaan Yang Ketat dan Terpolarisasi"
-    }
-   ],
-   "title_id": "Pemilu sela di Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
+   "title_id": "Konflik Bersenjata Menghambat Upaya Penanggulangan Wabah Ebola yang Mematikan di Kongo"
   },
   {
    "id": "perang-202611261354-3cea",
@@ -130,6 +87,80 @@
     }
    ],
    "title_id": "Dua warga Italia tewas dalam dugaan serangan pesawat tak berawak Iran di Kuwait; Teheran membantah terlibat"
+  },
+  {
+   "id": "politik-202611250803-76ea",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Spain's snap election: Five key questions for financial markets",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFZGRnlyUS1kZHlNY28tLXpFdGFiMGhPZTNCTGtkaDNaZ0t6YVdqU3VGeTA0YWVIdHp0STNadFg5Nmx0alp6SkRlTGFzV0NiZFo3STdpV1FxaTI3WnJvYjFQU05FOURkbVE4RVE5Sm1ZZVdLYkVYTFVVNXhMY0JOU3Bza0VkckxwdUFwVU1hUGNuSThTakxkSlpkWHFiQWdHM3hYYVpiNUVSN3lLMDB3?oc=5",
+   "sources": 6,
+   "recent6h": 1,
+   "score": 6.5,
+   "level": "besar",
+   "first": "2026-11-25T08:03:00Z",
+   "last": "2026-11-26T22:18:13Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain’s Housing Crisis Drives Snap Election: Explained",
+     "src": "JournalArta",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BUmdkR19HWk84RXpZXzR3cFVQLVB5VzJWVEFiSHI0dGdzVEo5NGh0TEpFSEd3VmlmZ1hNWHVfbUFZLTVGMmo5NVZEc3E3TDAwYzI4a19EaWxNSF9DV1Ria2duVnlBS2VwZFd2QzR1UnZUV040Yk01bDNhLXJFdw?oc=5",
+     "t_id": "Krisis Perumahan di Spanyol Mendorong Pemilu Secepatnya: Dijelaskan"
+    },
+    {
+     "t": "Spain Heads to Sunday Snap Election With Tight, Polarized Race",
+     "src": "teleSUR English",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0NvUlczV0hDVEI3RU9UTTloXzhCVnFEY05BRzBhOFM0VWwtdVdBVEc3QnZCaEtmWHNjZWpXVzBaS0VxUjNZSy1nbmNmMXVYS3JnVEVUZnlZQzliQjBHblBJX1dhb2h6MEk2dFZqVzlBRzRwVlJCdDFEZWFobDh3V2REM0Fna3p3TWVDbmxXUUZNTk1YM0kzTw?oc=5",
+     "t_id": "Spanyol Menuju Pemilihan Umum Minggu Dengan Perlombaan Yang Ketat dan Terpolarisasi"
+    },
+    {
+     "t": "Spain heads to snap election as housing crisis tests Sánchez",
+     "src": "Harici",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXJfbnI2MjBxM2RPLVd4eUxFWVlMd1VkcnU0ejdmTkpLak9MQnY0d2ZKdng5MkdiSGUtb0hhLVFidHVSeHRlUlRmVFBOY25WSXVKSjZsM2szVmJYd1YtNE5lYnZJbmhuVHEzbzFPWnJ1ZEtqT25TWjUwS2prUDNYUl9xNzNQWUtCTlJZc1ZRQdIBjwFBVV95cUxOMXJfbnI2MjBxM2RPLVd4eUxFWVlMd1VkcnU0ejdmTkpLak9MQnY0d2ZKdng5MkdiSGUtb0hhLVFidHVSeHRlUlRmVFBOY25WSXVKSjZsM2szVmJYd1YtNE5lYnZJbmhuVHEzbzFPWnJ1ZEtqT25TWjUwS2prUDNYUl9xNzNQWUtCTlJZc1ZRQQ?oc=5",
+     "t_id": "Spanyol akan mengadakan pemilu sela saat krisis perumahan menguji Sánchez"
+    },
+    {
+     "t": "Spain's Snap Election: What Is at Stake for Housing, Migration and Corruption",
+     "src": "Around Prague",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb29HNUVHRnFrNFlqbVhuNVFEZHNERGdtUXFGNTR3R1JvNFhRTkYyaGJOTVJqemNnWFRoQWtUODVLREE3ZTZmOXFpY3V0WFBoU011WmhPbDRqbndKaTFJS0sxSjRUaFJGRzAxNURDalZ2T25kb2ZtX2QyWDNUWDdQVUZzMVUtS3pGSzdlNGVxbVNHOXVLWFZ5azBzYi14SUhfcnd2aFBMc2VDV09RWDdJNW9RRQ?oc=5",
+     "t_id": "Pemilu Cepat di Spanyol: Apa yang Dipertaruhkan untuk Perumahan, Migrasi, dan Korupsi"
+    }
+   ],
+   "title_id": "Pemilu sela di Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
+  },
+  {
+   "id": "politik-202611250803-76ea",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Is Spain's snap election being rigged? Debunking viral claims - Truth or Fake",
+   "src": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE9ldVUwWF9ZRXI2VUdzNVRxMlpsRDFDWlJ4YTZWMmNXbGxkbjU1WVNUb002ZWFQUkdsR1c4NG16cVhpQ2dMejJzREtlWW5VZmw1NE1mZHZKbHhoVVk2M2ZUYnh2RDR1VVRienpVbWtBYjczNHVIeGFDcFBIYmhIMGdUcWRzSnFwMW9kaXlCcW9rLWxaaGJhREJUYTYwQ1ZkMHl3cEZqaTJrUVZ4TzBTNkZUY2k5aFdDbUJkcg?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-25T08:03:00Z",
+   "last": "2026-11-26T22:17:06Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain's Snap Election — Why It Matters and Who Might Win",
+     "src": "U.S. News & World Report",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekxOaVZjdDE2NlBGWkd1UjVoOERzWERvbzdXYmwtNURhYWdIVmxLcXBrLWFuQ2RIZVJDZ3BhY2FPb1NNcTl1XzlSNW1yOXItaUVtZ2xZMVN0ZWotbmdhdHh1UTdZdmpra3U5NEQ3NHVLaFI5ZFgwVDZUMFlvbDdzdktHYVgyWEIyN3U5U1hEb2RYUGd6aEdOS0MwYjJWaWlXVnhpcEFoZDNMQndReFJwaVVMTDJiUXFJ?oc=5",
+     "t_id": "Pemilu Cepat di Spanyol — Mengapa Itu Penting dan Siapa yang Mungkin Menang"
+    },
+    {
+     "t": "Explainer-Spain’s snap election — why it matters and who might win?",
+     "src": "Internazionale",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaTVpc2pTNDNhR2w5czBLOFF5MGcxX0RJYmM5V3BQakdITzVURFRoUko0cXFaZHZGZ3ZXX0tfQWNReXk2WGoyY1hSYzlzWUZkVkdIV0RzaGpJSnNjbnJBN1pVel9RLWMyLW5HMnNXNUJydjR1bmNGc2g3cTVOMnExZnBPWkJ4ZGpGWVJkRFJidW8wcjB6VXF0WjFLQ0NwbUR0cUpJU0lYWDZ6OWxGa1lxUjcxZXpiWFR0ODdhS1hZX3ctRVZmbVUw?oc=5",
+     "t_id": "Penjelasan-Pemilu cepat di Spanyol — mengapa hal ini penting dan siapa yang mungkin menang?"
+    }
+   ],
+   "title_id": "Apakah pemilu sela di Spanyol dicurangi? Membongkar klaim viral - Benar atau Palsu"
   },
   {
    "id": "perang-202611252246-850c",
