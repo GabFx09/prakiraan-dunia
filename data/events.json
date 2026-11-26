@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T22:41:25Z",
+ "updatedAt": "2026-11-26T22:56:08Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -7,23 +7,17 @@
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Armed Conflict Hinders Efforts to Contain Deadly Ebola Outbreak in the Congo",
-   "src": "Truthout",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzN5NWh1M285QTZJaG4yZWQyTlF0QVZMVXRRQnctUGpOQnJ0X3k0NHctcWxpaTYtSnBKVUJqN1hINnJHTXQ0eVloOXk0SGpvRGpVYmM2R0twVGc2am1iMFdseGE0ODliOF9fR0xhcHhBVTBLRGZjSTRMMjBZWWRGc015RFlNVVVnaDg0dFJ0ZnBqb3lnNlRYRGhCaDVDV0x3aFlMRk1TS3lfRzA?oc=5",
-   "sources": 14,
-   "recent6h": 4,
-   "score": 16.0,
+   "title": "The Ebola outbreak in Congo has spread to 8 provinces! The death toll has approached 6,000",
+   "src": "Haberler.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3VmdmVqUnJ4VHhPTERlMV9kTENsM25qX0NTRWEzUFVacFBQWmZxcWRRUFMtRU0xUTRwOEtTVE9ETElHX2RIbDNKMVQwaENST0owT012a3VZUGtjTFNIMEFFX1BtMTFwZ2hwRWRDQmEyRzgteHh0cjBBWUNSUDRCVw?oc=5",
+   "sources": 10,
+   "recent6h": 3,
+   "score": 11.5,
    "level": "besar",
    "first": "2026-11-25T18:50:12Z",
-   "last": "2026-11-26T21:21:10Z",
+   "last": "2026-11-26T20:28:58Z",
    "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
-    {
-     "t": "The Ebola outbreak in Congo has spread to 8 provinces! The death toll has approached 6,000",
-     "src": "Haberler.com",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnNNLUVhVFFxWjgwU3BIVE03UTA1WlA0N2dHekgweXhxeVR2VVlBak1qYTFuU1A4Z0dFZ0l6OGU1ODRiU0NfWmp1YlFMUVVPdncwY2hRbTV5YllWeER0QjBibmowRjJrcTlCNXZYU285cy1MemNIX3VWUDZDWG9kZmNn?oc=5",
-     "t_id": "Wabah Ebola di Kongo telah menyebar ke 8 provinsi! Korban tewas telah mendekati 6.000 orang"
-    },
     {
      "t": "Congo's Ebola outbreak passes 12,000 confirmed cases and 5,904 deaths",
      "src": "MLQ.ai",
@@ -41,9 +35,15 @@
      "src": "Nature World News",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmxnRW1hWmJubmJpWHZWMnBtM3BhZ2FRcmtxV0JKblF2cnM5bXhrdnozWk55am9MeFJSaHQxby1YSnlXWFRtdk00bXFzbnE1ZVdqWmFkZE0za0V3QjhLVWpXcTUyNm1VN0tqWTNKdXZORUtFWndlZnRLT1loVnF6dHpscm40ZWdjRHJxcEtEUWxTV2NLblE1eXhiSG5ndUl4Y1R1NTFNOHR2LXpYT1ZHV3NXMmsxMHB1NjFCMFFUd21sVl9MOHNWRWpsTnQ2VHk0SHROeFdsdkpDV29Y?oc=5",
      "t_id": "Wabah Campak Vermont Meningkat menjadi 13 Kasus di Orleans County di antara Rumah Tangga yang Tidak Divaksinasi"
+    },
+    {
+     "t": "Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows",
+     "src": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55YVpacXFsenUydXgtVDJXN05hR2F2N29ZalVuSGpLa2FqUVdIdEdRaTdoMnFHWDBKSXBPMzNaaTZYSW9LbHRKRV9WWE9LZlBy?oc=5",
+     "t_id": "Kasus Ebola mencapai 12.000 di Kongo dan menjadi wabah terbesar kedua yang pernah tercatat"
     }
    ],
-   "title_id": "Konflik Bersenjata Menghambat Upaya Penanggulangan Wabah Ebola yang Mematikan di Kongo"
+   "title_id": "Wabah Ebola di Kongo telah menyebar ke 8 provinsi! Korban tewas telah mendekati 6.000 orang"
   },
   {
    "id": "perang-202611261354-3cea",
@@ -136,7 +136,7 @@
    "cat": "politik",
    "label": "Guncangan politik",
    "lang": "en",
-   "title": "Truth or Fake - Is Spain's snap election being rigged? Debunking viral claims",
+   "title": "Is Spain's snap election being rigged? Debunking viral claims - Truth or Fake",
    "src": "France 24",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE9ldVUwWF9ZRXI2VUdzNVRxMlpsRDFDWlJ4YTZWMmNXbGxkbjU1WVNUb002ZWFQUkdsR1c4NG16cVhpQ2dMejJzREtlWW5VZmw1NE1mZHZKbHhoVVk2M2ZUYnh2RDR1VVRienpVbWtBYjczNHVIeGFDcFBIYmhIMGdUcWRzSnFwMW9kaXlCcW9rLWxaaGJhREJUYTYwQ1ZkMHl3cEZqaTJrUVZ4TzBTNkZUY2k5aFdDbUJkcg?oc=5",
    "sources": 3,
@@ -160,7 +160,73 @@
      "t_id": "Penjelasan-Pemilu cepat di Spanyol — mengapa hal ini penting dan siapa yang mungkin menang?"
     }
    ],
-   "title_id": "Benar atau Palsu - Apakah pemilu cepat di Spanyol dicurangi? Membantah klaim viral"
+   "title_id": "Apakah pemilu sela di Spanyol dicurangi? Membongkar klaim viral - Benar atau Palsu"
+  },
+  {
+   "id": "indonesia-202611260000-f87f",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Puluhan Mahasiswa Demo di DPRD Tangsel, Sampaikan 24 Tuntutan kepada Pemkot",
+   "src": "Ekbisbanten",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3lKMnljeGtJaGN2QVZUbDhiNVVISnhxc3Z4bzJuNW9GaWYzSTFyNzB2RzVpTmVhRmIxQTJNVlRhM2FGRnUxLU1KTzJiTHJfS3NwQW9HS2N3aXZYOVZFWFpIZXBsdEpjdE9qUTJ3anB2cGVkQjlrT0hGS3p4U1hEM1Q5ekU0Y3pRd0VEbjVERkRXLWFyRThzU2JJQ08zYjJzVjl5WWNpeXN2Zw?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-26T00:00:00Z",
+   "last": "2026-11-26T10:51:12Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "HUT ke-18 Tangsel Diwarnai Demo Mahasiswa, Persoalan Sampah Jadi Sorotan",
+     "src": "radarbanten.co.id",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVR0Y3BtS2N0Z2hBcjF0dGdLdlJDUXhRYWZ0TlVTSXpVSktBWVd1dGV4VVlBV21JSHZiZURoeHlCc1ZfMWctT0h6Q01ibURfUmhrX1gxY0NFdC1RWWluekwtMDQzQ3Z4TWM4Z1lYdi1FWEo0RmJiTERuNzQtUUpHNU84SHN0TzY0MS0yTEFGeGZVa09RRlpiVmNnaTdOc19mMXYzb010LVFqRlE2NXpKN0tlUQ?oc=5"
+    },
+    {
+     "t": "Penuhi Tuntutan Demo, Foto Gibran Malah Pecah Diturunkan Mahasiswa di Ruang Paripurna DPRD Surabaya",
+     "src": "Tribunsumsel.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT0pDY0hGMGdodlV3eGctR1RqTTR1RlRmNjJnNXpHNktEVGw3WVlkWmJ3SXpHNG54QjdZck1Zakd3XzFSaG9wUUxkNV9ndmFMc2lLOHZXV3JoSXE1UklCeU1FSGNZdUMxbWtuMkZjQ1hmNm45MUhKdWdQeVVXcER2UGVSM016WGJkTDl4al9zUHU3cUZ2ZHFVc1Z6VHJnV18zSzRGYUtWZ1phdWktSlR0YlBsMUN4b0NzbFkxOWFSV1dlS2w4QXZvaEdjWGliQQ?oc=5"
+    },
+    {
+     "t": "Hari Guru Diwarnai Demo Mahasiswa, 7 Tuntutan BEM SI hingga Dugaan Represi Aparat",
+     "src": "Suara.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEdoaE9YR05pU01MWm9ldUQ4RWF6ZnRKNTdpUVpPNnVSa0tqZTQ0eml6b1dIMjM5Y0h0Y2hHMkF1RnZsMVBSdTB1QzhBajloYkNQckNHY3NoTHhBUVR6UkpPb3h4dW1WRzBuLW42amhuZnV6U1N5R204TloycF95NUdMLURnOWJrNGNVUURoajVSMVlaak51ZjAyVUJXRkVDcmlCY3VuYVJkU3N1aFNvVnNkZW1ZUUw4MGdPQnQ5aU83Q1daWHhDVDNCQ2Q?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611260543-baf4",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3k4MXNsUmtSbThRQklWTnFLWDhSNHBQbnl5a0g5QkNHd3JVS0I2THZBVnBYNjJVQ081bl9Yd2ZtcUJrSzQyeXBvNHQ4X290T20tdEFZTnU3TU9IVkVzcTdfa2xRNkFEc2FYNF95TzhZaUxVY1R6Z0hNSlFlemxFZ185UllYYm0yeG90S1VGUjZldHd4akI0alhPX3FHaktjTWw0MldnSWjSAasBQVVfeXFMTk9sRWtZVjhGbWRXbGJnQmU1TE4zSzhESU80WUJQRU8zQ3JOWkYyT05Dck9mS1hSM3d0MXo2aE9JRmRkM0l4Y3E3ekRuakZ3R2c3RlRYc1lwRTBuTEpOTi1SYmhZTU90UUJRWXNDd19LS3hNREFraXNaVE5xVzcwemZBWFBmX1FUSFB3NFV0Qzh6c25yQjhHSlI4MmE3bzlIeXlNR19oSmU3NkVB?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-26T05:43:11Z",
+   "last": "2026-11-26T09:28:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
+     "src": "Head Topics",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUQzdl9XN2ItTEVOdkJhZmhfa1drMndMUnpkNklBRWo1U0hTVFI0YmlzWGpta0NkMnVkcUNpa21VYmlFbXRJSmMzTnhaWU9DUU9uNlo3bHJKVVdvQl9RQ3VJbXNOV0xxTGFhVDJYWjAwaGc4ODJ1Tk1rbTRkT3JtUjZGMDJ5X1lFRlByWV9qVDJUeGpmdWtBZjFvNVY?oc=5"
+    },
+    {
+     "t": "Berita Terkini Harian Video Demo Tolak Gibran Mundur Terbaru Hari Ini",
+     "src": "Kompas.com",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdXU5NklfSmtEOEZ5YkFraVJzSUY1MWZIbzlDTUxZc3hlV0dIbW92NXdma3dwWno2WjNBWDMyOElxUjE3VlhTQTVvZzNXRGMxeDhXbjZoc1ZGNWE4X3NTeV9Hc2k4b2R2?oc=5"
+    },
+    {
+     "t": "Benarkah Ribuan Orang Demo Tolak Gibran Mundur dari Jabatan Wapres?",
+     "src": "Tribun Video",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJfTFRaa0lRMUVTRDcwcnRXbkJXak00Zk1BalhmSEpnUkJJR2NYMTM5UEh0VDhkN0tIYjFKQ001dGh0Z25HcDRhWkhfUHdrMlFXTUxwSDRWcGVySDYxNC13V3gtM1pwOTdGSkcxam9Sa2tQYnJ2eVA3WkdDYXl0dEhGb2lZODVxZHJYSnhCWlBreGw4d1hOSFhPS3ZhLUU2b3VXZTg1OGVTQlU?oc=5"
+    }
+   ]
   },
   {
    "id": "perang-202611252246-850c",
@@ -186,8 +252,8 @@
     },
     {
      "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+     "src": "EnergyNow",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczVGOHAzUENEVHpzT3BVcTlZdnFjSXZpSU91S3ZsQUZhSVI3LVYzUVlTV1V2WXQ3WUNNVzN6ZVpsRFJJMzJ2ZHY5Vm1MNTBDSXZrSS0yc0YzaFRoNWpOSEZfMUVCWmhHRTNrdi1mbDU3VFNlQkNBX2J3a09laDFWcmZZVzNYT2tmeU1wS1hnS2dZa2VfUFVrMWI3WE1TN1FnSThlZEJCV04zVWt2NEdWM1F0R29WMjRSZE5r?oc=5",
      "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
     }
    ],
@@ -248,34 +314,6 @@
    "title_id": "Rusia Melancarkan Serangan Rudal Balistik ke Kyiv, Menyerang Dua Bangunan"
   },
   {
-   "id": "indonesia-202611260543-baf4",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
-   "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3k4MXNsUmtSbThRQklWTnFLWDhSNHBQbnl5a0g5QkNHd3JVS0I2THZBVnBYNjJVQ081bl9Yd2ZtcUJrSzQyeXBvNHQ4X290T20tdEFZTnU3TU9IVkVzcTdfa2xRNkFEc2FYNF95TzhZaUxVY1R6Z0hNSlFlemxFZ185UllYYm0yeG90S1VGUjZldHd4akI0alhPX3FHaktjTWw0MldnSWjSAasBQVVfeXFMTk9sRWtZVjhGbWRXbGJnQmU1TE4zSzhESU80WUJQRU8zQ3JOWkYyT05Dck9mS1hSM3d0MXo2aE9JRmRkM0l4Y3E3ekRuakZ3R2c3RlRYc1lwRTBuTEpOTi1SYmhZTU90UUJRWXNDd19LS3hNREFraXNaVE5xVzcwemZBWFBmX1FUSFB3NFV0Qzh6c25yQjhHSlI4MmE3bzlIeXlNR19oSmU3NkVB?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-26T05:43:11Z",
-   "last": "2026-11-26T09:22:37Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Berita Terkini Harian Video Demo Tolak Gibran Mundur Terbaru Hari Ini",
-     "src": "Kompas.com",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdXU5NklfSmtEOEZ5YkFraVJzSUY1MWZIbzlDTUxZc3hlV0dIbW92NXdma3dwWno2WjNBWDMyOElxUjE3VlhTQTVvZzNXRGMxeDhXbjZoc1ZGNWE4X3NTeV9Hc2k4b2R2?oc=5"
-    },
-    {
-     "t": "Benarkah Ribuan Orang Demo Tolak Gibran Mundur dari Jabatan Wapres?",
-     "src": "Tribun Video",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJfTFRaa0lRMUVTRDcwcnRXbkJXak00Zk1BalhmSEpnUkJJR2NYMTM5UEh0VDhkN0tIYjFKQ001dGh0Z25HcDRhWkhfUHdrMlFXTUxwSDRWcGVySDYxNC13V3gtM1pwOTdGSkcxam9Sa2tQYnJ2eVA3WkdDYXl0dEhGb2lZODVxZHJYSnhCWlBreGw4d1hOSFhPS3ZhLUU2b3VXZTg1OGVTQlU?oc=5"
-    }
-   ]
-  },
-  {
    "id": "siber-202611260345-02f0",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -317,6 +355,12 @@
    "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
+     "t": "Thanksgiving storms, tech woes trigger thousands of U.S. flight delays",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdU4xN09YX2VNbU43NlFEZ1RzenIzeWZjWkpMVmlNWV82T1NqbUxfc2htbnRGOHBEdDZwMk5XQXJBcXJQLUJOQWNDazQ3bVczQUpkQ0hobVU0dVUtZllWSWtmSlBiTUNCT292ZUh0SVRDMFI5XzdGTzRQRUxGWGFqbWVBeXhqcXBMbzJRVDJxNEpNT3gwWnFGR3BieXJqZw?oc=5",
+     "t_id": "Badai Thanksgiving dan masalah teknologi memicu ribuan penundaan penerbangan di AS"
+    },
+    {
      "t": "Duffy: Thanksgiving flight delays largely weather-driven so far",
      "src": "www.thetraveler.org",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUJnOWN6cnAtYVduTFUwemRzbmtfcDZIc2JETWxUMXgwNnNPMHhCZFVPS2s3ZkVWb0s5eVROa1FGWHJHU1VwVWRVZ2pYT3BXanphV1lCV0RucElxNlhLaUhwYkhJblM0UjJmekViaWlNZWpxX0wwYXBMbkd3MDBXUWxZaDZiZGtuaFZYWnN5RnZfTWtKOWc?oc=5",
@@ -351,31 +395,6 @@
    "title_id": "Rusia dan Ukraina saling bertukar serangan drone dan rudal, menyebabkan korban tewas dan terluka"
   },
   {
-   "id": "transportasi-202611260610-23be",
-   "cat": "transportasi",
-   "label": "Gangguan penerbangan & transportasi",
-   "lang": "en",
-   "title": "Thanksgiving travel nightmare as monster storms disrupt thousands of US flights and FAA warns of ground stops",
-   "src": "Daily Mail",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHlrbVZUWjc2cGFQZHdPaXpUZFNfZ1hNQ2Y0ZURKLTlPZzlGckg0NUg5NFJYeE1KRmJBQzFzYUR4b0RtemJfQlhWWDFiUkVlMGQxMUp6eWtIckwtQk54clNKdU9wUFZRNDM4dXZ4TWQ3UEpOZXgyY3EyZXhxR2lfa29UZ3RpdGYycjlaMlpmYTFfc2lxQWZrbnRB?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-26T06:10:59Z",
-   "last": "2026-11-26T13:32:27Z",
-   "assets": "Saham maskapai & pariwisata, minyak",
-   "more": [
-    {
-     "t": "New FAA outage rule could slow Thanksgiving flights",
-     "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU1uQnNRZmZGbUkxUUdUNERuYzdWNm1HQWJTVHpYbC1KM3VRN01ybnV1dko4YU9ia0xtRHhXWnBPaFpVeHBRSWM2c1FHZF90c01PYnI1QXh4YjlraGhXMXp2eFZhWk4tSEZxQ2dCZjJTd0s2YVpENVh1Q0RTbmdUX1c3QnI4Tlk?oc=5",
-     "t_id": "Aturan pemadaman FAA yang baru dapat memperlambat penerbangan Thanksgiving"
-    }
-   ],
-   "title_id": "Mimpi buruk perjalanan Thanksgiving ketika badai besar mengganggu ribuan penerbangan AS dan FAA memperingatkan akan adanya pemberhentian darat"
-  },
-  {
    "id": "perang-202611260743-1e94",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -399,29 +418,6 @@
     }
    ],
    "title_id": "Gangguan penerbangan Dubai dan Timur Tengah: pembatalan penerbangan terus berlanjut karena Arab Saudi mencegat tembakan rudal dan drone"
-  },
-  {
-   "id": "indonesia-202611260409-ae30",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Besar-Besaran Buruh Karawang, Satlantas Polresta Karawang Kawal dari Berbagai Arah",
-   "src": "PELITA KARAWANG",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObHRON3plVzhBZjRfdW9WTEN4ZUJOemNEaURVTTRhZEtRTHo5dVI4VDJHRmFIY2JBUXlmeVhjM0tZWU9XQlp3WERpTFEwNWUtNk5DOEpBSWd2Vm1TX3Zma29TOUV2Z3c0RmthcTJ3TVhXM3VxcEVQUGROamt0N3ZabjhzYw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-26T04:09:52Z",
-   "last": "2026-11-26T12:10:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Ratusan Personel Siap Kawal Aksi Demo Buruh di Jakarta Pusat",
-     "src": "Tribratanews",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1RqNnNIaHZ5NXZyMXJhN2F5MXBzNHpFb0czYTBrMUQxQ1FacndvdnV3YnJIZ2ZiRERCZl95ejdDN2g5bzFJODhWWHlDQ3dBdzZQMHc2cWVGTUFzcGJYc3lnby1zLUN0cG51QnBGcmRTSXhsOUpnNy05dTZ4b1hqU3BWVXIxVW9SZmJUYnhRRnRlZkRQeFNjMldEYW1PY1hPQ1Vr?oc=5"
-    }
-   ]
   }
  ],
  "errors": []
