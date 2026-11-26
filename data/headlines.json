@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-26T23:26:53Z",
+ "updatedAt": "2026-11-26T23:41:31Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Hari Ini Prabowo Bicara di Pertemuan Penting BI, Ada Kabar dari China",
+   "src": "CNBC Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9tbGlnX0hzYXM0dWtPUnB0MHdqR1ViaV9ZeTg4ZUZfaDZCMU9GWlJyLXNIMTVOQjdEclc4TjlSTXJlT29ZRml5dXhZN1dsTEFSTGVKZmVNWURaR1lNdFBXVWROZkpmZmxBaWNpdWQ0bVAwNEx1TVVZRE16dWphOFNSeU9zb0hvTFRyUkpRRWhGSExpYmNoS3g4UUg3NG5ycHhlUTJZLWszMTkwaUNNUmtsVXh1RlpGdDJsMzAxbWtETjNoblVHNFBxLVpWUQ?oc=5",
+   "time": "2026-11-26T23:25:25Z"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -170,11 +178,11 @@
   {
    "topic": "kripto",
    "lang": "en",
-   "t": "Bitcoin Price Analysis: Can BTC Hold $60K as Apparent Demand Plunges to Record Lows?",
-   "src": "CryptoPotato",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUMtNzU0enRPOGNGVWdtV2JPY0pJa3JQSHFKLXJqMTVFRzgxbU11dGRfM3lzRFVJNl8zMFpjcjBuSF9MQnRKbXoxcnZsdGV5WDVzazVVMmNlQ21YVThHTUNFTXlsYkUzLVNtc255M1MyTVBMUnlQRTdGM3o0ZUJBc2VJN0VReEw5blRJTTVRUjk4bzNoa0tjN1NKdVY1SXF6VWtuSHRCODdrM0U?oc=5",
-   "time": "2026-11-26T16:28:00Z",
-   "t_id": "Analisis Harga Bitcoin: Bisakah BTC Menahan $60K Saat Permintaan Turun ke Rekor Terendah?"
+   "t": "Bitcoin (BTC) supply dormant for at least a year rises to 68.5%",
+   "src": "CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEYwdXdRc3ctQTZhdzRVamdhcU5YMlpLYWZueW5hMjI4SmFqSEFjSHYzV25xZk00TG1BUlJ2M08teHNPM0RhMUdVTjg3eU5tZVFhNnpBYmY4QlNXcS1YV3Nldmk0TjZmMTRYWTFISXVvNjdOOWNvcXNFVkJFZ1JXR1dBMU50WTE4T1VLcTVxOEFSU2JDakpjMGdpTDUxRms4REVsTFE5MjhDRHRIRXVsTUN6SjRVYXlEZ0QwcTQ0WUQwVW9HRXlRV0RDc0dTWHNP?oc=5",
+   "time": "2026-11-26T16:50:23Z",
+   "t_id": "Pasokan Bitcoin (BTC) yang tidak aktif selama setidaknya satu tahun meningkat menjadi 68.5%"
   },
   {
    "topic": "emas",
@@ -271,6 +279,15 @@
    "t_id": "Iran Klaim Dua Kapal Tanker Menabrak Ranjau di Selat Hormuz. Tapi Pedagang Minyak Lebih Khawatir Terhadap Terlalu Banyak Minyak Mentah."
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran's Revolutionary Guards say two oil tankers hit sea mines near Oman’s Khasab",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcHNnYmJXdWlaS3JfaTRfQUhza0lkR0lSNjhWNVJoY1Mxd3VSVVZyOHV0R0xZbHl2TS1FX2VROGg0bmg1dHFUbG9ZckxfT2lSaFotSmNFczlabFRHWjZZUEYycHA3S0tXN0p4cHFvbjUyam9IcDBwYkFBSTJfbFZwLTVickFLaFU0bTYxeHI3eHVGTmQyV3ozMTQzWm4tWGduQi00RHJoclptRnlsQjJqdTdMTU9yX2w0OXRmanYtUndOZmtaSy1JdmRuRzg?oc=5",
+   "time": "2026-11-26T12:06:18Z",
+   "t_id": "Pengawal Revolusi Iran mengatakan dua kapal tanker minyak menabrak ranjau laut di dekat Khasab Oman"
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "The Stock Market Is Still on Track for Its Best Thanksgiving Week Since 2008",
@@ -278,14 +295,6 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHJ6N2NBdi02cGhvbXQ5bUVWMElNNE81ek5jT3Jmdk5QX2l1d283UUdJZFpnTHZQVnZfMlBTZ1dVeXRMc2VTMHRidEphdzF1UHFJVzdyM3BlXzRteGNwY3dNZkpwVzlzMmdqQWc1ZDNBVjdFZThxNVFtVEQydU93VzBIYWptMlJseGduR3d6ZklFU1J1bVhENUl1YkF6ZG01Q280bDBWNjFubWYtRjB0ZmZsb1JvU005d0FfRQ?oc=5",
    "time": "2026-11-26T12:02:00Z",
    "t_id": "Pasar Saham Masih Berada di Jalur untuk Pekan Thanksgiving Terbaik Sejak 2008"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Buka Suara Soal Kemungkinan Kenaikan BI Rate Akhir Tahun",
-   "src": "Bloomberg Technoz",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblUxYmZTRnZ4NmxYUnQ2Z2RRdjZLWmRreUpsZmlCaFV1Zk0xcFBEdHRoTEpvQ1NfVVlaVURhY01JN3FkVldpTklzWjBzR3JFT3lnZkt5ZzFCU3FxR3FWTW1tX05SZXZUSkhQRGh2TkVlUTRZX3FDLUdFSlhORVhsTVZwZklkS29xOVNlRnlQd0hqLUdvbnJPc05sTmFzN3JOdGkzMjhONTUySkQxY3ZfZw?oc=5",
-   "time": "2026-11-26T11:50:00Z"
   },
   {
    "topic": "indonesia",
@@ -324,10 +333,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Rupiah melemah terhadap dolar AS, giliran IHSG naik 0,86%",
-   "src": "IDNFinancials",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHQ5SjlYU0J5UVNwT05WZ3dBZ00yM0dCa25MM05WZFBVMkFkamFMZlM3YmllSVFWSEdwb3dTX3ZfZjdFTGRxYzVtNFFMdElBUmgweHc0TDNEZVJ2TzM5NDF2Szg0WmItVzdWRWxBaUJ6LXlsY2JnRmt4Nm1tVlBjdDI3U0g3eEtKNkR6d1R2RWZ1S1prV0xsdFpHMlY1ZkRu?oc=5",
-   "time": "2026-11-26T10:40:00Z"
+   "t": "IHSG Menguat 0,86% ke Level 5.242 (Kamis, 26 November 2026)",
+   "src": "Databoks",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUN2V3VuYTZlc2hJZnFaNWlsbHRSRUhEUDhIZXo2Ykotb3phNENJaGdjTXlkWXYxZUt0dEE4U29wMHBUSXdlcUxES3BPNTlnazZwb3N3TFBwTTk2b1FPQ2JzSGdHRWV6YkNpS3YtS2NlNm42N0l6dDFIQzhlLVRLbjM1cFAwSnZaYTltdFFMenZvbzFQM1NERkhNSDJwa3N4ZjdjRk9FWGZwRklVNi1ITWxkV1ZXdw?oc=5",
+   "time": "2026-11-26T10:33:01Z"
   },
   {
    "topic": "indonesia",
@@ -355,6 +364,14 @@
    "time": "2026-11-26T09:38:00Z"
   },
   {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "Rupiah Melemah, OECD Waspadai Efek Rambatan ke Inflasi Indonesia",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FTElpVm96OGppUHRMRDlxRGtPc3RBd2ZsUy1SVjBReWk0NU96YXBUN2M1UkN1bWpXY0YtbHZDUkdkZUM1WTVZblE1RV9EUE1pRjdVci04cUVFTkNtcTN1TkR0N1VqTVE?oc=5",
+   "time": "2026-11-26T09:36:18Z"
+  },
+  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold price forecast: Consolidation expected between $3,512 support and $3,629 resistance",
@@ -362,14 +379,6 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTZWZUcxdzlMdGU0MGdrSndaMEVObW5uUG5kRmE2bkpKRllqTkpZQmFlX2F0aktaVWV1aTdGSkllYS03TlRhd25aemJyOE1IMjJudGNGUTNUM3p5cjlBWGswNTFwWUFWcTVhQWpNZHp5LTVxTHpDYnYyaDk0VGV2Zm92YVNsZjBVU1JDdnl6ZUIwc3M?oc=5",
    "time": "2026-11-26T09:07:24Z",
    "t_id": "Perkiraan harga emas: Konsolidasi diharapkan antara support $3,512 dan resistance $3,629"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "BI Ungkap Penyebab Nilai Tukar Rupiah Tembus Rp 18.300/US$",
-   "src": "CNBC Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWtVOXB3LWc4NDZGeEJJZ205M2dIanF2RF90bG5CMWZ5TGd5S2RpYkh5WG5RLXd1ZFg5VFM3SWlTWVVjQldpU21QWjh5TW1fdHhGNXkwTXBnZS1EaVNNa1RZV01URmxhWXlWWFh5Zmc2ZFZHMW5Iemc5aDU4bXFzbjh4Y0RsdHF2cThPUmdGazNvN3RBYlhfcGRDZ3BOc2V6TTdxUWJiQXh6V285TVZMWkZkUHZ1N3pVc25r0gHAAUFVX3lxTE94MnIxZTBHSVJsN25SZ3J6SUZ4MFJiMXVINEk3cEg0WVNYUkJ6UUF3T3Bzc1E1NlktSVVBelJwLWFEbDZsc2Nnd2U5MXBlX29fVjExLTRIeHpzQmk5eFJyeVpoZGhLSjFOcUlFQWFNSndDVHJiMEVENnVaWmpMZWR0WXppSU1TampIc09qcG5MYzF3cUNBWG4xMERncHB2LXQySWFUVnYwa08yOWVCMVFDTFVuQ3ROWG1WelU1bURIUw?oc=5",
-   "time": "2026-11-26T09:07:22Z"
   },
   {
    "topic": "kripto",
@@ -474,15 +483,6 @@
    "src": "Emitennews.com",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXp2aFRobTlJTzVWSC1ONWFVSDFzTV9IeXNhVUNwUEl1VktkOTY5cVhiNzlzSnlWQmhnMDNETkE0dm9RNWIyeXZSYjNYdGhuM0ZOTVhRa3B3Nklna0pCNEpSenBlS0tVQ0pmWmNFTi03NWtEVHZfZ0Q0TmoxSnota2V5bnczMG9jenJxa3prcUxjc2l0TlE?oc=5",
    "time": "2026-11-26T03:13:00Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Brent settles higher as mine strikes, refinery attack stoke Middle East supply concerns",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
-   "time": "2026-11-26T03:08:00Z",
-   "t_id": "Brent menetap lebih tinggi karena serangan tambang dan serangan kilang memicu kekhawatiran pasokan Timur Tengah"
   },
   {
    "topic": "saham-as",
