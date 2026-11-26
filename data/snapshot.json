@@ -1316,6 +1316,17 @@
       "ihsg": 5242.172,
       "usdidr": 18345.0,
       "ust10": 4.848
+    },
+    {
+      "t": "2026-11-26T13:05:00Z",
+      "risk": 75,
+      "btc": 60869.01,
+      "gold": 3597.0,
+      "brent": 91.26,
+      "spx": 7182.78,
+      "ihsg": 5242.172,
+      "usdidr": 18345.0,
+      "ust10": 4.848
     }
   ],
   "horizons": [
@@ -1762,6 +1773,30 @@
   },
   "news": [
     {
+      "t": "ETF Bitcoin spot menuju arus keluar bulanan terbesar sepanjang sejarah",
+      "src": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFBld3hBWS0tVGRiRjJxdS1tRkVPbTV1c0Rzb2VfUGpXRVVpZlFMdUxEYXhQTUotQnVMbzc5X3dHVUVnZ2N6UmR2RGhHWWRJRG84WkFtaUktZDNRNzJCaDhLZ1dOU1U4S29yS2NIUHgwcVdjYklMMF9rMThsSVFPYTJnVG1kdjBTMVY5X0VkZi1FOU1vQUY1dTQ1cVY2SUkwZFdianZrLTJOekVSQUE?oc=5",
+      "time": "2026-11-26T12:14:46Z",
+      "impact": "turun",
+      "assets": "Bitcoin"
+    },
+    {
+      "t": "Iran: dua tanker lagi terkena ranjau di Selat Hormuz; Reuters kutip Garda Revolusi soal dua tanker dekat Khasab",
+      "src": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQm9GSUZwazJFa0tpclBScmlTRDk3UWdfdmhzQlVjbzYycU1wV3ZWTlAzcGlyMjJkYWRuR3BYWElqOVJWQnctSksyZjgtYlBYNkpmT3hBVFQySTNucGttSGdrUFB5RDMxcG14aEpOMHlzczB5YWVtM2NWOUhJX3ZFT3U2U0tRYkV0Slpz?oc=5",
+      "time": "2026-11-26T11:18:39Z",
+      "impact": "naik",
+      "assets": "Brent, rupiah, emas"
+    },
+    {
+      "t": "BI buka suara soal kemungkinan kenaikan BI-Rate akhir tahun di tengah rupiah melemah",
+      "src": "Bloomberg Technoz",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblUxYmZTRnZ4NmxYUnQ2Z2RRdjZLWmRreUpsZmlCaFV1Zk0xcFBEdHRoTEpvQ1NfVVlaVURhY01JN3FkVldpTklzWjBzR3JFT3lnZkt5ZzFCU3FxR3FWTW1tX05SZXZUSkhQRGh2TkVlUTRZX3FDLUdFSlhORVhsTVZwZklkS29xOVNlRnlQd0hqLUdvbnJPc05sTmFzN3JOdGkzMjhONTUySkQxY3ZfZw?oc=5",
+      "time": "2026-11-26T11:50:00Z",
+      "impact": "turun",
+      "assets": "Rupiah, SBN, IHSG"
+    },
+    {
       "t": "BI buka suara soal rupiah tembus Rp18.400 per dolar AS, level terlemah sepanjang sejarah",
       "src": "Kompas.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tYYmRuUldhc1F0NGRSaF9UaEpiUEt1dko3Vk0wTExhakRORWIwcjl1WUc5NmMyT3FDMGZ1QlNIbkMteWhCWlIxWmpUWlhKR3ZYeFFTZFhOb1JEaV83d0VReWEwXy1aNzdoS1pmNkExMTBKRXB6b1BoMTN6VWJSWjNzN0tLdkh3ZS16RjAxUkIyblVTQ1otTzVCYUVqMDV5b2dqMF9TNkJaUQ?oc=5",
@@ -1832,30 +1867,6 @@
       "time": "2026-11-25T14:45:44Z",
       "impact": "naik",
       "assets": "Minyak Brent"
-    },
-    {
-      "t": "AS umumkan rencana tarif baru atas 14 mitra dagang, termasuk China dan UE; belum berlaku",
-      "src": "Briefs Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDNZT2JRNGdDSVowWG0xU2NkZHl5Sl92SXhra2Y3cjctVVdZUWxBYVBqWmRGZEZaRll5VHlXcGtTcUs0Y2F4U2JPWmFFME1ySUI3bjZKX29hLW9WczNYSUMyMEFMbE0xcWNBUFlfMHJseW4tNWxMa0lJRzFkQkZXSmtFR3Y5OXBtVDk2ZzNvWWNaZw?oc=5",
-      "time": "2026-11-25T14:19:24Z",
-      "impact": "turun",
-      "assets": "Saham global, Rupiah, IHSG"
-    },
-    {
-      "t": "Inflasi PCE AS Oktober naik ke 3,8%, inti lebih tinggi dari perkiraan; kenaikan Fed Desember hampir pasti",
-      "src": "The Hill",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zU1FaUXkzR3EycDZWWmhkQTJObGZVM05LRnk0dTVMVkI4VWdnOUZPOG05REdUaVYtcmlfWWpzeHp5WXpnMTloVEZiMUtrNTItWUhsblhrcHNOVEpfejJUbjNBbGNYMjZCb2tmYVR0ek9oZ9IBd0FVX3lxTE80US04UWpZdEVnYnJEYXVzcTd2YmVTUDlOeTN2ekhmaTBtbDFiU3RtbjZWc1ZDaWdPMVBOdVdNUTVieE02aFBpbWNXSjRCTVVOUHgxSUJzYnU1aC04cnlVOUhqSWxCVW1RMFlTSXNvUWo5cGZycG5J?oc=5",
-      "time": "2026-11-25T13:41:00Z",
-      "impact": "turun",
-      "assets": "Obligasi AS, Emas, Rupiah"
-    },
-    {
-      "t": "Rupiah ditutup di rekor terlemah Rp18.332 per dolar AS",
-      "src": "Ajaib",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3F5UHhObDZLVlA1WHVrRFVPZUJNQUFhRGVIWllCUkdWMWhPUjlPc2hkdmRWTERaZUl5SkcxQXlBUjFfYktfMDZyVkNTb1FDN0hndkpMaFBFdnlQeFg0eHVEOTAwa3NVcG9aYXg5ZnI1MzZQdVR0dWJYbzVaX18tQ3pOYjVleDFXSUhIMTlXdGhwaUhwX1JDU2tmeWhDUDZYR1RnaXdOVnhsUi1pVjBJcQ?oc=5",
-      "time": "2026-11-25T09:41:23Z",
-      "impact": "turun",
-      "assets": "Rupiah, IHSG, SBN"
     }
   ],
   "readings": [
@@ -1880,24 +1891,24 @@
     },
     {
       "c": "pos",
-      "d": "-4,86% hari ini",
+      "d": "-3,54% hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$90,01"
+      "v": "$91,26"
     },
     {
       "c": "neu",
-      "d": "+1,87% hari ini",
+      "d": "+1,73% hari ini",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.602"
+      "v": "$3.597"
     },
     {
       "c": "neu",
-      "d": "+0,85% hari ini",
+      "d": "+0,81% hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$60.888"
+      "v": "$60.869"
     },
     {
       "c": "neg",
@@ -1931,7 +1942,7 @@
   "regimeTitle": "Aksi jual saham AI mereda, tekanan bunga dan tarif tetap",
   "risk": 75,
   "riskNote": "Risiko bertahan tinggi: rupiah di rekor terlemah dan tekanan Fed/tarif belum reda, meski minyak turun dan saham AS pulih.",
-  "updatedAt": "2026-11-26T09:58:00Z",
+  "updatedAt": "2026-11-26T13:05:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -2258,9 +2269,9 @@
   "brief": {
     "date": "2026-11-26",
     "points": [
-      "Rupiah di rekor terlemah ~Rp18.345 per dolar AS; BI menyatakan siap menjaga stabilitas dan dana asing ke SRBI tercatat masuk setelah BI-Rate naik ke 6,00%.",
+      "Rupiah bertahan di sekitar rekor terlemah ~Rp18.345 per dolar AS; BI menyatakan terbuka menaikkan BI-Rate lagi akhir tahun jika perlu.",
       "IHSG ditutup menguat ke ~5.242 (+0,86%); S&P 500 ~7.183 setelah aksi jual saham AI mereda.",
-      "Brent turun ke ~$90,01 (-4,9%) meski Iran menyatakan tanker terkena ranjau di Hormuz; emas ~$3.602 dan Bitcoin ~$60.888.",
+      "Brent ~$91 (-3,5%) meski Iran menyatakan dua tanker lagi terkena ranjau di Hormuz; emas ~$3.597, Bitcoin ~$60.869 dan ETF Bitcoin menuju arus keluar bulanan terbesar.",
       "PCE 3,8% dan rencana tarif baru AS terhadap 14 mitra dagang menjaga peluang kenaikan bunga Fed Desember; UST 10 tahun ~4,85%.",
       "Pantau OPEC+ 29/11, demo buruh 30/11, MSCI 30/11, data tenaga kerja AS 4/12 dan rapat Fed 9–10 Des."
     ]
@@ -2357,8 +2368,8 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFZGRnlyUS1kZHlNY28tLXpFdGFiMGhPZTNCTGtkaDNaZ0t6YVdqU3VGeTA0YWVIdHp0STNadFg5Nmx0alp6SkRlTGFzV0NiZFo3STdpV1FxaTI3WnJvYjFQU05FOURkbVE4RVE5Sm1ZZVdLYkVYTFVVNXhMY0JOU3Bza0VkckxwdUFwVU1hUGNuSThTakxkSlpkWHFiQWdHM3hYYVpiNUVSN3lLMDB3?oc=5"
     },
     {
-      "t": "Tiga tanker minyak dilaporkan terkena ranjau laut di Selat Hormuz",
-      "what": "Militer Iran menyebut tanker ketiga terkena ranjau laut di Selat Hormuz dan satu terbakar; klaim belum dikonfirmasi penuh oleh pihak independen.",
+      "t": "Iran: tanker minyak kembali dilaporkan terkena ranjau laut di Selat Hormuz",
+      "what": "Garda Revolusi Iran menyatakan dua tanker lagi terkena ranjau laut dekat Khasab, Oman, menyusul klaim sebelumnya; klaim belum dikonfirmasi penuh pihak independen.",
       "impact": "Jika terkonfirmasi, risiko gangguan pasokan minyak naik dan bisa mengerek Brent serta menekan rupiah; harga minyak sejauh ini masih turun.",
       "assets": "Brent, Rupiah, emas",
       "sev": "tinggi",
