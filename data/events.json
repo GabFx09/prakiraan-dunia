@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T14:37:48Z",
+ "updatedAt": "2026-11-26T14:52:28Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,14 +10,20 @@
    "title": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
    "src": "ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3NZTFdoSVNxWWdjdmJZOXhZUVNOYVpPa3RaeEt3dm1pRWJPR1JOWGs2S0NYOEI4MWQwelIxZElqcVVPQ1A1UC14X0NnWmhaVEVYb2VkZ1BwSGVocHpEZ0ZCUjBpREtodXBQcmlYQXFnRTRremdnSHFCd09YWHNZajNSMWpPQ3FVNzlaN1JpNDluRDJyWTNqQWc4NFh5RWlxbEV1N0dB0gGrAUFVX3lxTE1NMzhhbVFkcTE5S3VBVFJLYXZKNGJYMzQ1OXZ6di00Y1ZQVHc2WVVkMWFBOG05cjMtTlFILUZTMDNhQ3pVY2RHT3lpaGhrTXNpSVV5a1Y3azNRQ1J5WjdlZ2liNEY4aGdYZkh3Q0xxcU9IVnY3S0dmUnR5V3VUbFF1LWc5M25wVHRUNVFvT1ZuVmlnY2JLd3J3TVNDYWc3dUpUd3dIdUhXZjQwNA?oc=5",
-   "sources": 6,
-   "recent6h": 4,
-   "score": 8.0,
+   "sources": 11,
+   "recent6h": 8,
+   "score": 15.0,
    "level": "besar",
    "first": "2026-11-25T16:17:38Z",
    "last": "2026-11-26T13:34:32Z",
    "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
+    {
+     "t": "Fast-moving Ebola outbreak reaches 12,000 cases as authorities struggle to contain the spread of the disease",
+     "src": "Irish Independent",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTh3N3NSSVJGZHFnWkJDSWh0YVlqbndmQnV3SVh0QnpEdG5aWktrZko5WmFxQ3FaRFFZT1NZMGkwRWxRdzRtZk9pTTVwZ01EY201S0RPUG5wQTFjM2FEd2I4VmwxY2hvdTg3UXBCdVZmTG9XeVY3TjhNMlZ2am1HLVlyeFMwY3k2dnU0RnBrS01ybkNfbnEwUHBHX3B4WUtMSGlqVElFSklOLTBfV2NNbEVJTGwwUkY0T0ptSjdVSkJEWTNiOUp4VkFyNy16ZGZaT3ZFTjdoNmFZbzNIMmJ4b0U1X2xrNlVlZDBIX01oOGRKRDAz?oc=5",
+     "t_id": "Wabah Ebola yang bergerak cepat mencapai 12.000 kasus ketika pihak berwenang berjuang untuk menahan penyebaran penyakit ini"
+    },
     {
      "t": "New funding for response to Bundibugyo Ebola outbreak",
      "src": "Science|Business",
@@ -25,25 +31,57 @@
      "t_id": "Pendanaan baru untuk respons terhadap wabah Ebola Bundibugyo"
     },
     {
+     "t": "It is the fastest-growing Ebola outbreak in history and nearly half the 12,021 people confirmed to have the virus have died, according to data from Congo’s Ministry of Health. It is also the deadliest of Congo’s 17 outbreaks and is on track to surpass the death toll",
+     "src": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWdwNlBqY19VYm5aNUJmMk1vUHRSbHhJeDRYeDA2M2htUDhGTU9rOGlrbGhkelJUV1hDbGo4eVMyY2pPdWpvNWlZSTZEaDV2TlJkRjFkTkhzWG9XVkp5Y3JOTjJEYXI0OFpVUlhPek5aZFVUY29EN1FsNVMxTkVGWkxnWTNOMlZxSG9RU1ZzNVVBaGUxa1MzMno4bmNQNVF5ZDZzYmRBVEZXZTZEWVQwWWtrVmJpX3l6ZzgtQ19GYW1CZlJDMmJ3SVExbzBKLUlQZm5SU3NXVXNxTEdkWWc?oc=5",
+     "t_id": "Ini adalah wabah Ebola yang tumbuh paling cepat dalam sejarah dan hampir separuh dari 12.021 orang yang dipastikan mengidap virus tersebut telah meninggal, menurut data dari Kementerian Kesehatan Kongo. Wabah ini juga merupakan yang paling mematikan dari 17 wabah yang terjadi di Kongo dan diperkirakan akan melampaui angka kematian"
+    },
+    {
      "t": "Bundibugyo Virus Disease Remains a Global Health Emergency",
      "src": "EMJ",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjM5YnM5OUVJeFN3MHNWRTNzTVVXajA0MzVsTmNrNG9ROFJjUVNIUEV3RUxaM0xHWjBXQmNqV1FSWUFvMVNBNW4xbGVtTkZtdmtFTUZNTnFraENMTjBQWWtCN2lSdkktMUlxLUM5eDU0YkdENld5NmVtRXJYR3lsSi1BbWNyRTFTZU1NM1l1VVN4aGs3UWJhQzBOenpweUVONTRpVmZwaDVnVy1NYWdDdWRtaVJEb0VaWUpSSWlRWkFTZw?oc=5",
      "t_id": "Penyakit Virus Bundibugyo Masih Menjadi Darurat Kesehatan Global"
-    },
-    {
-     "t": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
-     "src": "The Hill",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSDZ3c09wYVdrX0JBOUl1cnV3czRDN3FuN2FkdGVHb2VZeVRYdXp3akY5eGhuWGdYQkJFRzhlSmdiQW9hMS10b3NSNWV6ZTRLLVpvUnlPcVc5SUI1ZkljdFZFQkZZNEl0QVZfQ2U5M3BVWXo0SjBGMkU1bkxtcWtwZ2pvYms1ZkdHbGUzUG50bUx6dWp3SWFnMkVMZ2FIM0VrZ2wzRUZac09nN1ZwRzZVZ3NxNlY0T3c0LVFQOGxoN3V6WnBuekRlckl6bnQyZFd3UXBaSFZETEstYlRlU1k4dW5lTlFrODNZb1U00gHrAUFVX3lxTE5INndzT3BhV2tfQkE5SXVydXdzNEM3cW43YWR0ZUdvZVl5VFh1endqRjl4aG5YZ1hCQkVHOGVKZ2JBb2ExLXRvc1I1ZXplNEstWm9SeU9xVzlJQjVmSWN0VkVCRlk0SXRBVl9DZTkzcFVZejRKMEYyRTVuTG1xa3Bnam9iazVmR0dsZTNQbnRtTHp1andJYWcyRUxnYUgzRWtnbDNFRlpzT2c3VnBHNlVnc3E2VjRPdzQtUVA4bGg3dXpacG56RGVySXpudDJkV3dRcFpIVkRMSy1iVGVTWTh1bmVOUWs4M1lvVTQ?oc=5",
-     "t_id": "Wabah Ebola di Kongo mencapai 12.000 kasus ketika kekerasan memaksa beberapa petugas untuk mengungsi"
-    },
-    {
-     "t": "Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response",
-     "src": "WKMG",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSHZBR3RPT0hacnpiSU1ac3BQX2hReEh3XzRPUTRQeXRpM3hZaEhPbmtNYjF1TFV4MVMwSjltWlpFY0VnU09BM005WElwaDU2MWhqd29WOXVjOTJuM2hnb2VNdmVOWHloVjdEVk9wNFhZZE9SbFcwUVMyUGNCcS1mUzU0TjJJd3NHYmxLejdPcWlsVVByLXpHdDdyeEJrUDQ4Q1FZV0RPTnFVaFo3dVNkY1V6RVFiVkFPRXJhQzdxY2NTZGNQYW4wOFBVcy1JYXBxNEh2TVp2aw?oc=5",
-     "t_id": "Pertempuran di Kongo timur memaksa pekerja Ebola untuk mengungsi, sehingga mengancam respons terhadap wabah tersebut"
     }
    ],
    "title_id": "Wabah Ebola di Kongo mencapai 12.000 kasus ketika kekerasan memaksa beberapa petugas untuk mengungsi"
+  },
+  {
+   "id": "indonesia-202611260240-f87f",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Puluhan Mahasiswa Demo di DPRD Tangsel, Sampaikan 24 Tuntutan kepada Pemkot",
+   "src": "Ekbisbanten",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3lKMnljeGtJaGN2QVZUbDhiNVVISnhxc3Z4bzJuNW9GaWYzSTFyNzB2RzVpTmVhRmIxQTJNVlRhM2FGRnUxLU1KTzJiTHJfS3NwQW9HS2N3aXZYOVZFWFpIZXBsdEpjdE9qUTJ3anB2cGVkQjlrT0hGS3p4U1hEM1Q5ekU0Y3pRd0VEbjVERkRXLWFyRThzU2JJQ08zYjJzVjl5WWNpeXN2Zw?oc=5",
+   "sources": 9,
+   "recent6h": 1,
+   "score": 9.5,
+   "level": "besar",
+   "first": "2026-11-25T15:12:00Z",
+   "last": "2026-11-26T10:32:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Semprotan APAR ke Arah Massa BEM SI saat Demo Hari Guru Nasional, 4 Mahasiswa Disebut Terluka - Kilat",
+     "src": "Kilat",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeHVlTEVWMDl2VkVGNkhDSDg0Ti1zOHFBV0pYdE5UWnJraVUteUJIZnNLNG9URzJOSk16RnpXYzRGak5VZU9tbWZlaUtOd2Z5blUyc2tIb3NZeHBoMHRxOGc1Z2NpVFdYREZvYWo5S0JWMUpUUGMwanI0cmMya0JQSlJkMGhWelVTQmkzRWh3a0J0STBsVG5wMUdLNXhGZVAtUHVPTmtpU2wzRm1XOC1Jd2xhQkZ2amxvWDU0WmlwU3hib0RQbHN4YVVKdTR4NDTSAdQBQVVfeXFMT0t1Z1loa2hfeDVxTEh2emRLTkRHZ2tlZWlrLUh6dU92M2k0TUo0c3pKSzFQQmExRjA2QldQOFd2bzNNYzdHRVYtb1BSejd3ODdYbV9zbUIxMzZibjF5ejEtS25KNW9Rdk5INjJpeXZFUW8zU2dEUTZlQUhOWnRIemtfVjFaQ3R6UDRzNmFBQklIRlUtYVlzV0RGZjVjLXQ3VENfOVphUU5UQUs3R1ZmaF93cVl3SzVZOWVsNWlvWk9MaG9ic0pYNzhnVXlQeHkzX09mSmY?oc=5"
+    },
+    {
+     "t": "Demo Hari Guru Nasional di Monas Ricuh, Massa Kena Semprotan APAR dari Atas Barikade Polisi - Kilat",
+     "src": "Kilat",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0JHc2VnVnF2c1lhMkxUM0ktTHdCbFpzSnZ0cElqejlYdU52UGRaMzhpMmF4dzRmbWxpZDd4bEZnTFdNeVMyRll4ZjRkc0RneXlWQmtrVVY2Q041UW9lUGd3U0RIdWZNRmJmb1FITThtcHZ0NTZrZTF1cTNRZU9QZWd3WFItNE5UMEZvTUp0RXZJemlmbHREZ0xwVXJ6cENvR0FtN3pCTEJVcnJaRTVmaWFQQmwzbEVoZFlKcENpcjY3WkVUVUZxaHY3NEZhQdIB0wFBVV95cUxPTDlOTXgwVU1QQjd0TmxTclRlYlM1M0Q5bFJNOHBsbWxNX2hNdXFndy1GQkFIUVEyOE5YODhmZlZfTGY5VGk0bWNyVGR5NWgyQzdTM2xUSW1wNzNmbHlCbmJVTVg4MzVhMEZwRTRBd1Ftdm4xTktrLXF3MHVUWTQyaGMtbnV2blppdTZ2YUJyaWNPdjRrQXl1ZGQ0blJONzlkb0ZscmZoVHBjZnpXQlR1UWFMSHdxYW9ydFktZEdUNGRkdWtnVmRKYl90N0N4Y2FPYjJz?oc=5"
+    },
+    {
+     "t": "HUT ke-18 Tangsel Diwarnai Demo Mahasiswa, Persoalan Sampah Jadi Sorotan",
+     "src": "radarbanten.co.id",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVR0Y3BtS2N0Z2hBcjF0dGdLdlJDUXhRYWZ0TlVTSXpVSktBWVd1dGV4VVlBV21JSHZiZURoeHlCc1ZfMWctT0h6Q01ibURfUmhrX1gxY0NFdC1RWWluekwtMDQzQ3Z4TWM4Z1lYdi1FWEo0RmJiTERuNzQtUUpHNU84SHN0TzY0MS0yTEFGeGZVa09RRlpiVmNnaTdOc19mMXYzb010LVFqRlE2NXpKN0tlUQ?oc=5"
+    },
+    {
+     "t": "Penuhi Tuntutan Demo, Foto Gibran Malah Pecah Diturunkan Mahasiswa di Ruang Paripurna DPRD Surabaya",
+     "src": "Tribunsumsel.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT0pDY0hGMGdodlV3eGctR1RqTTR1RlRmNjJnNXpHNktEVGw3WVlkWmJ3SXpHNG54QjdZck1Zakd3XzFSaG9wUUxkNV9ndmFMc2lLOHZXV3JoSXE1UklCeU1FSGNZdUMxbWtuMkZjQ1hmNm45MUhKdWdQeVVXcER2UGVSM016WGJkTDl4al9zUHU3cUZ2ZHFVc1Z6VHJnV18zSzRGYUtWZ1phdWktSlR0YlBsMUN4b0NzbFkxOWFSV1dlS2w4QXZvaEdjWGliQQ?oc=5"
+    }
+   ]
   },
   {
    "id": "politik-202611250803-76ea",
@@ -53,14 +91,20 @@
    "title": "Spain Heads to Sunday Snap Election With Tight, Polarized Race",
    "src": "teleSUR English",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0NvUlczV0hDVEI3RU9UTTloXzhCVnFEY05BRzBhOFM0VWwtdVdBVEc3QnZCaEtmWHNjZWpXVzBaS0VxUjNZSy1nbmNmMXVYS3JnVEVUZnlZQzliQjBHblBJX1dhb2h6MEk2dFZqVzlBRzRwVlJCdDFEZWFobDh3V2REM0Fna3p3TWVDbmxXUUZNTk1YM0kzTw?oc=5",
-   "sources": 4,
-   "recent6h": 2,
-   "score": 5.0,
-   "level": "sedang",
+   "sources": 6,
+   "recent6h": 3,
+   "score": 7.5,
+   "level": "besar",
    "first": "2026-11-25T08:03:00Z",
    "last": "2026-11-26T10:36:38Z",
    "assets": "Mata uang & obligasi negara terkait",
    "more": [
+    {
+     "t": "Polls show the anti-Nigel Farage campaign is wearing thin - brace for a snap election",
+     "src": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91SVVya2hEMk9GTkRmZGUzTjdpZmhFaVUzTTFMRFlDUGFlamt2bUhCN0NycGZwU194UHV1TnN4S2tQZGJweFl4cXdSeHBPOGREVWtoamtxZVl4T3JZSHVYMV80b0w2SUxTeHQ3cGFCLUpzVnJPeGFxM1hpWm1WUFk?oc=5",
+     "t_id": "Jajak pendapat menunjukkan kampanye anti-Nigel Farage semakin menipis - bersiap untuk pemilu cepat"
+    },
     {
      "t": "Spain heads to snap election as housing crisis tests Sánchez",
      "src": "Harici",
@@ -81,6 +125,39 @@
     }
    ],
    "title_id": "Spanyol Menuju Pemilihan Umum Minggu Dengan Perlombaan Yang Ketat dan Terpolarisasi"
+  },
+  {
+   "id": "indonesia-202611260543-baf4",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
+   "src": "ANTARA News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3k4MXNsUmtSbThRQklWTnFLWDhSNHBQbnl5a0g5QkNHd3JVS0I2THZBVnBYNjJVQ081bl9Yd2ZtcUJrSzQyeXBvNHQ4X290T20tdEFZTnU3TU9IVkVzcTdfa2xRNkFEc2FYNF95TzhZaUxVY1R6Z0hNSlFlemxFZ185UllYYm0yeG90S1VGUjZldHd4akI0alhPX3FHaktjTWw0MldnSWjSAasBQVVfeXFMTk9sRWtZVjhGbWRXbGJnQmU1TE4zSzhESU80WUJQRU8zQ3JOWkYyT05Dck9mS1hSM3d0MXo2aE9JRmRkM0l4Y3E3ekRuakZ3R2c3RlRYc1lwRTBuTEpOTi1SYmhZTU90UUJRWXNDd19LS3hNREFraXNaVE5xVzcwemZBWFBmX1FUSFB3NFV0Qzh6c25yQjhHSlI4MmE3bzlIeXlNR19oSmU3NkVB?oc=5",
+   "sources": 4,
+   "recent6h": 2,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-26T05:43:11Z",
+   "last": "2026-11-26T09:28:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
+     "src": "Head Topics",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUQzdl9XN2ItTEVOdkJhZmhfa1drMndMUnpkNklBRWo1U0hTVFI0YmlzWGpta0NkMnVkcUNpa21VYmlFbXRJSmMzTnhaWU9DUU9uNlo3bHJKVVdvQl9RQ3VJbXNOV0xxTGFhVDJYWjAwaGc4ODJ1Tk1rbTRkT3JtUjZGMDJ5X1lFRlByWV9qVDJUeGpmdWtBZjFvNVY?oc=5"
+    },
+    {
+     "t": "Berita Terkini Harian Video Demo Tolak Gibran Mundur Terbaru Hari Ini",
+     "src": "Kompas.com",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdXU5NklfSmtEOEZ5YkFraVJzSUY1MWZIbzlDTUxZc3hlV0dIbW92NXdma3dwWno2WjNBWDMyOElxUjE3VlhTQTVvZzNXRGMxeDhXbjZoc1ZGNWE4X3NTeV9Hc2k4b2R2?oc=5"
+    },
+    {
+     "t": "Benarkah Ribuan Orang Demo Tolak Gibran Mundur dari Jabatan Wapres?",
+     "src": "Tribun Video",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJfTFRaa0lRMUVTRDcwcnRXbkJXak00Zk1BalhmSEpnUkJJR2NYMTM5UEh0VDhkN0tIYjFKQ001dGh0Z25HcDRhWkhfUHdrMlFXTUxwSDRWcGVySDYxNC13V3gtM1pwOTdGSkcxam9Sa2tQYnJ2eVA3WkdDYXl0dEhGb2lZODVxZHJYSnhCWlBreGw4d1hOSFhPS3ZhLUU2b3VXZTg1OGVTQlU?oc=5"
+    }
+   ]
   },
   {
    "id": "perang-202611252059-4bfa",
@@ -157,65 +234,6 @@
    "title_id": "Microsoft Mendeklarasikan Status Kode Merah Setelah Pemadaman Global, Menargetkan Pemulihan Layanan Satu Jam"
   },
   {
-   "id": "indonesia-202611260543-baf4",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
-   "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3k4MXNsUmtSbThRQklWTnFLWDhSNHBQbnl5a0g5QkNHd3JVS0I2THZBVnBYNjJVQ081bl9Yd2ZtcUJrSzQyeXBvNHQ4X290T20tdEFZTnU3TU9IVkVzcTdfa2xRNkFEc2FYNF95TzhZaUxVY1R6Z0hNSlFlemxFZ185UllYYm0yeG90S1VGUjZldHd4akI0alhPX3FHaktjTWw0MldnSWjSAasBQVVfeXFMTk9sRWtZVjhGbWRXbGJnQmU1TE4zSzhESU80WUJQRU8zQ3JOWkYyT05Dck9mS1hSM3d0MXo2aE9JRmRkM0l4Y3E3ekRuakZ3R2c3RlRYc1lwRTBuTEpOTi1SYmhZTU90UUJRWXNDd19LS3hNREFraXNaVE5xVzcwemZBWFBmX1FUSFB3NFV0Qzh6c25yQjhHSlI4MmE3bzlIeXlNR19oSmU3NkVB?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-26T05:43:11Z",
-   "last": "2026-11-26T09:22:37Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Berita Terkini Harian Video Demo Tolak Gibran Mundur Terbaru Hari Ini",
-     "src": "Kompas.com",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdXU5NklfSmtEOEZ5YkFraVJzSUY1MWZIbzlDTUxZc3hlV0dIbW92NXdma3dwWno2WjNBWDMyOElxUjE3VlhTQTVvZzNXRGMxeDhXbjZoc1ZGNWE4X3NTeV9Hc2k4b2R2?oc=5"
-    },
-    {
-     "t": "Benarkah Ribuan Orang Demo Tolak Gibran Mundur dari Jabatan Wapres?",
-     "src": "Tribun Video",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJfTFRaa0lRMUVTRDcwcnRXbkJXak00Zk1BalhmSEpnUkJJR2NYMTM5UEh0VDhkN0tIYjFKQ001dGh0Z25HcDRhWkhfUHdrMlFXTUxwSDRWcGVySDYxNC13V3gtM1pwOTdGSkcxam9Sa2tQYnJ2eVA3WkdDYXl0dEhGb2lZODVxZHJYSnhCWlBreGw4d1hOSFhPS3ZhLUU2b3VXZTg1OGVTQlU?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "politik-202611250803-76ea",
-   "cat": "politik",
-   "label": "Guncangan politik",
-   "lang": "en",
-   "title": "Spain's snap election: Five key questions for financial markets",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFZGRnlyUS1kZHlNY28tLXpFdGFiMGhPZTNCTGtkaDNaZ0t6YVdqU3VGeTA0YWVIdHp0STNadFg5Nmx0alp6SkRlTGFzV0NiZFo3STdpV1FxaTI3WnJvYjFQU05FOURkbVE4RVE5Sm1ZZVdLYkVYTFVVNXhMY0JOU3Bza0VkckxwdUFwVU1hUGNuSThTakxkSlpkWHFiQWdHM3hYYVpiNUVSN3lLMDB3?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-25T08:03:00Z",
-   "last": "2026-11-26T05:07:10Z",
-   "assets": "Mata uang & obligasi negara terkait",
-   "more": [
-    {
-     "t": "Spain's Snap Election: 5 Financial Market Questions Answered",
-     "src": "Global Banking & Finance Review",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObEV3T3kwc19jamVSdGg2ZU1WUGZvWlAxaDZIazlUS0FSR3dKZDE3a2hDSXh4UG9LMkw5SG5DX28xMm5CSmlFT1pzRGxSZTY3b1BENk1YMVRFSmtSemdqRmhOUFNXbDJvaWhIaHZRQi1ORjJYTU1xYjBfd2NsSlRjbm84bUJoM1lLdHpybUFuWmxERS05bThOYS04bXBsSk0?oc=5",
-     "t_id": "Pemilu Cepat Spanyol: 5 Pertanyaan Pasar Keuangan Terjawab"
-    },
-    {
-     "t": "GRAPHIC-Spain's snap election: Five key questions for financial markets",
-     "src": "Devdiscourse",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMjZzZWx0ZG5JRFgxUmxxaDc3VU9EVTZ4NndQV2RnSk80bm1leFpQSEVvZnB3b1FxTTFSdldFSTNyMU1aYS1YNkxBMHBvZkZnb3NuOWFQbUY1R0hoYTNyMXVZV2pfVW8wTWdnc1ZUcExpR05LdjdNRXRZTFNvcEE0M1g5bHRaLXBKY3NvQTNsdU1HUHdNanNqRjBMbUk4NkdPSmNiWnBWVnRMdUlRNTNHZ3IzR1QxaEl1cTNRQWo3NTBPa1JaT3NSZVNQSS3SAcwBQVVfeXFMTjI2c2VsdGRuSURYMVJscWg3N1VPRFU2eDZ3UFdkZ0pPNG5tZXhaUEhFb2Zwd29RcU0xUnZXRUkzcjFNWmEtWDZMQTBwb2ZGZ29zbjlhUG1GNUdIaGEzcjF1WVdqX1VvME1nZ3NWVHBMaUdOS3Y3TUV0WUxTb3BBNDNYOWx0Wi1wSmNzb0EzbHVNR1B3TWpzakYwTG1JODZHT0pjYlpwVlZ0THVJUTUzR2dyM0dUMWhJdXEzUUFqNzUwT2tSWk9zUmVTUEkt?oc=5",
-     "t_id": "GRAFIS-Pemilu cepat Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
-    }
-   ],
-   "title_id": "Pemilu sela di Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
-  },
-  {
    "id": "perang-202611251544-013a",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -241,29 +259,6 @@
    "title_id": "Setidaknya tiga orang tewas dalam serangan rudal dan drone Rusia di Ukraina"
   },
   {
-   "id": "indonesia-202611260240-f87f",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Puluhan Mahasiswa Demo di DPRD Tangsel, Sampaikan 24 Tuntutan kepada Pemkot",
-   "src": "Ekbisbanten",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3lKMnljeGtJaGN2QVZUbDhiNVVISnhxc3Z4bzJuNW9GaWYzSTFyNzB2RzVpTmVhRmIxQTJNVlRhM2FGRnUxLU1KTzJiTHJfS3NwQW9HS2N3aXZYOVZFWFpIZXBsdEpjdE9qUTJ3anB2cGVkQjlrT0hGS3p4U1hEM1Q5ekU0Y3pRd0VEbjVERkRXLWFyRThzU2JJQ08zYjJzVjl5WWNpeXN2Zw?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-25T15:12:00Z",
-   "last": "2026-11-26T10:32:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Penuhi Tuntutan Demo, Foto Gibran Malah Pecah Diturunkan Mahasiswa di Ruang Paripurna DPRD Surabaya",
-     "src": "Tribunsumsel.com",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT0pDY0hGMGdodlV3eGctR1RqTTR1RlRmNjJnNXpHNktEVGw3WVlkWmJ3SXpHNG54QjdZck1Zakd3XzFSaG9wUUxkNV9ndmFMc2lLOHZXV3JoSXE1UklCeU1FSGNZdUMxbWtuMkZjQ1hmNm45MUhKdWdQeVVXcER2UGVSM016WGJkTDl4al9zUHU3cUZ2ZHFVc1Z6VHJnV18zSzRGYUtWZ1phdWktSlR0YlBsMUN4b0NzbFkxOWFSV1dlS2w4QXZvaEdjWGliQQ?oc=5"
-    }
-   ]
-  },
-  {
    "id": "transportasi-202611260532-2316",
    "cat": "transportasi",
    "label": "Gangguan penerbangan & transportasi",
@@ -284,34 +279,40 @@
      "src": "www.thetraveler.org",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUJnOWN6cnAtYVduTFUwemRzbmtfcDZIc2JETWxUMXgwNnNPMHhCZFVPS2s3ZkVWb0s5eVROa1FGWHJHU1VwVWRVZ2pYT3BXanphV1lCV0RucElxNlhLaUhwYkhJblM0UjJmekViaWlNZWpxX0wwYXBMbkd3MDBXUWxZaDZiZGtuaFZYWnN5RnZfTWtKOWc?oc=5",
      "t_id": "Duffy: Sejauh ini penundaan penerbangan Thanksgiving sebagian besar disebabkan oleh cuaca"
+    },
+    {
+     "t": "Thanksgiving 2026: Best Apps to Spot Flight Delays Before You Depart",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGhkVGFIeW16QkRGRGZGR3h5QXBaR2ZQMDREaWFOcUtkYVhaLUs1ODVXVEN0OUEwb1pkZXMtWElUOF9OZEVEUXc5SHhPYUtvRmxZaC0tdjZNSHNOSGVEODhqUmM3RU5obVY5a2g4N0syR193dEY3TjJBS2xfUjNNelBwWGtqWkREZlowSHozaWw4WWZsa2ZrSjloTlI?oc=5",
+     "t_id": "Thanksgiving 2026: Aplikasi Terbaik untuk Mengetahui Keterlambatan Penerbangan Sebelum Anda Berangkat"
     }
    ],
    "title_id": "O'Hare Menghadapi Penundaan Penerbangan Berturut-turut Saat Puncak Keramaian Thanksgiving"
   },
   {
-   "id": "kerusuhan-202611260429-4d6b",
-   "cat": "kerusuhan",
-   "label": "Kerusuhan & protes besar",
+   "id": "politik-202611250803-76ea",
+   "cat": "politik",
+   "label": "Guncangan politik",
    "lang": "en",
-   "title": "New York Governor Kathy Hochul declares state of emergency after Thanksgiving storm delays Macy's parade; Mayor Mamdani issues safety tips | Hindustan Times",
-   "src": "Hindustan Times",
-   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPaFcwZE91WXhBQlk0R3dOT0FfemhHdkczWHhyWnlXWFNoc0taYU0zYmN0SFRKc1NnbnR5eVRodHZTUkRfZUlaRUJfeTN3UEdNTngyS2R0LVB1dTBtNnMxNGVkNFFvTE5ScFlMbjlUZU9TUXU1cGw5YjBRQ21kX1hSVFRFcGhnelBXVkF3YUl2OWtTUWhvcDVHVEVnRHBKaHc0QzJUZTI3V3BpZHZHNFBmcXdwRnFiT0swZjZtU01HSGxlUndfXzh1VE0tTVdKR1FpdjRFNGFrX05vRkwxUUpWMVcwWVYtRXlqc3N6aXpHQXVPNlNHTlhiaUh5N3RlUTZMSl90QVRGOGpaVlZpaDJKV1ZMdF9GNGY1LTRXZ2g2VU9UUHB5RUctRDlhZDlUZnpIUWRMMGp5Qms0aVJFdHBnamZ30gHHAkFVX3lxTE8talhDUEJucFFWT2VkV050STlkZmpUQ1R3Y3AtRkplOG5GTXJsa3MwS3Q1N2RGRlVDRVNveUlrdVVYbU9JWHlpTXFUYzZ3R2JmYjdMY2lSdG1FREpack5RdHVKTVJtNzdaMXhyclJwNjB3cEg3U3BWaUo2am5EQS0weVRZV0o2MVRqUFlEcFVMUy1EOFJvX3Q4YUZ3OVVFdEYwdTF5SkEtWXdoS0hYUGtJR2FidW1UNThWU1ZjQ1pJUFFsYW4tMVIyU1JSa2JrQUl0emNkcEwzTWtUOTVHQ2F4eEM4eFY5RzJhSDZwZlpyOWtuamxWOFAzV2dqdFptUUJNb1NabVlYa1U4RFlGOGZFZ1JZVjVVMENUYlluQjhMYmhWeVJkNVdscldSSklpLXJRWm1KdmdOMGNYWHVmUXRuT0J3RzJPaw?oc=5",
+   "title": "Spain's snap election: Five key questions for financial markets",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFZGRnlyUS1kZHlNY28tLXpFdGFiMGhPZTNCTGtkaDNaZ0t6YVdqU3VGeTA0YWVIdHp0STNadFg5Nmx0alp6SkRlTGFzV0NiZFo3STdpV1FxaTI3WnJvYjFQU05FOURkbVE4RVE5Sm1ZZVdLYkVYTFVVNXhMY0JOU3Bza0VkckxwdUFwVU1hUGNuSThTakxkSlpkWHFiQWdHM3hYYVpiNUVSN3lLMDB3?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-26T04:29:35Z",
-   "last": "2026-11-26T04:33:09Z",
-   "assets": "Mata uang lokal, saham negara terkait, emas",
+   "first": "2026-11-25T08:03:00Z",
+   "last": "2026-11-26T05:04:00Z",
+   "assets": "Mata uang & obligasi negara terkait",
    "more": [
     {
-     "t": "US capital declares state of emergency over COVID-19",
-     "src": "Yeni Safak English",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXA5bkc2NEFKR1YyXzN4LW1HTkNfUUVTUWRYa2k3STN5aVNXNkd0WGJSWkd6dEJfUFZMdTUtUjZsYXR4WEs3SkxsVWFqNmZ1bTUtbTN4NzY0NThxNWl6ajI5T1VNdGc2ZUVVdG1VcE93Wl9GZDFNWlhxblNYekZ3Y2tVbVhQX0tWYVhTODRJQks5MDdxYmc?oc=5",
-     "t_id": "Ibu kota AS mengumumkan keadaan darurat atas COVID-19"
+     "t": "GRAPHIC-Spain's snap election: Five key questions for financial markets",
+     "src": "Devdiscourse",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMjZzZWx0ZG5JRFgxUmxxaDc3VU9EVTZ4NndQV2RnSk80bm1leFpQSEVvZnB3b1FxTTFSdldFSTNyMU1aYS1YNkxBMHBvZkZnb3NuOWFQbUY1R0hoYTNyMXVZV2pfVW8wTWdnc1ZUcExpR05LdjdNRXRZTFNvcEE0M1g5bHRaLXBKY3NvQTNsdU1HUHdNanNqRjBMbUk4NkdPSmNiWnBWVnRMdUlRNTNHZ3IzR1QxaEl1cTNRQWo3NTBPa1JaT3NSZVNQSS3SAcwBQVVfeXFMTjI2c2VsdGRuSURYMVJscWg3N1VPRFU2eDZ3UFdkZ0pPNG5tZXhaUEhFb2Zwd29RcU0xUnZXRUkzcjFNWmEtWDZMQTBwb2ZGZ29zbjlhUG1GNUdIaGEzcjF1WVdqX1VvME1nZ3NWVHBMaUdOS3Y3TUV0WUxTb3BBNDNYOWx0Wi1wSmNzb0EzbHVNR1B3TWpzakYwTG1JODZHT0pjYlpwVlZ0THVJUTUzR2dyM0dUMWhJdXEzUUFqNzUwT2tSWk9zUmVTUEkt?oc=5",
+     "t_id": "GRAFIS-Pemilu cepat Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
     }
    ],
-   "title_id": "Gubernur New York Kathy Hochul mengumumkan keadaan darurat setelah badai Thanksgiving menunda parade Macy; Walikota Mamdani mengeluarkan tips keselamatan | Waktu Hindustan"
+   "title_id": "Pemilu sela di Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
   },
   {
    "id": "indonesia-202611251526-d857",
@@ -335,6 +336,31 @@
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjhlR1dFaVJSdTFiUU1OUWdFakMzaWd1MTZWVmZMV0poN3dPZmNnYU85QnkyQ0ZrSW1oOEJmdGZJSlMtMENtVG9xSllWMDhhMmxONUptWVBsU1RGeEM5NHU0VzRGSl9nS2xwNnNyYVhMM2hUMG83S3J4RVhPTkd5LWZYZGxzalFJYm9rMWxJY2VVLVRoejU3aW9mRWZNOVBnTERGdUdYanc4OHZhc05sLU1BdTBsN0hIdEhkcDV0TnV1dW1BNDY4RkhGWlQ0NG8?oc=5"
     }
    ]
+  },
+  {
+   "id": "kesehatan-202611252034-5753",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Rabbit Disease Outbreak Detected in Northern Alberta",
+   "src": "Wisevoter",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUFEdEQ4Ukw3R3VXcjNDSTlHNW1xRmFzeWNHUmY1ZFVFbHMzb0pKX0VJeTYyczhIcFF2T1NDOWhGVUJKcW15VlFCYUpnUDc1dUZQM0Z4bml0eDRxSGxsV0VYd2tHYzZjLWV5bDlTcHNmdmpDTkd3ZTFHNGN6TmpTUUdnQkhnVkZ1cUVfZlJkQUxXbGRWbm1fTkRuMXBmVXc?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-25T20:34:30Z",
+   "last": "2026-11-25T23:32:13Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Outbreak of rabbit-killing virus detected in northern Alberta",
+     "src": "CTV News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2EybVlBVHN5ZDZtNDJVclhtNDhqNmFjZVA5c21rNUo5VDJuQzZ1NE9GUFpmS0VGa3l0cllfYmlyem1HY1M1T2NCNThZdWRvT3laU3NDRjhqS25HbFVFWEtIaDRJeVNKU0VCelFjdXZyb29PMl9reXo1aGxTV3NvRXVhSGRCWHM3VWYtNmFvSVFkN3dITHAxdnROUHExd21RekF4Mw?oc=5",
+     "t_id": "Wabah virus pembunuh kelinci terdeteksi di Alberta utara"
+    }
+   ],
+   "title_id": "Wabah Penyakit Kelinci Terdeteksi di Alberta Utara"
   },
   {
    "id": "perang-202611251906-92da",
@@ -368,27 +394,29 @@
    "title_id": "Koalisi pimpinan Saudi mencegat 2 rudal balistik Houthi yang diluncurkan ke Riyadh"
   },
   {
-   "id": "indonesia-202611251522-e6c4",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "VIDEO: Demo Mahasiswa di Kantor Bupati Madina, Dua Satpol PP Luka Bakar dan Lemparan Batu",
-   "src": "Start News",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmtucDIzeVlqNG13bkJaNElXakVoc2hXX3ljS2pQMXVDYTE1OUxMN3dvdmRWVHhGXzVkT0tnTDd4bDFUOFdNeG9RLW5HYlhsMXUya3JwZ3dRWDZ5R3VSZWtnbzdpb1JGU3ZrR2kyYXFpMERqM0NZbmFRSC1PWW1RblI3VXVFX0dLeTF5bVJVdjNpU3BUUVRKREN3dkphblc2U2k2SFRvcnFNWkxIYjlyN05B?oc=5",
+   "id": "transportasi-202611251645-f32e",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "FAA Radar Outage Triggers Second Chicago O’Hare Stop in Two Days",
+   "src": "https://travelhost.com/",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYlJtaEpsT1F0ZTlSbWo5ZUNmUkQzRjRLYUxYeHBWTkJsWjlEdU5sQUNPT1NtYkxMU3JXdGRNN2F1MUtOVWFSNXVNeDFJSkpCT2xQaWQzU0lYQWtIbGlGNnBkcE1KaDY1UGxLaUhXbzlOdmZXb1BZUU5kMUh0QzZzN2pJV3JWR3oxQ0o4Ynl2UFBlUjR0emV5LXl2cVl5UklSdzJV?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
    "level": "kecil",
-   "first": "2026-11-25T15:22:21Z",
-   "last": "2026-11-25T16:00:50Z",
-   "assets": "IHSG, rupiah, SBN",
+   "first": "2026-11-25T16:45:43Z",
+   "last": "2026-11-25T21:37:00Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
    "more": [
     {
-     "t": "Demo Mahasiswa STAIN Madina Ricuh, Dua Satpol PP Dilarikan ke Rumah Sakit",
-     "src": "MohgaNews",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczU4R1ItLWtSTGZCZEJiMTM0ZFVaZ29rTVVwaVlKRmpsMUJhU1hnamRJV2EzTmZkMEhId2pqSnJ6dDZfb2REZWt6NXhKNHJabjk2LVZtM1VJaHZ2SE5Hd0wtQS1QX0psbnlKR19nMEhGUkFLRmVMdGNyVENQaDJ0RnBhQXdycDhpR2wyblRQRENqcnRQWXloV0FHLW9YZw?oc=5"
+     "t": "O'Hare Equipment Outage Triggers Ground Stop on Nov. 24; Refunds Available, but U.S. Law Sets No Fixed Delay Compensation",
+     "src": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVTgwQ1piYm1fZ3IwZVMzRVB6OWJreGZ5VWpPSW5BNk1CUndQLXU5X1NNSEZpTjZkc1FQZzZfZ0hKN2I0dV9Ob19FTVdocmo2T281dGQ4dlZnc2lXdmZEWHVQNjU3OU80N1I0WWlqN2d1SHc?oc=5",
+     "t_id": "Pemadaman Peralatan O'Hare Memicu Ground Stop pada 24 November; Pengembalian Dana Tersedia, tetapi Hukum AS Tidak Menetapkan Kompensasi Penundaan Tetap"
     }
-   ]
+   ],
+   "title_id": "Pemadaman Radar FAA Memicu Pemberhentian Kedua di Chicago O'Hare dalam Dua Hari"
   }
  ],
  "errors": []
