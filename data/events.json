@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T03:44:23Z",
+ "updatedAt": "2026-11-26T03:58:32Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -129,10 +129,10 @@
    "title": "Saudi-led coalition intercepts 2 Houthi ballistic missiles launched toward Riyadh",
    "src": "Anadolu Ajansı",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3U4ZTVSSG5aVzZIZ3N1T2JLcmlCU0R2WFRXWm83cDlxd1VENkJEREtNUFNMYS1lQ09vQ1FHeGx1YXF2eDROYVhEUEd2eXh0WkJtZW4xNzd4ZEN6c0lNOGZTdGFGWUdZSEtua0Uxb3dNc051bHc0UkFZQ1NpcnVMUTJfM3ItZm1ZY1k1ek1fM0lmbXRENnNkMDNkZTBnRVVyMU1LWkJMWElQdFlxZlFMRWlWenZJRGozYjdvQUlKckZTekxp?oc=5",
-   "sources": 6,
+   "sources": 5,
    "recent6h": 1,
-   "score": 6.5,
-   "level": "besar",
+   "score": 5.5,
+   "level": "sedang",
    "first": "2026-11-25T02:32:49Z",
    "last": "2026-11-25T22:04:13Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
@@ -142,12 +142,6 @@
      "src": "Anadolu Ajansı",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY295Z0RRZXRLOHRFdVdTbzZUa2RweXRLVHBXLUJPV1NMcmRNSVhyQ2c1WDJWNmU5bzFjRzdCcE1NcEgwcFJrMmFPR1QtbHBlNklWUmQyQ3VidDF6aDctNHAycEZpUzFWR0RxMGNpd0NfZnRaN3Z4VlE2ZjNTSFNhNmtoR2JIRUdLTVZDTmc0dEoxM08tNDZKMmh0TlJvMzYzR2I5T2tnUEtENFE2dkZZenNIa3RPSHZGS1JfTFZBSzhRZVlEa0E?oc=5",
      "t_id": "Koalisi pimpinan Saudi mencegat rudal jelajah Houthi, drone di Arab Saudi bagian barat"
-    },
-    {
-     "t": "Yemen’s Houthis claim large-scale missile, drone attack on Saudi airport, oil facilities",
-     "src": "DD News",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakU3dVVNbk8yZkJUTW9tMnVfUHgwZmRIMnBpendqVlVBaDhtWkFCN0EzS0lyWlpBTk9IeVNsMW9RZUEwbTNmLXJwVGpfRkIyeTNsbXdzS1JrTW5kdkZOOG1OWkpGcjJwd1FDTXdTZEw4aU9SRWRqZEg0YXdVSHp5VVhKWUQ3dl9yZzJlMUZDQlNRc0Zpa0tXVWh2UXpPSUlLcmlqS2hfZXhjYUVuM015Zw?oc=5",
-     "t_id": "Houthi Yaman mengklaim serangan rudal skala besar, pesawat tak berawak di bandara Saudi, fasilitas minyak"
     },
     {
      "t": "A global travel agency: Missile and drone attacks confuse travel movement to Saudi Arabia and international warnings against visiting it",
@@ -160,6 +154,12 @@
      "src": "Condé Nast Traveller Middle East",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR3ctTFpGLTM5b1MwS0dhU19yV2dzXzhHUGhKZnU4R3pxNzVISWlkR0VHZUFYVWZ1TExWTnBzZU0zVkpKTUF6dktwc1pRMUlVSklPdXRJVmhyaGF2UUJlMVE4bDVkc0VGSDJVa0ltcS1zeTJyQVAtSkRReTlpRE80dHlkaHpyZXpaV3IxbkphMGtGQ2RXaU1CbTJjcUNLR2c5SU91Y1I4LTloSFBFbGV3TjdrdDNLN085OTlIazRKWTN2Z241dkNxVlkwcW5WMGpuRnRnUDVTc0lPdTAzUGc?oc=5",
      "t_id": "Apakah aman melakukan perjalanan ke Arab Saudi? Saran terbaru, ketika kerajaan mengkonfirmasi serangan pesawat tak berawak lainnya di Riyadh"
+    },
+    {
+     "t": "Yemen’s Houthis claim large-scale missile, drone attack on Saudi airport, oil facilities",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakU3dVVNbk8yZkJUTW9tMnVfUHgwZmRIMnBpendqVlVBaDhtWkFCN0EzS0lyWlpBTk9IeVNsMW9RZUEwbTNmLXJwVGpfRkIyeTNsbXdzS1JrTW5kdkZOOG1OWkpGcjJwd1FDTXdTZEw4aU9SRWRqZEg0YXdVSHp5VVhKWUQ3dl9yZzJlMUZDQlNRc0Zpa0tXVWh2UXpPSUlLcmlqS2hfZXhjYUVuM015Zw?oc=5",
+     "t_id": "Houthi Yaman mengklaim serangan rudal skala besar, pesawat tak berawak di bandara Saudi, fasilitas minyak"
     }
    ],
    "title_id": "Koalisi pimpinan Saudi mencegat 2 rudal balistik Houthi yang diluncurkan ke Riyadh"
@@ -263,10 +263,16 @@
      "t_id": "Pemadaman teknologi Delta dan pemberhentian FAA mengganggu perjalanan Thanksgiving di AS"
     },
     {
-     "t": "Radar outage triggers second O’Hare ground stop in two days",
+     "t": "Delta outage and FAA ground stop disrupt US Thanksgiving travel",
      "src": "https://www.thetraveler.org/",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3I2OFIyWjVCYnRWM2NZRDM3V05Ma29HX1lZeERTRXl1bDRpR2lwdGFZOG9faWwwUjRhbTk4QW5rRkIyTl9GMnJwT2VVZGVQSXctMm9QbjV1ME5uWGtlUzNkWG1tUkRWQTEtU2xDUUxBczYyYlNEdU1BaGRTUjE2emt5RTFlN1dRaHdkR0RuaU0?oc=5",
-     "t_id": "Pemadaman radar memicu pemberhentian kedua O’Hare dalam dua hari"
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmpXZlJnVW55VGp3Y0t4d1FGUWoyQTk2YmZxMUxtT0REOGFXVzhnMFNjbnNSYUh1ejNxelpjTUZZdkdrWFBhNC12TVJoQkFCWE5WYlZzOW9yT3VuQ190Rzkwb1BLZkdjRzBtOGd4cGhNeU5MQTU5d0xuQmJOcFdpbl9CdmFVX0RFUkpzZGd6V0RYenB6Q2ZN?oc=5",
+     "t_id": "Pemadaman Delta dan ground stop FAA mengganggu perjalanan Thanksgiving di AS"
+    },
+    {
+     "t": "O’Hare ground stop lifted as Thanksgiving storm threat builds",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3ZfeUE1RllzWV84YWZ1Z2xRT3BVSlNGSHMyeUhSb21tMEM2andYamJGb0syV2tFZTFJYjB2anhxMUVQSlBPWklLUzQyT0daUFRIVFJJeEwzREs3SHRhZ2Y0Z2JMdTREMTQ5bEtDdWpid19BVEllcGY4YXpEald4RldEVlc1TzBUUGZES013WUxEU3M?oc=5",
+     "t_id": "Ground stop O’Hare dicabut seiring meningkatnya ancaman badai Thanksgiving"
     }
    ],
    "title_id": "Pemadaman Peralatan O'Hare Memicu Ground Stop pada 24 November; Pengembalian Dana Tersedia, tetapi Hukum AS Tidak Menetapkan Kompensasi Penundaan Tetap"
@@ -295,31 +301,6 @@
     }
    ],
    "title_id": "Pemadaman Digital dan Kelangsungan Bisnis"
-  },
-  {
-   "id": "energi-202611251005-ec40",
-   "cat": "energi",
-   "label": "Gangguan energi & pasokan",
-   "lang": "en",
-   "title": "Oil prices rise after Houthis claim attack on Saudi refinery",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDVWb29kX0t0eEprd3VCQWtJTVU4ZmRDWmZ4bW84dGgwbnlLNzFlanZqdW40NVl6ajhFZjQ4VHJIZzlXVWtFSTZqRUxVX0J4bkdjUGppSDhpVjRYQ0ZEQ2ZSd2hnUnZZOXN5ejdVWmZKWTNYZHZHRjE2T2NJeHNwTWdvQ0tKNUlEeU1IYQ?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T10:05:21Z",
-   "last": "2026-11-25T20:23:17Z",
-   "assets": "Minyak, gas, rupiah, inflasi",
-   "more": [
-    {
-     "t": "Oil rises after alleged Houthi attack on Saudi refinery",
-     "src": "The Globe and Mail",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUJ6aTBrclVhOWlqcWZHNHpyRVEtU2VnOXBIWm03Q1p1SkdBZER4Zk5yT1Y5QzlvWXMyNFJfbV9qOUExenVPZ3NXWVMzSzcyWkdnaU4xRGt4SGNfQVBtUTNUS0FxaTFkdVlNbWJUenNUSFoyOWkyRi1KaVBLU0U1bTVsYjd4bEVGRkx5NUpZMjhkczdrQ1pYSEttdWFwSmZKVEFhckxlT0VOUGZRejZaVncxM2dwU2tO?oc=5",
-     "t_id": "Minyak naik setelah dugaan serangan Houthi terhadap kilang Saudi"
-    }
-   ],
-   "title_id": "Harga minyak naik setelah Houthi mengklaim serangan terhadap kilang Saudi"
   },
   {
    "id": "perang-202611250618-f0d2",
@@ -414,34 +395,6 @@
      "t": "Protes Tambang Ancam Badak Jawa, Warga Pandeglang Ancam Demo 4 Desember di Jakarta",
      "src": "Suara.com",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa1JITGNPeG1QNzV2SGlpOVRnbE9CN2l6QzRIT0tGUjNaaWdQUkpEbkJWV0FNelhyT1p2RGw3ZTIxRnN1R0I3cnhHVmE3TFN2MG1zSllyTjlPV0pWb2xoMlotME1HRUkybTI5eXZLQTctRzk5TTBmM1drUjNfT3dfZ3ZRY3F4WmZtREJudEM2Wmg3NFVwbGVnX0hLbG1XcFR1cGVfa1lRbjgyaGVodk9sYWRqeFplaVl1U1otQmVUbjdRYjVnZmhrTXR2SFRna3Ex0gHEAUFVX3lxTE03eFhOY0dEdWpOMkRfbExoMm4wSGFfWHJLdlpKbHB1QzhlTGVfYmVnaDh4NzJtQ0tXVDRVaGFOdFhZUlg0VGRkcHV0cjdKckZ5dVlBMHhnMzNkeDdVN3JkYVNUVktZZ2ZPUHA5d2I1ZnpsNU1GUVIzZTVVNHNUSFdTYnoyYUhQV2o5MjItVUNEdTVDRUZhZEJxV2ZoT3ROZGwxVVVHSXBmcFFqUmlsOG5QWWJNaG82VmhRamczR2pxdVBxOWU?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611250354-0f33",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Tersangkut Kasus Kematian Kades Sukoharjo, DPC Demokrat Pati: Mukit Sudah Pasrah",
-   "src": "murianews.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU0RRaGlCX3QzQlQtUkZuTkZvcEJQdXVRV3ZLbjZFV2tELUZiY2JSWFplSEhxeTB5RHZray1FZU0zeS1sZXVHV2NBSlpUZEdubEV1YjZWUjBySVFlOGpZQ3lmVzV1RXRkS0s1VFJ6ZDJjaUJMa3RqWWxCZXFmR1FaMHRwUU5JeWcydUFmNnh4djA0aGVSUVNha0VaYUhMeG56Z28wVXFzZnFxVzJaTGE1bjBqQVg3U3lieDRqbnZicUtaeGRN?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-25T03:54:00Z",
-   "last": "2026-11-25T08:06:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Usai Demo di Polresta, Massa Desa Sukoharjo Geruduk Demokrat Pati",
-     "src": "murianews.com",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZk1EMm50TkFGN0laRFRsSlk0REUtLXc1Q0t4aVF1SERhU3c3UnJveHlWcUR6UER6OEhQR25MWFFuT3FRczlkaTZocW93LWV6QU9wRG5JLVNTZkkyX0xlS2hrcDNKakRrWC1ES0lBVnhuOXJDVF9UMjZ2ekF5VFZuQklPdGZwRmdKSlVtdmNLTFZzVm9ubzQ0YThXd0pvRDBfLUdmakpPSGVMLWdCZ2VVTzl3?oc=5"
-    },
-    {
-     "t": "Pati Hari Ini: Ratusan Warga Sukoharjo Gelar Demo di Depan Kantor Polresta Pati",
-     "src": "Mitrapost",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGpBNXhHQUw4MEtFUUJyZTJRTE1PY1ljSXZtcGlSSUp5YnJET0ZKZVlDZ0FSVnhCQm1zMEFRTE9hbEJvazJsOU5PMl9fNm9hV0FJM1NlX0FCVzRJaVllTVVpYlR0VF96VG5EV3o0UGdxcHFsdmt6eGxrMFJOODEzeU1WLWI0NGVpcVA1Nm50X1p0YTBBQURBck9ob0lGWDhmVzhWbDcwZlVONi0zcFhiakRR?oc=5"
     }
    ]
   }
