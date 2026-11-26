@@ -1,50 +1,7 @@
 {
- "updatedAt": "2026-11-26T01:03:10Z",
+ "updatedAt": "2026-11-26T01:17:45Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
-  {
-   "id": "perang-202611242133-2926",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Saudi-led coalition intercepts Houthi cruise missile, drone in western Saudi Arabia",
-   "src": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY295Z0RRZXRLOHRFdVdTbzZUa2RweXRLVHBXLUJPV1NMcmRNSVhyQ2c1WDJWNmU5bzFjRzdCcE1NcEgwcFJrMmFPR1QtbHBlNklWUmQyQ3VidDF6aDctNHAycEZpUzFWR0RxMGNpd0NfZnRaN3Z4VlE2ZjNTSFNhNmtoR2JIRUdLTVZDTmc0dEoxM08tNDZKMmh0TlJvMzYzR2I5T2tnUEtENFE2dkZZenNIa3RPSHZGS1JfTFZBSzhRZVlEa0E?oc=5",
-   "sources": 8,
-   "recent6h": 1,
-   "score": 8.5,
-   "level": "besar",
-   "first": "2026-11-24T21:33:15Z",
-   "last": "2026-11-25T20:51:44Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "A global travel agency: Missile and drone attacks confuse travel movement to Saudi Arabia and international warnings against visiting it",
-     "src": "الخبر اليمني",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iRjdUX3dHT3FxS2VMX2dRSHFkTzJhZWRpMklPZGQ5djJmdzFYb1RmSlMxOHM2eE9pa0hkSnBaOFl2MllFV1BOZ0dPREhhN2ZfdVcwazEzcURHdGM?oc=5",
-     "t_id": "Agen perjalanan global: Serangan rudal dan drone membingungkan pergerakan perjalanan ke Arab Saudi dan peringatan internasional terhadap kunjungan ke Arab Saudi"
-    },
-    {
-     "t": "Is it safe to travel to Saudi Arabia? The latest advice, as the kingdom confirms another drone attack on Riyadh",
-     "src": "Condé Nast Traveller Middle East",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR3ctTFpGLTM5b1MwS0dhU19yV2dzXzhHUGhKZnU4R3pxNzVISWlkR0VHZUFYVWZ1TExWTnBzZU0zVkpKTUF6dktwc1pRMUlVSklPdXRJVmhyaGF2UUJlMVE4bDVkc0VGSDJVa0ltcS1zeTJyQVAtSkRReTlpRE80dHlkaHpyZXpaV3IxbkphMGtGQ2RXaU1CbTJjcUNLR2c5SU91Y1I4LTloSFBFbGV3TjdrdDNLN085OTlIazRKWTN2Z241dkNxVlkwcW5WMGpuRnRnUDVTc0lPdTAzUGc?oc=5",
-     "t_id": "Apakah aman melakukan perjalanan ke Arab Saudi? Saran terbaru, ketika kerajaan mengkonfirmasi serangan pesawat tak berawak lainnya di Riyadh"
-    },
-    {
-     "t": "Saudi Arabia launches airstrikes against Houthis in Yemen as UK steps up military support",
-     "src": "The Jerusalem Post",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YcW5GaENDdjhVUkwxRVZ3ZWVkeVpOR3UxVl9PN25IamdtaURlbHlZZGFCNVpncEFaS0NndV9jM19JUmpKMERqOE1QcXR0bVBfTWdXNjZXX1BnQ3A0?oc=5",
-     "t_id": "Arab Saudi melancarkan serangan udara terhadap Houthi di Yaman ketika Inggris meningkatkan dukungan militer"
-    },
-    {
-     "t": "Yemen’s Houthis claim large-scale missile, drone attack on Saudi airport, oil facilities",
-     "src": "DD News",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakU3dVVNbk8yZkJUTW9tMnVfUHgwZmRIMnBpendqVlVBaDhtWkFCN0EzS0lyWlpBTk9IeVNsMW9RZUEwbTNmLXJwVGpfRkIyeTNsbXdzS1JrTW5kdkZOOG1OWkpGcjJwd1FDTXdTZEw4aU9SRWRqZEg0YXdVSHp5VVhKWUQ3dl9yZzJlMUZDQlNRc0Zpa0tXVWh2UXpPSUlLcmlqS2hfZXhjYUVuM015Zw?oc=5",
-     "t_id": "Houthi Yaman mengklaim serangan rudal skala besar, pesawat tak berawak di bandara Saudi, fasilitas minyak"
-    }
-   ],
-   "title_id": "Koalisi pimpinan Saudi mencegat rudal jelajah Houthi, drone di Arab Saudi bagian barat"
-  },
   {
    "id": "siber-202611242354-6459",
    "cat": "siber",
@@ -53,9 +10,9 @@
    "title": "Microsoft declares ‘Code Red’ following 24-hour outage: Here’s what that means - National",
    "src": "Global News",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxZDhHUmFZMTU1LTBXSzNnaW1JYW4tSDFqQUVVVzhZWk9ib0xWaU5LZGhlX0tSbHh2b2FVV2o0cmRwUFk2VkMzNWRINHdfbzE0ckRfaEhpS1FvSjRCdVdoM0pRdVUzZw?oc=5",
-   "sources": 7,
+   "sources": 8,
    "recent6h": 0,
-   "score": 7.0,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-24T23:54:49Z",
    "last": "2026-11-25T17:51:35Z",
@@ -74,19 +31,62 @@
      "t_id": "Microsoft mendeklarasikan 'Kode Merah' setelah penghentian layanan bersejarah"
     },
     {
-     "t": "Microsoft invokes 'Code Red' after global Outlook and Microsoft 365 outage",
-     "src": "TweakTown",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13bHhYZGlPTVcxdWN0NlV6Y1M5SUh6QU1VYTVYN2tMNl9sMWRaQjNpbm5nZDllVEo5OUFEZEFkQUEwNmRWMnlINXNiX2NGX05sTHpkVUttSG9pdUJIRTlpNnpXcllEVFRsX012cVJqNjBLMXlpalVlWU9pcHY4LTNjZ3dEQnpYMEp0MlFlNUZlUVdxczMyMS1TckVxQ3FuOEd6cXEwdjU5elRVbXhDZjhPYVNNMzNQbWNvMzhB?oc=5",
-     "t_id": "Microsoft memanggil 'Kode Merah' setelah pemadaman global Outlook dan Microsoft 365"
+     "t": "Microsoft 365 and US air traffic outages expose travel insurance gaps",
+     "src": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakpXUnNLQVVnckxaaXFzYWhNaFlqUi1iX0wtcW5uYXhZN0lhZVJWRlB3SlVFUzNmYWIyaGd6SGtEVWdRSnRrY2JNOEd6WUdFUC1ROEMxTFprQW8zV2EwcEI5Y3QyNXkzcXcyTEVpTXNGMVJwWVJwLXpHRjJTOGpxQkRqSzV0X2JMLWVQdHRrRURZdDBOS2Q0RW11amdmRkE?oc=5",
+     "t_id": "Pemadaman lalu lintas udara Microsoft 365 dan AS mengungkap kesenjangan asuransi perjalanan"
     },
     {
-     "t": "Outlook, FAA, bank outage, oh my!",
-     "src": "Grand Forks Herald",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83TFY5Y2xsZHdrSjJyS0xfMVY3RHpRU0pOdlYzQ3hHQ1B3SkJyeVZtdkhFWW9UeTRJWVBweHZCQlFNLTdobjZfbWF2aXAtSGNWSWFPMElNck4tRVVNdmJlTTNxS3Q1UDRHeHZ1dkZlcjM3LURjLXc?oc=5",
-     "t_id": "Outlook, FAA, pemadaman bank, astaga!"
+     "t": "Microsoft 365 Outage Disrupts Businesses Worldwide",
+     "src": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0tfdzFhTTFDcmxzbGlfajVVN3hVSWk2dFNqNnFEMHN2UTdMOUlrNDJGVmJDd3dzcHRCVVdrUEwyNHNsdEtqakZoS2J6aW1sRjFReXZfelVvc0ZrYkhEcmM4X2pMT2hiajdkNm1MR2dyRkFhMlc5QXI0dm00eEw0YVJKMXo0TGxrZEd5SlhPdnVVREk?oc=5",
+     "t_id": "Pemadaman Microsoft 365 Mengganggu Bisnis di Seluruh Dunia"
     }
    ],
    "title_id": "Microsoft mendeklarasikan 'Kode Merah' setelah pemadaman 24 jam: Inilah artinya - Nasional"
+  },
+  {
+   "id": "perang-202611242133-2926",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Saudi-led coalition intercepts Houthi cruise missile, drone in western Saudi Arabia",
+   "src": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY295Z0RRZXRLOHRFdVdTbzZUa2RweXRLVHBXLUJPV1NMcmRNSVhyQ2c1WDJWNmU5bzFjRzdCcE1NcEgwcFJrMmFPR1QtbHBlNklWUmQyQ3VidDF6aDctNHAycEZpUzFWR0RxMGNpd0NfZnRaN3Z4VlE2ZjNTSFNhNmtoR2JIRUdLTVZDTmc0dEoxM08tNDZKMmh0TlJvMzYzR2I5T2tnUEtENFE2dkZZenNIa3RPSHZGS1JfTFZBSzhRZVlEa0E?oc=5",
+   "sources": 6,
+   "recent6h": 1,
+   "score": 6.5,
+   "level": "besar",
+   "first": "2026-11-24T21:33:15Z",
+   "last": "2026-11-25T20:51:44Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "A global travel agency: Missile and drone attacks confuse travel movement to Saudi Arabia and international warnings against visiting it",
+     "src": "الخبر اليمني",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iRjdUX3dHT3FxS2VMX2dRSHFkTzJhZWRpMklPZGQ5djJmdzFYb1RmSlMxOHM2eE9pa0hkSnBaOFl2MllFV1BOZ0dPREhhN2ZfdVcwazEzcURHdGM?oc=5",
+     "t_id": "Agen perjalanan global: Serangan rudal dan drone membingungkan pergerakan perjalanan ke Arab Saudi dan peringatan internasional terhadap kunjungan ke Arab Saudi"
+    },
+    {
+     "t": "Is it safe to travel to Saudi Arabia? The latest advice, as the kingdom confirms another drone attack on Riyadh",
+     "src": "Condé Nast Traveller Middle East",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR3ctTFpGLTM5b1MwS0dhU19yV2dzXzhHUGhKZnU4R3pxNzVISWlkR0VHZUFYVWZ1TExWTnBzZU0zVkpKTUF6dktwc1pRMUlVSklPdXRJVmhyaGF2UUJlMVE4bDVkc0VGSDJVa0ltcS1zeTJyQVAtSkRReTlpRE80dHlkaHpyZXpaV3IxbkphMGtGQ2RXaU1CbTJjcUNLR2c5SU91Y1I4LTloSFBFbGV3TjdrdDNLN085OTlIazRKWTN2Z241dkNxVlkwcW5WMGpuRnRnUDVTc0lPdTAzUGc?oc=5",
+     "t_id": "Apakah aman melakukan perjalanan ke Arab Saudi? Saran terbaru, ketika kerajaan mengkonfirmasi serangan pesawat tak berawak lainnya di Riyadh"
+    },
+    {
+     "t": "Yemen’s Houthis claim large-scale missile, drone attack on Saudi airport, oil facilities",
+     "src": "DD News",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakU3dVVNbk8yZkJUTW9tMnVfUHgwZmRIMnBpendqVlVBaDhtWkFCN0EzS0lyWlpBTk9IeVNsMW9RZUEwbTNmLXJwVGpfRkIyeTNsbXdzS1JrTW5kdkZOOG1OWkpGcjJwd1FDTXdTZEw4aU9SRWRqZEg0YXdVSHp5VVhKWUQ3dl9yZzJlMUZDQlNRc0Zpa0tXVWh2UXpPSUlLcmlqS2hfZXhjYUVuM015Zw?oc=5",
+     "t_id": "Houthi Yaman mengklaim serangan rudal skala besar, pesawat tak berawak di bandara Saudi, fasilitas minyak"
+    },
+    {
+     "t": "Saudi-Houthi tensions escalate after Riyadh drone attack and airstrikes in Yemen",
+     "src": "Mid-Day",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcm94c2JmSS1SOVdtU18xemVzdVJCbFhpZ1hpblRiOE1SMnZZVFFtTmxWVDFUSnNkckMwYzF4VmFRdjhoQUJ2ZktrZlhiNm54WlJyUkt2WHZsVFpPUXBNWDR6WHdBd1ZLM3NMVllYYmdaUnZIZXJ6MDFxUHA2SWF1UGFfVHcyQTdzWXVmWldpV0phdmNGZHNrdXRRaHpuVDRWZTZEbnh3MTJyUElDMVlPOHJFZXVSQUZaOENpTDZWcEdZTkktM1ZtTGpjYXRLcVlVb0FJOWZJZFNCNXc?oc=5",
+     "t_id": "Ketegangan Saudi-Houthi meningkat setelah serangan pesawat tak berawak Riyadh dan serangan udara di Yaman"
+    }
+   ],
+   "title_id": "Koalisi pimpinan Saudi mencegat rudal jelajah Houthi, drone di Arab Saudi bagian barat"
   },
   {
    "id": "indonesia-202611250305-9143",
@@ -177,9 +177,9 @@
    "title": "What is at stake for Spain’s art sector as snap election approaches?",
    "src": "The Art Newspaper",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb05VU2lqV21tOHlyNm1oS0t6ckZFbTUzaFBjVEtBY3htVWVoRjdpVGxJQjFFNk1IaldjX1U0U0lfclplMWtkRlpyTURQNHh6d3lMeDNYQWFMRm5xeXZKdHBzZmtYTkdlSzF6WHVzcEppNVVUNEVpcVI4dTR5OUZ4ZzFJeTNEbkpELVB1eEYxMmY4M0lvd0hBR3cwYVY1dGto?oc=5",
-   "sources": 4,
+   "sources": 3,
    "recent6h": 0,
-   "score": 4.0,
+   "score": 3.0,
    "level": "sedang",
    "first": "2026-11-24T17:36:25Z",
    "last": "2026-11-25T16:18:43Z",
@@ -193,46 +193,12 @@
     },
     {
      "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-     "src": "BreakingNews.ie",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOG00V2xIWDNnTHVUQjRwNUQ4NUdXTjFIZmdudGVUN0Z4akNKUnM1SldiOGt5SUdHV2RkUUNDcDh4RDc5blQwTGNkNi1PZVpRXzZCLUpQQU5XNGVfaGpQOVlabVgtdEI2dVZES005N2h1Zkl5SjdNbnk2UHdWYzNzdG13QjRhbkNlSTRDdnVhZ09QOXZBRWR4OWJlRE40U2JkLWg5ZUlHUkpwcGY2OHZKQ3BVbXdMUWE0bnNQQ1RMeVRBdWlyVlp6U3c5YURmUQ?oc=5",
-     "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
-    },
-    {
-     "t": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
      "src": "Irish Examiner",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5U3Qta0ZOMWFtcjJVc3FfRTZNUkowWkkzXzlaSlJ5dnZKTHRGTGNqVUlqSnhEVEx1VE1XQ1dmdVhjN0diencydVYyUWFwMU5kWjNWbzEwYlZTRnk5ZWIzcUxxVGo?oc=5",
      "t_id": "Pemimpin koalisi sayap kiri menyerukan revolusi sewa saat Spanyol menuju pemilu cepat"
     }
    ],
    "title_id": "Apa yang dipertaruhkan bagi sektor seni Spanyol menjelang pemilu cepat?"
-  },
-  {
-   "id": "indonesia-202611250535-c9e3",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Demo Besar di Sukabumi dan Jakarta Hari Ini, 26 November 2026? Ini Fakta Terbaru yang Perlu Diketahui!",
-   "src": "Media Pakuan",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWENBdjVfZGF3TTV0YzIxR1NiVlBKeWlLSllBN3ZPYmNjZ2l5b1h6VFZlcllFTEFuWFFMdWl5SG5FNU9jUXBFakp0WTBiWWE3WU9QT2c2Ti1XRTM2V3ZNMjI2SU1LeXh3VXlJR0NhSGJOaU5CME10SzdOdzdFRDladUpvYmhzVTNPY2l5R3YwTC00MmM3NkYycU9xblRuQWtxZkwzcnNaNWNtWDF1LU0wMjdqck9xRDRNU2luTFNWam9CdEl0dmhfbmNvRkZsRHlmUEhLS005bTBjVXRkbXN0dlZEbHdGR3huRE5XVzRXRVJQdWFWcGRqWXFR?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-25T05:35:00Z",
-   "last": "2026-11-25T22:31:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Mahasiswa Demo Hari Guru di Kawasan Monas, Ini 7 Tuntutannya",
-     "src": "tvbangsa.id",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRklxX1cwYmVKZFhMMkpNVl9oWFhyYm5SYkRVQXJrR2Y1bmFLcHdNME1MYnh3NmVzb1d2QTVJRmZZNUJmN3Q3MlJYMWlydkc2WTYxcHd1bWcyaEJuTlhpakUtNURic0dFdG85VlJtMDZ1ajVTWkJiamRFRmpzdXJXZFhZNGhXUzlPY29nSldRaDZWSktfX21Pc1VSaEt6dWhn?oc=5"
-    },
-    {
-     "t": "Mahasiswa Demo Hari Guru Nasional 2026 di 3 Titik Jakarta, Ini Link CCTV Pantau Lalu Lintas - harian.disway.id",
-     "src": "HARIAN DISWAY",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSE1laHV0WkNOdHVaZzBFcHViclRiRWFoejFXak1aR2dCSHR5RHRiSVhOWWliUjV6MHN3emhhblpYTE9fdGo5SEpNY3B5S0FsZDBDWFhwaWE0OFhoT2RLcFRZMDBoeHh1RXY3Z2xEYUEwNWpPOTJwMmppNW82Vl9jd1JGb2Rxc0xONlZhbzN0RzZPY2ZCUURMY25ob0FqQVM2ZGR0WktjdTdNTFJpdGRZN2g1aF9nQllmMEdDVFFOdXlQSlJB0gHEAUFVX3lxTE9ITWVodXRaQ050dVpnMEVwdWJyVGJFYWh6MVdqTVpHZ0JIdHlEdGJJWE5ZaWJSNXowc3d6aGFuWlhMT190ajlISk1jcHlLQWxkMENYWHBpYTQ4WGhPZEtwVFkwMGh4eHVFdjdnbERhQTA1ak85MnAyamk1bzZWX2N3UkZvZHFzTE42VmFvM3RHNk9jZkJRRExjbmhvQWpBUzZkZHRaS2N1N01MUml0ZFk3aDVoX2dCWWYwR0NUUU51eVBKUkE?oc=5"
-    }
-   ]
   },
   {
    "id": "siber-202611250621-750d",
@@ -258,6 +224,29 @@
     }
    ],
    "title_id": "Pemadaman Digital dan Kelangsungan Bisnis"
+  },
+  {
+   "id": "indonesia-202611250535-c9e3",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Besar di Sukabumi dan Jakarta Hari Ini, 26 November 2026? Ini Fakta Terbaru yang Perlu Diketahui!",
+   "src": "Media Pakuan",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWENBdjVfZGF3TTV0YzIxR1NiVlBKeWlLSllBN3ZPYmNjZ2l5b1h6VFZlcllFTEFuWFFMdWl5SG5FNU9jUXBFakp0WTBiWWE3WU9QT2c2Ti1XRTM2V3ZNMjI2SU1LeXh3VXlJR0NhSGJOaU5CME10SzdOdzdFRDladUpvYmhzVTNPY2l5R3YwTC00MmM3NkYycU9xblRuQWtxZkwzcnNaNWNtWDF1LU0wMjdqck9xRDRNU2luTFNWam9CdEl0dmhfbmNvRkZsRHlmUEhLS005bTBjVXRkbXN0dlZEbHdGR3huRE5XVzRXRVJQdWFWcGRqWXFR?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-25T05:35:00Z",
+   "last": "2026-11-25T22:31:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Mahasiswa Demo Hari Guru Nasional 2026 di 3 Titik Jakarta, Ini Link CCTV Pantau Lalu Lintas - harian.disway.id",
+     "src": "HARIAN DISWAY",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSE1laHV0WkNOdHVaZzBFcHViclRiRWFoejFXak1aR2dCSHR5RHRiSVhOWWliUjV6MHN3emhhblpYTE9fdGo5SEpNY3B5S0FsZDBDWFhwaWE0OFhoT2RLcFRZMDBoeHh1RXY3Z2xEYUEwNWpPOTJwMmppNW82Vl9jd1JGb2Rxc0xONlZhbzN0RzZPY2ZCUURMY25ob0FqQVM2ZGR0WktjdTdNTFJpdGRZN2g1aF9nQllmMEdDVFFOdXlQSlJB0gHEAUFVX3lxTE9ITWVodXRaQ050dVpnMEVwdWJyVGJFYWh6MVdqTVpHZ0JIdHlEdGJJWE5ZaWJSNXowc3d6aGFuWlhMT190ajlISk1jcHlLQWxkMENYWHBpYTQ4WGhPZEtwVFkwMGh4eHVFdjdnbERhQTA1ak85MnAyamk1bzZWX2N3UkZvZHFzTE42VmFvM3RHNk9jZkJRRExjbmhvQWpBUzZkZHRaS2N1N01MUml0ZFk3aDVoX2dCWWYwR0NUUU51eVBKUkE?oc=5"
+    }
+   ]
   },
   {
    "id": "energi-202611251005-ec40",
@@ -356,6 +345,29 @@
     }
    ],
    "title_id": "Orang Amerika Mulai Melakukan Panic-Buying di Costco Di Tengah Serangkaian Gangguan Teknologi dan Serangan Siber, Dengan Generator Seharga $7K Terjual Habis"
+  },
+  {
+   "id": "indonesia-202611251114-dada",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Mahasiswa Demo Hari Guru di Kawasan Monas, Ini 7 Tuntutannya",
+   "src": "tvbangsa.id",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRklxX1cwYmVKZFhMMkpNVl9oWFhyYm5SYkRVQXJrR2Y1bmFLcHdNME1MYnh3NmVzb1d2QTVJRmZZNUJmN3Q3MlJYMWlydkc2WTYxcHd1bWcyaEJuTlhpakUtNURic0dFdG85VlJtMDZ1ajVTWkJiamRFRmpzdXJXZFhZNGhXUzlPY29nSldRaDZWSktfX21Pc1VSaEt6dWhn?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-25T11:14:38Z",
+   "last": "2026-11-25T11:28:07Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "BEM SI Gelar Demo Hari Guru di Kawasan Monas",
+     "src": "CentralBatam",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VYUhSZmZzQTNuZnlvdkNNajVNSlI1T2RUaDRBV3VUeXRUTkkzb0dYWXRKS3ZhYlhUR0tnbnNYMmhmc0tsUUZNakdCM014bkpudncyZllIb2JuVXFjcWYwTkNrRGk?oc=5"
+    }
+   ]
   }
  ],
  "errors": []
