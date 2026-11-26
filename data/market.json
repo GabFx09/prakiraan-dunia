@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T20:58:42Z",
+ "updatedAt": "2026-11-26T21:13:23Z",
  "source": "Yahoo Finance (data dapat tertunda hingga 15 menit)",
  "quotes": {
   "spx": {
@@ -3143,10 +3143,10 @@
    "ok": true
   },
   "btc": {
-   "price": 60680.52,
+   "price": 60735.36,
    "prev": 60378.1992,
-   "chg": 0.5,
-   "time": "2026-11-26T20:58:36Z",
+   "chg": 0.59,
+   "time": "2026-11-26T21:13:16Z",
    "series": [
     [
      "2026-07-20",
@@ -3666,7 +3666,7 @@
     ],
     [
      "2026-11-26",
-     60680.5195
+     60735.3594
     ]
    ],
    "currency": "USD",
