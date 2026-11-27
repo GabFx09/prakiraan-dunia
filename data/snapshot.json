@@ -1360,6 +1360,17 @@
    "ihsg": 5242.172,
    "usdidr": 18303.0,
    "ust10": 4.848
+  },
+  {
+   "t": "2026-11-27T01:05:00Z",
+   "risk": 75,
+   "btc": 60617.15,
+   "gold": 3593.3,
+   "brent": 91.95,
+   "spx": 7182.78,
+   "ihsg": 5242.172,
+   "usdidr": 18303.0,
+   "ust10": 4.848
   }
  ],
  "horizons": [
@@ -1416,28 +1427,28 @@
    "targets": [
     {
      "key": "ihsg",
-     "low": 4750,
-     "high": 5750
+     "low": 4800,
+     "high": 5700
     },
     {
      "key": "usdidr",
-     "low": 17900,
+     "low": 17950,
      "high": 18950
     },
     {
      "key": "gold",
-     "low": 3300,
-     "high": 3760
+     "low": 3380,
+     "high": 3830
     },
     {
      "key": "btc",
-     "low": 53000,
-     "high": 65500
+     "low": 54000,
+     "high": 66500
     },
     {
      "key": "spx",
-     "low": 6700,
-     "high": 7500
+     "low": 6750,
+     "high": 7550
     }
    ]
   },
@@ -1493,28 +1504,28 @@
    "targets": [
     {
      "key": "brent",
-     "low": 73,
-     "high": 109
+     "low": 74,
+     "high": 110
     },
     {
      "key": "gold",
-     "low": 3150,
-     "high": 3950
+     "low": 3200,
+     "high": 4000
     },
     {
      "key": "usdidr",
      "low": 17400,
-     "high": 19450
+     "high": 19400
     },
     {
      "key": "ihsg",
-     "low": 4400,
+     "low": 4450,
      "high": 6200
     },
     {
      "key": "spx",
-     "low": 6450,
-     "high": 7850
+     "low": 6500,
+     "high": 7900
     }
    ]
   },
@@ -1806,6 +1817,22 @@
  },
  "news": [
   {
+   "t": "Dolar AS sempat tembus Rp18.400; penyebabnya diulas detikFinance",
+   "src": "detikFinance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcUNFOFdmSFpFZ0ZIeVcxdkllUHRTVjhtRGx1cjUybjZYSEVJa3p0VEhzZEJpYnQxSU5uTXhud0d2YnQxTUVoNmRQNlJpd0ZXWmJfSlBkUnZtMnVDbWFReEVtcGxZdjBxbU1WMEZkYVdWYUFId1BjUUhKNEhUajVjVndlakd3Nl9aTmpDbFlDSDhXX1FlcW53cVI0X0rSAaIBQVVfeXFMTnBvei1hc2VfUjMzakNISWZCdnpDN2p3ZTRFQUVySkNOV0trdGhNNnhTRXo2OC15MmhSUHY3UGNteGJTb21veVgzQjBNYm1MQTB2MEZHd29VVDdfQ1NrLUdjSUZMTG5IajZqNm91QXJCOGpmNk1qcDVMcUxkSnJSam1ROVhRdEwyNEQ0TjB5U05fcEpuRExoNi1tWS1uTUNqaEZR?oc=5",
+   "time": "2026-11-26T22:55:00Z",
+   "impact": "turun",
+   "assets": "Rupiah, SBN"
+  },
+  {
+   "t": "Lalu lintas tanker di Hormuz sedikit naik meski serangan meningkat; pasokan minyak tetap jadi sorotan",
+   "src": "Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFF3VXJKOWltd2ctUDMwWUtmSWFRSmdJRkdRWV9HYjZNQlZuam1xR0xRNThpeUI1ZGM4YWlfNzJlUkZ0ZEVKaldPZUNaMWRHcnNVZFdlY3hzU1h0eXE4TDk2a1l0dzFUMnZ3eDhJS3pscFo1Z2dNSlEyeHlXV1owMjRIbHd6UXE3SGVjaFhmVUV5ZEVudnBRQ3pIRWRaeDluM0JtS3g1QWJBNU9BdTJuelQyaF9vb2JP0gG-AUFVX3lxTE5GbmFScVpIU0gwQmNkelY2Z0xyVjBXekl2NG92NndUMEJtTlhCcGszRzZSTEhxVkx6d3JtNEo1R1RkbzFndGdPYkVucmppQzlUVHZyc0dJQU1FSWlYNy1KamZSVkxzVy1CdUlfZUthb1ZuVGZUZGhqUzA0ZXVYbXpZcUFXbzJPTF8wdzBDQjlKenFYLU83aTNLTFVXVmlWcktTbXpHU0pmX3ZfWWNoOFU0V2NsajBaU0dDbWlmVkE?oc=5",
+   "time": "2026-11-26T16:31:16Z",
+   "impact": "netral",
+   "assets": "Brent, rupiah"
+  },
+  {
    "t": "Rupiah tetap tertekan meski BI sudah menaikkan BI-Rate ke 6,00%",
    "src": "SWA.co.id",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRamZ1YVVfdW4xd1NnOEQ3QUxCVUllNXFzX3JYQlQ5eEpzckRneXJycy00VWZtLTlSbTM0eU8xMHRPSEpaYWU4TnJBM1pRa19XUnNPbGVfMWJmMVNkWl9SMDBOVzNoX2lCR2dIM1lybm5RZVU?oc=5",
@@ -1884,28 +1911,12 @@
    "time": "2026-11-26T00:40:00Z",
    "impact": "turun",
    "assets": "Rupiah, IHSG"
-  },
-  {
-   "t": "Wall Street pangkas kerugian: Dow ditutup naik setelah sempat anjlok 1.100 poin, saham AI masih tertekan",
-   "src": "Fox Business",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hd2FLTXFFUWpNMm5obU44TzFQZF81dHlMSUZ1V2VkbTZtSlV1S1paY3puZ1BvTnBjXzdUOWRxMFdreEpBVUVqZktNaUk0ZXFBcjRtUk94aDdyekRqQ09GeEdNY9IBaEFVX3lxTFBOQ0Zidkp5WEh1U21VUlhodGQ3UkVVTTNRWGVrLUtNWGt3N05CZEh6eV8tbXlVNVVhZ3NpUXFxMDlqUnNad3VMSUJGcVNvZ0MwZUc4VmkzdzJzM1dCbEZVMXgwZ29aU3cx?oc=5",
-   "time": "2026-11-25T21:20:00Z",
-   "impact": "netral",
-   "assets": "S&P 500, Nasdaq, IHSG"
-  },
-  {
-   "t": "Tarif baru yang diusulkan AS meningkatkan peluang Fed menahan bunga tinggi lebih lama",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5",
-   "time": "2026-11-25T20:39:00Z",
-   "impact": "turun",
-   "assets": "Obligasi AS, Rupiah, IHSG"
   }
  ],
  "readings": [
   {
    "c": "neg",
-   "d": "Peluang naik Des ~97%",
+   "d": "Peluang naik Des ~93–99%",
    "k": "Suku bunga Fed",
    "v": "3,75–4,00%"
   },
@@ -1924,10 +1935,10 @@
   },
   {
    "c": "pos",
-   "d": "-3,04% hari ini",
+   "d": "-2,81% hari ini",
    "h": "brent",
    "k": "Minyak Brent",
-   "v": "$91,73"
+   "v": "$91,95"
   },
   {
    "c": "neu",
@@ -1938,10 +1949,10 @@
   },
   {
    "c": "neu",
-   "d": "+0,66% hari ini",
+   "d": "+0,40% hari ini",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$60.779"
+   "v": "$60.617"
   },
   {
    "c": "neg",
@@ -1959,7 +1970,7 @@
   },
   {
    "c": "neg",
-   "d": "+0,49% hari ini, dekat rekor terlemah",
+   "d": "+0,49% hari ini, dekat rekor",
    "h": "usdidr",
    "k": "USD/IDR",
    "v": "18.303"
@@ -1972,10 +1983,10 @@
   }
  ],
  "regimeText": "S&P 500 pulih dari posisi terendah hari ini dan Dow ditutup naik setelah sempat anjlok 1.100 poin, tetapi PCE 3,8% dan rencana tarif baru menjaga peluang kenaikan Fed Desember. Rupiah masih di sekitar rekor terlemah dan investor perlu waspada volatilitas tinggi.",
- "regimeTitle": "Aksi jual saham AI mereda, tekanan bunga dan tarif tetap",
+ "regimeTitle": "Saham AI goyah, rupiah dekat rekor terlemah, Fed condong naik",
  "risk": 75,
- "riskNote": "Risiko bertahan tinggi: rupiah di rekor terlemah dan tekanan Fed/tarif belum reda, meski minyak turun dan saham AS pulih.",
- "updatedAt": "2026-11-26T22:05:00Z",
+ "riskNote": "Risiko tetap tinggi: rupiah dekat rekor terlemah, Fed hampir pasti naik, Hormuz belum tenang; minyak turun dan IHSG rebound sedikit meredam.",
+ "updatedAt": "2026-11-27T01:05:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -2293,11 +2304,11 @@
  "brief": {
   "date": "2026-11-27",
   "points": [
-   "Rupiah ~Rp18.303 per dolar AS, masih dekat rekor terlemah ~Rp18.400; BI terbuka menaikkan BI-Rate lagi jika perlu.",
-   "IHSG ditutup naik 0,86% ke ~5.242; S&P 500 ~7.183 di tengah pergantian sentimen dari euforia ke kekhawatiran soal saham AI.",
-   "Brent ~$91,73 (-3%) meski insiden Hormuz berlanjut; emas ~$3.593, Bitcoin ~$60.779 dengan likuiditas tipis saat libur Thanksgiving.",
-   "PCE 3,8% dan rencana tarif baru AS menjaga peluang kenaikan bunga Fed Desember; UST 10 tahun ~4,85%.",
-   "Pantau OPEC+ 29/11, MSCI 30/11, data tenaga kerja AS 4/12 dan rapat Fed 9–10 Des."
+   "Rupiah ~Rp18.303 per dolar AS, sempat menyentuh Rp18.400 (rekor terlemah); BI baru menaikkan BI-Rate ke 6,00% tetapi rupiah tetap tertekan.",
+   "IHSG naik 0,86% ke ~5.242 dan asing mulai membeli; support 5.200 dipantau. Wall Street berbalik dari euforia AI ke kekhawatiran.",
+   "Brent ~$92 (turun ~3%) walau tanker kembali diserang di Selat Hormuz; emas ~$3.593 naik 1,6%, Bitcoin ~$60,6 ribu dengan arus keluar ETF besar.",
+   "Pasar memperkirakan Fed menaikkan bunga 25 bps pada 9 Desember (peluang ~93–99%) setelah PCE 3,8% dan rencana tarif baru AS.",
+   "Pantau OPEC+ 29/11, MSCI 30/11, data tenaga kerja AS 4/12 dan rapat Fed 8–9 Des."
   ]
  },
  "calendar": [
