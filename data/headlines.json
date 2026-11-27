@@ -1,7 +1,15 @@
 {
- "updatedAt": "2026-11-27T22:37:08Z",
+ "updatedAt": "2026-11-27T23:06:29Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "President Trump floats 10 percent credit card interest rate cap",
+   "src": "WSFA",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGM3WS1Ja3NLRldzcGMyUFM5RkM3SDMyMXNuZkNLdXRjOUxBNmR6SjNlcFN0dnBMMG5lU19PeGE0RGtDd2JONzAwRUdnMWpUbnVld1JpU3JiaHhWY0pvY0Rwa1RBN1JDRWZSbmttSTJNRGVTYTRCZ0kweV94X25yYkJLeVVvVklIRDFjVlBqdm5UdFFqVDhTX2JGS1k?oc=5",
+   "time": "2026-11-27T22:32:00Z"
+  },
   {
    "topic": "indonesia",
    "lang": "id",
@@ -17,6 +25,22 @@
    "src": "KONTAN",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fZklCSE1ERHVmN3NjbksyY2NrdFl6ZE1od1hEZHNoVm9admw0blRxOEcwYk1DOEpfc0dxdGZOelRzaVNTZjhEUWN6OXZrUXVPUWppNmttblk1bE53TGdLWjBGVTBTdw?oc=5",
    "time": "2026-11-27T22:25:14Z"
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Anthropic Shares Surge 11% as AI Stocks Rally — A Sharp Reversal From Below IPO Price",
+   "src": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUdzZfMUxJMGpiazllVEEtQUNDc19RT1BKamNycHBBaG54UzJ6c3VMZmQ1Ums4NjJheEZjTmtHQWRla05OWnljNkNNRTUwRjB0UksxNkNSYUtiUEM4bkRFOE9zaC1KTl92RHo0R0NtYTBPVmJYckE?oc=5",
+   "time": "2026-11-27T22:25:00Z"
+  },
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "IHSG Melonjak 1,84% ke 5.338, Sektor Bahan Baku Terbang 5,10%",
+   "src": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84bUJCT0tfeHhkb29JMGgtRkZrS2JLR1BLYVk0aVA4anNpTlh3VExzVkhIMnZDYnFjLTdWbFBLaW9Lelk3bjRNRDZWXzhFZTI1dmZ5Ym1WSGxtbFF0eC1iSHNSMUtmUQ?oc=5",
+   "time": "2026-11-27T22:24:09Z"
   },
   {
    "topic": "indonesia",
@@ -42,6 +66,15 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
    "time": "2026-11-27T21:37:05Z",
    "t_id": "Harga Emas Hari Ini di India, 28 Nov 2026 - Harga Emas 18K, 22K & 24K Langsung"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran Declares Strait of Hormuz Closed as ‘Unauthorised’ Vessel Hit",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
+   "time": "2026-11-27T21:31:43Z",
+   "t_id": "Iran Menyatakan Selat Hormuz Ditutup karena Kapal ‘Tidak Sah’ Ditabrak"
   },
   {
    "topic": "indonesia",
@@ -88,15 +121,6 @@
    "t_id": "Kapal tanker minyak menabrak ranjau laut ketika mencoba transit di Selat Hormuz, kata IRGC - lapor"
   },
   {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Price of gold in total freefall, $22.5t vanishes",
-   "src": "News.com.au",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRm5rbGxNOVBWZS1FTThGbjNTa0k5RXlwZDFtS1VaSWtCZllUR0g4Um1BZWt4c0dRZW1GZEt2RkNxSkViZjNNcF9EeVBGUTRQUkFzdndJNDlSTzVWR0RfLXdGazlvR0daYVc1Sk82YnYzTkJyS0Q2dzV2aEFwamtuSC1SWlZWemFNWkN4TWRsVnZlcXpBRTFKNlotU2psZmxiYk4za3lTd1cyeFVxeGI2aVlKUmc5SlFYSWhXcEo4TmZMaUlLQ1psRUdnUTdLdjVIU3ZQN2JRejNsT0dPWFdiMWhhMjQwUURVa01JNF9xZHJSejRPb2FB0gH8AUFVX3lxTE1hY3lSWFViR2pTN3NtaE5JM29odVRaMTZCMmVtUDUzV3lwOW0zWXRwSlowY1dvM1NTMXZoRDFoZVQ1eEI0dmtmdkxYVFV0aHhoWG10ajEzeDNfdkZESjdybVp2NUJfejhxSWE4WVRkSkJfejZvcFhqNm5mdnFfQTNRY1B2dzkxbVJUaDlwelpQXzNLRUtnR2ZMSE5TMEVoeDFYVm5LeDgxQ3dfTzRhQWtlY2hTajVjdUlHekJKbjVKWExfMGFHNEc1Ukx0bWQtc05hSDJ3eG1qRkZOVjh0bFB5dHB3NnFXOE51TXVDSFFaeEhmLWQ0SWdhaEdhZA?oc=5",
-   "time": "2026-11-27T20:23:08Z",
-   "t_id": "Harga emas terjun bebas total, $22,5t lenyap"
-  },
-  {
    "topic": "kripto",
    "lang": "en",
    "t": "BTC Price Prediction: Whales Add Over 120,000 BTC",
@@ -113,15 +137,6 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmxrcXBDcFVrVHRobjB6SjNJUm8tem1pX3JHSFFkdEtWTFVaaW5ILW5NZjF4SlFZdENmYmhxY3IzSlcxZjJGTmt4bGxlYjV3VkU1eGkwbGktdk1EMU5FTFQta3FsYl9jUnp2dWFSd014RzNwVjVfd1ZUeUhIbVdNa3otckFmYjZfTnliTnpDVFRXcU9aX1pJQ1FDSVFiS2RfQkE?oc=5",
    "time": "2026-11-27T19:30:48Z",
    "t_id": "Perkiraan USD ke EUR: Bisakah Dolar AS Mencapai Kesetaraan dengan Euro pada tahun 2027?"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Strait of Hormuz Flashpoint: Iran Claims Five Tankers Hit Naval Mines in 48 Hours as Oil Prices Jump",
-   "src": "Envanter Medya",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTllY3RsQnkxQnAwVkZyUHBma3FYRjIyN0tHY0xYTHB5T1VMNjZfVk1ucHl4alZ4RHpCaWl1bWppVXpUTFRlbzhyMG9HVFFLSFJTNWNkbjg4dnFlY2Z3R1RweDZWdFduRm1YbWJrdnVHSmQzRlUyQUoxYll0NndUTzZhZUM2OU0?oc=5",
-   "time": "2026-11-27T19:28:50Z",
-   "t_id": "Titik Nyala Selat Hormuz: Iran Mengklaim Lima Kapal Tanker Menghantam Ranjau Laut dalam 48 Jam seiring Melonjaknya Harga Minyak"
   },
   {
    "topic": "saham-as",
@@ -168,6 +183,24 @@
    "t_id": "CryptoQuant mengatakan pemulihan harga bitcoin membutuhkan pertumbuhan pasokan USDT"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Dec 26 (GC=F) stock price, news, quote and history",
+   "src": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1makZJRjg2ZzBXd0JVYVdJbWE1amR1ampYcnVBamtVWUtSWlRRQ28zdHB0VFBDTjhyT0g2bWRKT29Ya2hhS2xET093eTdkUW5ObzRzVg?oc=5",
+   "time": "2026-11-27T18:09:57Z",
+   "t_id": "Harga saham, berita, kutipan, dan sejarah Emas 26 Des (GC=F)."
+  },
+  {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Trump can’t rescue the stock market. Here’s what can",
+   "src": "The Australian",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdVBCMm5xT3k1SURjZEJqaEhudDdIVE5IZWpkUUxNU05HZlBQMDFPS2tzWFlsME1ucWJvLU9qMHpOemtVc0IzWndhRzctSUc1b1VKMHpzN2NwUzduM0ZIMzFjcXV0V1d5Z1FTZXVXU2pleVpNcjJwT0VWckRZQWNEYThZUjh5LXYzcTRXb3lFR1A4dWhNbEJpTlNENC1QeXgzeHFMamdhSkkzSnhid21pYnA5dGlicUtrQS1STVBOUmY2c3NnUExRekwyRlh0WDNCTzlRaVFhZ3NWYnBDSEVCRlZmSFFQY21XeTZheWxOOA?oc=5",
+   "time": "2026-11-27T18:04:49Z",
+   "t_id": "Trump tidak bisa menyelamatkan pasar saham. Inilah yang bisa"
+  },
+  {
    "topic": "kripto",
    "lang": "en",
    "t": "How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch",
@@ -177,21 +210,21 @@
    "t_id": "Seberapa Rendah Bitcoin, Ethereum, dan XRP Bisa Jatuh? 4 Tingkat Harga yang Perlu Diperhatikan"
   },
   {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold Dec 26 (GC=F) Stock Price, News, Quote & History",
+   "src": "Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCLWFGVVBHUGF5Q2c0b1o5UTFKT0M1RWtfQS14aDl1SDdPR2t6eHFLQnkzbWU3MFhGTHQ1Mk1tWmpjVk9zYWpvMGRKVUhmeFk0NFhoUg?oc=5",
+   "time": "2026-11-27T17:58:23Z",
+   "t_id": "Emas 26 Des (GC=F) Harga Saham, Berita, Kutipan & Sejarah"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "BI Jaga Stabilitas Rupiah dalam Arah Suku Bunga 2027",
    "src": "Demokratis.co.id",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVDVFUDRlZW5oaG44dFhLWUdrc2NtcEFKZVJBUHY3THhNV2F4cWk0U3liYkdSblZaeHlMQjhNTmlpZk1KdEs5a3VNSU93OTBkRjhsNXdTaWE3YkZGcllDZVpBSXQ?oc=5",
    "time": "2026-11-27T17:44:00Z"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March",
-   "src": "StoneX",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0V0aXctMHhmVjRnZXFxRnZyVzRBMUxVUklISmhWTEEtNlk2RWYzbFcxd3kxOXpFUGJZNU15YlN1MkpPOXd4d1EtRVpfeHByTkVhOVNrcGROWnh6WEhWQ2xLSW53QXZVdXdialViRWl2WXFHcUxET1N6cDRkR0hHZnZXLVBJbndPSV9mbkhRZWtsN1ZLWUx0LWFWTkJRNXhwYndoeEZXVmN1MkI5NDNFbWk2QzJzU3VwMVdaLVV2QTd5Sk9hNGc?oc=5",
-   "time": "2026-11-27T17:33:12Z",
-   "t_id": "Perkiraan Harga Emas: XAU/USD Menembus Tren Naik Multi-Tahun di Minggu Terburuk Sejak Maret"
   },
   {
    "topic": "geopolitik",
@@ -211,6 +244,15 @@
    "time": "2026-11-27T17:03:00Z"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "Why Is Nvidia (NASDAQ:NVDA) Stock Falling Today Despite a Broader AI Chip Rally?",
+   "src": "Stocks Down Under",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrM0FkUGJHZTNjRkFTZV80TGZrQlJ3bWdkM3hiNF9nS2EtUWpfS1lpYW1BMGlCQ29MTzFwNDY3cnJFSmxWZkMzWjdlMjFKVGVRRmF0UGp6RHhGdS14bFZYYjZzUjB5Z1hoLWRxa3JLVUxTdHp0RDh5SjlTRmNyU00?oc=5",
+   "time": "2026-11-27T16:57:25Z",
+   "t_id": "Mengapa Saham Nvidia (NASDAQ:NVDA) Turun Hari Ini Meskipun Ada Reli Chip AI yang Lebih Luas?"
+  },
+  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
@@ -227,15 +269,6 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNHNFWGIyeFl0TVd2ZnBtNHdUWFlsQlI3YWM2akphOUVMS1dXVElaazBic2FsVkt5ci1tUk81b0VWM3BRYXdCamY3QktKNEYwOVlLMTR0T2xORjgzNWU2NDFPb1VfQjZSd1JwN3hlTkVYU1Y1V0VkZzJHekVGRXZidHJ0Ukw2MWsxZGFVd2VRcmdab3dP?oc=5",
    "time": "2026-11-27T16:49:56Z",
    "t_id": "AS Akan Menaikkan Tarif terhadap Tiongkok, UE, dan Lainnya"
-  },
-  {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Why Is Nvidia (NASDAQ:NVDA) Stock Falling Today Despite a Broader AI Chip Rally?",
-   "src": "Stocks Down Under",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrM0FkUGJHZTNjRkFTZV80TGZrQlJ3bWdkM3hiNF9nS2EtUWpfS1lpYW1BMGlCQ29MTzFwNDY3cnJFSmxWZkMzWjdlMjFKVGVRRmF0UGp6RHhGdS14bFZYYjZzUjB5Z1hoLWRxa3JLVUxTdHp0RDh5SjlTRmNyU00?oc=5",
-   "time": "2026-11-27T16:40:22Z",
-   "t_id": "Mengapa Saham Nvidia (NASDAQ:NVDA) Turun Hari Ini Meskipun Ada Reli Chip AI yang Lebih Luas?"
   },
   {
    "topic": "saham-as",
@@ -376,15 +409,6 @@
    "t_id": "Perjalanan Wall Street yang Liar Belum Berakhir: Laporan Ketenagakerjaan dan Sikap Fed Membayangi Saat Saham AI Terus Berayun"
   },
   {
-   "topic": "ai-teknologi",
-   "lang": "en",
-   "t": "Trump's Nvidia Fix Fades Fast as Stock Gives Back Rally Gains",
-   "src": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOLWxPSTN5d29uQ3Bic0tBSzhOVkVTNmtoZTRjdjZqb25uS1FLOXNhWHVVUl9tS3c2UzNmMHlIMUpoaFVUMDQzVkNHS0FTREpJTWh5ZklzaTJOUEV4M2FYaFdEZnRveHRHd21wVXpwaEpCNXdHVlE?oc=5",
-   "time": "2026-11-27T11:55:00Z",
-   "t_id": "Perbaikan Nvidia Trump Memudar dengan Cepat karena Saham Memberikan Kembali Keuntungan Reli"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz",
@@ -404,27 +428,10 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "IHSG Melejit ke 5.338 Disertai Net Buy Asing Rp 1,01 Triliun Hari Ini (27/11)",
-   "src": "Pusat Data Kontan",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVW9zeGZGV1JJaFNUVjUxOVBNVU9WX29DZTJyRUQ5VkJLOUVhTnF0N0xzYTlKTHVDRUhNbm00NHBkbm5JelV6UVBNWE1vT2sxcnl0aUxabkxURXJ5YTI1UUVHcDNPSnRpclRjaWNIQkFDZG1MMVVLbXVFODlYZVRmbDR4ZmhYcW81SHlGVjZzNXJCeGlDdm1panRYak0tTzhUcUFfOVI0eXl1Y0xF?oc=5",
-   "time": "2026-11-27T11:30:37Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "IHSG Menguat, Tembus Level 5.300 (Jumat, 27 November 2026) | Pusat Data Ekonomi dan Bisnis Indonesia",
    "src": "Databoks",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjMwNGVQaVNqX0diNzVKYUVnVG1ZVFc2dDBnNHRXcXI1eHJwMnN6U2MxYjZsX1J3MHRMbENzZmY5TTJXeDd0LTNNUDR2QXlfdXZDQ045VDhJOGlOOFJKd05aTUZIWklQUG83ZmpoWHFFN0lLUzQtQlFJWjU4Q0d1Ymt5NjhsUTlaNWQ2TmNKYWVjOG5PWGg2UExVTVlZTzFPZTQ4WkMtMGZucGhsYVdXanR2a2RsQQ?oc=5",
    "time": "2026-11-27T11:15:43Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "High Inflation Puts Fed’s Credibility On the Line",
-   "src": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5",
-   "time": "2026-11-27T11:00:10Z",
-   "t_id": "Inflasi Tinggi Mempertaruhkan Kredibilitas Bank Sentral AS"
   },
   {
    "topic": "geopolitik",
@@ -512,15 +519,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2hhSTBzMENLWDVFMGIwSTdHalRucUFLSmJBb1pSS2tVN1I1ZUh4T2NRVlg4aEtrM3Y0UW1nTEQ2akV6S2lHbG9VMnZERUtWcnZHMjJaRDRrV09LaVd3cHpFZXo2b0JxUmhXUU9pblotaGFSeEUwQjJrQlk2RFNjNFNXaDV6emNLUmhTbkVlMUFOWjRVMi1QOGVLcm8zaHpqcEpwTGR30gGrAUFVX3lxTE5SWUJZbE5uVW9FSFNLSXpWWGIwdVhua3BiRFVadUg5RjBBYlgtN3UzQlBWM2VkeGxPUVdXS0tRR1dYLWVTY2hzQnBOWEhwVWt6NlF4SGpYdjk0Vlp5cWs1QnF2ZThDOUFtQTVHSGZmVkNhLW9VNllyQkxJdVdsT0NWZWhZTWlLcFhQaWl3TWxTdWF0a1RzTjBheEVOWTFYQUtlbmVpLWZFcXZpdw?oc=5",
    "time": "2026-11-27T08:15:00Z",
    "t_id": "Harga minyak naik setelah kapal tanker menabrak ranjau di Selat Hormuz"
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold price forecast: Fed rate hike in December may limit recovery to ₹1.30 lakh per 10 grams by 2026-end, says expert",
-   "src": "Livemint",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSS1wSFJjclpDQzhXOXBYY2R0UTMxLTNVemdRRlAxaF9SME9weWNvQks3a0dhTER3Y1dMd25XX1AxMXlkOWZscV9HQlctUFV0bjJubzNvTDIwX1JjaG4wOFk0aDNQRDMwQVNzSXVvU0xNZDBrYlZqUlhyeHB4SzJoLXAxakc2dDg4MEFlX0RsUkhTWFhha21fUkZJdUNNZGpuUWptVFpQUHdxb19Nd3ZWdl9Sb2VvQUZBWk5jY2xVbVhQRDBqSlhXNHVFZkdydDNJTEZldkstWUtWSGN5Skl6RGlkR0NNV2Q2MzE5Z1hONnhRM0hfX28wSEJMTmFDczlsakJFRzdTc21TX3FxRERN0gGUAkFVX3lxTE1FVVNONG9GZlJqSVBzaEJWcXo2bFhBSFc4WEUyLWszZlhSeS1YSTlTYm9WUEZrbEtXVTlxcnVNOUtXd2lab2ZLdm1RTGxDWkNCX1RpMWFGeGp5ejlXRjJ3VV9yS1VJcmlvdlRjSVc1S0c3MVdDYnByNW11WFhDdlNfZVlMbHpGVU9sajJOdkZUWXRiLUotd3llMF9QNDhmNTRfYWpBTGxSYXBjT3U5endNTlFBeERELTlmcjg5TFUybWdjZjJyZE1sbmJtd1J5WUFzSFIyYk9wLWVBZU43dWpCeEJoTEo0M0U0V0U5SXFKSmxhRGJ6M3l0cXhrN2dpWjM5X3ZGZi1DVndaUUZVQV9YeXZxYw?oc=5",
-   "time": "2026-11-27T08:13:47Z",
-   "t_id": "Perkiraan harga emas: Kenaikan suku bunga Fed pada bulan Desember dapat membatasi pemulihan hingga ₹1,30 lakh per 10 gram pada akhir tahun 2026, kata pakar"
   }
  ],
  "errors": []
