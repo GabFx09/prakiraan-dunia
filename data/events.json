@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T19:26:51Z",
+ "updatedAt": "2026-11-27T19:41:34Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Spain’s Snap Election Could End Eight Years Of Socialist Government",
    "src": "VINnews",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3NxZG9NaTBiMjMxb3FvT2V5YVFvOS1PeTRXbUJ1a2g0akd3WlNERXV2ZVJjb1ZCSU1Pa2NvMzV0b2FJVWhUUHNOLVpZLWYyM2J6T1Y3bzJhVS00WWZVVG9QNjJ5aXVoRmh4X1RwSVVodDRpWnJxaVRZSW5KVEZtZTdVT05SMGhKTkhFS1R6OW0yNXFIcTdnQm5qQ1NBaFE?oc=5",
-   "sources": 11,
+   "sources": 12,
    "recent6h": 4,
-   "score": 13.0,
+   "score": 14.0,
    "level": "besar",
    "first": "2026-11-26T22:17:06Z",
    "last": "2026-11-27T17:48:11Z",
@@ -37,10 +37,10 @@
      "t_id": "Spanyol akan mengadakan pemilu sela di tengah krisis perumahan: Siapa kandidat utama dan apa yang dipertaruhkan dalam pemilu tanggal 29 November?"
     },
     {
-     "t": "Spain’s Snap Election: How Voting Works, Key Parties and Issues",
-     "src": "SSBCrack",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSVdzS0txWjBuTEg3U0xYQ0dwYTRXdTJDOTZlelVIblR0NHYxRUEtOXZFcEZiLTJQMU1XVUlZUlRzcU5aQTRRUkZrcHBVRHozbHlDeEFMWl96Zk9YOEJqMmd2UFZRSWpiSWI3NER1SDJJSUFobHVCS0pxclVDNmpxWTZoOXB2cWRCaWpST0wwUF8?oc=5",
-     "t_id": "Pemilu Cepat di Spanyol: Cara Kerja Pemungutan Suara, Partai-Partai Penting, dan Permasalahannya"
+     "t": "Spain’s Snap Election Explained | Dawn News English",
+     "src": "Dawn",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWZiS1pTbk9KbFk5Vmc5UDRoVUtySHJPR3VFUWhtemI1Smh3NjV4bDAxWndXT0Y4anFLc2JUME9xLVktMS1pa1FSZHpoUmJRSHphU2ZkZkc2WkQtQnF6U1l4aFBoVmgxcjA3dHdoamFTSzNuQjBIamc4UHFkV2dNajVxcHlwVHRmMlE?oc=5",
+     "t_id": "Penjelasan Pemilu Cepat Spanyol | Berita Fajar Bahasa Inggris"
     }
    ],
    "title_id": "Pemilu Cepat Spanyol Bisa Mengakhiri Delapan Tahun Pemerintahan Sosialis"
@@ -53,9 +53,9 @@
    "title": "Ugandan Study Outlines Stepped Care Mental Health Framework After Ebola Outbreak",
    "src": "Bioengineer.org",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnJyNnA5aDN5T1FmS0JWRVJLTDI5NFFvOGpLbmRNeUNTVHNmN3hBQTN1ZmVBejJTbmJRa0tQZlZUa2p5d045NDgwT2NWNkFpLWVIbkhtMTZLbHhyUVZ4ZFlXcG9kckFkaTB3dVI1OGw5Z2VCSTdfem9TM09IUXdyOXBBdlpJTzY0elVrUTdMZmZLSDlXUExsczdEdUFjRG9QWk0wZlcxQmQ?oc=5",
-   "sources": 8,
+   "sources": 7,
    "recent6h": 2,
-   "score": 9.0,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-26T18:22:47Z",
    "last": "2026-11-27T17:52:15Z",
@@ -219,5 +219,8 @@
    "title_id": "Gangguan penerbangan pada hari Thanksgiving di AS mereda setelah badai dan FAA berhenti"
   }
  ],
- "errors": []
+ "errors": [
+  "bencana: HTTP Error 429: Too Many Requests",
+  "keuangan: HTTP Error 429: Too Many Requests"
+ ]
 }
