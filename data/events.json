@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T21:53:24Z",
+ "updatedAt": "2026-11-27T21:58:47Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran",
    "src": "CBS News",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
-   "sources": 13,
+   "sources": 12,
    "recent6h": 1,
-   "score": 13.5,
+   "score": 12.5,
    "level": "besar",
    "first": "2026-11-26T19:07:30Z",
    "last": "2026-11-27T16:12:11Z",
@@ -25,12 +25,6 @@
      "t_id": "Serangan drone Kuwait membunuh 2 orang Italia; Iran menyangkal peran tersebut"
     },
     {
-     "t": "Two People Injured in Russian Drone Attack on Kremenchuk",
-     "src": "Полтавська Хвиля | Новини Полтави",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkxUank2UkdCa1JQWHh6cVN6a3A0YWYydVE5S3dJTnV1YkQ5SDFoU25jeURqRHh3a2hxT2RaMTF6MGlnUy05NHVsNDBKNWZ0U2FvcDctaDhIQUFXRHFqeHZVeXo5MHVyS0o1THdtdmg3SUxIQ3o2cTlDSHU4Qm4zM3hIbWxHV2d1TVlaaWhPWHo5aXNtVFdIbUh3Wnc?oc=5",
-     "t_id": "Dua Orang Terluka dalam Serangan Drone Rusia di Kremenchuk"
-    },
-    {
      "t": "Drone Attack Kills Two Italian Technicians at Kuwait Military Site",
      "src": "Peradaban.id",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1icnc5TnB6UnNwZlJUaEwzdEIzT0lxZFJCMmlsX0VlSTZKWktmMndmWWpkTkJpZEUtVjJhNUhxTWpoSHdsb2Z3Z3B2LUU3R1hMUWdndlRsZTdER2dodWlRN1VlbnFwbm1VS01WdlJrWGo?oc=5",
@@ -41,6 +35,12 @@
      "src": "Kursiv Media Узбекистан",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rUnR0RFVIUmxFMDZWTTA4cm5BQWlHeU5wTXUyVXhzOU5oNVVwemVXTjRFdHVFbFBSUHFFWnFrM3l3NUUwSVctRElveUZWWlNZd0d1VVJmU04wc1lOVTFfdVBxazhSalgybkxhOUlIN01WazVXYTZoenJn?oc=5",
      "t_id": "Iran membantah serangan pesawat tak berawak di Kuwait yang menewaskan dua warga Italia"
+    },
+    {
+     "t": "Iran war live: Tehran denies involvement after two killed in Kuwait drone strike",
+     "src": "Arabian Business",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+     "t_id": "Perang Iran langsung: Teheran menyangkal keterlibatannya setelah dua orang tewas dalam serangan pesawat tak berawak Kuwait"
     }
    ],
    "title_id": "Iran dituduh melakukan serangan pesawat tak berawak mematikan di Kuwait yang memicu seruan Uni Eropa untuk meningkatkan tekanan terhadap Teheran"
@@ -169,31 +169,6 @@
    "title_id": "Perang Ukraina terbaru: Ukraina menyerang fasilitas produksi bahan bakar rudal di Oblast Tula Rusia, kata militer"
   },
   {
-   "id": "kesehatan-202611271627-a606",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Canada extends Ebola travel rules for 90 days as outbreak rages on",
-   "src": "CFJC Today Kamloops",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDVENkwwWnV2dWQyMzNBU1JINGh6UVgzc2sxVERXaTlmWV9UM0xpcnlwZ0VUcnpiQU5WQUd2SFpOYUJNSlhpbFV6bVVYeFpDWkpNNlh1b0RFRUpWbTM1TzAwQVI1cElxWml3Z3dLbEhzZVdFcUMtYk9JSU9lTnJWUUtZakNiR0pDTjkwcXdMT24wczUtMWl5NlZHRlFYNXpOLUE?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-27T16:27:12Z",
-   "last": "2026-11-27T19:53:35Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Canada extends immigration restrictions affecting 3 African countries over Ebola outbreak",
-     "src": "People Daily",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1Axd0l4SUFNM0tUdjlMOVFrTFBYX0JOU2d5UzBHTnZod25zTkRweUJvb0hHbDNtdjF2aXVpaWRmbXJHMzNNMmNtMUtIMTVFRTl4X1g5TU5GSl9XdEllZGdRQU9vSGw1TFFWOTNlcG4yM0xLSzdtRE1XaFVpNHdCZ0lSaEx0NGJ3d1ZveDZJbjdPZDFLWkp4NjF0YTVPZC1VM0tfOERnVjQ3WUlpdXc3Q1hZMDNycFJZMnVJZm1Bbw?oc=5",
-     "t_id": "Kanada memperluas pembatasan imigrasi yang mempengaruhi 3 negara Afrika karena wabah Ebola"
-    }
-   ],
-   "title_id": "Kanada memperpanjang aturan perjalanan Ebola selama 90 hari seiring merebaknya wabah"
-  },
-  {
    "id": "siber-202611271443-f375",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -261,7 +236,7 @@
    "more": [
     {
      "t": "State of emergency declared as US storms spark chaos- 2,600 flights disrupted",
-     "src": "Mirror",
+     "src": "The Mirror",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlFZYlBQdE1fSVNxblNJNlVud1hfUlFDNmJod0llWkkwY081TUFzczJQajR4ZTVONFlPRGtuR0p3cWNoX1IzNzNRMkVvbTB1Z2Z1OEx0V3hlSE1GdHhaUDl4VGlSMFZYOVhmdUtGU0Jqdm5tZ0lpbk90OHJyLWc4MkdtY1Zpdw?oc=5",
      "t_id": "Keadaan darurat diumumkan ketika badai di AS memicu kekacauan - 2.600 penerbangan terganggu"
     }
