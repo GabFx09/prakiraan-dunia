@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T00:11:00Z",
+ "updatedAt": "2026-11-27T00:25:46Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -7,23 +7,17 @@
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Armed Conflict Hinders Efforts to Contain Deadly Ebola Outbreak in the Congo",
-   "src": "Truthout",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzN5NWh1M285QTZJaG4yZWQyTlF0QVZMVXRRQnctUGpOQnJ0X3k0NHctcWxpaTYtSnBKVUJqN1hINnJHTXQ0eVloOXk0SGpvRGpVYmM2R0twVGc2am1iMFdseGE0ODliOF9fR0xhcHhBVTBLRGZjSTRMMjBZWWRGc015RFlNVVVnaDg0dFJ0ZnBqb3lnNlRYRGhCaDVDV0x3aFlMRk1TS3lfRzA?oc=5",
-   "sources": 14,
-   "recent6h": 4,
-   "score": 16.0,
+   "title": "The Ebola outbreak in Congo has spread to 8 provinces! The death toll has approached 6,000",
+   "src": "Haberler.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3VmdmVqUnJ4VHhPTERlMV9kTENsM25qX0NTRWEzUFVacFBQWmZxcWRRUFMtRU0xUTRwOEtTVE9ETElHX2RIbDNKMVQwaENST0owT012a3VZUGtjTFNIMEFFX1BtMTFwZ2hwRWRDQmEyRzgteHh0cjBBWUNSUDRCVw?oc=5",
+   "sources": 10,
+   "recent6h": 2,
+   "score": 11.0,
    "level": "besar",
    "first": "2026-11-25T18:50:12Z",
-   "last": "2026-11-26T21:21:10Z",
+   "last": "2026-11-26T20:28:58Z",
    "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
-    {
-     "t": "The Ebola outbreak in Congo has spread to 8 provinces! The death toll has approached 6,000",
-     "src": "Haberler.com",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnNNLUVhVFFxWjgwU3BIVE03UTA1WlA0N2dHekgweXhxeVR2VVlBak1qYTFuU1A4Z0dFZ0l6OGU1ODRiU0NfWmp1YlFMUVVPdncwY2hRbTV5YllWeER0QjBibmowRjJrcTlCNXZYU285cy1MemNIX3VWUDZDWG9kZmNn?oc=5",
-     "t_id": "Wabah Ebola di Kongo telah menyebar ke 8 provinsi! Korban tewas telah mendekati 6.000 orang"
-    },
     {
      "t": "Congo's Ebola outbreak passes 12,000 confirmed cases and 5,904 deaths",
      "src": "MLQ.ai",
@@ -41,9 +35,15 @@
      "src": "Nature World News",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmxnRW1hWmJubmJpWHZWMnBtM3BhZ2FRcmtxV0JKblF2cnM5bXhrdnozWk55am9MeFJSaHQxby1YSnlXWFRtdk00bXFzbnE1ZVdqWmFkZE0za0V3QjhLVWpXcTUyNm1VN0tqWTNKdXZORUtFWndlZnRLT1loVnF6dHpscm40ZWdjRHJxcEtEUWxTV2NLblE1eXhiSG5ndUl4Y1R1NTFNOHR2LXpYT1ZHV3NXMmsxMHB1NjFCMFFUd21sVl9MOHNWRWpsTnQ2VHk0SHROeFdsdkpDV29Y?oc=5",
      "t_id": "Wabah Campak Vermont Meningkat menjadi 13 Kasus di Orleans County di antara Rumah Tangga yang Tidak Divaksinasi"
+    },
+    {
+     "t": "Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows",
+     "src": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Cdk1qbkU5dEpLRVNybXVHcU1LNGdGQngxRGwwUzk1WG9KWVUzRWROM04yUXhaZjViazBISWptSkg2SFNubG56TEFQYUZBY3A0NjFxWFowNUNDemMyNktFQmRWU0RRTmdyTkxfLUY1ZV83b2FTQ0NKdlVKQmM?oc=5",
+     "t_id": "Kasus Ebola mencapai 12.000 di Kongo dan menjadi wabah terbesar kedua yang pernah tercatat"
     }
    ],
-   "title_id": "Konflik Bersenjata Menghambat Upaya Penanggulangan Wabah Ebola yang Mematikan di Kongo"
+   "title_id": "Wabah Ebola di Kongo telah menyebar ke 8 provinsi! Korban tewas telah mendekati 6.000 orang"
   },
   {
    "id": "politik-202611250803-76ea",
@@ -89,6 +89,80 @@
    "title_id": "Pemilu sela di Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
   },
   {
+   "id": "perang-202611261355-3cea",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement",
+   "src": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUdlenhjamNKTzFaUG9EMVdzb0wwbmlNd1dYLU15Q2xDWDVuYVN6cWtrZlUyRTMxeGdKbVMzaXh0SXNRS1RGUUd1bnhIS3dtYXpLTi1BQkJjSm5SaUhWcENBTlRyZ2dlNEFnbUFOWkdxYlBYUC1sN2NUR0pDc2hDNjR3SF91ODVpOHRCUw?oc=5",
+   "sources": 6,
+   "recent6h": 2,
+   "score": 7.0,
+   "level": "besar",
+   "first": "2026-11-26T13:55:25Z",
+   "last": "2026-11-26T21:52:29Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Middle East latest: Two Italians killed in Iranian drone attack in Kuwait",
+     "src": "The National",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5",
+     "t_id": "Timur Tengah terbaru: Dua warga Italia tewas dalam serangan pesawat tak berawak Iran di Kuwait"
+    },
+    {
+     "t": "Two Italians killed in drone attack: Italy and Kuwait accuse Iran, Tehran denies involvement",
+     "src": "vijesti.me",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXdlTThkaDJRQ2R4NE16Sm9ubWxUeEFIWndDOUtuNG5DQWdkdVQ3cVRGQzBleWx3SERpM0loWjVNMWdxZXd4WmppX1hjQ2dDcHM5dlZGSUtIc0E4R09nYmVxUWM0YktZY2d2YUdvSHJwdjU4QWF3MUx0MUJNWko0QkcxYTZ6NklIc3ZiUWRjYVpDU2NvX1laU1dvN0R3OGdKTzFIcEotMENBWkRYTzlJSm5VWkEybXhDc0pzTjVMZlLSAcABQVVfeXFMTzl3ZU04ZGgyUUNkeDRNekpvbm1sVHhBSFp3QzlLbjRuQ0FnZHVUN3FURkMwZXlsd0hEaTNJaFo1TTFncWV3eFpqaV9YY0NnQ3BzOXZWRklLSHNBOEdPZ2JlcVFjNGJLWWNndmFHb0hycHY1OEFhdzFMdDFCTVpKNEJHMWE2ejZJSHN2YlFkY2FaQ1Njb19ZWlNXbzdEdzhnSk8xSHBKLTBDQVpEWE85SUpuVVpBMm14Q3NKc041TGZS?oc=5",
+     "t_id": "Dua warga Italia tewas dalam serangan pesawat tak berawak: Italia dan Kuwait menuduh Iran, Teheran menyangkal keterlibatan"
+    },
+    {
+     "t": "Pakistanis injured in deadly Iranian Drone Attack on Kuwait",
+     "src": "Daily Pakistan",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUN4cDMyb3gwWWx4MUl2RU5Od0w0eUJ4S2lET2Z5bmtWVkliei1fM3VndUljaERkb2VXem12cmtHUUhMWWpETzFHSDVlMFA0SjlfWmtaSTNXYmdPeUJzZU43czJDVUZBR29ESXRQZmZybjluRGtfb2UzRERxY1ZkS2JSQXpsSzhLZkl5UWVfRnBDa0paWlM2TVBYcWFXVVIzck1YcEhB?oc=5",
+     "t_id": "Warga Pakistan terluka dalam Serangan Drone Iran yang mematikan di Kuwait"
+    },
+    {
+     "t": "Two Italians Killed in Iranian Drone Attack in Kuwait, Italy Says",
+     "src": "Algemeiner.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXdJVi13eGlweExLN0lHVnllci1nYmphYXpaYUlzQTZxOV90bDV5ZThYenNLQXpVZUZpRnV4U2hvOHpNemRlNTRrUGNYbVFzenpweHk3X0VKNnpzbV96Wkt1UzY3MUNOUXUzVVhoODFsZExuUmFmMndfTXl3Y19XRWU3QUVyeXJnel92TGFiYWtXWkRhUXBRYzd0ejBJQQ?oc=5",
+     "t_id": "Dua Warga Italia Tewas dalam Serangan Drone Iran di Kuwait, Kata Italia"
+    }
+   ],
+   "title_id": "Dua warga Italia tewas dalam dugaan serangan pesawat tak berawak Iran di Kuwait; Teheran membantah terlibat"
+  },
+  {
+   "id": "perang-202611261241-850c",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukrainian drone attack injures four, causes oil spill in southern Russia",
+   "src": "Big News Network.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNclotY2RrcUpkVFdYLUl4d01MbkUybFhvNGdhaUlXTFU5M0RmT1FnbjdZdVJRLUFZYk5vYmw3X2xUazFhOFJyeDUwMnM0d1hhektpV0h5LWpYYnJ2clpmam8xMVJ6all3Y0JYTnNib2V1YUNjdzlJQmRFaUk5LVhQblVDX1lGdzVua1BnSEl6MF9VODBaS3FfWVZyWW5UTmxGU1gzcXFvaTlwUjdINGJyYmp2WVZBcG9o?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-26T12:41:56Z",
+   "last": "2026-11-26T19:38:00Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Iran launches drone attack on Kuwait5",
+     "src": "Daily Observer",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oVGZkbE92bmpLb3p2cl9CYkxPOFVkb2V5WFJYTWpDRmdFNk9fWlJWR2FHS1huNW5PdTc0N1dvV2tyanZlT2xIOFl3?oc=5",
+     "t_id": "Iran melancarkan serangan drone ke Kuwait5"
+    },
+    {
+     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+     "src": "EnergyNow",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczVGOHAzUENEVHpzT3BVcTlZdnFjSXZpSU91S3ZsQUZhSVI3LVYzUVlTV1V2WXQ3WUNNVzN6ZVpsRFJJMzJ2ZHY5Vm1MNTBDSXZrSS0yc0YzaFRoNWpOSEZfMUVCWmhHRTNrdi1mbDU3VFNlQkNBX2J3a09laDFWcmZZVzNYT2tmeU1wS1hnS2dZa2VfUFVrMWI3WE1TN1FnSThlZEJCV04zVWt2NEdWM1F0R29WMjRSZE5r?oc=5",
+     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+    }
+   ],
+   "title_id": "Serangan pesawat tak berawak Ukraina melukai empat orang, menyebabkan tumpahan minyak di Rusia selatan"
+  },
+  {
    "id": "indonesia-202611261957-2439",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -110,6 +184,37 @@
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfUi1KRDdTV1BsQkdxWV8xeFNnb3p1ZmtFenJHSjBaS0N4ZjZQNFFIVG9jbER0ckRTUzFobm55SVEtX3RDM1UtSk96WV9VNEdYemZWbjU4Yy0wUjZqbUpoSjd2UGJ4VE10cm1uSWhrem1vZHNieVM5ag?oc=5"
     }
    ]
+  },
+  {
+   "id": "perang-202611260505-8afa",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russia Launches Ballistic Missile Attack On Kyiv, Striking Two Buildings",
+   "src": "Arise News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUENoYmxLdjBXa0lpZUxRNDBKNzdIZldzalZsek5lUDhMdDl3cWxjeVU4YTZYR2o2R1ZlbVI0N3lYVXpocXR4Yk91THg3aFlzbFJTZlBVTzlTZWVhX2VaTVk3c3paY2U2SFFkbDRTRFYxMm5XTjdydHdzcW1UTHJMM3BtQmJ5ZFBVeXhOdzFJU1psOVhMaUd4Qg?oc=5",
+   "sources": 3,
+   "recent6h": 0,
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-26T05:05:20Z",
+   "last": "2026-11-26T09:35:53Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Fires rage across Kyiv following an overnight Russian missile attack — photo",
+     "src": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckR6MTREQm1GdF9QcV9BRVhwN0ZqMEx1d1l0STFrMVV6Q1RKeEx2S2lGajN2dW9KNnUyUkd5RS1CcGl2SlllcGJYckFURUQyWDdfd2JmS1BxempiZFY2VGdKVi02bURjdFV5My1kRHBKeWwwamZzc2R4Vk5LWnpRQV93aXdsSF9lZ1dfRGVZZGVQZ2RGdndXRzFYLVZDNG84OUJSS0JrONIBowFBVV95cUxNRlNMSGZuSlBnQmdQaGFMODdJN3FUMzEyeUJmNUJBb1h5SThUaDRYbkFNXzhUTTNlSE1DSVpfUEwtbGFyR0I3Zk0wU2sya0xubnlxUmFnVUxtdmhLLTJlR3BjWTBzSzNWaGQ1bE5kN0tZZVpBMXdGSDRTNmhqVTFiWHNfQ0NhendEWThIZkhOMWk4enQzM2NPdFdzcnJQYU9VcDFZ?oc=5",
+     "t_id": "Kebakaran berkobar di Kyiv setelah serangan rudal Rusia semalaman — foto"
+    },
+    {
+     "t": "Russian Ballistic Missile Attack on Kyiv Injures 7 as Ukraine Awaits Delayed Patriot Interceptors",
+     "src": "Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OdmliMktsb3JkNW1vcWtKQ1I2VDJqbWUzSnpiSEJ2QlNMNWlZalJPUzdWTkk1b2ZYeF9lWmZqaFgxUjV3LWplYllQVQ?oc=5",
+     "t_id": "Serangan Rudal Balistik Rusia di Kyiv Melukai 7 Orang Saat Ukraina Menunggu Pencegat Patriot yang Tertunda"
+    }
+   ],
+   "title_id": "Rusia Melancarkan Serangan Rudal Balistik ke Kyiv, Menyerang Dua Bangunan"
   },
   {
    "id": "indonesia-202611260543-baf4",
@@ -140,6 +245,129 @@
    ]
   },
   {
+   "id": "siber-202611260345-02f0",
+   "cat": "siber",
+   "label": "Serangan siber & gangguan sistem",
+   "lang": "en",
+   "title": "Allstate Outage Today: Is Allstate Down in the US? Users Report Website, App Login, Insurance Claims, Payment and Customer Service Issues | Check Latest Downdetector Status",
+   "src": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPTGNMT25fekFjdkhCTlN2bWxEZWV4dUtFNGVzQkNNV1FnNHNramZwQlBJUVlqeEU4WEVhV0NmQzZ3cGtFbDhtV2l4QTliclpWSDc0VlhfN1RoY2M4VTBjVUVjYkVTZE93dS1peW9XRFNsTmVjY3dvbXE2R3VycDNUNUphbE1FMFZNd0tteTBtdTJWSWw2TnJMc09GMEdydWpZT0RZVWQ4akp3bWxtUHp3R1pIaUdpaVNaNFlJVHJCLTViSWpqUnRCeG1XYldXNDdKQ0xlcE5TWXhrSGNIQTJGeHBFUlgtQXFNZ2J6dTlfeU9vSTZzOW9ySG5DV21tanBvSGVIZDlGZEsyN1RtRTI3ZTRKTktzMzZ4c0hZSXZ5OGFCQkJPcmlwN3UxOWNINUpaTmxwYWRaVmJGS2xZUUHSAb4CQVVfeXFMT0xjTE9uX3pBY3ZIQk5Tdm1sRGVleHVLRTRlc0JDTVdRZzRza2pmcEJQSVFZanhFOFhFYVdDZkM2d3BrRWw4bVdpeEE5YnJaVkg3NFZYXzdUaGNjOFUwY1VFY2JFU2RPd3UtaXlvV0RTbE5lY2N3b21xNkd1cnAzVDVKYWxNRTBWTXdLbXkwbXUyVklsNk5yTHNPRjBHcnVqWU9EWVVkOGpKd21sbVB6d0daSGlHaWlTWjRZSVRyQi01YklqalJ0QnhtV2JXVzQ3SkNMZXBOU1l4a0hjSEEyRnhwRVJYLUFxTWdienU5X3lPb0k2czlvckhuQ1dtbWpwb0hlSGQ5RmRLMjdUbUUyN2U0Sk5LczM2eHNIWUl2eThhQkJCT3JpcDd1MTljSDVKWk5scGFkWlZiRktsWVFB?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-26T03:45:29Z",
+   "last": "2026-11-26T19:16:00Z",
+   "assets": "Saham teknologi & perusahaan terdampak",
+   "more": [
+    {
+     "t": "Microsoft Declares Code Red Status After Global Outage, Targets One-Hour Service Recovery",
+     "src": "Aktualita.co",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkJsVm1BRHctRHllWjJkTktKVlBsVGV2am9aa1h0b1VQdVpLT1BKYnJBVl9XblplY0FPLWtXSnBiT3RIbWVBaU83NGh3Y05YbzJOdlpkOFdTMm5jM3hJSWFUSjlBeGE3N2ZTRUNraGt1XzBpZ1RUZm9lT3c4WnJ1NjFn?oc=5",
+     "t_id": "Microsoft Mendeklarasikan Status Kode Merah Setelah Pemadaman Global, Menargetkan Pemulihan Layanan Satu Jam"
+    }
+   ],
+   "title_id": "Pemadaman Allstate Hari Ini: Apakah Allstate Down di AS? Laporan Pengguna Situs Web, Login Aplikasi, Klaim Asuransi, Masalah Pembayaran dan Layanan Pelanggan | Periksa Status Downdetector Terbaru"
+  },
+  {
+   "id": "transportasi-202611260532-7478",
+   "cat": "transportasi",
+   "label": "Gangguan penerbangan & transportasi",
+   "lang": "en",
+   "title": "US Thanksgiving flight delays so far largely driven by weather",
+   "src": "https://www.thetraveler.org/",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT2RHVW1seTR0bzE3d2hKUXhEZ0RyWV91RDlYeHVDbjFPNFNjUFAtaWxHX29PblN1UWNmS01wcFNfNWJlVk4tbUJvSHNaUWwtem1uYURrczBkZVFsd0tDM2NOWmxSeXA2UVZDejBFejdLZGd4cmFFNXpSblk5RlV5OXhQa0d6VS02cFkyQ204X3dIcDhpQmc?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-26T05:32:26Z",
+   "last": "2026-11-26T17:11:18Z",
+   "assets": "Saham maskapai & pariwisata, minyak",
+   "more": [
+    {
+     "t": "Duffy: Thanksgiving flight delays largely weather-driven so far",
+     "src": "www.thetraveler.org",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUJnOWN6cnAtYVduTFUwemRzbmtfcDZIc2JETWxUMXgwNnNPMHhCZFVPS2s3ZkVWb0s5eVROa1FGWHJHU1VwVWRVZ2pYT3BXanphV1lCV0RucElxNlhLaUhwYkhJblM0UjJmekViaWlNZWpxX0wwYXBMbkd3MDBXUWxZaDZiZGtuaFZYWnN5RnZfTWtKOWc?oc=5",
+     "t_id": "Duffy: Sejauh ini penundaan penerbangan Thanksgiving sebagian besar disebabkan oleh cuaca"
+    }
+   ],
+   "title_id": "Penundaan penerbangan Thanksgiving di AS sejauh ini sebagian besar disebabkan oleh cuaca"
+  },
+  {
+   "id": "perang-202611261402-a3b3",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Russia, Ukraine exchange drone and missile strikes, leaving dead and wounded",
+   "src": "سانا",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LeHRPcVVXVmRoNUptMERrOENOeUdCbWcyNTZKXzFub3hia2FQQkF6OXBQZ3NSa1M0ejFialFXMk1ueU4zS3RRdnZVbFJXVnA4eXVr?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-26T14:02:41Z",
+   "last": "2026-11-26T14:43:37Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "At least three killed in Russia's missile and drone barrage on Ukraine",
+     "src": "Euronews.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWx6UlBJNHU3Y1RtVS1qYVR4djFmdHcyeXdzd2d0VHJLUjBSQ2RXQ1JoTFRpRUlpMHVFTG9pcHNyUnR1bEhKX1Q4UmRsTkRNTUtreTFoOWx2bkJXbl9OV2x1eXdWTTBONnlCQVRZeC1TcWFvam1sWWFwRjRWQVUxMkt4VXV0ZXlYenJZb3ZlUk40ZG0tOXFSSjFndWcyRVNIdWFpYUNsX1NPelo3R0Q4My1fTnhKWFIySE9IcWpB?oc=5",
+     "t_id": "Setidaknya tiga orang tewas dalam serangan rudal dan drone Rusia di Ukraina"
+    }
+   ],
+   "title_id": "Rusia dan Ukraina saling bertukar serangan drone dan rudal, menyebabkan korban tewas dan terluka"
+  },
+  {
+   "id": "perang-202611260743-1e94",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Dubai and Middle East flight disruption: flight cancellations continue as Saudi Arabia intercepts missile and drone fire",
+   "src": "Condé Nast Traveller Middle East",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS2JUVmVuaGxQQnZtbHBBMTB2NElYYld3Tl9QZGV1MENNVm5mVzJvZi1IRWhudWJXcGlFbzJ2T0J0UUdXNHRsZzlOOW5QY3l0U1FJTXJkRHdmUExUQ2NEYU9waUVFV3hDLWlxVVd2RWhheE9ibVJoM000b2pZZjd4QmVmVmxUN3NnUldnTnQtcWk2Vy0wV2ZTbk9na01HZDI1dG5fbi1idDFPdjJSQzQ5eE9HSkhUS0xla0d2S203d3VRLXh0aDBTM0VlVnRlRE9qOWFXWTJfTWx2NzZRMm5NZmQ5Vi1GV1dCcFpj?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-26T07:43:56Z",
+   "last": "2026-11-26T12:53:17Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Riyadh Missile Attack, Dubai Tanker Blast raise fears of Fresh Middle East Tensions",
+     "src": "Daily Pakistan",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV0VKak9manFSYXJqQ2dJUnhfWVRqc1pDVGpFV0xyOGRQX1hQMkp4emR2dkcxYm5lYk5oWHVyNDNfNGR0TUlWRTRkSjFYNU9EdzBBbnltd3o0SVctT3pCNVRUTTU4RDEtaDEyUmdYajF1N0NFc1JaTmNfZ3JaNTZhU0lOUFZzVVh0djFzbGNBVGFKR2VoVjVlUmNNQVE5LUJ5ajM1WDNPX2ZIZW5uSXg4ZEozSWpsbTRJUGEzZ2JPTF94RlNN?oc=5",
+     "t_id": "Serangan Rudal Riyadh, Ledakan Tanker Dubai meningkatkan kekhawatiran akan Ketegangan Baru di Timur Tengah"
+    }
+   ],
+   "title_id": "Gangguan penerbangan Dubai dan Timur Tengah: pembatalan penerbangan terus berlanjut karena Arab Saudi mencegat tembakan rudal dan drone"
+  },
+  {
+   "id": "indonesia-202611260409-ae30",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Demo Besar-Besaran Buruh Karawang, Satlantas Polresta Karawang Kawal dari Berbagai Arah",
+   "src": "PELITA KARAWANG",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObHRON3plVzhBZjRfdW9WTEN4ZUJOemNEaURVTTRhZEtRTHo5dVI4VDJHRmFIY2JBUXlmeVhjM0tZWU9XQlp3WERpTFEwNWUtNk5DOEpBSWd2Vm1TX3Zma29TOUV2Z3c0RmthcTJ3TVhXM3VxcEVQUGROamt0N3ZabjhzYw?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-26T04:09:52Z",
+   "last": "2026-11-26T12:10:00Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Ratusan Personel Siap Kawal Aksi Demo Buruh di Jakarta Pusat",
+     "src": "Tribratanews",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1RqNnNIaHZ5NXZyMXJhN2F5MXBzNHpFb0czYTBrMUQxQ1FacndvdnV3YnJIZ2ZiRERCZl95ejdDN2g5bzFJODhWWHlDQ3dBdzZQMHc2cWVGTUFzcGJYc3lnby1zLUN0cG51QnBGcmRTSXhsOUpnNy05dTZ4b1hqU3BWVXIxVW9SZmJUYnhRRnRlZkRQeFNjMldEYW1PY1hPQ1Vr?oc=5"
+    }
+   ]
+  },
+  {
    "id": "indonesia-202611260240-f87f",
    "cat": "indonesia",
    "label": "Peristiwa besar Indonesia",
@@ -163,10 +391,5 @@
    ]
   }
  ],
- "errors": [
-  "kerusuhan: HTTP Error 429: Too Many Requests",
-  "perang: HTTP Error 429: Too Many Requests",
-  "siber: HTTP Error 429: Too Many Requests",
-  "keuangan: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
