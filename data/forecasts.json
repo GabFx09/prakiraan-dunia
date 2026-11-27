@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T18:58:43Z",
+ "updatedAt": "2026-11-27T00:11:10Z",
  "note": "Setiap prakiraan adalah rentang skenario dasar. Dicek otomatis saat jatuh tempo memakai harga penutupan dari data/market.json.",
  "items": [
   {
@@ -230,6 +230,116 @@
    "key": "usdidr",
    "low": 17456.0,
    "high": 18888.0,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-1b-btc",
+   "made": "2026-11-27",
+   "due": "2026-12-27",
+   "h": "1b",
+   "key": "btc",
+   "low": 53000,
+   "high": 65500,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-1b-gold",
+   "made": "2026-11-27",
+   "due": "2026-12-27",
+   "h": "1b",
+   "key": "gold",
+   "low": 3300,
+   "high": 3760,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-1b-ihsg",
+   "made": "2026-11-27",
+   "due": "2026-12-27",
+   "h": "1b",
+   "key": "ihsg",
+   "low": 4750,
+   "high": 5750,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-1b-spx",
+   "made": "2026-11-27",
+   "due": "2026-12-27",
+   "h": "1b",
+   "key": "spx",
+   "low": 6700,
+   "high": 7500,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-1b-usdidr",
+   "made": "2026-11-27",
+   "due": "2026-12-27",
+   "h": "1b",
+   "key": "usdidr",
+   "low": 17900,
+   "high": 18950,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-3b-brent",
+   "made": "2026-11-27",
+   "due": "2027-02-27",
+   "h": "3b",
+   "key": "brent",
+   "low": 73,
+   "high": 109,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-3b-gold",
+   "made": "2026-11-27",
+   "due": "2027-02-27",
+   "h": "3b",
+   "key": "gold",
+   "low": 3150,
+   "high": 3950,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-3b-ihsg",
+   "made": "2026-11-27",
+   "due": "2027-02-27",
+   "h": "3b",
+   "key": "ihsg",
+   "low": 4400,
+   "high": 6200,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-3b-spx",
+   "made": "2026-11-27",
+   "due": "2027-02-27",
+   "h": "3b",
+   "key": "spx",
+   "low": 6450,
+   "high": 7850,
+   "status": "open",
+   "actual": null
+  },
+  {
+   "id": "2026-11-27-3b-usdidr",
+   "made": "2026-11-27",
+   "due": "2027-02-27",
+   "h": "3b",
+   "key": "usdidr",
+   "low": 17400,
+   "high": 19450,
    "status": "open",
    "actual": null
   }
