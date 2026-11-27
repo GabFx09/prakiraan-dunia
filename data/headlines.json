@@ -1,7 +1,24 @@
 {
- "updatedAt": "2026-11-27T17:48:23Z",
+ "updatedAt": "2026-11-27T18:03:01Z",
  "source": "Google News RSS",
  "items": [
+  {
+   "topic": "indonesia",
+   "lang": "id",
+   "t": "BI Jaga Stabilitas Rupiah dalam Arah Suku Bunga 2027",
+   "src": "Demokratis.co.id",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVDVFUDRlZW5oaG44dFhLWUdrc2NtcEFKZVJBUHY3THhNV2F4cWk0U3liYkdSblZaeHlMQjhNTmlpZk1KdEs5a3VNSU93OTBkRjhsNXdTaWE3YkZGcllDZVpBSXQ?oc=5",
+   "time": "2026-11-27T17:44:00Z"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil tanker hits naval mine while attempting to transit Strait of Hormuz, IRGC says - report",
+   "src": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lS203UndXM2Rmd3YtM0NoSjMwQTljUWJwc3JDcmNKRGRSRVJCNnNoaldHcTNRZ1dteC0tY3ZJNXd1ZVMtSjNURnZHUjBMdkt6cnhfMUhwbk1kd1o3MmVGWmF1UEZUWTNGOGc?oc=5",
+   "time": "2026-11-27T17:13:20Z",
+   "t_id": "Kapal tanker minyak menabrak ranjau laut ketika mencoba transit di Selat Hormuz, kata IRGC - lapor"
+  },
   {
    "topic": "kripto",
    "lang": "en",
@@ -85,14 +102,6 @@
   {
    "topic": "indonesia",
    "lang": "id",
-   "t": "Tahun 2027, BI Utamakan Stabilitas",
-   "src": "InvestorTrust",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0td2t3U1JpV2pyci02WVNwa0hnUmZhdWdQVk4zcHhmLVQwbHJQUVdqakpvZExIOFEyeXItdG5OTWMyMU1ycEc0SWhRZUhmc0hoVjk1YmVlU2Q4aC1VS3NlS19CdGlFWmZ5dGVFMHlaT2tSRmpxa3NsTnYwYw?oc=5",
-   "time": "2026-11-27T15:23:00Z"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
    "t": "BI Soroti Risiko AI Picu Inflasi & Gejolak Pasar pada 2027",
    "src": "Tirto.id",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORVB5RktIb0ZZTkxlQ19fOXR0YkRZRTdIMkx1d2lUbmx6ODZjV29ia2lWckRxOUwxMjdnaGc5cjRpMEhpOENVc0pFNDlvSGpFZm91S09YYlZyM3diOGJlMVFjZFRGTmstb0VsSGRZaTdRZFo4aWlsVVZzSUlCaGhoVkhYaTM?oc=5",
@@ -160,15 +169,6 @@
    "t_id": "Saham-saham menguat dan menjaga Wall Street tetap pada jalurnya untuk menutup pekan yang tidak menentu ini dengan keuntungan besar"
   },
   {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz",
-   "src": "Middle East Monitor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXgwZ1BDOFNBTGd3cUt4UldvTDZsVDhFRko4UURiMl82ZHN1WUktbXFpV3B5MUNKNFZ3THRYbHJJMzRMUkVPN1Z1UUNfeXotMHVNWjBaemlqQTAwZFhQcFMtRndKMjc3aXh2dUlYaTB4WUV4cVZIWDBVVS1CeGlBTEpKTk1NQ1ZwSXE0STNQOHBIS25hMTlQdW50OEhqNG1GV05fbHkwWFcyVzR2TzlvYnA0dzF4MWhvd0HSAb8BQVVfeXFMTTFZcUZ6SUdJdG91OHNuRVY5SUxocnFUR0NScVBGVFRXU2ZfNUhIVWs4cWUyWWhEUXl3ZmNLTG5iaEVqTWp1aWZSN3habGlHdEdDeXBJb2VzMGZJYVBBVmJXWkVLdW1PYUx5cmRVU2JySmJ1bkphcUp1SGFoejNxNUNsb1lZNFJ1c2RudERZcGVRMFdWcmRYQzNoLVVoMTVuS3VISkc3UE9kUnJNc1BULUNuX2VzZEIwQXNGYk85cWc?oc=5",
-   "time": "2026-11-27T14:15:00Z",
-   "t_id": "Iran mengatakan kapal tanker minyak meledak setelah menabrak ranjau laut di Selat Hormuz"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Gold Price Today: Gold Rises 2.18% on November 27, 2026",
@@ -201,15 +201,6 @@
    "src": "ANTARA News",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTF5Z2dNdW9PSGhUNmhoLVZOemZZenZhSFEyRWV0ODB5MW84NlpBRjluUFIxTDRvRUZBZlVMNzh4Y2hWdXVIYkZwYUQzbXlKWWxINkRRNnVMSGhpVTd6T2h1UjNlNXRrLXVtOVJ1MmRsTjh6N3dPcGhwaVJtc28tXzJrdjFScU9VZFNFNk1nRXpOTmtjTTVzYmVJQUI4MFBFeTc4NzRJcVVDajZB0gGvAUFVX3lxTFBVTzctS3RyZVNpc1lPWlBWaUFBLU01U3VuOHlrakZ2Q2E0a201X2hiT1IyOXBUQjBSX1dHM3RhSTFoQ09kZUloM2hKVWFfYTBNd28xZ0VpWUVzeUsxcGtVTmZpZEJLX3FCeHV1TlVBMFUyTUF3SmFxeGZxN1RSXzY4RFQ1SkVtZGRMMjVKWC1lcTVFcnZMN1pVYXF5ejlkUkVld1Fkc3lfVUNFR2ZBems?oc=5",
    "time": "2026-11-27T13:53:50Z"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Oil tanker hits naval mine while attempting to transit Strait of Hormuz, IRGC says - report",
-   "src": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lS203UndXM2Rmd3YtM0NoSjMwQTljUWJwc3JDcmNKRGRSRVJCNnNoaldHcTNRZ1dteC0tY3ZJNXd1ZVMtSjNURnZHUjBMdkt6cnhfMUhwbk1kd1o3MmVGWmF1UEZUWTNGOGc?oc=5",
-   "time": "2026-11-27T13:52:03Z",
-   "t_id": "Kapal tanker minyak menabrak ranjau laut ketika mencoba transit di Selat Hormuz, kata IRGC - lapor"
   },
   {
    "topic": "indonesia",
@@ -326,6 +317,15 @@
    "t_id": "Emas 26 Des (GC=F) Harga Saham, Berita, Kutipan & Sejarah"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz",
+   "src": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUVPUTlEQ05fLVA1MTNqa2tOejlucTkwaWZjZGxjWm9taWNneG12aFhKLXJqeEQ4QkdSWTYwcTBSX1VhcmlYclBkZXVOZnI3UFh1QThLeHJMbTBfU01Ia2FnTnRJb1NBcjg2c0pPeXRpNG1vejBUd2JoTGU2U2xTakp3UV9weHEzQy00RFZKS0M2bmUtMlpTWWUyWjF5NG1jZFloeUVnMEJrNWk1TVg4OXgydTYxLUFRZjBF?oc=5",
+   "time": "2026-11-27T11:39:59Z",
+   "t_id": "Iran mengatakan kapal tanker minyak meledak setelah menabrak ranjau laut di Selat Hormuz"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "IHSG Melejit ke 5.338 Disertai Net Buy Asing Rp 1,01 Triliun Hari Ini (27/11)",
@@ -357,14 +357,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5",
    "time": "2026-11-27T11:00:10Z",
    "t_id": "Inflasi Tinggi Mempertaruhkan Kredibilitas Bank Sentral AS"
-  },
-  {
-   "topic": "indonesia",
-   "lang": "id",
-   "t": "Bank Mandiri Prediksi BI Rate Naik Jadi 6,25% Awal 2027",
-   "src": "Demokratis.co.id",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PelhLak0yYUp3RlV4Nm1PeXNqZEJUcmhBSFNxVEdsVEVUNmpMUjFPQV85RjB4UmdfNjZjcENka3FFcWswU1poUmk0YUZPYW1ab3Q5YkswQlR4SjVGc2xRVVd5WEhkdw?oc=5",
-   "time": "2026-11-27T10:48:30Z"
   },
   {
    "topic": "geopolitik",
@@ -469,6 +461,15 @@
    "src": "Ajaib",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamxTQ1NLdjVBYzRPdGd2LS0yM3Zjd3h6azZwZWhXek1PSTI0QXJxWGRYWjZSenNTSk5vT1M5eDFCUkFPVFJ2ajFYVXpPQUlWTHFBSjI5OUVEZ2xNWHQ3ZUxNSXhkVWJoaUdzQW5uQmtScUdfS1JvbEFpTTlNZG15Zk51QmRicVFmNGlULXg3d2JCaG1XQmow?oc=5",
    "time": "2026-11-27T08:39:31Z"
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Oil prices rise after tankers hit mines in Strait of Hormuz",
+   "src": "Middle East Monitor",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2hhSTBzMENLWDVFMGIwSTdHalRucUFLSmJBb1pSS2tVN1I1ZUh4T2NRVlg4aEtrM3Y0UW1nTEQ2akV6S2lHbG9VMnZERUtWcnZHMjJaRDRrV09LaVd3cHpFZXo2b0JxUmhXUU9pblotaGFSeEUwQjJrQlk2RFNjNFNXaDV6emNLUmhTbkVlMUFOWjRVMi1QOGVLcm8zaHpqcEpwTGR30gGrAUFVX3lxTE5SWUJZbE5uVW9FSFNLSXpWWGIwdVhua3BiRFVadUg5RjBBYlgtN3UzQlBWM2VkeGxPUVdXS0tRR1dYLWVTY2hzQnBOWEhwVWt6NlF4SGpYdjk0Vlp5cWs1QnF2ZThDOUFtQTVHSGZmVkNhLW9VNllyQkxJdVdsT0NWZWhZTWlLcFhQaWl3TWxTdWF0a1RzTjBheEVOWTFYQUtlbmVpLWZFcXZpdw?oc=5",
+   "time": "2026-11-27T08:15:00Z",
+   "t_id": "Harga minyak naik setelah kapal tanker menabrak ranjau di Selat Hormuz"
   },
   {
    "topic": "emas",
