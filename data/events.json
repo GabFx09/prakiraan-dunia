@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T15:21:57Z",
+ "updatedAt": "2026-11-27T15:36:38Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Congo Ebola Outbreak: Deaths Near 6,000 as Fighting Spreads",
    "src": "EEW Magazine",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1gyVGRJT2Ixbmg1RTJDNHlZbmtUZjdDMWluRmk3SGpXazF4cDRuV0xjamdZSDhYckZSR0d0V2Q0UC1Qb1Naa0x2S0ZQbmtDOXVQVW1DMEpmV0RnOHhtRkRtU3YzZldQaVhLY3lFa0RWSkthU19PQTdETHpycnlJNmR3d2FyQktMeVNNdGZjVzZidDh0YUJvMkd4b0loa19vVnB6SWZ3?oc=5",
-   "sources": 9,
+   "sources": 8,
    "recent6h": 1,
-   "score": 9.5,
+   "score": 8.5,
    "level": "besar",
    "first": "2026-11-25T18:50:12Z",
    "last": "2026-11-27T13:16:53Z",
@@ -96,9 +96,9 @@
    "title": "Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran",
    "src": "CBS News",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
-   "sources": 6,
+   "sources": 7,
    "recent6h": 2,
-   "score": 7.0,
+   "score": 8.0,
    "level": "besar",
    "first": "2026-11-26T13:54:45Z",
    "last": "2026-11-27T10:49:59Z",
@@ -180,6 +180,52 @@
     }
    ],
    "title_id": "Pemadaman listrik selama beberapa hari di Allstate menghalangi pelanggan untuk melakukan klaim dan bantuan di pinggir jalan"
+  },
+  {
+   "id": "indonesia-202611270722-b79a",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Mahasiswa UI Kirim Surat Keberatan terkait Demo 28 Oktober, Kapolda Metro Buka Suara",
+   "src": "tvbangsa.id",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlhCN0c0YnFxY01KOGxjVWJJcGVtajJjbC1TNG9WN0tRRGxLVkFwOHVjb2szSkV4em52STJVTzVpZTF0alFzZnJBajVwLU1KRjd4SU5EckVVRFhSN0Y0eVdSV3Q0WVlKa2U0Q0YtRklOaGVzZ3FqRUxCdW1yUG9OMFJnWjZscVlMZGgxOFFsWVRwc2tDR3VUVmh1eFJaaXZOZGViWDBab25tY2hEeVZfdGlnSTU5ZGpYam9ZdFJoS2s?oc=5",
+   "sources": 2,
+   "recent6h": 1,
+   "score": 2.5,
+   "level": "kecil",
+   "first": "2026-11-27T07:22:39Z",
+   "last": "2026-11-27T10:53:05Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Makna Salam 3 Jari dalam Aksi Demo Mahasiswa 28 Oktober",
+     "src": "Kaltimtoday.co",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2M1Sk91VERVSWhscUdKNl9uLWsxblFEdHcwWW5WNFVZcTRyUFQ2eU1oVExUcGwySGFCT1dqeXVnVzV3R0NPRU5SZFJoeWdMektPR0RvMXBWZFNlNnhfbDFTRlZ6NlhicE9MM2k3QWMwVUt3QUVRVjYxVHhlTzZENnphS3A?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-202611270506-7a24",
+   "cat": "indonesia",
+   "label": "Peristiwa besar Indonesia",
+   "lang": "id",
+   "title": "Mahasiswa FH UGM Masuk DPO Polda DIY Usai Demo Ricuh",
+   "src": "Derap.Id",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUJrQ1JPeC1YVjRGZEtXSFFkdi1oQmxFS1JIRndudE92WVNobUhyQllUeW5XR1gzMDVPTDBGbkdfdzVOUmU5a05ocThCTmI2NmxJNVhQTEx4VEhRZk1OOXQ4N2liT3ltd0VYazljQWFYLVZ3cWVaM1VOMFVuVXBXX2ppNUQ5Rk0?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-27T05:06:50Z",
+   "last": "2026-11-27T07:52:47Z",
+   "assets": "IHSG, rupiah, SBN",
+   "more": [
+    {
+     "t": "Polda DIY Tahan 7 Tersangka Kerusuhan Yogya dan Cari 1 DPO",
+     "src": "CentralBatam",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9raml2MjBkcXM3YTh0Tk91Y2I3LWRDcWhzNmI3ZUphRzNyVnk2ckhRaXlfNXBURFBWdC1JQk9qMzYtWnAxb2hTZ2NhV2R1SFljbGttbXlacF9JcXBzc2NrTEZReWZkbkVWUlNLMllQODI4QzNVVklHUlJBSC1VclU?oc=5"
+    }
+   ]
   },
   {
    "id": "energi-202611261714-4106",
