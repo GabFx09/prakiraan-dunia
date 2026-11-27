@@ -1382,6 +1382,17 @@
       "ihsg": 5283.328,
       "usdidr": 18303.0,
       "ust10": 4.848
+    },
+    {
+      "t": "2026-11-27T07:05:00Z",
+      "risk": 75,
+      "btc": 61596.55,
+      "gold": 3679.1,
+      "brent": 92.52,
+      "spx": 7182.78,
+      "ihsg": 5276.718,
+      "usdidr": 18370.0,
+      "ust10": 4.848
     }
   ],
   "horizons": [
@@ -1946,24 +1957,24 @@
     },
     {
       "c": "pos",
-      "d": "-2,55% hari ini",
+      "d": "-2,21% hari ini",
       "h": "brent",
       "k": "Minyak Brent",
-      "v": "$92,20"
+      "v": "$92,52"
     },
     {
       "c": "neu",
-      "d": "+3,41% hari ini",
+      "d": "+4,05% hari ini",
       "h": "gold",
       "k": "Emas / oz",
-      "v": "$3.656"
+      "v": "$3.679"
     },
     {
       "c": "neu",
-      "d": "+1,72% hari ini",
+      "d": "+2,02% hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$61.418"
+      "v": "$61.597"
     },
     {
       "c": "neg",
@@ -1974,17 +1985,17 @@
     },
     {
       "c": "neu",
-      "d": "+0,79% hari ini",
+      "d": "+0,66% hari ini",
       "h": "ihsg",
       "k": "IHSG",
-      "v": "5.283"
+      "v": "5.277"
     },
     {
       "c": "neg",
-      "d": "+0,33 hari ini",
+      "d": "+0,70% hari ini",
       "h": "usdidr",
       "k": "USD/IDR",
-      "v": "18.303"
+      "v": "18.370"
     },
     {
       "c": "neu",
@@ -1997,7 +2008,7 @@
   "regimeTitle": "Saham AI goyah, rupiah dekat rekor terlemah, Fed condong naik",
   "risk": 75,
   "riskNote": "Risiko tetap tinggi: rupiah dekat rekor terlemah, Fed hampir pasti naik, Hormuz belum tenang; minyak turun dan IHSG rebound sedikit meredam.",
-  "updatedAt": "2026-11-27T03:58:00Z",
+  "updatedAt": "2026-11-27T07:05:00Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -2315,10 +2326,10 @@
   "brief": {
     "date": "2026-11-27",
     "points": [
-      "Rupiah ~Rp18.303 per dolar AS setelah sempat mendekati Rp18.400; BI-Rate baru naik ke 6,00% tetapi tekanan belum reda.",
-      "IHSG dibuka menguat dan naik ~0,8% ke ~5.283; Wall Street berbalik dari euforia AI ke kekhawatiran.",
-      "Emas rebound ~3% ke ~$3.656 dari level terendah setahun; Brent ~$92 turun meski insiden tanker di Hormuz berlanjut; Bitcoin ~$61,4 ribu.",
-      "Pasar memperkirakan Fed menaikkan bunga 25 bps pada 9 Desember setelah PCE 3,8% dan rencana tarif baru AS.",
+      "Rupiah ~Rp18.370 per dolar AS, melemah lagi (+0,70%); BI-Rate sudah 6,00% namun tekanan belum reda.",
+      "IHSG naik ~0,66% ke ~5.277 di sesi I, asing masuk jelang rebalancing MSCI akhir November.",
+      "Emas rebound ke ~$3.679 dari level terendah setahun; Brent ~$92,52 masih di bawah bayang risiko Hormuz; Bitcoin ~$61.597.",
+      "Wall Street berbalik dari euforia AI ke kekhawatiran; pasar masih memperkirakan Fed menaikkan bunga 25 bps pada 9 Desember.",
       "Pantau OPEC+ 29/11, MSCI 30/11, data tenaga kerja AS 4/12 dan rapat Fed 8–9 Des."
     ]
   },
