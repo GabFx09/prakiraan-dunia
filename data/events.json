@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T03:37:23Z",
+ "updatedAt": "2026-11-27T03:52:00Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Congo Ebola Outbreak: Rebels Fight 15 Miles From Bunia, Home to Vaccine and Drug Trials",
    "src": "Tech Times",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWhacFlXemlFbFZJLWVRdEFFMU5kVG5OSWItTnRQa3VTOUxHMDlCeGE5UEFpVWI2YUdxWWJQczRYRElQVHFNOG9mV2gxdUJXdklWcHlFaTBWcjJUVzk2Z0JIcGhBbmRLSXd2SnZIZFdMTDVvNlV4aWlJRktEckJkOTk2SGZ0aml3NzVMOUxOOVhGcUVFa0tSb1hpb01FSlR6RGRJNG9QelZUWGpMbEpXNk84NUFIQ1B2dXFVYTVfbnY1bDgyQW4w?oc=5",
-   "sources": 15,
+   "sources": 11,
    "recent6h": 1,
-   "score": 15.5,
+   "score": 11.5,
    "level": "besar",
    "first": "2026-11-25T18:50:12Z",
    "last": "2026-11-27T02:33:02Z",
@@ -25,12 +25,6 @@
      "t_id": "Konflik Bersenjata Menghambat Upaya Penanggulangan Wabah Ebola yang Mematikan di Kongo"
     },
     {
-     "t": "The Ebola outbreak in Congo has spread to 8 provinces! The death toll has approached 6,000",
-     "src": "Haberler.com",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3VmdmVqUnJ4VHhPTERlMV9kTENsM25qX0NTRWEzUFVacFBQWmZxcWRRUFMtRU0xUTRwOEtTVE9ETElHX2RIbDNKMVQwaENST0owT012a3VZUGtjTFNIMEFFX1BtMTFwZ2hwRWRDQmEyRzgteHh0cjBBWUNSUDRCVw?oc=5",
-     "t_id": "Wabah Ebola di Kongo telah menyebar ke 8 provinsi! Korban tewas telah mendekati 6.000 orang"
-    },
-    {
      "t": "Congo's Ebola outbreak passes 12,000 confirmed cases and 5,904 deaths",
      "src": "MLQ.ai",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkRoaEQ2aVdDSHJwNF8yM3kzeVlOZUQ2R1Z0eE9zMnBXU2NUckw3R3JSNWUzN0pZaVYwYnFBcXBUTkN5cUthR2lIcGNKNHc3OFExd2dEZ010dFhJQ3NMQmNJRGxhN0JUbHZ3NXZpYW5rWG1rXzNfc1ZwMURpZWJuODhVT2dpeWVSSWM3SVhPajQ?oc=5",
@@ -41,6 +35,12 @@
      "src": "Morning Star | The People’s Daily",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHh3ci1yOU1iZUJZWmZENzFmdDRsZlg5VlY5Zk1Cak9nTGctY19LTm15T0FpQmZiblpXaDVoSUhfM2RSWVNvd19RaVlxV08zWmZGWXEzbWpjcnZ2YU9sdnNWOXlsQ1R5a1Y4ZXluSGdxbmZJSFJBX1pLcjlSSlJPY1p2MUVSeXVqWGdraC15amw3b3R4ZkJzWUpHLXBnT2tWbnVZS3dZSmxWVjFEa2c?oc=5",
      "t_id": "Wabah Ebola mencapai 12.000 orang namun petugas tanggap darurat terpaksa mengungsi saat menghadapi konflik"
+    },
+    {
+     "t": "Vermont Measles Outbreak Grows to 13 Cases in Orleans County Among Unvaccinated Households",
+     "src": "Nature World News",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmxnRW1hWmJubmJpWHZWMnBtM3BhZ2FRcmtxV0JKblF2cnM5bXhrdnozWk55am9MeFJSaHQxby1YSnlXWFRtdk00bXFzbnE1ZVdqWmFkZE0za0V3QjhLVWpXcTUyNm1VN0tqWTNKdXZORUtFWndlZnRLT1loVnF6dHpscm40ZWdjRHJxcEtEUWxTV2NLblE1eXhiSG5ndUl4Y1R1NTFNOHR2LXpYT1ZHV3NXMmsxMHB1NjFCMFFUd21sVl9MOHNWRWpsTnQ2VHk0SHROeFdsdkpDV29Y?oc=5",
+     "t_id": "Wabah Campak Vermont Meningkat menjadi 13 Kasus di Orleans County di antara Rumah Tangga yang Tidak Divaksinasi"
     }
    ]
   },
@@ -52,14 +52,20 @@
    "title": "Spain's snap election: Five key questions for financial markets",
    "src": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFZGRnlyUS1kZHlNY28tLXpFdGFiMGhPZTNCTGtkaDNaZ0t6YVdqU3VGeTA0YWVIdHp0STNadFg5Nmx0alp6SkRlTGFzV0NiZFo3STdpV1FxaTI3WnJvYjFQU05FOURkbVE4RVE5Sm1ZZVdLYkVYTFVVNXhMY0JOU3Bza0VkckxwdUFwVU1hUGNuSThTakxkSlpkWHFiQWdHM3hYYVpiNUVSN3lLMDB3?oc=5",
-   "sources": 7,
-   "recent6h": 2,
-   "score": 8.0,
+   "sources": 9,
+   "recent6h": 3,
+   "score": 10.5,
    "level": "besar",
    "first": "2026-11-25T08:03:00Z",
-   "last": "2026-11-26T22:18:13Z",
+   "last": "2026-11-27T01:55:19Z",
    "assets": "Mata uang & obligasi negara terkait",
    "more": [
+    {
+     "t": "Spain Heads to Sunday Snap Election With Tight, Polarized Race",
+     "src": "Radio Rebelde -",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTYzWTE4OUlGT3JJNnRKWUdUU0ZnblY5aDhMQ0dKSGVSeW9Tdl9MMkd4MW8xU2xEYlBnaXpGcmh3VTFuZzYzMV9iVXVhdTdxNWZKdHdBYVZlRElYbmxDUXpqNWFmRTdrVlhHdlBmYnVjd2RwMWNtaFFqNUg0eXhuRkNpSUFmamFLZTd6d01DMTBXM25MUmhaYnJaUE1ucEo1VTBPc25TdlBTTDQ?oc=5",
+     "t_id": "Spanyol Menuju Pemilihan Umum Minggu Dengan Perlombaan Yang Ketat dan Terpolarisasi"
+    },
     {
      "t": "Spain’s Housing Crisis Drives Snap Election: Explained",
      "src": "JournalArta",
@@ -73,16 +79,9 @@
      "t_id": "Apakah pemilu sela di Spanyol dicurangi? Membongkar klaim viral - Benar atau Palsu"
     },
     {
-     "t": "Spain Heads to Sunday Snap Election With Tight, Polarized Race",
-     "src": "teleSUR English",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0NvUlczV0hDVEI3RU9UTTloXzhCVnFEY05BRzBhOFM0VWwtdVdBVEc3QnZCaEtmWHNjZWpXVzBaS0VxUjNZSy1nbmNmMXVYS3JnVEVUZnlZQzliQjBHblBJX1dhb2h6MEk2dFZqVzlBRzRwVlJCdDFEZWFobDh3V2REM0Fna3p3TWVDbmxXUUZNTk1YM0kzTw?oc=5",
-     "t_id": "Spanyol Menuju Pemilihan Umum Minggu Dengan Perlombaan Yang Ketat dan Terpolarisasi"
-    },
-    {
-     "t": "Spain heads to snap election as housing crisis tests Sánchez",
-     "src": "Harici",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXJfbnI2MjBxM2RPLVd4eUxFWVlMd1VkcnU0ejdmTkpLak9MQnY0d2ZKdng5MkdiSGUtb0hhLVFidHVSeHRlUlRmVFBOY25WSXVKSjZsM2szVmJYd1YtNE5lYnZJbmhuVHEzbzFPWnJ1ZEtqT25TWjUwS2prUDNYUl9xNzNQWUtCTlJZc1ZRQdIBjwFBVV95cUxOMXJfbnI2MjBxM2RPLVd4eUxFWVlMd1VkcnU0ejdmTkpLak9MQnY0d2ZKdng5MkdiSGUtb0hhLVFidHVSeHRlUlRmVFBOY25WSXVKSjZsM2szVmJYd1YtNE5lYnZJbmhuVHEzbzFPWnJ1ZEtqT25TWjUwS2prUDNYUl9xNzNQWUtCTlJZc1ZRQQ?oc=5",
-     "t_id": "Spanyol akan mengadakan pemilu sela saat krisis perumahan menguji Sánchez"
+     "t": "Spain’s snap election — why it matters and who might win",
+     "src": "SRN News",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRU9ield0MWdCVmNuVFNPb1Q2NTY2aU56QVB3dnJQeERqaE5IWnlaQmx5S1lqNDMyaGpwT193WVJFZUd6RDVQMFZyLXNxeHF0VFExRU45NmRUV0ZhWmhzQTJ2RGt4WmdpNVVnNWVIRHk2X1BfU1h1TGxNRk5NejV6T01sejRiQjYxNnVMQQ?oc=5"
     }
    ],
    "title_id": "Pemilu sela di Spanyol: Lima pertanyaan kunci untuk pasar keuangan"
@@ -92,15 +91,15 @@
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement",
-   "src": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUdlenhjamNKTzFaUG9EMVdzb0wwbmlNd1dYLU15Q2xDWDVuYVN6cWtrZlUyRTMxeGdKbVMzaXh0SXNRS1RGUUd1bnhIS3dtYXpLTi1BQkJjSm5SaUhWcENBTlRyZ2dlNEFnbUFOWkdxYlBYUC1sN2NUR0pDc2hDNjR3SF91ODVpOHRCUw?oc=5",
-   "sources": 4,
-   "recent6h": 2,
-   "score": 5.0,
+   "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
+   "sources": 5,
+   "recent6h": 3,
+   "score": 6.5,
    "level": "sedang",
    "first": "2026-11-26T13:54:45Z",
-   "last": "2026-11-27T03:20:40Z",
+   "last": "2026-11-27T03:30:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
@@ -119,9 +118,14 @@
      "src": "Algemeiner.com",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXdJVi13eGlweExLN0lHVnllci1nYmphYXpaYUlzQTZxOV90bDV5ZThYenNLQXpVZUZpRnV4U2hvOHpNemRlNTRrUGNYbVFzenpweHk3X0VKNnpzbV96Wkt1UzY3MUNOUXUzVVhoODFsZExuUmFmMndfTXl3Y19XRWU3QUVyeXJnel92TGFiYWtXWkRhUXBRYzd0ejBJQQ?oc=5",
      "t_id": "Dua Warga Italia Tewas dalam Serangan Drone Iran di Kuwait, Kata Italia"
+    },
+    {
+     "t": "Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement",
+     "src": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUdlenhjamNKTzFaUG9EMVdzb0wwbmlNd1dYLU15Q2xDWDVuYVN6cWtrZlUyRTMxeGdKbVMzaXh0SXNRS1RGUUd1bnhIS3dtYXpLTi1BQkJjSm5SaUhWcENBTlRyZ2dlNEFnbUFOWkdxYlBYUC1sN2NUR0pDc2hDNjR3SF91ODVpOHRCUw?oc=5",
+     "t_id": "Dua warga Italia tewas dalam dugaan serangan pesawat tak berawak Iran di Kuwait; Teheran membantah terlibat"
     }
-   ],
-   "title_id": "Dua warga Italia tewas dalam dugaan serangan pesawat tak berawak Iran di Kuwait; Teheran membantah terlibat"
+   ]
   },
   {
    "id": "perang-202611260505-8afa",
@@ -208,31 +212,6 @@
    "title_id": "Serangan pesawat tak berawak Ukraina melukai empat orang, menyebabkan tumpahan minyak di Rusia selatan"
   },
   {
-   "id": "siber-202611260345-02f0",
-   "cat": "siber",
-   "label": "Serangan siber & gangguan sistem",
-   "lang": "en",
-   "title": "Allstate Outage Today: Is Allstate Down in the US? Users Report Website, App Login, Insurance Claims, Payment and Customer Service Issues | Check Latest Downdetector Status",
-   "src": "The Sunday Guardian",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPTGNMT25fekFjdkhCTlN2bWxEZWV4dUtFNGVzQkNNV1FnNHNramZwQlBJUVlqeEU4WEVhV0NmQzZ3cGtFbDhtV2l4QTliclpWSDc0VlhfN1RoY2M4VTBjVUVjYkVTZE93dS1peW9XRFNsTmVjY3dvbXE2R3VycDNUNUphbE1FMFZNd0tteTBtdTJWSWw2TnJMc09GMEdydWpZT0RZVWQ4akp3bWxtUHp3R1pIaUdpaVNaNFlJVHJCLTViSWpqUnRCeG1XYldXNDdKQ0xlcE5TWXhrSGNIQTJGeHBFUlgtQXFNZ2J6dTlfeU9vSTZzOW9ySG5DV21tanBvSGVIZDlGZEsyN1RtRTI3ZTRKTktzMzZ4c0hZSXZ5OGFCQkJPcmlwN3UxOWNINUpaTmxwYWRaVmJGS2xZUUHSAb4CQVVfeXFMT0xjTE9uX3pBY3ZIQk5Tdm1sRGVleHVLRTRlc0JDTVdRZzRza2pmcEJQSVFZanhFOFhFYVdDZkM2d3BrRWw4bVdpeEE5YnJaVkg3NFZYXzdUaGNjOFUwY1VFY2JFU2RPd3UtaXlvV0RTbE5lY2N3b21xNkd1cnAzVDVKYWxNRTBWTXdLbXkwbXUyVklsNk5yTHNPRjBHcnVqWU9EWVVkOGpKd21sbVB6d0daSGlHaWlTWjRZSVRyQi01YklqalJ0QnhtV2JXVzQ3SkNMZXBOU1l4a0hjSEEyRnhwRVJYLUFxTWdienU5X3lPb0k2czlvckhuQ1dtbWpwb0hlSGQ5RmRLMjdUbUUyN2U0Sk5LczM2eHNIWUl2eThhQkJCT3JpcDd1MTljSDVKWk5scGFkWlZiRktsWVFB?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-26T03:45:29Z",
-   "last": "2026-11-26T19:16:00Z",
-   "assets": "Saham teknologi & perusahaan terdampak",
-   "more": [
-    {
-     "t": "Microsoft Declares Code Red Status After Global Outage, Targets One-Hour Service Recovery",
-     "src": "Aktualita.co",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkJsVm1BRHctRHllWjJkTktKVlBsVGV2am9aa1h0b1VQdVpLT1BKYnJBVl9XblplY0FPLWtXSnBiT3RIbWVBaU83NGh3Y05YbzJOdlpkOFdTMm5jM3hJSWFUSjlBeGE3N2ZTRUNraGt1XzBpZ1RUZm9lT3c4WnJ1NjFn?oc=5",
-     "t_id": "Microsoft Mendeklarasikan Status Kode Merah Setelah Pemadaman Global, Menargetkan Pemulihan Layanan Satu Jam"
-    }
-   ],
-   "title_id": "Pemadaman Allstate Hari Ini: Apakah Allstate Down di AS? Laporan Pengguna Situs Web, Login Aplikasi, Klaim Asuransi, Masalah Pembayaran dan Layanan Pelanggan | Periksa Status Downdetector Terbaru"
-  },
-  {
    "id": "perang-202611261402-a3b3",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -281,5 +260,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "siber: HTTP Error 429: Too Many Requests"
+ ]
 }
