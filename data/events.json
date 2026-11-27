@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T05:49:13Z",
+ "updatedAt": "2026-11-27T06:03:51Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -42,7 +42,51 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHh3ci1yOU1iZUJZWmZENzFmdDRsZlg5VlY5Zk1Cak9nTGctY19LTm15T0FpQmZiblpXaDVoSUhfM2RSWVNvd19RaVlxV08zWmZGWXEzbWpjcnZ2YU9sdnNWOXlsQ1R5a1Y4ZXluSGdxbmZJSFJBX1pLcjlSSlJPY1p2MUVSeXVqWGdraC15amw3b3R4ZkJzWUpHLXBnT2tWbnVZS3dZSmxWVjFEa2c?oc=5",
      "t_id": "Wabah Ebola mencapai 12.000 orang namun petugas tanggap darurat terpaksa mengungsi saat menghadapi konflik"
     }
-   ]
+   ],
+   "title_id": "Wabah Ebola di Kongo: Pemberontak Bertempur 15 Mil dari Bunia, Rumah bagi Uji Coba Vaksin dan Obat-obatan"
+  },
+  {
+   "id": "perang-202611261355-3cea",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
+   "sources": 9,
+   "recent6h": 5,
+   "score": 11.5,
+   "level": "besar",
+   "first": "2026-11-26T13:54:45Z",
+   "last": "2026-11-27T05:50:03Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Drone Attack Kills Two Italian Technicians at Kuwait Military Site",
+     "src": "bsinews.id",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vQ3N6ZW5SLTFlVkNDb1dhUHZnbExPMTRRaHZnUEhoVjdOR09hZE1MOE14U0dnOEl6S0dMQmxYM01kZlRJN21McTEyZExwZS1uQ19KSGttLTBQSlJHMkw3SUpfbW5sbTA?oc=5",
+     "t_id": "Serangan Drone Tewaskan Dua Teknisi Italia di Situs Militer Kuwait"
+    },
+    {
+     "t": "Kuwait Reports Two Italian Deaths After Iranian Drone Attack",
+     "src": "SuaraGarut.ID",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qRnMzenpMV0puT2dsdlNHX2FxVVZaeFZ5cGN5Vm1oYUl5VjZNOWdZN3k0U0dmMXZneTEtc3JRblJ2UzVSNVYwM0dKZy00SDEtMEtSaTh0WWdmMWpnejhUTVB1b0pYb0I1aXZ3?oc=5",
+     "t_id": "Kuwait Melaporkan Dua Kematian Orang Italia Setelah Serangan Drone Iran"
+    },
+    {
+     "t": "Middle East latest: Two Italians killed in Iranian drone attack in Kuwait",
+     "src": "The National",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5",
+     "t_id": "Timur Tengah terbaru: Dua warga Italia tewas dalam serangan pesawat tak berawak Iran di Kuwait"
+    },
+    {
+     "t": "Suspected Iranian Drone Attack in Kuwait Kills Two Italian Rheinmetall Technicians",
+     "src": "The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1RDMlpMZVhPZm50OWFacXF5UEpVemZtSnNEQS1BTV8yN3EzUHVadWNQaWFOeHprOG5meFVkNkxvbmFKNGhBeUNDUjUyWDY1RWU5TUlIdzk2bVJydnczRkgtODJ0cWlHR25EQzJBRUJNNTl6OVY3QkFZVk9SZS1mNjg4WWU0NjVQQUZWT1FLX2g1ZUdCUVpQanNJUGU3cnhkdWxXcmIxTQ?oc=5",
+     "t_id": "Dugaan Serangan Drone Iran di Kuwait Tewaskan Dua Teknisi Rheinmetall Italia"
+    }
+   ],
+   "title_id": "Dua warga Italia tewas dalam serangan drone Kuwait; Trump mengatakan perang Iran berakhir 'kapan pun saya menginginkannya'"
   },
   {
    "id": "politik-202611260555-8c38",
@@ -79,110 +123,50 @@
      "t_id": "Apakah pemilu sela di Spanyol dicurangi? Membongkar klaim viral - Benar atau Palsu"
     },
     {
-     "t": "Spain’s snap election — why it matters and who might win",
-     "src": "SRN News",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRU9ield0MWdCVmNuVFNPb1Q2NTY2aU56QVB3dnJQeERqaE5IWnlaQmx5S1lqNDMyaGpwT193WVJFZUd6RDVQMFZyLXNxeHF0VFExRU45NmRUV0ZhWmhzQTJ2RGt4WmdpNVVnNWVIRHk2X1BfU1h1TGxNRk5NejV6T01sejRiQjYxNnVMQQ?oc=5"
+     "t": "Why Spain's Housing Crisis Just Blew Up The Snap Election",
+     "src": "ИФЗ РАН",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TandBY1I5NXppOTQxWGs0QzNkTmdoUlJlcUJ4LXhIZEE5YnFYZDdzak0yMXQwRGt1UTJqTC16UWJRbVNDWGhjTTZOSG8tSUc1cjdXRU44T1ZPUUFFWHFXVm1uMjJaOVVONFFZQUY4ZFpsczg?oc=5",
+     "t_id": "Mengapa Krisis Perumahan di Spanyol Meledakkan Pemilu Secepatnya"
     }
-   ]
+   ],
+   "title_id": "Pemilu Cepat Spanyol: PP dan Vox Bisa Membentuk Pemerintahan Sayap Kanan"
   },
   {
-   "id": "perang-202611261355-3cea",
+   "id": "perang-202611261241-850c",
    "cat": "perang",
    "label": "Perang & serangan militer",
    "lang": "en",
-   "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
-   "sources": 5,
-   "recent6h": 3,
-   "score": 6.5,
+   "title": "Ukrainian drone attack injures four, causes oil spill in southern Russia",
+   "src": "Big News Network.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNclotY2RrcUpkVFdYLUl4d01MbkUybFhvNGdhaUlXTFU5M0RmT1FnbjdZdVJRLUFZYk5vYmw3X2xUazFhOFJyeDUwMnM0d1hhektpV0h5LWpYYnJ2clpmam8xMVJ6all3Y0JYTnNib2V1YUNjdzlJQmRFaUk5LVhQblVDX1lGdzVua1BnSEl6MF9VODBaS3FfWVZyWW5UTmxGU1gzcXFvaTlwUjdINGJyYmp2WVZBcG9o?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-26T13:54:45Z",
-   "last": "2026-11-27T03:52:29Z",
+   "first": "2026-11-26T12:41:56Z",
+   "last": "2026-11-26T19:38:00Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Middle East latest: Two Italians killed in Iranian drone attack in Kuwait",
-     "src": "The National",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5",
-     "t_id": "Timur Tengah terbaru: Dua warga Italia tewas dalam serangan pesawat tak berawak Iran di Kuwait"
+     "t": "UAE Says Iranian Missiles Struck Oil Tankers in Strait of Hormuz, One Sailor Killed",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHI2dnA4RFFBdm9PemRsSGZPVE91QWpZRUprX084RjNiZmh4LUxUZ3RKRFZxRS1nTTkyemlUbmxJUjZocVl0Um5pWFZvN1R2Q2NIcThHQ2ZOalFRc21LQ3AyWVV4amMtal9pbmdySTdjcUxNRVlDQWlyc1RyVjA3RlpEN1F6VEEwU3VkTEhMR2ZqQmlwVHVOeFMwSkkyZmdINFp4bm9SX3ZSd1dMY0lmRi0tQQ?oc=5",
+     "t_id": "UEA Mengatakan Rudal Iran Menghantam Tanker Minyak di Selat Hormuz, Seorang Pelaut Tewas"
     },
     {
-     "t": "Suspected Iranian Drone Attack in Kuwait Kills Two Italian Rheinmetall Technicians",
-     "src": "The SOFX Report",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1RDMlpMZVhPZm50OWFacXF5UEpVemZtSnNEQS1BTV8yN3EzUHVadWNQaWFOeHprOG5meFVkNkxvbmFKNGhBeUNDUjUyWDY1RWU5TUlIdzk2bVJydnczRkgtODJ0cWlHR25EQzJBRUJNNTl6OVY3QkFZVk9SZS1mNjg4WWU0NjVQQUZWT1FLX2g1ZUdCUVpQanNJUGU3cnhkdWxXcmIxTQ?oc=5"
+     "t": "Iran launches drone attack on Kuwait5",
+     "src": "Daily Observer",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oVGZkbE92bmpLb3p2cl9CYkxPOFVkb2V5WFJYTWpDRmdFNk9fWlJWR2FHS1huNW5PdTc0N1dvV2tyanZlT2xIOFl3?oc=5",
+     "t_id": "Iran melancarkan serangan drone ke Kuwait5"
     },
     {
-     "t": "Two Italians Killed in Iranian Drone Attack in Kuwait, Italy Says",
-     "src": "Algemeiner.com",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXdJVi13eGlweExLN0lHVnllci1nYmphYXpaYUlzQTZxOV90bDV5ZThYenNLQXpVZUZpRnV4U2hvOHpNemRlNTRrUGNYbVFzenpweHk3X0VKNnpzbV96Wkt1UzY3MUNOUXUzVVhoODFsZExuUmFmMndfTXl3Y19XRWU3QUVyeXJnel92TGFiYWtXWkRhUXBRYzd0ejBJQQ?oc=5",
-     "t_id": "Dua Warga Italia Tewas dalam Serangan Drone Iran di Kuwait, Kata Italia"
-    },
-    {
-     "t": "Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement",
-     "src": "CNN",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUdlenhjamNKTzFaUG9EMVdzb0wwbmlNd1dYLU15Q2xDWDVuYVN6cWtrZlUyRTMxeGdKbVMzaXh0SXNRS1RGUUd1bnhIS3dtYXpLTi1BQkJjSm5SaUhWcENBTlRyZ2dlNEFnbUFOWkdxYlBYUC1sN2NUR0pDc2hDNjR3SF91ODVpOHRCUw?oc=5",
-     "t_id": "Dua warga Italia tewas dalam dugaan serangan pesawat tak berawak Iran di Kuwait; Teheran membantah terlibat"
+     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+     "src": "EnergyNow",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczVGOHAzUENEVHpzT3BVcTlZdnFjSXZpSU91S3ZsQUZhSVI3LVYzUVlTV1V2WXQ3WUNNVzN6ZVpsRFJJMzJ2ZHY5Vm1MNTBDSXZrSS0yc0YzaFRoNWpOSEZfMUVCWmhHRTNrdi1mbDU3VFNlQkNBX2J3a09laDFWcmZZVzNYT2tmeU1wS1hnS2dZa2VfUFVrMWI3WE1TN1FnSThlZEJCV04zVWt2NEdWM1F0R29WMjRSZE5r?oc=5",
+     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
     }
-   ]
-  },
-  {
-   "id": "indonesia-202611270506-df7b",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Polda DIY Tetapkan 7 Tersangka Kerusuhan Demo Yogyakarta",
-   "src": "BeritaJejaring.co.id",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wUTJ1T0h5NkNHUEpNRWQ3NTFjM0pZVXJRM0ZfRjZpSXBSbUcyY2tsUUJ2STB6ZUd3NnR2YkNEMm5nY1AwUVZlb3YwWE1fX21vajdWRWd6clZCbnBlckNIUjVTbHExdmMwYnQ4cFo4OW9YT1E?oc=5",
-   "sources": 2,
-   "recent6h": 2,
-   "score": 3.0,
-   "level": "kecil",
-   "first": "2026-11-27T05:06:50Z",
-   "last": "2026-11-27T05:13:44Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Polda DIY Tahan 7 Tersangka Kerusuhan Yogya dan Cari 1 DPO",
-     "src": "CentralBatam",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9raml2MjBkcXM3YTh0Tk91Y2I3LWRDcWhzNmI3ZUphRzNyVnk2ckhRaXlfNXBURFBWdC1JQk9qMzYtWnAxb2hTZ2NhV2R1SFljbGttbXlacF9JcXBzc2NrTEZReWZkbkVWUlNLMllQODI4QzNVVklHUlJBSC1VclU?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "kerusuhan-202611260807-9bd2",
-   "cat": "kerusuhan",
-   "label": "Kerusuhan & protes besar",
-   "lang": "en",
-   "title": "Hochul declares state of emergency in New York counties ahead of Thanksgiving storm",
-   "src": "AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUWZUMmI1d1dpLWRQRDFsdlVPd0xWU0w0aVVaUkdVNURNekhKZExjaGNpdXlWcUZxYW9feTl4V3g0NFdGVDg4U0xDNWxQVlp1N21mUWlsQ0FCSzRHRUhCS21YbmxLUkMtdTVMQjdXX2FsbXJwWU9OME5kVS0wWXFnWWxVa1Fwd0E?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-26T08:07:22Z",
-   "last": "2026-11-26T18:39:02Z",
-   "assets": "Mata uang lokal, saham negara terkait, emas",
-   "more": [
-    {
-     "t": "State of emergency declared for New York, New Jersey on Thanksgiving",
-     "src": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjNtRjlaQ2xlRnAzUm5WWE5Yd0dWeGFnT1EwcUx3ZmdRMXJQN3B5V0FKbVVTUzh6M0xXV1VDMndoeGFRUzhON3FLcDNJQ2t1UXExZm4xVzNUWmxhdk9Md1FyQ3hob1NhcVZCcHJiN0NIQlN0NTAxYnJrUUNvM3hvZHp0X3Z3Y1JMckxKSTlBYXhaUmNQNVk5UndodXlha3RsWlE?oc=5",
-     "t_id": "Keadaan darurat diumumkan di New York, New Jersey pada hari Thanksgiving"
-    },
-    {
-     "t": "State of emergency declared ahead of Thanksgiving storm. What upstate NY can expect",
-     "src": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjVpQ3g2OU9haDhJc0RLS0JaWjJRcnpxSG9lYU00U0NtTzFhWUdsZ3VWRmwzRWpkX3dwZ2E0NUpIVWVPZTVITDJhcXdwT1V3N0dFZFhGSW52eFhMaWFKaG5PeHZYUmxHaTRORVVRS2x3T2RQVlZQdTJJYk05amdJZkt0WjhILWlacUdyWG50N0ZhT1F6NEdpSlpGUXBoaVRfSGNVeTRsVEFXQm8?oc=5"
-    },
-    {
-     "t": "Gann Fire local state of emergency declared: 7,052 acres burn, 10% contained",
-     "src": "FOX40",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3E3Y0ZyS0k4NVBRMUtUR1I5bEZxVkFiOWJQa3ppUE1DSDM0UTFHZ25mV0RqMEk4Ymh1czVjZGU0eW5hQzhXRUdjdmNkYWdVTTNoYWhYdWpPUUZ0OUJDUXIzYlRicjNZWEVGODhjaTlGc0NtZjU3b1FYRFQ0andiTTYwTDNiUHVadzVrRXNXc2Jrc3ZibnB6QTFHclFSc1NKTWxfQ29vZTBBUQ?oc=5",
-     "t_id": "Keadaan darurat setempat di Gann Fire menyatakan: 7.052 hektar terbakar, 10% dapat diatasi"
-    }
-   ]
+   ],
+   "title_id": "Serangan pesawat tak berawak Ukraina melukai empat orang, menyebabkan tumpahan minyak di Rusia selatan"
   },
   {
    "id": "perang-202611260505-8afa",
@@ -207,37 +191,13 @@
      "t_id": "Rusia Melancarkan Serangan Rudal Balistik ke Kyiv, Menyerang Dua Bangunan"
     },
     {
-     "t": "Fires rage across Kyiv following an overnight Russian missile attack — photo",
-     "src": "The New Voice of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckR6MTREQm1GdF9QcV9BRVhwN0ZqMEx1d1l0STFrMVV6Q1RKeEx2S2lGajN2dW9KNnUyUkd5RS1CcGl2SlllcGJYckFURUQyWDdfd2JmS1BxempiZFY2VGdKVi02bURjdFV5My1kRHBKeWwwamZzc2R4Vk5LWnpRQV93aXdsSF9lZ1dfRGVZZGVQZ2RGdndXRzFYLVZDNG84OUJSS0JrONIBowFBVV95cUxNRlNMSGZuSlBnQmdQaGFMODdJN3FUMzEyeUJmNUJBb1h5SThUaDRYbkFNXzhUTTNlSE1DSVpfUEwtbGFyR0I3Zk0wU2sya0xubnlxUmFnVUxtdmhLLTJlR3BjWTBzSzNWaGQ1bE5kN0tZZVpBMXdGSDRTNmhqVTFiWHNfQ0NhendEWThIZkhOMWk4enQzM2NPdFdzcnJQYU9VcDFZ?oc=5",
-     "t_id": "Kebakaran berkobar di Kyiv setelah serangan rudal Rusia semalaman — foto"
-    }
-   ]
-  },
-  {
-   "id": "perang-202611261241-850c",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Ukrainian drone attack injures four, causes oil spill in southern Russia",
-   "src": "Big News Network.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNclotY2RrcUpkVFdYLUl4d01MbkUybFhvNGdhaUlXTFU5M0RmT1FnbjdZdVJRLUFZYk5vYmw3X2xUazFhOFJyeDUwMnM0d1hhektpV0h5LWpYYnJ2clpmam8xMVJ6all3Y0JYTnNib2V1YUNjdzlJQmRFaUk5LVhQblVDX1lGdzVua1BnSEl6MF9VODBaS3FfWVZyWW5UTmxGU1gzcXFvaTlwUjdINGJyYmp2WVZBcG9o?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-26T12:41:56Z",
-   "last": "2026-11-26T19:38:00Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
-     "src": "EnergyNow",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczVGOHAzUENEVHpzT3BVcTlZdnFjSXZpSU91S3ZsQUZhSVI3LVYzUVlTV1V2WXQ3WUNNVzN6ZVpsRFJJMzJ2ZHY5Vm1MNTBDSXZrSS0yc0YzaFRoNWpOSEZfMUVCWmhHRTNrdi1mbDU3VFNlQkNBX2J3a09laDFWcmZZVzNYT2tmeU1wS1hnS2dZa2VfUFVrMWI3WE1TN1FnSThlZEJCV04zVWt2NEdWM1F0R29WMjRSZE5r?oc=5",
-     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+     "t": "Russia hits Ukraine with missiles and drones: seven hurt in Kyiv, two killed in Kharkiv, children among injured in Zaporizhzhia",
+     "src": "BurgasMedia",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeWxiNUJBNzMtQWx0cWpHM2ZkVHF2SEJTMU1VcUxNTnJjUHEwaWwxQjlBWFkyek5IZTZwOElTdVBZWHFjaXZRQ3UzSlJ0ZE9GQTJPOHYwTzJZem55NmJYYU5mS2FUcndfLWhQMlNIVEl1MEhWVm9NU1NYVTVSNFR4V3NKajQ2RHpOMWtNZEwtVkNtcnlSVDAxMUlfWV9wNEIwRzhNckVYb1c1akljNnYtWi1qbkRkLUdwVW5XOHdhQnpMQXN1b1Q3OUxzeDdrTG9C0gHWAUFVX3lxTFA1eUwwTy1IVTNfcjFWWEM5TWtlVTlpZzRzaENQOEIycmhPVHNmenRwSWszZnR3VWRHWE83M0R6c3dYRzBOc3gtYWYwbUZCZ3hyVHRlUDdjdjZZdUd4VVFmdnV3ck1xeHdZOFJUY3ZNNEpIXzkxX2kyTkhTUUtxVC1Pa19Kal9rb3I5Q2FCaVBJc05EQXNuMlZCQ1c4V1NYc0pKa3JpTElSYWQ1N1Q5ME83WW1BT2VwMVgwZjEyTExRV1pvQmljOHNCSk9aNlAyNWhvS1NSN2c?oc=5",
+     "t_id": "Rusia menyerang Ukraina dengan rudal dan drone: tujuh orang terluka di Kyiv, dua tewas di Kharkiv, anak-anak termasuk yang terluka di Zaporizhzhia"
     }
    ],
-   "title_id": "Serangan pesawat tak berawak Ukraina melukai empat orang, menyebabkan tumpahan minyak di Rusia selatan"
+   "title_id": "Asap mengepul di Kyiv setelah serangan rudal balistik melukai tujuh orang"
   },
   {
    "id": "perang-202611261402-a3b3",
@@ -263,52 +223,6 @@
     }
    ],
    "title_id": "Rusia dan Ukraina saling bertukar serangan drone dan rudal, menyebabkan korban tewas dan terluka"
-  },
-  {
-   "id": "indonesia-202611260553-f87f",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Puluhan Mahasiswa Demo di DPRD Tangsel, Sampaikan 24 Tuntutan kepada Pemkot",
-   "src": "Ekbisbanten",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3lKMnljeGtJaGN2QVZUbDhiNVVISnhxc3Z4bzJuNW9GaWYzSTFyNzB2RzVpTmVhRmIxQTJNVlRhM2FGRnUxLU1KTzJiTHJfS3NwQW9HS2N3aXZYOVZFWFpIZXBsdEpjdE9qUTJ3anB2cGVkQjlrT0hGS3p4U1hEM1Q5ekU0Y3pRd0VEbjVERkRXLWFyRThzU2JJQ08zYjJzVjl5WWNpeXN2Zw?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-26T05:53:38Z",
-   "last": "2026-11-26T10:51:59Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "HUT ke-18 Tangsel Diwarnai Demo Mahasiswa, Persoalan Sampah Jadi Sorotan",
-     "src": "radarbanten.co.id",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVR0Y3BtS2N0Z2hBcjF0dGdLdlJDUXhRYWZ0TlVTSXpVSktBWVd1dGV4VVlBV21JSHZiZURoeHlCc1ZfMWctT0h6Q01ibURfUmhrX1gxY0NFdC1RWWluekwtMDQzQ3Z4TWM4Z1lYdi1FWEo0RmJiTERuNzQtUUpHNU84SHN0TzY0MS0yTEFGeGZVa09RRlpiVmNnaTdOc19mMXYzb010LVFqRlE2NXpKN0tlUQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "indonesia-202611260543-baf4",
-   "cat": "indonesia",
-   "label": "Peristiwa besar Indonesia",
-   "lang": "id",
-   "title": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
-   "src": "ANTARA News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3k4MXNsUmtSbThRQklWTnFLWDhSNHBQbnl5a0g5QkNHd3JVS0I2THZBVnBYNjJVQ081bl9Yd2ZtcUJrSzQyeXBvNHQ4X290T20tdEFZTnU3TU9IVkVzcTdfa2xRNkFEc2FYNF95TzhZaUxVY1R6Z0hNSlFlemxFZ185UllYYm0yeG90S1VGUjZldHd4akI0alhPX3FHaktjTWw0MldnSWjSAasBQVVfeXFMTk9sRWtZVjhGbWRXbGJnQmU1TE4zSzhESU80WUJQRU8zQ3JOWkYyT05Dck9mS1hSM3d0MXo2aE9JRmRkM0l4Y3E3ekRuakZ3R2c3RlRYc1lwRTBuTEpOTi1SYmhZTU90UUJRWXNDd19LS3hNREFraXNaVE5xVzcwemZBWFBmX1FUSFB3NFV0Qzh6c25yQjhHSlI4MmE3bzlIeXlNR19oSmU3NkVB?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-26T05:43:11Z",
-   "last": "2026-11-26T09:28:00Z",
-   "assets": "IHSG, rupiah, SBN",
-   "more": [
-    {
-     "t": "Hoaks! Video demo massa di Solo desak Gibran kembali jadi Wapres",
-     "src": "Head Topics",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUQzdl9XN2ItTEVOdkJhZmhfa1drMndMUnpkNklBRWo1U0hTVFI0YmlzWGpta0NkMnVkcUNpa21VYmlFbXRJSmMzTnhaWU9DUU9uNlo3bHJKVVdvQl9RQ3VJbXNOV0xxTGFhVDJYWjAwaGc4ODJ1Tk1rbTRkT3JtUjZGMDJ5X1lFRlByWV9qVDJUeGpmdWtBZjFvNVY?oc=5"
-    }
-   ]
   }
  ],
  "errors": []
