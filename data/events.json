@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T13:39:17Z",
+ "updatedAt": "2026-11-27T13:54:03Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -10,9 +10,9 @@
    "title": "Congo Ebola Outbreak: Deaths Near 6,000 as Fighting Spreads",
    "src": "EEW Magazine",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1gyVGRJT2Ixbmg1RTJDNHlZbmtUZjdDMWluRmk3SGpXazF4cDRuV0xjamdZSDhYckZSR0d0V2Q0UC1Qb1Naa0x2S0ZQbmtDOXVQVW1DMEpmV0RnOHhtRkRtU3YzZldQaVhLY3lFa0RWSkthU19PQTdETHpycnlJNmR3d2FyQktMeVNNdGZjVzZidDh0YUJvMkd4b0loa19vVnB6SWZ3?oc=5",
-   "sources": 13,
+   "sources": 11,
    "recent6h": 1,
-   "score": 13.5,
+   "score": 11.5,
    "level": "besar",
    "first": "2026-11-25T18:50:12Z",
    "last": "2026-11-27T13:16:53Z",
@@ -42,7 +42,8 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnNNLUVhVFFxWjgwU3BIVE03UTA1WlA0N2dHekgweXhxeVR2VVlBak1qYTFuU1A4Z0dFZ0l6OGU1ODRiU0NfWmp1YlFMUVVPdncwY2hRbTV5YllWeER0QjBibmowRjJrcTlCNXZYU285cy1MemNIX3VWUDZDWG9kZmNn?oc=5",
      "t_id": "Wabah Ebola di Kongo telah menyebar ke 8 provinsi! Korban tewas telah mendekati 6.000 orang"
     }
-   ]
+   ],
+   "title_id": "Wabah Ebola di Kongo: Kematian Mendekati 6.000 Orang Saat Pertempuran Meluas"
   },
   {
    "id": "perang-202611261355-3cea",
@@ -122,12 +123,13 @@
      "t_id": "Spanyol Menuju Pemilihan Umum Minggu Dengan Perlombaan Yang Ketat dan Terpolarisasi"
     },
     {
-     "t": "Spain’s Housing Crisis Drives Snap Election: Explained",
-     "src": "JournalArta",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BUmdkR19HWk84RXpZXzR3cFVQLVB5VzJWVEFiSHI0dGdzVEo5NGh0TEpFSEd3VmlmZ1hNWHVfbUFZLTVGMmo5NVZEc3E3TDAwYzI4a19EaWxNSF9DV1Ria2duVnlBS2VwZFd2QzR1UnZUV040Yk01bDNhLXJFdw?oc=5",
-     "t_id": "Krisis Perumahan di Spanyol Mendorong Pemilu Secepatnya: Dijelaskan"
+     "t": "Is Spain's snap election being rigged? Debunking viral claims - Truth or Fake",
+     "src": "France 24",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE9ldVUwWF9ZRXI2VUdzNVRxMlpsRDFDWlJ4YTZWMmNXbGxkbjU1WVNUb002ZWFQUkdsR1c4NG16cVhpQ2dMejJzREtlWW5VZmw1NE1mZHZKbHhoVVk2M2ZUYnh2RDR1VVRienpVbWtBYjczNHVIeGFDcFBIYmhIMGdUcWRzSnFwMW9kaXlCcW9rLWxaaGJhREJUYTYwQ1ZkMHl3cEZqaTJrUVZ4TzBTNkZUY2k5aFdDbUJkcg?oc=5",
+     "t_id": "Apakah pemilu sela di Spanyol dicurangi? Membongkar klaim viral - Benar atau Palsu"
     }
-   ]
+   ],
+   "title_id": "Pemilu Cepat di Spanyol: Cara Kerja Pemungutan Suara, Partai-Partai Penting, dan Permasalahannya"
   },
   {
    "id": "perang-202611261954-2326",
@@ -167,6 +169,37 @@
    "title_id": "Ukraina dilaporkan menyerang pabrik Rusia yang terkait dengan produksi rudal"
   },
   {
+   "id": "politik-202611260555-8c38",
+   "cat": "politik",
+   "label": "Guncangan politik",
+   "lang": "en",
+   "title": "Spain’s Snap Election Explained | Dawn News English",
+   "src": "Dawn",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWZiS1pTbk9KbFk5Vmc5UDRoVUtySHJPR3VFUWhtemI1Smh3NjV4bDAxWndXT0Y4anFLc2JUME9xLVktMS1pa1FSZHpoUmJRSHphU2ZkZkc2WkQtQnF6U1l4aFBoVmgxcjA3dHdoamFTSzNuQjBIamc4UHFkV2dNajVxcHlwVHRmMlE?oc=5",
+   "sources": 3,
+   "recent6h": 1,
+   "score": 3.5,
+   "level": "sedang",
+   "first": "2026-11-26T05:55:08Z",
+   "last": "2026-11-27T13:02:05Z",
+   "assets": "Mata uang & obligasi negara terkait",
+   "more": [
+    {
+     "t": "Spain’s Housing Crisis Drives Snap Election: Explained",
+     "src": "JournalArta",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BUmdkR19HWk84RXpZXzR3cFVQLVB5VzJWVEFiSHI0dGdzVEo5NGh0TEpFSEd3VmlmZ1hNWHVfbUFZLTVGMmo5NVZEc3E3TDAwYzI4a19EaWxNSF9DV1Ria2duVnlBS2VwZFd2QzR1UnZUV040Yk01bDNhLXJFdw?oc=5",
+     "t_id": "Krisis Perumahan di Spanyol Mendorong Pemilu Secepatnya: Dijelaskan"
+    },
+    {
+     "t": "Why Spain's Housing Crisis Just Blew Up The Snap Election",
+     "src": "ИФЗ РАН",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TandBY1I5NXppOTQxWGs0QzNkTmdoUlJlcUJ4LXhIZEE5YnFYZDdzak0yMXQwRGt1UTJqTC16UWJRbVNDWGhjTTZOSG8tSUc1cjdXRU44T1ZPUUFFWHFXVm1uMjJaOVVONFFZQUY4ZFpsczg?oc=5",
+     "t_id": "Mengapa Krisis Perumahan di Spanyol Meledakkan Pemilu Secepatnya"
+    }
+   ],
+   "title_id": "Penjelasan Pemilu Cepat Spanyol | Berita Fajar Bahasa Inggris"
+  },
+  {
    "id": "siber-202611261544-c45e",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -179,7 +212,7 @@
    "score": 2.5,
    "level": "kecil",
    "first": "2026-11-26T15:44:38Z",
-   "last": "2026-11-27T12:49:27Z",
+   "last": "2026-11-27T13:48:18Z",
    "assets": "Saham teknologi & perusahaan terdampak",
    "more": [
     {
@@ -235,12 +268,12 @@
     {
      "t": "Allstate hit by multi-day tech outage ahead of Thanksgiving travel",
      "src": "Yahoo Tech",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFhFSnFNaXhfUjFFd1hqbmdnVlB4SEpMcTl3eVd1QlVHcUY4VG5feV9aRFBUeXNTbi1wN09HR1Bic1JBa3g1eVlqWW9tZHE2N2NmN255N2NNOS1MUlp0MGt4NW9sMW15LU1KVkZfVEZxZjY5SjY0Vkh0Qi1QY0JUdU1ET21CY1pSWEVIaHhtZW8yUQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFhFSnFNaXhfUjFFd1hqbmdnVlB4SEpMcTl3eVd1QlVHcUY4VG5feV9aRFBUeXNTbi1wN09HR1Bic1JBa3g1eVlqWW9tZHE2N2NmN255N2NNOS1MUlp0MGt4NW9sMW15LU1KVkZfVEZxZjY5SjY0Vkh0Qi1QY0JUdU1ET21CY1pSWEVIaHhtZW8yUQ?oc=5",
+     "t_id": "Allstate dilanda pemadaman teknologi selama beberapa hari menjelang perjalanan Thanksgiving"
     }
-   ]
+   ],
+   "title_id": "'Saya akan mengemudi': Pemadaman FAA dan tarif tinggi mengubah rencana perjalanan Thanksgiving"
   }
  ],
- "errors": [
-  "indonesia: HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
