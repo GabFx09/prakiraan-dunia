@@ -1426,6 +1426,17 @@
    "ihsg": 5338.457,
    "usdidr": 18375.0,
    "ust10": 4.936
+  },
+  {
+   "t": "2026-11-28T00:58:00Z",
+   "risk": 75,
+   "btc": 59903.4,
+   "gold": 3668.5,
+   "brent": 90.84,
+   "spx": 7297.49,
+   "ihsg": 5338.457,
+   "usdidr": 18375.0,
+   "ust10": 4.936
   }
  ],
  "horizons": [
@@ -1872,6 +1883,14 @@
  },
  "news": [
   {
+   "t": "S&P 500 cetak pekan terbaik dalam 19 bulan berkat rebound saham AI",
+   "src": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd2lOTVBlRXZFWDg2SUQ0MDVYejFLUUxDQUNXSEx4b2EwU2ppMThRMHpEbE4xejFXeDUwcGp5eWVrd3NtVl95NV84STE5d3hfTGt5N0dSNWFQR1pSbmVKRjNHekhwZ3lSZ2hrUG56YkpIRlNvMThPMV96VDVMZ1BhMlpFX2kzVjBISW00ZEIyZnY3R1BIVFpnYlpxZTZwZmVUY3k0aWZfVkx2Y1haVzBvTzl2ZGtMWGdlS1dkdlNJX0pVUnlPWVF6bFZOQTFvRDRFN2toWjZ2eWtNcWNMdTBSVDd3?oc=5",
+   "time": "2026-11-27T21:30:16Z",
+   "impact": "naik",
+   "assets": "Saham global, IHSG"
+  },
+  {
    "t": "AS dilaporkan bersiap menaikkan tarif atas barang dari China, Uni Eropa dan negara lain",
    "src": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNHNFWGIyeFl0TVd2ZnBtNHdUWFlsQlI3YWM2akphOUVMS1dXVElaazBic2FsVkt5ci1tUk81b0VWM3BRYXdCamY3QktKNEYwOVlLMTR0T2xORjgzNWU2NDFPb1VfQjZSd1JwN3hlTkVYU1Y1V0VkZzJHekVGRXZidHJ0Ukw2MWsxZGFVd2VRcmdab3dP?oc=5",
@@ -1958,14 +1977,6 @@
    "time": "2026-11-26T15:30:00Z",
    "impact": "turun",
    "assets": "Rupiah, SBN, IHSG"
-  },
-  {
-   "t": "Bloomberg: Wall Street berbalik dari euforia AI ke kekhawatiran",
-   "src": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5",
-   "time": "2026-11-26T15:28:17Z",
-   "impact": "turun",
-   "assets": "S&P 500, Nasdaq, IHSG"
   }
  ],
  "readings": [
@@ -2004,10 +2015,10 @@
   },
   {
    "c": "neu",
-   "d": "-1,27% hari ini",
+   "d": "-0,98% hari ini",
    "h": "btc",
    "k": "Bitcoin",
-   "v": "$59.729"
+   "v": "$59.903"
   },
   {
    "c": "neu",
@@ -2041,7 +2052,7 @@
  "regimeTitle": "Saham AI goyah, rupiah tertekan, Fed condong naik",
  "risk": 75,
  "riskNote": "Risiko tinggi: yield AS naik, rupiah melemah, Hormuz belum tenang; IHSG rebound dan Brent turun meredam.",
- "updatedAt": "2026-11-27T21:58:30Z",
+ "updatedAt": "2026-11-28T00:58:00Z",
  "cycles": [
   {
    "id": "ekonomi",
@@ -2362,7 +2373,7 @@
    "Pasar AS dan IHSG ditutup menguat pada 27/11 (S&P 500 ~7.297, IHSG ~5.338), tetapi imbal hasil obligasi AS 10 tahun naik ke ~4,94% dan rupiah melemah ke ~Rp18.375.",
    "Ketegangan Selat Hormuz berlanjut: Garda Revolusi Iran melaporkan satu lagi tanker terkena ranjau; Brent turun ke ~$91 setelah sempat tinggi.",
    "AS dilaporkan akan menaikkan tarif atas China, Uni Eropa dan lainnya (WSJ); peluang Fed menaikkan bunga di Desember masih tinggi.",
-   "Emas rebound ke ~$3.668; Bitcoin tertahan di sekitar $59.700 setelah likuidasi menjelang kedaluwarsa opsi.",
+   "Emas rebound ke ~$3.668; Bitcoin ~$59.900 setelah likuidasi menjelang kedaluwarsa opsi.",
    "Pantau OPEC+ 29/11, perubahan indeks MSCI 30/11, data tenaga kerja AS 4/12 dan rapat Fed 8–9 Des."
   ]
  },
