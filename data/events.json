@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T08:16:36Z",
+ "updatedAt": "2026-11-28T08:31:19Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -52,7 +52,7 @@
    "lang": "id",
    "title": "Mahasiswa Jadi Tersangka Ricuh Demo, Puluhan Dosen FH UGM Ajukan Diri Jadi Penjamin",
    "src": "Kompas.id",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObWZ0aXdtSWhDb0ZyVVItdWpHeTlPZ3hEdE5DTEpMMVU3bHJkOTlUell1aERYWUdfVWVMYVd1VE9WbGZibm53SkxHazZRRGhzSy1lNUdORk10M3JaR0NsVW5QLTB6RGh0Vmc3T2ZfTlRkbS1yUFg5SU1CQ0NHb0h2T2haaVo4d2dmUklvUUxsNk5PLWlUNmdYZlQzQ1BZOVljT2tNZmdTRXBhdWx1aWFTZkFJMS0xRFR4WVBaeGFFS1hyVFcxMXJYU2x2V2RzX01yV3RhZzQyNU41ZzA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXpFVmpDZDdiX2RkeTVDZzUtTUtpNXB1cnRMLWc0cUFaVWFteDhRV0V1djY5dmFqQUZabGFQY2hndzUxSEpqLXFfX3R3bUZ1TjdhemNQRVVSYU1WY0RIV0lfQmFDeTJCc19iRVpiTTZVV054TmVSanFxZzcyOWtRV1otZWxyZFhvMTBkakNraUZMV0FOYzBqU25VbHJXVVJ0Z3c3aEdBZWM4ZzFkSE5jODJB?oc=5",
    "sources": 4,
    "recent6h": 4,
    "score": 6.0,
@@ -122,6 +122,36 @@
    "title_id": "Virginia mengumumkan keadaan darurat setelah Thanksgiving yang kuat..."
   },
   {
+   "id": "perang-202611270452-8d01",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukraine repels massive drone attack as Russia launches 162 UAVs overnight",
+   "src": "RBC-Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVRXc01DRFoyUlVxUTRZdkNfc3pRMHkwTzB4MEJwSDJ1dk1VRUNqRVlWWGhaVFNMTFd4c1NJM1M4Y2xWLUNCMlRlcS03SEdRY3pWN1h2MVBXLUJPVmpfM0N1a0FBTXMzckxIV2dBaUd2VVNOT3ktVGZNYURkZnl5dm5HQUlSalNCQkFLclByczZwNm5rcTc4eg?oc=5",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
+   "first": "2026-11-27T04:52:06Z",
+   "last": "2026-11-28T07:20:26Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Fire reported near oil refinery in Russia's Rostov Oblast amid Ukrainian drone attack",
+     "src": "The Kyiv Independent",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0wyd3NDQmZYdkxZLTk4azlaNUt3YjQ4OTFPSmNNMi1IVWlqaDZ3UDhZU28tV19nbENrZXRzSWZqWVNkc1p6TGlNeF9BMWh6N1hZLUFRck1XYWY4MG9TYVkwTFFvQ2wyYWk5aFFLUi1IZjNBTlBIcFp0QXY2RzBEYi1FTm1pSndLdDBuVzNMX1JNd3dMbjctdnB6TElzRkNJT0QtWV9qbWFZUjdkUUREV3padw?oc=5",
+     "t_id": "Kebakaran dilaporkan terjadi di dekat kilang minyak di Oblast Rostov Rusia di tengah serangan pesawat tak berawak Ukraina"
+    },
+    {
+     "t": "LIVE: Russia launches drone attack on Ukraine as casualties reported in strikes",
+     "src": "Latest news from Azerbaijan",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcURQYy1LeVg2OGp5azMtQUlLY0xzUy05NDVwNktzeGdmd1VYVTFwbUV5cHlDT2RaTjhaY0VtWFVwc2ljRHVCR1BmS2JFdEk2U2dxMW9EUGctUjJCYTU3eWdvQ1lYRThIcU5ETUlaT2NPTFlyRjRXRUs2WWFudnFHOFFrN29QMFpRbF85M1NzdDRUUTNVWUl4UjRQSXkzXzlI?oc=5",
+     "t_id": "LANGSUNG: Rusia melancarkan serangan drone ke Ukraina ketika korban dilaporkan dalam serangan tersebut"
+    }
+   ]
+  },
+  {
    "id": "perang-202611261907-bc65",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -184,31 +214,6 @@
    "title_id": "Ukraina Menyerang Depot Bahan Bakar dan Pabrik Rudal Rusia saat Ledakan Mengguncang St"
   },
   {
-   "id": "perang-202611270452-8d01",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Fire reported near oil refinery in Russia's Rostov Oblast amid Ukrainian drone attack",
-   "src": "The Kyiv Independent",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0wyd3NDQmZYdkxZLTk4azlaNUt3YjQ4OTFPSmNNMi1IVWlqaDZ3UDhZU28tV19nbENrZXRzSWZqWVNkc1p6TGlNeF9BMWh6N1hZLUFRck1XYWY4MG9TYVkwTFFvQ2wyYWk5aFFLUi1IZjNBTlBIcFp0QXY2RzBEYi1FTm1pSndLdDBuVzNMX1JNd3dMbjctdnB6TElzRkNJT0QtWV9qbWFZUjdkUUREV3padw?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
-   "first": "2026-11-27T04:52:06Z",
-   "last": "2026-11-28T04:06:01Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "LIVE: Russia launches drone attack on Ukraine as casualties reported in strikes",
-     "src": "Latest news from Azerbaijan",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcURQYy1LeVg2OGp5azMtQUlLY0xzUy05NDVwNktzeGdmd1VYVTFwbUV5cHlDT2RaTjhaY0VtWFVwc2ljRHVCR1BmS2JFdEk2U2dxMW9EUGctUjJCYTU3eWdvQ1lYRThIcU5ETUlaT2NPTFlyRjRXRUs2WWFudnFHOFFrN29QMFpRbF85M1NzdDRUUTNVWUl4UjRQSXkzXzlI?oc=5",
-     "t_id": "LANGSUNG: Rusia melancarkan serangan drone ke Ukraina ketika korban dilaporkan dalam serangan tersebut"
-    }
-   ],
-   "title_id": "Kebakaran dilaporkan terjadi di dekat kilang minyak di Oblast Rostov Rusia di tengah serangan pesawat tak berawak Ukraina"
-  },
-  {
    "id": "siber-202611271317-ef76",
    "cat": "siber",
    "label": "Serangan siber & gangguan sistem",
@@ -234,31 +239,6 @@
    "title_id": "Pemadaman Seluruh Negara Bagian Memasuki Hari Ketiga, Membuat Pelanggan Terkunci"
   },
   {
-   "id": "kesehatan-202611271627-a606",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Canada extends Ebola travel rules for 90 days as outbreak rages on",
-   "src": "CFJC Today Kamloops",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDVENkwwWnV2dWQyMzNBU1JINGh6UVgzc2sxVERXaTlmWV9UM0xpcnlwZ0VUcnpiQU5WQUd2SFpOYUJNSlhpbFV6bVVYeFpDWkpNNlh1b0RFRUpWbTM1TzAwQVI1cElxWml3Z3dLbEhzZVdFcUMtYk9JSU9lTnJWUUtZakNiR0pDTjkwcXdMT24wczUtMWl5NlZHRlFYNXpOLUE?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-27T16:27:12Z",
-   "last": "2026-11-27T19:53:35Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Canada extends immigration restrictions affecting 3 African countries over Ebola outbreak",
-     "src": "People Daily",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1Axd0l4SUFNM0tUdjlMOVFrTFBYX0JOU2d5UzBHTnZod25zTkRweUJvb0hHbDNtdjF2aXVpaWRmbXJHMzNNMmNtMUtIMTVFRTl4X1g5TU5GSl9XdEllZGdRQU9vSGw1TFFWOTNlcG4yM0xLSzdtRE1XaFVpNHdCZ0lSaEx0NGJ3d1ZveDZJbjdPZDFLWkp4NjF0YTVPZC1VM0tfOERnVjQ3WUlpdXc3Q1hZMDNycFJZMnVJZm1Bbw?oc=5",
-     "t_id": "Kanada memperluas pembatasan imigrasi yang mempengaruhi 3 negara Afrika karena wabah Ebola"
-    }
-   ],
-   "title_id": "Kanada memperpanjang aturan perjalanan Ebola selama 90 hari seiring merebaknya wabah"
-  },
-  {
    "id": "kesehatan-202611271109-1f47",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
@@ -282,6 +262,31 @@
     }
    ],
    "title_id": "Wabah Ebola di Kongo Melampaui 12.000 Kasus — Tingkat Kematian 49% Menjadikannya Yang Paling Mematikan Kedua"
+  },
+  {
+   "id": "kesehatan-202611271627-a606",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
+   "lang": "en",
+   "title": "Canada extends Ebola travel rules for 90 days as outbreak rages on",
+   "src": "Penticton Herald",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHRyU282NzVpZzZXeGo0Zjk0TTR6Zy1mTlVBN3FIRGhMTzN3Skp4b3hDeDJBdWdoa3E5dllvZHVXeWNtR1FIbHBiUHM2UXhOS0stdnIwVWJEZGJHdHRyZDdoc0E1MVVIVzI0OW9TRk1qc0FnSUZEUTBPNzFvMmNvbmFBdHJXQk1HdnloV0NJaS1sUy00T1o3LTdHVEJDVVRU?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-27T16:27:12Z",
+   "last": "2026-11-27T16:31:20Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
+   "more": [
+    {
+     "t": "Canada extends immigration restrictions affecting 3 African countries over Ebola outbreak",
+     "src": "People Daily",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1Axd0l4SUFNM0tUdjlMOVFrTFBYX0JOU2d5UzBHTnZod25zTkRweUJvb0hHbDNtdjF2aXVpaWRmbXJHMzNNMmNtMUtIMTVFRTl4X1g5TU5GSl9XdEllZGdRQU9vSGw1TFFWOTNlcG4yM0xLSzdtRE1XaFVpNHdCZ0lSaEx0NGJ3d1ZveDZJbjdPZDFLWkp4NjF0YTVPZC1VM0tfOERnVjQ3WUlpdXc3Q1hZMDNycFJZMnVJZm1Bbw?oc=5",
+     "t_id": "Kanada memperluas pembatasan imigrasi yang mempengaruhi 3 negara Afrika karena wabah Ebola"
+    }
+   ],
+   "title_id": "Kanada memperpanjang aturan perjalanan Ebola selama 90 hari seiring merebaknya wabah"
   }
  ],
  "errors": []
