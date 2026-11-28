@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T23:50:24Z",
+ "updatedAt": "2026-11-28T00:19:45Z",
  "source": "Google News RSS",
  "items": [
   {
@@ -20,15 +20,6 @@
    "t_id": "Harga emas terjun bebas total, $22,5t lenyap"
   },
   {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "BTC price at 6 PM CST on Nov 27, 2026",
-   "src": "Robinhood",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmc5d3lpN0JQUkJXWDRGRGpCTkQzMjB3U3RxcDRVeXpfNi1OTzdmQXY4ZjJRNVFHMWxNcVVTVk1sM3FzNXhiRzIyMDVIcnlORTQ2Sm9sNGdrRGhOY04zYnNpLXBmMjZDVUVKTkJlcjJiYkVobEtIR0l0b0FFQVBTSTFlQ3d4QzF0SDhGdEtGUXA5bTRoMkZGb2pFNFBIR1ZQQlg1dFo4enJoc1hyNTJB?oc=5",
-   "time": "2026-11-27T23:05:06Z",
-   "t_id": "Harga BTC pada pukul 18.00 CST pada 27 November 2026"
-  },
-  {
    "topic": "emas",
    "lang": "en",
    "t": "Wall Street’s bullish bets tick higher after gold bounces back above $3,600, Main Street maintains bearish bias with payrolls on deck",
@@ -44,6 +35,24 @@
    "src": "InvestorTrust",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMzVPZTF5TlFsaDFKS0p1VW5paU1XcFl6bDFuaW44NG5EckZibzJ1bU9yYThyNzNpOTZKcDV6OHdhM2ZWWEJseWlTNTM4VFEtWXZaVEtoaEhxX2JYdV95TkhFVFQxc05qeUVpT0Z3VFgycmt3WmpvWnowSlZNUm9od3hMQVZiY3JqSDVqMkM2Z1pjNHlfWVRfcVRhUk1UZjVROHR6RmFDdHljVFBGT2l5U0Y2QlltbllwekE?oc=5",
    "time": "2026-11-27T22:59:00Z"
+  },
+  {
+   "topic": "bank-sentral",
+   "lang": "en",
+   "t": "The tightening clock of central banks in major countries around the world is getting faster again. W..",
+   "src": "매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IcU10UlF3dHJzRDU0R0NnSWdpdHhaVEpLd2NsRDA0TG9DZkRjZ2RmRGVBdmlBbGlsOGktUkV3N1NZWVJXMGJXMUJ3a2k2eVU?oc=5",
+   "time": "2026-11-27T22:52:49Z",
+   "t_id": "Pengetatan jam bank sentral di negara-negara besar di dunia kembali semakin cepat. W.."
+  },
+  {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Senior IRGC officials vow to break US blockade on Strait of Hormuz, claim Iran's ports are 'open'",
+   "src": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxLU1CUTdXdndZZllNbjFmYUJIbjI5dTkxYnVUeTZpSVEwQ0JQVkNDQ3FJdzh4N0JtbnJ1aWI0Q3RFcDdDTkUtN05wclJSNFBVZlRnSmZGNHh1TTVFa3MwOEEyMURzdkdHY1E?oc=5",
+   "time": "2026-11-27T22:42:12Z",
+   "t_id": "Pejabat senior IRGC bersumpah untuk mematahkan blokade AS di Selat Hormuz, mengklaim pelabuhan Iran 'terbuka'"
   },
   {
    "topic": "bank-sentral",
@@ -105,21 +114,21 @@
    "t_id": "Harga Emas Hari Ini di India, 28 Nov 2026 - Harga Emas 18K, 22K & 24K Langsung"
   },
   {
+   "topic": "geopolitik",
+   "lang": "en",
+   "t": "Iran Declares Strait of Hormuz Closed as ‘Unauthorised’ Vessel Hit",
+   "src": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
+   "time": "2026-11-27T21:31:43Z",
+   "t_id": "Iran Menyatakan Selat Hormuz Ditutup karena Kapal ‘Tidak Sah’ Ditabrak"
+  },
+  {
    "topic": "indonesia",
    "lang": "id",
    "t": "OJK nilai bank akan tetap berhati-hati merespons kenaikan BI-Rate",
    "src": "ANTARA News",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZC0tVHdzeHRidWxpckMwemxyNTVCb0lTeHRfeEpfcHVGS3JScU1CQzcwQVZuWUg5RkFWZGNzV0licWEzMXkwWkxKdk95dDRuTFNBdmp4ejhZR1BsSVRzM013WTJKT2dyQnZmU0wzZnpjTDJGUnlCQnJfSGlsMGhzdVlUTUdPM2lWTkV0MTVwNzJXNFhyUTFiOFZVa0IyY0FCck1GQkhPbFNSMUnSAa4BQVVfeXFMUG5fX0dXSjRfYklFYTNaMGVjdXlJUW9malVUZjdXa0ZFQ00wSlppRUYyaGVRVVdqVlctX3pva2Vyd21BOWF2SDQ0R3FjNUZYTUVUeVZxYlNVWENCSTBGVVluc2Qta2F0MWxBSjctdEJFaDg1c3ppTUcyTWlhVlNkTVZLTGlQMHRaTWw5VW1wNDdLckJWeTNrdXB4YWRKVjhMaWZWUHY5clFUc01LSGt3?oc=5",
    "time": "2026-11-27T21:19:57Z"
-  },
-  {
-   "topic": "kripto",
-   "lang": "en",
-   "t": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
-   "src": "Cryptonews.net",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVjhqazUxdVl3cE40WEN4R0lNRUxNdTVfLTNLRVREM2FKVWxhekw5NzR5NkE2WWpTN3JaZmZKNE5MUEZpZEtIQk9lTW85WmdXTVZtWW5KMWs?oc=5",
-   "time": "2026-11-27T21:17:28Z",
-   "t_id": "Harga Bitcoin turun di bawah $59K karena Anthropic bergabung dengan rebound saham teknologi"
   },
   {
    "topic": "emas",
@@ -167,22 +176,22 @@
    "t_id": "Perkiraan USD ke EUR: Bisakah Dolar AS Mencapai Kesetaraan dengan Euro pada tahun 2027?"
   },
   {
-   "topic": "geopolitik",
+   "topic": "kripto",
    "lang": "en",
-   "t": "Strait of Hormuz Flashpoint: Iran Claims Five Tankers Hit Naval Mines in 48 Hours as Oil Prices Jump",
-   "src": "Envanter Medya",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTllY3RsQnkxQnAwVkZyUHBma3FYRjIyN0tHY0xYTHB5T1VMNjZfVk1ucHl4alZ4RHpCaWl1bWppVXpUTFRlbzhyMG9HVFFLSFJTNWNkbjg4dnFlY2Z3R1RweDZWdFduRm1YbWJrdnVHSmQzRlUyQUoxYll0NndUTzZhZUM2OU0?oc=5",
-   "time": "2026-11-27T19:28:50Z",
-   "t_id": "Titik Nyala Selat Hormuz: Iran Mengklaim Lima Kapal Tanker Menghantam Ranjau Laut dalam 48 Jam seiring Melonjaknya Harga Minyak"
+   "t": "BTC price range on Nov 27, 2026 at 3pm EST Crypto Prediction Market",
+   "src": "Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1lwMVVzd2FWcXd0cTEyTmpNWXp1ZXRtWG9PTzVlTWdUaXc3eDAzMzhla1BfdWtlVGRzQXF4YlhPbGxXQ250TFNaTmJ4X2lUX2ZPZ19EZGFJQkdhdWRSX3ZXd1F4V2hyYXdwS2dkYmw4RHZod3E3VzgyQ2lJbkM1UFhGek9vYXhlOG5GNHI2cGlRb3NiS3I3c3EyMkVhMGxxWEx3NVJQUzM2NGRpc1YzYVRDV0VIQQ?oc=5",
+   "time": "2026-11-27T19:07:58Z",
+   "t_id": "Kisaran harga BTC pada 27 November 2026 pukul 15.00 EST Pasar Prediksi Kripto"
   },
   {
    "topic": "saham-as",
    "lang": "en",
-   "t": "Wall Street ends higher as battered AI stocks gain in volatile week",
-   "src": "The Detroit News",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQblZ4MkZ4WWtCa1huMjBrR0sxMXg4YVBCM1AxUFNXeGg2M1lmOUdURnhBbHBmc3ZFRXFMRnpBOEZPSWxRTlYyLWVmSHNnSkYwUVQ3Z242X3phd2EwWDNzb2g3ZVpRQkk1bTVNMElFd2N0X1N4WFVuejhfZW0tclNtVFpxZERsb0RPVXczS2RZcFM4Q2c3Uk9Tdy1hNUgtY2tOemNWOGJaWUZSOGQ1andORUdsc1cyRTVEQ0hlUHNEZ3VueWV1TF9LNjJTRXc3bE5jQ1g0U09R?oc=5",
-   "time": "2026-11-27T19:15:00Z",
-   "t_id": "Wall Street berakhir lebih tinggi karena saham-saham AI yang terpuruk menguat dalam minggu yang bergejolak"
+   "t": "Nasdaq leads Wall Street higher as AI stocks rebound after Thanksgiving",
+   "src": "PrimeXBT",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDkwSW5VVi1EUGJZOF9xcDdjTUdKWWJvQVBBTmgwMkNPSzVoQ2hScmo1STBNMjhUUjNiaGk4aFA0RnlnVzNmSTNRMUFqczdpeUJYeW9kVTVnSG5RNXRPUENacmhDTWtOdjdZWWkzQU5HQVl5UklFM2t3VFZkd0dEaG9ndERad0VacldVS1VZZkFJSGdIb1ZkdXVJZWR4djA?oc=5",
+   "time": "2026-11-27T19:02:04Z",
+   "t_id": "Nasdaq memimpin Wall Street lebih tinggi karena saham AI rebound setelah Thanksgiving"
   },
   {
    "topic": "indonesia",
@@ -202,22 +211,13 @@
    "t_id": "CryptoQuant mengatakan pemulihan harga bitcoin membutuhkan pertumbuhan pasokan USDT"
   },
   {
-   "topic": "emas",
+   "topic": "kripto",
    "lang": "en",
-   "t": "Gold Dec 26 (GC=F) stock price, news, quote and history",
-   "src": "Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1makZJRjg2ZzBXd0JVYVdJbWE1amR1ampYcnVBamtVWUtSWlRRQ28zdHB0VFBDTjhyT0g2bWRKT29Ya2hhS2xET093eTdkUW5ObzRzVg?oc=5",
-   "time": "2026-11-27T18:09:57Z",
-   "t_id": "Harga saham, berita, kutipan, dan sejarah Emas 26 Des (GC=F)."
-  },
-  {
-   "topic": "emas",
-   "lang": "en",
-   "t": "Gold Dec 26 (GC=F) Stock Price, News, Quote & History",
-   "src": "Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCLWFGVVBHUGF5Q2c0b1o5UTFKT0M1RWtfQS14aDl1SDdPR2t6eHFLQnkzbWU3MFhGTHQ1Mk1tWmpjVk9zYWpvMGRKVUhmeFk0NFhoUg?oc=5",
-   "time": "2026-11-27T17:58:23Z",
-   "t_id": "Emas 26 Des (GC=F) Harga Saham, Berita, Kutipan & Sejarah"
+   "t": "How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch",
+   "src": "BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjI5VGhxZXdfMHc5YTF6NlE3YVA3YVY4Vy1vVTlhci1ud1hzUE8yNG0tcDc0RlJVdWhmTVVfenVQOUYtWTN4M2JrSnBpOG8tbWU0S0t1ekF3bHl6Ni1hS2c0dUpUcHV1RFkzVVl6bkx2X2I0VzZXMGF3?oc=5",
+   "time": "2026-11-27T18:03:46Z",
+   "t_id": "Seberapa Rendah Bitcoin, Ethereum, dan XRP Bisa Jatuh? 4 Tingkat Harga yang Perlu Diperhatikan"
   },
   {
    "topic": "indonesia",
@@ -272,6 +272,15 @@
    "t_id": "AS Akan Menaikkan Tarif terhadap Tiongkok, UE, dan Lainnya"
   },
   {
+   "topic": "ai-teknologi",
+   "lang": "en",
+   "t": "AI stocks lead Black Friday rally as Nasdaq 100 climbs toward 2% gain",
+   "src": "Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlUVBGbnFvQjYyZmJ0bmE2S2hIMjlEY0puRzZqWm84TXFZTzNTR2FHRzhwWXJycDVSR2VPNzhXTHV3LVNmM1JXVzRtR09YRXJzM2VHZlBXRno5VzFIZnVwMExUZG5hUlRoalk4MUNKR2x5WEVaTGc?oc=5",
+   "time": "2026-11-27T16:40:50Z",
+   "t_id": "Saham AI memimpin reli Black Friday karena Nasdaq 100 naik menuju kenaikan 2%."
+  },
+  {
    "topic": "saham-as",
    "lang": "en",
    "t": "Stocks Rise and Keep Wall Street on Track to Close Out an Erratic Week With Big Gains",
@@ -279,6 +288,15 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0xqbkFrQkJpQWloNjlDckRURlh1S0pIMkREUXdiRkRpam5wdERiOTZfM00yaEw3eFRHTkpaYW8xZWtiMUxNY1BCM2ZvaGZYSTBHVU9EUFhXMWxXUTYwemstNGI2VnN4bFhPRndqc2RDbUJCcm1JSjV6SVU5emllYWVPUVpiZWQxT1RhWUtXYVdYa0tkQTE3Q0NQOXo3eVRWNUdwbjM3S283ZEJHakVMMlkxWjZCQ0EtTzF4T2VBYXp2XzlY?oc=5",
    "time": "2026-11-27T16:08:20Z",
    "t_id": "Saham Naik dan Menjaga Wall Street pada Jalurnya untuk Menutup Minggu yang Tidak Menentu Dengan Keuntungan Besar"
+  },
+  {
+   "topic": "saham-as",
+   "lang": "en",
+   "t": "Stocks jump to close out an erratic week that was also Wall Street’s best in more than a year",
+   "src": "Boston Herald",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5md21JOTlHNDZ6WUFrajhjRjNycUlMVjc1QllwWG00SGw0NHlMUlVGbnRPSkRieEJBTDF5SkpmcFNVSV95aDBaY2ZQSmhjdGZZMG9odkRiY2dhaC1YbkJlTGNXaUhBTldpNGFUSF9EUlZJamxrVjBGY2pKMGQ?oc=5",
+   "time": "2026-11-27T15:54:07Z",
+   "t_id": "Saham melonjak menutup minggu yang tidak menentu yang juga merupakan minggu terbaik di Wall Street dalam lebih dari setahun"
   },
   {
    "topic": "indonesia",
@@ -410,15 +428,6 @@
    "t_id": "Saham Berjangka Naik pada Malam Thanksgiving karena Kontrak Berjangka S&P 500 Mencapai Puncak 7.300"
   },
   {
-   "topic": "saham-as",
-   "lang": "en",
-   "t": "Wall Street's Wild Ride Isn't Over: Jobs Report and Fed Stance Loom as AI Stocks Keep Swinging",
-   "src": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUcTU2WFVINU9nRXpwRHJWWEZLWk5TcE5kVkRaS2o1ZkRSd2NkNEo1VkdXWllwUmNrUW0zR2RKVC1LQmpaU0dnNU9mb1hGZFhVYTZTd0VYczEwajFTdW9RVzVCYkNISGxxV3NTSjdJZWZCWGs5NUE?oc=5",
-   "time": "2026-11-27T11:55:00Z",
-   "t_id": "Perjalanan Wall Street yang Liar Belum Berakhir: Laporan Ketenagakerjaan dan Sikap Fed Membayangi Saat Saham AI Terus Berayun"
-  },
-  {
    "topic": "geopolitik",
    "lang": "en",
    "t": "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz",
@@ -450,24 +459,6 @@
    "src": "ANTARA News Jambi",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3pGdkp1bXlFQUhHUjhWU01FamxZc3JEeDN0T2dXZGkxOTZaMnFqYkQyN2pENUlHWlZvdDg5V3lkQWYwS2w1bklmdEctbFNTZWpQQWxYQm40TkJWZUt3T1p5a3pKSzBvc0FOSkJtVTdXMlRpOFk1VXYyajdsQm9OWkhPd2x5MHBMWUFQWDJRV1NzVDhlbHZ4N2VXUmVUek5FOWhIMlY1V1pUb0tyQUxYU05fb0zSAbQBQVVfeXFMT196RnZKdW15RUFIR1I4VlNNRWpsWXNyRHgzdE9nV2RpMTk2WjJxamJEMjdqRDVJR1pWb3Q4OVd5ZEFmMEtsNW5JZnRHLWxTU2VqUEFsWEJuNE5CVmVLd09aeWt6Skswb3NBTkpCbVU3VzJUaThZNVV2Mmo3bEJvTlpIT3dseTBwTFlBUFgyUVdTc1Q4ZWx2eDdlV1JlVHpORTloSDJWNVdaVG9LckFMWFNOX29M?oc=5",
    "time": "2026-11-27T11:09:25Z"
-  },
-  {
-   "topic": "bank-sentral",
-   "lang": "en",
-   "t": "High Inflation Puts Fed’s Credibility On the Line",
-   "src": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5",
-   "time": "2026-11-27T11:00:10Z",
-   "t_id": "Inflasi Tinggi Mempertaruhkan Kredibilitas Bank Sentral AS"
-  },
-  {
-   "topic": "geopolitik",
-   "lang": "en",
-   "t": "Strait of Hormuz Will Remain Closed; Two Iranian Oil Tankers Recovered from US Forces",
-   "src": "WANA News Agency",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEhxTU0zLUF5X3o5cmhsRy1pX2lsYS1yZDExeGtVLWpYZEZvWi1Cb2paV2Yzd2ZQNkZJVHRJclg3cFFCUWw5eUwzSFRfZFlnWEc3c0FZcHQwOVJvZ1p6bHRqSVRYeWJOZVY4ZDNPSUVNZFhfTWsxbHdiLXE4X096ZkV4YmFxd0ZsMXl6WEdCUkJTR2Y5MldEc3hHZVZrNTFQNk9pSmNnMA?oc=5",
-   "time": "2026-11-27T10:44:33Z",
-   "t_id": "Selat Hormuz Akan Tetap Tertutup; Dua Kapal Tanker Minyak Iran Dipulihkan dari Pasukan AS"
   },
   {
    "topic": "saham-as",
@@ -520,6 +511,15 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTNvNmdrVlhUYXQtcFBkNTlSSEFMQjNfRkl1STktMTE4VDBiXzJIY0U1RTBCZFBCNGhlbmVScG1vM2FSR25ld05RejhzeDVkOTNyb05fT1Q3S1ljZ2UzeE1XMk1FWU5ldGwxSng4VVVocXctRjk1R0NMTlRqbEdqZE1PQUR5MkZ3UGNGZzFFaXJPd00tMEIxdkM5Z0NabVlkZE13SGdNLS1qMy1OdDNjMnlSeElUQ0xL?oc=5",
    "time": "2026-11-27T09:45:44Z",
    "t_id": "Prakiraan Harga Emas dan Perak: Perak Memimpin Rebound karena Rasio Turun"
+  },
+  {
+   "topic": "emas",
+   "lang": "en",
+   "t": "Gold price forecast: Fed rate hike in December may limit recovery to ₹1.30 lakh per 10 grams by 2026-end, says expert",
+   "src": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSS1wSFJjclpDQzhXOXBYY2R0UTMxLTNVemdRRlAxaF9SME9weWNvQks3a0dhTER3Y1dMd25XX1AxMXlkOWZscV9HQlctUFV0bjJubzNvTDIwX1JjaG4wOFk0aDNQRDMwQVNzSXVvU0xNZDBrYlZqUlhyeHB4SzJoLXAxakc2dDg4MEFlX0RsUkhTWFhha21fUkZJdUNNZGpuUWptVFpQUHdxb19Nd3ZWdl9Sb2VvQUZBWk5jY2xVbVhQRDBqSlhXNHVFZkdydDNJTEZldkstWUtWSGN5Skl6RGlkR0NNV2Q2MzE5Z1hONnhRM0hfX28wSEJMTmFDczlsakJFRzdTc21TX3FxRERN0gGUAkFVX3lxTE1FVVNONG9GZlJqSVBzaEJWcXo2bFhBSFc4WEUyLWszZlhSeS1YSTlTYm9WUEZrbEtXVTlxcnVNOUtXd2lab2ZLdm1RTGxDWkNCX1RpMWFGeGp5ejlXRjJ3VV9yS1VJcmlvdlRjSVc1S0c3MVdDYnByNW11WFhDdlNfZVlMbHpGVU9sajJOdkZUWXRiLUotd3llMF9QNDhmNTRfYWpBTGxSYXBjT3U5endNTlFBeERELTlmcjg5TFUybWdjZjJyZE1sbmJtd1J5WUFzSFIyYk9wLWVBZU43dWpCeEJoTEo0M0U0V0U5SXFKSmxhRGJ6M3l0cXhrN2dpWjM5X3ZGZi1DVndaUUZVQV9YeXZxYw?oc=5",
+   "time": "2026-11-27T08:13:47Z",
+   "t_id": "Perkiraan harga emas: Kenaikan suku bunga Fed pada bulan Desember dapat membatasi pemulihan hingga ₹1,30 lakh per 10 gram pada akhir tahun 2026, kata pakar"
   }
  ],
  "errors": []
