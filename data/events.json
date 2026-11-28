@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T10:28:33Z",
+ "updatedAt": "2026-11-28T10:43:13Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -84,49 +84,6 @@
    "title_id": "Apa Kekeliruan Kebanyakan Orang Tentang Pemilu Secepat Spanyol pada 29 November"
   },
   {
-   "id": "perang-202611261907-bc65",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Iran war live: Tehran denies involvement after two killed in Kuwait drone strike",
-   "src": "Arabian Business",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-   "sources": 6,
-   "recent6h": 0,
-   "score": 6.0,
-   "level": "besar",
-   "first": "2026-11-26T19:07:30Z",
-   "last": "2026-11-28T01:59:03Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Iran Questions Kuwait Drone Attack, Suggests Possible False Flag Operation",
-     "src": "اسلام تايمز",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWg0NzVVX1ZObnRkNnAyZWdNekVVS0pMY2dxSlZuMnB6enVuX0NkXzJqRklObkJ2dTBBVWZNcERCS0JNbFNJakdQZldHUnA4cUJRYXBBWGZiTVBRTl92dmhjS3NkbDFHdDY0NTVMcXN4NmZ2U21oQ0o3VXRGRnhKN2xoSnpTWFNiMUdNeElZcTNLTUNERXVaek4xM05DRWx3eVdBOGNrN09QYWNQcXM0WUl6X1FvczQ?oc=5",
-     "t_id": "Iran Mempertanyakan Serangan Drone Kuwait, Menyarankan Kemungkinan Operasi Bendera Palsu"
-    },
-    {
-     "t": "Kuwait drone attack kills 2 Italians; Iran denies role",
-     "src": "JournalArta",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ29pSXJTbjlSbURYQVJQQk5oRzA0UGVWS3NSSm5aVDV0LXBTRE03aWVCZVJoU2FYU3FFMEFpcnYtZEIzS1VIUDI3QVB2VzJlOHJYVVU5UGEtSm45SVZUOWdGTFZvMWRTQTFja2Y5VGlaejdrTUNMNGo1MmpZU1Q1elBlajdsNlV4ZmszcVlKTF93WUQ4MmZfVmxGODAyd21pYzE5OU93?oc=5",
-     "t_id": "Serangan drone Kuwait membunuh 2 orang Italia; Iran menyangkal peran tersebut"
-    },
-    {
-     "t": "Kuwait summons Iranian ambassador over deadly drone attack",
-     "src": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEVJOHdLVVF5aE1PNXJGLTlMVkZ0LWJPX3VoclJaOG45Qzdvc2xRZWh1TXVBblktQWNFemxVVEFtOVZnSTh2LWkyVlVseEZvbXozRVRMX0Eyb25jTFduY1gyakh3amM3OVd0Sk5Tb1F5eEpITDBJa2ZtUU80d3MxYVhJdGhRblo1b0JLNV91OWdwb0JETjZiTkprQS1vdjhCcjdfdEtn?oc=5",
-     "t_id": "Kuwait memanggil duta besar Iran atas serangan pesawat tak berawak yang mematikan"
-    },
-    {
-     "t": "Two People Injured in Russian Drone Attack on Kremenchuk",
-     "src": "Полтавська Хвиля | Новини Полтави",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkxUank2UkdCa1JQWHh6cVN6a3A0YWYydVE5S3dJTnV1YkQ5SDFoU25jeURqRHh3a2hxT2RaMTF6MGlnUy05NHVsNDBKNWZ0U2FvcDctaDhIQUFXRHFqeHZVeXo5MHVyS0o1THdtdmg3SUxIQ3o2cTlDSHU4Qm4zM3hIbWxHV2d1TVlaaWhPWHo5aXNtVFdIbUh3Wnc?oc=5",
-     "t_id": "Dua Orang Terluka dalam Serangan Drone Rusia di Kremenchuk"
-    }
-   ],
-   "title_id": "Perang Iran langsung: Teheran menyangkal keterlibatannya setelah dua orang tewas dalam serangan pesawat tak berawak Kuwait"
-  },
-  {
    "id": "kerusuhan-202611271124-d8e8",
    "cat": "kerusuhan",
    "label": "Kerusuhan & protes besar",
@@ -170,35 +127,41 @@
    "title_id": "Virginia mengumumkan keadaan darurat setelah Thanksgiving yang kuat..."
   },
   {
-   "id": "perang-202611270452-8d01",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
+   "id": "kesehatan-202611271109-1f47",
+   "cat": "kesehatan",
+   "label": "Wabah & darurat kesehatan",
    "lang": "en",
-   "title": "Saudi-Led Coalition Intercepts Houthi Ballistic Missile Targeting Southern Saudi Arabia Amid Rising Yemen Conflict Tensions",
-   "src": "The Sunday Guardian",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZ2lGdjFxeW1PZ3RBT2hnRlUwWnQwR1ppa0ZMeWNBVnhweGFXU1Y2bmNBR2JkR1RuemEyUUZzZlVZWHRxSzVVbzhhMjE2UWp5V2MxclA2dVEtdWU5MWFxcEFEellCQUp0Zlp0Rm16TUlNNEpnWTFXcVlLVWRTb0R3UU1uZ1VqTTFhd1dJN2tfbnYwSHdwekplZjZNU0VrMmlPVXBmcndzT09mYUNNLVZuZ1F2ZzExNGtIMVozc1AtcndsdEU4ckpCT0JaOHdXeTVwa0dkUnhrYVZZeHJSQng5VjJHR2taN3NpTHlPUG9jQnU2LUJ5SjRQZnhTOFfSAYICQVVfeXFMTnZEeDJOcUltV002U3FUa3gxWG1vZVk5NE1BVmFsUDMxMHd0U1FPQ18wSjJoR2RhYzN3aG5wT3JYNzU5ZXlsVzBSb1VicXRQR3A0N0JoSTlld001eTFyWnZfaTBZcEQ4aC1LT29Odk5Sclh6TnJXbE9nMWg0aUtqZHUyNk1HcHNYaFBoOVYtWG5qU3F3S0J1d2N6OUJmaWVqdXNWTW9pRmdQUXljVi1qVldFVVllMjdFQi15N2Vidm9fUGM2aVE0UlFuMkpPV2x1RS01TVBwMXR5YUdfZHJ0cnRwOHQ4V3lFTnItc0NyVWlPdEt5cW94c0gxNVpTand1UkJ3?oc=5",
-   "sources": 3,
-   "recent6h": 3,
-   "score": 4.5,
+   "title": "Congo's Ebola Outbreak Surpasses 12,000 Cases — 49% Fatality Rate Makes It the Second Deadliest Ever",
+   "src": "Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGFOMEhMeWFRektZU1V6UUN0V052VVJIdXpGTGdTVUpNVE1nVm1qNVNhSXZreFpYeDBPTGs1S2haNXNkRWdBOV9kYnBvekREU2tHMFVTT0UwTmFacUZta2VwekFPRXBNQkpzSU9BWjg5NVdxQlMzRUphYzJSNy1HY0NBbzNOdHF0?oc=5",
+   "sources": 4,
+   "recent6h": 0,
+   "score": 4.0,
    "level": "sedang",
-   "first": "2026-11-28T01:03:08Z",
-   "last": "2026-11-28T09:47:40Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "first": "2026-11-27T11:09:10Z",
+   "last": "2026-11-27T16:40:36Z",
+   "assets": "Saham farmasi, maskapai, pasar luas",
    "more": [
     {
-     "t": "Air defenses intercept Houthi ballistic missile targeting Saudi Arabia’s southern region",
-     "src": "Arab News",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUmRDVXQzS2ZBQjM5NUtnVzhxOXFKcVF5ZC1zZ2c4R1dvU2xjaG9vbFNYZm9UanNJUHZJQlhsYW5mUWRmdzE4aE56WXR1ZW4wbnlvaFZvNmdiUUZUdHNXMm5aRkszX3loTlVkZ0daclA5Uk5yVTFWODBHYWgzX2xZaklCTlVENlpkb0g1YWdkcGRCcV9rSDNKb1JtN3hYMFFCcW5FSVE3STRWcW84RTE2WVluQTBldnZOdjJDRnNUMUstWlJmUXAzOWRQQWRwUQ?oc=5",
-     "t_id": "Pertahanan udara mencegat rudal balistik Houthi yang menargetkan wilayah selatan Arab Saudi"
+     "t": "Measles cases surpass 1,000 in Pennsylvania amid the state's largest outbreak in decades",
+     "src": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWZnWjVwU3ZKQ19SWkFOWTVrb2FIMUhadkN5bHBIc0JxUWV1c09mTDBiVElxRFE1WEhITHRVZWNqZlFxM2Rxb2FoWGFZeTk2Q0lKT1Q2dDYxdkREVGR3Tmk3d3Vzd0lWWER0M2FSSGxDVWNmRW41WHdEajBycklPSjhRMUl5dEhEc0tTc1RTTVVtdy1lODhMdEgyZm12SXJoeFNBYXI1RF9xX3hPQnZfWtIBtgFBVV95cUxQWWpCTk1xMHhwU2JrQVVmNGlod1R6cmVIdTd0ZzlMVUIyT2hGUmE4RXF1UllUS1FfQ0RxYlppUEk0MTVidmdQQ2J2LVZJMG9mUTJ2YlR5dEM0Z0xiQkxYTTdSVGE4Q2R6VjZ3dDQzSFBQT0RMblBfZVd0bXhkNVlzWG41LS1fdWRPY290STN3MWpDNzhWa3NpcUVSMGNfeWVXRGpNNElyTC1tZTJnX0c5Q3hhUGdYdw?oc=5",
+     "t_id": "Kasus campak melampaui angka 1.000 di Pennsylvania di tengah wabah terbesar di negara bagian tersebut dalam beberapa dekade"
     },
     {
-     "t": "Middle East latest: Saudi Arabia intercepts Houthi cruise missile launched at Riyadh",
-     "src": "The National",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3ZyS1JmQzZjVFBiWkpZNnJoTkNBSlFkajR3THFUT0RieVFPTnVaOF9PdEU2aXU4LUFJUkExbks5dnp2WGFFRHFPVFpONEFZejVjWk1GUWdxSjBrZnlxb0JLUWZuR2x4MVdmb1R4TnhSSlpCS1N4c0p3TmZXbTdLU0V3MzFPVFV0cmxuUEtYVkNpQQ?oc=5",
-     "t_id": "Timur Tengah terbaru: Arab Saudi mencegat rudal jelajah Houthi yang diluncurkan di Riyadh"
+     "t": "Congo Ebola Outbreak: Deaths Near 6,000 as Fighting Spreads",
+     "src": "EEW Magazine",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1gyVGRJT2Ixbmg1RTJDNHlZbmtUZjdDMWluRmk3SGpXazF4cDRuV0xjamdZSDhYckZSR0d0V2Q0UC1Qb1Naa0x2S0ZQbmtDOXVQVW1DMEpmV0RnOHhtRkRtU3YzZldQaVhLY3lFa0RWSkthU19PQTdETHpycnlJNmR3d2FyQktMeVNNdGZjVzZidDh0YUJvMkd4b0loa19vVnB6SWZ3?oc=5",
+     "t_id": "Wabah Ebola di Kongo: Kematian Mendekati 6.000 Orang Saat Pertempuran Meluas"
+    },
+    {
+     "t": "Democratic Republic of the Congo: More Than 12,000 Confirmed Ebola Cases, an Outbreak Still Out of Control",
+     "src": "أفريكا نيوز",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVjNWRUxjTjFldEo1Ynd3dEFQZ0F3bEhLMThjZkpicnhQTTlNS09VbmFHaXRoTFlRdTJjeUxaa3RoVjNIdVBWS3hFTDFLTnpSalpneVZ4dkY5UUtfTkZ2aVhtMzlnNW8xV2oybnNjdzdpellfZGp5RXZfQ3BmdnlqbzluRlh0QjF5TFdXdDUtVkd5YU9pQjQtT1ZPYXBtbWxXWXVIeXhKTlY4cFl0VWRveXdmYWtmb2YtMzF0LWlySnY0cmZJa0hGak9uV3lDNUI4bEJfNVRzMWh0eEs1Zk02RFh6eXJ2Zw?oc=5",
+     "t_id": "Republik Demokratik Kongo: Lebih dari 12.000 Kasus Ebola Terkonfirmasi, Wabah yang Masih Tak Terkendali"
     }
    ],
-   "title_id": "Koalisi Pimpinan Saudi Cegat Rudal Balistik Houthi yang Menargetkan Arab Saudi Selatan di Tengah Meningkatnya Ketegangan Konflik Yaman"
+   "title_id": "Wabah Ebola di Kongo Melampaui 12.000 Kasus — Tingkat Kematian 49% Menjadikannya Yang Paling Mematikan Kedua"
   },
   {
    "id": "perang-202611271550-f155",
@@ -232,37 +195,6 @@
    "title_id": "Ukraina menangkis serangan drone besar-besaran saat Rusia meluncurkan 162 UAV dalam semalam"
   },
   {
-   "id": "perang-202611271755-1bf5",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Finland Says Ukraine and Russia Wage Modern War",
-   "src": "Wisevoter",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVklwLWhiQjFWREdVNkpXMVNPV0M4VmMxZXZiX09td1NHZ01JMm9pWjhTdHJpZUhSNTRIcVBIOUN1ZUtibXY0UWVwLUNVX3M2UXUwLVRVcEd4SlB4UUxtdTRPUHRCeG1oNkU0LXBtWmJ0dHJtdUhEeEF4UTllbS1IZHdPaGg?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-27T17:55:41Z",
-   "last": "2026-11-27T21:28:24Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Ukraine war latest: Ukraine hits missile fuel production facility in Russia's Tula Oblast, military says",
-     "src": "The Kyiv Independent",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2xOLTBrY2RGTDJZRjBfVWlIemJMQmh5SzRKWkhIdXkyeEVRbUc0R1RWR2FLek9rYjgwR2FPcUJ2Qjd2LXV6eDVRd19VUjVpT2xWTVc5S1RtUjNhWUo4OUtKSkZTcGlWTTJscTlWeDdQMDNyT1ZaRFlDcW1vVHBST0ZTZGt5a0ZiU1psZVN4ZVFTMlh4dm9ZRlRMbUc5WW5uZDk2RjdBMjNjakYxSF9felcyV25udkdtSlhvcmNuaGRLU3ZldHN3ZW1n?oc=5",
-     "t_id": "Perang Ukraina terbaru: Ukraina menyerang fasilitas produksi bahan bakar rudal di Oblast Tula Rusia, kata militer"
-    },
-    {
-     "t": "The Ukrainian army announces the targeting of a missile fuel and energy factory in Tula",
-     "src": "صوت الإمارات",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPY1QwZ3dmQ0F4WUpOYWxiRXFfdWIzUUlqdnpVYVNBM1lTaU5BSVZXY05URWdQUTVDNXhpbXItT3pJdWNZMWYyUUhmalV3SGliUEFUQ0syamg1dG9OTkRiUzlTRDRxSU5zbFlSWlg1RF9wblZYVjM3SkFyTEUyUUluZVRQZ1NNYzZxMVhGUFRLQVpoVDNIOEtRYm51dVg0RElFZm1oY1E1WmNLeEpmRzhFem9XNVRmNXBLU1lrdEhHa1NYbVNzSVlZaVg5T3pMRldBYTIxVzRVd3NNSVZ3MHAzZHhVYmswVGdKbFM0WWdpZW03bU9zRlItbWluWEhxTktnc2dNZUIyNkR4bXBVcTRKRzNB?oc=5",
-     "t_id": "Tentara Ukraina mengumumkan penargetan pabrik bahan bakar dan energi rudal di Tula"
-    }
-   ],
-   "title_id": "Finlandia Mengatakan Ukraina dan Rusia Mengobarkan Perang Modern"
-  },
-  {
    "id": "perang-202611272308-ca0b",
    "cat": "perang",
    "label": "Perang & serangan militer",
@@ -270,22 +202,53 @@
    "title": "Ukraine Strikes Russian Fuel Depots and Missile Plant as Blasts Rock St. Petersburg",
    "src": "Vision Times",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUVrQnhGT3VLUDM4cVpIUG5aTlBnbjJPNEVrQWIybnhGSDBCV2JXMFlRNDJ5VXVubFBUbVYxcVBuRjNhUERwcUhLaWxER0NNakw2cnhBdVJ4NXhCa3RONEpuaG1acEptcmo5b0RpWmltX3NFbHlZMWpmd09qVGpoOW5zYWg0MUE1NWJOYWswbnowTzBEem1yMWl1bzdvMkNxd2hyaU9YX0RSYzVOTkxZX1dkaFhXSGxFVmxnSW1WVUQxMUdD?oc=5",
-   "sources": 2,
+   "sources": 3,
    "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-27T23:08:08Z",
+   "score": 3.0,
+   "level": "sedang",
+   "first": "2026-11-27T18:36:27Z",
    "last": "2026-11-28T01:15:50Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
     {
-     "t": "Canada summons Russian ambassador over missile strikes in Poland",
-     "src": "US Muslims",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2xBYzlnVGtqSkFrMWNUNjVOS3pBVjFteEJGQTJiMTNaWjJmOWlqTWluZFV4ZUtINzcwOGlnT0Y2XzdxYnJWU2dvX3lHZXFFWFJuQVNnR1lhQW1vRHhRd0kxR1lKZVg1S2NVZ1B1XzZKSFM5cmxsel9JdU1LVk1FVHZ4eThrV2NULWhXdTFtSEhZR1hGWWpYUzRjOGk0ZllDR09KRNIBtAFBVV95cUxQSXpmOG9QZ01Gb25RVGgzTEtBTGprOG1jTjFVZ0JMTF9UazZoOVptaXZ1UmdUTTVfSnYzVWFTOXh3TUpxYkFFV2x5Z1E0Y21ZNFVNLUJ4MzFxZXBQVVFWS3U5VDBvcFU4bHFzWDA4T2FraE15dHRpczVMdGZoVWdTSzl2dkFGLUNFMjVxY3c3VFZNcmVRNFRyM0dOZV9DUC01bGpwSE91bEM0by1QUDF0eXhGeEw?oc=5",
-     "t_id": "Kanada memanggil duta besar Rusia atas serangan rudal di Polandia"
+     "t": "Finland Says Ukraine and Russia Wage Modern War",
+     "src": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVklwLWhiQjFWREdVNkpXMVNPV0M4VmMxZXZiX09td1NHZ01JMm9pWjhTdHJpZUhSNTRIcVBIOUN1ZUtibXY0UWVwLUNVX3M2UXUwLVRVcEd4SlB4UUxtdTRPUHRCeG1oNkU0LXBtWmJ0dHJtdUhEeEF4UTllbS1IZHdPaGg?oc=5",
+     "t_id": "Finlandia Mengatakan Ukraina dan Rusia Mengobarkan Perang Modern"
+    },
+    {
+     "t": "Ukraine war latest: Ukraine hits missile fuel production facility in Russia's Tula Oblast, military says",
+     "src": "The Kyiv Independent",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2xOLTBrY2RGTDJZRjBfVWlIemJMQmh5SzRKWkhIdXkyeEVRbUc0R1RWR2FLek9rYjgwR2FPcUJ2Qjd2LXV6eDVRd19VUjVpT2xWTVc5S1RtUjNhWUo4OUtKSkZTcGlWTTJscTlWeDdQMDNyT1ZaRFlDcW1vVHBST0ZTZGt5a0ZiU1psZVN4ZVFTMlh4dm9ZRlRMbUc5WW5uZDk2RjdBMjNjakYxSF9felcyV25udkdtSlhvcmNuaGRLU3ZldHN3ZW1n?oc=5",
+     "t_id": "Perang Ukraina terbaru: Ukraina menyerang fasilitas produksi bahan bakar rudal di Oblast Tula Rusia, kata militer"
     }
    ],
    "title_id": "Ukraina Menyerang Depot Bahan Bakar dan Pabrik Rudal Rusia saat Ledakan Mengguncang St"
+  },
+  {
+   "id": "perang-202611261907-bc65",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Iran war live: Tehran denies involvement after two killed in Kuwait drone strike",
+   "src": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "sources": 2,
+   "recent6h": 0,
+   "score": 2.0,
+   "level": "kecil",
+   "first": "2026-11-26T19:07:30Z",
+   "last": "2026-11-28T01:59:03Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Drone Attack Kills Two Italian Technicians at Kuwait Military Site",
+     "src": "Peradaban.id",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1icnc5TnB6UnNwZlJUaEwzdEIzT0lxZFJCMmlsX0VlSTZKWktmMndmWWpkTkJpZEUtVjJhNUhxTWpoSHdsb2Z3Z3B2LUU3R1hMUWdndlRsZTdER2dodWlRN1VlbnFwbm1VS01WdlJrWGo?oc=5",
+     "t_id": "Serangan Drone Tewaskan Dua Teknisi Italia di Situs Militer Kuwait"
+    }
+   ],
+   "title_id": "Perang Iran langsung: Teheran menyangkal keterlibatannya setelah dua orang tewas dalam serangan pesawat tak berawak Kuwait"
   },
   {
    "id": "siber-202611271317-ef76",
@@ -313,38 +276,13 @@
    "title_id": "Pemadaman Seluruh Negara Bagian Memasuki Hari Ketiga, Membuat Pelanggan Terkunci"
   },
   {
-   "id": "kesehatan-202611271109-1f47",
-   "cat": "kesehatan",
-   "label": "Wabah & darurat kesehatan",
-   "lang": "en",
-   "title": "Congo's Ebola Outbreak Surpasses 12,000 Cases — 49% Fatality Rate Makes It the Second Deadliest Ever",
-   "src": "Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGFOMEhMeWFRektZU1V6UUN0V052VVJIdXpGTGdTVUpNVE1nVm1qNVNhSXZreFpYeDBPTGs1S2haNXNkRWdBOV9kYnBvekREU2tHMFVTT0UwTmFacUZta2VwekFPRXBNQkpzSU9BWjg5NVdxQlMzRUphYzJSNy1HY0NBbzNOdHF0?oc=5",
-   "sources": 2,
-   "recent6h": 0,
-   "score": 2.0,
-   "level": "kecil",
-   "first": "2026-11-27T11:09:10Z",
-   "last": "2026-11-27T16:40:36Z",
-   "assets": "Saham farmasi, maskapai, pasar luas",
-   "more": [
-    {
-     "t": "Congo Ebola Outbreak: Deaths Near 6,000 as Fighting Spreads",
-     "src": "EEW Magazine",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1gyVGRJT2Ixbmg1RTJDNHlZbmtUZjdDMWluRmk3SGpXazF4cDRuV0xjamdZSDhYckZSR0d0V2Q0UC1Qb1Naa0x2S0ZQbmtDOXVQVW1DMEpmV0RnOHhtRkRtU3YzZldQaVhLY3lFa0RWSkthU19PQTdETHpycnlJNmR3d2FyQktMeVNNdGZjVzZidDh0YUJvMkd4b0loa19vVnB6SWZ3?oc=5",
-     "t_id": "Wabah Ebola di Kongo: Kematian Mendekati 6.000 Orang Saat Pertempuran Meluas"
-    }
-   ],
-   "title_id": "Wabah Ebola di Kongo Melampaui 12.000 Kasus — Tingkat Kematian 49% Menjadikannya Yang Paling Mematikan Kedua"
-  },
-  {
    "id": "kesehatan-202611271627-a606",
    "cat": "kesehatan",
    "label": "Wabah & darurat kesehatan",
    "lang": "en",
    "title": "Canada extends Ebola travel rules for 90 days as outbreak rages on",
-   "src": "Penticton Herald",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHRyU282NzVpZzZXeGo0Zjk0TTR6Zy1mTlVBN3FIRGhMTzN3Skp4b3hDeDJBdWdoa3E5dllvZHVXeWNtR1FIbHBiUHM2UXhOS0stdnIwVWJEZGJHdHRyZDdoc0E1MVVIVzI0OW9TRk1qc0FnSUZEUTBPNzFvMmNvbmFBdHJXQk1HdnloV0NJaS1sUy00T1o3LTdHVEJDVVRU?oc=5",
+   "src": "Kelowna Courier",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYkpYZHctVmt6ang0T2txenpzVHVZdnQ2NWMyNWhEaHV2ZlVOdTNuRmFENW1UMGo5OWhvM2RSMEt1UEpac0hubU5sdzdyNmYzeEc4dTlpWndpWXp4LTlFOUFWUWRaMlU2MXVObzdRRzdPZTc2QmlKMk9BZHNwOTlTazJWcWRrek9ibXV4cmRBUHFzQlhRWktrUWxmUjlOT09QRklwLVdn?oc=5",
    "sources": 2,
    "recent6h": 0,
    "score": 2.0,
