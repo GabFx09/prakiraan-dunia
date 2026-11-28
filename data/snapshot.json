@@ -1470,6 +1470,17 @@
       "ihsg": 5338.457,
       "usdidr": 18295.0,
       "ust10": 4.936
+    },
+    {
+      "t": "2026-11-28T12:58:25Z",
+      "risk": 75,
+      "btc": 59187.11,
+      "gold": 3668.5,
+      "brent": 90.84,
+      "spx": 7297.49,
+      "ihsg": 5338.457,
+      "usdidr": 18295.0,
+      "ust10": 4.936
     }
   ],
   "horizons": [
@@ -2048,10 +2059,10 @@
     },
     {
       "c": "neu",
-      "d": "-0,63% hari ini",
+      "d": "-1,13% hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$59.489"
+      "v": "$59.187"
     },
     {
       "c": "neu",
@@ -2085,7 +2096,7 @@
   "regimeTitle": "Saham AI goyah, rupiah tertekan, Fed condong naik",
   "risk": 75,
   "riskNote": "Risiko tinggi: yield AS naik, rupiah melemah, Hormuz belum tenang; IHSG rebound dan Brent turun meredam.",
-  "updatedAt": "2026-11-28T10:00:00Z",
+  "updatedAt": "2026-11-28T12:58:25Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -2391,7 +2402,7 @@
     {
       "k": "Likuiditas & dolar",
       "v": 74,
-      "note": "Dolar kuat, emas rebound, BTC ~$59,8 ribu"
+      "note": "Dolar kuat, emas rebound, BTC ~$59,2 ribu"
     },
     {
       "k": "Indonesia",
@@ -2406,7 +2417,7 @@
       "Wall Street menutup pekan dengan rebound saham AI (S&P 500 ~7.297, pekan terbaik dalam 19 bulan); IHSG naik 3,73% sepekan ke ~5.338.",
       "Rupiah melemah ke sekitar Rp18.300–18.400 per dolar AS; BI menyiapkan intervensi pasar dan transaksi mata uang lokal untuk menjaga rupiah pada 2027.",
       "Imbal hasil obligasi AS 10 tahun ~4,94% dan peluang kenaikan bunga Fed Desember masih tinggi; tarif baru AS atas China dan Uni Eropa dilaporkan disiapkan.",
-      "Ketegangan Selat Hormuz berlanjut (dua tanker dilaporkan kena ranjau); Brent ~$91, emas ~$3.668, Bitcoin ~$59,5 ribu di tengah arus keluar ETF.",
+      "Ketegangan Selat Hormuz berlanjut (arus minyak ~54% dari sebelum perang); Brent ~$91, emas ~$3.668, Bitcoin turun di bawah $60 ribu (~$59,2 ribu) di tengah arus keluar ETF.",
       "Pantau OPEC+ 29/11, MSCI 30/11, data tenaga kerja AS 4/12 dan rapat Fed 8–9 Des."
     ]
   },
@@ -2490,6 +2501,18 @@
   ],
   "events": [
     {
+      "t": "Polda DIY tetapkan 8 tersangka dalam demo ricuh di Yogyakarta",
+      "what": "Polisi menetapkan delapan tersangka, termasuk mahasiswa, dalam unjuk rasa yang berujung ricuh di Yogyakarta, menyusul gelombang demo di sejumlah kota.",
+      "impact": "Dampak langsung ke pasar kecil; kerusuhan yang meluas dapat menambah kehati-hatian investor terhadap rupiah dan saham Indonesia.",
+      "assets": "Rupiah, IHSG",
+      "sev": "rendah",
+      "status": "berlangsung",
+      "cat": "indonesia",
+      "time": "2026-11-28T07:24:13Z",
+      "src": "tvOneNews",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYmI0b0VPSm5wcHEzdWVQV3M3X25IdGZRV3p4WHRCNWtSaVQzYTdVZENULUFQMTBvYjF0M01TSDU4TkRoN09FYUdKNzlOYWNvMnI3WjlXRkFVOGwzQVo0MXQwaGpsbXdqa3U2eWNDand5bVA3WFU5bTZUVnlxQlV4ajVGSUtPRFF4TTdtMVhVc19HQ3gxdkxMUnJaWm9RNFRDOFlEbGFWbmhJUm45cUZwSXMxcU1Kc1B5X0F1RXktdXpsQdIBxwFBVV95cUxQM0hhaGVhV0RzNFl3bHVjRVg0dmJmYUExMzMzdUp5RnFjWlpYWk1HUXpKUWVKMm1NMUJ2UXRidk5pNS1OWTFEVUZUUU1uZ3JrMFZGdTdtNlE5ak5QMWNkTWI1WUljdVBiZjB4aGFuckMzdjI5OWdvNEZVNV82YXdUelZEN1lKY0VSQXEzNXl5b2o2M1Z2MjhkWlRXdTA1RDV4RW4xVzhCT3N2U0FuY1N6blV3OVQxRVpIV2ZxOVNDM3YyTVU3Qkd3?oc=5"
+    },
+    {
       "t": "Wabah Ebola di Kongo makin sulit dikendalikan akibat konflik bersenjata",
       "what": "WHO dan media internasional melaporkan upaya menahan wabah Ebola terhambat konflik bersenjata di wilayah terdampak.",
       "impact": "Dampak langsung ke pasar Indonesia kecil; hanya menambah sentimen hati-hati jika penyebaran meluas.",
@@ -2548,18 +2571,6 @@
       "time": "2026-11-24T21:33:15Z",
       "src": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY295Z0RRZXRLOHRFdVdTbzZUa2RweXRLVHBXLUJPV1NMcmRNSVhyQ2c1WDJWNmU5bzFjRzdCcE1NcEgwcFJrMmFPR1QtbHBlNklWUmQyQ3VidDF6aDctNHAycEZpUzFWR0RxMGNpd0NfZnRaN3Z4VlE2ZjNTSFNhNmtoR2JIRUdLTVZDTmc0dEoxM08tNDZKMmh0TlJvMzYzR2I5T2tnUEtENFE2dkZZenNIa3RPSHZGS1JfTFZBSzhRZVlEa0E?oc=5"
-    },
-    {
-      "t": "Gangguan radar picu penghentian penerbangan kedua di Bandara O'Hare Chicago dalam dua hari",
-      "what": "Kegagalan radar memicu ground stop kedua dalam dua hari di O'Hare, salah satu bandara tersibuk AS, mengganggu ribuan penumpang.",
-      "impact": "Dampak pasar kecil dan terbatas pada saham maskapai AS.",
-      "assets": "Saham maskapai AS",
-      "sev": "rendah",
-      "status": "berlangsung",
-      "cat": "transportasi",
-      "time": "2026-11-24T17:45:40Z",
-      "src": "Aviation A2Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BrQktocmNzVTJQNW15NXdFTmltVVExaHNJOFE4MjZkMUNaREhOWjFjS1NSaTBVMXZTU1FZVFFsdTVyUW54dHo2cjNfNkQxZW10YmJOaXhrbU0wM0RCaEJkTGRZZWEwdFB0aVVibXo2dU5DYTNtVHRGUjZPN2dxcGlxeGx5SF9iRXZmRTBtajd3VGpXY01aeHRnVm05M0JhcDlPaEEzcXB4bkRsV0tPQnJYT1N2dFBNcnlXV0QzMA?oc=5"
     },
     {
       "t": "WHO peringatkan wabah Ebola 'belum pernah terjadi' tanpa obat bisa menyebar luas",
@@ -2627,7 +2638,7 @@
       "impact": "Dampak pasar kecil sejauh ini; risiko siber menambah tekanan pada saham teknologi.",
       "assets": "Saham teknologi AS",
       "sev": "rendah",
-      "status": "berlangsung",
+      "status": "mereda",
       "cat": "siber",
       "time": "2026-11-24T19:47:00Z",
       "src": "Google News",
