@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T11:12:34Z",
+ "updatedAt": "2026-11-28T11:27:15Z",
  "source": "Google News RSS (deteksi otomatis)",
  "items": [
   {
@@ -48,9 +48,9 @@
    "title": "Spain's snap election — why it matters and who might win",
    "src": "TVP World",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1VWQTBJWE4zQ21BT1JibjZvTWJNYk5fZFByaFVJeXJzNmlfaEVqcFVXWVRKenFhWXYwNXRnSm5iVGxHb2JydUVlcWtSRWU1SWN0dzBMN3k4cVZQVG1GUnEwZEhyQ21HRU54d0Z2NkdwUU51VDM3cDY2ekVQeFhqWnFabE05TkRkd1dB?oc=5",
-   "sources": 11,
+   "sources": 9,
    "recent6h": 2,
-   "score": 12.0,
+   "score": 10.0,
    "level": "besar",
    "first": "2026-11-27T01:55:19Z",
    "last": "2026-11-28T09:21:00Z",
@@ -84,6 +84,92 @@
    "title_id": "Pemilu cepat di Spanyol — mengapa hal ini penting dan siapa yang mungkin menang"
   },
   {
+   "id": "perang-202611271550-f155",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Ukraine repels massive drone attack as Russia launches 162 UAVs overnight",
+   "src": "RBC-Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVRXc01DRFoyUlVxUTRZdkNfc3pRMHkwTzB4MEJwSDJ1dk1VRUNqRVlWWGhaVFNMTFd4c1NJM1M4Y2xWLUNCMlRlcS03SEdRY3pWN1h2MVBXLUJPVmpfM0N1a0FBTXMzckxIV2dBaUd2VVNOT3ktVGZNYURkZnl5dm5HQUlSalNCQkFLclByczZwNm5rcTc4eg?oc=5",
+   "sources": 5,
+   "recent6h": 1,
+   "score": 5.5,
+   "level": "sedang",
+   "first": "2026-11-27T15:50:15Z",
+   "last": "2026-11-28T07:20:26Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Fire reported near oil refinery in Russia's Rostov Oblast amid Ukrainian drone attack",
+     "src": "The Kyiv Independent",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0wyd3NDQmZYdkxZLTk4azlaNUt3YjQ4OTFPSmNNMi1IVWlqaDZ3UDhZU28tV19nbENrZXRzSWZqWVNkc1p6TGlNeF9BMWh6N1hZLUFRck1XYWY4MG9TYVkwTFFvQ2wyYWk5aFFLUi1IZjNBTlBIcFp0QXY2RzBEYi1FTm1pSndLdDBuVzNMX1JNd3dMbjctdnB6TElzRkNJT0QtWV9qbWFZUjdkUUREV3padw?oc=5",
+     "t_id": "Kebakaran dilaporkan terjadi di dekat kilang minyak di Oblast Rostov Rusia di tengah serangan pesawat tak berawak Ukraina"
+    },
+    {
+     "t": "Ukraine Strikes Russian Fuel Depots and Missile Plant as Blasts Rock St. Petersburg",
+     "src": "Vision Times",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUVrQnhGT3VLUDM4cVpIUG5aTlBnbjJPNEVrQWIybnhGSDBCV2JXMFlRNDJ5VXVubFBUbVYxcVBuRjNhUERwcUhLaWxER0NNakw2cnhBdVJ4NXhCa3RONEpuaG1acEptcmo5b0RpWmltX3NFbHlZMWpmd09qVGpoOW5zYWg0MUE1NWJOYWswbnowTzBEem1yMWl1bzdvMkNxd2hyaU9YX0RSYzVOTkxZX1dkaFhXSGxFVmxnSW1WVUQxMUdD?oc=5",
+     "t_id": "Ukraina Menyerang Depot Bahan Bakar dan Pabrik Rudal Rusia saat Ledakan Mengguncang St"
+    },
+    {
+     "t": "Finland Says Ukraine and Russia Wage Modern War",
+     "src": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVklwLWhiQjFWREdVNkpXMVNPV0M4VmMxZXZiX09td1NHZ01JMm9pWjhTdHJpZUhSNTRIcVBIOUN1ZUtibXY0UWVwLUNVX3M2UXUwLVRVcEd4SlB4UUxtdTRPUHRCeG1oNkU0LXBtWmJ0dHJtdUhEeEF4UTllbS1IZHdPaGg?oc=5",
+     "t_id": "Finlandia Mengatakan Ukraina dan Rusia Mengobarkan Perang Modern"
+    },
+    {
+     "t": "LIVE: Russia launches drone attack on Ukraine as casualties reported in strikes",
+     "src": "Latest news from Azerbaijan",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcURQYy1LeVg2OGp5azMtQUlLY0xzUy05NDVwNktzeGdmd1VYVTFwbUV5cHlDT2RaTjhaY0VtWFVwc2ljRHVCR1BmS2JFdEk2U2dxMW9EUGctUjJCYTU3eWdvQ1lYRThIcU5ETUlaT2NPTFlyRjRXRUs2WWFudnFHOFFrN29QMFpRbF85M1NzdDRUUTNVWUl4UjRQSXkzXzlI?oc=5",
+     "t_id": "LANGSUNG: Rusia melancarkan serangan drone ke Ukraina ketika korban dilaporkan dalam serangan tersebut"
+    }
+   ],
+   "title_id": "Ukraina menangkis serangan drone besar-besaran saat Rusia meluncurkan 162 UAV dalam semalam"
+  },
+  {
+   "id": "perang-202611271509-2599",
+   "cat": "perang",
+   "label": "Perang & serangan militer",
+   "lang": "en",
+   "title": "Iran war live: Tehran denies involvement after two killed in Kuwait drone strike",
+   "src": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+   "sources": 5,
+   "recent6h": 0,
+   "score": 5.0,
+   "level": "sedang",
+   "first": "2026-11-27T15:09:20Z",
+   "last": "2026-11-28T01:59:03Z",
+   "assets": "Minyak, emas, dolar AS, saham pertahanan",
+   "more": [
+    {
+     "t": "Iran Questions Kuwait Drone Attack, Suggests Possible False Flag Operation",
+     "src": "اسلام تايمز",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWg0NzVVX1ZObnRkNnAyZWdNekVVS0pMY2dxSlZuMnB6enVuX0NkXzJqRklObkJ2dTBBVWZNcERCS0JNbFNJakdQZldHUnA4cUJRYXBBWGZiTVBRTl92dmhjS3NkbDFHdDY0NTVMcXN4NmZ2U21oQ0o3VXRGRnhKN2xoSnpTWFNiMUdNeElZcTNLTUNERXVaek4xM05DRWx3eVdBOGNrN09QYWNQcXM0WUl6X1FvczQ?oc=5",
+     "t_id": "Iran Mempertanyakan Serangan Drone Kuwait, Menyarankan Kemungkinan Operasi Bendera Palsu"
+    },
+    {
+     "t": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles",
+     "src": "EnergyNow.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+     "t_id": "Zona Minyak Fujairah Terkena Kebakaran Setelah Serangan Drone saat UEA Mengatakan Mereka Mencegat Rudal Iran"
+    },
+    {
+     "t": "Kuwait drone attack kills 2 Italians; Iran denies role",
+     "src": "JournalArta",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ29pSXJTbjlSbURYQVJQQk5oRzA0UGVWS3NSSm5aVDV0LXBTRE03aWVCZVJoU2FYU3FFMEFpcnYtZEIzS1VIUDI3QVB2VzJlOHJYVVU5UGEtSm45SVZUOWdGTFZvMWRTQTFja2Y5VGlaejdrTUNMNGo1MmpZU1Q1elBlajdsNlV4ZmszcVlKTF93WUQ4MmZfVmxGODAyd21pYzE5OU93?oc=5",
+     "t_id": "Serangan drone Kuwait membunuh 2 orang Italia; Iran menyangkal peran tersebut"
+    },
+    {
+     "t": "Kuwait summons Iranian ambassador over deadly drone attack",
+     "src": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEVJOHdLVVF5aE1PNXJGLTlMVkZ0LWJPX3VoclJaOG45Qzdvc2xRZWh1TXVBblktQWNFemxVVEFtOVZnSTh2LWkyVlVseEZvbXozRVRMX0Eyb25jTFduY1gyakh3amM3OVd0Sk5Tb1F5eEpITDBJa2ZtUU80d3MxYVhJdGhRblo1b0JLNV91OWdwb0JETjZiTkprQS1vdjhCcjdfdEtn?oc=5",
+     "t_id": "Kuwait memanggil duta besar Iran atas serangan pesawat tak berawak yang mematikan"
+    }
+   ],
+   "title_id": "Perang Iran langsung: Teheran menyangkal keterlibatannya setelah dua orang tewas dalam serangan pesawat tak berawak Kuwait"
+  },
+  {
    "id": "kerusuhan-202611271124-d8e8",
    "cat": "kerusuhan",
    "label": "Kerusuhan & protes besar",
@@ -91,9 +177,9 @@
    "title": "Virginia declares state of emergency after powerful Thanksgi...",
    "src": "InsideNoVa",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWp2NmxNQUVSVWE4YXBCakhOZnBZMVZPb25rRTNzc0pwR0d5bGVrNlVsWkVoY01tMmJNZTBUc1IyM3hBQ3dmR2VhSkw0SUFsd3hJRWpmQnpFU0hCQ1lYdGQzOXhTUFRIQWc3SjdJV1A5R0h2ZGtiWWNTdktWU3RwdHZXeWVBNWNrN3lKYWlKUWVmRXU4WmZ4NlRiUkhCbTIyckRsRWl1dXdVWjI2Rm5MUQ?oc=5",
-   "sources": 5,
+   "sources": 4,
    "recent6h": 1,
-   "score": 5.5,
+   "score": 4.5,
    "level": "sedang",
    "first": "2026-11-27T11:24:56Z",
    "last": "2026-11-28T05:42:33Z",
@@ -116,77 +202,9 @@
      "src": "Yahoo News UK",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fT2hCbFlUaDhzTE9hNHdvZXYwRUpFN2laNTk2TVVoNG1kdlZCN1ZRMHFmbFRNRmM1ck1peTRoaVp4aDdVRGYxOElLR0l1VjNVenZyeE5fWmhHcVBIWk9pLTVRbUI1QW9kUWsyWHQ3ajVvRThSakdjMTZrdHhPNmM?oc=5",
      "t_id": "AS mengumumkan keadaan darurat ketika badai memicu kekacauan bagi ribuan orang"
-    },
-    {
-     "t": "State of emergency declared as US storms spark chaos- 2,600 flights disrupted",
-     "src": "The Mirror",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlFZYlBQdE1fSVNxblNJNlVud1hfUlFDNmJod0llWkkwY081TUFzczJQajR4ZTVONFlPRGtuR0p3cWNoX1IzNzNRMkVvbTB1Z2Z1OEx0V3hlSE1GdHhaUDl4VGlSMFZYOVhmdUtGU0Jqdm5tZ0lpbk90OHJyLWc4MkdtY1Zpdw?oc=5",
-     "t_id": "Keadaan darurat diumumkan ketika badai di AS memicu kekacauan - 2.600 penerbangan terganggu"
     }
    ],
    "title_id": "Virginia mengumumkan keadaan darurat setelah Thanksgiving yang kuat..."
-  },
-  {
-   "id": "perang-202611271550-f155",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Ukraine repels massive drone attack as Russia launches 162 UAVs overnight",
-   "src": "RBC-Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVRXc01DRFoyUlVxUTRZdkNfc3pRMHkwTzB4MEJwSDJ1dk1VRUNqRVlWWGhaVFNMTFd4c1NJM1M4Y2xWLUNCMlRlcS03SEdRY3pWN1h2MVBXLUJPVmpfM0N1a0FBTXMzckxIV2dBaUd2VVNOT3ktVGZNYURkZnl5dm5HQUlSalNCQkFLclByczZwNm5rcTc4eg?oc=5",
-   "sources": 3,
-   "recent6h": 1,
-   "score": 3.5,
-   "level": "sedang",
-   "first": "2026-11-27T15:50:15Z",
-   "last": "2026-11-28T07:20:26Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Fire reported near oil refinery in Russia's Rostov Oblast amid Ukrainian drone attack",
-     "src": "The Kyiv Independent",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0wyd3NDQmZYdkxZLTk4azlaNUt3YjQ4OTFPSmNNMi1IVWlqaDZ3UDhZU28tV19nbENrZXRzSWZqWVNkc1p6TGlNeF9BMWh6N1hZLUFRck1XYWY4MG9TYVkwTFFvQ2wyYWk5aFFLUi1IZjNBTlBIcFp0QXY2RzBEYi1FTm1pSndLdDBuVzNMX1JNd3dMbjctdnB6TElzRkNJT0QtWV9qbWFZUjdkUUREV3padw?oc=5",
-     "t_id": "Kebakaran dilaporkan terjadi di dekat kilang minyak di Oblast Rostov Rusia di tengah serangan pesawat tak berawak Ukraina"
-    },
-    {
-     "t": "LIVE: Russia launches drone attack on Ukraine as casualties reported in strikes",
-     "src": "Latest news from Azerbaijan",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcURQYy1LeVg2OGp5azMtQUlLY0xzUy05NDVwNktzeGdmd1VYVTFwbUV5cHlDT2RaTjhaY0VtWFVwc2ljRHVCR1BmS2JFdEk2U2dxMW9EUGctUjJCYTU3eWdvQ1lYRThIcU5ETUlaT2NPTFlyRjRXRUs2WWFudnFHOFFrN29QMFpRbF85M1NzdDRUUTNVWUl4UjRQSXkzXzlI?oc=5",
-     "t_id": "LANGSUNG: Rusia melancarkan serangan drone ke Ukraina ketika korban dilaporkan dalam serangan tersebut"
-    }
-   ],
-   "title_id": "Ukraina menangkis serangan drone besar-besaran saat Rusia meluncurkan 162 UAV dalam semalam"
-  },
-  {
-   "id": "perang-202611272308-ca0b",
-   "cat": "perang",
-   "label": "Perang & serangan militer",
-   "lang": "en",
-   "title": "Ukraine Strikes Russian Fuel Depots and Missile Plant as Blasts Rock St. Petersburg",
-   "src": "Vision Times",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUVrQnhGT3VLUDM4cVpIUG5aTlBnbjJPNEVrQWIybnhGSDBCV2JXMFlRNDJ5VXVubFBUbVYxcVBuRjNhUERwcUhLaWxER0NNakw2cnhBdVJ4NXhCa3RONEpuaG1acEptcmo5b0RpWmltX3NFbHlZMWpmd09qVGpoOW5zYWg0MUE1NWJOYWswbnowTzBEem1yMWl1bzdvMkNxd2hyaU9YX0RSYzVOTkxZX1dkaFhXSGxFVmxnSW1WVUQxMUdD?oc=5",
-   "sources": 3,
-   "recent6h": 0,
-   "score": 3.0,
-   "level": "sedang",
-   "first": "2026-11-27T18:36:27Z",
-   "last": "2026-11-28T01:15:50Z",
-   "assets": "Minyak, emas, dolar AS, saham pertahanan",
-   "more": [
-    {
-     "t": "Finland Says Ukraine and Russia Wage Modern War",
-     "src": "Wisevoter",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVklwLWhiQjFWREdVNkpXMVNPV0M4VmMxZXZiX09td1NHZ01JMm9pWjhTdHJpZUhSNTRIcVBIOUN1ZUtibXY0UWVwLUNVX3M2UXUwLVRVcEd4SlB4UUxtdTRPUHRCeG1oNkU0LXBtWmJ0dHJtdUhEeEF4UTllbS1IZHdPaGg?oc=5",
-     "t_id": "Finlandia Mengatakan Ukraina dan Rusia Mengobarkan Perang Modern"
-    },
-    {
-     "t": "Ukraine war latest: Ukraine hits missile fuel production facility in Russia's Tula Oblast, military says",
-     "src": "The Kyiv Independent",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2xOLTBrY2RGTDJZRjBfVWlIemJMQmh5SzRKWkhIdXkyeEVRbUc0R1RWR2FLek9rYjgwR2FPcUJ2Qjd2LXV6eDVRd19VUjVpT2xWTVc5S1RtUjNhWUo4OUtKSkZTcGlWTTJscTlWeDdQMDNyT1ZaRFlDcW1vVHBST0ZTZGt5a0ZiU1psZVN4ZVFTMlh4dm9ZRlRMbUc5WW5uZDk2RjdBMjNjakYxSF9felcyV25udkdtSlhvcmNuaGRLU3ZldHN3ZW1n?oc=5",
-     "t_id": "Perang Ukraina terbaru: Ukraina menyerang fasilitas produksi bahan bakar rudal di Oblast Tula Rusia, kata militer"
-    }
-   ],
-   "title_id": "Ukraina Menyerang Depot Bahan Bakar dan Pabrik Rudal Rusia saat Ledakan Mengguncang St"
   },
   {
    "id": "perang-202611280313-98c2",
@@ -196,14 +214,20 @@
    "title": "Saudi-Led Coalition Intercepts Houthi Ballistic Missile Targeting Southern Saudi Arabia Amid Rising Yemen Conflict Tensions",
    "src": "The Sunday Guardian",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdkR4Mk5xSW1XTTZTcVRreDFYbW9lWTk0TUFWYWxQMzEwd3RTUU9DXzBKMmhHZGFjM3dobnBPclg3NTlleWxXMFJvVWJxdFBHcDQ3QmhJOWV3TTV5MXJadl9pMFlwRDhoLUtPb052TlJyWHpOcldsT2cxaDRpS2pkdTI2TUdwc1hoUGg5Vi1YbmpTcXdLQnV3Y3o5QmZpZWp1c1ZNb2lGZ1BReWNWLWpWV0VVWWUyN0VCLXk3ZWJ2b19QYzZpUTRSUW4ySk9XbHVFLTVNUHAxdHlhR19kcnRydHA4dDhXeUVOci1zQ3JVaU90S3lxb3hzSDE1WlNqd3VSQnfSAYICQVVfeXFMTnZEeDJOcUltV002U3FUa3gxWG1vZVk5NE1BVmFsUDMxMHd0U1FPQ18wSjJoR2RhYzN3aG5wT3JYNzU5ZXlsVzBSb1VicXRQR3A0N0JoSTlld001eTFyWnZfaTBZcEQ4aC1LT29Odk5Sclh6TnJXbE9nMWg0aUtqZHUyNk1HcHNYaFBoOVYtWG5qU3F3S0J1d2N6OUJmaWVqdXNWTW9pRmdQUXljVi1qVldFVVllMjdFQi15N2Vidm9fUGM2aVE0UlFuMkpPV2x1RS01TVBwMXR5YUdfZHJ0cnRwOHQ4V3lFTnItc0NyVWlPdEt5cW94c0gxNVpTand1UkJ3?oc=5",
-   "sources": 2,
-   "recent6h": 1,
-   "score": 2.5,
-   "level": "kecil",
+   "sources": 3,
+   "recent6h": 2,
+   "score": 4.0,
+   "level": "sedang",
    "first": "2026-11-28T03:13:58Z",
    "last": "2026-11-28T09:47:41Z",
    "assets": "Minyak, emas, dolar AS, saham pertahanan",
    "more": [
+    {
+     "t": "Air defenses intercept Houthi ballistic missile targeting Saudi Arabia’s southern region",
+     "src": "Arab News",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUmRDVXQzS2ZBQjM5NUtnVzhxOXFKcVF5ZC1zZ2c4R1dvU2xjaG9vbFNYZm9UanNJUHZJQlhsYW5mUWRmdzE4aE56WXR1ZW4wbnlvaFZvNmdiUUZUdHNXMm5aRkszX3loTlVkZ0daclA5Uk5yVTFWODBHYWgzX2xZaklCTlVENlpkb0g1YWdkcGRCcV9rSDNKb1JtN3hYMFFCcW5FSVE3STRWcW84RTE2WVluQTBldnZOdjJDRnNUMUstWlJmUXAzOWRQQWRwUQ?oc=5",
+     "t_id": "Pertahanan udara mencegat rudal balistik Houthi yang menargetkan wilayah selatan Arab Saudi"
+    },
     {
      "t": "Middle East latest: Saudi Arabia intercepts Houthi cruise missile launched at Riyadh",
      "src": "The National",
