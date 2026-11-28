@@ -1448,6 +1448,17 @@
       "ihsg": 5338.457,
       "usdidr": 18295.0,
       "ust10": 4.936
+    },
+    {
+      "t": "2026-11-28T06:58:21Z",
+      "risk": 75,
+      "btc": 59803.58,
+      "gold": 3668.5,
+      "brent": 90.84,
+      "spx": 7297.49,
+      "ihsg": 5338.457,
+      "usdidr": 18295.0,
+      "ust10": 4.936
     }
   ],
   "horizons": [
@@ -2026,10 +2037,10 @@
     },
     {
       "c": "neu",
-      "d": "-1,02% hari ini",
+      "d": "-1,14% hari ini",
       "h": "btc",
       "k": "Bitcoin",
-      "v": "$59.880"
+      "v": "$59.804"
     },
     {
       "c": "neu",
@@ -2063,7 +2074,7 @@
   "regimeTitle": "Saham AI goyah, rupiah tertekan, Fed condong naik",
   "risk": 75,
   "riskNote": "Risiko tinggi: yield AS naik, rupiah melemah, Hormuz belum tenang; IHSG rebound dan Brent turun meredam.",
-  "updatedAt": "2026-11-28T03:58:16Z",
+  "updatedAt": "2026-11-28T06:58:21Z",
   "cycles": [
     {
       "id": "ekonomi",
@@ -2384,7 +2395,7 @@
       "Wall Street menutup pekan dengan rebound saham AI (S&P 500 ~7.297, pekan terbaik dalam 19 bulan); IHSG naik 3,73% sepekan ke ~5.338.",
       "Rupiah melemah ke sekitar Rp18.300–18.400 per dolar AS; BI menyiapkan intervensi pasar dan transaksi mata uang lokal untuk menjaga rupiah pada 2027.",
       "Imbal hasil obligasi AS 10 tahun ~4,94% dan peluang kenaikan bunga Fed Desember masih tinggi; tarif baru AS atas China dan Uni Eropa dilaporkan disiapkan.",
-      "Ketegangan Selat Hormuz berlanjut; Brent ~$91, emas rebound ~$3.668, Bitcoin ~$59.900.",
+      "Ketegangan Selat Hormuz berlanjut (dua tanker dilaporkan kena ranjau); Brent ~$91, emas ~$3.668, Bitcoin turun di bawah $60.000 di tengah arus keluar ETF.",
       "Pantau OPEC+ 29/11, MSCI 30/11, data tenaga kerja AS 4/12 dan rapat Fed 8–9 Des."
     ]
   },
